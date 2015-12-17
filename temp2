@@ -1,0 +1,16 @@
+int strTimes(char* str, char* word)
+{
+   int times = 0;
+   char* p = str;
+   while(p && *p)
+   {
+	  p = strstr(p, word);
+	  if(p != NULL)
+	  {
+		 p += strlen(word);
+		 times++;
+	  }
+   }
+
+   return times;
+}

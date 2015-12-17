@@ -1,0 +1,29 @@
+int find_comma_num_out(char* line)		//找到里面内容部分的标点数量
+{//找到字符串里面目标符号的数量
+   
+   char comma[7][5] = {
+	  {","},
+	  {"、"},
+	  {"，"},
+	  {"。"},
+	  {"\""},
+	  {"“"},
+	  {"”"},
+   };
+   int comma_num = 0;
+   //LablePosPair* wordPair = (LablePosPair*)malloc(sizeof(LablePosPair));
+   //wordPair->next = NULL;
+   //out_content_scope(line, wordPair);
+   //LablePosPair* p = wordPair->next;
+
+   int i = 0;
+   int j=0;
+   while(j < 7)
+   {
+	  comma_num += strTimes(line, comma[j]);
+	  j++;
+   }
+
+      
+   return comma_num;
+}
