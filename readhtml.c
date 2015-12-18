@@ -1,3 +1,20 @@
+/*************************************************************************
+    > File Name: readhtml.c
+    > Author: lvchao0428
+    > Mail: 410148119@qq.com 
+    > Created Time: Fri Dec 18 09:33:39 2015
+ ************************************************************************/
+
+#include<stdio.h>
+#include"readhtml.h"
+
+void push_url(UrlBuf** ub, UrlBuf* src)
+{
+   UrlBuf* head = *ub;
+
+   if
+}
+
 int read_urls_to_UrlBuf(UrlBuf** ub, char* urlfilename)
 {
    FILE* fp;
@@ -57,4 +74,24 @@ int read_urls_to_UrlBuf(UrlBuf** ub, char* urlfilename)
 
    return 1;
 
+}
+
+void read_url_with_siss(UrlBuf** urls, char* urlsissfilename)
+{
+   FILE* fp;
+   char* line = NULL;
+   size_t len = 0;
+   ssize_t read;
+
+   fopen(fp, urlsissfilename);
+   if(!fp)
+   {
+	  printf("open siss file failed.\n");
+	  exit(1);
+   }
+
+   while((read = getline(&line, &len, fp)) != -1)
+   {
+	  
+   }
 }

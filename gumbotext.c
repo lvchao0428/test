@@ -767,12 +767,36 @@ void find_first_node(GumboNode* root, GumboNode** fnode)
 	  if(find_comma_num_out(root->v.text.text) > 3)
 	  {
 		 //find the lastest div
+		 //if above div is table,chose the table
+		 //
 		 GumboNode* p = root;
-		 while(p && p->parent && p->v.element.tag != GUMBO_TAG_DIV)
+		 GumboNode* iftablep = root;
+		 
+		 while(iftablep)
 		 {
-			p = p->parent;
+			if(iftablep->v.element.tag == GUMBO_TAG_TABLE)
+			{
+			   break;
+			}
+			else
+			{
+			   iftablep = iftablep->parent;
+			}
 		 }
-		 *fnode = p;
+		 //else
+		 if(!iftablep)
+		 {
+			while(p && p->parent && p->v.element.tag != GUMBO_TAG_DIV)
+			{
+			   p = p->parent;
+			}
+			*fnode = p;
+		 }
+		 else
+		 {
+			*fnode = iftablep;
+		 }
+
 		 return;
 	  }
 	  else
@@ -842,7 +866,7 @@ int main(int argc, char* argv[])
    cleantext(contentNode, &content);
    printf("**************************************\n");
    print_Node(contentNode);
-   
+
    printf("title:%s\n", cleanTitle);
    printf("time:%s\n", time);
    //printf("contentlable:%s\n", gumbo_normalized_tagname(contentNode->v.element.tag));
