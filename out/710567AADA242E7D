@@ -1,0 +1,730 @@
+<!--UINFO: http://bbs.hexun.com/post_153_9101141_1_d.html	length=63630&last_modified=0&time_saved=1450677193&charset=gb2312-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>
+	2015 U.S.News美国大学本科排名10-20大学-社会杂谈-社会生活-品质生活-和讯论坛
+</title>
+	<link href="/s/p/a.css?0915" type="text/css" rel="stylesheet"/>
+<link href="/css/bbs2013.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/s/p/h.js?a"></script>
+<style type="text/css">
+.admA,.ipedit{display:none;}
+</style>
+<script type="text/javascript" language="javascript">
+var boardUrl = 'http://bbs.hexun.com/board_153_all_1_d.html';
+var post = {id:9101141,boardId:153,title:'2015 U.S.News美国大学本科排名10-20大学',isTop:false,
+    isEssence:false,
+    isValid:true,isRecomment:false,isLock:false,
+    isMark:false,av:0};
+
+
+function $(id) { return document.getElementById(id); }
+
+var hasCopyMsg = '已复制帖子信息，请按Ctrl+V粘贴到MSN,QQ或Email分享给朋友吧！';
+function getShareText(){
+    var t = post.title;
+    var url = location.href;
+    var txt = (t + '\r\n' + url);
+    return txt;
+}
+
+function fixImg(oimg){
+    if(oimg.processError)return;   
+    var src = oimg.src;
+    oimg.processError = true;                
+    oimg.src = 'http://f200-9.bbs.hexun.com/service/externalImg.aspx?t='+new Date().getTime()+'&src=' + src.encodeURI();
+}
+</script>
+</head>
+<body>
+
+<div id="wrap">
+<?xml version="1.0" encoding="gb2312"?>
+<style type="text/css">
+#zt_head2011{ width: 100%; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 0; height: 34px; font-size: 12px; overflow: hidden; }
+#zt_head2011 a{ text-decoration: none; }
+#zt_head2011 a:hover{ text-decoration:underline; }
+#zt_head2011 *{ padding: 0; margin: 0; font-size: 12px; }
+#zt_head2011 img{ border: 0;}
+#zt_head2011 .ztlogo{ float: left; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 -83px; height: 34px; padding: 0 22px 0 22px; }
+#zt_head2011 .ztlink{ float: left; padding: 10px 0 0 12px; line-height: 14px;color: #c7e0ff; }
+#zt_head2011 .ztlink a{ color: #c7e0ff; }
+
+#zt_head2011 .loginT{ color:#c7e1fc; width:320px; float:right; text-align:right;height:27px; padding-top:7px; padding-right:10px;color: #c7e0ff;}
+#zt_head2011 .loginT span.news{ display:inline-block; height:19px; line-height:19px; background:#cccccc; padding:0px 5px; color:#000}
+#zt_head2011 .loginT span.news a{color:#000!important}
+#zt_head2011 .loginT a{color: #c7e0ff;}
+#zt_head2011 .loginT .input1{ background:url(/index/root/images/input1.jpg); width:120px; padding-left:3px; height:19px; line-height:19px; border:none}
+#zt_head2011 .loginT .input2{ background:url(/index/root/images/psw.jpg); width:66px; height:19px;border:none}
+#zt_head2011 .loginT .btn1{ background:url(/index/root/images/login.jpg); width:39px; height:19px; border:none; vertical-align:middle}
+
+</style>
+<div id="zt_head2011">
+ <div class="ztlogo"><a href="http://www.hexun.com" target="_blank"><img src="http://img.hexun.com/2010/logo/zt_logo.gif" alt="和讯" border="0" /></a><a href="http://bbs.hexun.com/" target="_blank" ><img src="/index/root/images/bbs.jpg" alt="" border="0" /></a></div>
+	<div class="ztlink"><a href="http://www.hexun.com" target="_blank">和讯首页</a> <a href="http://blog.hexun.com/" target="_blank">博客</a> <a href="http://t.hexun.com/default.html" target="_blank">微博</a> <a href="http://kd.hexun.com/" target="_blank">看点</a> <a href="http://wenda.hexun.com/" target="_blank">问达</a> <a href="http://bbs.hexun.com/" target="_blank" >论坛</a> <a href="http://guba.hexun.com/" target="_blank">股吧</a> <a href="http://jijinba.hexun.com/" target="_blank">基金吧</a> <a href="http://pic.bbs.hexun.com/pic/index.html" target="_blank">组图</a> <a href="http://mail.hexun.com/" target="_blank">邮箱</a> <a href="http://game.hexun.com/" target="_blank">游戏</a>
+	</div>
+
+ <div class="loginT" id="divHRight">
+  </div>
+ </div>
+<div class="clear"></div>
+<script type="text/javascript">
+if(top.location != location)top.location.href = location.href;
+$debug = false;
+</script>
+
+	<table class="banner" style="width: 100%;display:none" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td id="adTopLeft" width="784"><a href="http://bbs.hexun.com/" target="_blank"><img src="http://f200-9.bbs.hexun.com/e/100318/150926.jpg" alt="好风光"/></a></td><td id="adTopRight"><ul><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯解和论坛吗</a></li><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯论坛吗解和</a></li><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯论坛吗解和</a></li><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯论坛吗解和</a></li></ul></td></tr></tbody></table>
+<div id="roadlink">
+<div class="road"><a href="http://bbs.hexun.com/board_1_all_1_d.html" target="_top">和讯论坛</a> &gt; <a href="http://bbs.hexun.com/board_3_all_1_d.html" target="_top">品质生活</a> &gt; <a href="http://bbs.hexun.com/board_152_all_1_d.html" target="_top">社会生活</a> &gt; <a href="http://bbs.hexun.com/board_153_all_1_d.html" target="_top">社会杂谈</a></div>
+<div class="rigser"><form method="get" action="/search" style="display:inline" target="_blank">
+<p><input name="q" style="padding-bottom: 0px; line-height: 16px; padding-left: 2px; width: 150px; padding-right: 2px; height: 16px; color: #8b8b8b; padding-top: 0px;"  type="text" value="输入关键词" onfocus="if(this.value=='输入关键词')this.value='';" /> 
+<label><select style="color: #8b8b8b;" name="type">
+<option value="1">标题</option>
+<option value="16">作者</option>
+<option value="2">正文</option>
+</select>
+</label>  
+<input type="image" src="/clientfiles/post/img/btn_ser.gif" alt="搜索" align="absMiddle" />
+</p>
+</form></div>
+</div>
+<div id="content">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" style="padding-right:10px;" id="tdContent"><a name="top"></a>
+<div style="height:28px;clear:both">
+<div style="float:left;width:200px;">
+<a href="/newpost.aspx?bid=153" target="_blank"><img src="/clientfiles/post/img/btn_fb.gif" /></a>
+<a href="/newreply.aspx?bid=153&postId=9101141" target="_top"><img src="/clientfiles/post/img/btn_hf2.gif" /></a>
+</div>
+
+
+</div>
+<div class="artcont" style="overflow-x:hidden;width:766px" id="divPosts">
+<div class="arttitle" id="divTitle"> <b>点击：<span id="pv" class="fc00">...</span>   回复：<span class="fc00">0</span></b>
+主题：<strong>2015 U.S.News美国大学本科排名10-20大学</strong> 
+<img src="/icons/default.gif"align="absmiddle" alt='默认' title='默认' /></div>
+<!--发帖人信息-->
+
+<dl class="ftrmod">
+<dt style="width:65px;"><a href="/u_26767421/_d.html" target="_blank"><img width="46" height="46" src="http://logo1.tool.hexun.com/13d7098-40.jpg" /></a></dt>
+<dd>
+<h3><span> 发表于： [2015-12-02 16:40:39]</span>
+<strong class="f06c0">楼主：<a target="_blank" href="/u_26767421/_d.html" class="f06c0">ぃsimpletonっ</a></strong> [<a target="_blank" href="/u_26767421/_d.html"  class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('qqvagex8w6');"  class="f666">发送纸条</a>] [<a href="http://blog.hexun.com/26767421/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/26767421/" class="f666" target="_blank">微博</a>]</h3>
+<p>等级：<span id="dvGradeName">...</span>&nbsp;&nbsp;积分：<span id="dvuserpoint">...</span></p>
+</dd>
+</dl>
+
+<div class="clear"></div>
+
+<div class="txtmain">
+　　<font face="微软雅黑"><font style="font-size:12pt">来源：互联网   责任编辑：海蛋网</font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">加州理工学院</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">                 2015 U.S.News</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">美国大学</font></font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">本科排名：10</font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">加州理工学院</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">（California Institute of Technology），简称</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">CIT/Caltech</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">，校园位于洛杉矶市区东北郊。规模不大，但在《泰晤士报高等教育》2012-2014年全球大学排名中位列第1而哈佛大学退居第二。被作为CBS美剧《生活大爆炸》的背景地。</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">加州理工学院</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">在2000年《美国新闻与世界报道》年度大学排行中名列全美大学第1位。加州理工学院2010年世界大学学术综合排名列第6名，人均贡献排名第1名。在2013年世界大学百强排行榜上以95.5分蝉联榜首，领先于牛津大学和斯坦福大学。</font></font></font></p><p>　　<font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)"> </font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">达特茅斯学院</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">                  2015 U.S.News</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">美国大学</font></font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">本科排名：11</font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">达特茅斯学院</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">（Dartmouth College）成立于1769年，美国历史最悠久的学院之一，也是闻名遐迩的常春藤学院之一。</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">达特茅斯学院</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">除拥有文学艺术类的本科课程外，</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">达特茅斯学院</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">还拥有医学院，工程学院，商学院以及18个自然科学和人文社科方面的研究生项目，基于此，按照美国的通行标准，达特茅斯学院被称为“大学”似乎更为合适。然而鉴于传统的影响，并为了突出该校对于本科教育的极度重视，达特茅斯一直以“学院”名世。在2014年美国新闻与世界报道（U.S.News & World Report）大学排名中，达特茅斯学院名列第九。</font></font></font></p><p>　　<font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)"> </font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">约翰霍普金斯大学&amp;#8194;</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">             2015 U.S.News</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">美国大学</font></font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">本科排名：12</font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">约翰・霍普金斯大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">（The Johns Hopkins University），简称</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">Hopkins</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">或</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">JHU</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">，成立于1876年，是美国第一所研究型</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">，也是</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">美国大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">协会（AAU）14所创始校之一，是一所著名</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">私立大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">。美国国家科学<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%BB%F9%BD%F0&x=12&y=12" target="_blank">基金</a>会（NSF）连续33年将该校列为全美科研经费开支最高的大学。2014年《美国新闻与世界报道》世界大学排名将其列为美国第9、世界第11；英国《泰晤士报》高等教育增刊将其列为世界第15。该校医学院的教学研究单位约翰・霍普金斯医院（JHH）连续21年被评为全美最佳医院。</font></font></font></p><p>　　<font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)"> </font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">西北大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">                     2015 U.S.News</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">美国大学</font></font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">本科排名：13</font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">西北大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">（Northwestern University），简称</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">NU</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">，1851年创立，是美国著名的高等学府之一，十大联盟高校。位于伊利诺州的埃文斯顿市，临近芝加哥。</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">西北大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">Northwestern University在2014年美国大学排名上位列第12位，2014泰晤士全球大学排行第22位。该校由John Evans先生创办于1851年 ，至今已有一百多年的历史。西北大学位于美国伊利诺伊州的小镇埃文斯通。西北大学有6个学院，包括文理学院、语言学院、音乐学院、梅迪尔新闻学院、迈科密克工程及应用科学学院、教育及社会政策学院。</font></font></font></p><p>　　<font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)"> </font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">圣路易斯华盛顿大学&amp;#8194;</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">             2015 U.S.News</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">美国大学</font></font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">本科排名：14</font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">华盛顿大学-圣路易斯</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">Washington University in St. Louis，简称（Wash U，WU）以美国国父乔治・华盛顿命名，始建于1853年2月22日，位于美国密苏里州圣路易斯市，是一所美国著名的无宗教关联的私立研究型大学。是美国历史上建校最早也是最负盛名的“华盛顿大学”，该校在美国新闻和世界报道（US News & World Report）2014大学综合排名中名列14位，超过康奈尔大学、布朗大学等多个“常春藤”名校；2013年世界大学学术排名（ARWU）全球第31位；2013年泰晤士报世界大学排名42名，2015USnews世界大学排名41名；美国9所“新常春藤”名校之一。华盛顿大学-圣路易斯分为四个校区：丹佛斯（Danforth Campus）校区、医学院校区、西校区、北校区和泰森研究中心。</font></font></font></p><p>　　<font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)"> </font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">康奈尔大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">                    2015 U.S.News</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">美国大学</font></font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">本科排名：15</font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">康奈尔大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">是一所位于美国东北纽约上州手指湖地区伊萨卡市的综合研究型大学，另有两所分校位于纽约市和卡塔尔教育城，是著名的常春藤联盟成员。</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">康奈尔大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">由埃兹拉・康奈尔和安德鲁・迪克森・怀特于1865年建立，为八个常春藤名校中唯一一所在美国独立战争后创办。</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">康奈尔大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">的立校之本是任何人都有获得教育的平等权利，是常春藤盟校中第一所实行性别平等的男女合校大学，招生录取上不管贵族身份，不分信仰和种族，并且其校训的宗旨是创建学科齐全、包罗万象的新型综合性大学，因而该校一直被誉为美国历史上第一所具有真正意义的全民大学。</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">康奈尔大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">也是常春藤名校中唯一采用公私合营的办学模式，最初以农工学院起家，其酒店管理学院、工业与劳工关系学院为全美首创。</font></font></font></p><p>　　<font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)"> </font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">布朗大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">                       2015 U.S.News</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">美国大学</font></font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">本科排名：16</font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">布朗大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">（Brown University），是常春藤联盟之一，1764年刚创建之初叫罗得岛学院，全美第七古老的高校。该校最大的特征之一就是小而精，在当今大学人数不断增长的环境下，布朗大学堪称小型的研究型大学，全职教师不到700人，本科生6000人，研究生2000人，但在这样少量的教师队伍中，就有五位诺贝尔奖得主，还有两位校友获得诺贝尔奖。布朗大学的入学竞争极为激烈，本科生入学率为9.6%，这是全美所有具有博士授予权的高校中列于第6最低的接受率。</font></font></font></p><p>　　<font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)"> </font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">圣母大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">                       2015 U.S.News</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">美国大学</font></font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">本科排名：16</font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">圣母大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">（University of Notre Dame，又音译为诺特丹大学），始建于19世纪中期，是一所私立天主教大学、研究型大学，位于美国印地安纳州圣的南本德。在2001-2009年《美国新闻与世界报导》所作的年度大学评估中，</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">圣母大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">University of Notre Dame本科教育名列全美大学第18名，被《纽约时报》给予最高的五颗星的学术评分。</font></font></font></p><p>　　<font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)"> </font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">范德比尔特大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">               2015 U.S.News</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">美国大学</font></font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">本科排名：16</font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">范德堡大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">（Vanderbilt University），简称Vandy，又名</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">范德比尔特大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">，是位于美国田纳西州纳什维尔市的一所著名的私立研究型大学。学校创立于1873年。享有“南方哈佛的美誉”Harvard of the South"和全美新藤校联盟之一。2009年，美国《<a href="http://bbs.hexun.com/search/?bid=&type=4&q=%B2%C6%B8%BB&x=31&y=10" target="_blank">财富</a>》杂志将范德堡大学评为“全美最佳100名雇主”，也是入选榜单上唯一一所大学。</font></font></font></p><p>　　<font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)"> </font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">莱斯大学&amp;#8194;</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">                   2015 U.S.News</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">美国大学</font></font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">本科排名：19</font></font></font></p><p>　　<a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:10.5pt">莱斯大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">（Rice University），1892年由德克萨斯州棉花巨富威廉・马歇尔・莱斯William Marshall Rice创建的</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">莱斯大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">（Rice University），位于美国南方宁静的得克萨斯州休斯敦市郊，离市中心仅三英里车程。 </font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">莱斯大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">曾与其它两所，北卡罗来纳州的</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt">杜克大学</font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">、田纳西州的Vanderbilt University齐名，号称为南方哈佛The Harvard of the South。 一直以来，莱斯大学在权威的《美国新闻与世界报道》全美综合大学排名中名列前20位，在最新的2015年《美国新闻与世界报告》排名为第19名。在《普林斯顿评论》2007年大学排名中，莱斯在“最佳生活质量”中排名第一，“众多比赛/课堂互动”的大学中位列第一。莱斯大学在“最佳价值”私立大学中位列第一。与斯坦福大学，加州理工学院，麻省理工学院等25所高校被称为“新常春藤”院校。</font></font></font></p><p>　　<font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">    以上就是</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">海蛋留学</font></font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">小编分享的内容，那么各位小伙伴们有什么不同的意见或建议可以随时留言给</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">海蛋留学小编</font></font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">哦，</font></font></font><a href="javascript:void(0)" onclick="if(confirm('此网址为非和讯网网址，确实要跳转吗？'))window.open('http://seaeggs.com/School')"><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">海蛋留学</font></font></font></a><font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)">小编等着你哦！</font></font></font></p><p>　　<font face="微软雅黑"><font style="font-size:12pt"><font color="rgb(85, 85, 85)"> </font></font></font>
+<div style=" width:100%; text-align:center;"><a style="font-size:large; color:Red; font-weight:bold;" href="http://bbs.hexun.com/" target="_blank">查看更多精彩内容请进论坛首页</a></div>
+</div>
+
+<div class="bqdiv">
+
+</div>
+
+<style type="text/css">
+ .fl{ float:left; display:inline;}
+ .fr{ float:right; display:inline;}
+ .clearfix:after{
+     content:'.';
+     display:block;
+     width:0;
+     height:0;
+     overflow:hidden;
+     visibility:hidden;
+     clear:both;
+ }
+ .mb15{ margin-bottom:15px; *margin-bottom:10px;}
+ .clearfix{ zoom:100% }
+.shareBox{ width:354px; float:left; display:inline; margin-left:35px; overflow:visible;height:20px; padding-top:0px; line-height:18px;font-size:12px; text-align:right; color:#d9d9d9}
+.shareBox span{color:#666; vertical-align:middle}
+.shareBox span.word_desc{color:#666; display:inline-block; padding-top:1px;}
+.ssina_btn,.sqq_btn,.skx_btn,.srr_btn,.sdb_btn,.shxwb_btn,.ssohu_btn,.sqqz_btn{display:inline-block; margin:0px 8px; width:0px; height:20px; padding-left:16px;background:url(http://img.hexun.com/home/icons-share.gif) no-repeat 0 2px; vertical-align:middle; position:relative;}
+.ssina_btn{background-position:0px -198px;}
+.sqq_btn{background-position:0px -162px;}
+.skx_btn{background-position:0px -37px;}
+.srr_btn{background-position:0px -77px;}
+.sdb_btn{background-position:0px -117px;}
+.ssohu_btn{background-position:0px -234px;}
+.sqqz_btn{ background-position:0px -269px;}
+.shareBox a div{ position:absolute; overflow:hidden; width:0px;background:url(http://img.hexun.com/home/sharetip.gif) no-repeat 0 0px;height:20px; padding-top:2px; color:#666; text-align:center;text-decoration:none; line-height:18px; }
+.shareBox a:hover{ text-decoration:none}
+.shareBox a:hover div,.shareBox a .on{ top:-20px; width:91px; left:-38px}
+#douban div{ background-position:0px -22px;}
+#douban a:hover div,#douban .on{ top:-20px; width:91px; left:-64px}
+    /*cwb*/
+    .shareBox_longweibo{ margin-right:105px;}
+    .shareBox_longweibo span{ height:26px; line-height:26px; color:#666666;}
+    .pt5{ padding-top:5px;}
+</style>
+<div class="cwbShare clearfix pt5 mb15">
+    <div class="shareBox" id="share"><span class="word_desc">将本文分享至：</span><a name="和讯微博" href="javascript:void((function(s,d,e,t,z){var f='http://t.hexun.com/channel/shareweb.aspx?',u=z||d.location,p=['title=',e(t||d.title),'&amp;url=',e(u)].join('');function a(){if(!window.open([f,p].join(''),'wb'))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else a();})(screen,document,encodeURIComponent,'',''));" class="shxwb_btn"><div class="">分享到和讯微博</div></a>|<a class="ssina_btn" href="#" target=_blank id=sina><div>分享到新浪微博</div></a>|<a href="#" target=_blank id=sohu name="分享到搜狐微博" class="ssohu_btn"><div>分享到搜狐微博</div></a>|<a href="#" target=_blank id=qq class="sqq_btn"><div>分享到腾讯微博</div></a>|<a class="skx_btn" id=kaixin target=_blank href="#"><div>分享到开心网</div></a>|<a href="#" target=_blank id=renren class="srr_btn"><div>分享到人人网</div></a>|<a href="#" id=douban class="sdb_btn"  target=_blank><div>分享到豆瓣网</div></a></div>
+
+        <div class="fr">
+					<div class="shareBox_longweibo">
+						<span class="fl">将文本：</span>
+						<a class="fl" id="CreateCWB" href="javascript:void(0);" onclick="goCwb();"><img alt="生成长微博" src="/img/cwb_btn.png" /></a>
+						<a class="fl" id="createCWB2" href="http://hexuncom.blog.hexun.com/81128788_d.html" target="_blank"><img alt="" src="/img/cwb_help.png" /></a>
+					</div>
+    </div>
+</div>
+<script type="text/javascript">
+function shareHexunAll(){
+	var db=document.getElementById("douban");
+	if(db!=null){
+		db.href='http://www.douban.com/recommend/?url='+encodeURIComponent(document.location.href)+'&title='+encodeURIComponent(document.title);
+	}
+	
+	var qq=document.getElementById("qq");
+	if(qq!=null){
+		qq.href='http://v.t.qq.com/share/share.php?url='+encodeURIComponent(document.location.href)+'&title='+encodeURIComponent(document.title);
+	}
+	
+	var rr=document.getElementById("renren");
+	if(rr!=null){
+		rr.href='http://share.renren.com/share/buttonshare.do?link='+encodeURIComponent(document.location.href)+'&title='+encodeURIComponent(document.title);
+	}
+	
+	var kx=document.getElementById("kaixin");
+	if(kx!=null){
+		kx.href='http://www.kaixin001.com/repaste/share.php?rtitle='+escape(document.title)+'&rurl='+encodeURIComponent(document.location.href)+'&rcontent=';
+	}
+	
+	var sohu=document.getElementById("sohu");
+	if(sohu!=null){
+		sohu.href='http://t.sohu.com/third/post.jsp?&url='+escape(window.location.href)+'&title='+escape(document.title);
+	}
+	
+	var sina=document.getElementById("sina");
+	if(sina!=null){
+		sina.href='http://v.t.sina.com.cn/share/share.php?title='+encodeURIComponent(document.title)+'&url='+encodeURIComponent(location.href)+'&source=bookmark';
+	}
+
+//	var cwb = document.getElementById("CreateCWB");
+//	if (cwb != null) {
+//		cwb.href = 'http://cwb.tool.hexun.com/?tcode='+ 9101141 +'&mt=2&title=' + encodeURIComponent('2015 U.S.News美国大学本科排名10-20大学') + '&url=' + encodeURIComponent(location.href) + '&t=' + new Date().getTime();
+//	}
+}
+shareHexunAll();
+
+function goCwb() {
+	//alert('ok');
+  window.open('http://cwb.tool.hexun.com/?tcode='+ 9101141 +'&mt=2&title=' + encodeURIComponent('2015 U.S.News美国大学本科排名10-20大学') + '&url=' + encodeURIComponent(location.href) + '&t=' + new Date().getTime());
+}
+
+var btnList = document.getElementById('share').getElementsByTagName("a")
+var btndiv = document.getElementById('share').getElementsByTagName("div")
+for(var i=0;i<btnList.length;i++){
+   (function(i){
+btnList[i].onmouseover = function(){
+btndiv[i].className='on'
+}
+btnList[i].onmouseout = function(){
+btndiv[i].className=''
+}
+})(i)
+}
+</script>
+   
+ <div class="ipedit" id="divIPEdit">
+    <span class="right">用户IP:<span id="ip"></span>  来自：<span id="address"></span></span>
+    <a href="javascript:void(0)" target="_self" onclick="setTop(event)" id="cmdTop">置顶</a>  
+    <a href="javascript:void(0)" target="_self" onclick="setEssence(event)" id="cmdEssence">精华</a>  
+    <a href="javascript:void(0)" target="_self" onclick="setRecomment(event)" id="cmdRecommend">推荐</a>  
+    <a href="javascript:void(0)" target="_self" onclick="setMark(event)" id="cmdMark">标记</a>  
+    <a href="javascript:void(0)" target="_self" onclick="movePost()" id="cmdMove">转移</a>  
+    <a href="javascript:void(0)" target="_self" onclick="copyPost()" id="cmdCopy">转帖</a>  
+    <a href="javascript:void(0)" target="_self" onclick="setLock(event)" id="cmdLock">锁定</a>
+    <a href="javascript:void(0)" target="_self" onclick="setIsValid(event,1)" id="cmdDelete">删除</a>  
+    调整A值： <label>
+ <select name="AValue" id="avalue" onchange="setAValue(this)">
+ <option value="-5" >-5</option><option value="-4" >-4</option><option value="-3" >-3</option><option value="-2" >-2</option><option value="-1" >-1</option><option value="0"  selected>&nbsp;0</option><option value="1" >&nbsp;1</option><option value="2" >&nbsp;2</option><option value="3" >&nbsp;3</option><option value="4" >&nbsp;4</option><option value="5" >&nbsp;5</option>
+ </select>
+ </label>
+ </div>
+ 
+
+   <div class=" btnli"> 
+   
+   <a href="/newreply.aspx?bid=153&postId=9101141">回复</a>  | 
+    <a href="/newreply.aspx?bid=153&postId=9101141&quote=true">引用</a>  | 
+
+<a href="javascript:void(0)" onclick="addBookmark(location.href,document.title)" target="_self">收藏</a> | 
+
+    <span class="admA"> <a href="/editpost.aspx?postId=9101141">编辑</a>  | </span>
+      <a href="javascript:copy(top.location.href)" target="_self">复制链接</a>  |
+        <a href="javascript:;" target="_self" onclick="informPost()">举报</a> <span class="admA">| 
+         <a href="javascript:void(0)" target="_self" onclick="setIsValid(event,1)">删除</a> 
+         </span>
+         <a href="#top"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a>
+         
+</div>
+   
+
+<script type="text/javascript" src="/s/p/b.js?a"></script>
+
+
+
+<script type="text/javascript">
+var editor = new punymce.Editor({
+	id : 'txtContent',
+	toolbar:'insertimage,insertlink,inserttable,insertchar,removeformat',
+    plugins : 'Protect,TextColor,EditSource,Entities,Hexun,BBCode',
+	min_width : 500,
+	max_width:500,
+	customSetup:replySetupMce,
+    styles : [
+	    { title : 'Code', cls : 'pre', cmd : 'FormatBlock', val : '<pre>' },
+	    { title : 'Quote', cls : 'quote', cmd : 'mceSetClass', val : 'quote'},
+	    { title : 'Unquote', cls : 'quote', cmd : 'mceSetClass', val : ''}
+    ],
+    image:{skip_css:true},
+    link:{skip_css:true},
+    textcolor:{skip_css:true},
+    fonts:['Arial','宋体','新宋体','黑体','幼圆','隶书','华文彩云','华文琥珀','微软雅黑'],
+    fontsizes:['8pt','10pt','12pt','14pt','18pt','24pt','36pt'],
+    resize:false,
+    enableCustomSetup:true
+});
+//被禁用的工具栏
+function updateDisableTools(disabledTools){
+    editor.disabled = disabledTools;
+}
+</script>
+<script src="/BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getPostPageDisabledTools&bid=153" type="text/javascript"></script>
+
+<!--快速回复 b-->
+<div class="kshfmod"><a name="reply"></a>
+<h3>快速回复</h3>
+<div class="cont">
+<table width="680" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="520">
+<form method="post" name="formLogin" action="https://reg.hexun.com/login.aspx"><input name="gourl" value="http://bbs.hexun.com/post.aspx?bid=153&postId=9101141&pageNumber=1" type="hidden">
+<p class="yhxx"><span id="spnLoginStatus">未登录用户请在此登录：</span>
+    <input value="用户名" type="text" name="username" id="txtUserName" class="btn01"  style=" width:95px" onfocus="if(this.value=='用户名') this.value='';this.style.color='000000'" />　 
+    <input value="密码" type="password" name="password" id="txtPassword" class="btn01"  style=" width:95px" onfocus="if(this.value=='密码') {this.value='';this.style.color='000000';}" />
+    <input type="image" src="/s/p/img/login.jpg" class="lg"/>
+    <a href="http://reg.hexun.com/Register.aspx?fromhost=HX_BBS" class="f06c0" id="aReg"><u>新用户注册</u></a>
+</p>
+</form>
+<form method="post" action="post_153_9101141_1_d.html?bid=153&amp;postId=9101141&amp;pageNumber=1" id="f" target="_self">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA3NTAxOTIyMGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFFGN0bDAwJGMkYnV0dG9uU3VibWl0" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['f'];
+if (!theForm) {
+    theForm = document.f;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=Ne7l-Dx_3kv7uYbv0Mahnip_JgSu6mSwk436LbQj7wVCg_Ki6tmWEAqfYXc1&amp;t=635829207283464008" type="text/javascript"></script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+	<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+</div>
+<textarea name="content" id="txtContent" rows="12" cols="60"></textarea>
+<!--[if IE]>
+<br/><font color="gray">Ctrl + 回车可以快速提交</font>
+<![endif]-->
+<div style="display:none" id="plVc"></div>
+
+
+<div class="post_reply"><span id="c_labelMsg" style="color:Red;"></span> 
+<p><input type="image" name="ctl00$c$buttonSubmit" id="c_buttonSubmit" src="/clientfiles/post/img/btn_fb.gif" onclick="return checkForm(this);" /></p>
+</div>
+
+<script src="/js/md5.js" type="text/javascript"></script><script>var police={address:'c25140cb2434b6526cd537e20ea85808',ip:'304884780c3e4624b9dd69eec9c99d89'};addLoadEvent(function(){setPoliceCode(document.aspnetForm||theForm);});</script>
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form></td>
+    <td valign="top" class="contrig">   
+    <p><button  class="editbtn" type="button"  style="width:115px;" onclick="editor.onBeforePopup();dialog.open({title:'插入股票行情图',src:'/service/quotechart.aspx?type=stock',width:'500px',height:'240px'});">插入股票行情图</button></p>
+     <p><button  class="editbtn" type="button" style="width:115px;" onclick="editor.onBeforePopup();dialog.open({title:'插入基金行情图',src:'/service/quotechart.aspx?type=funds',width:'500px',height:'240px'});">插入基金行情图</button></p>
+<div style="font-size:1px;height:1px">&nbsp;</div>
+     <div>表情：<a class="emtSelected" id="aEmNew" href="javascript:Emotion.turn(0)" target="_self">新版</a>
+      | <a class="emtUnselected" id="aEmOld" href="javascript:Emotion.turn(1)" target="_self">老版</a>
+      </div>
+     <div id="divEmotions"></div></td>
+  </tr>
+</table>
+
+
+
+</div>
+</div>
+</div>
+
+<!--快速回复 e-->
+
+</td>
+    <td width="215" valign="top">
+<?xml version="1.0" encoding="gb2312"?>
+
+
+<!--include virtual="/inc/ads/180x150.inc"-->
+
+<div id="sidebar">
+
+<div class="sidemod">
+<ul class=li02>
+<li><a href="http://licaike.hexun.com/subject/sub_regular.html?knownChannel=dqy-lt" target=_blank><img alt=短期理财就选它 src="http://i4.hexunimg.cn/2014-05-13/164743323.jpg"></a><a href="http://licaike.hexun.com/subject/sub_regular.html?knownChannel=dqy-lt" target=_blank>短期理财就选它</a></li>
+
+<li><a href="http://dai.licaike.hexun.com/?knownChannel=p2p-lt" target=_blank><img alt=和讯P2P进场 src="http://i1.hexunimg.cn/2014-09-15/168478802.jpg"></a><a href="http://dai.licaike.hexun.com/?knownChannel=p2p-lt" target=_blank>和讯P2P进场</a></li>
+</ul>
+
+</div>
+
+<div class="sidemod">
+	<h3 class="tit01">
+		<strong>热点</strong>
+	</h3>
+	<ul class="li01" id="R_listAD_1"></ul>
+</div>
+	
+<div class="sidemod"><h3 class="tit01"><strong>精彩内容推荐</strong></h3><ul class="li02"><li><a href="http://bbs.hexun.com/post_615_9208357_1_d.html" target="_blank"><img src="http://f200-9.bbs.hexun.com/e/151218/101908.jpg" alt="高送转名单大全"/></a><a href="http://bbs.hexun.com/post_615_9208357_1_d.html" target="_blank">高送转名单大全</a></li><li><a href="http://bbs.hexun.com/stock/post_5_9208263_1_d.html" target="_blank"><img src="http://f200-9.bbs.hexun.com/e/151218/102009.jpg" alt="股市十大关键词"/></a><a href="http://bbs.hexun.com/stock/post_5_9208263_1_d.html" target="_blank">股市十大关键词</a></li></ul><ul class="li01"><li><a href="http://bbs.hexun.com/stock/post_5_9216760_1_d.html" target="_blank">波澜不惊迎接2016年</a></li><li><a href="http://bbs.hexun.com/post_385_9216463_1_d.html" target="_blank">市场虽有近忧但无远虑</a></li><li><a href="http://bbs.hexun.com/stock/post_5_9216395_1_d.html" target="_blank">本周股市三大猜想及应对策略</a></li><li><a href="http://bbs.hexun.com/post_488_9216372_1_d.html" target="_blank">几大值得关注的主题性板块</a></li><li><a href="http://bbs.hexun.com/post_615_9216596_1_d.html" target="_blank">“双降预期”继续为A股保驾护航</a></li><li><a href="http://bbs.hexun.com/post_598_9216267_1_d.html" target="_blank">中概股回归A股的最大动力是什么</a></li><li><a href="http://bbs.hexun.com/post_823_6605989_1_d.html" target="_blank">美元的走向左右金银后市方向</a></li><li><a href="http://bbs.hexun.com/post_769_6605968_1_d.html" target="_blank">金银可能出现超跌反弹的走势</a></li><li><a href="http://bbs.hexun.com/money/post_75_6606044_1_d.html" target="_blank">金银回调看涨 高空后继续低多</a></li><li><a href="http://bbs.hexun.com/money/post_75_6605977_1_d.html" target="_blank">继续等待更完美的空头信号</a></li></ul></div>
+<!--include virtual="/inc/fragments/post_right_search.inc"-->
+<!--include virtual="/inc/fragments/post_right_hotbars.inc"-->
+ 
+<div class="sidemod">
+<h3 class="tit01"><strong>本版最新精华</strong></h3>
+<ul class="li01" id="ulEssence">
+</ul>
+</div>
+
+<div class="sidemod">
+<h3 class="tit01"><strong>本版最新推荐</strong></h3>
+<ul class="li01" id="ulRecomment">
+</ul>
+</div>
+
+<!--20120419取消组图/inc/pics.inc-->
+
+
+
+</div>
+    </td>
+  </tr>
+</table>
+</div>
+
+<script type="text/javascript">
+needVc = true;
+getAttachmentDownloadTimes();
+addLoadEvent(loadFooterHtml);
+var bid = 153;
+resizeTooWide();
+
+//判断是否可以回复该帖子
+
+(new Image()).src = '/img/processing.gif';
+function checkForm(o){
+    if(typeof theForm == 'undefined') {
+			//alert("=t=!");
+			theForm = o.form;
+		}
+    //if(typeof theForm.hasSetPoliceCode != 'undefined' && theForm.hasSetPoliceCode === true){
+        var ou = $id('txtUserName');
+        var opwd = $id('txtPassword');
+        if(ou.value == '用户名')ou.value = '';
+        var c = editor.getContent().replace('<html/>','');
+        
+        if(c .isEmpty()){
+            dialog.alert('提示','请输入回复内容');
+            return false;
+        }
+        processing(o);
+        return true;
+    //}else{
+    //    alert('请等待页面载入完毕后提交表单!');
+    //    return false;
+    //}
+}
+
+addLoadEvent(Emotion.init);
+
+function doSubmit(){
+    var btn = $id('c_buttonSubmit');
+    if(checkForm(btn)){
+        btn.click();
+    }
+}
+addLoadEvent(function(){
+    setTimeout(function(){setQuickSubmit([editor.getWin().document.body],doSubmit);},2000);    
+});
+
+//脚印
+function initialFootprint(data){
+    var oc = $id('ulVisitors');
+    
+    if(data && data.length){
+        for(var i=0;i<data.length;i++){
+            var u = data[i];
+            var li = crt('LI',{},oc);
+            crt('IMG',{src:u.logo},crt('A',{href:u.url},li));
+            crt('A',{href:u.url,innerHTML:u.name},li);
+        }
+    }
+}
+function onGotUser(u){
+    if(!post.isLock && typeof theForm != 'undefined')setPoliceCode(theForm);
+    
+    if(u.id > 0){
+        var oS = $id('spnLoginStatus');
+        if(oS){
+            oS.innerHTML = '已登录用户可在此更换帐号：';
+        }
+        if($id('aReg'))$id('aReg').style.display = 'none';
+    }
+    
+    if(typeof u.needVerifyCode != 'undefined' && u.needVerifyCode === true){
+        //显示验证码
+        $id('plVc').style.display = 'block';
+        if(!$id('ctl00_c_vc'))
+        $id('plVc').innerHTML = '<style>.verifyCodeInput{width:60px;height:16px;line-height:16px;margin-right:4px;}</style>'
+        + '<p style="margin:10px 0 5px 0;line-height:20px;">'
+        + '请输入验证码：<span id="ctl00_c_vc"><input onfocus="onVcInputFocus(this,\'vc__img\',\'/vc.asmx?\');" maxlength="4" type="text" name="vc_code" id="vc_code" class="verifyCodeInput"/><img src="/vc.asmx" align="absmiddle" id="vc__img" class="verifyCodeImg"/><a class="verifyCodeAnchor" href="javascript:void(0);" target="_self" onclick="replaceCode(\'vc_code\',\'vc__img\',\'/vc.asmx?\')"/>看不清?</a></span>'
+        +'</p>';
+    }
+    
+    if(u.isAdmin){
+        
+        var as = $tags('SPAN',$id('content'));
+        for(var i=0;i<as.length;i++){
+            var a = as[i];
+            if(a.className.indexOf('admA')>-1)a.style.display = 'inline';
+        }
+        var oc = $id('divAbc');
+        var d1 = oc.firstChild.innerHTML;
+        var d2 = oc.lastChild.innerHTML;
+        new Ajax({url:'BBS.WebUI.Ajax.IPParser,BBS.WebUI.ajax.asmx?bid=153&k=9101141',postBody:'i=' + d1+'&l='+d2,onComplete:function(trans){
+            setIL(eval(trans.responseText));
+        }});
+        
+        var odivs = $tags('div');
+        for(var i=0;i<odivs.length;i++){
+            if(odivs[i].className.indexOf('ipedit')>-1){
+                odivs[i].style.display =  'block';
+            }
+        }
+    }
+}
+function setIL(d){
+    if(!d)return;
+    var id = d[0];
+    var ld = d[1];
+    var odivs = $tags('div');
+    var rI = 0;
+    for(var i=0;i<odivs.length;i++){
+        if(odivs[i].className.indexOf('ipedit')>-1){
+            var od = odivs[i];
+            var spn = $tag('SPAN',od);
+            if(spn){
+                var oi = $tag('SPAN',spn,0);
+                var ol = $tag('SPAN',spn,1);
+                if(oi && ol){
+                    oi.innerHTML = id[rI];
+                    ol.innerHTML = ld[rI];
+                }
+            }
+            rI ++;
+        }
+    }
+}
+
+
+function getPostCn(){
+    var oposts = $id('ulCreatorPosts');
+    var getPosts = oposts?1:0;
+    new Ajax({showLoading:false,method:'get',
+        url:'BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getUserIsOnlineAndPostCn&uid=26767421&getPosts='+getPosts+'&t=' + new Date().getTime(),
+        onComplete:function(trans){
+            var r ;eval('r=' + trans.responseText);
+            if(r){
+                //$id('postCount').innerHTML = r.postCount;
+                //$id('essentialCount').innerHTML = r.essentialCount;
+                
+                var oOnline=$id('imgIsOnline');
+                if(oOnline){
+                    oOnline.src = '/clientfiles/post/img/' + (r.joidOnline?'online.gif':'unline.gif');
+                    oOnline.title = oOnline.alt = (r.joidOnline?'在线':'未在线');
+                }
+                if(getPosts == 1){
+                    if(r.posts && r.posts.length > 0){
+                        while(oposts.firstChild)remove(oposts.firstChild);
+                        
+                        for(var i=0;i<r.posts.length;i++){
+                            var iP = r.posts[i];
+                            crt('A',{href:iP.url,innerHTML:iP.title,title:iP.title},crt('LI',{},oposts));
+                        }
+                    }
+                }
+            }
+        }});
+}
+addLoadEvent(getPostCn);
+
+function updatePostPv(pv){var o = $id('pv');if(o){o.innerHTML = pv;}}
+addLoadEvent(function(){loadPosts(153,'Essence');loadPosts(153,'Recomment');});
+
+var judgeOnline = 26767421;
+
+
+</script>
+
+<style type="text/css">
+.hilite0,.hilite1,.hilite2{color:red!important;background:#ee0!important}
+</style>
+<script language="vbscript">
+Function URLDecode(input) 
+    Dim str,code,a(3),b(1) 
+    str="" 
+    code=input 
+    code=Replace(code,"+"," ") 
+    Const hexstr = "0123456789ABCDEF" 
+    While len(code)>0 
+        If InStr(code,"%")>0 Then 
+            str = str & Mid(code,1,InStr(code,"%")-1) 
+            code = Mid(code,InStr(code,"%")) 
+            a(0) = UCase(Mid(code,2,1)) 
+            a(1) = UCase(Mid(code,3,1)) 
+            If a(1)<>"" And InStr(hexstr,a(0))>0 And InStr(hexstr,a(1))>0 Then 
+                b(0) = Eval("&H" & a(0) & a(1)) 
+                If b(0)>127 And Mid(code,4,1)="%" And len(code)>=6 Then 
+                    a(2) = UCase(Mid(code,5,1)) 
+                    a(3) = UCase(Mid(code,6,1)) 
+                    If a(3)<>"" And InStr(hexstr,a(2))>0 And InStr(hexstr,a(3))>0 Then 
+                        b(1) = Eval("&H" & a(2) & a(3)) 
+                        str = str & chr(b(0)*256+b(1)) 
+                        code = Mid(code,7) 
+                    Else 
+                        str = str & "%" 
+                        code = Mid(code,2) 
+                    End If 
+                Else 
+                    str = str & chr(b(0)) 
+                    code = Mid(code,4) 
+                End If 
+            Else 
+                str = str & "%" 
+                code = Mid(code,2) 
+            End If 
+        Else 
+            str = str & code 
+            code = "" 
+        End If 
+    Wend 
+    URLDecode = str 
+End Function 
+</script> 
+<script src="http://img.hexun.com/hx_bbs/hx_bbs_finalpage.js"></script>
+
+<script type="text/javascript">
+Hilite.autoForSeachEngine($id('tdContent'));
+
+</script>
+
+<script src="/service/visitlog.aspx?pid=9101141&bid=153" type="text/javascript">
+</script>
+<noscript>
+<img src="/service/visitlog.aspx?pid=9101141&bid=153" 
+    width="1" height="1" border="0"/>
+</noscript>
+<script src="http://point.tool.hexun.com/pointLicai.aspx?userid=26767421&show=1"></script>
+<div id="divAbc" style="display:none"><span>95BAC5D923D7B76B30EAE6C54CDB0BBA</span><span>7C3E1D9C6D34C6A9DD989532D40A52EB</span></div>
+
+
+<div class="clear"></div>
+<div class="clear"></div>
+ <div id="foot2010">
+    <style type="text/css">
+#foot2010{ width: 100%; margin: 0 auto; color: #000; text-align: center; clear:both;}
+#foot2010 *{ padding: 0; margin: 0; font-size: 12px; }
+#foot2010 a{ color: #000; text-decoration: none; }
+#foot2010 a:hover{ text-decoration: underline; }
+#foot2010 .link{ background: url(http://img.hexun.com/news/2010/img/head2010.gif) repeat-x 0 -637px; height:30px; line-height: 30px; padding: 8px 10px 0 10px; }
+#foot2010 .copyright{ padding-top: 6px; font-family: Arial, Helvetica, sans-serif; line-height: 1.7em;  }
+</style>
+    <div class="link"> <a target="_blank" href="http://cvs.hexun.com/feedback/support.htm" id="hexunUserSuggest">和讯论坛恭候您的意见</a> - <a target="_blank" href="http://corp.hexun.com/contact/index.html">联系我们</a> - <a target="_blank" href="http://corp.hexun.com/default/index.html">关于我们</a> - <a target="_blank" href="http://corp.hexun.com/adcenter/index.html">广告服务</a> </div>
+    <div class="copyright"> 本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。<br />
+      Copyright&copy; 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究 </div>
+  </div>
+</div>
+<script type="text/javascript">
+	function setUser() {
+		new Ajax({ url: 'BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getInfo' + (typeof bid != 'undefined' && bid ? '&bid=' + bid : '') + (typeof (judgeOnline) == 'undefined' ? '' : '&joid=' + judgeOnline) + (typeof (needVc) != 'undefined' && needVc ? "&judgeVc=1" : "") + '&t=' + (new Date().getTime()), method: 'get', onComplete: function (trans) {
+			var u; eval('u=' + trans.responseText);
+			var oinfo = crt('SPAN', { id: 'uInfo' }, $id('divHRight'));
+			var h;
+			u.homeUrl = '/u_' + u.id + '/_d.aspx';
+			window.hexunUser = u;
+			var url = escape(location.href);
+			if (u.id) {
+				h = '<span class="f39c"><a hr' + 'ef="' + u.homeUrl + '" target="_top" class="f39c">' + u.name + '</a>，您好！</span>'
+
+				h += ' <span class="news"><a href="/message/" target="_blank">您有新纸条（<span  class="fc00" id="aPaperCn">' + u.paper + '</span>）</a></span>';
+
+				h += '  [<a href="http://utility.tool.hexun.com/quit.aspx?gourl=' + url + '" onclick="logout()" target="_top">退出</a>]';
+
+				if (u.police) {
+					window.police = u.police;
+				}
+			}
+			else {
+				h = '游客您好，请<a target="_top" href="https://reg.hexun.com/login.aspx?gourl=' + url + '">登录</a>或<a target="_top" href="http://reg.hexun.com/Register.aspx?fromhost=HX_BBS">注册</a>';
+			}
+			oinfo.innerHTML = h;
+			if (typeof onGotUser == 'function') {
+				onGotUser(u);
+			}
+		}, showLoading: false
+		});
+	}
+	addLoadEvent(function () { setTimeout(setUser, 20); });
+</script>
+<!--时间标记被禁用-->
+<!--未记录时间标记-->
+<script src="http://utrack.hexun.com/track/track.js"></script>
+<script type="text/javascript">
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'UA-2167933-69', 'hexun.com');
+	ga('send', 'pageview');
+</script>
+<div id="pageTail" ></div>
+<script language="javascript" src="http://hxjs.tool.hexun.com/bbs/pageMediaControl1.js "></script>
+</body>
+</html>

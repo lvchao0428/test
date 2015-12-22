@@ -1,0 +1,726 @@
+<!--UINFO: http://www.xcar.com.cn/404.html	length=37808&last_modified=1446186410&time_saved=1450676392&charset=gb2312-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>访问的页面不存在 </title>
+<meta name="keywords" content="访问的页面不存在" />
+<meta name="description" content="访问的页面不存在" />
+<style>
+.clearfix:after {content: ".";  display: block;  height: 0;  clear: both;  visibility: hidden;}
+.clearfix {display: inline-block;}
+.clearfix {display: block;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,figure,img{margin:0;padding:0;border:0}
+body,div{
+	margin:auto;
+}
+img{
+	border:none;
+}
+i,em{font-style:normal;}
+ul,li{
+	list-style-type:none;
+}
+a{
+	text-decoration: none;
+	color: #444;
+}
+
+body{
+	color:#444;
+	font-size:12px;
+}
+.l_error{
+	width:960px;
+	height:auto;
+	margin:auto;
+}
+.l_error_top{
+	width:100%;
+	height:467px;
+	background:url(http://icon.xcar.com.cn/lxh/404/l_error.png);
+	position:relative;
+}
+.l_visit{
+	position:absolute;
+	top:138px;
+	left:132px;
+}
+.l_error_top span{
+	color:#444;
+	font-size:34px;
+	font-family:'Microsoft YaHei';
+}
+.l_visiterror{
+	margin:16px 0 0 5px;;
+}
+.l_visiterror li{
+	height:26px;
+	line-height:26px;
+}
+.l_visiterror li {
+	font-size:16px;
+	font-family:'Microsoft YaHei';
+	color:#828282;
+}
+.l_visiterror li em{
+	display:block;
+	float:left;
+	margin:12px 12px 0 0;
+	width:3px;
+	height:3px;
+	background:url(http://icon.xcar.com.cn/lxh/404/l_icon.jpg);
+	background-position:0 0;
+	overflow:hidden;
+}
+.roadsign{
+	width:265px;
+	height:239px;
+	position:absolute;
+	top:62px;
+	left:492px;
+}
+.roadsign li a{
+	display:block;
+	height:70px;
+	line-height:70px;
+}
+.roadsignOne{
+	margin:9px 0px 0 8px;
+}
+.roadsignTwo{
+	margin:6px 0px 0 8px;
+}
+.roadsignThree{
+	margin:6px 0px 0 8px;
+}
+.roadsignOne:hover{
+	background:url(http://icon.xcar.com.cn/lxh/404/l_errorhover.png);
+	background-position:-8px -9px;
+}
+.roadsignTwo:hover{
+	background:url(http://icon.xcar.com.cn/lxh/404/l_errorhover.png);
+	background-position:-8px -85px;
+}
+.roadsignThree:hover{
+	background:url(http://icon.xcar.com.cn/lxh/404/l_errorhover.png);
+	background-position:-8px -161px;
+}
+/* 友情链接 */
+.links{
+	padding:5px 0 14px;
+	border:1px solid #e5e5e5;
+}
+.friend_nt{
+	font:normal 12px/22px normal;
+	color:#ccc;
+	padding:0 14px 0 4px;
+}
+.friend_nt a{
+	display:inline-block;
+	margin:0 10px;
+	color:#666;
+}
+.links_title{
+	padding:0 14px;
+	line-height:38px;
+}
+.links_title span{
+	font:bold 16px/38px 'Microsoft YaHei'
+}
+.links_title .more{
+	float: right;
+}
+/* CBSI */
+.cbsilinks{
+	color:#ccc;
+	border-top:3px solid #E5E5E5;
+	border-bottom:1px solid #E5E5E5;
+}
+.cbsilinks a{color:#777;
+	display:inline-block;
+	margin:0 6px;
+}
+.cbsilinks td{font:normal 12px/24px normal;
+	padding:5px 0 5px 5px;
+	color:#ccc;
+}
+.cbsilinks th{
+	vertical-align:middle;
+	font-weight:bold;
+	width:175px;
+	color:#777;
+}
+.cbsilinks .linea,
+.cbsilinks .lineb{
+	border-bottom:1px solid #f1f1f1;
+}
+/*  尾部 */
+.footer_nt{font-family:arial,simsun;text-align:center;clear:both;color:#666;line-height:21px;width:955px;margin:0 auto;position:relative;padding:20px 0 10px}.footer_nt a{color:#333;display:inline-block;margin:0 5px}.footer_nt a:hover{color:#fe0000}
+/* 链接经过颜色 */
+.friend_nt a:hover,
+.cbsilinks a:hover,
+.calendar_title a:hover,
+.links .more:hover,
+.links span a:hover{
+	color:#426eab;
+}
+</style>
+
+</head>
+<body>
+<link href="http://icon.xcar.com.cn/2015/nav/css/channel_nav.css?v=7775666" rel="stylesheet" type="text/css"/>
+<!--header-->
+<!-- login-->
+<div class="Header_bg" id="totop">
+  <div class="Header"> <a href="http://www.xcar.com.cn/" title="爱卡汽车" class="Hlogo"></a>
+    <div class="mmp menubox">
+      <div class="menutb"> <span class="iphone">手机爱卡</span> </div>
+      <div class="mmp_show"> <a href="http://m.xcar.com.cn/wap.htm" target="_blank" class="wap">触屏版</a> <a href="http://m.xcar.com.cn/xcar.htm" target="_blank" class="xcar">爱卡汽车</a> <a href="http://m.xcar.com.cn/carfinder.htm" target="_blank" class="carfinder">爱买车</a> <a href="http://m.xcar.com.cn/usercar.htm" target="_blank" class="usercar">爱用车</a> <span class="weixin">爱卡微信<i></i></span> </div>
+    </div>
+    <!-- 论坛导航部分开始 -->
+    <div class="mbbs menubox fr" rel="xheaderbbsnavBox">
+      <div class="menutb">论坛导航</div>
+      <div class="mbbs_show" id="xheaderbbsNav">
+        <iframe scrolling="no" frameborder="0" style="width: 822px;" class="nav_daohang" id="daohang" name="daohang" marginheight="0" marginwidth="0" border="0" target="_blank" height="552px"></iframe>                  
+      </div>
+    </div>
+    <!-- 论坛导航部分结束 -->
+    <!-- 车市导航部分开始 -->
+    <div class="mcs menubox fr" rel="xheaderchishi">
+      <div class="menutb" id="xHeaderIplocation"><a href="http://bj.xcar.com.cn[/" target="_blank">北京车市</a></div>
+      <div class="mcs_show" id="xheadcsdaohang">
+        <iframe scrolling="no" frameborder="0" height="171px" style="width: 702px;" id="csdaohang" name="csdaohang" marginheight="0" marginwidth="0" border="0" target="_blank"></iframe>                
+      </div>
+    </div>
+    <!-- 车市导航部分结束 -->
+    
+    <div id="xloginBtn"></div>
+    <div id="xheaderMessage" class="menubox fr"></div>
+    <div id="xlogininfo" class="muser menubox fr" style=""></div>
+  </div>
+</div>
+<!-- login end -->
+<div class="Headnav_bg">
+  <div class="Headnav">
+    <div class="Hnav_choose">
+      <ul>
+        <li class="tit"><a href="http://newcar.xcar.com.cn/">选车</a></li>
+        <li><a href="http://info.xcar.com.cn/">新车</a></li>
+        <li><a href="http://info.xcar.com.cn/guide/">导购</a>&#8226;<a href="http://drive.xcar.com.cn/">试驾</a></li>
+        <li><a href="http://newcar.xcar.com.cn/photo/">车图</a></li>
+        <li><a href="http://suv.xcar.com.cn/">SUV</a></li>
+      </ul>
+    </div>
+    <div class="Hnav_buy">
+      <ul>
+        <li class="tit"><a href="http://newcar.xcar.com.cn/buy/">买车</a> </li>
+        <li><a href="http://price.xcar.com.cn/">报价</a> </li>
+        <li><a href="http://dealer.xcar.com.cn/">经销商</a> </li>
+        <li><a href="http://dealer.xcar.com.cn/buy/">车有惠</a> </li>
+        <li><a href="http://used.xcar.com.cn/">二手车</a> </li>
+      </ul>
+    </div>
+    <div class="Hnav_use">
+      <ul>
+        <li class="tit"><a href="http://yp.xcar.com.cn/">用车</a> </li>
+        <li><a href="http://yp.xcar.com.cn/book/">宝典</a> </li>
+        <li><a href="http://yp.xcar.com.cn/wiki/">百科</a> </li>
+      </ul>
+    </div>
+    <div class="Hnav_inte">
+      <ul>
+        <li class="tit"><a href="http://club.xcar.com.cn/">互动</a><i class="H_news"></i></li>
+        <li><a href="http://my.xcar.com.cn/thread/hot.htm">热帖</a> </li>
+        <li><a href="http://club.xcar.com.cn/selected/">精选</a> </li>
+      </ul>
+    </div>
+    <div class="Hnav_found">
+      <ul>
+        <li class="tit"><a href="http://discovery.xcar.com.cn/">发现</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="Hnav_view">
+  <div class="Hnav_con" style="display: none;">
+    <div class="Hnav_left">
+      <div class="Hnav_tit">选车中心</div>
+      <ul>
+        <li><a href="http://info.xcar.com.cn/" target="_blank">新车频道</a></li>
+        <li><a href="http://newcar.xcar.com.cn/photo/" target="_blank">汽车图片</a></li>
+        <li><a href="http://drive.xcar.com.cn/" target="_blank">试驾频道</a></li>
+        <li><a href="http://newcar.xcar.com.cn/price/" target="_blank">车型大全</a></li>
+        <li><a href="http://info.xcar.com.cn/guide/" target="_blank">导购频道</a></li>
+        <li><a href="http://newcar.xcar.com.cn/review.htm" target="_blank">说真的</a></li>
+        <li><a href="http://suv.xcar.com.cn/" target="_blank">SUV</a></li>
+        <li><a href="http://newcar.xcar.com.cn/oil.htm" target="_blank">油耗</a></li>
+        <li><a href="http://green.xcar.com.cn/" target="_blank">新能源</a></li>
+        <li><a href="http://newcar.xcar.com.cn/compare/" target="_blank">对比</a></li>
+        <li><a href="http://www.xcar.com.cn/top/" target="_blank">排行榜</a></li> 
+        <li><a href="http://dealer.xcar.com.cn/info/" target="_blank">行情</a></li> 
+      </ul>
+    </div>
+    <div class="Hnav_right">
+      <div class="Hnav_tit">快速找车</div>
+      <dl class="clearfix Hnav_txt">
+        <dt>价格</dt>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/1-0-0-0-0-0-0-0-0-0-0-0/" target="_blank">5万以下</a></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/2-0-0-0-0-0-0-0-0-0-0-0/" target="_blank">5-8万</a></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/3-0-0-0-0-0-0-0-0-0-0-0/" target="_blank">8-12万</a></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/4-0-0-0-0-0-0-0-0-0-0-0/" target="_blank">12-18万</a></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/5-0-0-0-0-0-0-0-0-0-0-0/" target="_blank">18-25万</a></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/6-0-0-0-0-0-0-0-0-0-0-0/" target="_blank">25-35万</a></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/7-0-0-0-0-0-0-0-0-0-0-0/" target="_blank">35-50万</a></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/8-0-0-0-0-0-0-0-0-0-0-0/" target="_blank">50-70万</a></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/9-0-0-0-0-0-0-0-0-0-0-0/" target="_blank">70万以上</a></dd>
+      </dl>
+      <dl class="clearfix Hnav_car">
+        <dt>级别</dt>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-0-0-0-1-0-0-0-0-0-0/" target="_blank" class="Hnav_01">微型车</a></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-0-0-0-2-0-0-0-0-0-0/" target="_blank" class="Hnav_02">小型车</a></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-0-0-0-6-0-0-0-0-0-0/" target="_blank" class="Hnav_03">紧凑型车</a></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-0-0-0-8-0-0-0-0-0-0/" target="_blank" class="Hnav_04">中型车</a></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-0-0-0-9-0-0-0-0-0-0/" target="_blank" class="Hnav_05">中大型车</a></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-0-0-0-10-0-0-0-0-0-0/" target="_blank" class="Hnav_06">豪华车</a></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-0-0-0-3-0-0-0-0-0-0/" target="_blank" class="Hsuv_tb Hnav_07">SUV</a>
+          <ul class="Hsuv_list">
+            <li><a href="http://newcar.xcar.com.cn/search_car/0-0-0-0-0-11-0-0-0-0-0-0/" target="_blank">小型SUV</a></li>
+            <li><a href="http://newcar.xcar.com.cn/search_car/0-0-0-0-0-12-0-0-0-0-0-0/" target="_blank">紧凑型SUV</a></li>
+            <li><a href="http://newcar.xcar.com.cn/search_car/0-0-0-0-0-13-0-0-0-0-0-0/" target="_blank">中型SUV</a></li>
+            <li><a href="http://newcar.xcar.com.cn/search_car/0-0-0-0-0-14-0-0-0-0-0-0/" target="_blank">中大型SUV</a></li>
+            <li><a href="http://newcar.xcar.com.cn/search_car/0-0-0-0-0-15-0-0-0-0-0-0/" target="_blank">全尺寸SUV</a></li>
+          </ul>
+        </dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-0-0-0-4-0-0-0-0-0-0/" target="_blank" class="Hnav_08">跨界车</a></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-0-0-0-5-0-0-0-0-0-0/" target="_blank" class="Hnav_09">MPV</a></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-0-0-0-7-0-0-0-0-0-0/" target="_blank" class="Hnav_10">跑车</a></dd>
+      </dl>
+      <dl class="clearfix Hnav_pic Hno_bor">
+        <dt>品牌</dt>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-4-0-0-0-0-0-0-0-0-0/" class="hotBrandImg" target="_blank">
+        <img src="http://img3.xcarimg.com//PicLib/logo/pl4_40.jpg" title="大众" alt="大众" width="40" height="30"></a> <em><a href="http://newcar.xcar.com.cn/search_car/0-0-4-0-0-0-0-0-0-0-0-0/" target="_blank">大众</a></em></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-18-0-0-0-0-0-0-0-0-0/" class="hotBrandImg" target="_blank">
+        <img src="http://img3.xcarimg.com//PicLib/logo/pl18_40.jpg" title="丰田" alt="丰田" width="40" height="30"></a> <em><a href="http://newcar.xcar.com.cn/search_car/0-0-18-0-0-0-0-0-0-0-0-0/" target="_blank">丰田</a></em></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-20-0-0-0-0-0-0-0-0-0/" class="hotBrandImg" target="_blank">
+        <img src="http://img3.xcarimg.com//PicLib/logo/pl20_40.jpg" title="日产" alt="日产" width="40" height="30"></a> <em><a href="http://newcar.xcar.com.cn/search_car/0-0-20-0-0-0-0-0-0-0-0-0/" target="_blank">日产</a></em></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-16-0-0-0-0-0-0-0-0-0/" class="hotBrandImg" target="_blank">
+        <img src="http://img3.xcarimg.com//PicLib/logo/pl16_40.jpg" title="雪佛兰" alt="雪佛兰" width="40" height="30"></a> <em><a href="http://newcar.xcar.com.cn/search_car/0-0-16-0-0-0-0-0-0-0-0-0/" target="_blank">雪佛兰</a></em></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-22-0-0-0-0-0-0-0-0-0/" class="hotBrandImg" target="_blank">
+        <img src="http://img3.xcarimg.com//PicLib/logo/pl22_40.jpg" title="起亚" alt="起亚" width="40" height="30"></a> <em><a href="http://newcar.xcar.com.cn/search_car/0-0-22-0-0-0-0-0-0-0-0-0/" target="_blank">起亚</a></em></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-13-0-0-0-0-0-0-0-0-0/" class="hotBrandImg" target="_blank">
+        <img src="http://img3.xcarimg.com//PicLib/logo/pl13_40.jpg" title="别克" alt="别克" width="40" height="30"></a> <em><a href="http://newcar.xcar.com.cn/search_car/0-0-13-0-0-0-0-0-0-0-0-0/" target="_blank">别克</a></em></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-1-0-0-0-0-0-0-0-0-0/" class="hotBrandImg" target="_blank">
+        <img src="http://img3.xcarimg.com//PicLib/logo/pl1_40.jpg" title="奥迪" alt="奥迪" width="40" height="30"></a> <em><a href="http://newcar.xcar.com.cn/search_car/0-0-1-0-0-0-0-0-0-0-0-0/" target="_blank">奥迪</a></em></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-23-0-0-0-0-0-0-0-0-0/" class="hotBrandImg" target="_blank">
+        <img src="http://img3.xcarimg.com//PicLib/logo/pl23_40.jpg" title="现代" alt="现代" width="40" height="30"></a> <em><a href="http://newcar.xcar.com.cn/search_car/0-0-23-0-0-0-0-0-0-0-0-0/" target="_blank">现代</a></em></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-17-0-0-0-0-0-0-0-0-0/" class="hotBrandImg" target="_blank">
+        <img src="http://img3.xcarimg.com//PicLib/logo/pl17_40.jpg" title="本田" alt="本田" width="40" height="30"></a> <em><a href="http://newcar.xcar.com.cn/search_car/0-0-17-0-0-0-0-0-0-0-0-0/" target="_blank">本田</a></em></dd>
+        <dd><a href="http://newcar.xcar.com.cn/search_car/0-0-2-0-0-0-0-0-0-0-0-0/" class="hotBrandImg" target="_blank">
+        <img src="http://img3.xcarimg.com//PicLib/logo/pl2_40.jpg" title="宝马" alt="宝马" width="40" height="30"></a> <em><a href="http://newcar.xcar.com.cn/search_car/0-0-2-0-0-0-0-0-0-0-0-0/" target="_blank">宝马</a></em></dd>
+      </dl>
+    </div>
+  </div>
+  <div class="Hnav_con">
+    <div class="Hnav_left">
+      <div class="Hnav_tit">买车中心</div>
+      <ul>
+        <li><a href="http://price.xcar.com.cn/" target="_blank">汽车报价</a></li>
+        <li><a href="http://dealer.xcar.com.cn/sale/" target="_blank">降价排行</a></li>
+        <li><a href="http://dealer.xcar.com.cn/" target="_blank">经销商大全</a></li>
+        <li><a href="http://dealer.xcar.com.cn/buy/" target="_blank">车有惠</a></li>
+        <li><a href="http://dealer.xcar.com.cn/info/" target="_blank">促销信息</a></li>
+        <li><a href="http://dealer.xcar.com.cn/dmap.htm" target="_blank">购车地图</a></li>
+        <li><a href="http://used.xcar.com.cn/" target="_blank">二手车</a></li>
+      </ul>
+    </div>
+    <div class="Hnav_right Hnav_recommended">
+      <div class="Hnav_tit">查找最新优惠</div>
+      <dl class="clearfix Hnav_txt">
+        <dt>价格</dt>
+        <dd><a href="http://price.xcar.com.cn/city0-1-1.htm" target="_blank">5万以下</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-2-1.htm" target="_blank">5-8万</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-3-1.htm" target="_blank">8-12万</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-4-1.htm" target="_blank">12-18万</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-5-1.htm" target="_blank">18-25万</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-6-1.htm" target="_blank">25-35万</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-7-1.htm" target="_blank">35-50万</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-8-1.htm" target="_blank">50-70万</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-9-1.htm" target="_blank">70万以上</a></dd>
+      </dl>
+      <dl class="clearfix Hnav_txt">
+        <dt>级别</dt>
+        <dd><a href="http://price.xcar.com.cn/city0-0-9-0-1.htm" target="_blank">微型车</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-0-1-0-1.htm" target="_blank">小型车</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-0-2-0-1.htm" target="_blank">紧凑型车</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-0-3-0-1.htm" target="_blank">中型车</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-0-4-0-1.htm" target="_blank">中大型车</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-0-5-0-1.htm" target="_blank">豪华车</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-0-7-0-1.htm" target="_blank">SUV</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-0-85-0-1.htm" target="_blank">跨界车</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-0-6-0-1.htm" target="_blank">MPV</a></dd>
+        <dd><a href="http://price.xcar.com.cn/city0-0-8-0-1.htm" target="_blank">跑车</a></dd>
+      </dl>
+      <dl class="clearfix Hnav_txt">
+        <dt>品牌</dt>
+        <dd><a href="http://price.xcar.com.cn/brand/p4/city0.htm" target="_blank">大众</a></dd>
+        <dd><a href="http://price.xcar.com.cn/brand/p18/city0.htm" target="_blank">丰田</a></dd>
+        <dd><a href="http://price.xcar.com.cn/brand/p20/city0.htm" target="_blank">日产</a></dd>
+        <dd><a href="http://price.xcar.com.cn/brand/p16/city0.htm" target="_blank">雪佛兰</a></dd>
+        <dd><a href="http://price.xcar.com.cn/brand/p22/city0.htm" target="_blank">起亚</a></dd>
+        <dd><a href="http://price.xcar.com.cn/brand/p13/city0.htm" target="_blank">别克</a></dd>
+        <dd><a href="http://price.xcar.com.cn/brand/p1/city0.htm" target="_blank">奥迪</a></dd>
+        <dd><a href="http://price.xcar.com.cn/brand/p23/city0.htm" target="_blank">现代</a></dd>
+        <dd><a href="http://price.xcar.com.cn/brand/p17/city0.htm" target="_blank">本田</a></dd>
+        <dd><a href="http://price.xcar.com.cn/brand/p2/city0.htm" target="_blank">宝马</a></dd>
+      </dl>
+      <dl class="clearfix Hnav_txt Hno_bor">
+        <dt>推荐</dt>
+        <dd><a href="http://dealer.xcar.com.cn/info/1_475_0_0_0_0/" target="_blank" class="Hot">限时优惠</a></dd>
+        <dd><a href="http://dealer.xcar.com.cn/buy/" target="_blank" class="Hot">热门团购</a></dd>
+      </dl>
+    </div>
+  </div>
+  <div class="Hnav_con">
+    <div class="Hnav_left">
+      <div class="Hnav_tit">用车中心</div>
+      <ul>
+        <li><a href="http://yp.xcar.com.cn/pk/" target="_blank">汽车用品库</a></li>
+        <li><a href="http://yp.xcar.com.cn/book/" target="_blank">用车宝典</a></li>
+        <li><a href="http://yp.xcar.com.cn/tools/" target="_blank">用车工具</a></li>
+        <li><a href="http://yp.xcar.com.cn/wiki/" target="_blank">知识库</a></li>
+        <li><a href="http://newcar.xcar.com.cn/redo/" target="_blank">汽车改装</a></li>
+      </ul>
+    </div>
+    <div class="Hnav_center">
+      <div class="Hnav_tit">用车工具</div>
+      <dl class="Hc_dl01">
+        <dt><a href="http://www.xcar.com.cn/tools/weizhang.php" target="_blank">违章查询</a></dt>
+        <dd class="Hc_pic"><a href="http://www.xcar.com.cn/tools/weizhang.php" target="_blank"></a></dd>
+        <dd>覆盖全国300余个城市的“违章查询系统</dd>
+      </dl>
+      <dl class="Hc_dl02">
+        <dt><a href="http://yp.xcar.com.cn/tools/yh/" target="_blank">油耗查询</a></dt>
+        <dd class="Hc_pic"><a href="http://yp.xcar.com.cn/tools/yh/" target="_blank"></a></dd>
+        <dd>用车必备工具，油耗排行一键查询！</dd>
+      </dl>
+      <dl class="Hc_dl03">
+        <dt><a href="http://yp.xcar.com.cn/tools/bx/" target="_blank">车险比价</a></dt>
+        <dd class="Hc_pic"><a href="http://yp.xcar.com.cn/tools/bx/" target="_blank"></a></dd>
+        <dd>全网首家车险快速精准车险比价工具。</dd>
+      </dl>
+      <dl class="Hc_dl04">
+        <dt><a href="http://yp.xcar.com.cn/tools/by/" target="_blank">保养提示</a></dt>
+        <dd class="Hc_pic"><a href="http://yp.xcar.com.cn/tools/by/" target="_blank"></a></dd>
+        <dd>爱车保养数据均采集自汽车厂商授权4S店</dd>
+      </dl>
+    </div>
+    <div class="Hot_tags">
+      <div class="Hnav_tit">热门标签</div>
+      <ul class="clearfix">
+        <li><a href="http://www.xcar.com.cn/tag/359.html" target="_blank">保养的故事</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/140686.html" target="_blank">用车故障</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/141265.html" target="_blank">车身隔音</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/32.html" target="_blank">改装DIY</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/141268.html" target="_blank">事故知识</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/35.html" target="_blank">驾车技巧</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/1520.html" target="_blank">用车小窍门</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/40424.html" target="_blank">女性用车</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/1528.html" target="_blank">舒适驾驶</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/38.html" target="_blank">修车保养小常识</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/1540.html" target="_blank">汽车奇闻轶事</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="Hnav_con">
+    <div class="Hnav_left">
+      <div class="Hnav_tit">互动中心</div>
+      <ul>
+        <li><a href="http://www.xcar.com.cn/bbs/" target="_blank">汽车论坛</a></li>
+        <li><a href="http://my.xcar.com.cn/thread/hot.htm" target="_blank">论坛热帖</a></li>
+        <li><a href="http://club.xcar.com.cn/active/" target="_blank">车友活动</a></li>  
+        <li><a href="http://club.xcar.com.cn/selected/" target="_blank">社区精选</a></li>
+        <li><a href="http://club.xcar.com.cn/diy/" target="_blank">自驾游</a></li>
+        <li><a href="http://club.xcar.com.cn/weekly/" target="_blank">黑板报</a></li>
+        <li><a href="http://my.xcar.com.cn/duihuan/" target="_blank">积分商城<i class="Hnav_news"></i></a></li>
+        
+      </ul>
+    </div>
+    <div class="Hnav_center">
+      <div class="Hnav_tit">互动工具</div>
+      <dl class="Hc_dl05">
+        <dt><a href="http://my.xcar.com.cn/car/index.php?act=mycar" target="_blank">我的车库</a></dt>
+        <dd class="Hc_pic"><a href="http://my.xcar.com.cn/car/index.php?act=mycar" target="_blank"></a></dd>
+        <dd>一键添加爱车，全方位了解用车记录。</dd>
+      </dl>
+      <dl class="Hc_dl06">
+        <dt><a href="http://tuan.xcar.com.cn/" target="_blank">爱卡团</a></dt>
+        <dd class="Hc_pic"><a href="http://tuan.xcar.com.cn/" target="_blank"></a></dd>
+        <dd>爱卡团购，劲爆折惠福利，卡友专享！</dd>
+      </dl>
+      <dl class="Hc_dl07">
+        <dt><a href="http://my.xcar.com.cn/favorite/hot.htm" target="_blank">热门收藏</a></dt>
+        <dd class="Hc_pic"><a href="http://my.xcar.com.cn/favorite/hot.htm" target="_blank"></a></dd>
+        <dd>爱卡论坛，最新卡友收藏好贴一网打尽。</dd>
+      </dl>
+      <dl class="Hc_dl08">
+        <dt><a href="http://my.xcar.com.cn/event/index.php" target="_blank">热门活动</a></dt>
+        <dd class="Hc_pic"><a href="http://my.xcar.com.cn/event/index.php" target="_blank"></a></dd>
+        <dd>爱卡网友各地区热门活动汇集</dd>
+      </dl>
+    </div>
+    <div class="Hot_tags">
+      <div class="Hnav_tit">热门标签</div>
+      <ul class="clearfix">
+        <li><a href="http://www.xcar.com.cn/tag/48.html" target="_blank">自驾游</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/599.html" target="_blank">美女</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/614.html" target="_blank">吃货最幸福</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/649.html" target="_blank">摄影艺术</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/717.html" target="_blank">藏地之旅</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/51843.html" target="_blank">结婚进行时</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/60217.html" target="_blank">动手达人</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/66521.html" target="_blank">骑行天下</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/71829.html" target="_blank">新人新车</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/88705.html" target="_blank">京郊自驾游</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/151084.html" target="_blank">路书游记</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/609.html" target="_blank">骑车</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="Hnav_con">
+    <div class="Hnav_left">
+      <div class="Hnav_tit">发现中心</div>
+      <ul>
+        <li><a href="http://xtv.xcar.com.cn/" target="_blank">X-TV视频</a></li>
+        <li><a href="http://info.xcar.com.cn/jingpin/" target="_blank">精品栏目</a></li>
+        <li><a href="http://photo.xcar.com.cn/" target="_blank">视觉频道<!--  <i class="Hnav_news"></i>--></a></li>
+        <li><a href="http://www.xcar.com.cn/chezhan/" target="_blank">车展快讯</a></li>
+        <li><a href="http://tech.xcar.com.cn/" target="_blank">汽车科技</a></li>
+        <li><a href="http://www.xcar.com.cn/active/" target="_blank">专题活动</a></li>
+        <li><a href="http://discovery.xcar.com.cn/culture/" target="_blank">文化频道</a></li>
+        <li><a href="http://info.xcar.com.cn/media/" target="_blank">媒体活动</a></li>
+      </ul>
+    </div>
+    <div class="Hnav_center">
+      <div class="Hnav_tit">特色栏目</div>
+      <dl class="Hc_dl09">
+        <dt><a href="http://xtv.xcar.com.cn/tab_list.php?tab_id=19#xtv_container" target="_blank">每周车事</a></dt>
+        <dd class="Hc_pic"><a href="http://xtv.xcar.com.cn/tab_list.php?tab_id=19#xtv_container" target="_blank"></a></dd>
+        <dd>第一美女主持带你阅览一周车事儿！</dd>
+      </dl>
+      <dl class="Hc_dl10">
+        <dt><a href="http://xtv.xcar.com.cn/tab_list.php?tab_id=1#xtv_container" target="_blank">爱卡试车</a></dt>
+        <dd class="Hc_pic"><a href="http://xtv.xcar.com.cn/tab_list.php?tab_id=1#xtv_container" target="_blank"></a></dd>
+        <dd>最专业的测评团队，带你一起聊车！</dd>
+      </dl>
+      <dl class="Hc_dl11">
+        <dt><a href="http://xtv.xcar.com.cn/tab_list.php?tab_id=20#xtv_container" target="_blank">总编评车</a></dt>
+        <dd class="Hc_pic"><a href="http://xtv.xcar.com.cn/tab_list.php?tab_id=20#xtv_container" target="_blank"></a></dd>
+        <dd>总编“王摇贝闾逖樽钔跖频钠莱到谀俊</dd>
+      </dl>
+      <dl class="Hc_dl12">
+        <dt><a href="http://info.xcar.com.cn/x-view/" target="_blank">X-view视觉</a></dt>
+        <dd class="Hc_pic"><a href="http://info.xcar.com.cn/x-view/" target="_blank"></a></dd>
+        <dd>精美汽车视觉大片，收集你的电脑桌面！</dd>
+      </dl>
+    </div>
+    <div class="Hot_tags">
+      <div class="Hnav_tit">热门标签</div>
+      <ul class="clearfix">
+        <li><a href="http://www.xcar.com.cn/tag/141266.html" target="_blank">科技改装</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/6.html" target="_blank">新能源汽车</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/33.html" target="_blank">赛车风云</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/110280.html" target="_blank">新能源科技<!--  <i class="Hnav_hot"></i>--></a></li>
+        <li><a href="http://www.xcar.com.cn/tag/39937.html" target="_blank">国内赛事</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/39944.html" target="_blank">场内赛事</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/141247.html" target="_blank">新能源-新车新闻</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/141254.html" target="_blank">新能源-全部原创</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/39926.html" target="_blank">性能改装</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/39924.html" target="_blank">外观改装</a></li>
+        <li><a href="http://www.xcar.com.cn/tag/73409.html" target="_blank">休闲娱乐</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<script src="http://icon.xcar.com.cn/2014/muban/js/jquery-1.8.3.min.js"></script> 
+<script>
+    //测试使用JS
+    var tabTimer=null;
+	var tabTimeh=null;
+	//选车导航条
+    $(".Headnav .tit,.Hnav_view .Hnav_con").hover(function () {
+		_this=this;
+		if(tabTimeh){
+         clearTimeout(tabTimeh);
+         }
+        tabTimer=setTimeout(function(){
+        if ($(".Headnav .tit").index(_this) >= 0) {
+            var i = $(".Headnav .tit").index(_this);
+        } else {
+            var i = $(".Hnav_view .Hnav_con").index(_this);
+        }
+        $(".Headnav .tit").removeClass("active").eq(i).addClass("active");
+        $(".Hnav_view .Hnav_con").hide().eq(i).show();
+        },200)
+    }, function () {
+        if(tabTimer){
+         clearTimeout(tabTimer);
+         }
+		 tabTimeh=setTimeout(function(){
+           $(".Headnav .tit").removeClass("active");
+           $(".Hnav_view .Hnav_con").hide();
+		 },200)
+    });
+    //SUV展开
+    $(".Hsuv_tb").parent().css("position", "relative").hover(function () {
+        $(this).addClass("active");
+    }, function () {
+        $(this).removeClass("active");
+    });
+	//顶部下拉
+    $(".menubox").hover(function () {
+        $(this).addClass("hover").find(".menutb").addClass("active");	
+		if($(this).hasClass("muser")){
+		   $(this).find('.muser_show').width($(this).width())	
+		}
+    }, function () {
+        $(this).removeClass("hover").find(".menutb").removeClass("active");
+    });
+	
+	
+	
+
+    function setCookierl(name,value,expires,path,domain,secure) {
+    	var exdate=new Date()
+    	exdate.setDate(exdate.getDate()+expires)
+    	var cookieText = encodeURIComponent(name) + "=" + encodeURIComponent(value);
+    	cookieText += ";expires=" + exdate.toGMTString();
+    	if(path){
+    		cookieText += ";path=" + path;
+    	}
+
+    	if(domain){
+    		cookieText += ";domain=" + domain;
+    	}
+
+    	if(secure){
+    		cookieText += ";secure";
+    	}
+
+    	document.cookie = cookieText;
+
+    }
+    
+    
+    function getCookierl(name){
+    	var cookieName  = encodeURIComponent(name) + "=",
+    		cookieStart = document.cookie.indexOf(cookieName),
+    		cookieValue = null;
+    	if(cookieStart>-1){
+    		var cookieEnd = document.cookie.indexOf(";",cookieStart);
+    		if(cookieEnd == -1){
+    			cookieEnd = document.cookie.length;
+    		}
+    		cookieValue = decodeURIComponent(document.cookie.substring(cookieStart + cookieName.length,cookieEnd));
+    	}
+    	return cookieValue;
+    }
+    
+    
+    $('.H_news').parent().mousemove(function(){
+    	$('.H_news').css('display','none');
+    	setCookierl('cms_H_news','OK',30,'/');
+    })
+    
+    $(function(){
+	if(!getCookierl('cms_H_news')){
+		$('.H_news').css('display','block');
+		console.log(111111111);
+	}else{
+		$('.H_news').css('display','none');
+		console.log(2222222222);
+	}
+});
+</script>
+	<div class="l_error">
+		<div class="l_error_top">
+			<div class="l_visit">
+				<span>访问的页面不存在</span>
+				<ul class="l_visiterror">
+					<li><em></em>您输入的网址有误</li>
+					<li><em></em>或该页面已删除</li>
+				</ul>
+			</div>
+			<ul class="roadsign">
+				<li><a href="http://www.xcar.com.cn/?zoneclick=100676" class="roadsignOne"></a></li>
+				<li><a href="http://newcar.xcar.com.cn/search_car/?zoneclick=100677" class="roadsignTwo"></a></li>
+				<li><a href="http://club.xcar.com.cn/?zoneclick=100678" class="roadsignThree"></a></li>
+			</ul>
+		</div>
+	</div>
+<script type="text/javascript">var jqueryname = $;</script>
+<script src="http://js.xcar.com.cn/tools/public_func.js"></script>
+<script src="http://reg.xcar.com.cn/js/xlogin_box_v3.js?v=1.0"></script>
+<div class="content_nt mar_top8">
+  <div class="footer_nt">
+  <p><a href="http://www.xcar.com.cn/about/us/" target="_blank">关于爱卡</a>|<a href="http://www.xcar.com.cn/about/job/" target="_blank">招贤纳士</a>|<a href="http://www.xcar.com.cn/about/contact/" target="_blank">联系我们</a>|<a href="http://www.xcar.com.cn/about/links/" target="_blank">友情链接</a>|<a href="http://newcar.xcar.com.cn/" target="_blank">选车中心</a>|<a href="http://newcar.xcar.com.cn/photo/" target="_blank">汽车图片</a>|<a href="http://club.xcar.com.cn/" target="_blank">汽车论坛</a>|<a href="http://www.xcar.com.cn/about/sitemap/" target="_blank">站点地图</a>|<a href="http://my.xcar.com.cn/total_station_feedback.php" target="_blank">意见反馈</a>|<a href="http://www.xcar.com.cn/chezhan/beijing/" target="_blank">北京车展</a>|<a href="http://www.xcar.com.cn/chezhan/guangzhou/" target="_blank">广州车展</a>|<a href="http://dw.xcar.com.cn/adcount.php?id=178" target="_blank">手机爱卡</a><br />
+  联系地址：北京市海淀区知春路113号银网中心B座16层 邮编：100086 电话：010-82616677 转6580/6289 传真：010-62556006<a href="http://www.xcar.com.cn/register/terms.htm" target="_blank">用户服务协议</a><a href="http://www.xcar.com.cn/register/yinsi.htm" target="_blank">隐私权声明</a> <br />
+&copy;2002-2015 www.xcar.com.cn All rights reserved. 北京智德典康电子商务有限公司（爱卡汽车） 版权所有.京ICP证：010391 号<a href="http://www.xcar.com.cn/about/license/" target="_blank">京网文[2012]0619-205</a></p>
+  </div>
+  </div>
+<script src="http://js.xcar.com.cn/login/msg.js"></script>
+    <script src="http://js.xcar.com.cn/login/header2015.js?d=1029001"></script>
+  
+<script>	
+	  jqueryname("#xlogin").live("click",function(){
+	  jqueryname(".login").xLoginBox({
+	  func:function(){
+	  jqueryname("#xlogininfo").attr("style","");
+	  callLoginScript.call(null);
+	  reloadMsgInfo.call(null);},
+	  args:[],
+	  show:true
+	  });});
+	</script>
+<script type="text/javascript" src="http://msg.xcar.com.cn/newpop/msg_tip_new_forbbs.php?type=cms"></script>
+  <script>
+  (function (G,D,s,c,p) {
+  c={//监测配置
+  UA:"UA-xcar-000001", //客户项目编号,由系统生成
+  NO_FLS:0,//是否使用Flash LocalStorage，默认为0开启，1表示不使用
+  WITH_REF:1, 
+  URL:'http://js.xcar.com.cn/cms/iwt/iwt-min.js'//iwt.js的URL位置，请客户自行托管JS文件，只需修改此值
+  };
+  G._iwt?G._iwt.track(c,p):(G._iwtTQ=G._iwtTQ || []).push([c,p]),!G._iwtLoading && lo();
+  function lo(t) {
+  G._iwtLoading=1;s=D.createElement("script");s.src=c.URL;
+  t=D.getElementsByTagName("script");
+  t=t[t.length-1];
+  t.parentNode.insertBefore(s,t);
+  }
+  })(this,document);
+  </script>
+  <script src="http://dw.xcar.com.cn/analytics.php" type="text/javascript"></script>	
+  <script src="http://ad.xcar.com.cn/ad_simulate_count.js"></script>
+  <script type="text/javascript">
+  var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+  document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F53eb54d089f7b5dd4ae2927686b183e0' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+<script type="text/javascript">
+	MLTracker={
+			mid: 10,
+			serverbaseurl:"data.cbsi.com.cn/",
+			ers: [{type:"pageview",uid:((getCookie("_Xdwuv")||"")+"_"+(getCookie("_discuz_uid")||"")),pid:"",pb:"0"}],
+			track: function (er) {
+				this.ers.push(er);
+			}
+	};
+	(function () {
+	var js = document.createElement("script"), scri = document.getElementsByTagName("script")[0];
+	js.type = "text/javascript";
+	js.async = true;
+	scri.parentNode.insertBefore(js, scri);
+	js.src = "http://dmp.cbsi.com.cn/js/mlt.js";
+    })();
+</script></body>
+</html>

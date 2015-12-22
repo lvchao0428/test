@@ -1,0 +1,626 @@
+<!--UINFO: http://jijinba.hexun.com/d/6524067,jijinba,p1.html	length=49876&last_modified=0&time_saved=1450677003&charset=gb2312-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>《国家自然科学基金资助项目资金管理办法》修订情况答记者问 - 随意基金吧 - 和讯贴吧</title>
+<meta name="keywords" content="《国家自然科学基金资助项目资金管理办法》修订情况答记者问 - 随意" />
+<meta name="description" content="和讯基金吧,权威财经基金吧" />
+
+
+<link rel="stylesheet" type="text/css" href="/css/jijinba.css" />
+<link rel="stylesheet" type="text/css" href="/css/jijinba2010.css" />
+<link rel="stylesheet" type="text/css" href="/htmleditor/css/editor.css" />
+<script src="/js/tieba.js" type="text/javascript"></script>
+<script src="http://jijinba.hexun.com/js/base.js" type="text/javascript"></script>
+<script src="http://jijinba.hexun.com/js/ajax.js" type="text/javascript"></script>
+
+<script language ="javascript" type ="text/javascript" >
+
+function GetParam(){
+    var url = document.location.href;
+    var name="";
+    if(url.indexOf("sid")>0)
+    {
+    if (url.indexOf("=")>0)
+    {
+        name = url.substring(url.indexOf("=")+1,url.indexOf("#"));
+        StockCommentQuote(name);
+    }
+    }
+}
+</script>
+
+<link rel="shortcut icon" href="http://www.hexun.com/favicon.ico" />
+</head>
+<body>
+<!--==========================login-header-s===============================-->
+<link rel="stylesheet" type="text/css" href="http://img.hexun.com/standardfootandhead/2015/css/header_v1.css" />
+<div class="shortcut-2014-w960" id="shortcut-2014">
+ <div class="shortcut-2014-w960-con clearfix">
+  <div class="topHeaderConL"><a href="http://www.hexun.com" target="blank" class="tohome">和讯首页</a>|<a href="http://3g.hexun.com/download_news/" target="_blank" class="mobileUpload">手机和讯</a></div>
+   <div class="topHeaderConR">
+    <link href="http://login.tool.hexun.com/OtherInterFace/style/newbase.css" rel="stylesheet" type="text/css">
+    <script src="http://login.tool.hexun.com/OtherInterFace/js/popup.js" type="text/javascript" charset="gb2312"></script>
+    <script charset="gb2312" type="text/javascript" language="javascript">
+        var href = window.location.href;
+        hexunMember_loginSetup_signOutURL = href; //登出地址
+        hexunMember_loginSetup_noLoginDisplayMsg = ""; //没登陆的提示
+        hexunMember_loginSetup_noLoginDisplayFlag = ""; //登录和注册中间的分隔符号 或 用户名与登出中间的分隔符号，不需要分隔符可以为空
+        hexunMember_loginSetup_islogined_isDisplay = true; //如果是登陆状态，true=显示用户名和登出按钮等信息,flase=不显示任何信息
+        hexunMember_loginSetup_referrer = document.referrer; //请不要修改此项
+        hexunMember_loginSetup_MastLogin = 0; //如果需要不登陆就一直弹窗，在此设置一下弹窗时间间隔(秒)。如果等于0本项无效
+    </script>
+   <!--登录前-->
+    <div id="loginBef" class="loginBef" style="display: block;">
+     <div id="hexunMember_liveDisplay"><div id="hexunMember_nologinSetup_div_display_nologin"><span id="hexunMember_nologinSetup_span_display_noLoginDisplayMsg"></span><span id="hexunMember_nologinSetup_span_display_loginBTN"><a style="cursor:pointer" onclick="javascript:popupLogin();">登录</a></span><span id="hexunMember_nologinSetup_span_display_flag"></span><span id="hexunMember_nologinSetup_span_display_userREG"><a style="cursor:pointer" onclick="javascript:popupReg();">注册</a></span></div></div>
+    </div>
+    <!--登录后-->
+    <div id="loginAfter" class="loginAfter" style="display:none">     
+    </div>
+     <script src="http://jijinba.hexun.com/login_2014_drop.aspx" type="text/javascript" charset="gb2312"></script>
+   </div>
+ </div>
+</div>
+<!--==========================login-header-e===============================-->
+
+
+<!--==========================top-header-s=================================-->
+<div id=headerNav_2014 class="headernav-2014-w960" checkedByCssHelper="true"><a href="http://news.hexun.com/" target=_blank checkedByCssHelper="true">新闻</a>|<a href="http://stock.hexun.com/" target=_blank checkedByCssHelper="true">股票</a>|<a href="http://opinion.hexun.com/" target=_blank checkedByCssHelper="true">评论</a>|<a href="http://forex.hexun.com/" target=_blank checkedByCssHelper="true">外汇</a>|<a href="http://bond.hexun.com/" target=_blank checkedByCssHelper="true">债券</a>|<a href="http://funds.hexun.com/" target=_blank checkedByCssHelper="true">基金</a>|<a href="http://futures.hexun.com/" target=_blank checkedByCssHelper="true">期货</a>|<a href="http://gold.hexun.com/" target=_blank checkedByCssHelper="true">黄金</a>|<a href="http://bank.hexun.com/" target=_blank checkedByCssHelper="true">银行</a>|<a href="http://insurance.hexun.com/" target=_blank checkedByCssHelper="true">保险</a>|<a href="http://datainfo.stock.hexun.com/" target=_blank checkedByCssHelper="true">数据</a>|<a href="http://quote.hexun.com/" target=_blank checkedByCssHelper="true">行情</a>|<a href="http://trust.hexun.com/" target=_blank checkedByCssHelper="true">信托</a>|<a href="http://money.hexun.com/" target=_blank checkedByCssHelper="true">理财</a>|<a href="http://shoucang.hexun.com/" target=_blank checkedByCssHelper="true">收藏</a>|<a href="http://book.hexun.com/" target=_blank checkedByCssHelper="true">读书</a>|<a href="http://auto.hexun.com/" target=_blank checkedByCssHelper="true">汽车</a>|<a id="nav_house" href="http://house.hexun.com/" target=_blank checkedByCssHelper="true">房产</a>|<a href="http://tech.hexun.com/" target=_blank checkedByCssHelper="true">科技</a>|<a href="http://tv.hexun.com/" target=_blank checkedByCssHelper="true">视频</a>|<a href="http://blog.hexun.com/" target=_blank checkedByCssHelper="true">博客</a>|<a href="http://t.hexun.com/default.html" target=_blank checkedByCssHelper="true">微博</a>|<a href="http://guba.hexun.com/default.htm" target=_blank checkedByCssHelper="true">股吧</a>|<a href="http://bbs.hexun.com/" target=_blank checkedByCssHelper="true">论坛</a></div>
+<script language=JavaScript>
+    if (document.cookie.indexOf("CITY=50") != -1) {
+        document.getElementById('nav_house').href = "http://cq.house.hexun.com/";
+    }
+    if (document.cookie.indexOf("CITY=53") != -1) {
+        document.getElementById('nav_house').href = "http://yn.house.hexun.com/";
+    }
+    if (document.cookie.indexOf("CITY=52") != -1) {
+        document.getElementById('nav_house').href = "http://gz.house.hexun.com/";
+    }
+</script>
+
+<!--==========================top-header-e=================================-->
+
+
+<!--===========================logoNav-s===================================-->
+
+<div class="logonav-2014-w960 clearfix">
+  <div class="fl headerL">
+	  <a href="http://www.hexun.com" target="_blank"><img alt="" src="http://img.hexun.com/2015/sylogo/hexun_logo.jpg"></a>
+	  <a href="http://www.hexun.com" target="_blank" id="subChannelLogo"><img src="http://img.hexun.com/images2008/emp.gif" alt="" border="0" /></a>
+  </div>
+
+ <form id="hexunsearch" style="MARGIN: 0px" name="hexunsearch" method="post" target="_blank" onsubmit="return false;">
+  <div class="s_m fr">
+      <!--搜索-->
+		<input type="text" class="hx_inp" id="textMessage" name="textMessage" value="" autocomplete="off" style="color: rgb(133,133, 133);">
+		<input type="button" class="hx_btn" id="btnSearch">
+<input id="stockkey" type="hidden" name="key" value="1">
+	   <input id="stocktype" type="hidden" name="type" value="all">
+      <!--搜索 e--> 
+  </div>
+    </form>
+</div>
+
+
+<div id="searchInfPanel"></div>
+<script type="text/javascript" src="http://img.hexun.com/search/2014/js/config.js"></script>
+<script type="text/javascript" src="http://img.hexun.com/search/2014/js/search.js"></script>
+<script type="text/javascript">
+    hexun.common.Search.get().init({
+        url: "http://so.hexun.com/ajax.do", //数据地址
+        inputID: "textMessage", //搜索框地址ID
+        containerID: "searchInfPanel", //联想容器ID
+        config: urlConfigList, //链接配置
+        searchBtnID: "btnSearch", //搜索按钮的ID
+        openNewPage: true//是否新打开页面,不传时就是在当前页打开
+    });
+</script>
+
+<!--===========================logoNav-e===================================-->
+<div id="wrap">
+
+<!-- 导航登陆 -->
+
+<div id="login">
+<div class="breadcrumbs"><a href="http://funds.money.hexun.com">基金</a> &gt; 
+<a href="http://jijinba.hexun.com/default.htm">基金吧</a> &gt;  <a href='http://jijinba.hexun.com/c/79.html'>基金主题分类</a> &gt;  <a href=http://jijinba.hexun.com/t/6612,jijinba.html>随意吧</a> &gt; 正文  </div>
+<div class="login">
+
+</div>
+</div>
+
+<div class="content">
+    <!-- 基金行情 -->
+    
+    <div id="mainbox">
+        <!-- 内容 -->
+        
+    <!--登录提示窗口-->
+      <div class="signBd" id="loginDiv">
+        <form method="post"  onsubmit="return CheckLoginForm(this)">
+            <div class="signTop"><img src="/img/sign18.gif" onclick="document.getElementById('loginDiv').style.display='none'"/>您还没登陆，请先登陆</div>
+            <div class="signCnt">
+            <div class="signDiv">用户名：<input type="text" name="username" /> </div>
+            <div class="signDiv">密　码：<input type="password" name="password" /> </div>
+            <div class="signBtnPd"><input type="submit" class="signBtn"  value="登陆"/>&nbsp;&nbsp;&nbsp;<input type="button" class="signBtn" onClick="window.open('https://reg.hexun.com/regname.aspx?fromhost=HX_GUBA&backurl=http%3a%2f%2fjijinba.hexun.com%2fDetail.aspx%3fArticleID%3d6524067%26current_page%3d1')"  value="注册"/>&nbsp;&nbsp;&nbsp;<input type="button" class="signBtn" onclick="loginclose"  value="取消"/></div>
+            <div class="look">忘记密码了？点击<a href="http://reg.hexun.com/GetPasswordPre.aspx" target="_blank">"找回密码"</a></div>
+            </div>
+         </form>
+        </div>
+        <script>
+            function CheckLoginForm(loginForm)
+                {
+                    loginForm.action = "https://reg.hexun.com/login.aspx?gourl=" + escape(this.location.href);
+                    if(loginForm.username.value=='')
+	                {
+		                alert('请填写用户名！');
+		                loginForm.username.focus();
+		                return false;
+	                }
+	                else if(loginForm.password.value=='')
+	                {
+		                alert('请填写密码！');
+		                loginForm.password.focus();
+		                return false;
+	                }
+                	
+	                return true;
+                }
+             function adminshow()
+             {
+                var obj = document.getElementById('adminmanage');
+                if(obj.style.display != "block")
+                {
+                    obj.style.display='block';
+                }
+                else
+                {
+                    obj.style.display='none';
+                }
+             }
+             function adminclose()
+             {
+                var obj = document.getElementById('adminmanage');
+                obj.style.display='none';
+             }
+             function loginclose()
+             {
+                var obj = document.getElementById('loginDiv');
+                obj.style.display='none';
+             }
+function SetCwinHeight(){
+  var vote_iframe=document.getElementById("vote_iframe");
+  if (document.getElementById){
+   if (vote_iframe && !window.opera){
+    if (vote_iframe.contentDocument && vote_iframe.contentDocument.body.offsetHeight){
+     vote_iframe.height = vote_iframe.contentDocument.body.offsetHeight+20;
+    }else if(vote_iframe.Document && vote_iframe.Document.body.scrollHeight){
+     vote_iframe.height = vote_iframe.Document.body.scrollHeight+20;
+    }
+   }
+  }
+ }
+        </script>
+     <div class="signBd" id="MessageDiv">
+      <div class="signTop"><img src="/img/sign18.gif" onclick="document.getElementById('MessageDiv').style.display='none'"/>提示框</div>
+      <div class="signCnt">
+      <div class="signMsgDiv" id="MessageDiv_Message">提示框：</div>
+      <div class="signMsgBtnPd"><input type="button" class="signBtn" onClick="document.getElementById('MessageDiv').style.display='none'"  value="关闭"/></div>
+      </div>
+     </div>  
+    <script>
+
+window.onload=function {
+   // var url = document.location.href;
+    alert("测试");
+}
+</script>
+    <!--mainboxcontent-->
+    <input name="pageCount" id="pageCount" value="1" type="hidden" /> 
+    
+    <div class="articleContent">
+        <!--重磅阅读 -->
+        <div class="articleTitle">《国家自然科学基金资助项目资金管理办法》修订情况答记者问</div>
+        <!--articleInfo_l-->
+        <div class="articleInfo_l">
+        楼主 183.232.238.* <span class="font_gray">发表于 2015年5月8日 03:23:16</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="MesWindow"></span><br />
+        <span class="font_gray">本帖地址:http://jijinba.hexun.com/d/6524067,jijinba.html</span>
+        <a href="javascript:copytitle('6524067','《国家自然科学基金资助项目资金管理办法》修订情况答记者问','http://jijinba.hexun.com/d/6524067,jijinba.html')" class="black">复制</a> <a href="javascript:bookmarkThis()" class="black">收藏</a>
+        </div>
+        <!--articleInfo_r-->
+        <div class="articleInfo_r">
+        <span id=span0><a href="#quickreply" onclick="StockRComment()" class=bule2><img src="/img/sign12.gif" alt='回复' /></a>&nbsp;<a href="#quickreply" onclick="StockQuote('6524067')" class=bule2><img src="/img/sign13.gif" alt='引用' /></a>&nbsp;</span>&nbsp;<A href="#" onclick="adminshow()"><IMG class='c3R1' height='21' alt='管理' src='/img/i30.gif' width='68'></A><DIV class='admin' id='adminmanage'><DIV class='title' onclick='adminclose()'><BR><IMG alt="删除" src='/img/sign07.gif'>&nbsp;<a href="javascript:ArticleProcess(4,6524067,'De')" onclick="return confirm('是否删除? ')">删除</a><BR><BR><IMG alt="精华" src='/img/sign02.gif'>&nbsp;<span id='span3'><a href="#" onclick="ArticleProcess(3,6524067,'On')" class='bule2'>精华</a></span><BR><BR><IMG alt="加锁" src='/img/sign08.gif'>&nbsp;<span id='span2'><a href="javascript:ArticleProcess(2,6524067,'On')" class='bule2'>加锁</a></span><BR><BR><IMG alt="置顶" src='/img/sign03.gif'>&nbsp;<span id='span1'><a href="javascript:ArticleProcess(1,6524067,'On')" class='bule2'>置顶</a></span><BR></DIV></DIV>
+        </div>
+        <div class="div_x"></div>
+        <!--article_text-->
+        <div class="detail_cnt"><p>　　随着我国科技投入的不断增长，自然科学基金在我国众多项目资助中，以其较高的诚信，相对合理的资助机制和高质量的管理获得了科技界的广泛认可。然而，科学基金的快速发展，特别是经费的迅速增长，给项目经费管理带来了前所未有的挑战。现有的管理仍然是依据2002年制定的办法，有关方面已经不能满足当前的发展需求。</p><p>　　近年来，<a href='http://gov.hexun.com/mof/index.html'  target='_blank' onmouseover="tipBlogT.showBwInfo(this,'http://gov.hexun.com/gov12.html')">财政部</a>、国家自然科学基金委员会积极探索经费管理模式改革，组织力量开展相关研究工作。一个重大成果是，两部委近日联合修订发布了《国家自然科学基金资助项目资金管理办法》（以下简称《资金管理办法》）。为什么要进行修订？主要内容有哪些变化？具体管理举措有哪些？就此相关问题，财政部教科文司、国家自然科学基金委财务局有关负责人近日回答了记者提问。</p><p>　　<STRONG>落实创新驱动发展战略的具体措施</STRONG></p><p>　　问：请介绍一下新《资金管理办法》修订的背景。</p><p>　　答：近年来，国家财政对自然科学基金投入大幅增长，从2002年19.7亿元增加到2014年194亿元，年均增长率达21%。科学基金项目资助强度稳步提高，资助格局不断调整优化，形成了由研究项目系列、人才项目系列和环境条件项目系列三大资助格局，作为资助主体的面上项目平均资助强度由2002年19.9万元/项提高到2014年79.57万元/项，较大地改善了基础研究的资助环境。</p><p>　　《国家杰出青年科学基金项目资助经费管理办法》《国家自然科学基金项目资助经费管理办法》自2002年颁布以来，对于规范项目资金管理，保障项目研究工作的顺利开展发挥了重要作用。但是，随着自然科学基金面临的外部环境发生变化以及国家财政科技资金管理提出新要求，原办法亟须修订完善：</p><p>　　一是项目依托单位开展研究的条件和环境发生了较大的改变，原办法一些内容已不能适应新形势下科研资金管理和使用的要求，主要涉及预算调整程序、劳务费比例以及对依托单位管理成本补偿等方面,在科技界有着较大的改革呼声。</p><p>　　二是2007年颁布的《国家自然科学基金条例》，从立法上进一步明确了财政部门、自然科学基金委、项目依托单位和项目负责人在项目资金管理和使用中的职责，为进一步做好资助项目资金管理工作奠定了基础。2011年《财政部、<a href='http://gov.hexun.com/most/index.html'  target='_blank' onmouseover="tipBlogT.showBwInfo(this,'http://gov.hexun.com/gov30.html')">科技部</a>关于调整国家科技计划和公益性行业科研专项资金管理办法若干规定的通知》（以下简称434号文），对完善科技资金管理制度提出了进一步的要求。2014年《国务院关于改进加强中央财政科研项目和资金管理的若干意见》（以下简称国务院11号文）和《国务院印发关于深化中央财政科技计划（专项、基金）管理改革方案的通知》（以下简称国务院64号文），对进一步改进和加强科研资金管理提出了新的要求。</p><p>　　因此，修订原办法是落实创新驱动发展战略，执行国务院11号文等科研资金管理文件的具体措施。《资金管理办法》是未来指导自然科学基金资助项目资金使用与管理的重要制度。</p><p>　　问：《资金管理办法》修订的原则是什么？</p><p>　　答：《资金管理办法》的修订遵循了以下三条重要原则：</p><p>　　一是遵循基础研究活动规律，保障科学家探索自由。在国家创新体系建设中，自然科学基金的战略定位是：支持基础研究，坚持自由探索，发挥导向作用。基础研究涉及学科范围广泛，注重原始创新，研究具有较强的探索性和不确定性。《资金管理办法》首先要符合基础研究的活动规律。</p><p>　　二是遵循财政预算管理总体要求，提高财政资金的使用绩效。自然科学基金经费主要来源于中央财政，管理上要体现财政资金预算管理的要求。</p><p>　　三是遵循自然科学基金管理特点。自然科学基金项目申请量大面广，评审时间有限，评审工作需要统筹考虑；资助项目数量多，多数体量小；项目类型多，资助强度差异大。因此，《资金管理办法》应具有普适性。此外，自然科学基金委与项目依托单位没有隶属关系；依托单位因性质、规模和地域不同，管理方式也存在差异。所以，《资金管理办法》的有些规定应比较原则，需要结合依托单位情况进行细化。</p><p>　　<STRONG>七个方面完善项目资金管理</STRONG></p><p>　　问：《资金管理办法》修订的内容主要有哪些？</p><p>　　答：新修订的《资金管理办法》分为总则、项目资金开支范围、预算的编制与审批、预算执行与决算、监督检查及附则共六章三十九条，修订的内容主要包括以下几个方面：</p><p>　　第一，将《国家杰出青年科学基金项目资助经费管理办法》、《国家自然科学基金项目资助经费管理办法》合并修订为《资金管理办法》，适用于自然科学基金资助的所有项目。目前自然科学基金资助的基础科学人才培养项目（除延续项目外）已经取消，剩下的青年项目、面上项目、重点项目、重大项目、重大研究计划等项目都适用于《资金管理办法》。</p><p>　　第二，进一步完善了项目资助方式。现阶段，对于占基金资助体量较大的面上项目和青年基金等多数项目类型，由于申请量大，自由探索性强，继续采取定额补助的资助方式以便于管理；对于重大项目和重大科学仪器设备研制专项两类项目，由于研究目标明确，资金需求量较大，采取成本补偿的资助方式，更能够据实反映不同学科、类型科研项目的实际需求。</p><p>　　第三，建立了项目间接成本补偿机制。《资金管理办法》引入了间接成本补偿机制，将项目资金按照直接费用、间接费用进行了划分。这一做法符合科研活动规律，体现了科学化管理的要求。通过提取一定比例的间接费用，补偿依托单位的管理成本，有利于促进科研机构的良性发展。《资金管理办法》强调依托单位不得在核定的间接费用以外再以任何名义在项目资金中重复提取、列支相关费用。</p><p>　　第四，扩大了劳务费的开支范围，并取消了比例限制。根据国务院11号文有关规定，《资金管理办法》扩大了劳务费的开支范围，一是在研究生、博士后等人员基础上，增加了没有工资性收入的临时聘用人员；二是将临时聘用人员的社会<a href='http://insurance.hexun.com/' target='_blank'>保险</a>补助费用纳入劳务费开支范围。同时，《资金管理办法》取消了劳务费比例限制。</p><p>　　第五，进一步完善了结余资金的管理。项目通过结题验收且依托单位信用评价好的，项目结余资金在2年内由依托单位统筹安排，专门用于基础研究的直接支出。若2年后结余资金仍有剩余的，应按原渠道退回自然科学基金委。对于未通过验收和整改后通过结题验收的项目，或单位信用评价差的，结余资金应当在验收结论下达后30日内按原渠道退回自然科学基金委。此外，项目负责人在项目结题验收后如需继续使用结余资金，可以向依托单位提出申请。</p><p>　　第六，进一步下放了预算调整权限。由于基础研究的探索性和不确定性，《资金管理办法》进一步下放了部分预算调整权限。将原全部预算调整事项均需报自然科学基金委批准，调整为：项目预算总额不变的情况下，直接费用中材料费、测试化验加工费、燃料动力费、出版/文献/信息传播/知识产权事务费、其他支出预算如需调整，由项目负责人根据科研活动的实际需要提出申请，报依托单位审批。会议费、差旅费、国际合作与交流费在不突破三项支出预算总额的前提下可调剂使用。设备费、专家咨询费、劳务费预算一般不予调增，如需调减由依托单位审批。</p><p>　　第七，进一步加强了经费监管。《资金管理办法》根据财政财务管理以及科研项目资金管理的新要求，进一步加强了经费监管。主要包括：一是明确了财政部门、自然科学基金委、项目依托单位和项目负责人在项目资金管理和使用中的职责，强调了依托单位是项目资金管理的责任主体；二是对于部分资金支出提出了实行“公务卡”结算的要求，减少现金支出，实现“痕迹”管理；三是进一步明确规定了资金使用中不得开支的内容；四是对于成本补偿方式资助的项目，增加财务中期检查和验收的环节。</p><p>　　<STRONG>新举措让项目资金管理落到实处</STRONG></p><p>　　问：实施项目间接成本补偿机制有什么考虑？</p><p>　　答：《资金管理办法》将项目资金分为间接费用和直接费用。间接费用是指依托单位在组织实施项目过程中发生的无法在直接费用中列支的相关费用，包括依托单位为提高科研工作的绩效安排的相关支出。新修订的《资金管理办法》开始实施间接成本补偿机制，主要有以下几点考虑：</p><p>　　一是落实国家政策要求。国务院11号文、434号文等文件，对科研支出实行间接费用政策进行了明确规定，修订《资金管理办法》遵循了以上文件对间接费用的相关要求。</p><p>　　二是与国际惯例接轨。<a href='http://news.hexun.com/usa/index.html' target='_blank'>美国</a>国家科学基金会（NSF）很早就实行了间接费用政策。一般来说，NSF会通过与各个高校进行谈判，来确定间接经费在整个资助经费中所占的比例。通常，谈判学校科研水平越高，所在地区经济发展水平越高，间接经费所占比例就会相对较高。结合我国科研管理实际，我们对间接费用制定了统一的上限比例，同时要求间接费用的核定要和依托单位的管理状况、信用等级挂钩，以促进依托单位履职尽责，加强项目和资金管理，为科学基金项目的组织实施提供有效的保障。</p><p>　　三是满足科研的实际需要。原办法中对依托单位的管理成本补助只占项目经费总额的5%，与实际需求相差较大。广大科研工作者难以从项目中获得创新激励。新办法以间接费用形式提高了对依托单位的管理成本补偿，以绩效支出形式提供了对科研工作者的激励。</p><p>　　问：《资金管理办法》对合作研究有什么规定？</p><p>　　答：项目组成员中有除依托单位以外的人员，该人员所在单位视为项目的合作研究单位。其中，如需要向合作研究单位转拨经费的，依托单位应与该合作研究单位签订书面合作协议，并在以下方面遵循相关规定：</p><p>　　第一，有多个单位共同承担一个项目的，依托单位的项目负责人（或申请人）和合作研究单位参与者应当根据各自承担的研究任务分别编报资金预算，经所在单位科研、财务部门审核并签署意见后，由项目负责人（或申请人）汇总编制。</p><p>　　第二，有多个单位共同承担一个项目的，依托单位应及时按预算和合同转拨合作研究单位资金，并加强对转拨资金的监督管理。</p><p>　　第三，有多个单位共同承担一个项目的，依托单位的项目负责人和合作研究单位的参与者应当分别编报项目资金决算，经所在单位科研、财务管理部门审核并签署意见后，由依托单位项目负责人汇总编制。</p><p>　　问：《资金管理办法》还有哪些新的管理举措？</p><p>　　答：一方面，《资金管理办法》适度放开了项目资金使用的条件限制；另一方面，《资金管理办法》也加强了对项目资金使用的监督管理，出台了一系列新的举措，包括：</p><p>　　一是要求建立符合自然科学基金特点的绩效管理制度和评价机制，提高资金使用效率。</p><p>　　二是要求建立项目资金管理承诺机制。依托单位应当承诺依法履行项目资金管理的职责。项目负责人应当承诺提供真实的项目信息，并认真遵守项目资金管理的有关规定。依托单位和项目负责人对信息虚假导致的后果承担责任。</p><p>　　三是要求建立项目资金管理信用机制。自然科学基金委对依托单位和项目负责人在项目资金管理方面的信誉度进行评价和记录，作为对依托单位信用<a href='http://paiming.funds.hexun.com/pj/jajxpj.aspx' target='_blank'>评级</a>、绩效考评和对项目负责人绩效考评以及连续资助的依据。</p><p>　　四是要求建立项目资金信息公开机制。自然科学基金委应当及时公开非涉密项目预算安排情况，接受社会监督。依托单位应当在单位内部公开项目资金预算、预算调整、决算，项目组人员构成、设备购置、外拨资金、劳务费发放以及结余资金和间接费用使用等情况。</p><p>　　五是要求依托单位应当按年度编制本单位项目资金年度收支报告，全面反映项目资金年度收支情况、资金管理情况及取得的绩效等，并于下一年度3月1日前报送自然科学基金委。</p><p>　　问：下一步，将如何贯彻落实《资金管理办法》？</p><p>　　答：新修订的《资金管理办法》有许多新的变化和管理举措，是一项涉及面广、影响深远的改革。《资金管理办法》发布后，财政部、国家自然科学基金委将协作配合，共同努力推进以下工作：</p><p>　　一是抓好重点关键任务的落实。根据国家科技计划改革的整体要求和《资金管理办法》的具体内容，积极推进改革，抓好间接费用政策落实、依托单位信用评价体系、项目资金信息公开机制等重点工作。</p><p>　　二是加强宣传培训，做好政策解读。财政部、国家自然科学基金委将尽快启动全国范围内的宣传培训工作，统一培训材料，统一解释口径，确保依托单位和广大科研人员尽快熟悉政策、理解政策、用好政策。</p><p>　　三是及时了解《资金管理办法》发布后各方的反应，认真研究实施过程中出现的新情况新问题，确保各项政策执行落实到位。</p>
+        <div style="width:640px;padding-top:20px;margin:auto">
+        <script type='text/javascript'> 
+            cpro_client='hexun_cpr';
+            cpro_at='text'; 
+            cpro_161=3; 
+            cpro_flush=4; 
+            cpro_w=640; 
+            cpro_h=60; 
+            cpro_template='text_default_640_60'; 
+            cpro_cbd='#FFFFFF'; 
+            cpro_cbg='#FFFFFF'; 
+            cpro_ctitle='#0000ff'; 
+            cpro_cdesc='#444444'; 
+            cpro_curl='#008000'; 
+            cpro_cflush='#e10900'; 
+            cpro_uap=1;
+            cpro_cad=1;
+            </script>
+            <script language='JavaScript' type='text/javascript' src='http://cpro.baidu.com/cpro/ui/cp.js'></script>
+        </div>
+        
+        </div>
+    </div>
+    
+    <!--mainboxcontent_end-->
+    <div class="clear"></div>
+    <!--restore_box-->
+    <div class="restore_box" style="margin-left: 5px;">
+        
+    </div>
+    <!--restore_box-->
+    <!-- 分页 -->
+    <form name='gotopage' action='' method='post' onsubmit="GotoPage(gotopage.jump_page.value);return false;" ><div class="detail2d"><div id="pageNext"><div class="pageText">评论0条,1页</div>	&nbsp;</div><div class="clear"></div></div></form><div id="page_btn_null"></div>
+
+
+
+        <!-- 发新帖 -->
+
+        <div class="newarticletext">发表回复&nbsp;&nbsp;<span id="commenttag" style="color:#ff0000"></span></div>
+        
+
+<script type="text/javascript" src="/htmleditor/js/common.js"></script>
+<script type="text/javascript" src="/htmleditor/js/emote.js"></script>
+<script type="text/javascript" src="/htmleditor/js/editor_common.js"></script>
+<script type="text/javascript" src="/htmleditor/js/editor_config.js"></script>
+
+
+<div id="AddComment1_Panel1">
+	
+<form name="form2" id="form2" method="post" action = "/PostComment.aspx" onsubmit="Editor.setContent();return stockcheckcomment();" onkeydown="if(event.ctrlKey&&event.keyCode==13)this.submit()">
+<div id="newarticle">
+<dl>
+<dt>内　　容：</dt>
+<dd>
+<div id="soBlog">
+
+<!-- 编辑器第二部分开始  -->
+<div class="all_container">
+    <div id="menuContainer" class="menu_container">
+    </div>
+    <div id="editorContainer" class="editor_container">
+        <textarea id="content" name="content" class="editor_coder"></textarea>
+    </div>
+</div>
+<!-- 编辑器第二部分结束  -->
+
+<!-- 编辑器第三部分开始  -->
+
+<script type="text/javascript">
+    window.onload = function()
+    {
+        Config.imagePageUrl = "http://post.photo.hexun.com/upload/tieba2Upload.aspx?backurl=http://jijinba.hexun.com/uploadPhotoCallBack.aspx";
+        Config.filePageUrl = "http://hexun.com/UpLoadExpertFile.aspx?host=jijinba.hexun.com";
+        Config.mediaPageUrl = "http://post.music.hexun.com/UploadSpaceCover.aspx?type=2&host=http://jijinba.hexun.com/uploadMediaCallBack.aspx";                                       
+        Config.showFooter = false;
+        Config.isAdmin = true;
+        Config.basePath = "/htmleditor/";
+        Editor.init($("menuContainer"),$("editorContainer"),$("content"));
+    };
+</script>
+<!-- 编辑器第三部分结束  -->
+</div>
+</dd>
+<!--
+<dt>图片链接：</dt>
+<dd><input name="picurl" id="pucurl" type="text" value="http://"/></dd>
+<dt>验证码：</dt><dd>
+<input name="checkimg" size="4" id="checkimg" type="text" style="width:50px" onclick="FirstValidationShow()" />　点击输入框获取验证码，<a href="javascript:void(0)" onclick="GetValidationData()"><span style="color:Red">看不清楚，请点击这里重新获取新验证码。</span></a><br />
+<div id="Validation"></div>
+</dd>
+-->
+</dl>
+<div class="attention"><input id="ArticleSubmit" type="image" src="/img/button_appear.gif" /><a href="http://reg.hexun.com/html/fetk.htm" target="_blank">请阅读服务条款</a></div>
+<input name="ArticleID" value="6524067" type="hidden" />
+<input name="CC" id="CC" value="0" type="hidden" />
+<!-- 引用文章ID -->
+<input name="AQuote" id="AQuote" value="0" type="hidden" />
+<!-- 引用评论ID -->
+<input name="CQuote" id="CQuote" value="0" type="hidden" />
+
+</div>
+</form>
+
+
+</div>
+
+<div class="line40"></div>
+        <a name="quickreply" id="quickreply">&nbsp;</a>
+        <script>
+            document.MisFrm.sw.focus();
+        </script>
+        
+        
+        <div class="clear"></div>
+    </div>
+    <!-- 侧边 -->
+    <div id="sidebar">
+        <div style="padding:5px">
+        
+        
+        </div> 
+       <div style="padding:5px">
+                <script type='text/javascript'> 
+                cpro_client='hexun_cpr';
+                cpro_at='text'; 
+                cpro_161=2; 
+                cpro_flush=4; 
+                cpro_w=120; 
+                cpro_h=240; 
+                cpro_template='text_default_120_240'; 
+                cpro_cbd='#FFFFFF'; 
+                cpro_cbg='#FFFFFF'; 
+                cpro_ctitle='#0000ff'; 
+                cpro_cdesc='#444444'; 
+                cpro_curl='#008000'; 
+                cpro_cflush='#e10900'; 
+                cpro_uap=1;
+                cpro_cad=1;
+                </script>
+               
+                 <script type="text/javascript">/*180*150，创建于2012-6-19基金吧文章页*/ var cpro_id = 'u949548';</script><script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script>
+                </div>
+        <!--div class="line15"></div-->
+         <div id="showbarSost1">吧主:<a href='http://jijinba.hexun.com/score/default.aspx?id=6530629' target='_blank'>天天炒金</a></div> <br> （<a href=/Apply.aspx?TopicID=6612>申请吧主</a>）
+        
+        <div class="line15"></div>
+        <div>
+            
+        </div>
+
+        <div class="line15"></div>
+         <!-- 理财客 -->
+         				<style>
+				.sideBox{border:solid 1px #bebebe;}
+				.sideBoxCon{padding:8px 5px 0;width:170px;}
+				.h4jxTit{width:100%; height:28px; background:url(http://img.hexun.com/hx_jxjj.jpg) no-repeat 0 0;overflow:hidden}
+				.jjtab001{width:100%;}
+				.jjtab001 td{border-bottom:dotted 1px #d8d8d8; height:24px; line-height:24px;padding:0 3px;color:#000;font-size:12px;font-family:\5b8b\4f53;}
+				.jjtab001 td.tb_bno{border-bottom:none;}
+				.jjbuyBtn{background:url(http://img.hexun.com/jj_buy_btn.jpg) no-repeat 0 0;width:28px; height:14px;overflow:hidden; display:block;}
+				.jjUl001{width:100px;padding-top:7px}
+				.jjUl001 li{width:100%; height:22px; line-height:22px;overflow:hidden;}
+				.jjUl001 li a,.jjUl001 li a:hover{color:#485a90;font-size:12px; text-decoration:underline;}
+				.jjUl001 li a:hover{color:#900;}
+				.jjP001{background:#f7f7f7;color:#000; height:24px; line-height:26px;width:100%; text-align:center;margin-top:7px;overflow:hidden}		
+				
+				</style>
+
+				<div class="sideBox">
+					<div class="sideBoxCon">
+						<h4 class="h4jxTit"></h4>
+						<table class="jjtab001" cellpadding="0" cellspacing="0" border="0">
+							<tr><td width="38"><a href="http://jingzhi.funds.hexun.com/519505.shtml" target="_blank">519505</a></td><td width="104"><a href="http://jingzhi.funds.hexun.com/519505.shtml" target="_blank">海富通货币A</a></td><td width="28"><a href="https://emall.licaike.com/fund/purchase/FirstLoad.action?knownchannel=jijinba&fundCode=519505" target="_blank" class="jjbuyBtn"></a></td></tr>
+							<tr><td><a href="http://jingzhi.funds.hexun.com/270004.shtml" target="_blank">270004</a></td><td><a href="http://jingzhi.funds.hexun.com/270004.shtml" target="_blank">广发货币</a></td><td><a href="https://emall.licaike.com/fund/purchase/FirstLoad.action?knownchannel=jijinba&fundCode=270004" target="_blank" class="jjbuyBtn"></a></td></tr>
+							<tr><td><a href="http://jingzhi.funds.hexun.com/160606.shtml" target="_blank">160606</a></td><td><a href="http://jingzhi.funds.hexun.com/160606.shtml" target="_blank">鹏华货币</a></td><td><a href="https://emall.licaike.com/fund/purchase/FirstLoad.action?knownchannel=jijinba&fundCode=160606" target="_blank" class="jjbuyBtn"></a></td></tr>
+							<tr><td class="tb_bno"><a href="http://jingzhi.funds.hexun.com/482002.shtml" target="_blank">482002</a></td><td class="tb_bno"><a href="http://jingzhi.funds.hexun.com/482002.shtml" target="_blank">工银货币</a></td><td class="tb_bno"><a href="https://emall.licaike.com/fund/purchase/FirstLoad.action?knownchannel=jijinba&fundCode=482002" target="_blank" class="jjbuyBtn"></a></td></tr>
+						</table>
+						<ul class="jjUl001">
+							<li><a href="http://licaike.hexun.com/List.action" target="_blank">购买其他基金</a></li>
+							<li><a href="https://emall.licaike.com/fund/console/Init.action" target="_blank">登录我的理财账户</a></li>
+							<li><a href="https://emall.licaike.com/fund/register/Rit1Init.action?returnUrl=" target="_blank">新建理财账户</a></li>
+						</ul>
+					</div>
+					<p class="jjP001">理财客是和讯旗下基金销售平台</p>
+				</div>
+        <!-- 大家在讨论什么 -->
+        <div id="GetFavorArtilceList"></div>
+        <!-- 大家关注的主题吧 -->
+        <div id="GetFavorTopicList"></div>
+        <!-- 路透专区 -->
+        <div id="GetReutersList"></div>
+        <!-- 财经网专区 -->
+        <div id="GetCaiJing"></div>
+        <!-- 广告 -->
+        <div id="GetAdList"></div>
+        <div id="articleClickCount" style="display:none"></div>
+    </div>
+</div>
+
+
+
+  
+
+</div>
+<!-- 调用尾 -->
+<!--footer s-->
+<div style="clear:both"></div>
+
+<link rel="stylesheet" type="text/css" href="http://img.hexun.com/standardfootandhead/2015/css/footer_v1.css" />
+<div class="footer_2014">
+	
+	<div class="bt_pd_nav clearfix">
+		 <dl class="pd_paths">
+		 	<dt><span>频<br/>道</span></dt>
+			<dd>
+				<p><a href="http://news.hexun.com/" target="_blank">新闻</a><a href="http://stock.hexun.com/" target="_blank">股票</a><a href="http://funds.hexun.com/" target="_blank">基金</a><a href="http://gold.hexun.com/" target="_blank" class="no_mr">黄金</a></p>
+				<p><a href="http://forex.hexun.com/" target="_blank">外汇</a><a href="http://futures.hexun.com/" target="_blank">期货</a><a href="http://insurance.hexun.com/" target="_blank">保险</a><a href="http://bank.hexun.com/" target="_blank" class="no_mr">银行</a></p>
+				<p><a href="http://money.hexun.com/" target="_blank">理财</a><a href="http://bond.hexun.com/" target="_blank">债券</a><a href="http://iof.hexun.com/" target="_blank">互金</a><a href="http://opinion.hexun.com/" target="_blank" class="no_mr">评论</a></p>
+			</dd>
+		 </dl>
+		 
+		 <dl class="jy_paths">
+		 	<dt><span>交<br/>易</span></dt>
+			<dd>
+				<p><a href="http://licaike.hexun.com/" target="_blank"><img alt="" src="http://img.hexun.com/standardfootandhead/2015/img/lck_logo.jpg" /></a><a href="http://www.fangxinbao.com/" target="_blank"><img alt="" src="http://img.hexun.com/standardfootandhead/2015/img/fxb_logo.jpg" /></a><a href="http://pxpt.hexun.com/index.html" target="_blank" class="no_mr"><img alt="" src="http://img.hexun.com/standardfootandhead/2015/img/tzxy_logo.jpg" /></a></p>
+				<p class="jy_mt11"><a href="http://c.hexun.com/" target="_blank"><img alt="" src="http://img.hexun.com/standardfootandhead/2015/img/clh_logo.jpg" /></a><a href="http://cpb.hexun.com/" target="_blank"><img alt="" src="http://img.hexun.com/standardfootandhead/2015/img/cpb_logo.jpg" /></a><a href="http://p2p.hexun.com" target="_blank" class="no_mr"><img alt="" src="http://img.hexun.com/standardfootandhead/2015/img/p2p_logo.jpg" />
+</a></p>
+			</dd>
+		 </dl>
+		 
+		 <dl class="yd_paths">
+		 	<dt><span class="yd_i"></span></dt>
+			<dd>
+			<p><a href="http://3g.hexun.com/download_news/" target="_blank">财经新闻端</a><a href="http://3g.hexun.com/download_stock/" target="_blank">股票客户端</a><a href="http://3g.hexun.com/download_fund/" target="_blank" class="no_mr">基金客户端</a></p>
+				<p><a href="http://3g.hexun.com/download_forex/" target="_blank">外汇客户端</a><a href="http://3g.hexun.com/download_futures/" target="_blank">期货客户端</a><a href="http://3g.hexun.com/download_report/" target="_blank" class="no_mr">机构底牌</a></p>
+				<p><a href="http://3g.hexun.com/download_spot/" target="_blank">现货客户端</a><a href="http://3g.hexun.com/h5/" target="_blank">手机和讯网</a><a href="http://3g.hexun.com/download_gold/" target="_blank" class="no_mr">贵金属客户端</a></p> 
+			</dd>
+		 </dl>
+		 
+	</div>
+	
+	<div class="footerBox_2014"><a href="http://cvs.hexun.com/feedback/support.htm" target=_blank  id="hexunUserSuggest">和讯恭候您的意见</a> - <a href="http://corp.hexun.com/contact/index.html" target=_blank>联系我们</a> - <a href="http://corp.hexun.com/default/index.html" target=_blank>关于我们</a> - <a href="http://corp.hexun.com/adcenter/index.html" target=_blank>广告服务</a> 
+	<p><script type="text/javascript">	       document.write("违法和不良信息举报电话：010-85650899 传真：010-85650844 邮箱：yhts@staff.hexun.com");</script><br>本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。<br>Copyright 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究</p></div>
+
+</div>
+<script src="http://news.hexun.com/js/count.js?date=200911261100"></script>
+<script src="http://jijinba.hexun.com/js/track_hx.js"></script>
+<script src="http://img.hexun.com/js/inc_2015_new.js?date=201406191425"></script>
+<script type="text/javascript">
+    (function () {
+        //全站通发广告
+        var reg = /\/\d{9}(_\d+)?.(html|html\?\w*)$/;
+        if (reg.test(location.href)) {
+            document.write('<script type="text/javascript" src="http://itv.hexun.com/lbi-html/ly/2011/allPages/tempAd.js"><\/script>');
+        }
+    })()
+</script>
+
+<script type="text/javascript" src="http://jijinba.hexun.com/js/TB.main.js?20120222"></script>
+
+<!-- 缔元信代码 start -->
+<!-- START WRating v1.0 -->
+<script type="text/javascript" src="http://c.wrating.com/a1.js">
+</script>
+<script type="text/javascript">
+    var vjAcc = "860010-2918010100";
+    var wrUrl = "http://c.wrating.com/";
+    vjTrack("");
+</script>
+<noscript><img src="http://c.wrating.com/a.gif?a=&c=860010-2918010100" width="1" height="1"/></noscript>
+<!-- END WRating v1.0 -->
+
+<script language="JavaScript" type="text/javascript">
+    //20140130 JakeChiu
+    if (typeof (setCookUrl) == 'undefined') { var setCookUrl = { lang: {}, params: {}} };
+    setCookUrl = {
+        getCookieJsonp: function (url, callback, jp_no) {
+            var url = (url.indexOf('?') != -1) ? (url + '&') : (url + '?');
+            var name = 'hxbase_json' + new Date().getTime() + '' + Math.floor(Math.random() * 10000000 + 1);
+            if (typeof jp_no != 'undefined') name += jp_no;
+            url += 'callback=' + name;
+            window[name] = callback;
+            var road = document.createElement('script');
+            road.type = 'text/javascript';
+            road.src = url;
+            document.getElementsByTagName('head')[0].appendChild(road);
+            if (road.readyState) {
+                road.onreadystatechange = function () {
+                    if (road.readyState == 'loaded' || road.readyState == 'complete') {
+                        road.onreadystatechange = null;
+                        document.getElementsByTagName('head')[0].removeChild(road);
+                        window[name] = 'undefined';
+                        try { delete window[name]; }
+                        catch (e) { }
+                    }
+                }
+            }
+            else {
+                road.onload = function () {
+                    document.getElementsByTagName('head')[0].removeChild(road);
+                    window[name] = 'undefined';
+                    try { delete window[name]; }
+                    catch (e) { }
+                }
+            }
+        },
+        getCookieSid: function (key) {
+            var aCookie = document.cookie.split(";");
+            for (var i = 0; i < aCookie.length; i++) {
+                var aCrumb = aCookie[i].split("=");
+                if (key === aCrumb[0].replace(/^\s*|\s*$/, "")) {
+                    return unescape(aCrumb[2]);
+                }
+            }
+        },
+        getCookieUserId: function (key) {
+            var aCookie = document.cookie.split(";");
+            for (var i = 0; i < aCookie.length; i++) {
+                var aCrumb = aCookie[i].split("=");
+                if (key === aCrumb[0].replace(/^\s*|\s*$/, "")) {
+                    return unescape(aCrumb[1]).split("|")[0];
+                    //   return unescape(aCrumb[2]);
+                }
+            }
+        },
+        getCookieUrl: function (type) {
+            var getsid = setCookUrl.getCookieSid("HexunTrack").split("&")[0];
+            var getuse = 0;
+            if (typeof (setCookUrl.getCookieUserId("userToken")) != "undefined" && setCookUrl.getCookieUserId("userToken") != "") {
+                getuse = setCookUrl.getCookieUserId("userToken");
+            }
+            var userid = "";
+            var cookieId = "";
+            //alert(getsid+"||"+getuse)
+            var cookieUrl = "http://m.wrating.com/m.gif?a=&c=860010-2370010130&mcookie="
+            var cookieUrl2 = "http://m.wrating.com/m.gif?a=&c=860010-2370010131&mcookie="
+            if (type == "sid") {
+                if (getsid != "" && getsid != "undefined") {
+                    return cookieUrl + getsid;
+                } else {
+                    return cookieUrl
+                }
+            }
+            if (type == "use") {
+                return cookieUrl2 + getuse;
+            }
+        },
+        postCookieUrl: function () {
+            var sidurl = setCookUrl.getCookieUrl("sid");
+            var useurl = setCookUrl.getCookieUrl("use");
+            setCookUrl.getCookieJsonp(sidurl);
+            setCookUrl.getCookieJsonp(useurl);
+        }
+    };
+    setCookUrl.postCookieUrl();
+</script>
+<!-- 缔元信代码 end -->
+
+
+<!-- 文章点击统计 -->
+<script type="text/javascript" src="http://click.tool.hexun.com/jiJinbarclick.aspx?aid=6524067&topicid=6612"></script>
+<script type="text/javascript" src="http://jijinba.hexun.com/GetArticleSide.aspx?ArticleID=6524067"></script>
+
+<div id="pageTail" /><script language="javascript" src="http://hxjs.tool.hexun.com/bar/pageMediaControl4.js"></script>
+
+
+
+
+
+<!--分享start-->
+<script type="text/javascript">
+(function(){
+  var reg = /^[http:\/\/\w|\w\.*\w|\w]+\.hexun\.com(\/|(\?[^\/]+)|\/index.html|\/index\-[\w]+.html)*$/;
+  if(!reg.test(window.location.href)) {
+    document.write('\x3Cscript type="text/javascript" src="http://img.hexun.com/base/version/hx_base.min1.1.js">\x3C/script>'+'\x3Cscript type="text/javascript" src="http://img.hexun.com/share/hxShare2011.js">\x3C/script><link href="http://img.hexun.com/share/hxShare2011.css" type="text/css" rel="stylesheet" />');
+    if(window.attachEvent) window.attachEvent('onload',function() {hxShare2011('');});
+if(window.addEventListener) window.addEventListener('load',function(){hxShare2011('');},false);
+  }
+})();
+
+GetParam();
+
+</script>
+<!--分享over-->
+<!--基金关注度收集代码开始-->
+
+<!--基金关注度收集代码结束-->
+</body>
+</html>

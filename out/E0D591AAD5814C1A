@@ -1,0 +1,164 @@
+<!--UINFO: http://bbs.nhzj.com/thread-4210875-1-1.html	length=14646&last_modified=0&time_saved=1450677186&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>提示信息 -  宁海在线 -  宁海门户</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",宁海在线" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.nhzj.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?Jyf" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_viewthread.css?Jyf" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Jyf', charset = 'gbk', discuz_uid = '0', cookiepre = 'fypw_d26d_', cookiedomain = '.nhzj.com', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'login|newthread|reply', creditnotice = '1|积分|,2|威望|,3|激情|,4|体力|,5|线金|元,6|金币|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5uaHpqLmNvbS90aHJlYWQtNDIxMDg3NS0xLTEuaHRtbA==', SITEURL = 'http://bbs.nhzj.com/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?Jyf" type="text/javascript"></script>
+<meta name="application-name" content="宁海在线" />
+<meta name="msapplication-tooltip" content="宁海在线" />
+<meta name="msapplication-task" content="name=首页;action-uri=http://www.nhzj.com;icon-uri=http://bbs.nhzj.com/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=论坛;action-uri=http://bbs.nhzj.com;icon-uri=http://bbs.nhzj.com/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=家园;action-uri=http://home.nhzj.com;icon-uri=http://bbs.nhzj.com/static/image/common/home.ico" /><link rel="archives" title="宁海在线" href="http://bbs.nhzj.com/archiver/" />
+<script src="data/cache/forum.js?Jyf" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+            
+            
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://bbs.nhzj.com/');">设为首页</a><a href="http://bbs.nhzj.com/"  onclick="addFavorite(this.href, '宁海在线');return false;">收藏本站</a><script type="text/javascript">var _speedMark = new Date();</script></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onClick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onClick="widthauto(this)" title="切换到宽版" class="switchwidth">切换到宽版</a>
+</div>
+</div>
+</div>
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=nhzj" class="xi2 xw1">立即注册</a>
+</div>
+</div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="http://nhzj.com/" title="宁海在线"><img src="static/image/common/logo.png" alt="宁海在线" border="0" /></a></h2><script src="data/cache/logging.js?Jyf" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td><label for="ls_username">帐号</label></td>
+<td><input type="text" name="username" id="ls_username" class="px vm xg1"  value="UID/用户名/Email/手机号" onfocus="if(this.value == 'UID/用户名/Email/手机号'){this.value = '';this.className = 'px vm';}" onblur="if(this.value == ''){this.value = 'UID/用户名/Email/手机号';this.className = 'px vm xg1';}" tabindex="901" /></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />自动登录</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password">密码</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;"><em>登录</em></button></td>
+<td>&nbsp;<a href="member.php?mod=nhzj" class="xi2 xw1">立即注册</a></td>
+</tr>
+</table>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</div>
+</div>
+</form>
+
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onMouseOver="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(0);})">快捷导航</a>
+<ul><li id="mn_portal" ><a href="http://www.nhzj.com" hidefocus="true" title="Portal"  >首页<span>Portal</span></a></li><li class="a" id="mn_forum" ><a href="http://bbs.nhzj.com" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li><li id="mn_Nc4f3" ><a href="forum-5-1.html" hidefocus="true"  >动态</a></li><li id="mn_N0aca" ><a href="forum-58-1.html" hidefocus="true"  >婚嫁</a></li><li id="mn_N2c2c" ><a href="forum-144-1.html" hidefocus="true"  >美食</a></li><li id="mn_N7557" ><a href="forum-120-1.html" hidefocus="true"  >房产</a></li><li id="mn_N9ada" ><a href="http://www.nhzj.com/family.php" hidefocus="true"  >家居</a><span class="news"></span></li><li id="mn_N7294" ><a href="forum-167-1.html" hidefocus="true"  >人才</a></li><li id="mn_Nf5b7" ><a href="forum-8-1.html" hidefocus="true" title="同城交易"  >同城<span>同城交易</span></a></li><li id="mn_N34c9" ><a href="forum-15-1.html" hidefocus="true"  >汽车</a></li></ul>
+
+</div>
+                <div class="topbanner"><ul style="width:938px"><li style="width:76px;"><a href="forum-14-1.html" title="朝闻天下" target="_blank">朝闻天下</a></li><li style="width:48px;"><a href="http://bbs.nhzj.com/forum.php?mod=forumdisplay&fid=11&filter=typeid&typeid=36" title="交友" target="_blank">交友</a></li><li style="width:62px;"><a href="http://bbs.nhzj.com/forum.php?mod=forumdisplay&fid=167&filter=typeid&typeid=216" title="找工作" target="_blank">找工作</a></li><li style="width:76px;"><a href="http://bbs.nhzj.com/forum.php?mod=forumdisplay&fid=30&filter=typeid&typeid=106" title="孕妇交流" target="_blank">孕妇交流</a></li><li style="width:76px;"><a href="http://bbs.nhzj.com/forum.php?mod=forumdisplay&fid=34&filter=typeid&typeid=73" title="单车作业" target="_blank">单车作业</a></li><li style="width:76px;"><a href="forum-9-1.html" title="中介房源" target="_blank">中介房源</a></li><li style="width:48px;"><a href="forum-50-1.html" title="家居" target="_blank">家居</a></li><li style="width:76px;"><a href="forum-121-1.html" title="我要买房" target="_blank">我要买房</a></li><li style="width:48px;"><a href="forum-49-1.html" title="手机" target="_blank">手机</a></li><li style="width:62px;"><a href="forum-52-1.html" title="二手车" target="_blank">二手车</a></li><li style="width:76px;"><a href="http://bbs.nhzj.com/forum.php?mod=forumdisplay&fid=34&filter=typeid&typeid=74" title="旅记攻略" target="_blank">旅记攻略</a></li><li style="width:76px;"><a href="forum-31-1.html" title="健康人生" target="_blank">健康人生</a></li><li style="width:62px;"><a href="plugin.php?id=nhzj_xgh" title="限购惠" target="_blank">限购惠</a></li><li style="width:76px;"><a href="forum-26-1.html" title="宁海商家" target="_blank">宁海商家</a></li><li style="width:76px;"><a href="forum-48-1.html" title="法律咨询" target="_blank">法律咨询</a></li><li style="width:48px;"><a href="http://bbs.nhzj.com/forum.php?mod=forumdisplay&fid=11&filter=typeid&typeid=37" title="征婚" target="_blank">征婚</a></li><li style="width:62px;"><a href="http://bbs.nhzj.com/forum.php?mod=forumdisplay&fid=167&filter=typeid&typeid=217" title="找人才" target="_blank">找人才</a></li><li style="width:76px;"><a href="http://bbs.nhzj.com/forum.php?mod=forumdisplay&fid=30&filter=typeid&typeid=66" title="育儿知识" target="_blank">育儿知识</a></li><li style="width:76px;"><a href="http://bbs.nhzj.com/forum.php?mod=forumdisplay&fid=34&filter=typeid&typeid=71" title="驴友活动" target="_blank">驴友活动</a></li><li style="width:76px;"><a href="forum-122-1.html" title="商铺信息" target="_blank">商铺信息</a></li><li style="width:48px;"><a href="http://bbs.nhzj.com/forum.php?mod=forumdisplay&fid=8&filter=typeid&typeid=112" title="换物" target="_blank">换物</a></li><li style="width:76px;"><a href="forum-40-1.html" title="投资创业" target="_blank">投资创业</a></li><li style="width:48px;"><a href="forum-55-1.html" title="号码" target="_blank">号码</a></li><li style="width:62px;"><a href="forum-59-1.html" title="车友会" target="_blank">车友会</a></li><li style="width:76px;"><a href="http://bbs.nhzj.com/forum.php?mod=forumdisplay&fid=144&filter=typeid&typeid=160" title="美食分享" target="_blank">美食分享</a></li><li style="width:76px;"><a href="forum-53-1.html" title="社区生活" target="_blank">社区生活</a></li><li style="width:62px;"><a href="forum-135-1.html" title="纪念堂" target="_blank">纪念堂</a></li><li style="width:76px;"><a href="forum-18-1.html" title="电脑数码" target="_blank">电脑数码</a></li></ul></div><div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="/search/index.php" target="_blank">
+<input type="hidden" name="t" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="6b1a2e29" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="fid" value="0" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="q" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p>抱歉，指定的主题不存在或已被删除或正在被审核</p>
+<script type="text/javascript">
+if(history.length > (BROWSER.ie ? 0 : 1)) {
+document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ 点击这里返回上一页 ]</a></p>');
+} else {
+document.write('<p class="alert_btnleft"><a href="./">[ 宁海在线 首页 ]</a></p>');
+}
+</script>
+</div>
+</div>
+</div>
+</div>	</div>
+<div class="wp a_f"><style>
+.a_t td {padding:0 !important;border:0}
+</style>
+<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  <tr>
+  <td>
+<a href="http://www.nbnetcop.gov.cn/" target="_blank"><img src="gg/jj.jpg" border="0"></a>
+<a href="http://police.cnool.net/infoCategoryListAction.do?act=init" target="_blank"><img src="gg/wlaq.gif" border="0"></a>
+<a href="http://www.nbnetcop.gov.cn/" target="_blank"><img src="gg/cc.jpg" border="0"></a>
+</div></td>
+  </tr>
+</table>
+</div>
+</div><div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="http://bbs.nhzj.com/forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><a href="http://bbs.nhzj.com/forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><a href="http://bbs.nhzj.com/archiver/" >Archiver</a><span class="pipe">|</span><strong><a href="http://www.nhzj.com" target="_blank">宁海在线</a></strong>
+( <a href="http://www.miitbeian.gov.cn/" target="_blank">浙B2-20090316</a> )&nbsp;<a href="http://discuz.qq.com/service/security" target="_blank" title="防水墙保卫网站远离侵害"><img src="static/image/common/security.png"></a>&nbsp;&nbsp;<span id="tcss"></span><script type="text/javascript" src="http://tcss.qq.com/ping.js?v=1VERHASH" charset="utf-8"></script><script type="text/javascript" reload="1">pgvMain({"discuzParams":{"r2":"1266589","ui":0,"rt":"forum","md":"viewthread","pn":1,"qq":"000","logo":10},"extraParams":""});</script><script src="http://s41.cnzz.com/stat.php?id=30760&web_id=30760" language="JavaScript" charset="gb2312"></script></p>
+<p class="xs0">
+GMT+8, 2015-12-21 13:53<span id="debuginfo">
+, Processed in 0.035030 second(s), 2 queries
+, Gzip On, Memcache On.
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong>Discuz!</strong> <em>X3.2</em></p>
+<p class="xs0">&copy; 2000-2015 <a href="http://www.comsenz.com" target="_blank">NHZJ Inc.</a></p>
+</div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1450677190" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '1266589|X3.2|0.6||0||0|7|1450677190|549c6b8b8230b4c22db05406a40d79ab|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>

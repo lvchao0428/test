@@ -1,0 +1,172 @@
+<!--UINFO: http://bbs1.people.com.cn/post/1/1/1/147095051.html	length=9411&last_modified=0&time_saved=1450676868&charset=UTF-8-->
+<!doctype html>
+<html>
+<head>
+<title>科技部:重点查处科技经费管理等环节违纪违法案件紫光阁网 ——紫光阁网</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta name="description" content="科技部:重点查处科技经费管理等环节违纪违法案件紫光阁网 来源：中央纪委监察部网站 2015年04月26日 4月21日，中央纪委监察部驻科技部纪检组监察局在北京召"/>
+<meta name="keywords" content="" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="2" />
+<meta name="pagetype" content="1" />
+<meta name="catalogs" content="bbs_1" />
+<meta name="contentid" content="147095051" />
+<meta name="publishdate" content="Sun Apr 26 09:47:38 CST 2015" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link href="/css_bbs/qgbbs.css?v=20140320" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="http://bbs1.people.com.cn/css_bbs/jquery-ui-1.10.0.custom.css" />
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/base/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/base/qrcode.min.js"></script>
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/qgbbs/2013/qgBasePlugin.js"></script>
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/base/qgbbs_base.js?v=3"></script>
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/qgbbs/2013/faces.js"></script>
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/qgbbs/2013/qgDetail.js"></script>
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/qgbbs/2013/include/qgSearch.js"></script>
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/base/jquery.rmw.global.js?v=20151019"></script> 	
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/plug/jquery-ui-1.10.0.custom.min.js"></script>
+<script type="text/javascript">
+var cdomain = "http://bbs1.people.com.cn";
+var mdomain = "http://bbs1.people.com.cn";
+	var officialPost = 0;
+var snsdomain="http://sns.people.com.cn";
+ $(document).ready(function(){
+	rmw.global.setSNSDomain("http://sns.people.com.cn") ;
+	RMWSSO.getUserData(function(guzzLoginUser){
+		if(guzzLoginUser && guzzLoginUser.userId > 0){
+		 	var displayName = guzzLoginUser.nickname;
+			var userNick = guzzLoginUser.nickname;
+			var userId = guzzLoginUser.userId;
+			$("#loginHeaderUserNick").html(displayName+"<i></i>") ;
+			$(".loginUserNick").show();
+			$(".guest").hide();
+			$(".forumEditorUserNick").html('<a href="/userInfo.do?userNick='+userNick+'" target="_blank">'+displayName+'</a>');
+			$("#formEditorPostListImg").attr("userNick",userNick);
+			$(".showWidth").attr("userId",userId);
+			var showWidth = getCookie("BBS_SHOW_WIDTH"+userId);
+			var showWidthClick = "#showWidth"+showWidth;
+			$(showWidthClick).click();
+			var _userName =  guzzLoginUser.username;
+			$("#tableView").attr("userName",_userName);
+			$("#treeView").attr("userName",_userName);
+			$(".notAuthorOnly").attr("userName",_userName);
+	    	loadNewsCount();
+		}else{
+		    var retUrl = encodeURI(top.location.href);
+			$(".msgTips").remove();
+			$(".userReg").attr("href",rmw.sns.regUserLink("bbs",true));
+		}
+	});
+	rmw.global.bindUserPortraits($("img.portrait", $(document))) ;
+  });
+</script>
+
+<script>  
+var imgUrl ="";
+	imgUrl = 'http://bbs1.people.com.cn/images/weixinlogo.jgp';
+
+
+var lineLink = 'http://bbs1.people.com.cn/post/1/1/2/147095051.html';  
+var descContent = "科技部:重点查处科技经费管理等环节违纪违法案件紫光阁网 ——紫光阁网";  
+var shareTitle = '科技部:重点查处科技经费管理等环节违纪违法案件紫光阁网 ——紫光阁网';  
+var appid = 'wxce319a0146ca3f28';  
+  
+function shareFriend() {  
+    WeixinJSBridge.invoke('sendAppMessage',{  
+                            "appid": appid,  
+                            "img_url": imgUrl,  
+                            "img_width": "640",  
+                            "img_height": "640",  
+                            "link": lineLink,  
+                            "desc": descContent,  
+                            "title": shareTitle  
+                            }, function(res) {  
+                            _report('send_msg', res.err_msg);  
+                            })  
+}  
+function shareTimeline() {  
+    WeixinJSBridge.invoke('shareTimeline',{  
+                            "img_url": imgUrl,  
+                            "img_width": "640",  
+                            "img_height": "640",  
+                            "link": lineLink,  
+                            "desc": descContent,  
+                            "title": shareTitle  
+                            }, function(res) {  
+                            _report('timeline', res.err_msg);  
+                            });  
+}  
+function shareWeibo() {  
+    WeixinJSBridge.invoke('shareWeibo',{  
+                            "content": descContent,  
+                            "url": lineLink,  
+                            }, function(res) {  
+                            _report('weibo', res.err_msg);  
+                            });  
+}  
+// 当微信内置浏览器完成内部初始化后会触发WeixinJSBridgeReady事件。  
+document.addEventListener('WeixinJSBridgeReady', function onBridgeReady() {  
+  
+        // 发送给好友  
+        WeixinJSBridge.on('menu:share:appmessage', function(argv){  
+            shareFriend();  
+            });  
+  
+        // 分享到朋友圈  
+        WeixinJSBridge.on('menu:share:timeline', function(argv){  
+            shareTimeline();  
+            });  
+  
+        // 分享到微博  
+        WeixinJSBridge.on('menu:share:weibo', function(argv){  
+            shareWeibo();  
+            });  
+        }, false);  
+</script>
+</head>
+<body style="overflow-x:hidden">
+	<div class="headerNavAd clearfix">
+	<center>  
+		<script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|bbs1|topfullcolumn_tieziye&db=people&border=0&local=yes&js=ie' charset='gbk'></script>
+	</center>
+</div>	<div class="rel">
+	<div class="people_line">
+<div class="tempDiv clearfix">
+  		<div class="float_l floatTitle">
+        	<p class="FTtop">科技部:重点查处科技经费管理等环节违纪违法案件紫光阁网 ——紫光阁网</p>
+            <p class="clearfix FTbtm">
+            	<span class="float_l"><a target="_blank" href="http://bbs1.people.com.cn">强国社区</a><span class="SMArrow"></span><a target="_blank" href="http://bbs1.people.com.cn/board/1.html">强国论坛</a></span>
+                <span class="float_R"><a href="http://bbs1.people.com.cn/userInfo.do?userNick=常非道" target="_blank">常非道</a><span class="SMline"></span>2015-04-26</span>
+            </p>
+        </div>
+        <div class="float_R buttons">
+            <div class="DDWrap mR15 freadMode float_l">
+                <span class="showPart bold">阅读设置<i></i></span>
+                <div class="hidePart modeWrap">
+	                                    <p>楼主正文显示宽度</p>
+	                <ul class="mode showWidth clearfix">
+			            <li id='showWidth0'><strong>全幅</strong></li>
+			            <li id='showWidth1' class="focus special"><strong>2/3幅</strong></li>
+			            <li id='showWidth2' class="special"><strong>1/2幅</strong></li>
+			        </ul>
+			                          <p>跟帖显示为</p>
+                  <ul class="mode clearfix">
+                    <li boardId="1" postId="147095051"  view="2" userName="-1" class="focus tableView"><strong>表状</strong></li>
+                    <li boardId="1" postId="147095051"  view="1" userName="-1" class=" treeView"><strong>树状</strong></li>
+                  </ul>
+                   <p>跟帖内容</p>
+                  <ul class="mode clearfix">
+                    <li class="notAuthorOnly focus" boardId="1" postId="147095051"><strong>全部</strong></li>
+                    <li class="authorOnly " userId="10087084" boardId="1" postId="147095051"><strong>楼主直播</strong></li>
+		          </ul>
+                </div>
+             </div>
+           <div class="DDWrap float_l">
+              <span class="showPart bold share">分享<i></i></span>
+              <div class="hidePart posts_tools shareWrap clearfix">
+                  <div class="bshare-custom"><div class="bsPromo bsPromo2"></div>
+                      <a href="javascript:void(0);" class="bshare-peoplemb" title="分享到人民微博"></a>
+                      <a href="javascript:void(0);" class="bshare-sinaminiblog" title="分享到新浪微博"></a>
+                      <a href="javascript:void(0);" class="bshare-weixin" title="分享到微信"></a>
+                      <a href="javascript:void(0);" class="bshare-qzone" title="分享到QQ空间"></a>
+                      <a href="javascript:void(0);" class="bshare-qqmb" title="分享到腾讯微博"></a>
+                      <a href="javascript:void(0);" class="bshare-renren" title="分享到人人网"></a>
+                      <a class="bshare-more bshare-more-icon more-style-addthis" title="更多平�

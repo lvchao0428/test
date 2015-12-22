@@ -1,0 +1,871 @@
+<!--UINFO: http://bbs.e23.cn/thread-178980115-1-1.html	length=48932&last_modified=0&time_saved=1450676871&charset=gbk-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:wb="http://open.weibo.com/wb">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>共享性数字资源开发|未来网络课程如何发展-分类信息-济南社区 济南论坛 舜网论坛 - </title>
+
+
+
+<meta name="keywords" content="共享性数字资源开发|未来网络课程如何发展" />
+<meta name="description" content=" 共享性数字资源开发|未来网络课程如何发展 " />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" /><meta name="robots" content="noindex,nofollow">
+<base href="http://bbs.e23.cn/" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_common.css?m30" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_forum_viewthread.css?m30" /><script type="text/javascript">var STYLEID = '2', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'm30', charset = 'gbk', discuz_uid = '0', cookiepre = 'oltC_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread|reply|viewvote|tradeorder|activity|debate', creditnotice = '1|经验|点,2|威望|点,3|金币|￥', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5lMjMuY24vZm9ydW0ucGhwP21vZD12aWV3dGhyZWFkJnRpZD0xNzg5ODAxMTUmZXh0cmE9cGFnZSUzRDEmcGFnZT0x', SITEURL = 'http://bbs.e23.cn/', JSPATH = 'static/js/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="static/js/common.js?m30" type="text/javascript"></script><meta name="application-name" content="济南社区舜网论坛" />
+<meta name="msapplication-tooltip" content="济南社区舜网论坛" />
+<meta name="msapplication-task" content="name=门户;action-uri=http://bbs.e23.cn;icon-uri=http://bbs.e23.cn/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=济南社区;action-uri=http://bbs.e23.cn/forum.php;icon-uri=http://bbs.e23.cn/static/image/common/bbs.ico" />
+<link rel="archives" title="济南社区舜网论坛" href="http://bbs.e23.cn/archiver/" />
+<script src="static/js/forum.js?m30" type="text/javascript"></script>
+<!--[if lt IE 7]>
+<script src="static/js/DD_belatedPNG.js" type="text/javascript"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('img');
+</script>
+<![endif]-->
+<script src="http://apps.e23.cn/module/adsview/content/adsview.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="css/reset_libin.css">
+<link rel="stylesheet" href="css/grids_libin.css">
+<link rel="stylesheet" href="css/e23_libin.css">
+<script src="js/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="js/e23index2.js" type="text/javascript"></script>
+
+<style>
+ #jifen{
+
+          -webkit-animation: twinkling 1s infinite ease-in-out;
+     }
+</style>
+
+
+</head>
+<body id="nv_forum" class="pg_viewthread bg_body " onkeydown="if(event.keyCode==27) return false;"   >
+
+<div id="topNavWrapper">
+<div class="jd_menu" id="topNav">
+<div class="center_topbar" style="width:1250px;">
+<div class="ctt_left"  style="width:280px;"> <a href="http://www.e23.cn" target="_blank">舜网首页</a><span><img src="/images/bg2/xian.gif" width="2" height="34"></span><a href="http://bbs.e23.cn/" target="_blank">论坛首页</a> <span><img src="/images/bg2/xian.gif" width="2" height="34"></span><a href="http://bbs.e23.cn/plugin.php?id=auction" target="_blank" style="" id="jifen">积分商城</a>  </div>
+<div class="bbssearch">
+<form id="scbar_form" method="GET" action="http://sousuo.e23.cn/?site=2" target="_blank">
+ <input type="text" name="q" id="q" value="" class="ss_wenben">
+<input type="image" src="images/bg/search_submit.gif" class="ss_tijiao" onClick="search_bbs();return false;" name="input" />
+</form>
+</div>
+<script>
+function search_bbs()
+{
+var str=$('q').value;
+
+var url='http://so.e23.cn/cse/search?nsid=3&s=6251968349309591478&q='+str;
+
+window.location.href=url;
+}
+</script>
+ 
+<div class="tnav_r"> <a href="" onClick="showWindow('login', 'member.php?mod=logging&action=login' );return false;">登录</a> <a target="_blank" href="member.php?mod=register">注册</a> <a href="member.php?mod=register.php">忘记密码？</a><a href="http://bbs.e23.cn/connect.php?mod=login&amp;op=init&amp;referer=index.php&amp;statfrom=login_simple"><img src="static/image/common/qq_login.gif" class="vm" alt="QQ登录"></a><a href="plugin.php?id=wechat:login"><img src="source/plugin/wechat/image/wechat_login.png" class="vm"></a>  </div>
+
+
+</div>
+</div>
+
+</div>
+<div class="header_lgq">
+
+<div class="e23logo"><a href="http://www.e23.cn/" target="_blank"><img src="images/bg/e23logo.gif" width="67" height="52" alt="舜网首页"></a></div>
+<div class="bbslogo"><a href="http://bbs.e23.cn/" target="_blank"><img src="images/bg/bbslogo.gif" width="106" height="52" alt="济南社区首页"></a></div>
+<div class="nav_one">
+<ul>
+<li><a href="http://bbs.e23.cn/forum-183-1.html" target="_blank">泉城野话</a></li>
+<li><a href="http://bbs.e23.cn/forum-236-1.html" target="_blank">崩没根儿</a></li>
+<li><a href="http://bbs.e23.cn/forum-81-1.html" target="_blank">菁菁校园</a></li>
+<li><a href="http://bbs.e23.cn/forum-140-1.html" target="_blank">五湖四海</a></li>
+<li><a href="http://bbs.e23.cn/forum-596-1.html" target="_blank">鲁蜜天下</a></li>
+<li><a href="http://bbs.e23.cn/forum-6-1.html" target="_blank">情感心声</a></li>
+</ul>
+</div>
+<div class="nav_two">
+<ul>
+<li><a href="http://bbs.e23.cn/forum-78-1.html" target="_blank">吃遍济南</a></li>
+<li><a href="http://bbs.e23.cn/forum.php?mod=forumdisplay&amp;fid=594&amp;filter=typeid&amp;typeid=196#list_middle" target="_blank">住在济南</a></li>
+<li><a href="http://bbs.e23.cn/forum-593-1.html" target="_blank">游山观水</a></li>
+<li><a href="http://bbs.e23.cn/forum-264-1.html" target="_blank">爱车宝典</a></li>
+<li><a href="http://bbs.e23.cn/forum-72-1.html" target="_blank">今晚有约</a></li>
+<li><a href="http://bbs.e23.cn/forum-241-1.html" target="_blank">妈妈宝贝</a></li>
+<li><a href="http://bbs.e23.cn/forum-159-1.html" target="_blank">漂亮新娘</a></li>
+<li><a href="http://bbs.e23.cn/forum-194-1.html" target="_blank">美图摄影</a></li>
+</ul>
+</div>
+<div class="nav_three">
+<ul>
+<li><a href="http://bbs.e23.cn/forum-63-1.html" target="_blank">伊人卖场</a></li>
+<li><a href="http://bbs.e23.cn/forum-265-1.html" target="_blank">二手交易</a></li>
+<li><a href="http://bbs.e23.cn/forum-193-1.html" target="_blank">济南团购</a></li>
+<li><a href="http://bbs.e23.cn/forum-293-1.html" target="_blank">分类信息</a></li>
+</ul>
+</div>
+
+
+
+
+</div>
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">注册</a>
+</div>
+</div>
+<link rel="stylesheet" type="text/css" href="source/plugin/fx_checkin/images/css.css" /><div id="fx_checkin_menu" class="tip tip_2 moods_tip" style="display: none; "><div class="tip_horn"></div><div class="pic"><div class="ico"></div></div><div class="item" id="fx_checkin_menut" ><em>签到成功!</em><p>您已签到<i>{days}</i>天,签到3天可砸金蛋，多签多得，加油哦！</p></div><div class="item2" ><div class="sign_nev_box clearfix"><span class="calendar_title_span">签到日记</span><div class="calendar_title_month"><div class="calendar_month_prev"><a href="javascript:fx_calendar_Build('-1');">&nbsp;&nbsp;&nbsp;&nbsp;</a></div><div id="calendar_month_span">2013-06</div><div class="calendar_month_next"><a href="javascript:fx_calendar_Build('1');">&nbsp;&nbsp;&nbsp;&nbsp;</a></div></div></div><div id="fx_calendar"></div><div class="calendar_foo" id="fx_checkin_menub">已连续签到:<i>{constant}</i>天，累计签到:<i>{days}</i>天</div><script type="text/javascript" charset="GBK" src="source/plugin/fx_checkin/calendar.js"></script></div></div></div><script type="text/javascript">var fx_calendarshow = 0;var fx_chk_menu=false;function fx_checkin_menu(ctrlid){if (fx_chk_menu){if (fx_calendarshow==0){fx_calendar_Build();fx_calendarshow=1;}showMenu({'ctrlid':ctrlid,'menuid':'fx_checkin_menu','pos':'34!','duration':2});}}function fx_checkin(){if (!fx_chk_menu){showWindow('fx_checkin', 'plugin.php?id=fx_checkin:checkin&formhash=690b7b41&690b7b41');}}</script><script src="http://bbs.e23.cn/js/jquery-1.7.2.min.js" type="text/javascript" type="text/javascript"></script>
+<script src="http://bbs.e23.cn/js/e23index.js" type="text/javascript" type="text/javascript"></script>
+<script type="text/javascript">var fid = parseInt('293'), tid = parseInt('178980115');</script>
+
+<script src="static/js/forum_viewthread.js?m30" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(1);var imagemaxwidth = '800';var aimgcount = new Array();</script>
+
+<style id="diy_style" type="text/css"></style>
+<!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]-->
+
+<div style="margin-bottom:8px;">
+</div>
+ <div class="adv3" style="width:1000px;clear:both;margin:0 auto;">
+    <div class="adv2_left" style="width:500px;float:left;"><script src="http://apps.e23.cn/static/adsview/5ywq5zhx.js" type="text/javascript"><!--Name:末页通栏左 Key:5YwQ5ZHX Date:2014-11-06 17:30:55--></script></div>
+    <div class="adv2_rig" style="width:500px;float:left;" ><script src="http://apps.e23.cn/static/adsview/2lu5nfj1.js" type="text/javascript"><!--Name:末页通栏右 Key:2lu5nfJ1 Date:2014-11-06 17:30:45--></script></div>
+  </div>
+<div id="content" style="clear:both;">
+<div style="margin:0 auto;margin-bottom:4px;"><script src="http://apps.e23.cn/module/adsview/content/cache/sblhgbhg.js" type="text/javascript"><!--Name:社区内页通栏 Key:sblhgbhg Date:2013-03-01 09:34:33--></script></div>
+<div style="margin:0 auto;margin-bottom:4px;"><script src="http://apps.e23.cn/static/adsview/pnvflfob.js" type="text/javascript"><!--Name:社区末页通栏 Key:pnvflFOb Date:2013-07-05 09:59:53--></script></script></div>
+<div id="chart" style="height:25px;line-height:25px;">
+<p style="vertical-align:middle;" class="chart">今日发帖: <em>篇</em>&nbsp;&nbsp;&nbsp;&nbsp;昨日发帖: <em>3974篇</em>&nbsp;&nbsp;&nbsp;&nbsp;注册会员: <em>2030980人</em>&nbsp;&nbsp;&nbsp;&nbsp;欢迎新会员: <em><a href="http://bbs.e23.cn/space-username-%D6%D0%B9%FA200836.html" target="_blank" class="xi2">中国200836</a></em>&nbsp;&nbsp;&nbsp;&nbsp;活动QQ群:<font color="red">250758051</font>&nbsp;&nbsp;抢楼群:<font color="red">212600582(已满)</font>&nbsp;&nbsp;抢楼2群<font color="red">312081152</font></p>
+</div>
+<style id="diy_style" type="text/css"></style>
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+<div class="page">
+<div class="pagee" style="height:154px;display:none;">
+    <div class="sjgg">
+      <div class="zpic">
+        <ul>
+         <div id="portal_block_319" class="block move-span"><div id="portal_block_319_content" class="dxb_bc"><li class='imgtitle pad-right'><a href="http://bbs.e23.cn/thread-170652482-1-1.html" target="_blank" ><img 
+ width="130" height="122" alt="山艺长清校区黑出租宰学生" title="山艺长清校区黑出租宰学生" src="http://files.bbs.e23.cn/portal/201212/29/2125226z6sfhem2r6vzhuk.jpg" /></a> 
+<a href="http://bbs.e23.cn/thread-170652482-1-1.html" target="_blank"><div class="image_info" style="display: none;">&#160;
+
+<p>山艺长清校区黑出租宰学生</p></div></a>
+</li><li class='imgtitle'><a href="http://bbs.e23.cn/thread-170666241-1-1.html" target="_blank" ><img 
+ width="130" height="122" alt="图说平安夜 济南变“堵城”" title="图说平安夜 济南变“堵城”" src="http://files.bbs.e23.cn/forum/201212/24/185707t9omqivnlqjmtjvj.jpg" /></a> 
+<a href="http://bbs.e23.cn/thread-170666241-1-1.html" target="_blank"><div class="image_info" style="display: none;">&#160;
+
+<p>图说平安夜 济南变“堵城”</p></div></a></li></div></div>        </ul>
+      </div>
+      <div class="zjwz">
+        <ul class="text-list hot-list" style="border-top:none; padding:0;">
+  </ul>
+      </div>
+      <div class="zpic">
+        <ul>
+         <div id="portal_block_320" class="block move-span"><div id="portal_block_320_content" class="dxb_bc"><li class='imgtitle pad-right'><a href="http://bbs.e23.cn/thread-170624751-1-1.html" target="_blank" ><img 
+ width="130" height="122" alt="《1221》首映礼圆满结束" title="《1221》首映礼圆满结束" src="http://files.bbs.e23.cn/portal/201212/25/082158k7he40r7tepdzlm8.jpg" /></a> 
+<a href="http://bbs.e23.cn/thread-170624751-1-1.html" target="_blank"><div class="image_info" style="display: none;">&#160;
+<p>《1221》首映礼圆满结束</p></div></a>
+</li><li class='imgtitle'><a href="http://bbs.e23.cn/thread-170294134-1-1.html" target="_blank" ><img 
+ width="130" height="122" alt="舜网“少儿梦想秀”活动第一场圆满落幕" title="舜网“少儿梦想秀”活动第一场圆满落幕" src="http://files.bbs.e23.cn/portal/201212/25/08205875gkbmmp5lm7lsko.jpg" /></a> 
+<a href="http://bbs.e23.cn/thread-170294134-1-1.html" target="_blank"><div class="image_info" style="display: none;">&#160;
+<p>舜网“少儿梦想秀”活动第一场圆满落幕</p>
+</div>
+</a>
+</li></div></div>            
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">济南社区舜网论坛</a> <em>&rsaquo;</em> <a href="http://bbs.e23.cn/forum.php?gid=172">=分类信息=</a> <em>&rsaquo;</em> <a href="http://bbs.e23.cn/forum-293-1.html">分类信息</a> <em>&rsaquo;</em> <a href="http://bbs.e23.cn/thread-178980115-1-1.html">共享性数字资源开发|未来网络课程如何发展</a>
+</div>
+</div>
+  <div style="margin-top:4px;width:980px;padding:10px;padding-top:0px;">  
+  	<div id="pgt" class="pgs mbm cl " >
+<div class="pgt"></div>
+<span class="y pgb"><a href="http://bbs.e23.cn/forum-293-1.html">返回列表</a></span>
+<a id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=293&new=')" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a></div>
+
+
+
+
+<div class="layout grid-m0s250">
+<div class="col-main">
+<div class="main-wrap" style="margin:0 auto;">
+<!--济南摄友板块中间部分加宽-->
+<div id="ct" class="wp cl" style="width:980px;float:left;">
+
+
+<div id="postlist" class="pl bm">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls ptm pbm">
+<div class="hm">
+<span class="xg1">查看:</span> <span class="xi1">604</span><span class="pipe">|</span><span class="xg1">回复:</span> <span class="xi1">0</span>
+</div>
+</td>
+<td class="plc ptm pbn">
+<div class="y">
+<a href="http://bbs.e23.cn/forum.php?mod=viewthread&amp;action=printable&amp;tid=178980115" title="打印" target="_blank"><img src="static/image/common/print.png" alt="打印" class="vm" /></a>
+<a href="http://bbs.e23.cn/forum.php?mod=redirect&amp;goto=nextoldset&amp;tid=178980115" title="上一主题"><img src="static/image/common/thread-prev.png" alt="上一主题" class="vm" /></a>
+<a href="http://bbs.e23.cn/forum.php?mod=redirect&amp;goto=nextnewset&amp;tid=178980115" title="下一主题"><img src="static/image/common/thread-next.png" alt="下一主题" class="vm" /></a>
+</div>
+<h1 class="ts">
+<a href="http://bbs.e23.cn/forum.php?mod=forumdisplay&amp;fid=293&amp;filter=typeid&amp;typeid=165">[教育培训]</a>
+<a href="http://bbs.e23.cn/thread-178980115-1-1.html" id="thread_subject">共享性数字资源开发|未来网络课程如何发展</a>
+<span class="xw0 xs1 xg1">
+
+</span>
+
+</h1>
+</td>
+</tr>
+</table>
+
+
+<table cellspacing="0" cellpadding="0" class="ad"><tr><td class="pls"></td><td class="plc"></td></tr></table><div id="post_245780101"><table id="pid245780101" summary="pid245780101" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+ <a name="lastpost"></a><div class="pi">
+<div class="authi"><a href="http://bbs.e23.cn/space-uid-3413074.html" target="_blank" class="xw1">华秦教育</a>
+
+</div>
+</div>
+<div class="p_pop blk bui" id="userinfo245780101" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo245780101_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://bbs.e23.cn/space-uid-3413074.html" target="_blank" class="xi2">华秦教育</a></strong>
+<em>当前离线</em>
+</div>
+<dl class="cl"></dl>
+<div class="imicn">
+<a href="http://bbs.e23.cn/home.php?mod=space&amp;uid=3413074&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo245780101')"><a href="http://bbs.e23.cn/space-uid-3413074.html" target="_blank"><img src="/uc_server//avatar.php?uid=3413074&size=middle" /></a></div>
+<p><em><a href="http://bbs.e23.cn/home.php?mod=spacecp&amp;ac=usergroup&amp;gid=12" target="_blank">芙蓉街办事员</a></em></p>
+</div>
+<p id="g_up245780101" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"></p>
+<div id="g_up245780101_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c">芙蓉街办事员, 积分 370, 距离下一级还需 630 积分</div>
+</div>
+<div style="margin-left:18px;"  id="g_up245780101" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});" ><span class="user_level"><em class="level_num">3</em><em class="level_name"><a href="http://bbs.e23.cn/home.php?mod=spacecp&ac=usergroup&gid=12" target="_blank">芙蓉街办事员</a></em></span><div class="cl"></div><div class="user_expbar" ><div class="user_expbar_current" style="width: 37%;"><div class="user_expnum"><span class="cur">370</span>/<span>1000</span></div></div></div></div><ul class="xl xl2 o cl">
+<li class="buddy"><a href="http://bbs.e23.cn/home.php?mod=spacecp&amp;ac=friend&amp;op=add&amp;uid=3413074&amp;handlekey=addfriendhk_3413074" id="a_friend_li_245780101" onclick="showWindow(this.id, this.href, 'get', 1, {'ctrlid':this.id,'pos':'00'});" title="加好友" class="xi2">加好友</a></li>
+<li class="pm2"><a href="http://bbs.e23.cn/home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_3413074&amp;touid=3413074&amp;pmid=0&amp;daterange=2&amp;pid=245780101&amp;tid=178980115" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2">发消息</a></li>
+</ul>
+<p>
+经验 </p>
+<p>
+威望 </p>
+<p>
+金币 </p>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="http://bbs.e23.cn/thread-178980115-1-1.html" title="您的朋友访问此链接后，您将获得相应的积分奖励" id="postnum245780101" onclick="setCopy(this.href, '帖子地址复制成功');return false;">楼主</a>
+</strong>
+
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi" style="width:350px;float:left;">
+<img class="authicn vm" id="authicon245780101" src="static/image/common/online_member.gif" />
+<em id="authorposton245780101">发表于 2015-10-26 22:39:44</em>
+<span class="pipe">|</span><a href="http://bbs.e23.cn/forum.php?mod=viewthread&amp;tid=178980115&amp;page=1&amp;authorid=3413074" rel="nofollow">只看该作者</a>
+<span class="pipe">|</span><a href="http://bbs.e23.cn/forum.php?mod=viewthread&amp;tid=178980115&amp;extra=page=1&amp;ordertype=1">倒序浏览</a>
+
+
+
+</div>
+
+</div>
+
+
+</div><div class="pct"><style type="text/css">.pcb{margin-right:0}</style><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_245780101">
+
+<p style="line-height:22px;text-indent:nullem;text-align:left"><font color="#494949"><font face="simsun, Arial, Helvetica, sans-serif"><font style="font-size:14px"> 就目前形势看，不论是精品课程、重点课程，还是不被重视的网络课程，在课程内容和学习资源的补充上动力不足，这既有不够重视的因素，也有通过验收后松口气想法。尤其是网络课程，实际已成为“鸡肋”，名存实亡，目前已无法使用。该课程处理在评估时使用网络课程外，只有两个学年可以正常使用，而其余时间在建成之后没有无法进入系统，更无法有效地应用于教学，沦为“摆设”，似乎仅供有关部门统计数据之用。学校对于网络课程不可避免地陷入了“两重两轻”境地：即只重视课程数量和基本硬件，却轻视课程质量和硬件使用，在大张旗鼓轰轰烈烈完成建设后，学校管理部门不再重视，致使网络课程教师看不到学校网络课程建设的长期计划与目标，网络课程现未真正物尽其用，已形同虚设。这显然与教育部推广网络课程建设初衷有相当差距，也就更谈不上进行网络教学不能满足学生的学习需求了。为此，华秦教育建议：</font></font></font></p><br />
+<p style="line-height:22px;text-indent:nullem;text-align:left"><font color="#494949"><font face="simsun, Arial, Helvetica, sans-serif"><font style="font-size:14px">&nbsp;&nbsp;第一，学校应注意建立起网络课程建设与运行的长效机制。学校应当在原有网络课程建设建设体系下，进一步明确目标和任务，合理配置经费，并将之制度化，常态化，合理化，科学化。建议学校进一步重视网络课程建设工作，加大资金投入。与学院多媒体开发项目相比，学院对网络课程重视严重不够，学院的多媒体开发项目每项投入资金3000元，且要求时间长，内容少。而网络课程建设不仅包括多媒体开发，还要求课程实况录象，以及近20项资料的准备研究和上网，时间紧，任务重，费用仅有区区1200元，远远不够实际支出，建议学校将费用予以追加。没有良好的经费投入机制，课程资源建设难于更新与充实。</font></font></font></p><br />
+<p style="line-height:22px;text-indent:nullem;text-align:left"><font color="#494949"><font face="simsun, Arial, Helvetica, sans-serif"><font style="font-size:14px">&nbsp; &nbsp;第二，学校应重视网络课程硬件建设与维护。虽然我校已建立校园局域网络，但硬件缺乏维护，已经限制了网络课程资源的使用希望学校重视网络课程硬件设施的维护，加强技术手段，给教师更为宽松的网络资源空间。采取一定的技术手段使的不在学校居住的老师通过其他网络也能登陆校园网，方便教师在线辅导，加快网速。提高网络效率。促使学生尽快进入系统。近四年来，笔者准备了多次网上交流活动，但是由于学院网络的原因学生根本无法进入，也无法实现设置网络课程的目的，不得不说是个遗憾。只有提供了运行稳定、快速敏捷的网络教学平台，才可能使网络课程建设实现既定教学目标。</font></font></font></p><br />
+<p style="line-height:22px;text-indent:nullem;text-align:left"><font color="#494949"><font face="simsun, Arial, Helvetica, sans-serif"><font style="font-size:14px">&nbsp;&nbsp;第三，作为开设网络课程的教师，则应转变教学理念，认识网络课程只是课堂教学的延伸和补充。在充分发挥课堂教学优势的情况下，对网络课程尽力使用，对之既不过分依赖也不使之“闲置”，处理好“教师课堂教学”与“学生网络学习”的关系，通过教与学的互补，使学生养成课堂学习与自主学习相结合的习惯，在此基础上，进一步培养学生发现问题、分析问题、解决问题和科技创新的能力。具体到《行政法学》这一网络课程，一是要注意协调好行政法学与行政法与行政诉讼法、行政诉讼法等的相互关系，避免教学内容上的重叠与冲突，注意它们之间的相互衔接。更进一步转变教学理念，认识我校网络课程的建设和应用是长期的，可持续发展的。二是帮助学生改变传统的观念，积极采取一定的措施促使学生习惯于使用网络课程资源和资料。具体做法：要求学生每学期至少登陆三次该网站并留言，及时反馈学习中的问题和愿望，并具实名作为平时学习互动表现的参考依据。三是进一步更新和完善课程已上网的课程简介、教案、教学大纲、多媒体课件、主讲教师的授课录像、题库与参考资料等所有资源，进一步提高资源质量，并将新的课程资源继续上网，进一步充实网络资源，根据课程改革与建设的深化，开设一些新的栏目，使网上资源更为丰富，争取在网上及时报道行政法学的研究状况、现实动态、发展趋势、科技最新成果和开展网上学术讨论等。更多内容：http://www.51tek.com/category-362.html</font></font></font></p><br />
+
+
+                                    <style>
+                        .ajn {text-indent:2em;}
+                        .ajn a {color:#004276;}
+                        .ajn a:hover {color:#FFFFFF; background-color:#00457D;}
+                    </style>
+
+
+
+</td></tr></table>
+</div>
+
+
+
+
+<div id="comment_245780101" class="cm">
+</div>
+<br>
+<p class="ajn" style="clear: both;"><a href="http://www.e23.cn/ajn/download.html" target="_blank">【更多热点请手机下载《爱济南》客户端 山东大小事尽在掌握】</a></p>
+<p class="ajn" style="clear: both;"><img src="/images/weixin.jpg"></img></p>
+<div class="forum_hot w757">
+<div class="forum_hot_title"></div>
+<div class="forum_hot_items cf">
+<div class="forum_hot_pics">
+<ul><div id="portal_block_105" class="block move-span"><div id="portal_block_105_content" class="dxb_bc"><li><a href="http://bbs.e23.cn/thread-179151292-1-1.html" target="_blank"><img src="http://files.bbs.e23.cn/portal/201512/18/165055tuauuzyk5z9fz293.jpg" width="174" height="105" border="0"><span>老司机不会开自动挡穿墙</span></a></li><li><a href="http://bbs.e23.cn/thread-179151256-1-1.html" target="_blank"><img src="http://files.bbs.e23.cn/portal/201512/18/171100f62bwmiqo8qqgo6b.jpg" width="174" height="105" border="0"><span>真人芭比细腰巨胸受追捧</span></a></li><li><a href="http://bbs.e23.cn/thread-179151288-1-1.html" target="_blank"><img src="http://files.bbs.e23.cn/portal/201512/18/170512mp0psttr1wea65v8.jpg" width="174" height="105" border="0"><span>中国西部出现不明飞行物</span></a></li><li><a href="http://bbs.e23.cn/thread-179151263-1-1.html" target="_blank"><img src="http://files.bbs.e23.cn/portal/201512/18/175338hpp5zerp4redid5z.jpg" width="174" height="105" border="0"><span>女孩考试成绩差被母亲推河中</span></a></li></div></div></ul>
+</div>
+<div class="forum_hot_news"><div id="portal_block_104" class="block move-span"><div id="portal_block_104_content" class="dxb_bc"><div class="txt_moye">
+							<span><a href="http://bbs.e23.cn/thread-179151230-1-1.html" target="_blank">老师让男生拿毛刷刷其下体 幼儿园否认</a></span>
+							</div>
+						<div class="line_x"></div>
+						<div class="news_list_14_moye">
+							<ul class="list_author cf"><li><a href="http://bbs.e23.cn/thread-179150965-1-1.html" target="_blank">交警被妻子捉奸在床 威胁妻子称让其死全家</a></li><li><a href="http://bbs.e23.cn/thread-179150952-1-1.html" target="_blank">卖淫女开宝马抢单接业务 两小时接6笔生意</a></li><li><a href="http://bbs.e23.cn/thread-179150969-1-1.html" target="_blank">女子房事时拿熨斗狠烫男友生殖器</a></li><li><a href="http://bbs.e23.cn/thread-179150979-1-1.html" target="_blank">小学生不写作业被教训 把老爸裸照发家长群里</a></li><li><a href="http://bbs.e23.cn/thread-179150993-1-1.html" target="_blank"><font style="color: #333333;">学霸30万元穷游90国 靠打工和众筹筹钱</font></a></li><li><a href="http://bbs.e23.cn/thread-179151063-1-1.html" target="_blank">大学禁男女朋友校内牵手 校方称算过激行为</a></li><li><a href="http://bbs.e23.cn/thread-179151109-1-1.html" target="_blank">未开国际长途却自动打到非洲 月话费2.2万</a></li><li><a href="http://bbs.e23.cn/thread-179151208-1-1.html" target="_blank">男子抓贼被砍7刀 因涉自己车或不算见义勇为</a></li></ul>
+						</div></div></div></div>
+</div>
+</div>
+<div style="position: relative;">
+<div id="post_rate_div_245780101"></div>
+<div style="text-align:center; display:block; width:185px; margin:0 auto;">
+
+<a href="javascript:;" onclick="showWindow('rate', 'forum.php?mod=misc&action=rate&tid=178980115&pid=245780101', 'get', -1);return false;" title="0 人评分"><img src="static/image/common/e23/twpf.gif" width="75" height="28"></a>&nbsp;&nbsp;<a  href="forum.php?mod=post&amp;action=reply&amp;fid=293&amp;tid=178980115&amp;reppost=245780101&amp;extra=page=1&amp;page=1" onclick="showWindow('reply', this.href)"><img src="static/image/common/e23/twreply.gif" width="75" height="28"></a>
+</div>
+</div>
+</div></div>
+
+</td></tr>
+<tr><td class="plc plm">
+<div style="margin-bottom:8px;">
+<!-- 将此标记放在您希望显示like按钮的位置 -->
+<div class="bdlikebutton" style="float:left;"></div>
+
+<!-- 将此代码放在适当的位置，建议在body结束前 -->
+<script id="bdlike_shell"></script>
+<script>
+var bdShare_config = {
+"type":"small",
+"color":"blue"
+};
+document.getElementById("bdlike_shell").src="http://bdimg.share.baidu.com/static/js/like_shell.js?t=" + Math.ceil(new Date()/3600000);
+</script>
+<!-- Baidu Button BEGIN -->
+<div id="bdshare" style="float:left;" class="bdshare_t bds_tools get-codes-bdshare">
+<a class="bds_qzone"></a>
+<a class="bds_tsina"></a>
+<a class="bds_tqq"></a>
+</div>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=0" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script>
+<!-- Baidu Button END -->
+</div>
+<div class="a_pb"><div style="display:none"><script type="text/javascript"> 
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://"); 
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F12459fbc655df7ab05f9d1ab56428b57' type='text/javascript'%3E%3C/script%3E")); 
+</script>
+</div></div></td>
+</tr>
+<tr>
+<td class="pls"></td>
+<td class="plc">
+
+
+<div class="po">
+
+<div class="pob cl">
+<em>
+</em>
+
+<p>
+<a href="javascript:;" onclick="showWindow('miscreport245780101', 'misc.php?mod=report&rtype=post&rid=245780101&tid=178980115&fid=293', 'get', -1);return false;">举报</a>
+</p>
+
+</div>
+</div>
+<div><script src="http://apps.e23.cn/static/adsview/u4akifph.js" type="text/javascript"><!--Name:楼主贴尾 Key:u4akifph Date:2014-05-09 16:48:42--></script></div>
+</td>
+</tr>
+
+</table>
+
+</div>
+<div id="postlistreply" class="pl"><div id="post_new" class="viewthread_table" style="display: none"></div></div>
+</div>
+
+
+<form method="post" autocomplete="off" name="modactions" id="modactions">
+<input type="hidden" name="formhash" value="690b7b41" />
+<input type="hidden" name="optgroup" />
+<input type="hidden" name="operation" />
+<input type="hidden" name="listextra" value="page=1" />
+<input type="hidden" name="page" value="1" />
+</form>
+
+
+<div class="pgs mtm mbm cl">
+<span class="pgb y"><a href="http://bbs.e23.cn/forum-293-1.html">返回列表</a></span>
+<a id="newspecialtmp" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=293&new=')" href="javascript:;" title ="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a>
+</div>
+
+<!--[diy=diyfastposttop]--><div id="diyfastposttop" class="area"></div><!--[/diy]-->
+<script type="text/javascript">
+var postminchars = parseInt('5');
+var postmaxchars = parseInt('100000');
+var disablepostctrl = parseInt('0');
+</script>
+
+<div id="f_pst" class="pl bm bmw">
+<form method="post" autocomplete="off" id="fastpostform" action="forum.php?mod=post&amp;action=reply&amp;fid=293&amp;tid=178980115&amp;extra=page%3D1&amp;replysubmit=yes&amp;infloat=yes&amp;handlekey=fastpost">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="plc">
+<div style="width:768px;height:35px;"><script src="http://apps.e23.cn/static/adsview/sqgvw36v.js" type="text/javascript"><!--Name:社区banner Key:sqgvw36v Date:2015-04-02 11:46:49--></script></div>
+<span id="fastpostreturn"></span>
+
+
+<div class="cl">
+<div id="fastsmiliesdiv" class="y"><div id="fastsmiliesdiv_data"><div id="fastsmilies"></div></div></div><div class="hasfsl" id="fastposteditor">
+<div class="tedt mtn">
+<div class="bar">
+<span class="y">
+<a href="http://bbs.e23.cn/forum.php?mod=post&amp;action=reply&amp;fid=293&amp;tid=178980115" onclick="return switchAdvanceMode(this.href)">高级模式</a>
+</span><script src="static/js/seditor.js?m30" type="text/javascript"></script>
+<div class="fpd">
+<a href="javascript:;" title="文字加粗" class="fbld">B</a>
+<a href="javascript:;" title="设置文字颜色" class="fclr" id="fastpostforecolor">Color</a>
+<a id="fastpostimg" href="javascript:;" title="图片" class="fmg">Image</a>
+<a id="fastposturl" href="javascript:;" title="添加链接" class="flnk">Link</a>
+<a id="fastpostquote" href="javascript:;" title="引用" class="fqt">Quote</a>
+<a id="fastpostcode" href="javascript:;" title="代码" class="fcd">Code</a>
+<a href="javascript:;" class="fsml" id="fastpostsml">Smilies</a>
+</div></div>
+<div class="area">
+<div class="pt hm">
+您需要登录后才可以回帖 <a href="member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href)" class="xi2">登录</a> | <a href="member.php?mod=register" class="xi2">注册</a>
+
+
+<a href="http://bbs.e23.cn/connect.php?mod=login&op=init&referer=forum.php%3Fmod%3Dviewthread%26tid%3D178980115%26extra%3Dpage%253D1%26page%3D1&statfrom=login" target="_top" rel="nofollow"><img src="static/image/common/qq_login.gif" class="vm" /></a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<input type="hidden" name="formhash" value="690b7b41" />
+<input type="hidden" name="usesig" value="" />
+<input type="hidden" name="subject" value="  " />
+<p class="ptm pnpost">
+<button type="button" onclick="showWindow('login', 'member.php?mod=logging&action=login&guestmessage=yes')" name="replysubmit" id="fastpostsubmit" class="pn pnc vm" value="replysubmit" tabindex="5"><strong>发表回复</strong></button>
+<label for="fastpostrefresh"><input id="fastpostrefresh" type="checkbox" class="pc" />回帖后跳转到最后一页</label>
+<script type="text/javascript">if(getcookie('fastpostrefresh') == 1) {$('fastpostrefresh').checked=true;}</script>
+</p>
+</td>
+</tr>
+</table>
+</form>
+</div>
+
+<script type="text/javascript">
+var connect_qzone_share_url = 'http://bbs.e23.cn/home.php?mod=spacecp&ac=plugin&id=qqconnect:spacecp&pluginop=share&sh_type=1&thread_id=178980115';
+var connect_weibo_share_url = 'http://bbs.e23.cn/home.php?mod=spacecp&ac=plugin&id=qqconnect:spacecp&pluginop=share&sh_type=2&thread_id=178980115';
+var connect_thread_info = {
+thread_url: 'http://bbs.e23.cn/thread-178980115-1-1.html',
+thread_id: '178980115',
+post_id: '245780101',
+forum_id: '293',
+author_id: '3413074',
+author: '华秦教育'
+};
+
+connect_autoshare = '0';
+connect_isbind = '';
+if(connect_autoshare == 1 && connect_isbind) {
+_attachEvent(window, 'load', function(){
+connect_share(connect_weibo_share_url, connect_openid);
+});
+}
+</script>
+
+
+<script type="text/javascript">
+new lazyload();
+</script>
+<script type="text/javascript">document.onkeyup = function(e){keyPageScroll(e, 0, 0, 'forum.php?mod=viewthread&tid=178980115', 1);}</script>
+</div>
+        </div>
+</div>
+
+
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+
+
+<div>
+<!--<a href="http://180.186.23.84:8080/ccpn/click!clickadd.html?num=1&ap_id=1528"></a>-->
+
+</div>
+  
+  
+  
+  </div>
+</div>
+
+
+</div>
+<!--[diy=diy2]--><div id="diy2" class="area"></div><!--[/diy]-->	</div>
+
+<div class="focus" id="sitefocus">
+<div class="bm">
+<div class="bm_h cl">
+<a href="javascript:;" onclick="setcookie('nofocus_1', 1, 1*3600);$('sitefocus').style.display='none'" class="y" title="关闭">关闭</a>
+<h2>社区站内公告</h2>
+</div>
+<div class="bm_c">
+<dl class="xld cl bbda">
+<dt style='display:none;'><a href="http://bbs.e23.cn/plugin.php?id=auction" class="xi2" target="_blank">舜网小编喊您来换奖品喽！！！</a></dt>
+
+<div style="font-size: 13px;color: #3355af;font-weight: bolder;line-height: 22px;clear:both;">
+
+<a href="http://bbs.e23.cn/plugin.php?id=auction" style="color:red;font-size:14px;font-weight:bold;font-family:微软雅黑;" target="_blank">积分商城又有新宝贝啦， iPad mini2上架，我要用金币兑换！！！</a>
+
+<br>
+<br>
+<a href="http://bbs.e23.cn/thread-177032303-1-1.html" style="color:red;" target="_blank">小编教你如何赚金币</a>
+<br>
+社区活动QQ群:<font >250758051</font>&nbsp;&nbsp;
+<br>
+
+社区抢楼群:<font >212600582</font>
+<div style="display:none;">
+社区金币上线啦，金币可以当“钱”用哦，有了金币可以买好多商品哦！<a style="color:red;" href="http://bbs.e23.cn/thread-177032303-1-1.html" target="_blank">我要赚金币》》</a>
+<br>
+
+</div>
+</div>
+</dl>
+<p class="ptn hm"><a href="http://bbs.e23.cn/plugin.php?id=auction" class="xi2" target="_blank">查看 &raquo;</a></p>
+</div>
+</div>
+</div>
+  
+
+<script src="http://bbs.e23.cn/static/js/qshare.js" type="text/javascript"></script><script type="text/javascript">_share_tencent_weibo(null, $C("t_f", null, "td"), "", "ce7fb946290e4109bdc9175108b6db3a", "济南社区舜网论坛");</script>
+
+<div id="ft" class="wp cl">
+<div id="flk" class="y" style="display:none;">
+<p>
+&nbsp;<a href="http://discuz.qq.com/service/security" target="_blank" title="防水墙保卫网站远离侵害"><img src="static/image/common/security.png"></a><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?12459fbc655df7ab05f9d1ab56428b57";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script></p>
+</div>
+<div id="footer">
+
+<SCRIPT language=JavaScript>
+function ForceWindow ()
+{
+  this.r = document.documentElement;
+  this.f = document.createElement("FORM");
+  this.f.target = "_blank";
+  this.f.method = "post";
+  this.r.insertBefore(this.f, this.r.childNodes[0]);
+}
+ForceWindow.prototype.open = function (sUrl)
+{
+  this.f.action = sUrl;
+  this.f.submit();
+}
+
+window.force = new ForceWindow();
+
+function defaultwin(){
+//var exitwin,url,ownwin;
+//url = 'http://bbs.e23.cn'; //修改为你要做弹窗的网址
+//exitwin = window.open(url,'LITcn');
+var myWindow = new ForceWindow();
+_hmt.push(['_trackPageview', '/']);
+myWindow.open("http://bbs.e23.cn/index.php");
+
+}
+function get_cookie(Name) {
+var search = Name + '='
+var returnvalue = '';
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(';', offset);
+if (end == -1)
+end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+function loadpopup(){
+if (get_cookie('popped')==''){
+defaultwin()
+document.cookie='popped=yes'
+}
+}
+window.onload=loadpopup;
+</SCRIPT>
+
+
+
+
+
+
+
+
+
+
+
+<div class="wrap s_clear">
+<div id="footlink">
+<a name="bottom"></a>
+<table align="center" width="100%"><tbody><tr>
+<td align="center"><a target="_blank" href="http://www.e23.cn/main/about/about.html">关于舜网</a> - <a target="_blank" href="http://www.e23.cn/main/about/ggfw.html">广告服务</a> - <a target="_blank" href="http://www.e23.cn/main/about/bbsmzsm.html">免责声明</a> - <a target="_blank" href="/images/tiezi.doc">帖子处理申请表</a><br>
+活动合作、论坛推广电话：0531-82883123 67976995 舆情电话：67976983 社区编辑电话：67976994 传真：82886158（注：舜网社区部收）<br>
+<a class="d" target="_blank" href="http://www.e23.cn/main/about/xwdzxk.html">新闻许可</a> - <a target="_blank" href="http://www.e23.cn/main/about/sp.html">增值电信许可</a> - <a target="_blank" href="http://www.e23.cn/main/about/shuangruan.html">双软认证</a>  - <a target="_blank" href="http://www.e23.cn/main/about/xinxifuwu.html">信息服务业认定</a>  - <a target="_blank" href="http://www.e23.cn/main/about/xitong.html">系统集成资质</a> - <a target="_blank" href="http://www.e23.cn/main/about/bbs.html">电子公告许可</a><a href='http://www.diguw.com/' style='color:white;'>d</a></td></tr></tbody>
+</table>
+
+</div>
+
+</div>
+</div></script>
+</div>
+
+<div id="g_upmine_menu" class="tip tip_3" style="display:none;">
+<div class="tip_c">
+积分 0, 距离下一级还需  积分
+</div>
+<div class="tip_horn"></div>
+</div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1450676646" type="text/javascript"></script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '8350165|X3.2|0.6||0||0|7|1450676646|31f125718ad02727f3289881655f2f98|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script><script>
+/*点击关闭所有的广告都关闭，是因为把closeB 置为 true 了*/
+var delta=0.8;
+var collection;
+var closeB=false;
+var isIE=!!window.ActiveXObject;
+var isIE6=isIE&&!window.XMLHttpRequest;
+var isIE8=isIE&&!!document.documentMode;
+var isIE7=isIE&&!isIE6&&!isIE8;
+
+function floaters() {
+this.items	= [];
+this.addItem	= function(id,closebuttonid,x,y,content,width)
+  {
+document.write('<DIV id='+id+' style="Z-INDEX: 10; POSITION: fixed; _position:absolute;  width:80px; height:60px;left:'+(typeof(x)=='string'?eval(x):x)+'px;top:'+(typeof(y)=='string'?eval(y):y)+'px"><a style="display: block; text-align:left; background: url(../images/closebutton.gif) no-repeat scroll right 0pt rgb(255, 255, 255); height: 20px; line-height: 20px;" id='+closebuttonid+'></a>'+content+'</DIV>');
+var newItem				= {};
+newItem.object			= document.getElementById(id);
+newItem.x				= x;
+newItem.y				= y;
+
+this.items[this.items.length]		= newItem;
+
+var closebutton = document.getElementById(closebuttonid);
+var nextsbl = closebutton.nextSibling;
+if(nextsbl){
+closebutton.style.display = "block";
+//var img_adv=nextsbl.getElementsByTagName("img");
+//var img_adv_width = img_adv[0].width+"px";
+closebutton.style.width = width+"px";
+closebutton.onclick = function(){
+this.parentNode.style.display = "none";
+}
+}
+
+
+  }
+this.play	= function()
+  {
+collection				= this.items
+setInterval('play()',30);
+  }
+}
+
+
+function play()
+{
+if(screen.width<=800 || closeB)
+{
+for(var i=0;i<collection.length;i++)
+{
+collection[i].object.style.display	= 'none';
+}
+return;
+}
+for(var i=0;i<collection.length;i++)
+{
+if(collection[i].object.style.background=="#eee"){
+collection[i].object.style.display	= 'none';
+}
+}
+for(var i=0;i<collection.length;i++)
+{
+var followObj		= collection[i].object;
+var followObj_x		= (typeof(collection[i].x)=='string'?eval(collection[i].x):collection[i].x);
+var followObj_y		= (typeof(collection[i].y)=='string'?eval(collection[i].y):collection[i].y);
+
+if(followObj.offsetLeft!=((isIE6 ? document.documentElement.scrollLeft : document.body.scrollLeft)+followObj_x)) {
+var dx=((isIE6 ? document.documentElement.scrollLeft : document.body.scrollLeft)+followObj_x-followObj.offsetLeft)*delta;
+dx=(dx>0?1:-1)*Math.ceil(Math.abs(dx));
+followObj.style.left=followObj.offsetLeft+dx;
+}
+
+if(followObj.offsetTop!=((isIE6 ? document.documentElement.scrollTop : document.body.scrollTop)+followObj_y)) {
+var dy=((isIE6 ? document.documentElement.scrollTop : document.body.scrollTop)+followObj_y-followObj.offsetTop)*delta;
+dy=(dy>0?1:-1)*Math.ceil(Math.abs(dy));
+followObj.style.top=followObj.offsetTop+dy;
+}
+
+}
+}
+function closeBanner()
+{
+closeB=true;
+return;
+}
+
+var theFloaters		= new floaters();
+
+//左侧漂浮
+//theFloaters.addItem('followDiv1','closebutton1',6,20,'<a href=http://www.e23.cn/ajn/ target=_blank><img src=http://www.e23.cn/ajn/aijinan.gif width=100 height=100 border=0></a>',100);
+
+//theFloaters.addItem('followDiv2','closebutton2',6,420,'<a href=http://www.jnqsj.cn/hehuaxianzi/ target=_blank><img src=/gg2/hehua.jpg width=90 height=90 border=0></a>',100);
+//右侧漂浮
+//theFloaters.addItem('followDiv9','closebutton9',document.documentElement.clientWidth-106,550,'<img src=/images/bg/qrcode_for_gh_4ffeab728429_430.jpg width=90 height=90 border=0>',90);
+//theFloaters.addItem('followDiv4','closebutton1',document.documentElement.clientWidth-106,220,'<a href=http://zhuanti.e23.cn/yuqing/ target=_blank><img src=/gg2/yuqing90.gif width=90 height=90 border=0></a>',90);
+//theFloaters.addItem('followDiv9','closebutton9',document.documentElement.clientWidth-116,350,'<a href=http://e.e23.cn/zhuanti/jj3rx/ target=_blank><img src=/gg2/xdfgg.gif width=100 height=220 border=0></a>',100);
+
+//theFloaters.addItem('followDiv4','closebutton4',document.documentElement.clientWidth-96,400,'<img src=http://www.e23.cn/gg2/jkbdy.gif width=90 height=120 border=0>',90);
+
+//f="<object width=\"100\" height=\"220\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\">"+
+    //   " <param value=\"http://www.e23.cn/flash/100-220-21-1.swf\" name=\"movie\">"+
+    //   " <param value=\"high\" name=\"quality\">"+
+    //   " <param value=\"opaque\" name=\"wmode\">"+
+    //   " <embed width=\"100\" height=\"220\" type=\"application/x-shockwave-flash\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\" quality=\"high\" src=\"http://www.e23.cn/flash/100-220-21-1.swf\">"+
+    //   " </object>";
+
+ //f2="<object width=\"100\" height=\"220\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\">"+
+     //  " <param value=\"http://www.e23.cn/flash/100-220-21-1.swf\" name=\"movie\">"+
+     //  " <param value=\"high\" name=\"quality\">"+
+     //  " <param value=\"opaque\" name=\"wmode\">"+
+     //  " <embed width=\"100\" height=\"220\" type=\"application/x-shockwave-flash\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\" quality=\"high\" src=\"http://www.e23.cn/flash/100-220-21-1.swf\">"+
+    //   " </object>";
+
+//theFloaters.addItem('followDiv5','closebutton5',document.documentElement.clientWidth-106,150,'<a href=http://vote.e23.cn/zhuanti/cqxbj/ target=_blank><img src=http://www.e23.cn/gg10/xx2.gif width=90 height=45 border=0></a>');
+//theFloaters.addItem('followDiv5','closebutton5',document.documentElement.clientWidth-106,350,'<a href=http://mall.e23.cn/zhuanti/rmsc20111209/ target=_blank><img src=http://www.e23.cn/gg10/rim.gif width=90 height=45 border=0></a>');
+
+//theFloaters.addItem('followDiv8','closebutton8',6,150,'<a href=http://www.e23.cn/gg2/nbzp2012/index.html target=_blank><img src=http://www.e23.cn/gg2/nb90.gif width=100 height=220 border=0></a>');
+//theFloaters.addItem('followDiv3','closebutton3',document.documentElement.clientWidth-106,150,'<a href=http://car.e23.cn/zhuanti/tpybx/ target=_blank><img src=http://www.e23.cn/gg10/tping.gif width=100 height=220 border=0></a>');
+
+
+//theFloaters.addItem('followDiv6','closebutton6',document.documentElement.clientWidth-116,150,f,100);
+//theFloaters.addItem('followDiv7','closebutton7',6,150,f2,100);
+//theFloaters.play();
+</script>
+
+
+</body>
+</html>
+
+
+<style>
+.sign{display:none;}
+</style>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

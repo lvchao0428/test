@@ -1,0 +1,884 @@
+<!--UINFO: http://bbs.tiexue.net/post_9601965_1.html	length=79061&last_modified=1444645500&time_saved=1450677064&charset=gb2312-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta content="长征,卫星,本事,一颗,可用于,城管" name="keywords" />
+    <meta content="昨日发射的长征11号固体运载火箭上搭载有4枚卫星，它们承担了卫星编队飞行、“天网1号”卫星无线网络等科学试验任务。同时，据《中国航空报》今日报道，其中一枚上海航天八院研制的“浦江1号”卫星还能为城市管理提供帮助――当然这只是..." name="description" />
+    <meta http-equiv="mobile-agent" content="format=html5; url=http://m.tiexue.net/touch/thread_9601965_1.html"/>
+    <title>
+        长征11号所携四颗卫星有啥本事？一颗可用于城管
+        
+        -
+        陆军论坛
+        - 铁血社区</title>
+        <link href="http://s.itiexue.net/??css/global/global-u.css,css/tiexue/bbs/page/post1-u.css?v=2" rel="stylesheet" type="text/css" charset="utf-8"/>    
+    <script src="http://s.itiexue.net/??js/global/base-all-v2-u.js,js/tiexue/public-u.js,js/tiexue/bbs/public-u.js,js/tiexue/bbs/page/post1t-u.js?v=4" type="text/javascript" charset="utf-8"></script>   
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+    <script type="text/javascript"> 
+        var ForumID=32;
+        var ForumGroupID=6;
+        var ThreadID=9601965;
+        var islocked=0;
+        var isvouch=0;
+        var Subject='长征11号所携四颗卫星有啥本事？一颗可用于城管';
+	
+        BAIDU_CLB_preloadSlots("180429", "41474", "92705", "81336");
+        function PageTurn()
+        {
+            var pageIndexJs=$.trim($("#txtTurn").val());
+            if(pageIndexJs!="")
+            {
+                if(ValidateNum(pageIndexJs))
+                { 
+                    window.location.href="http://bbs.tiexue.net/post_"+9601965+"_"+pageIndexJs+".html";
+                }
+                else
+                {
+                    alert("请输入数字！");
+                }
+            }else
+            {
+                alert("请输入要跳转的页码！");
+            }
+        }
+        function ValidateNum(srcStr)
+        {
+            var expr='^(0|[1-9][0-9]*)$';
+            var Reg= new RegExp(expr);
+            if(Reg.test(srcStr))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        } 
+        function GaqPush(cname) {
+            _gaq.push(['_trackEvent', 'bbspost', 'clicked', cname]);
+        }
+    </script>   
+</head>
+
+<body>
+    <div class="container">
+        <!--*中间970 内容 start-->
+        <!--*头部 start-->
+        
+<div id="topBar">
+<script type="text/javascript">
+    InitLoginBar({
+        id: "topBar",
+        template: 1,
+        game: false,
+        slideMenu1: false,
+        slideMenu2: true,
+        sousuo: true,
+        addNav: null,
+        addStyle: ""
+    });
+</script>
+</div>
+
+<div class="header">
+    <div class="area header_row_2">
+        <div class="logo textHide float_L">
+            <a title="铁血社区" href="http://bbs.tiexue.net/" target="_blank">铁血社区</a></div>        
+            <ul class="nav fontYaHei" id="topNav">
+                <li class="noLayer">
+                    <h3>
+                        <a href="http://www.tiexue.net" target="_blank" onclick="GaqPush('1')">首页</a></h3>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://mil.tiexue.net" target="_blank" onclick="GaqPush('2')">军事</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowPicClass_43_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-1'])">军品鉴赏</a></li><li><a href="http://mil.tiexue.net/Junlv_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-2'])">中国军旅</a></li><li><a href="http://mil.tiexue.net/junmi_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-3'])">军迷争议</a></li><li><a href="http://mil.tiexue.net/lishi.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-4'])">军事历史</a></li><li><a href="http://mil.tiexue.net/jujiao.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-5'])">军情聚焦</a></li><li><a href="http://mil.tiexue.net/zhuanti_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-6'])">军事专题</a></li><li><a href="http://mil.tiexue.net/daohang/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-7'])">外军网址导航</a></li><li><a href="http://mil.tiexue.net/1979/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-8'])">对越自卫反击战</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://bbs.tiexue.net" target="_blank" onclick="GaqPush('3')">社区</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://mil.tiexue.net/zhiyuanzhe/index.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-1'])">关爱老兵活动</a></li><li><a href="http://www.tiexue.net/ShowClass_775_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-2'])">铁血精品原创</a></li><li><a href="http://www.tiexue.net/ShowClass_772_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-3'])">铁血热门话题</a></li><li><a href="http://bbs.tiexue.net/bbs32-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-4'])">陆军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs31-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-5'])">海军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs69-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-6'])">空军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs33-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-7'])">环球风云</a></li><li><a href="http://bbs.tiexue.net/gbbs24-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-8'])">警察之家</a></li><li><a href="http://bbs.tiexue.net/bbs73-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-9'])">中国历史</a></li><li><a href="http://bbs.tiexue.net/bbs124-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-10'])">军事影评</a></li><li><a href="http://bbs.tiexue.net/bbs219-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-11'])">军品鉴赏</a></li><li><a href="http://bbs.tiexue.net/bbs246-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-12'])">四海钓鱼</a></li><li><a href="http://bbs.tiexue.net/bbs247-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-13'])">人间美食</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <h3>
+                        <a href="http://www.junshishu.com" target="_blank" onclick="GaqPush('5')">读书</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.junshishu.com/mil.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-1'])">军事小说</a></li><li><a href="http://www.junshishu.com/his.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-2'])">历史小说</a></li><li><a href="http://www.junshishu.com/MultiNovelList.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-3'])">全本小说</a></li><li><a href="http://www.junshishu.com/yjcbxs.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-4'])">出版图书</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://www.tiexue.net/ShowPicClass_53_1.html" target="_blank" onclick="GaqPush('6')">图片</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowPicClass_53_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-1'])">精选酷图</a></li><li><a href="http://pic.tiexue.net/tuji_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-2'])">焦点图集</a></li><li><a href="http://www.tiexue.net/ShowPicClass_171_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-3'])">军事酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_172_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-4'])">国际酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_173_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-5'])">历史酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_188_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-6'])">社会酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_599_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-7'])">原创酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_597_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-8'])">猎奇酷图</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://jingcha.tiexue.net" target="_blank" onclick="GaqPush('7')">警察</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowClass_308_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-1'])">处警故事</a></li><li><a href="http://www.tiexue.net/ShowClass_294_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-2'])">警察生活</a></li><li><a href="http://www.tiexue.net/ShowClass_293_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-3'])">警务探讨</a></li><li><a href="http://www.tiexue.net/pictopic-373-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-4'])">图说警察</a></li><li><a href="http://www.tiexue.net/SmallPiclist_670_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-5'])">警察聚焦</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://game.tiexue.net" target="_blank" onclick="GaqPush('8')">游戏</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://dj.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-1'])">大将军</a></li><li><a href="http://dx.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-2'])">大侠传</a></li><li><a href="http://yd.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-3'])">一代宗师</a></li><li><a href="http://jj.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-4'])">将军</a></li><li><a href="http://zzsf.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-5'])">征战四方</a></li><li><a href="http://as.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-6'])">傲视天地</a></li><li><a href="http://sg.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-7'])">三国风云2</a></li><li><a href="http://mr.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-8'])">秦美人</a></li>
+                    </ul>
+                </li>
+                 <li>
+                        <h3><a href="http://v.tiexue.net" target="_blank" onclick="GaqPush('10')">视频</a><span></span></h3>
+                        <ul>
+                           <li><a href="http://v.tiexue.net/classMain_1681.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-1'])">军事视频</a></li><li><a href="http://v.tiexue.net/classMain_1682.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-2'])">时政视频</a></li><li><a href="http://v.tiexue.net/classMain_1683.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-3'])">历史视频</a></li>
+                        </ul>
+                  </li>
+                <li class="junpShop">
+                    <h3>
+                        <span></span><a href="http://www.junph.com/?utm_source=TX&utm_medium=anniu&utm_campaign=junp"
+                            target="_blank" onclick="GaqPush('9')">君品商城</a></h3>
+                    <ul>
+                        <li><a href="http://www.junph.com/html/Class1.html?utm_source=TX&utm_medium=anniu&utm_campaign=1" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-1'])">军迷服饰</a></li><li><a href="http://www.junph.com/html/category/junbiao.htm?utm_source=TX&utm_medium=anniu&utm_campaign=2" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-2'])">军迷手表</a></li><li><a href="http://www.junph.com/html/Class11.html?utm_source=TX&utm_medium=anniu&utm_campaign=3" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-3'])">军迷鞋靴</a></li><li><a href="http://www.junph.com/html/Class9.html?utm_source=TX&utm_medium=anniu&utm_campaign=4" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-4'])">军迷包具</a></li><li><a href="http://www.junph.com/html/category/jp-yanjing/?utm_source=TX&utm_medium=anniu&utm_campaign=6" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-5'])">军迷眼镜</a></li><li><a href="http://www.junph.com/html/Class12.html?utm_source=TX&utm_medium=anniu&utm_campaign=5" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-6'])">军迷手电</a></li><li><a href="http://www.junph.com/html/category/jp-wangyuanjing/?utm_source=TX&utm_medium=anniu&utm_campaign=7" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-7'])">望远镜</a></li>
+                    </ul>
+                </li>
+            </ul>        
+        <script type="text/javascript">
+            function navTab(id) {
+                var $_Tit = $("#" + id + ">li").not(".noLayer");
+                var $_Sub = $("#" + id + ">li>ul");
+                var timmer = null;
+                var n = null;
+                $_Tit.hover(function () {
+                    n = $_Tit.index(this)
+                    $(this).addClass("select").siblings().removeClass("select");
+                    $(this).children("ul").show();
+                }, function () {
+                    $_Tit.eq(n).removeClass("select");
+                    $_Sub.eq(n).hide();
+                })
+            }
+            navTab("topNav");
+        </script>
+    </div>
+</div>
+
+        <!--头部 end-->
+        <!--*主要内容 start-->
+        <div class="main">
+            <div class="banner" id="Baidu_BBSPostNormalV3ContentTopAD1">
+                <div><script type="text/javascript" >BAIDU_CLB_fillSlot("180429")</script></div>
+            </div>
+            <div class="mRow_1">
+                <p class="ftBtn textHide float_L">
+                    <a onclick="addPost();_gaq.push(['_trackEvent', 'bbs', 'clicked', '发帖按钮']);" href="javascript:void(0);" target="_self">我要发帖</a>
+                </p>
+                <div class="page float_R">
+                    <a href="http://bbs.tiexue.net/post_9601965_1.html" class="pageHover">1</a>
+                    
+                </div>
+            </div>
+            
+<div class="dir">
+    
+    <a href="http://bbs.tiexue.net/" target="_top">铁血社区</a> &gt; <a href="http://bbs.tiexue.net/gbbs6-0-1.html" target="_top">铁血军事论坛</a> &gt; <a href="http://bbs.tiexue.net/bbs32-0-1.html" target="_top">陆军论坛</a> &gt; 
+    <a target='_blank' href='http://bbs.tiexue.net/post_9601965_1.html'>长征11号所携四颗卫星有啥本事？一颗可用于城管</a>
+</div>
+
+            
+<div class="postContent border">
+    <div class="postTit">
+        <p class="float_L">
+            帖子主题：长征11号所携四颗卫星有啥本事？一颗可用于城管</p>
+        <p class="float_R">
+            共&nbsp;3397&nbsp;个阅读者&nbsp;<span id="post_HeadReplySort"></span></p>
+    </div>
+</div>
+
+            
+<div class="postContent border">
+    <div class="postStart">
+        <!--*左边用户信息 start-->
+        <div class="sideLeft float_L">
+            <ul class="userMsg">
+                <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/9229417" class="signeffect-id"  target="_blank">s3661176</a></strong><span></span></p><span class="boyHead"></span></div></li> <li class="headPic"> <a href="http://i.tiexue.net/9229417" target="_blank" title="查看个人空间"><img id="userMsg0" src="http://avatar.pic.itiexue.net/9229/9229417.jpg" alt="头像" width="96" height="96" /></a><span class="signeffect-head"></span> </li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/r-07-HJ-wei-3.gif" alt="军衔:海军上尉" title="军衔:海军上尉" /></li> <li class="xxMsg">军号：9229417</li><li class="rongYu"><!-- 勋章 start --><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=13&f=1' target='_blank'><img src='http://img1.itiexue.net/medal/honor/13/1/13_s.png' title='发帖新兵' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=14&f=1' target='_blank'><img src='http://img2.itiexue.net/medal/honor/14/1/14_s.png' title='发帖高手' width='26' height='45' border=0 align='absmiddle'></a><!-- 勋章 end --></li>	<li class='xxMsg'>工分:24659	</li>	<li class='xxMsg'>本区职务:会员</li>
+            </ul>
+            <!--*广告位 start-->
+            <div class="advert01" id="Baidu_BBSPostNormalV3ContentLeftAD1">
+                <div><script type="text/javascript" >BAIDU_CLB_fillSlot("41474")</script></div>
+            </div>
+            <!--广告位 end-->
+        </div>
+        <!--左边用户信息 end-->
+        <!--*右边帖子内容 start-->
+        <div class="contents">
+            <div class="contRow_1" id="adminAndUserPanel_1">
+                <!--9601965,98189749,1,9229417,s3661176,hnEhgwlQfEQwKSWd9bK1Cw%3d%3d,1,0,0,0,0-->
+            </div>
+            <div class="icon_left textHide">
+                左箭头-小图标</div>
+            <div class="contRow_2">
+                
+                <div class="bbsPosTit">
+                    
+                    <span class="emotion61"></span>
+                    <h1>
+                        长征11号所携四颗卫星有啥本事？一颗可用于城管</h1>
+                </div>
+                <!-- 广告位：标题下文字 -->
+ <div class="ad_text" id="Baidu_PostTitleTextAD" ></div>
+                <div class="tiJiaoMsg">
+                    <span>文章提交者：s3661176
+                        加贴在</span>&nbsp;<a href="http://bbs.tiexue.net/bbs32-0-1.html" title="陆军论坛">陆军论坛</a>&nbsp;铁血论坛
+                                        http://bbs.tiexue.net/bbs32-0-1.html</div>
+                <div class="copyBtn" id="contentsbelowbar">
+                </div>
+                
+                <div id="postContent" class="js_box">                   
+                    <div id='Baidu_AdPIP2' class='AdPIP2'><div id='Baidu_AdPIP2_container'></div></div><!-- AdPanel_left --><p class='bbsp'>昨日发射的长征11号固体运载火箭上搭载有4枚卫星，它们承担了卫星编队飞行、“天网1号”卫星无线网络等科学试验任务。同时，据《中国航空报》今日报道，其中一枚上海航天八院研制的“浦江1号”卫星还能为城市管理提供帮助――当然这只是这枚卫星可能的用途之一。美国航空航天局官方网站则重点报道了这次中国发射的卫星承担的国际合作科研项目情况和“天网1号”卫星组网技术。</p><p class='bbsp'>美国家航空航天局(NASA)官网9月25日(北京时间)报道了中国长征11号发射成功的消息，报道称，继长征6火箭发射成功后，中国又发射了一枚新的长征系列火箭，长征11号。这枚火箭上搭载了三枚搭载有部分欧洲技术的卫星，它们组成了“天网1”三星星座系统，此外，该火箭还搭载了一枚代号“浦江1号”的微型卫星。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>报道中称，这次发射的“天网1”星座由三枚卫星组成，它们的代号为天网-1A(SECM-1 )、天网-1B(NJUST-2)和天网-1C(NJFA-1)――由南京航空航天大学研制。这些卫星都基于“立方体”卫星构造，其中SECM-1和NJUST-2采用“立方体-2U”构型，而NJFA-1则是“立方体-3U”构型。(观察者网注：这是一种目前国际上流行的标准卫星设计方式，即将卫星设计为由边长10厘米的立方体单元构成，“立方体-2U”构型意味着卫星由两个边长10厘米的立方体单元组成)</p><p class='bbsp'>这三枚卫星将实现星间无线网络通讯，采用葡萄牙Tekever公司的GAMALINK技术。</p><p class='bbsp'>据悉，Tekever和上海微型卫星研究院(SECM)在2014年4月22日签署了合作协议，在上海微型卫星研究院未来制造的卫星平台上都将使用这种先进技术。</p><p class='bbsp'>“天网-1”系统由上海微型卫星中心、丹麦GomSpace公司，葡萄牙Tekever公司和瑞典Nanospace公司联合设计。</p><p class='bbsp'>据Tekever公司总裁理查德・门德斯说，采用GAMALINK技术将让这三枚卫星成为一个整体共同运作，而不是三枚单独的卫星组成的星群。</p><p class='bbsp'>采用这一技术后，各种无线电通讯将通过一个单独的硬件系统来实施，允许同时运行各种软件。而在此之前，所有软件都需要独立的硬件系统来发射无线信号，因此这一技术将让卫星系统更加简洁。战略社区 club.***** 理性爱国分析时局<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>欧洲航天局计划在2017年升空的PROBA-3卫星上采用同样的技术。</p><p class='bbsp'>报道称，在卫星上搭载的设备包括接收海事和航空自动应答信号的相关设备，可用于监控海上和空中交通情况。</p><p class='bbsp'>“立方体”卫星技术对于中国来说海事一个较新的技术，根据上海微型卫星研究院的张川(音译)说：“推动我们进行这次任务的理由很简单，这是我们的团队学习立方体卫星相关技术的机会，同时也能验证将我们日常使用的技术用到宇宙中的可靠性。”</p><p class='bbsp'>这些卫星的通信信号将对公众公开，全世界的卫星爱好者都可以尝试追踪这些卫星，监控它们的健康状况。</p><p class='bbsp'>《中国航空新闻网》今天发表文章《中国卫星部件制造首次采用钛合金3D打印成型》，介绍了上海航天八院研制的“浦江1号”小卫星的相关情况。转载如下：</p><p class='bbsp'>2015年9月25日，采用固体燃料发动机的我国新型运载火箭长征十一号在酒泉卫星发射中心成功发射，这是长征十一号的首飞，使我国具备快速发射卫星的能力。此次发射搭载了上海航天技术研究院研制的浦江一号卫星和中国科学院上海微小卫星工程中心研制的上科大二号卫星等4颗微小卫星。战略军事 <a href="http://www.*****" target="_blank" title="http://www.*****">http://www.*****</a><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>浦江一号卫星由中国航天科技集团公司所属上海航天技术研究八院研制，可实现面向用户订制的快速便捷综合信息服务，按“互联网+”的要求，能广泛应用于电磁环境监测、国土资源普查、应急搜救等领域。</p><p class='bbsp'>随着信息技术的不断发展，人们对空间信息综合应用的需求越来越旺盛。“一带一路”空间信息走廊建设的提出，更是为国内方兴未艾的商业卫星市场提供了无限的空间。简化研制技术流程，缩短研制周期，发展低成本、高可靠性、满足多任务需求的小卫星星座，成为今后卫星技术发展的重要方向。</p><p class='bbsp'>出于对未来商业卫星发展应用的考虑，自2009年起，上海航天技术研究院八院即自筹经费开展专项研究，按照积木型、易组装的思路，着力打造一款简洁的面向多功能应用的小卫星平台，探索微小卫星领域产品化、标准化、集成化的突破。</p><p class='bbsp'>“一方面，这个平台必须具备一般卫星的完整功能，可满足空间环境运行和应用的需求，同时也要具备灵活多变的宽适应能力，能快速按照用户的需求进行快速配置。”型号负责人介绍。立足 “面向用户，方便快捷”设计理念，浦江一号卫星首次采用了全数字化设计技术、通用化即插即用技术、柔性化结构设计等技术，能快速地和各种不同的有效载荷进行整合，并在一个月内完成集成测试、一个星期内完成发射准备、一天内完成在轨交付的目标。<a href="http://www.*****" target="_blank" title="http://www.*****">http://www.*****</a> 最大的战略军事网站</p><p class='bbsp'>即插即用概念的提出，使得卫星在设计上摆脱了平台与载荷必须互相一一对应的限制，通过标准的机械接口、供电接口、控制接口和通信接口等，各个单机之间采用标准协议来约束，只要符合标准的设备，都可以实现即插即用。“这就好比组装电脑，我们可以根据不同的需求提供高中低的不同配置，形成货架产品来供你选择。而你需要安装的特殊设备，我们也提供了标准转换接口，插上就可以用。”标准化的平台设备，不仅可以大大降低卫星的研制成本，更为卫星的应用降低了门槛，今后城市定制、企业定制、乃至私人定制的卫星，将不再是遥远的期望。</p><p class='bbsp'>智能制造是当下的热门话题，而浦江一号也在国内卫星上首次应用了3D打印技术，其天线支架采用了钛合金材料的3D打印成型方案。而这不是为了赶时髦，而是出于卫星快速研制、降低成本的需求。原来生产一个支架需要4个月的生产周期，采用3D打印，仅仅需要3天的时间――1天完成打印成型，2天开展性能检测检验。“3D打印支架的各项性能指标与传统机加工制造的支架性能相当，完全满足设计指标要求。”<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>WiFi是目前应用最为普及的一种短程无线传输技术，通过WiFi，我们可以方便地进行智能设备之间的互联。浦江一号创造性地在航天领域引入这一概念，通过无线技术互联，将航天器上的传感器组成一个“互联网”。此次浦江一号卫星搭载的无线温度传感器是我国无线传感器网络技术在航天器上的首次应用，不仅可以验证无线传感器网络技术在轨的性能，还能有效地节能减重，降低防护和维护成本，并对后续航天器应用具有很好的示范作用。</p><p class='bbsp'>浦江一号所使用的平台也堪称一绝。它采用标准的结构杆件、接头、承载板来组成卫星的结构系统，可根据需要任意调节平台舱和载荷舱的空间。“这就像我们买宜家的家具一样，可以自行根据房间的大小、用途来进行组装，可满足不同载荷的需要，大大提高了卫星结构的适应度。”</p><p class='bbsp'>此外，浦江一号还首次采用“热切割”释放技术，搭载了微泵流体回路、记忆合金百叶窗、高性能数字信号处理器、大容量静态存储器、新型星敏感器等一系列国产化器件和部组件，对未来空间新技术的广泛应用具有很好的支撑作用，而且推进了空间关键核心元器件、部组件的自主可控。</p><p class='bbsp'>出于在轨高可靠性运行的考虑，传统的卫星研制往往需要经历方案、初样、正样三个阶段，在方案阶段之后，制造出一颗完整的初样星，用于破坏性环境试验；转入正样后，再生产一颗卫星进行验收级环境试验，研制周期长、成本控制不易。而浦江一号立足商业卫星发展的需要，对研制模式进行了创新性突破，从方案验证阶段直接转入正样阶段，这样就节省了一颗完整的初样星，大大节约了成本。</p><p class='bbsp'>同时，在设计制造的过程中，浦江一号采用全数字化技术，一改以前人工操作的做法，通过轻量化模型设计出三维电缆网，利用卫星总装过程管控系统，依据模型编写工艺文件，自动生成辅料、工装配套、标准件、仪器仪表等数量，在总装现场用平板电脑记录单机状态等，采集质量数据，后续还将实施现场文件的电子签署，大大缩短了研制周期。</p><p class='bbsp'>因为卫星平台具有十分友好的接口界面，可广泛应用于成像、通信、导航、遥感等商用领域。通过卫星组网，能够全天候全天时对目标开展日常观测，为突发紧急事件的处理提供重要参考判据。比如通过搭载不同的有效载荷，可以对城市道路拥堵情况、热点地区人员疏密情况、区域天气和环境(如雾霾)预报、移动和应急通讯、自然和人为灾害预报及勘察、近海情况等，为城市管理提供帮助，大大提高城市综合治理能力。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>2014年11月，上海航天技术研究院八院成立了微纳卫星系统工程中心和纳米航天器技术科创中心，面向市场主动转型，提供业务咨询、产品开发、在轨维护服务等一整套系统方案解决服务。目前，上海航天技术研究院八院正在通过校企合作、研产合作乃至国际合作，建立有效载荷产业联盟，让微小卫星更加贴近客户、贴近市场。</p>
+                </div>
+                <div class="shareBlog">
+                    <div class="bar_1" style="clear:both;">
+                        <div class="float_L share share-hover">
+                            <span class="float_L">分享：</span>
+                            <a href="javascript:void(0)" onclick="TX_share('sina');GaqPush('分享');" class="share-1 float_L" title="分享到新浪微博"></a>
+                            <a href="javascript:void(0)" onclick="TX_share('qblog');GaqPush('分享');" class="share-2 float_L" title="分享到腾讯微博"></a>
+                            <a href="javascript:void(0)" onclick="TX_share('qzone');GaqPush('分享');" class="share-3 float_L" title="分享到QQ空间"></a>
+                            <a title="分享到微信" class="share-4 float_L" onclick="TX_share('weixin');GaqPush('分享');" href="javascript:void(0)"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="keyword">
+                    <strong>延伸阅读：</strong>
+                    
+                </div>
+                <div class="gfMsg">
+                    <ul class="gfLeft" onmouseover="tagetLayer(this,$(this).next('ul'))" id="tlogdiv"></ul>       
+                    <!--*日志弹出 start-->
+                    <ul class="logList" id="tloglist"></ul>
+                    <script type="text/javascript">
+                        //如果是管理员
+                        $(function(){
+                            var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                            var logisheader = TX.BaseCookie.BBS_IsHeader();
+                            var strhtml="";
+                            if(loguserid>0)
+                            {
+                                strhtml= '<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">70</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                                if(9229417 == loguserid|logisheader)
+                                {
+                                    strhtml='<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">70</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                                }
+                            }
+                            else{
+                                strhtml= '<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">70</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                            }
+                            $("#tlogdiv").html(strhtml);
+                            $("#tloglist").html(strhtml);
+                        })
+                    </script>
+                    <!--日志弹出 end-->
+                    <dl class="gfRight">
+                        <dd class="spare">
+                            <a href="javascript:void(0)" onclick="daShangLayer(9229417,98189749)">
+                                打赏</a></dd>
+                        <dd class="favor">
+                            <a href="javascript:void(0);" onclick="TxBBS_FavoriteThread('9601965');">
+                                收藏文本</a></dd>
+                        <dd class="ding" id="digNum">
+                            <a href="javascript:void(0);" onclick="TxBBS_DigThread('9601965');"><em>
+                                11</em><span></span></a></dd>
+                    </dl>
+                </div>
+                <div class="reward textHide" id="adminAddSalary_98189749_9601965">
+                </div>
+                <div class="qianming">0</div>
+                <div class="lock-msg border hidden" id="threadnoreplyspan">
+                    本帖已经被管理员锁定，不能回复</div>
+                <div class="fastReply" id="commentsDiv">
+                    <script type="text/javascript">
+                        try {
+                            TxBBS_SetQuickReplyHtml("commentsDiv", 'False', '32', '9601965', '长征11号所携四颗卫星有啥本事？一颗可用于城管');
+                        }
+                        catch (e) { }
+                    </script>
+                </div>
+                <!--*相关帖 start-->
+                <div class="aboutPost-v2" style="height: 340px; margin-top: 5px;">
+                    <h2 style="height: 50px; line-height: 50px; color: #38352C; font-size: 16px; font-weight: bold;">
+                        长征11号所携四颗卫星有啥本事？一颗可用于城管相关文章</h2>
+                    <div class="abpLeft">
+                        <ul>
+                            <li><a onclick="GaqPush('相关推荐-相关文章')" title='中国造微小卫星有望实现空间“数据接力”' href='http://bbs.tiexue.net/post_3175354_1.html' target = '_blank'>中国造微小卫星有望实现空间“数据接力”</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='西方猜测：中国一箭九星，北斗三代两次建成' href='http://bbs.tiexue.net/post_3197318_1.html' target = '_blank'>西方猜测：中国一箭九星，北斗三代两次建成</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='中秋嫦娥二号奔月：中国遥感卫星11号紧急升空' href='http://bbs.tiexue.net/post_4507985_1.html' target = '_blank'>中秋嫦娥二号奔月：中国遥感卫星11号紧急升空</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='美称中国新发射遥感-11卫星 具有军事侦察用途' href='http://bbs.tiexue.net/post_4514468_1.html' target = '_blank'>美称中国新发射遥感-11卫星 具有军事侦察用途</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='中国航天惊人成就震动俄罗斯高层' href='http://bbs.tiexue.net/post_4632810_1.html' target = '_blank'>中国航天惊人成就震动俄罗斯高层</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='我国卫星因火箭故障发射失利 未进入预定轨道' href='http://bbs.tiexue.net/post_5272566_1.html' target = '_blank'>我国卫星因火箭故障发射失利 未进入预定轨道</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='天宫一号推迟至九月上旬发射 因实践卫星未入轨' href='http://bbs.tiexue.net/post_5284371_1.html' target = '_blank'>天宫一号推迟至九月上旬发射 因实践卫星未入轨</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='运载火箭发射失利原因查明 系相关连接部位失效' href='http://bbs.tiexue.net/post_5306763_1.html' target = '_blank'>运载火箭发射失利原因查明 系相关连接部位失效</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='中国2011年将发射20多颗航天器 堪称“高产”年' href='http://bbs.tiexue.net/post_5348959_1.html' target = '_blank'>中国2011年将发射20多颗航天器 堪称“高产”年</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="abpRight pp01">
+                        <ul class="pp">
+                            <li><a href="http://bbs.tiexue.net/post_4509091_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small5.itiexue.net/1182/11822765.jpg" title="两微型卫星搭车“遥感卫星十一号”，全部成功发射" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_4509091_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>两微型卫星搭车“遥感卫星十一号”，全部成功发射</a></span></li><li><a href="http://bbs.tiexue.net/post_5597794_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small11.itiexue.net/1404/14044559.jpg" title="昨天-中国“一箭双星”发射又成功" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_5597794_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>昨天-中国“一箭双星”发射又成功</a></span></li><li><a href="http://bbs.tiexue.net/post_6875076_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small3.itiexue.net/1669/16699419.png" title="中国成功发射实践11号05星 长征火箭发射178次" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_6875076_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>中国成功发射实践11号05星 长征火箭发射178次</a></span></li><li><a href="http://bbs.tiexue.net/post_8296903_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small1.itiexue.net/1871/18716089.jpg" title="中国成功发射遥感卫星21号 同时搭载天拓2号卫星" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_8296903_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>中国成功发射遥感卫星21号 同时搭载天拓2号卫星</a></span></li><li><a href="http://bbs.tiexue.net/post_8296922_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small11.itiexue.net/1871/18716159.jpg" title="我国首颗成像体制微卫星研制成功(图)" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_8296922_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>我国首颗成像体制微卫星研制成功(图)</a></span></li><li><a href="http://bbs.tiexue.net/post_9550834_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small3.itiexue.net/2078/20785611.jpg" title="长征6号火箭将首飞 一次送20颗卫星入轨" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_9550834_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>长征6号火箭将首飞 一次送20颗卫星入轨</a></span></li>
+                        </ul>
+                    </div>
+                </div>
+                <!--相关帖 end-->
+            </div>
+            <!--*广告位 start-->
+            <div class="advert02" id="Baidu_BBSPostNormalV3ContentInfo"><script type="text/javascript" >BAIDU_CLB_fillSlot("92705")</script></div>
+            <!--广告位 end-->
+            <div class="date">
+                2015/9/26 17:48:11</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+</div>
+<!--*热门帖 start-->
+<div class="hotPost">
+    <div class="hotLeft border pp01">
+        <h3 class="tzTitle">
+            本版热门</h3>
+        <ul class="pp">
+            <li><a onclick="GaqPush('本版热门-焦点图')" target='_blank' title='以色列又吓尿了   伊朗称首次成功试射精确制导远程弹道导弹' href='http://bbs.tiexue.net/post_9687405_1.html'><img id='img1' src='http://small11.itiexue.net/2088/20885039.jpg' width='120' height='90' border=0></a><span><a onclick="GaqPush('本版热门-焦点图')" target='_blank' title='以色列又吓尿了   伊朗称首次成功试射精确制导远程弹道导弹' href='http://bbs.tiexue.net/post_9687405_1.html'>以色列又吓尿了   伊朗称首次成功试射精确制导远程弹道导弹</a></span></li>
+        </ul>
+        <ul class="textList">
+            <li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670417_1.html' title='外媒：中国拟售秘鲁100辆VT4坦克！每辆400万美元！'>外媒：中国拟售秘鲁100辆VT4坦克！每辆400万美元！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9671255_1.html' title='俄喷火坦克抵达叙利亚，七秒能毁一个村庄'>俄喷火坦克抵达叙利亚，七秒能毁一个村庄</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9685497_1.html' title='以色列超美模特入伍当兵 身材火辣臀形很棒'>以色列超美模特入伍当兵 身材火辣臀形很棒</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9687182_1.html' title='在国旗下 她们乱改军装还扭腰露大腿(组图)'>在国旗下 她们乱改军装还扭腰露大腿(组图)</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9673031_1.html' title='中国特种部队赴叙利亚和伊拉克 任特殊安保'>中国特种部队赴叙利亚和伊拉克 任特殊安保</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9685433_1.html' title='中国特种部队进入叙利亚作战？战力强悍高层震惊(转载)'>中国特种部队进入叙利亚作战？战力强悍高层震惊(转载)</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670543_1.html' title='战场上是机枪手可怕，还是狙击手拉风？'>战场上是机枪手可怕，还是狙击手拉风？</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670718_1.html' title='朝鲜阅兵直播：朝鲜士兵向金日成广场方向移动'>朝鲜阅兵直播：朝鲜士兵向金日成广场方向移动</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9679735_1.html' title='林彪元帅下令：把这支部队给我从地球上抹掉！'>林彪元帅下令：把这支部队给我从地球上抹掉！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670939_1.html' title='朝鲜大阅兵 展示大批武器装备'>朝鲜大阅兵 展示大批武器装备</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9677723_1.html' title='二炮霸气战斗口号：东风“快递”直达全球'>二炮霸气战斗口号：东风“快递”直达全球</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9687507_1.html' title='赚金★坦克还有没有发展必要？'>赚金★坦克还有没有发展必要？</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9676059_1.html' title='解放军驻港部队 反对中环军营军事用地改划为商用'>解放军驻港部队 反对中环军营军事用地改划为商用</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670971_1.html' title='[铁血讲武堂291]盘点美军制造的屠杀事件 这次炸医院有前科！'>[铁血讲武堂291]盘点美军制造的屠杀事件 这次炸医院有前科！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9671157_1.html' title='多头导弹亮相朝鲜阅兵 破外媒模型传言'>多头导弹亮相朝鲜阅兵 破外媒模型传言</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670878_1.html' title='朱日和全败这不科学'>朱日和全败这不科学</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9677123_1.html' title='[原创]朝鲜真炮击汉城，需要多少门大炮才行？'>[原创]朝鲜真炮击汉城，需要多少门大炮才行？</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9675606_1.html' title='[原创]鹰熊之戏――我看俄国出兵叙利亚'>[原创]鹰熊之戏――我看俄国出兵叙利亚</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9677775_1.html' title='美研制“无声鹰”摩托，悄无声息接近敌人！'>美研制“无声鹰”摩托，悄无声息接近敌人！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9687360_1.html' title='解放军坦克演习抛锚 战士自行修理遭责问'>解放军坦克演习抛锚 战士自行修理遭责问</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9666562_1.html' title='我山地步兵列装新版猛士突击车'>我山地步兵列装新版猛士突击车</a></li>
+        </ul>
+    </div>
+    
+    <div class="hotRight border pp01">
+        <h3 class="tzTitle">
+            大区热门</h3>
+        <ul class="pp">
+            <li><a onclick="GaqPush('大区热门-焦点图')" target='_blank' title='[原创]LAH猎黑，世界上最小的滑轮组复合迷你弩！' href='http://bbs.tiexue.net/post_9687073_1.html'><img id='img1' src='http://small1.itiexue.net/2088/20884645.jpg' width='120' height='90' border=0></a><span><a onclick="GaqPush('大区热门-焦点图')" target='_blank' title='[原创]LAH猎黑，世界上最小的滑轮组复合迷你弩！' href='http://bbs.tiexue.net/post_9687073_1.html'>[原创]LAH猎黑，世界上最小的滑轮组复合迷你弩！</a></span></li>
+        </ul>
+        <ul class="textList">
+            <li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670488_1.html' title='大陆在苏-30上挂自制霹雳导弹 湾湾又羡慕了[呆湾神贴 第二十八期]'>大陆在苏-30上挂自制霹雳导弹 湾湾又羡慕了[呆湾神贴 第二十八期]</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670797_1.html' title='朝鲜阅兵'>朝鲜阅兵</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670869_1.html' title='有消息声土鸡F16干掉米格29了！'>有消息声土鸡F16干掉米格29了！</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670639_1.html' title='菲律宾高院法官安东尼奥・卡皮奥特供的南海诸岛高清近拍图'>菲律宾高院法官安东尼奥・卡皮奥特供的南海诸岛高清近拍图</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670654_1.html' title='运20 再来一架，785'>运20 再来一架，785</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670781_1.html' title='美称中国特种部队被派往叙利亚等多国保护外交官'>美称中国特种部队被派往叙利亚等多国保护外交官</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670681_1.html' title='我海军新锐隐身舰队出访霸气照'>我海军新锐隐身舰队出访霸气照</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9686089_1.html' title='东风-10型巡航导弹发射全过程，直接从窗户钻进大楼爆炸！'>东风-10型巡航导弹发射全过程，直接从窗户钻进大楼爆炸！</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9671252_1.html' title='日海军叫嚣可4小时清空东海舰队，可能吗？'>日海军叫嚣可4小时清空东海舰队，可能吗？</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9675541_1.html' title='外交部回应“南沙华阳礁和赤瓜礁灯塔启用”：将继续建设！'>外交部回应“南沙华阳礁和赤瓜礁灯塔启用”：将继续建设！</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9685494_1.html' title='（一周军情）“冯如奖”透露了中国高超声速飞行器的什么大秘密？'>（一周军情）“冯如奖”透露了中国高超声速飞行器的什么大秘密？</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670953_1.html' title='朝鲜阅兵现场 脏弹部队现身 脏弹是什么？'>朝鲜阅兵现场 脏弹部队现身 脏弹是什么？</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670504_1.html' title='中国军舰告别心脏病！我国一步冲天成功研世界最大功率军用燃机'>中国军舰告别心脏病！我国一步冲天成功研世界最大功率军用燃机</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9675348_1.html' title='反间谍部门在上海扣押一日本女性 疑从事间谍活动'>反间谍部门在上海扣押一日本女性 疑从事间谍活动</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670489_1.html' title='辽宁号舰载机首次着舰画面曝光 飞行员眼睛充血（视频）'>辽宁号舰载机首次着舰画面曝光 飞行员眼睛充血（视频）</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9665748_1.html' title='中国武警森林部赶赴印尼协助扑灭林火'>中国武警森林部赶赴印尼协助扑灭林火</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9667254_1.html' title='[原创]愚弄了枪迷几十年的中正式老步枪'>[原创]愚弄了枪迷几十年的中正式老步枪</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9670576_1.html' title='美媒：中国拥3万强悍特种兵战力惊人不输西方'>美媒：中国拥3万强悍特种兵战力惊人不输西方</a></li>
+        </ul>
+    </div>
+    
+</div>
+<!--热门帖 end-->
+
+<div class="postContent border hotReply" id="reply">
+    <div class="postTit">
+        <h2>
+            热门回复</h2>
+    </div>
+    
+<!--*个人帖子 start-->
+<div class="postStart">
+    <!--*左边用户信息 start-->
+    <div class="sideLeft float_L">
+        <ul class="userMsg">
+            <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/9110568" target="_blank">奥巴马童鞋</a></strong><span></span></p><span class="boyHead"></span></div></li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/r-07-LJ-bing-1.gif" alt="军衔:陆军列兵" title="军衔:陆军列兵" /></li> <li class="xxMsg">军号：9110568</li>	<li class='xxMsg'>工分:506	</li>
+        </ul>
+    </div>
+    <!--左边用户信息 end-->
+    <!--*右边帖子内容 start-->
+    <div class="contents">
+        <div class="contRow_1" id="adminAndUserPanel_top_2">
+            <!--9601965,98203291,2,9110568,奥巴马童鞋,4swywViXJKn3XpH9uWLZTg%3d%3d,1,0,0,0,0-->
+        </div>
+        <div class="icon_left textHide">
+            左箭头-小图标</div>
+        <div class="contRow_22">
+        <div class="hotReply_Bg">
+            热回复背景</div>
+        <div class="bbsp2 oneQuite">
+        
+        <p>
+            <!-- AdPanel --><!-- AdPanel_left --><p class='bbsp'><span style="font-size:22px"><font color="#ff0000">城管大队也配卫星了。。。难道城管也要走空天地一体的路线？这样下去，想挑战兔子的正规军之前，是不是先要过城管这一关？ </font></span></p>
+        </p>
+    </div>
+    
+    <div id="postlogdiv2">
+        <script type="text/javascript">
+            //如果是管理员
+            $(function(){
+                var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                var logisheader = TX.BaseCookie.BBS_IsHeader();
+                var strhtml="";
+                if(loguserid>0)
+                {
+                    strhtml= '<!-- 没有日志 -->';
+                    if(9110568 == loguserid|logisheader)
+                    {
+                        strhtml='<!-- 没有日志 -->';
+                    }
+                }
+                $("#postlogdiv2").html(strhtml);
+            })
+        </script>
+    </div>
+    <div style="height: 40px;">
+    </div>
+    <div class="tabBottom">
+        <div class="reward textHide" id="adminAddSalary_98203291_9601965_2">
+        </div>
+        <p class="daShang">
+                
+             <a class="jubaobtn" style="visibility: hidden" onclick="GaqPush('主贴-举报');jubao('http://bbs.tiexue.net/ReportPostV2.aspx?PostID=98203291&ThreadID=9601965');" href="###">举报</a>
+            <a href='javascript:void(0);daShangLayer("9110568","98203291")'>打赏</a>
+            <a href='javascript:UserDigPost("98203291","Wonderful98203291")'>顶一下</a><strong>(<span id="Wonderful98203291">6</span>)</strong>
+             <span><a onclick="commentPop('2',decodeURIComponent('奥巴马童鞋'),'4swywViXJKn3XpH9uWLZTg%3d%3d');GaqPush('回复引用楼层');" href="###">回复</a></span>
+        
+        </p>
+    </div>
+</div>
+<div class="date">
+    2015/9/27 17:32:00</div>
+<p class="hidden">
+    占位标签-勿删！！</p>
+</div>
+<!--右边帖子内容 end-->
+</div>
+<!--个人帖子 end-->
+
+</div>
+
+<div class="advert03" id="Baidu_BBSPostNormalV3FirstFloorBottomAD">
+    <div id="Baidu_BBSPostNormalV3FirstFloorBottomAD_container"></div>
+</div>
+
+<div class="postContent border hotReply wyReply">
+    <div class="postTit">
+        <h2>
+            网友回复</h2>
+        <span id="post_UserReplySort"></span>
+    </div>
+    <div id="PostReply_List">
+        
+        <!--*个人帖子 start-->
+        <!--deletefloor:5-->
+        <a name="5"></a>
+        <div class="postStart">
+            <!--*左边用户信息 start-->
+            <div class="sideLeft float_L">
+                <ul class="userMsg">
+                    <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/9105049" target="_blank">爱你以成瘾</a></strong><span></span></p><span class="boyHead"></span></div></li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/r-07-LJ-bing-1.gif" alt="军衔:陆军列兵" title="军衔:陆军列兵" /></li> <li class="xxMsg">军号：9105049</li>	<li class='xxMsg'>工分:195	</li>
+                </ul>
+                <div id="Baidu_BBSPostNormalV3ContentLeftADList0" class="Baidu_PostADLeftList">
+                    <div id="Baidu_BBSPostNormalV3ContentLeftADList0_container">
+                    </div>
+                </div>
+            </div>
+            <!--左边用户信息 end-->
+            <!--*右边帖子内容 start-->
+            <div class="contents">
+                <div class="contRow_1" id="adminAndUserPanel_5">
+                    <!--9601965,98211283,5,9105049,爱你以成瘾,PP9oNAuFikHxWJolXoLmSQ%3d%3d,1,0,0,0,0-->
+                </div>
+                <div class="icon_left textHide">
+                    左箭头-小图标</div>
+                <div class="contRow_22">
+                <div class="bbsp2">
+                    
+                    <p>
+                        <!-- AdPanel --><!-- AdPanel_left --><p class='bbsp'>我们再次承诺绝对不首先动用城管！</p>
+                    </p>
+                </div>
+                
+    <div id="bompostlogdiv5">
+        <script type="text/javascript">
+            //如果是管理员
+            $(function(){
+                var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                var logisheader = TX.BaseCookie.BBS_IsHeader();
+                var strhtml="";
+                if(loguserid>0)
+                {
+                    strhtml= '<!-- 没有日志 -->';
+                    if(9105049 == loguserid|logisheader)
+                    {
+                        strhtml='<!-- 没有日志 -->';
+                    }
+                }
+                $("#bompostlogdiv5").html(strhtml);
+            })
+        </script>
+    </div>
+                <div style="height: 40px">
+                    <div class="tabBottom">
+                        <div class="reward textHide" id="adminAddSalary_98211283_9601965_0">
+                        </div>
+                        <p class="daShang">
+                            
+                             <a class="jubaobtn" style="visibility: hidden" onclick="GaqPush('主贴-举报');jubao('http://bbs.tiexue.net/ReportPostV2.aspx?PostID=98211283&ThreadID=9601965');" href="###">举报</a>
+                            <a href='javascript:void(0);daShangLayer("9105049","98211283")'>打赏</a>
+                            <a href='javascript:UserDigPost("98211283","Wonderful98211283")'>顶一下</a><strong>(<span id="Wonderful98211283">1</span>)</strong>
+                              <span><a onclick="commentPop('5',decodeURIComponent('爱你以成瘾'),'PP9oNAuFikHxWJolXoLmSQ%3d%3d');GaqPush('回复引用楼层');" href="###">回复</a></span>
+                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="date">
+                2015/9/28 10:39:09</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+    <!--个人帖子 end-->
+    
+        <!--*个人帖子 start-->
+        <!--deletefloor:4-->
+        <a name="4"></a>
+        <div class="postStart">
+            <!--*左边用户信息 start-->
+            <div class="sideLeft float_L">
+                <ul class="userMsg">
+                    <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/5711531" target="_blank">朱铭华</a></strong><span></span></p><span class="girlHead"></span></div></li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/r-07-LJ-bing-1.gif" alt="军衔:陆军列兵" title="军衔:陆军列兵" /></li> <li class="xxMsg">军号：5711531</li>	<li class='xxMsg'>工分:409	</li>
+                </ul>
+                <div id="Baidu_BBSPostNormalV3ContentLeftADList1" class="Baidu_PostADLeftList">
+                    <div id="Baidu_BBSPostNormalV3ContentLeftADList1_container">
+                    </div>
+                </div>
+            </div>
+            <!--左边用户信息 end-->
+            <!--*右边帖子内容 start-->
+            <div class="contents">
+                <div class="contRow_1" id="adminAndUserPanel_4">
+                    <!--9601965,98207382,4,5711531,朱铭华,COT7KFRcHikWJZ%2bElY%2f0Ng%3d%3d,1,0,0,0,0-->
+                </div>
+                <div class="icon_left textHide">
+                    左箭头-小图标</div>
+                <div class="contRow_22">
+                <div class="bbsp2">
+                    
+                    <p>
+                        <!-- AdPanel --><!-- AdPanel_left --><p class='bbsp'><div class="yinyong"><dl><dt>2楼&nbsp;<a href="http://i.tiexue.net/9110568" target="_blank">奥巴马童鞋</a></dt><dd><span style="font-size:22px"><font color="#ff0000">城管大队也配卫星了。。。难道城管也要走空天地一体的路线？这样下去，想挑战兔子的正规军之前，是不是先要过城管这一关？ </font></span></dd></dl></div>完了， 卖烧烤的都不敢出来了</p>
+                    </p>
+                </div>
+                
+    <div id="bompostlogdiv4">
+        <script type="text/javascript">
+            //如果是管理员
+            $(function(){
+                var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                var logisheader = TX.BaseCookie.BBS_IsHeader();
+                var strhtml="";
+                if(loguserid>0)
+                {
+                    strhtml= '<!-- 没有日志 -->';
+                    if(5711531 == loguserid|logisheader)
+                    {
+                        strhtml='<!-- 没有日志 -->';
+                    }
+                }
+                $("#bompostlogdiv4").html(strhtml);
+            })
+        </script>
+    </div>
+                <div style="height: 40px">
+                    <div class="tabBottom">
+                        <div class="reward textHide" id="adminAddSalary_98207382_9601965_0">
+                        </div>
+                        <p class="daShang">
+                            
+                             <a class="jubaobtn" style="visibility: hidden" onclick="GaqPush('主贴-举报');jubao('http://bbs.tiexue.net/ReportPostV2.aspx?PostID=98207382&ThreadID=9601965');" href="###">举报</a>
+                            <a href='javascript:void(0);daShangLayer("5711531","98207382")'>打赏</a>
+                            <a href='javascript:UserDigPost("98207382","Wonderful98207382")'>顶一下</a><strong>(<span id="Wonderful98207382">1</span>)</strong>
+                              <span><a onclick="commentPop('4',decodeURIComponent('朱铭华'),'COT7KFRcHikWJZ%2bElY%2f0Ng%3d%3d');GaqPush('回复引用楼层');" href="###">回复</a></span>
+                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="date">
+                2015/9/28 0:39:19</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+    <!--个人帖子 end-->
+    
+        <!--*个人帖子 start-->
+        <!--deletefloor:3-->
+        <a name="3"></a>
+        <div class="postStart">
+            <!--*左边用户信息 start-->
+            <div class="sideLeft float_L">
+                <ul class="userMsg">
+                    <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/6383601" target="_blank">wang205800</a></strong><span></span></p><span class="boyHead"></span></div></li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/r-07-LJ-bing-1.gif" alt="军衔:陆军列兵" title="军衔:陆军列兵" /></li> <li class="xxMsg">军号：6383601</li>	<li class='xxMsg'>工分:2668	</li>
+                </ul>
+                <div id="Baidu_BBSPostNormalV3ContentLeftADList2" class="Baidu_PostADLeftList">
+                    <div id="Baidu_BBSPostNormalV3ContentLeftADList2_container">
+                    </div>
+                </div>
+            </div>
+            <!--左边用户信息 end-->
+            <!--*右边帖子内容 start-->
+            <div class="contents">
+                <div class="contRow_1" id="adminAndUserPanel_3">
+                    <!--9601965,98204276,3,6383601,wang205800,dbluR2XrH98Pa01YM9p3LQ%3d%3d,1,0,0,0,0-->
+                </div>
+                <div class="icon_left textHide">
+                    左箭头-小图标</div>
+                <div class="contRow_22">
+                <div class="bbsp2">
+                    
+                    <p>
+                        <!-- AdPanel --><!-- AdPanel_left --><p class='bbsp'>跟赫鲁晓夫访美苏联射卫星一个道理，到美国那边更有底气罢了，展示核打击力给美国佬看，一些谈判让习近平更有底牌</p>
+                    </p>
+                </div>
+                
+    <div id="bompostlogdiv3">
+        <script type="text/javascript">
+            //如果是管理员
+            $(function(){
+                var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                var logisheader = TX.BaseCookie.BBS_IsHeader();
+                var strhtml="";
+                if(loguserid>0)
+                {
+                    strhtml= '<!-- 没有日志 -->';
+                    if(6383601 == loguserid|logisheader)
+                    {
+                        strhtml='<!-- 没有日志 -->';
+                    }
+                }
+                $("#bompostlogdiv3").html(strhtml);
+            })
+        </script>
+    </div>
+                <div style="height: 40px">
+                    <div class="tabBottom">
+                        <div class="reward textHide" id="adminAddSalary_98204276_9601965_0">
+                        </div>
+                        <p class="daShang">
+                            
+                             <a class="jubaobtn" style="visibility: hidden" onclick="GaqPush('主贴-举报');jubao('http://bbs.tiexue.net/ReportPostV2.aspx?PostID=98204276&ThreadID=9601965');" href="###">举报</a>
+                            <a href='javascript:void(0);daShangLayer("6383601","98204276")'>打赏</a>
+                            <a href='javascript:UserDigPost("98204276","Wonderful98204276")'>顶一下</a><strong>(<span id="Wonderful98204276">4</span>)</strong>
+                              <span><a onclick="commentPop('3',decodeURIComponent('wang205800'),'dbluR2XrH98Pa01YM9p3LQ%3d%3d');GaqPush('回复引用楼层');" href="###">回复</a></span>
+                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="date">
+                2015/9/27 19:29:49</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+    <!--个人帖子 end-->
+    
+        <!--*个人帖子 start-->
+        <!--deletefloor:2-->
+        <a name="2"></a>
+        <div class="postStart">
+            <!--*左边用户信息 start-->
+            <div class="sideLeft float_L">
+                <ul class="userMsg">
+                    <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/9110568" target="_blank">奥巴马童鞋</a></strong><span></span></p><span class="boyHead"></span></div></li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/r-07-LJ-bing-1.gif" alt="军衔:陆军列兵" title="军衔:陆军列兵" /></li> <li class="xxMsg">军号：9110568</li>	<li class='xxMsg'>工分:506	</li>
+                </ul>
+                <div id="Baidu_BBSPostNormalV3ContentLeftADList3" class="Baidu_PostADLeftList">
+                    <div id="Baidu_BBSPostNormalV3ContentLeftADList3_container">
+                    </div>
+                </div>
+            </div>
+            <!--左边用户信息 end-->
+            <!--*右边帖子内容 start-->
+            <div class="contents">
+                <div class="contRow_1" id="adminAndUserPanel_2">
+                    <!--9601965,98203291,2,9110568,奥巴马童鞋,4swywViXJKn3XpH9uWLZTg%3d%3d,1,0,0,0,0-->
+                </div>
+                <div class="icon_left textHide">
+                    左箭头-小图标</div>
+                <div class="contRow_22">
+                <div class="bbsp2">
+                    
+                    <p>
+                        <!-- AdPanel --><!-- AdPanel_left --><p class='bbsp'><span style="font-size:22px"><font color="#ff0000">城管大队也配卫星了。。。难道城管也要走空天地一体的路线？这样下去，想挑战兔子的正规军之前，是不是先要过城管这一关？ </font></span></p>
+                    </p>
+                </div>
+                
+    <div id="bompostlogdiv2">
+        <script type="text/javascript">
+            //如果是管理员
+            $(function(){
+                var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                var logisheader = TX.BaseCookie.BBS_IsHeader();
+                var strhtml="";
+                if(loguserid>0)
+                {
+                    strhtml= '<!-- 没有日志 -->';
+                    if(9110568 == loguserid|logisheader)
+                    {
+                        strhtml='<!-- 没有日志 -->';
+                    }
+                }
+                $("#bompostlogdiv2").html(strhtml);
+            })
+        </script>
+    </div>
+                <div style="height: 40px">
+                    <div class="tabBottom">
+                        <div class="reward textHide" id="adminAddSalary_98203291_9601965_0">
+                        </div>
+                        <p class="daShang">
+                            
+                             <a class="jubaobtn" style="visibility: hidden" onclick="GaqPush('主贴-举报');jubao('http://bbs.tiexue.net/ReportPostV2.aspx?PostID=98203291&ThreadID=9601965');" href="###">举报</a>
+                            <a href='javascript:void(0);daShangLayer("9110568","98203291")'>打赏</a>
+                            <a href='javascript:UserDigPost("98203291","Wonderful98203291")'>顶一下</a><strong>(<span id="Wonderful98203291">6</span>)</strong>
+                              <span><a onclick="commentPop('2',decodeURIComponent('奥巴马童鞋'),'4swywViXJKn3XpH9uWLZTg%3d%3d');GaqPush('回复引用楼层');" href="###">回复</a></span>
+                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="date">
+                2015/9/27 17:32:00</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+    <!--个人帖子 end-->
+    
+</div>
+</div>
+
+            <div class="mRow_1">
+                <p class="ftBtn textHide float_L">
+                    <a onclick="addPost();_gaq.push(['_trackEvent', 'bbs', 'clicked', '发帖按钮'])" href="javascript:void(0);" target="_self">我要发帖</a>
+                </p>
+                <div class="page">
+                    <p>
+                        总页数<span>1</span>第<span>1</span>页&nbsp;[共有<span>5</span>条记录]&nbsp;分页：
+                    </p>
+                    <a href="http://bbs.tiexue.net/post_9601965_1.html" class="pageHover">1</a>
+                    
+                </div>
+            </div>
+            <div class="advert03" id="Baidu_BBSPostNormalV3KuTuAD1"></div>
+            <div class="tabs">
+                <div class="tabsTop" id="replyUserMsg">
+                    &nbsp;对<span>长征11号所携四颗卫星有啥本事？一颗可用于城管</span>回复
+                </div>
+                <script type="text/javascript">
+                    if (TX.BaseCookie.BBS_CurrentUserID() != 0) {
+                        $("#replyUserMsg").prepend("“" + TX.BaseCookie.TxBBS_CurrentUserName() + "”");
+                    }
+                </script>
+                <iframe id="ReplyFrame" name="ReplyFrame" frameborder="0" marginheight="0" marginwidth="0"
+                    scrolling="no" src="http://bbs.tiexue.net/reply/ReplyNew2.htm" width="970" height="630"></iframe>
+                <div class="lock-msg border hidden" id="noreplyspan">
+                    本帖已经被管理员锁定，不能回复
+                </div>
+            </div>
+            <!--*底部操作条 start-->
+            <div class="bot-operateBar border hidden" id="postbuttonadminpanel_98189749_9601965_0_0">
+            </div>
+            <!--底部操作条 end-->
+        </div>
+        <!--主要内容 end-->
+        <!--*脚注 start-->
+        
+<div class="footer" id="footer">
+    <script type="text/javascript">        CreateFooter("about");</script>
+    <span>|</span><a href="http://www.tiexue.net/map_index.htm" target="_blank">网站地图</a>
+    <script type="text/javascript">        CreateFooter("version");</script>
+    <script type="text/javascript">        CreateFooter("law");</script>
+    <script type="text/javascript">        CreateFooter("record");</script>
+</div>
+
+        <!--脚注 end-->
+
+    </div>
+    <script type="text/javascript">
+
+        try {
+            var effect = ('bg,head,sign-3').split(',');
+            for (var i = 0; i < effect.length; i++) {
+                getEffect(effect[i]);
+            }
+        }
+        catch (e) { }
+
+        function getEffect(ef) {
+            if (ef.indexOf("bg") > -1) {
+                $(".signeffect-id").addClass("sign-bg");
+            }
+            else if (ef.indexOf("head") > -1) {
+                $(".signeffect-head").addClass("sign-ico").attr("title", "签到精英");
+            }
+        }
+        $(document).ready(function () {
+            try {
+                Tx_InitTopPostDigBar("contentsbelowbar", ThreadID, Subject, '0');
+            }
+            catch (e)
+            { }
+            TxBBS_AdminAndUserPanel();
+            TxBBS_PostShowAdminButtonPanel();
+        });
+    </script>
+            
+    <!--铁血视频站v.tiexue.net-->
+        
+    <script type="text/javascript" src="http://s.itiexue.net/js/tiexue/statistic/bbs/bbsmonitor-u.js"></script>
+    <!--对联广告-->
+    <script type="text/javascript">
+        function adInfoShow() {
+            if (TX.BaseCookie.BBS_CurrentUserID() <= 0) {
+                var showJunphAd = false;
+                if (document.referrer != null) {
+                    var referrerInfo = document.referrer;
+                    if (referrerInfo.toLowerCase().indexOf("showpicclass_43_1.html") > 0) {
+                        showJunphAd = true;
+                    }
+                }
+                if(ForumID ==292|| ForumID ==293|| ForumID ==291|| ForumID ==294|| ForumID ==283 || ForumID == 219 ||ForumID == 79 ||ForumID == 260 || showJunphAd) {
+                    BAIDU_CLB_singleFillSlot("445637");
+                }
+                else {
+                    BAIDU_CLB_singleFillSlot("80066");
+                }
+            }
+        }      
+
+        if (islocked > 0) {
+            $("#ReplyFrame").height("0px");
+            $("#ReplyFrame").hide();
+            $("#noreplyspan").show();
+            $("#replyUserMsg").hide();
+        }
+    </script>
+    <script type="text/javascript">
+        if (TX.BaseCookie.BBS_CurrentUserID() <= 0) {
+            //            if (GetCookie()) {
+            //               // BAIDU_CLB_singleFillSlot("545690");
+            //            } else {
+            var showJunphAd = false;
+            if (document.referrer != null) {
+                var referrerInfo = document.referrer;
+                if (referrerInfo.toLowerCase().indexOf("showpicclass_43_1.html") > 0) {
+                    showJunphAd = true;
+                }
+            }
+            if (ForumID ==292|| ForumID ==293|| ForumID ==291|| ForumID ==294|| ForumID ==283 || ForumID == 219 || ForumID == 79 || ForumID == 260 || showJunphAd) {
+                BAIDU_CLB_singleFillSlot("535435");
+            }
+            else {
+                BAIDU_CLB_fillSlot("81336");
+            }
+            //            }
+        }        
+    </script>
+</body>
+</html>
+
+
+<!-- Created On 2015/10/12 18:25:00 -->
+<!-- CopyRight by TieXue -->

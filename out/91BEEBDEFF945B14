@@ -1,0 +1,296 @@
+<!--UINFO: http://bbs.tiexue.net/post_10603042_1.html	length=10999&last_modified=1449859200&time_saved=1450676801&charset=gb2312-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <title>404</title>
+    <style type="text/css">
+        .table, option {
+            font-family: "宋体";
+            font-size: 12px;
+            color: #545454;
+            line-height: 18px;
+            letter-spacing: normal;
+        }
+
+        td {
+            font-family: "宋体";
+            font-size: 12px;
+            color: #545454;
+            line-height: 18px;
+            letter-spacing: normal;
+            word-break: break-all;
+        }
+
+        a {
+            font-size: 12px;
+            line-height: 20px;
+            color: #545454;
+            text-decoration: none;
+        }
+
+            a:hover {
+                font-size: 12px;
+                line-height: 18px;
+                color: #545454;
+                text-decoration: underline;
+            }
+
+            a:active {
+                font-size: 12px;
+                line-height: 18px;
+                color: #545454;
+            }
+
+        .b14 {
+            font-size: 14px;
+            color: #000;
+            text-decoration: none;
+            font-family: "宋体";
+            font-weight: bold;
+            line-height: 24px;
+        }
+
+            .b14:hover {
+                font-size: 14px;
+                color: #000;
+                text-decoration: underline;
+                font-family: "宋体";
+                font-weight: bold;
+                line-height: 24px;
+            }
+
+        .red12 {
+            font-size: 12px;
+            color: #CC0000;
+            text-decoration: underline;
+            font-family: "宋体";
+            line-height: 24px;
+        }
+
+            .red12:hover {
+                font-size: 12px;
+                color: #CC0000;
+                text-decoration: none;
+                font-family: "宋体";
+                line-height: 24px;
+            }
+
+        .grey {
+            font-size: 13px;
+            color: #545454;
+            text-decoration: underline;
+            font-family: "宋体";
+            line-height: 24px;
+        }
+
+            .grey:hover {
+                font-size: 13px;
+                color: #545454;
+                text-decoration: none;
+                font-family: "宋体";
+                line-height: 24px;
+            }
+        /*微信二维码*/
+        .qrcode {
+            width: 113px;
+            position: fixed;
+            _position: absolute;
+            margin-left: 536px;
+            top: 40px;
+            text-align: center;
+        }
+
+            .qrcode dl {
+                width: 103px;
+                font-size: 12px;
+                padding: 5px;
+                line-height: 24px;
+            }
+
+            .qrcode * {
+                margin: 0;
+                padding: 0;
+            }
+
+            .qrcode dt {
+                text-align: left;
+            }
+
+            .qrcode .close {
+                position: absolute;
+                right: 5px;
+                top: 11px;
+                font-style: normal;
+                width: 12px;
+                height: 12px;
+                line-height: 12px;
+                color: #000;
+                cursor: pointer;
+            }
+
+            .qrcode dl:hover {
+                background: #e4e4e4;
+            }
+
+        .pp {
+            width: 103px;
+            padding: 5px;
+        }
+
+            .pp li {
+                display: inline;
+                float: left;
+                line-height: 18px;
+            }
+
+                .pp li img {
+                    display: block;
+                    width: 100%;
+                    max-width: 100%;
+                }
+
+                .pp li span {
+                    display: block;
+                    text-align: center;
+                    height: 22px;
+                    line-height: 22px;
+                    overflow: hidden;
+                    background: #fff;
+                }
+    </style>
+    <script type="text/javascript" src="http://s.itiexue.net/js/global/base-all-v2-u.js" charset="utf-8"></script>
+</head>
+<body bgcolor="FCFCCC" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+    <p>&nbsp;</p>
+    <table width="530" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+            <td height="126" background="http://r.itiexue.net/wwwindex/images/V1/404_1.gif" style="padding-left: 220px; padding-top: 25px;">
+                您可以浏览其他精彩内容，或者返回到
+                <a href="http://www.tiexue.net" class="red12">铁血网首页</a>
+                <br />
+                咨询网站管理员，可以解决这个问题。
+            </td>
+        </tr>
+    </table>
+    <table width="100" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+            <td height="10"></td>
+        </tr>
+    </table>
+    <table width="530" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+            <td height="318" background="http://r.itiexue.net/wwwindex/images/V1/404_2.gif">
+                <table width="510" border="0" align="center" cellpadding="0" cellspacing="0" style="margin:5px 0px 0px 0px;">
+                    <tr>
+                        <td valign="top" align="left">
+                            <iframe src="http://bbs.tiexue.net/404Iframe.htm" frameborder="0" style="width: 528px; height: 250px" scrolling="no"></iframe>
+                        </td>
+                    </tr>
+                </table>
+                <table width="100" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td height="10"></td>
+                    </tr>
+                </table>
+                <table width="510" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td height="31" align="center" background="http://r.itiexue.net/wwwindex/images/V1/404_5.gif">
+                            <a href="http://www.tiexue.net" class="grey">铁血首页</a>
+                            -
+                            <a href="http://mil.tiexue.net"
+                               class="grey">军事</a>
+                            -
+                            <a href="http://bbs.tiexue.net" class="grey">社区</a>
+                            -
+                            <a href="http://www.junshishu.com" class="grey">读书</a>
+                            -
+                            <a href="http://pic.tiexue.net"
+                               class="grey">图鉴</a>
+                            -
+                            <a href="http://group.tiexue.net" class="grey">公社</a>
+                            -
+                            <a href="http://junpin.tiexue.net" class="grey">军品</a>
+                            -
+                            <a href="http://junpin.tiexue.net"
+                               class="grey">游戏</a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <table width="100" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+            <td style="height: 10px"></td>
+        </tr>
+    </table>
+    <table width="530" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+            <td align="center">
+                <img src="http://r.itiexue.net/wwwindex/images/V1/404_3.gif" alt="" width="474" height="56" />
+            </td>
+        </tr>
+    </table>
+    <div style="width:530px; margin:0 auto;">
+        <div class="qrcode">
+            <dl>
+                <dt>
+                    铁血微信订阅号 <i class="close" onclick="$(\'.qrcode dl\').hide()">×</i>
+                </dt>
+                <dd>
+                    <img src="http://r.itiexue.net/tiexue/wwwindex/tx_qrcode.jpg" width="103" height="103" />
+                    天下军事一手掌握
+                </dd>
+            </dl>
+            <ul class="pp">
+                <li>                   
+                </li>
+                <li>                   
+                </li>
+            </ul>
+        </div>
+    </div>   
+    <script type="text/javascript" src="http://s.itiexue.net/statistic/bbs/bbsmonitor.js"></script>
+    <script type="text/javascript">
+        function ShowJunphProductList() {
+            var str = "";
+            $.ajax({
+                type: "get ",
+                url: "http://jph.itiexue.net/",
+                dataType: "jsonp",
+                success: function (data) {
+                    if (data != null) {
+                        if (data.Error == false) {
+                            if (data.Result.length > 0) {
+                                $.each(data.Result.slice(0,2), function (i, n) {
+                                    var jumpUrl = "http://www.junph.com/html/product" + n.Id + ".html";
+                                    if (n.JumpUrl != null && n.JumpUrl != "") {
+                                        jumpUrl = n.JumpUrl;
+                                    }
+                                    jumpUrl = jumpUrl+"?utm_source=TXZN&utm_medium=404"+(i+1)+"&utm_campaign=CP"+(i+1);
+                                    if (n.ImgUrls && n.ImgUrls.length > 0) {
+                                        var urls = n.ImgUrls;
+                                        var rand = Math.floor(Math.random() * urls.length);
+                                        var ProductImgId = urls[rand].ProductImgId;
+                                        var ImgUrl = urls[rand].ImgUrl;
+
+                                        str+="<li><a target=\"_blank\" title=\""+ n.Name +"\" href=\"" + jumpUrl +"\"><img alt=\""+ n.Name +"\" src=\"" + ImgUrl + "\" width=\"103\" height=\"103\"></a><span><a target=\"_blank\" title=\""+ n.Name +"\" href=\"" + jumpUrl +"\">"+ n.Name +"</a></span></li>";
+
+                                    } else {
+                                        str+="<li><a target=\"_blank\" title=\""+ n.Name +"\" href=\"" + jumpUrl +"\"><img alt=\""+ n.Name +"\" src=\"" + ImgUrl + "\" width=\"103\" height=\"103\"></a><span><a target=\"_blank\" title=\""+ n.Name +"\" href=\"" + jumpUrl +"\">"+ n.Name +"</a></span></li>";
+
+                                    }
+                                });
+                                $(".pp").html(str);
+                            }
+                        }
+                    }
+                }
+            });           
+        }
+        ShowJunphProductList();
+    </script>
+</body>
+</html>
+<!-- CopyRight by TieXue -->

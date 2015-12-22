@@ -1,0 +1,318 @@
+<!--UINFO: http://bbs.66wz.com/thread-9640418-1-1.html	length=18002&last_modified=0&time_saved=1450677190&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>提示信息 -  温网论坛-温州论坛 -  Powered by Discuz!</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",温网论坛-温州论坛" />
+<meta name="generator" content="Discuz! X3.1" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.66wz.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_11_common.css?hNS" /><link rel="stylesheet" type="text/css" href="data/cache/style_11_forum_viewthread.css?hNS" /><script type="text/javascript">var STYLEID = '11', STATICURL = 'static/', IMGDIR = 'template/zhikai_x399jee/images', VERHASH = 'hNS', charset = 'gbk', discuz_uid = '0', cookiepre = 'gWQh_2afa_', cookiedomain = '.66wz.com', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'login|newthread', creditnotice = '1|经验|,2|威望|,3|金钱|,4|魅力|,5|志愿服务|小时', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy42Nnd6LmNvbS90aHJlYWQtOTY0MDQxOC0xLTEuaHRtbA==', SITEURL = 'http://bbs.66wz.com/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?hNS" type="text/javascript"></script>
+<meta name="application-name" content="温网论坛-温州论坛" />
+<meta name="msapplication-tooltip" content="温网论坛-温州论坛" />
+<meta name="msapplication-task" content="name=首页;action-uri=http://portal.66wz.com;icon-uri=http://bbs.66wz.com/template/zhikai_x399jee/images/portal.ico" /><meta name="msapplication-task" content="name=论坛;action-uri=http://bbs.66wz.com/forum.php;icon-uri=http://bbs.66wz.com/template/zhikai_x399jee/images/bbs.ico" />
+<meta name="msapplication-task" content="name=圈子;action-uri=http://bbs.66wz.com/group.php;icon-uri=http://bbs.66wz.com/template/zhikai_x399jee/images/group.ico" /><meta name="msapplication-task" content="name=家园;action-uri=http://blog.66wz.com;icon-uri=http://bbs.66wz.com/template/zhikai_x399jee/images/home.ico" /><link rel="archives" title="温网论坛-温州论坛" href="http://bbs.66wz.com/archiver/" />
+<script src="data/cache/forum.js?hNS" type="text/javascript"></script>
+<style> 
+        .black_overlay{ 
+            display: none; 
+            position: absolute; 
+            top: 0%; 
+            left: 0%; 
+            width: 100%; 
+            height: 100%; 
+            background-color: black; 
+            z-index:1001; 
+            -moz-opacity: 0.8; 
+            opacity:.30; 
+            filter: alpha(opacity=30); 
+        } 
+        .white_content { 
+            display: none; 
+            position: absolute; 
+            top: 12%; 
+            left: 20%; 
+            width: 55%; 
+            height: 65%; 
+            padding: 20px; 
+            border: 5px solid #E30115; 
+            background-color: white; 
+            z-index:1002; 
+            overflow: auto; 
+        } 
+    </style> 
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://blog.66wz.com/');">设为首页</a><a href="http://blog.66wz.com/"  onclick="addFavorite(this.href, '温网论坛-温州论坛');return false;">收藏本站</a><script type="text/javascript">var _speedMark = new Date();</script></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onClick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onClick="widthauto(this)" title="切换到宽版" class="switchwidth">切换到宽版</a>
+                    <a href = "javascript:void(0)" onclick = "document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'" title="关注微信" ><img src="template/zhikai_x399jee/images/gzweixin.png" width="79px" height="25px" /></a>
+                    <div id="light" class="white_content"><center><a href = "javascript:void(0)" onclick = "document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">关闭窗口</a><br /><img src="template/zhikai_x399jee/images/weixinrwm.jpg" width="258px" height="258px" /><span style="font-size:16px;"><br /><strong>简单4步，开始与 温网论坛-温州论坛 对话吧！</strong><br /><br /><span style="font-family:Georgia;"><strong>1</strong></span>. 打开你的微信、朋友们选择添加朋友&nbsp;&nbsp;&nbsp;<span style="font-family:Georgia;"><strong>2</strong></span>. 使用扫一扫功能扫一下上面的二维码<br /><span style="font-family:Georgia;"><strong>3</strong></span>. 扫描后出现详细资料选择关注就好了&nbsp;&nbsp;&nbsp;<span style="font-family:Georgia;"><strong>4</strong></span>. 现在开始与我们的官方微信对话吧！</span></center></div> 
+                    <div id="fade" class="black_overlay"></div> 
+</div>
+</div>
+</div>
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="http://bbs.66wz.com/" title="温网论坛-温州论坛"><img src="template/zhikai_x399jee/images/logo.png" alt="温网论坛-温州论坛" border="0" /></a> </h2><script src="data/cache/logging.js?hNS" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td><label for="ls_username">帐号</label></td>
+<td><input type="text" name="username" id="ls_username" class="px vm xg1"  value="用户名/Email" onfocus="if(this.value == '用户名/Email'){this.value = '';this.className = 'px vm';}" onblur="if(this.value == ''){this.value = '用户名/Email';this.className = 'px vm xg1';}" tabindex="901" /></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />自动登录</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password">密码</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;"><em>登录</em></button></td>
+<td>&nbsp;<a href="member.php?mod=register" class="xi2 xw1">注册</a></td>
+</tr>
+</table>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</div>
+</div>
+</form>
+
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onMouseOver="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(0);})" ><font color="#E70316">快捷导航</font></a>
+<ul><li id="mn_portal" ><a href="http://portal.66wz.com" hidefocus="true" title="Portal"  >首页<span>Portal</span></a></li><li class="a" id="mn_forum" ><a href="http://bbs.66wz.com/forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li><li id="mn_Nb15a" ><a href="http://blog.66wz.com" hidefocus="true"  >博客</a></li><li id="mn_forum_10" ><a href="http://bbs.66wz.com/forum.php?mod=guide" hidefocus="true" title="Guide"  >导读<span>Guide</span></a></li><li id="mn_N852c" ><a href="http://weibo.com/66wz" hidefocus="true"  >微博</a></li><li id="mn_Nfeba" ><a href="http://bbs.66wz.com/forum-32-1.html" hidefocus="true"  >杂谈</a></li><li id="mn_N9953" ><a href="http://bbs.66wz.com/forum-132-1.html" hidefocus="true"  >问计于民</a></li><li id="mn_Nf3ab" ><a href="http://bbs.66wz.com/forum.php?gid=393" hidefocus="true"  >好摄一族</a></li><li id="mn_N96c8" ><a href="http://bbs.66wz.com/forum-218-1.html" hidefocus="true"  >绘本读物</a></li><li id="mn_Na43b" ><a href="http://bbs.66wz.com/forum-66-1.html" hidefocus="true"  >爱心屋</a></li><li id="mn_N54dc" ><a href="http://bbs.66wz.com/forum.php?gid=363" hidefocus="true"  >温州城建</a></li></ul>
+</div>
+
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+<ul class="cl " id="snav_mn_userapp" style="display:none">
+</ul>
+</div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="7c0062eb" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="0" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%D6%D0%D4%BA&amp;formhash=7c0062eb&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">中院</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CE%C2%CD%F8%D2%E9%CA%C2%CC%FC&amp;formhash=7c0062eb&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">温网议事厅</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CE%A2%B7%C3%CC%B8&amp;formhash=7c0062eb&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">微访谈</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp"><div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p>抱歉，指定的主题不存在或已被删除或正在被审核</p>
+<script type="text/javascript">
+if(history.length > (BROWSER.ie ? 0 : 1)) {
+document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ 点击这里返回上一页 ]</a></p>');
+} else {
+document.write('<p class="alert_btnleft"><a href="./">[ 温网论坛-温州论坛 首页 ]</a></p>');
+}
+</script>
+</div>
+</div>
+</div>
+</div>	</div>
+
+<link href="source/plugin/ukasky_livecontact/template/red/qq.css" rel="stylesheet" type="text/css" />
+<style>
+<!--
+.QQbox {
+TOP:200px;
+}
+-->
+</style>
+<div class="QQbox" id="divQQbox" >
+
+<div class="Qlist" id="divOnline" onmouseout="hideMsgBox(event);" style="display : none;">
+
+<div class="t"></div>
+
+<div class="con" onmouseover="OnlineOver();">
+
+<h2>客服中心</h2>
+
+<ul><li><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=5857429&amp;site=qq&amp;menu=yes"><img border="0" src="http://im.bizapp.qq.com:8000/zx_qq.gif" alt="点击这里" title="点击这里">咨询1</a></li>
+<li><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=639510591&amp;site=qq&amp;menu=yes"><img border="0" src="http://im.bizapp.qq.com:8000/zx_qq.gif" alt="点击这里" title="点击这里">咨询2</a></li>
+<li><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=663821520&amp;site=qq&amp;menu=yes"><img border="0" src="http://im.bizapp.qq.com:8000/zx_qq.gif" alt="点击这里" title="点击这里">咨询3</a></li>
+<li><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=2837257457&amp;site=qq&amp;menu=yes"><img border="0" src="http://im.bizapp.qq.com:8000/zx_qq.gif" alt="点击这里" title="点击这里">咨询4</a></li>
+
+<li></li>
+<li><center>咨询热线&nbsp &nbsp&nbsp</center></li>
+<li>(0577)88096549<br>(0577)56686548</li>
+<li></li>
+</ul>
+
+</div>
+
+<div class="b"></div>
+
+</div>
+
+<div id="divMenu" onmouseover="OnlineOver();"><img src="source/plugin/ukasky_livecontact/template/red/qq_1.png" class="press"></div>
+
+</div>
+<script language='javascript' type='text/javascript'>
+
+//<![CDATA[
+
+var tips;
+var theTop = 145;
+var old = theTop;
+
+function initFloatTips() {
+tips = document.getElementById('divQQbox');
+moveTips();
+};
+
+function moveTips() {
+var tt=50;
+if (window.innerHeight) {
+posQQ = window.pageYOffset
+}
+else if (document.documentElement && document.documentElement.scrollTop) {
+posQQ = document.documentElement.scrollTop;
+}
+else if (document.body) {
+posQQ = document.body.scrollTop;
+}
+posQQ=posQQ-tips.offsetTop+theTop;
+posQQ=tips.offsetTop+posQQ/10;
+
+if (posQQ < theTop) posQQ = theTop;
+if (posQQ != old) {
+tips.style.top = posQQ+"px";
+tt=10;
+//alert(tips.style.top);
+}
+
+old = posQQ;
+setTimeout(moveTips,tt);
+}
+//!]]>
+initFloatTips();
+
+function OnlineOver(){
+document.getElementById("divMenu").style.display = "none";
+document.getElementById("divOnline").style.display = "block";
+document.getElementById("divQQbox").style.width = "145px";
+}
+
+function OnlineOut(){
+document.getElementById("divMenu").style.display = "block";
+document.getElementById("divOnline").style.display = "none";
+}
+
+if(typeof(HTMLElement)!="undefined")
+{
+HTMLElement.prototype.contains=function(obj)
+{
+while(obj!=null&&typeof(obj.tagName)!="undefind"){
+if(obj==this) return true;
+obj=obj.parentNode;
+}
+return false;
+};
+}
+
+function hideMsgBox(theEvent){
+if (theEvent){
+var browser=navigator.userAgent;
+if (browser.indexOf("Firefox")>0){
+if (document.getElementById('divOnline').contains(theEvent.relatedTarget)) {
+return;
+}
+}
+
+if (browser.indexOf("MSIE")>0){
+if (document.getElementById('divOnline').contains(event.toElement)) {
+return;
+}
+}
+}
+
+document.getElementById("divMenu").style.display = "block";
+document.getElementById("divOnline").style.display = "none";
+}
+</script>
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="http://bbs.66wz.com/forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><a href="http://bbs.66wz.com/forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><a href="http://bbs.66wz.com/archiver/" >Archiver</a><span class="pipe">|</span><strong><a href="http://www.66wz.com/" target="_blank">温州网</a></strong>
+( <a href="http://www.miitbeian.gov.cn/" target="_blank">浙ICP备B2-20060215 国新办发函2006.78号</a> )&nbsp;<a href="http://discuz.qq.com/service/security" target="_blank" title="防水墙保卫网站远离侵害"><img src="static/image/common/security.png"></a>&nbsp;&nbsp;<span id="tcss"></span><script type="text/javascript" src="http://tcss.qq.com/ping.js?v=1hNS" charset="utf-8"></script><script type="text/javascript" reload="1">pgvMain({"discuzParams":{"r2":"5393675","ui":0,"rt":"forum","md":"viewthread","pn":1,"qq":"000","logo":9},"extraParams":""});</script><!-bbs.66wz.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fde6bf0fc6907eb6849404900b746a28a' type='text/javascript'%3E%3C/script%3E"));
+</script></p>
+<p class="xs0">
+GMT+8, 2015-12-21 13:53<span id="debuginfo">
+, Processed in 0.040475 second(s), 1 queries
+, Memcache On.
+</span>
+</p>
+</div>
+<!--请勿删除以下版权信息，删除则表示自动放弃NVBING5模版售后服务-->
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.1</em> technical support：<strong><a href="http://www.nvbing5.net" target="_blank">NVbing5</a></strong> <a href="http://license.comsenz.com/?pid=1&amp;host=bbs.66wz.com" target="_blank">Licensed</a></p>
+<p class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a> Acknowledgement:changhelang.com edition:hsmhx3 1.5</p>
+</div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1450677184" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '5393675|X3.1|0.6||0||0|7|1450677184|ba66695d25f646986dc0d0573328bcd1|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>

@@ -1,0 +1,1187 @@
+<!--UINFO: http://bbs.co188.com/thread-9171949-1-1.html	length=86158&last_modified=0&time_saved=1450677193&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+        <title>地铁项目初尝BIM技术“甜头”及其以后的发展方向-土木在线论坛</title>
+                        <meta name="robots"content="index,follow"/> 
+            <meta name="googlebot"content="index,follow"/>
+                        <link rel="alternate" media="only screen and(max-width: 640px)" href="http://m.co188.com/bbs/thread-9171949-1-1.html" />
+        <meta name="keywords" content="悉尼歌剧院,澳大利亚,上海中心,建筑信息化,项目经理" />
+    <meta name="description" content=" 地铁项目初尝BIM技术“甜头”及其以后的发展方向 " />
+    <meta name="generator" content="Discuz! X2.5" />
+    <meta name="author" content="Discuz! Team and Comsenz UI Team" />
+    <meta name="copyright" content="2001-2012 Comsenz Inc." />
+    <meta name="MSSmartTagsPreventParsing" content="True" />
+    <meta http-equiv="MSThemeCompatible" content="Yes" />
+    <base href="http://bbs.co188.com/" />
+
+    <link href="http://image.co188.com/global/head.css?1449454344.54" rel="stylesheet" type="text/css"/>
+<link href="http://image.co188.com/global/foot.css?1444712215.55" rel="stylesheet" type="text/css"/>
+<link href="http://image.co188.com/pop/login_box.css?1444712216.08" rel="stylesheet" type="text/css"/>    <link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?a3r" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_viewthread.css?a3r" />    
+    <script type="text/javascript">var STYLEID = '1', STATICURL = 'http://image.co188.com/x2/static/', IMGDIR = 'http://image.co188.com/x2/static/image/common', VERHASH = 'a3r', charset = 'gbk', discuz_uid = '0', cookiepre = 'mmgt_2132_', cookiedomain = '', cookiepath = '/', showusercard = '0', attackevasive = '0', disallowfloat = 'login|sendpm|newthread|viewratings|viewwarning|viewthreadmod|viewvote|tradeorder|activity|debate|nav|usergroups|task', creditnotice = '1|威望（旧）|,2|土木币|,3|威望|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5jbzE4OC5jb20vdGhyZWFkLTkxNzE5NDktMS0xLmh0bWw=', SITEURL = 'http://bbs.co188.com/', JSPATH = 'http://cache.co188.com/x2/static/js/';</script>
+    <script src="http://cache.co188.com/x2/static/js/common.js?a3r" type="text/javascript"></script>
+            <meta name="application-name" content="土木在线论坛" />
+    <meta name="msapplication-tooltip" content="土木在线论坛" />
+    <meta name="msapplication-task" content="name=门户;action-uri=http://bbs.co188.com/portal.php;icon-uri=http://image.co188.com/x2/static/image/common/portal.ico" />    <meta name="msapplication-task" content="name=论坛;action-uri=http://bbs.co188.com/forum.php;icon-uri=http://image.co188.com/x2/static/image/common/bbs.ico" />
+        <meta name="msapplication-task" content="name=家园;action-uri=http://bbs.co188.com/home.php;icon-uri=http://image.co188.com/x2/static/image/common/home.ico" />                        <script src="http://cache.co188.com/x2/static/js/forum.js?a3r" type="text/javascript"></script>
+                
+    <link href="http://image.co188.com/bbs/201301/common/common.css?a3r" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="http://image.co188.com/bbs/201301/index/forum_fq_wdbk.css?a3r" type="text/css" />
+    <link type="text/css" href="http://image.co188.com/bbs/201301/index/forum_fq_index.css?a3r" rel="stylesheet" />
+        
+<script src="http://cbjs.baidu.com/js/m.js" type="text/javascript"></script>        
+<script> 
+  var _hmt = _hmt || []; 
+  (function() { 
+    var hm = document.createElement("script"); 
+    hm.src = "//hm.baidu.com/hm.js?54334e99f56b0790438e2130bcdbfcaa";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(hm, s); 
+  })(); 
+</script> 
+</head>
+
+<body id="nv_forum" class="v_1211 pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+        <div id="append_parent"></div><div id="ajaxwaitid"></div>
+    <div id="top_1211">
+    <div id="top_main_1211" class="clearfix">
+        <ul id="main_nav_1211">
+            <li><a href="http://www.co188.com/" title="土木工程网首选CO土木在线">土木在线<em></em></a>
+<ul id="co188_top_index" class="clearfix">
+<li><a href="http://jz.co188.com/">建筑</a></li>
+<li><a href="http://jg.co188.com/">结构</a></li>
+<li><a href="http://dq.co188.com/">电气</a></li>
+<li><a href="http://gps.co188.com/">给排水</a></li>
+<li><a href="http://nt.co188.com/">暖通</a></li>
+<li><a href="http://zl.co188.com/">制冷</a></li>
+<li><a href="http://hb.co188.com/">环保</a></li>
+<li><a href="http://yl.co188.com/">园林</a></li>
+<li style="border-bottom:none"><a href="http://sl.co188.com/" >水利</a></li>
+                    <li style="border-bottom:none"><a href="http://shigong.co188.com/" >施工</a></li>
+</ul>
+            </li>
+            <li><a href="http://bbs.co188.com/" title="土木工程论坛首选土木在线">论坛<em></em></a>
+            	<ul id="co188_top_luntan">
+            		<li><a href="http://bbs.co188.com/forum.php?gid=44">建筑设计</a></li>
+                    <li><a href="http://bbs.co188.com/forum.php?gid=2343">装饰装修</a></li>
+                    <li><a href="http://bbs.co188.com/forum.php?gid=32">建筑结构</a></li>
+                    <li><a href="http://bbs.co188.com/forum.php?gid=2344">施工技术</a></li>
+                    <li><a href="http://bbs.co188.com/forum.php?gid=12">暖通空调</a></li>
+                    <li><a href="http://bbs.co188.com/forum.php?gid=22">电力电气</a></li>
+                    <li><a href="http://bbs.co188.com/forum.php?gid=3">给排水工程</a></li>
+                    <li><a href="http://bbs.co188.com/forum.php?gid=77">环保工程</a></li>
+                    <li><a href="http://bbs.co188.com/forum.php?gid=54">园林绿化</a></li>
+                    <li><a href="http://bbs.co188.com/forum.php?gid=67">水利水电</a></li>
+                    <li><a href="http://bbs.co188.com/forum.php?gid=2176">路桥建设</a></li>
+                    <li><a href="http://bbs.co188.com/forum.php?gid=2346">注册考试</a></li>
+                    <li style="border-bottom:none"><a href="http://bbs.co188.com/forum.php?gid=2347">工程造价</a></li>
+                    <li style="border-bottom:none"><a rel="nofollow" href="http://bbs.co188.com/forum.php?gid=2286">人才招聘</a></li>
+                    <li style="border-bottom:none"><a rel="nofollow" href="http://bbs.co188.com/forum.php?gid=2331">商易宝社区</a></li>
+                    <li style="border-bottom:none"><a rel="nofollow" href="http://bbs.co188.com/forum.php?gid=2040">站务休闲</a></li>
+               </ul>
+            </li>
+            <li><a href="http://biz.co188.com/" >商易宝<em></em></a>
+                <ul id="co188_top_syb">
+                    <li><a href="http://biz.co188.com/product">产品大全</a></li>
+                    <li><a href="http://biz.co188.com/book">电子样本</a></li>
+                    <li><a href="http://help.co188.com/co188/tg/service.html" rel="nofollow">推广服务</a></li>
+                    <li><a href="http://help.co188.com/co188/ad/service.html" rel="nofollow">品牌广告</a></li>
+                    <li style="border-bottom:none"><a href="http://help.co188.com/co188/syb/introduce.html" rel="nofollow">商易宝会员</a></li>
+               </ul>
+            </li>
+            <li><a href="http://ziliao.co188.com/">工程资料库<em></em></a>
+                <ul id="co188_top_ziliao">
+                    <li><a href="http://ziliao.co188.com/drawing/">图纸</a></li>
+                    <li><a href="http://ziliao.co188.com/paper/">文档</a></li>
+<li><a href="http://ziliao.co188.com/software9900/">软件</a></li>
+                    <li><a href="http://ziliao.co188.com/data/manager/index" rel="nofollow">资料管理</a></li>
+                    <li><a href="http://ziliao.co188.com/data/manager/drawing/publish/1/0" rel="nofollow">图纸上传</a></li>
+                    <li style="border-bottom:none"><a href="http://ziliao.co188.com/data/manager/paper/publish/1/0" rel="nofollow">文档上传</a></li>
+               </ul>
+            </li>
+            <li class=""><a href="http://ziliao.co188.com/zbdrawing/">质保资料<em></em></a>
+                <ul id="co188_top_zibao">
+                    <li class=""><a href="http://ziliao.co188.com/zbdrawing/">资料下载</a></li>
+                    <li class=""><a href="http://ziliao.co188.com/data/auth/personal">个人认证</a></li>
+                    <li class=""><a href="http://ziliao.co188.com/data/auth/org">企业认证</a></li>
+                    <li><a href="http://ziliao.co188.com/data/authmanager/" rel="nofollow">管理中心</a></li>
+                    <li style="border-bottom:none"><a href="http://ziliao.co188.com/data/auth/help/personal/p1.html" rel="nofollow">帮助中心</a></li>
+               </ul>
+            </li>
+            <li><a href="http://job.co188.com/" >招聘</a></li>
+            <li><a href="http://www.co188.com/edu/" >培训</a></li>
+        </ul>
+        <ul id="sec_nav_1211">
+            <li class="top_droplist"><a href="http://vip.co188.com/vip/index" rel="nofollow">我的vip<em></em></a>
+                <div id="co188_top_office" class="top_list">
+                    <ul>
+                        <li><a href="http://vip.co188.com/vip/privilege/index" rel="nofollow">会员特权</a></li>
+                        <li><a href="http://vip.co188.com/vip/grow/index" rel="nofollow">成长体系</a></li>
+                        <li><a href="http://vip.co188.com/vip/person/centre" rel="nofollow">会员个人中心</a></li>
+                        <li style="border-bottom:none"><a href="http://passport.co188.com/charge/vip" rel="nofollow">开通会员</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li id="co188_top_office_li"><a href="javascript:void(0);" onclick="headChargeallClick();" target="_self" rel="nofollow">充值<em></em></a>
+                <div id="co188_top_office">
+                    <ul>
+                        <li><a href="javascript:void(0);" onclick="headChargeClick();" target="_self" rel="nofollow">工程点充值</a></li>
+                        <li><a href="javascript:void(0);" onclick="headTumuClick();" target="_self" rel="nofollow">兑换土木币</a></li>
+                        <li><a href="http://passport.co188.com/charge/vip" >开通会员</a></li>
+                        <li style="border-bottom:none"><a href="javascript:void(0);" onclick="headAccountClick();" target="_self" rel="nofollow">账户中心</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li><a href="http://help.co188.com/"  rel="nofollow">帮助</a></li>
+        </ul>
+    </div>
+</div>    	<!--ad-->
+<div id="co188_ad_10001">
+<!-- 请置于所有广告位代码之前 -->
+<script type="text/javascript">
+BAIDU_CLB_preloadSlots("978942","978912","978910","863571","863475","863459","611728","602942","571521","571520","571519","571518","571516","571515"); 
+</script>
+<script type="text/javascript">BAIDU_CLB_fillSlot("571515");</script>
+</div>
+            <div id="head_1211"></div>
+<div id="bbs_head">
+    <div id="search_bar" class="clearfix">
+        <div  class="logo">
+            <a href="/"><img src="http://image.co188.com/bbs/201301/common/logo.png" width="160" height="31" style="vertical-align:middle;" /></a>
+                    <a href='/forum.php?gid=2176'>路桥工程</a>&nbsp;&raquo;&nbsp;<a href='/forum-2191-1.html'>铁路工程</a>&nbsp;&raquo;&nbsp;<a href='/thread-9171949-1-1.html' title='地铁项目初尝BIM技术“甜头”及其以后的发展方向'>地铁项目初尝BIM技术“甜头”及其以后的发展 ...</a> 
+                </div>
+        <div id="search_c_1211" style="margin-top:0;float:right;width:320px">
+            <div class="search-tag2">
+                <ul class="tag-con2" id="tag_title2">
+                    <li id="tag_selected2">
+                        <span rel="4" id="selected_name2">论坛</span>
+                        <ul id="tag_items2" style="display: none;">
+                            <li rel="4" class="selected">论坛</li>
+                            <li rel="1">图纸</li>
+                            <li rel="0">样本</li>
+                            <li rel="2">论文</li>
+                            <li rel="3">软件</li>
+                            <li rel="5">产品</li>
+                            <li rel="6">企业</li>
+                            <li rel="8">资讯</li>
+                            <li rel="7">求购</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <form method="post" onsubmit="return search_submit();" action="" id="form_search_1211">
+                <input type="text" value="" class="init" id="search_keyword_1211" style="width:205px;">
+                <input type="submit" id="search_btn_1211">
+            </form>
+            <div class="search-tag1">
+                <ul id="tag_title1" class="tag-con1">
+                    <li id="tag_selected1"> <span id="selected_name1">帖子</span><em></em>
+                        <ul id="tag_items1">
+                            <li class="edition">本版</li>
+                            <li>帖子</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+            <!--nav main-->
+             
+        <!-- 我的版块 -->
+        <div class="forum_fq_wdbk">
+            <div class="fq_wdbk_left">我关注的版块:</div>
+            <div class="fq_wdbk_center" id="wdbk_ygz">
+                <ul>
+                    <li class="fq_wdbk_add" id="wdbk_add" style="border:none"><span>添加</span></li>
+                </ul>
+            </div>
+            
+        </div>
+        <!--我的版块结束-->
+        
+    <div id="wp" class="wp">
+<script type="text/javascript">var fid = parseInt('2191'), tid = parseInt('9171949');</script>
+
+<script src="http://cache.co188.com/x2/static/js/forum_viewthread.js?a3r" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(1);var imagemaxwidth = '750';var aimgcount = new Array();</script>
+
+<style id="diy_style" type="text/css"></style>
+<!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]--><style id="diy_style" type="text/css"></style>
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+
+<div style="display:none;" id="floatTitle">    
+  <div id="floatTitleBody" class="clearfix">        
+    <div class="co188_fl ts" style="line-height:33px;">地铁项目初尝BIM技术“甜头”及其以后的发展方向</div>        
+    <div class="co188_fr">            
+      <a id="post_reply" onclick="showWindow('reply', 'forum.php?mod=post&action=reply&fid=2191&tid=9171949')" href="javascript:;" title="回复"><img src="http://image.co188.com/x2/static/image/common/pn_reply.png" alt="回复" /></a>        
+    </div>    
+  </div>
+</div>
+
+<div id="ct" class="wp cl">
+<div id="pgt" class="pgs mbm cl ">
+<div class="pgt"></div>
+<span class="y pgb"><a href="forum-2191-1.html">返回列表</a></span>
+<a id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=2191')" href="javascript:;" title="发新帖"><img src="http://image.co188.com/x2/static/image/common/pn_post.png" alt="发新帖" /></a></div>
+
+
+
+<div id="postlist" class="pl bm">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls ptm pbm">
+<div class="hm">
+<span class="xg1">查看:</span> <span class="xi1">321</span><span class="pipe">|</span><span class="xg1">回复:</span> <span class="xi1">2</span>
+</div>
+</td>
+<td class="plc ptm pbn vwthd">
+<div class="y">
+<a rel="nofollow" href="forum.php?mod=viewthread&amp;action=printable&amp;tid=9171949" title="打印" target="_blank"><img src="http://image.co188.com/x2/static/image/common/print.png" alt="打印" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextoldset&amp;tid=9171949" title="上一主题" rel="nofollow"><img src="http://image.co188.com/x2/static/image/common/thread-prev.png" alt="上一主题" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextnewset&amp;tid=9171949" title="下一主题" rel="nofollow"><img src="http://image.co188.com/x2/static/image/common/thread-next.png" alt="下一主题" class="vm" /></a>
+</div>
+<a rel="nofollow" href="forum.php?mod=forumdisplay&amp;fid=2191&amp;filter=typeid&amp;typeid=786">[铁路工程资料]</a>
+                                <h1 class="ts"> 
+                                        <a href="thread-9171949-1-1.html" id="thread_subject">地铁项目初尝BIM技术“甜头”及其以后的发展方向</a>
+</h1>
+<span class="xg1">
+<a href="thread-9171949-1-1.html" onclick="return copyThreadUrl(this)" >[复制链接]</a>
+<a href="thread-9171949-1-1.html" onclick="return copyThreadContentToUBB(this,'38340305')">[论坛转帖]</a>
+<a href="thread-9171949-1-1.html" onclick="return copyThreadContent(this,'38340305')">[博客转帖]</a>
+</span>
+</td>
+</tr>
+</table>
+
+
+<table cellspacing="0" cellpadding="0" class="ad"><tr><td class="pls"></td><td class="plc"></td></tr></table><div id="post_38340305"><table id="pid38340305" summary="pid38340305" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+ <div class="pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=16919388" target="_blank" class="xw1" rel="nofollow">xycd47124</a>
+
+</div>
+</div>
+<div class="p_pop blk bui" id="userinfo38340305" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo38340305_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a rel="nofollow" href="home.php?mod=space&amp;uid=16919388" target="_blank" class="xi2">xycd47124</a></strong>
+<em>当前离线</em>
+</div>
+<dl class="cl"></dl>
+<div class="imicn">
+                                                <!---->
+<a rel="nofollow" href="home.php?mod=space&amp;uid=16919388&amp;do=profile" target="_blank" title="查看详细资料"><img src="http://image.co188.com/x2/static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo38340305')"><a href="home.php?mod=space&amp;uid=16919388" target="_blank"><img src="http://bbs.co188.com/uc_server/images/noavatar_middle.gif" onerror="this.onerror=null;this.src='http://bbs.co188.com/uc_server/images/noavatar_middle.gif'" /></a></div>
+<div class="tns xg2">
+<table cellspacing="0" cellpadding="0">
+<th><p><a href="home.php?mod=space&amp;uid=16919388&amp;do=thread&amp;view=me&amp;from=space" class="xi2" rel="nofollow">638</a></p>主题</th>
+<th>
+<p><a href="home.php?mod=follow&amp;do=follower&amp;uid=16919388" class="xi2" rel="nofollow">5</a></p>听众
+</th>
+<td><p><a href="home.php?mod=space&amp;uid=16919388&amp;do=profile" class="xi2" rel="nofollow">644</a></p>积分</td>
+</table>
+</div>
+<p><em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=16" target="_blank" rel="nofollow"><font color="black">一星工程师</font></a></em></p>
+</div>
+<p id="g_up38340305" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"><img src="http://image.co188.com/x2/static/image/common/star_level2.gif" alt="Rank: 6" /></p>
+<div id="g_up38340305_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c"><font color="black">一星工程师</font>, 积分 644, 距离下一级还需 6 积分</div>
+</div>
+<dl class="pil cl"><dt>土木币</dt><dd>1294 </dd></dl><ul class="xl xl2 o cl">
+<li class="addflw">
+<a rel="nofollow" href="home.php?mod=spacecp&amp;ac=follow&amp;op=add&amp;hash=0d9184c7&amp;fuid=16919388" id="followmod_16919388" title="收听TA" class="xi2" onclick="showWindow('followmod', this.href, 'get', 0);">收听TA</a>
+</li>
+<li class="pm2"><a rel="nofollow" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_16919388&amp;touid=16919388&amp;pmid=0&amp;daterange=2&amp;pid=38340305&amp;tid=9171949" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2">发消息</a></li>
+</ul>
+</td>
+<td class="plc">
+<div class="pi">
+<div id="fj" class="y">
+<label class="z">电梯直达</label>
+<input type="text" class="px p_fre z" size="2" onkeyup="$('fj_btn').href='forum.php?mod=redirect&ptid=9171949&authorid=0&postno='+this.value" onkeydown="if(event.keyCode==13) {window.location=$('fj_btn').href;return false;}" title="跳转到指定楼层" />
+<a href="javascript:;" id="fj_btn" class="z" title="跳转到指定楼层"><img src="http://image.co188.com/x2/static/image/common/fj_btn.png" alt="跳转到指定楼层" class="vm" /></a>
+</div>
+<strong>
+<a href="thread-9171949-1-1.html"  id="postnum38340305" onclick="setCopy(this.href, '帖子地址复制成功');return false;">主贴</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon38340305" src="http://image.co188.com/x2/static/image/common/online_member.gif" />
+<em id="authorposton38340305">发表于 2015-9-16 08:28:00</em>
+<span class="pipe">|</span><a href="forum.php?mod=viewthread&amp;tid=9171949&amp;page=1&amp;authorid=16919388" rel="nofollow">只看该作者</a>
+<span class="pipe">|</span><a href="forum.php?mod=viewthread&amp;tid=9171949&amp;extra=page%3D1&amp;ordertype=1" rel="nofollow">倒序浏览</a>
+</div>
+</div>
+</div><div class="pct"><div class="a_pt"><!-- 广告位：道桥交通论坛内容上部 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("571519");</script></div><style type="text/css">.pcb{margin-right:0}</style><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_38340305">
+                                <a href="http://www.co188.com/jh/t81740.html" target="_blank" class="relatedlink">关键词</a>：BIM <br />
+<br />
+ 　　<br />
+<br />
+ 　　不管是城市<a href="http://bbs.co188.com/forum-2192-1.html" target="_blank" class="relatedlink">轨道交通</a>运输系统，还是上海中心、澳大利亚悉尼歌剧院等精致<a href="http://jz.co188.com/" target="_blank" class="relatedlink">建筑</a>，都涉及到政府、业主、设计、<a href="http://www.co188.com/jh/t70470.html" target="_blank" class="relatedlink">施工</a>、运营等多个部门和环节，每个部门又包含如<a href="http://jg.co188.com/" target="_blank" class="relatedlink">结构</a>、<a href="http://nt.co188.com/" target="_blank" class="relatedlink">暖通</a>、<a href="http://gps.co188.com/" target="_blank" class="relatedlink">给排水</a>等多个专业。随着<a href="http://www.co188.com/jh/t76304.html" target="_blank" class="relatedlink">工程</a>规模越来越大，分工也愈加精细，各部门、各专业之间的信息共享、协同工作越发重要。而一项新技术的应用，编织出一个完整的数字模型，让一切先在电脑屏幕上立体呈现、精确计算、灵活设计，省时、省力、省心，这就是BIM技术。BIM技术的应用，使得工程“全生命周期”内的数据信息能实现共享和监控。<br />
+<br />
+ 　　在近几年的时间里，BIM在中国不但得到了广泛地认识，更以星星之火可以燎原之势，深入到工程建设行业的方方面面。无论是大规模设计复杂的概念性<a href="http://www.co188.com/jh/t81620.html" target="_blank" class="relatedlink">项目</a>，还是普遍存在的中小型实用项目……BIM在中国经历了多年的市场孕育，已经开始起跑加速。如今，要不要用BIM已经不是问题，如何用好BIM才是问题的关键。<br />
+<br />
+ 　　据上海市地下<a href="http://www.co188.com/jh/t78398.html" target="_blank" class="relatedlink">空间设计</a>研究总院有限公司建筑信息化研究中心项目经理宇民介绍说：“目前BIM技术在轨道交通领域中的应用主要集中在采用相关软件对车站的<a href="http://www.co188.com/jh/t80039.html" target="_blank" class="relatedlink">土建</a>建设进行优化，<a href="http://www.co188.com/jh/t81797.html" target="_blank" class="relatedlink">管线综合</a>设计进行管线碰撞检查及<a href="http://bbs.co188.com/forum.php?gid=2343" target="_blank" class="relatedlink">装修</a>效果的模拟等方面，目前在设计、施工方面的应用已经取得了一定的成果和价值，若能在今后将这些信息传递到运维阶段，将更会发挥其核心价值。”<br />
+<br />
+ 　　BIM的发展不仅仅是现有技术的进步和更新换代，也将表现在生产组织模式和管理方式的转型，并长远地影响人们对项目的思维模式，对轨道交通行业有着深远的影响。而BIM将如何在广阔的市场环境中不断发展？未来又将何去何从？……这些都是值得我们关注的问题。<br />
+<br />
+ 　　五大特点勾勒地铁“朋友圈”<br />
+<br />
+ 　　所谓BIM，即建筑信息模型（BuildingInformationModeling）的英文缩写，实质是通过创建三维建筑模型，利用和共享模型中的信息，实现<a href="http://www.co188.com/jh/t76753.html" target="_blank" class="relatedlink">建设项目</a>进行设计、建造和运营管理过程的无缝对接以及项目相关方的信息畅通，实现项目周期全过程手段和方法上的信息化。<br />
+<br />
+ 　　“BIM所搭建的协同工作平台就像时下流行的微信朋友圈，某一方面更新数据，其他方面也能看到，并对各自<a href="http://ziliao.co188.com/drawing/" target="_blank" class="relatedlink">图纸</a>做出相应调整，避免实际施工时多专业图纸间的碰撞。”上海交通大学BIM研究中心执行主任邓雪原用生动的比喻为我们解释了BIM技术在项目中的实际应用。<br />
+<br />
+ 　　通过一系列的信息赋予、添加、修改，BIM最终成为一个贯穿规划、设计、施工、运维等地铁全生命周期的数字化、可视化、一体化系统信息管理平台，真正实现地铁的信息透明化。<br />
+<br />
+ 　　BIM的可视化、协调性、模拟性、优化性、可出图性五大特点，以数字方式的“思维”把管理思想、运作流程抽象提升后优化、标准化，固化到软件系统中，以获取更多的信息。利用信息做增值服务，创造新的商业机会，在重构后的产业链中占有一席之地。<br />
+<br />
+ 　　1.可视化。BIM提供了可视化的思路，让人们将以往的线条式的<a href="http://www.co188.com/jh/t81649.html" target="_blank" class="relatedlink">构件</a>形成一种三维的立体实物图形展示在人们的面前，增强了同构件之间的互动性和反馈性。在BIM应用过程中，可视化的结果不仅可以用来<a href="http://www.co188.com/jh/t77374.html" target="_blank" class="relatedlink">效果图</a>的展示及报表的生成，更重要的是，项目设计、建造、运营过程中的沟通、讨论、决策都在可视化的状态下进行。<br />
+<br />
+ 　　2.协调性。BIM允许不同专业、不同设计者在同一个模型中添加、修改、存储不同的信息，保持模型的实时更新和统一性。另一方面，BIM技术可通过碰撞检查、4D动态模拟等实现地铁不同阶段的模拟协调，预知施工阶段存在的场地冲突、管线碰撞等问题，在设计阶段就提前解决，减少因信息不共享造成的不同阶段常见的错漏碰缺问题。<br />
+<br />
+ 　　3.模拟性。BIM可以进行节能模拟、紧急疏散模拟、日照模拟、热能传导模拟等可持续设计，从而确保工程建设的安全；可以进行4D模拟，从而来确定合理的<a href="http://www.co188.com/jh/t28075.html" target="_blank" class="relatedlink">施工方案</a>，进行数字化、精细化的工程建设；可以进行5D模拟（基于3D模型的<a href="http://www.co188.com/jh/t79773.html" target="_blank" class="relatedlink">造价</a>控制），从而实现成本控制；可以模拟处理日常紧急情况的方式，例如地震人员逃生模拟及消防人员疏散模拟等。<br />
+<br />
+ 　　4.优化性。BIM技术可以进行项目方案优化，把项目设计和投资回报分析结合起来，能够实时计算出设计变化对投资回报的影响，通过不同方案的对比，为决策者提供最优方案；可以对施工难度比较大和施工问题比较多的地方进行优化，带来显着的工期和造价改进。<br />
+<br />
+ 　　5.可出图性。BIM技术通过对虚拟的模型进行三维可视化展示、协调、模拟、优化以后，可以帮助设计方和业主生成综合管线图、综合结构留洞图、<a href="http://www.co188.com/jh/t87941.html" target="_blank" class="relatedlink">施工图</a>、碰撞检查侦错报告和建议改进方案等。<br />
+<br />
+ 　　多城市地铁初尝BIM技术“甜头”<br />
+<br />
+ 　　
+<ignore_js_op>
+
+<img id="aimg_5329742" aid="5329742" src="http://image.co188.com/x2/static/image/common/none.gif" zoomfile="http://bbsfile.co188.com/forum/201509/16/101544d9v4nv6ugipzgzci.jpg" file="http://bbsfile.co188.com/forum/201509/16/101544d9v4nv6ugipzgzci.jpg" class="zoom" onclick="zoom(this, this.src, 0, 0, 0)" width="450" id="aimg_5329742" inpost="1" alt="多城市地铁初尝BIM技术&ldquo;甜头&rdquo;" title="多城市地铁初尝BIM技术&ldquo;甜头&rdquo;" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" />
+
+<div class="tip tip_4 aimg_tip" id="aimg_5329742_menu" style="position: absolute; display: none" disautofocus="true">
+<div class="tip_c xs0">
+<div class="y">2015-9-16 08:28 上传</div>
+<a href="forum.php?mod=attachment&amp;aid=NTMyOTc0Mnw1ZjhhNjdiOXwxNDUwNjc3MTkzfDB8OTE3MTk0OQ%3D%3D&amp;nothumb=yes" title="20150911090956270.jpg 下载次数:15" target="_blank"><strong>下载附件</strong> <span class="xs0">(19.89 KB)</span></a>
+<br />多城市地铁初尝BIM技术&ldquo;甜头&rdquo;
+</div>
+<div class="tip_horn"></div>
+</div>
+
+</ignore_js_op>
+<br />
+<br />
+ 　　目前，轨道交通行业设计、建设、运营的分离现状及采用传统二维设计带来的信息量限制及建设过程信息的缺失，给轨道交通项目建成后的运营维护管理带来了巨大的挑战。而BIM技术的应用可以有效地解决这个问题。随着轨道交通的高速发展，BIM技术也以各种形式运用到越来越多的城市地铁中。<br />
+<br />
+ 　　1.厦门——业主主导，<a href="http://www.co188.com/jh/t81237.html" target="_blank" class="relatedlink">工程师</a>实施的BIM<br />
+<br />
+ 　　厦门轨道交通1号线一期工程是连接厦门本岛和北部集美区的一条南北向骨干线路，线路长度为32.9公里，共设置车站27座，综合维修基地1座，停车场1座，主<a href="http://www.co188.com/jh/t84637.html" target="_blank" class="relatedlink">变电</a>所2座，控制中心1座。<br />
+<br />
+ 　　国内第一个采用业主主导、BIM咨询单位统筹管理和设计、施工、<a href="http://bbs.co188.com/forum-1656-1.html" target="_blank" class="relatedlink">监理</a>、运维等各方参与实施的BIM模式，以实现“业主主导的BIM，工程师实施的BIM”。上海市地下空间设计研究总院有限公司作为BIM咨询单位，主要工作为：制定实施方案、模型的交付标准、实施标准；开发<a href="http://www.co188.com/jh/t84948.html" target="_blank" class="relatedlink">参数化</a>构建库、出图模板；搭建协同管理平台；进行过程管理与成果审核。<br />
+<br />
+ 　　2.上海——BIM贯穿项目设计、施工阶段全过程<br />
+<br />
+ 　　上海地铁9号线三期（东延伸）工程线路全长13.83公里，共设9座地下车站，其中换乘站3座，分别与12、14、19号线换乘，设金桥停车场一座，由申江路站引入，与12、14号线共址。<br />
+<br />
+ 　　为了更好地开展9号线三期（东延伸）工程的项目建设管理，达到项目设定的安全、质量、高效等各项管理目标，上海市地下空间设计研究总院有限公司协助业主在项目设计、施工阶段全过程应用BIM技术，如场地仿真、管线搬迁模拟、交通疏解模拟、管线综合设计、工程量辅助统计、效果图<a href="http://www.co188.com/jh/t78102.html" target="_blank" class="relatedlink">渲染</a>、场景漫游、施工仿真等。同时，还计划将来<a href="http://www.co188.com/jh/t77994.html" target="_blank" class="relatedlink">竣工</a>时移交给运维单位一个包含设计、施工必要信息的模型，以期提高运维质量。<br />
+<br />
+ 　　3.深圳——BIM巧妙克服高难地域难题<br />
+<br />
+ 　　深圳地铁7号线是深圳主要居住区与就业区的局域线，线路贯穿罗湖等三个行政区，拟设28座车站。7号线多处下穿<a href="http://www.co188.com/jh/t77248.html" target="_blank" class="relatedlink">建筑物</a>、河流和湖泊等高难地域，工程实施难度大、风险大。<br />
+<br />
+ 　　为了确保站后工程有序推进，水电八局率先将BIM技术运用到施工中，利用动画模型和立体可视化设备对施工现场进行预判并对工人进行模拟教育，最大化降低施工风险，保证工程零伤亡。通过运用BIM碰撞检测技术检查管线综合效果，验证并优化方案，减少各专业之间的摩擦，避免返工、误工现象，减少资源的浪费等方面均有非常重大的作用。<br />
+<br />
+ 　　4.长沙——BIM提升施工质量与效率<br />
+<br />
+ 　　长沙地铁3号线松雅湖南站位于星沙开元路与东四线交汇处，是长度210米的标准化车站。自2014年5月开工建设，松雅湖南站于2015年6月完成主体结构施工。<br />
+<br />
+ 　　在整个施工过程中，松雅湖南站应用了BIM技术，通过计算机虚拟仿真，优化施工流程。据中建五局项目部生产经理曹超介绍，通过施工动画漫游、三维动画交底、施工方案模拟等BIM技术应用，大大减少了建筑质量、安全问题，减少了返工和整改；同时，为提高侧墙的表面光洁度和施工速度，项目部设计、制造了一套单侧全自动钢模台车，台车可以载着钢模板灵活移动，不像传统的组合木模，每段侧墙都要拆、装模板，装模、脱模速度快了2到3倍。<br />
+<br />
+ 　　5.无锡——BIM解决地下管线错综复杂等难题<br />
+<br />
+ 　　无锡地铁2号线首次运用BIM创新技术，有效解决了地下管线错综复杂、布局不合理等诸多问题。<br />
+<br />
+ 　　在地铁2号线梁溪大桥站，首次引入了BIM“三维综合管线”的技术，即先用计算机根据现场勘查的资料，设计出“装修效果图”，直观地反映管线的位置、标高等数据，对可能存在的管线冲突、设备干扰、空间隐患等情况进行模拟演练，有效减少了设计误差，大幅度提升了施工质量与效率。据了解，仅梁溪大桥站引入此项技术后，节省了因返工造成的经济损失20万元左右，工期也提前了一个月。此外，借助BIM技术打造无锡地铁智慧运营系统，还可有效消除管理盲区。遇到地铁突发事件时，BIM智慧运营系统可有效统筹一体化实施预防、警报和处理。<br />
+<br />
+ 　　6.乌鲁木齐——BIM或将以示范工程推广<br />
+<br />
+ 　　在乌鲁木齐轨道交通1号线04标段南门站地铁施工中，面对风险源控制难度大、区间施工复杂、繁华区域五期交通疏解、市政管线迁改多等情况，中建六局创新应用BIM技术辅助施工决策，解决地铁<a href="http://www.co188.com/jh/t37753.html" target="_blank" class="relatedlink">施工组织</a>、风险控制等疑难<a href="http://www.co188.com/jh/t48672.html" target="_blank" class="relatedlink">施工技术</a>问题。<br />
+<br />
+ 　　中建六局联合业主申报乌市建委科研项目，于2015年3月23日通过了由乌鲁木齐<a href="http://bbs.co188.com/forum-2192-1.html" target="_blank" class="relatedlink">城市轨道交通</a>工程技术委员会主持的项目申报评审。后期，业主计划将04标段设立为BIM示范工程。<br />
+<br />
+ 　　除以上城市外，北京、广州、西安、郑州等多地也在尝试BIM技术。随着BIM的推广和不断发展，地铁<a href="http://www.co188.com/jh/t48676.html" target="_blank" class="relatedlink">施工管理</a>信息化、过程化、精细化将成为可能，并不断得到完善。<br />
+<br />
+ 　　BIM技术并非一往无前<br />
+<br />
+ 　　
+<ignore_js_op>
+
+<img id="aimg_5329743" aid="5329743" src="http://image.co188.com/x2/static/image/common/none.gif" zoomfile="http://bbsfile.co188.com/forum/201509/16/101544tala3d2pw4davlrj.jpg" file="http://bbsfile.co188.com/forum/201509/16/101544tala3d2pw4davlrj.jpg" class="zoom" onclick="zoom(this, this.src, 0, 0, 0)" width="560" id="aimg_5329743" inpost="1" alt="BIM技术并非一往无前" title="BIM技术并非一往无前" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" />
+
+<div class="tip tip_4 aimg_tip" id="aimg_5329743_menu" style="position: absolute; display: none" disautofocus="true">
+<div class="tip_c xs0">
+<div class="y">2015-9-16 08:28 上传</div>
+<a href="forum.php?mod=attachment&amp;aid=NTMyOTc0M3w1MzY3MDE3YXwxNDUwNjc3MTkzfDB8OTE3MTk0OQ%3D%3D&amp;nothumb=yes" title="20150911090957212.jpg 下载次数:1" target="_blank"><strong>下载附件</strong> <span class="xs0">(135.2 KB)</span></a>
+<br />BIM技术并非一往无前
+</div>
+<div class="tip_horn"></div>
+</div>
+
+</ignore_js_op>
+<br />
+<br />
+ 　　基于BIM模型的可视化决策，虚拟建造地铁，实现其数字化、形象化；基于BIM模型与其他相关方的可视化交互，实现地铁智能化表达、参数化变更；通过BIM模型综合协调、<a href="http://www.co188.com/jh/t79259.html" target="_blank" class="relatedlink">优化设计</a>，不断提高轨道交通的设计质量；通过BIM模型施工模拟、管理预判，初步实现施工过程高效管理；通过BIM模型完成数据传递，实现车站设备运维管理……<br />
+<br />
+ 　　然而，如此“万能”的BIM技术在国内的发展就真的一帆风顺吗？事实并非如此。其带来的经济效益和社会效益并未受到广泛认同，BIM技术的发展和应用正在受到挑战。具体来说，阻碍BIM在国内发展的原因主要归结为以下四点：<br />
+<br />
+ 　　第一，BIM技术应用需求在当前传统的轨道交通项目的专项经费和取费标准等问题还在发展和研究之中。关于BIM的收费标准，上海市城市建设设计研究总院副院长徐敏生表示，他们现在承接的一些项目，BIM的收费有的在合同上直接体现出来，也有些间接的包含在设计里，还有的以科研形式给予费用。上海市地下空间设计研究总院有限公司相关人员也表示，政府一直在呼吁，但是还没有单独立项。轨道交通属于公共交通，大部分由政府出资建设，没有“名分”在很大程度上限制了BIM的发展。此外，轨道交通BIM的相关算量标准也还在制定过程中，这也导致相关方不敢贸然尝试。<br />
+<br />
+ 　　第二，大多数业主和建设单位对BIM的认识还不够深，甚至还有一些误解，对BIM在轨道交通项目中的具体价值和应用范围不太了解。BIM带来的不仅仅是投资的收益，还有后期整个运营的可控性。而BIM的应用能否得到推广，巨大的商业价值能否由概念尽快转化为实实在在的生产力，还要看能否得到越来越多项目的使用者——业主的认可和参与。打通这个环节，对于挖掘BIM的独特价值具有举足轻重的作用。<br />
+<br />
+ 　　第三，现有的出图、<a href="http://www.co188.com/jh/t78994.html" target="_blank" class="relatedlink">验收</a>等规范还无法采用BIM的输出形式，只有部分城市将BIM成果作为中间过程，还没有达到法定的高度。“虽然进入了新时代，但是我们生产出来的产品还要符合以前老时代的标准，这是当前设计院在应用BIM时面对的巨大困难。”在近日举办的一次业内交流会上，<a href="http://www.co188.com/jh/t80544.html" target="_blank" class="relatedlink">中国建筑</a>科学研究院建筑设计院副总<a href="http://bbs.co188.com/forum-1692-1.html" target="_blank" class="relatedlink">建筑师</a>刘济瑀表示，目前<a href="http://www.co188.com/jh/t82282.html" target="_blank" class="relatedlink">国家标准</a>层面并不支持3D交付，这意味着所有的BIM模型最终必须要转换成为符合标准的2D图纸，“结果就造成设计院的BIM应用往往存在一个‘翻模’的过程。”<br />
+<br />
+ 　　第四，BIM技术应用人才以及软件、硬件的配置现状也限制了BIM的部分应用。国内有自成<a href="http://www.co188.com/jh/t79599.html" target="_blank" class="relatedlink">体系</a>的语言、工程标准和规范，相应的也有很多符合此工程标准和规范的专业应用软件，不可能在短期内出现一批可以替代现有专业应用软件的其他BIM软件。同时，实施BIM技术对计算机的硬件要求较高，前期投入较多，短期内又很难带来经济效益，对于许多中、小型企业来说是一项巨大的挑战。此外，国内设计单位、地铁施工企业等业务水平参差不齐，而设计变更、图纸调整等所带来的巨大的模型维护工作量对专业人才的要求较高。<br />
+<br />
+ 　　BIM的应用如今已不再是看看模型、检查一下空间关系这些表面功能，应该深入思考如何利用BIM模型为企业和社会创造更大的价值。如何让中国的工程建设行业利用BIM技术促进行业机制转变，低成本实现产业转型升级成为当前整个行业面临的巨大挑战。<br />
+<br />
+ 　　BIM技术结合现代工程需求而发展<br />
+<br />
+ 　　
+<ignore_js_op>
+
+<img id="aimg_5329744" aid="5329744" src="http://image.co188.com/x2/static/image/common/none.gif" zoomfile="http://bbsfile.co188.com/forum/201509/16/101544vs0jojy3jvx5kkvm.jpg" file="http://bbsfile.co188.com/forum/201509/16/101544vs0jojy3jvx5kkvm.jpg" class="zoom" onclick="zoom(this, this.src, 0, 0, 0)" width="402" id="aimg_5329744" inpost="1" alt="BIM技术结合现代工程需求而发展" title="BIM技术结合现代工程需求而发展" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" />
+
+<div class="tip tip_4 aimg_tip" id="aimg_5329744_menu" style="position: absolute; display: none" disautofocus="true">
+<div class="tip_c xs0">
+<div class="y">2015-9-16 08:28 上传</div>
+<a href="forum.php?mod=attachment&amp;aid=NTMyOTc0NHw4YTljYWEyY3wxNDUwNjc3MTkzfDB8OTE3MTk0OQ%3D%3D&amp;nothumb=yes" title="20150911090957475.jpg 下载次数:13" target="_blank"><strong>下载附件</strong> <span class="xs0">(32.65 KB)</span></a>
+<br />BIM技术结合现代工程需求而发展
+</div>
+<div class="tip_horn"></div>
+</div>
+
+</ignore_js_op>
+<br />
+<br />
+ 　　正如维克托&#8226;迈尔-舍恩格伯所说，大数据时代是“已经发生的未来”。尽管BIM的优势在短时间内难以完全发挥，但这项新技术所带来的趋势以及大数据价值正在被业内所认同。“BIM所承载的信息，如果能够放在城市级别的大数据里被利用起来将非常有意义。可以实现从建筑信息模型管理到城市信息模型管理的飞越。”BIM技术集合了BIM软件、技术以及应用，随着信息化的发展，其应用开发前景也必将是结合现代工程需求而发展的。未来BIM技术将呈现以下趋势：<br />
+<br />
+ 　　和移动端的结合：BIM技术应用必将朝着易用的方向发展。在以网络沟通为主导的社会交往形式下，以更加便捷的网络沟通方式，为用户提供更加丰富的服务。以此为平台，既方便了BIM应用的交流沟通，也改变了以往呆板的交流方式。<br />
+<br />
+ 　　和大数据、云计算的结合：BIM的信息化核心特征决定了BIM的数据必将朝着数据共享、协同应用的方向发展，改变现有的<a href="http://www.co188.com/jh/t81227.html" target="_blank" class="relatedlink">工程设计</a>、管理模式。<a href="http://www.co188.com/jh/t81644.html" target="_blank" class="relatedlink">项目管理</a>有关的文件数据，以及通过支持协作工作流程建设现场为主的BIM协同解决方案，为云服务的<a href="http://bbs.co188.com/forum-2525-1.html" target="_blank" class="relatedlink">基础</a>上以数据为中心的各种BIM协调提供了可能，同时对于参与施工现场项目的团队来说，方便了他们之间的沟通合作。在任何时候，项目的参与者都可以直接地共享精确到具体部位的工程信息。<br />
+<br />
+ 　　和数字化捕捉技术的结合：BIM技术应用不光可以应用于新建工程，在国内还有大量既有建筑需要进行数字化、信息化处理。数字化建造通过BIM技术的适当介入，在可控制的范围内使传统施工方法通过参数化辅助建造的模式获得新生。项目部利用3D模型检测碰撞，为施工提供最优化管线综合设计；4D进度模拟，模拟施工进度，指导项目计划管理的顺利实现；BIM结合预制加工，有效地避免了场地狭窄等局限性，完成了风管传统加工模式到工厂预制化模式的华丽转型；虚拟仿真，将施工方案进行预演，方案实施过程一目了然……全数字化运维管理系统是未来智能型城市的雏形，数字化建造也将成为未来工程发展的方向。<br />
+<br />
+ 　　和<a href="http://www.co188.com/jh/t81147.html" target="_blank" class="relatedlink">工程管理</a>的结合：BIM不仅仅是一种技术应用，而且对现有工程管理模式也具有重要推动和改良的作用，通过融合现有的管理模式，可以使现有的信息化管理平台上升到另一种高度。<br />
+<br />
+ 　　今天，社会正经历着一场信息革命，BIM通过与移动端、大数据、云计算、数字化捕捉技术、工程管理等为代表的先进技术相结合应用，将极大地促进企业的技术创新和管理创新，将促进项目的集约化和精益化的管理。 </td></tr></table>
+                
+                 
+        </div>
+<div id="comment_38340305" class="cm">
+</div>
+        <br/>                <div class="sharebox1">
+          <label>分享到：</label>
+          <a class="sina" title="新浪微博分享"  onclick="share1('sina');">新浪微博</a>
+          <a class="QQkj" title="QQ空间分享"  onclick="share1('kj');">QQ空间</a>
+          <a class="weixin" title="微信分享"  onclick="pop();">微信</a>
+          <a class="QQwb" title="QQ微博分享"  onclick="share1('wb');">腾讯微博</a>
+          <a class="renren" title="人人分享" onclick="share1('rr');">人人网</a>
+          <a class="douban" title="豆瓣分享"  onclick="share1('db');">豆瓣</a>
+          <a class="baidu" title="百度贴吧分享" onclick="share1('baidu');">百度贴吧</a>
+        </div>
+                <div id="post_rate_div_38340305"></div>
+</div>
+</div>
+
+<div class="ptg mbm">
+<a title="悉尼歌剧院" href="tag-22944.html" target="_blank">悉尼歌剧院</a>, <a title="澳大利亚" href="tag-305.html" target="_blank">澳大利亚</a>, <a title="上海中心" href="tag-1356.html" target="_blank">上海中心</a>, <a title="建筑信息化" href="tag-17132.html" target="_blank">建筑信息化</a>, <a title="项目经理" href="tag-1769.html" target="_blank">项目经理</a></div>
+</td></tr>
+<tr><td class="plc plm">
+<div id="p_btn" class="mtw mbm cl">
+<a href="home.php?mod=spacecp&amp;ac=follow&amp;op=relay&amp;tid=9171949&amp;from=forum" id="k_relay" onclick="showWindow(this.id, this.href, 'get', 0);" onmouseover="this.title = $('relaynumber').innerHTML + ' 人转播'"><i><img src="http://image.co188.com/x2/static/image/common/rt.png" alt="转播" />转播<span id="relaynumber">0</span></i></a>
+<a href="forum.php?mod=collection&amp;action=edit&amp;op=addthread&amp;tid=9171949" id="k_collect" onclick="showWindow(this.id, this.href);return false;" onmouseover="this.title = $('collectionnumber').innerHTML + ' 人淘帖'"><i><img src="http://image.co188.com/x2/static/image/common/collection.png" alt="分享" />淘帖<span id="collectionnumber">0</span></i></a>
+<a href="home.php?mod=spacecp&amp;ac=favorite&amp;type=thread&amp;id=9171949" id="k_favorite" onclick="showWindow(this.id, this.href, 'get', 0);" onmouseover="this.title = $('favoritenumber').innerHTML + ' 人收藏'"><i><img src="http://image.co188.com/x2/static/image/common/fav.gif" alt="收藏" />收藏<span id="favoritenumber">0</span></i></a>
+<a id="recommend_add" href="forum.php?mod=misc&amp;action=recommend&amp;do=add&amp;tid=9171949&amp;hash=0d9184c7"  onclick="showWindow('login', this.href)" onmouseover="this.title = $('recommendv_add').innerHTML + ' 人给赞'"><i><img src="http://image.co188.com/x2/static/image/common/rec_add.gif" alt="给赞" />给赞<span id="recommendv_add">0</span></i></a>
+<a id="recommend_subtract" href="forum.php?mod=misc&amp;action=recommend&amp;do=subtract&amp;tid=9171949&amp;hash=0d9184c7"  onclick="showWindow('login', this.href)" onmouseover="this.title = $('recommendv_subtract').innerHTML + ' 人拍砖'"><i><img src="http://image.co188.com/x2/static/image/common/rec_subtract.gif" alt="拍砖" />拍砖<span id="recommendv_subtract">0</span></i></a>
+</div>
+</td>
+</tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=2191&amp;tid=9171949&amp;reppost=38340305&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_38340305" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport38340305', 'misc.php?mod=report&rtype=post&rid=38340305&tid=9171949&fid=2191', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_38340305_menu" class="p_pop mgcmn" style="display: none;">
+<li><a href="home.php?mod=magic&amp;mid=bump&amp;idtype=tid&amp;id=9171949" id="a_bump" onclick="showWindow(this.id, this.href)"><img src="http://image.co188.com/x2/static/image/magic/bump.small.gif" />提升卡</a></li>
+<li><a href="home.php?mod=magic&amp;mid=stick&amp;idtype=tid&amp;id=9171949" id="a_stick" onclick="showWindow(this.id, this.href)"><img src="http://image.co188.com/x2/static/image/magic/stick.small.gif" />置顶卡1</a></li>
+<li><a href="home.php?mod=magic&amp;mid=close&amp;idtype=tid&amp;id=9171949" id="a_stick" onclick="showWindow(this.id, this.href)"><img src="http://image.co188.com/x2/static/image/magic/close.small.gif" />沉默卡</a></li>
+<li><a href="home.php?mod=magic&amp;mid=open&amp;idtype=tid&amp;id=9171949" id="a_stick" onclick="showWindow(this.id, this.href)"><img src="http://image.co188.com/x2/static/image/magic/open.small.gif" />喧嚣卡</a></li>
+<li><a href="home.php?mod=magic&amp;mid=highlight&amp;idtype=tid&amp;id=9171949" id="a_stick" onclick="showWindow(this.id, this.href)"><img src="http://image.co188.com/x2/static/image/magic/highlight.small.gif" />变色卡</a></li>
+<li><a href="home.php?mod=magic&amp;mid=jack&amp;idtype=tid&amp;id=9171949" id="a_jack" onclick="showWindow(this.id, this.href)"><img src="http://image.co188.com/x2/static/image/magic/jack.small.gif" />千斤顶</a></li>
+<li><a href="home.php?mod=magic&amp;mid=namepost&amp;idtype=pid&amp;id=38340305:9171949" id="a_namepost_38340305" onclick="showWindow(this.id, this.href)"><img src="http://image.co188.com/x2/static/image/magic/namepost.small.gif" />显身卡</a><li>
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_38340305')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls"></td>
+<td class="plc">
+<div class="a_p"><!-- 广告位：道桥交通论坛帖间广告 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("571521");</script></div></td>
+</tr>
+</table>
+<script type="text/javascript" reload="1">
+aimgcount[38340305] = ['5329742','5329743','5329744'];
+attachimggroup(38340305);
+var aimgfid = 0;
+</script>
+</div><div id="post_38363311"><table id="pid38363311" summary="pid38363311" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+ <div class="pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=16659243" target="_blank" class="xw1" rel="nofollow">加倍努力</a>
+
+</div>
+</div>
+<div class="p_pop blk bui" id="userinfo38363311" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo38363311_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a rel="nofollow" href="home.php?mod=space&amp;uid=16659243" target="_blank" class="xi2">加倍努力</a></strong>
+<em>当前在线</em>
+</div>
+<dl class="cl"></dl>
+<div class="imicn">
+                                                <!---->
+<a rel="nofollow" href="home.php?mod=space&amp;uid=16659243&amp;do=profile" target="_blank" title="查看详细资料"><img src="http://image.co188.com/x2/static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo38363311')"><a href="home.php?mod=space&amp;uid=16659243" target="_blank"><img src="http://bbs.co188.com/uc_server/images/noavatar_middle.gif" onerror="this.onerror=null;this.src='http://bbs.co188.com/uc_server/images/noavatar_middle.gif'" /></a></div>
+<div class="tns xg2">
+<table cellspacing="0" cellpadding="0">
+<th><p><a href="home.php?mod=space&amp;uid=16659243&amp;do=thread&amp;view=me&amp;from=space" class="xi2" rel="nofollow">2</a></p>主题</th>
+<th>
+<p><a href="home.php?mod=follow&amp;do=follower&amp;uid=16659243" class="xi2" rel="nofollow">10</a></p>听众
+</th>
+<td><p><a href="home.php?mod=space&amp;uid=16659243&amp;do=profile" class="xi2" rel="nofollow">2153</a></p>积分</td>
+</table>
+</div>
+<p><em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=20" target="_blank" rel="nofollow"><font color="black">五星工程师</font></a></em></p>
+</div>
+<p id="g_up38363311" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"><img src="http://image.co188.com/x2/static/image/common/star_level2.gif" alt="Rank: 30" /><img src="http://image.co188.com/x2/static/image/common/star_level2.gif" alt="Rank: 30" /><img src="http://image.co188.com/x2/static/image/common/star_level2.gif" alt="Rank: 30" /><img src="http://image.co188.com/x2/static/image/common/star_level2.gif" alt="Rank: 30" /><img src="http://image.co188.com/x2/static/image/common/star_level2.gif" alt="Rank: 30" /></p>
+<div id="g_up38363311_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c"><font color="black">五星工程师</font>, 积分 2153, 距离下一级还需 347 积分</div>
+</div>
+<dl class="pil cl"><dt>土木币</dt><dd>3374 </dd></dl><p class="md_ctrl">
+                                         
+                                        <a rel="nofollow" href="home.php?mod=medal"><img id="md_38363311_96" src="http://image.co188.com/x2/static/image/common/qiandao100.gif" alt="百尺竿头" title="" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'md_96_menu', 'pos':'12!'});" />
+<img id="md_38363311_95" src="http://image.co188.com/x2/static/image/common/qiandao30.gif" alt="三十而立" title="" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'md_95_menu', 'pos':'12!'});" />
+<img id="md_38363311_94" src="http://image.co188.com/x2/static/image/common/qiandao7.gif" alt="七天大胜" title="" onmouseover="showMenu({'ctrlid':this.id, 'menuid':'md_94_menu', 'pos':'12!'});" />
+</a>
+</p>
+<ul class="xl xl2 o cl">
+<li class="addflw">
+<a rel="nofollow" href="home.php?mod=spacecp&amp;ac=follow&amp;op=add&amp;hash=0d9184c7&amp;fuid=16659243" id="followmod_16659243" title="收听TA" class="xi2" onclick="showWindow('followmod', this.href, 'get', 0);">收听TA</a>
+</li>
+<li class="pm2"><a rel="nofollow" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_16659243&amp;touid=16659243&amp;pmid=0&amp;daterange=2&amp;pid=38363311&amp;tid=9171949" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2">发消息</a></li>
+</ul>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=9171949&pid=38363311"  id="postnum38363311" onclick="setCopy(this.href, '帖子地址复制成功');return false;">沙发</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon38363311" src="http://image.co188.com/x2/static/image/common/online_member.gif" />
+<em id="authorposton38363311">发表于 2015-9-22 08:43:38</em>
+<span class="pipe">|</span><a href="forum.php?mod=viewthread&amp;tid=9171949&amp;page=1&amp;authorid=16659243" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="a_pt"><div style="padding-top:10px;width:750px;"><!-- 广告位：路桥建设论坛内容下部 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("602942");</script></div></div><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_38363311">
+很详细的资料，多谢楼主！</td></tr></table>
+                
+                 
+        </div>
+<div id="comment_38363311" class="cm">
+</div>
+        <br/>                <div id="post_rate_div_38363311"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=2191&amp;tid=9171949&amp;repquote=38363311&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_38363311" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport38363311', 'misc.php?mod=report&rtype=post&rid=38363311&tid=9171949&fid=2191', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_38363311_menu" class="p_pop mgcmn" style="display: none;">
+<li><a href="home.php?mod=magic&amp;mid=namepost&amp;idtype=pid&amp;id=38363311:9171949" id="a_namepost_38363311" onclick="showWindow(this.id, this.href)"><img src="http://image.co188.com/x2/static/image/magic/namepost.small.gif" />显身卡</a><li>
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_38363311')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls"></td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_38578737"><table id="pid38578737" summary="pid38578737" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+ <a name="lastpost"></a><div class="pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=7503889" target="_blank" class="xw1" rel="nofollow">骄傲的狮子座</a>
+
+</div>
+</div>
+<div class="p_pop blk bui" id="userinfo38578737" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo38578737_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a rel="nofollow" href="home.php?mod=space&amp;uid=7503889" target="_blank" class="xi2">骄傲的狮子座</a></strong>
+<em>当前离线</em>
+</div>
+<dl class="cl"></dl>
+<div class="imicn">
+                                                <!---->
+<a rel="nofollow" href="home.php?mod=space&amp;uid=7503889&amp;do=profile" target="_blank" title="查看详细资料"><img src="http://image.co188.com/x2/static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo38578737')"><a href="home.php?mod=space&amp;uid=7503889" target="_blank"><img src="http://bbs.co188.com/uc_server/data/avatar/007/50/38/89_avatar_middle.jpg" onerror="this.onerror=null;this.src='http://bbs.co188.com/uc_server/images/noavatar_middle.gif'" /></a></div>
+<div class="tns xg2">
+<table cellspacing="0" cellpadding="0">
+<th><p><a href="home.php?mod=space&amp;uid=7503889&amp;do=thread&amp;view=me&amp;from=space" class="xi2" rel="nofollow">3</a></p>主题</th>
+<th>
+<p><a href="home.php?mod=follow&amp;do=follower&amp;uid=7503889" class="xi2" rel="nofollow">0</a></p>听众
+</th>
+<td><p><a href="home.php?mod=space&amp;uid=7503889&amp;do=profile" class="xi2" rel="nofollow">104</a></p>积分</td>
+</table>
+</div>
+<p><em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=12" target="_blank" rel="nofollow"><font color="black">二星助理工程师</font></a></em></p>
+</div>
+<p id="g_up38578737" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"><img src="http://image.co188.com/x2/static/image/common/star_level1.gif" alt="Rank: 2" /><img src="http://image.co188.com/x2/static/image/common/star_level1.gif" alt="Rank: 2" /></p>
+<div id="g_up38578737_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c"><font color="black">二星助理工程师</font>, 积分 104, 距离下一级还需 46 积分</div>
+</div>
+<dl class="pil cl"><dt>土木币</dt><dd>18 </dd></dl><ul class="xl xl2 o cl">
+<li class="addflw">
+<a rel="nofollow" href="home.php?mod=spacecp&amp;ac=follow&amp;op=add&amp;hash=0d9184c7&amp;fuid=7503889" id="followmod_7503889" title="收听TA" class="xi2" onclick="showWindow('followmod', this.href, 'get', 0);">收听TA</a>
+</li>
+<li class="pm2"><a rel="nofollow" href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_7503889&amp;touid=7503889&amp;pmid=0&amp;daterange=2&amp;pid=38578737&amp;tid=9171949" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2">发消息</a></li>
+</ul>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=9171949&pid=38578737"  id="postnum38578737" onclick="setCopy(this.href, '帖子地址复制成功');return false;">板凳</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon38578737" src="http://image.co188.com/x2/static/image/common/online_member.gif" />
+<em id="authorposton38578737">发表于 2015-11-18 16:11:43</em>
+<span class="pipe">|</span><a href="forum.php?mod=viewthread&amp;tid=9171949&amp;page=1&amp;authorid=7503889" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="a_pt"><!-- 广告位：路桥建设三层内容上部广告 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("863459");</script></div><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_38578737">
+谢谢楼主无私分享， 赞一个</td></tr></table>
+                
+                 
+        </div>
+<div id="comment_38578737" class="cm">
+</div>
+        <br/>                <div id="post_rate_div_38578737"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=2191&amp;tid=9171949&amp;repquote=38578737&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_38578737" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport38578737', 'misc.php?mod=report&rtype=post&rid=38578737&tid=9171949&fid=2191', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_38578737_menu" class="p_pop mgcmn" style="display: none;">
+<li><a href="home.php?mod=magic&amp;mid=namepost&amp;idtype=pid&amp;id=38578737:9171949" id="a_namepost_38578737" onclick="showWindow(this.id, this.href)"><img src="http://image.co188.com/x2/static/image/magic/namepost.small.gif" />显身卡</a><li>
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_38578737')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls"></td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div>
+<div id="postlistreply" class="pl"><div id="post_new" class="viewthread_table" style="display: none"></div></div>
+</div>
+
+
+<form method="post" autocomplete="off" name="modactions" id="modactions">
+<input type="hidden" name="formhash" value="0d9184c7" />
+<input type="hidden" name="optgroup" />
+<input type="hidden" name="operation" />
+<input type="hidden" name="listextra" value="page%3D1" />
+<input type="hidden" name="page" value="1" />
+</form>
+
+
+<div class="pgs mtm mbm cl">
+<span class="pgb y"><a href="forum-2191-1.html">返回列表</a></span>
+<a id="newspecialtmp" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=2191')" href="javascript:;" title="发新帖"><img src="http://image.co188.com/x2/static/image/common/pn_post.png" alt="发新帖" /></a>
+</div>
+
+<!--[diy=diyfastposttop]--><div id="diyfastposttop" class="area"></div><!--[/diy]-->
+<script type="text/javascript">
+var postminchars = parseInt('10');
+var postmaxchars = parseInt('10000');
+var disablepostctrl = parseInt('0');
+</script>
+
+<div id="f_pst" class="pl bm bmw">
+<form method="post" autocomplete="off" id="fastpostform" action="forum.php?mod=post&amp;action=reply&amp;fid=2191&amp;tid=9171949&amp;extra=page%3D1&amp;replysubmit=yes&amp;infloat=yes&amp;handlekey=fastpost" onSubmit="return fastpostvalidate(this)">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls">
+</td>
+<td class="plc">
+
+<span id="fastpostreturn"></span>
+
+
+<div class="cl c2">
+<!---->
+        <div id="co188_weixin" class="y"></div>
+        <div class="ktr"></div>
+        <div class="hasfsl" id="fastposteditor">
+<div class="tedt mtn">
+<div class="bar">
+<span class="y">
+<a href="forum.php?mod=post&amp;action=reply&amp;fid=2191&amp;tid=9171949" onclick="return switchAdvanceMode(this.href)">高级模式</a>
+</span><script src="http://cache.co188.com/x2/static/js/seditor.js?a3r" type="text/javascript"></script>
+<div class="fpd">
+<a href="javascript:;" title="文字加粗" class="fbld">B</a>
+<a href="javascript:;" title="设置文字颜色" class="fclr" id="fastpostforecolor">Color</a>
+<a id="fastpostimg" href="javascript:;" title="图片" class="fmg">Image</a>
+<a id="fastposturl" href="javascript:;" title="添加链接" class="flnk">Link</a>
+<a id="fastpostquote" href="javascript:;" title="引用" class="fqt">Quote</a>
+<a id="fastpostcode" href="javascript:;" title="代码" class="fcd">Code</a>
+<a href="javascript:;" class="fsml" id="fastpostsml">Smilies</a>
+</div></div>
+<div class="area">
+<div class="pt hm">
+您需要登录后才可以回帖 <a href="member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href)" class="xi2">登录</a> | <a href="member.php?mod=register" class="xi2">注册</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<input type="hidden" name="formhash" value="0d9184c7" />
+<input type="hidden" name="usesig" value="" />
+<input type="hidden" name="subject" value="  " />
+<p class="ptm pnpost">
+<button type="button" onclick="showWindow('login', 'member.php?mod=logging&action=login&guestmessage=yes')" name="replysubmit" id="fastpostsubmit" class="pn pnc vm" value="replysubmit" tabindex="5"><strong>发表回复</strong></button>
+<label class="lb"><input type="checkbox" name="adddynamic" class="pc" value="1" />回帖并转播</label>
+<label for="fastpostrefresh"><input id="fastpostrefresh" type="checkbox" class="pc" />回帖后跳转到最后一页</label>
+<script type="text/javascript">if(getcookie('fastpostrefresh') == 1) {$('fastpostrefresh').checked=true;}</script>
+</p>
+</td>
+</tr>
+</table>
+</form>
+</div>
+
+
+<div id="md_96_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c">
+<h4>百尺竿头</h4>
+<p></p>
+</div>
+</div>
+<div id="md_95_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c">
+<h4>三十而立</h4>
+<p></p>
+</div>
+</div>
+<div id="md_94_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c">
+<h4>七天大胜</h4>
+<p></p>
+</div>
+</div>
+<script type="text/javascript">
+new lazyload();
+</script>
+<script type="text/javascript">document.onkeyup = function(e){keyPageScroll(e, 0, 0, 'forum.php?mod=viewthread&tid=9171949', 1);}</script>
+</div>
+
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+
+
+<script type="text/javascript">
+function succeedhandle_followmod(url, msg, values) {
+var fObj = $('followmod_'+values['fuid']);
+if(values['type'] == 'add') {
+fObj.innerHTML = '不收听';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=del&fuid='+values['fuid'];
+} else if(values['type'] == 'del') {
+fObj.innerHTML = '收听TA';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=add&hash=0d9184c7&fuid='+values['fuid'];
+}
+}
+</script>    </div>
+            
+    <div class="wp a_f"><!-- 广告位：道桥交通论坛底部通栏 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("571516");</script>
+<!-- 广告位：道桥交通论坛对联左 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("571517");</script>
+<!-- 广告位：道桥交通论坛对联右 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("571518");</script></div>                    
+
+<script type="text/javascript">
+var rel_tid = "9171949";
+var rel_title = "%B5%D8%CC%FA%CF%EE%C4%BF%B3%F5%B3%A2BIM%BC%BC%CA%F5%A1%B0%CC%F0%CD%B7%A1%B1%BC%B0%C6%E4%D2%D4%BA%F3%B5%C4%B7%A2%D5%B9%B7%BD%CF%F2";
+var rel_reltid = "0";
+var rel_prepos = "";
+var my_siteid = "21408930";
+var rel_uid = "0";
+var rel_views = "321";
+var rel_replies = "2";
+var rel_page = "1";
+var rel_show = "0";
+</script>
+<script src="http://cache.soso.com/30d/js/discuz/relate_subject.js" type="text/javascript" charset="GBK"></script>
+
+
+
+<script type="text/javascript">
+_attachEvent(window, 'load', getForbiddenFormula, document);
+function getForbiddenFormula() {
+var toGetForbiddenFormulaFIds = function () {
+ajaxget('plugin.php?id=cloudsearch&formhash=0d9184c7');
+};
+var a = document.body.getElementsByTagName('a');
+for(var i = 0;i < a.length;i++){
+if(a[i].getAttribute('sc')) {
+a[i].setAttribute('mid', hash(a[i].href));
+a[i].onmousedown = function() {toGetForbiddenFormulaFIds();};
+}
+}
+var btn = document.body.getElementsByTagName('button');
+for(var i = 0;i < btn.length;i++){
+if(btn[i].getAttribute('sc')) {
+btn[i].setAttribute('mid', hash(btn[i].id));
+btn[i].onmousedown = function() {toGetForbiddenFormulaFIds();};
+}
+}
+}
+</script>
+
+<script type="text/javascript">(function(){var bdcs = document.createElement('script');bdcs.type = 'text/javascript';bdcs.async = true;bdcs.src = "http://znsv.baidu.com/customer_search/api/js?sid=12418737645121678306" + '&plate_url=' + encodeURIComponent(window.location.href) + '&t=' + Math.ceil(new Date()/3600000) + '&callback=znForDz';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(bdcs, s);})();</script>
+<script src="source/plugin/baidusubmit/template/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+var bdjq = jQuery.noConflict(true);
+function znForDz(siteConfig){
+    bdjq(function(){
+        var zn = 'http://zhannei.baidu.com/cse/search?s=12418737645121678306';
+        if (siteConfig && siteConfig.resultUrl){
+            zn = 'http://' + siteConfig.resultUrl + '/cse/search?s=12418737645121678306'
+        }
+        var btn = bdjq("#scbar_btn");
+        if (btn.length == 0) {
+            btn = bdjq('button[name="searchsubmit"]');
+        }
+        if (btn.length == 0) {
+            btn = bdjq('input[name="searchsubmit"]');
+        }
+        if (btn.length == 0) {
+            btn = bdjq('#scbar_form input[type="submit"]');
+        }
+        if (btn.length == 0) {
+            btn = bdjq('#scbar_form button');
+        }            
+        if (btn.length > 0) {
+            btn.click(function(event){
+                var mod = bdjq('#scbar_mod').val() || bdjq('form input[name="mod"]').val()
+                var st = '';
+                var txt = bdjq('#scbar_txt').val() || bdjq('form input[name="srchtxt"]').val();
+                var user = '0';
+                if (mod === 'user' && user === '1'){
+                    st = 2;
+                    window.open(zn + "&q=" + encodeURIComponent(txt) + "&fst=" + st + "&partner=discuz");
+                    event.preventDefault();
+                } else if (mod === 'forum'){
+                    window.open(zn + "&q=" + encodeURIComponent(txt) + "&partner=discuz");
+                    event.preventDefault();            
+                }
+
+            });
+        }
+        var hot = bdjq('#scbar_hot a')
+            if (hot.length > 0){
+                hot.click(function(event){
+                var txt = bdjq(this).text();
+                window.open(zn + "&q=" + encodeURIComponent(txt) + "&partner=discuz");
+                event.preventDefault();
+            });
+        }
+    });
+}               
+</script>                   <!--<div id="ft" class="wp cl">-->
+            <div class="index_links">
+<span class="h3">推荐栏目</span>
+<a href="http://www.co188.com/"><strong>土木工程网</strong></a><span class="division">|</span>
+<a href="http://jz.co188.com/"><strong>建筑</strong></a><span class="division">|</span>
+<a href="http://jg.co188.com"><strong>结构</strong></a><span class="division">|</span>
+<a href="http://dq.co188.com/"><strong>电气</strong></a><span class="division">|</span>
+<a href="http://sl.co188.com/"><strong>水利</strong></a><span class="division">|</span>
+<a href="http://gps.co188.com/"><strong>给排水</strong></a><span class="division">|</span>
+<a href="http://ziliao.co188.com/"><strong>工程资料</strong></a><span class="division">|</span>
+<a href="http://nt.co188.com/"><strong>暖通</strong></a><span class="division">|</span>
+<a href="http://zl.co188.com/"><strong>制冷</strong></a><span class="division">|</span>
+<a href="http://hb.co188.com/"><strong>环保</strong></a><span class="division">|</span>
+<a href="http://bbs.co188.com/"><strong>土木工程</strong></a><span class="division">|</span>
+<a href="http://ziliao.co188.com/drawing/"><strong>cad图纸</strong></a><span class="division">|</span>
+<a href="http://yl.co188.com/"><strong>园林</strong></a><span class="division">|</span>
+<a href="http://ziliao.co188.com/drawing8893/"><strong>建筑图纸</strong></a><span class="division">|</span>
+<a href="http://ziliao.co188.com/drawing8972/"><strong>装修设计</strong></a><span class="division">|</span>
+<a href="http://ziliao.co188.com/drawing8832/"><strong>建筑结构图</strong></a><span class="division">|</span>
+<a href="http://ziliao.co188.com/drawing8753/"><strong>电气图纸</strong></a><span class="division">|</span>
+<a href="http://ziliao.co188.com/drawing9051/"><strong>给排水图纸</strong></a><span class="division">|</span>
+<a href="http://ziliao.co188.com/drawing9300/"><strong>园林设计图</strong></a><span class="division">|</span>
+<a href="http://ziliao.co188.com/drawing9197/"><strong>暖通设计图</strong></a><span class="division">|</span>
+<a href="http://ziliao.co188.com/drawing8800/"><strong>路桥图纸</strong></a><span class="division">|</span>
+<a href="http://ziliao.co188.com/drawing9141/"><strong>环保图纸</strong></a><span class="division">|</span>
+<a href="http://ziliao.co188.com/drawing9258/"><strong>水利工程设计图</strong></a><span class="division">|</span>
+<a href="http://ziliao.co188.com/paper10447/"><strong>施工方案</strong></a><span class="division">|</span>
+<a href="http://ziliao.co188.com/paper10448/"><strong>施工组织设计</strong></a><span class="division">|</span>
+<a href="http://ziliao.co188.com/paper10451/"><strong>建筑施工方案</strong></a><span class="division">|</span>
+<a href="http://bbs.co188.com/forum-2273-1.html"><strong>cad教程</strong></a><span class="division">|</span>
+<a href="http://bbs.co188.com/forum-2407-1.html"><strong>一级建造师</strong></a><span class="division">|</span>
+<a href="http://bbs.co188.com/forum-2406-1.html"><strong>二级建造师</strong></a><span class="division">|</span>
+<a href="http://bbs.co188.com/forum.php?gid=67">建筑结构</a><span class="division">|</span></div>
+            <div id="foot_wrap" class="f-fs12">
+<div class="clearfix f-cb" id="foot">
+<div class="website">
+<span class="sty_name">土木在线旗下网站</span>
+<ul class="clearfix f-cb">
+<li><a title="土木工程网"  href="http://www.co188.com/">土木工程网</a></li>
+    <li><a title="CAD图纸" href="http://ziliao.co188.com/zbdrawing/">CAD图纸</a></li>
+    <li><a title="土木商易宝" rel="nofollow" href="http://biz.co188.com/">土木商易宝</a></li>
+    <li><a title="土木工程文档" href="http://ziliao.co188.com/paper/">建筑论文</a></li>
+    <li><a title="人才招聘" href="http://job.co188.com/">人才招聘</a></li>
+    <li><a title="土木在线论坛"  href="http://bbs.co188.com/">土木工程论坛</a></li>
+    <li><a title="培训考试频道" rel="nofollow" href="http://www.co188.com/edu/">培训考试频道</a></li>
+    <li><a title="土木在线搜索" rel="nofollow" href="http://s.co188.com/">土木在线搜索</a></li>
+</ul>
+</div>
+<div class="contact">
+<span class="sty_name">联系电话</span>
+<ul>
+<li>0519-68887188-0(人工)</li>
+<li>0519-68887188-1(商易宝)</li>
+<li>0519-68887188-2(英才网)</li>
+<li>0519-68887188-3(媒体广告)</li>
+</ul>
+</div>
+<div class="service">
+<span class="sty_name">客户服务</span>
+<ul>
+<li class="tel">0519-68887188-5(客服)</li>
+<li class="mail"><a href="mailto:info@co188.com">info@co188.com</a></li>
+<li class="qq">2355735302</li>
+</ul>
+</div>
+<div class="social">
+<a href="http://www.co188.com/">
+<i class="shouxuan" title="土木在线_土木工程网站首选" alt="土木在线_土木工程网站首选" data-bd-imgshare-binded="1"></i>
+</a>
+<p class="socical_logo clearfix f-cb">
+<a alt="土木在线官方新浪微博" title="土木在线官方新浪微博" class="weibo" href="http://weibo.com/co188com" rel="nofollow">新浪微博</a>
+               	<a alt="土木在线官方QQ空间" title="土木在线官方QQ空间" class="qqzone" href="http://user.qzone.qq.com/302564209" rel="nofollow">QQ空间</a>
+                <a alt="土木在线官方微信" title="土木在线官方微信" class="weixin" rel="nofollow" href="http://www.co188.com/weixin/">微信</a>
+                <a alt="土木在线手机版" title="土木在线手机版" class="phone" rel="nofollow" 
+                href="http://m.co188.com/">手机版</a>
+   </p>
+   </p>
+</div>
+</div>
+<div class="clearfix f-cb" id="co_info">
+<div class="about_co">
+<p class="infos">
+<a href="http://help.co188.com/co188/about.html" rel="nofollow">关于我们</a>|
+<a rel="nofollow" href="http://help.co188.com/co188/contact.html/">联系我们</a>|
+<a rel="nofollow" href="http://help.co188.com/co188/legal.html/">网站声明</a>|
+<a href="http://help.co188.com/">帮助中心</a>|
+<a rel="nofollow" href="http://help.co188.com/co188/partners.html/">合作伙伴</a>|
+<a rel="nofollow" href="http://help.co188.com/co188/products.html/">产品服务</a>|
+<a rel="nofollow" href="http://job.co188.com/Company_41911.html">加入我们</a>|
+<a  href="http://www.co188.com/sitemap/">网站地图</a>
+</p>
+                        <!--<p class="copyright">Copyright&copy;2000-2015 co188.com ALL Rights Reserved.<a href="http://www.miibeian.gov.cn/state/outPortal/loginPortal.action;jsessionid=yhnjVdRb0JLgNBLBWR8v6Q3GlTXLBVll5sPCrvP4TyljRqj80M13!-680260113" target="_blank">苏ICP备05082515号-5</a></p>-->
+                        <p class="copyright">Copyright&copy;2000-2015 常州易宝网络服务有限公司版权所有&nbsp;&nbsp;<a href="http://www.miibeian.gov.cn/state/outPortal/loginPortal.action" target="_blank">苏ICP备05082515号-5</a></p>
+</div>
+<div class="co_img">
+<ul class="clearfix f-cb">
+<li>
+<a class="baojing" title="网上110报警" alt="网上110报警" data-bd-imgshare-binded="1" onclick="window.open('http://js.cyberpolice.cn/webpage/index.jsp');"></a>
+</li>
+<li>
+<a class="jubao" title="不良信息举报中心" alt="不良信息举报中心"  data-bd-imgshare-binded="1" onclick="window.open('http://www.12321.cn');"></a>
+</li>
+<li>
+<a class="yingye"  title="电子营业执照" alt="电子营业执照"  data-bd-imgshare-binded="1" onclick="window.open('http://www.jsgsj.gov.cn:60101/keyLicense/verifKey.jsp?serial=320000163820120830100000008962&amp;signData=ReL95aeynK4vF1ue7+SV/cOf1OUMKZXr5WOyq0snP0DilfP5WcGE1Et8G9MpJVwiStjgjC31H0YT/xMOgbkbjIqfqwzIOUZCoEO7g6VuQO+weUWFwef8qrPiNi/rj61QB4Uj/zzz1VN3ZilU70LyH5CSpWLMhdNW5JcyOxBDU7M=');"></a>
+</li>
+</ul>
+</div>
+</div> 
+</div>
+                                <!--</div>-->
+
+            <div id="g_upmine_menu" class="tip tip_3" style="display:none;">
+            <div class="tip_c">
+                积分 0, 距离下一级还需  积分
+            </div>
+            <div class="tip_horn"></div>
+        </div>
+        
+    
+        <script src="home.php?mod=misc&ac=sendmail&rand=1450677193" type="text/javascript"></script>
+    
+    <span id="scrolltop" onclick="window.scrollTo('0','0')">回顶部</span>
+<script type="text/javascript">_attachEvent(window, 'scroll', function(){showTopLink();});checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var discuzSId = '21408930';
+				var discuzVersion = 'X2.5';
+				var discuzRelease = '20140618';
+				var discuzApi = '0.6';
+				var discuzIsFounder = '';
+				var discuzFixbug = '32000000';
+				var discuzAdminId = '0';
+				var discuzOpenId = '';
+				var discuzUid = '0';
+				var discuzGroupId = '7';
+				var ts = '1450677193';
+				var sig = '6984cf9ee586518a9ab91da13e4a481f';
+				var discuzTipsCVersion = '2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script><script src="http://cache.co188.com/x2/static/js/nav.js?a3r" type="text/javascript"></script><script src="http://cache.co188.com/common/jquery.js?1444712202.62" type="text/javascript"></script>
+<script src="http://cache.co188.com/global/1211/global.js?1444712202.81" type="text/javascript"></script><script src="http://cache.co188.com/lib/jquery.cookie.js?a3r" type="text/javascript"></script>
+
+<script>
+function $(id) {
+    return !id ? null : document.getElementById(id);
+} 
+</script>
+                  <script src="http://cache.co188.com/bbs/201301/index/SlideTrans2.js?a3r" type="text/javascript"></script>
+                <script src="http://cache.co188.com/bbs/201301/ad/reply.js?a3r" type="text/javascript"></script>
+        <script src="http://cache.co188.com/popUI.js?a3r" type="text/javascript"></script>
+        <script>
+          if (head != undefined) {
+            head.showSearchOption(2191);
+          }
+        </script>
+  <script src="http://cache.co188.com/bbs/201301/thread.js?a3r" type="text/javascript"></script>
+<script src="http://cache.co188.com/bbs/201301/index/forum_fq_wdbk.js?a3r" type="text/javascript"></script>
+<script src="http://cache.co188.com/global/slider.js?a3r" type="text/javascript"></script>
+<script src="http://cache.co188.com/topic/2015/ganlanlv.js?a3r" type="text/javascript"></script><script src="http://cache.co188.com/share/jquery.qrcode.js?1444712203.62" type="text/javascript"></script>
+<script src="http://cache.co188.com/share/qrcode.js?1444712203.62" type="text/javascript"></script>
+<script>
+(function($){
+         jQuery('head').append('<link href="http://image.co188.com/share/share.css?1444712216.15" rel="stylesheet" type="text/css" />');
+         jQuery.getScript("http://cache.co188.com/share/share.js?1444712203.62");
+ })(jQuery);
+</script>
+<script>
+var _cof = {};
+var _cof_config = {};
+(function() {
+  var cof_tracker = document.createElement("script");
+  cof_tracker.src = "http://cache.co188.com/tracker/cof_tracker.js?1449454344.42";
+  var cof_scripts = document.getElementsByTagName("script");
+  var cof_last_script = cof_scripts[cof_scripts.length -1];
+  cof_last_script.parentNode.insertBefore(cof_tracker, cof_last_script);
+})();
+</script></body>
+</html>

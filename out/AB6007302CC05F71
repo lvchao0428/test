@@ -1,0 +1,18 @@
+<!--UINFO: http://istock.jrj.com.cn/article,600900,8716475,p1.html	length=358&last_modified=0&time_saved=1450676997&charset=GB2312-->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+</head>
+<body>
+<script language="javascript">
+	var url = "http://istock.jrj.com.cn/aigu/400.html";
+	//if(top){
+	//	top.location.href=url;
+	//}else if(parent){
+	//	parent.location.href=url;
+	//}else{
+		window.location.href=url;
+	//}
+</script>
+</body>
+</html>

@@ -1,0 +1,82 @@
+<!--UINFO: http://bbs.hers.com.cn/thread-62872653-1-1.html	length=5668&last_modified=0&time_saved=1450676873&charset=utf-8-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:wb="http://open.weibo.com/wb">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>提示信息_爱物论坛 </title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",爱物论坛" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://bbs.hers.com.cn/"/>
+<meta property="og:title" content="提示信息"/>
+<meta property="og:description" content="" />
+<base href="http://bbs.hers.com.cn/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?Kqm" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_viewthread.css?Kqm" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Kqm', charset = 'utf-8', discuz_uid = '0', cookiepre = 'sBRO_aabd_', cookiedomain = '.hers.com.cn', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|威望|,2|论坛金钱|,3|推广贡献|,4|魅力|,5|正能量|,6|建议奖励|,7|热心奖|,8|友情提醒奖|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5oZXJzLmNvbS5jbi90aHJlYWQtNjI4NzI2NTMtMS0xLmh0bWw=', SITEURL = 'http://bbs.hers.com.cn/', JSPATH = 'static/js/';</script>
+<script src="static/js/common.js?Kqm" type="text/javascript"></script>
+<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js?appkey=2531069770" type="text/javascript" type="text/javascript" charset="utf-8"></script>
+        <script src="http://l.tbcdn.cn/apps/top/x/sdk.js?appkey=12201548" type="text/javascript"></script>
+<!--meta name="msapplication-task" content="name=门户;action-uri=http://bbs.hers.com.cn/portal.php;icon-uri=http://bbs.hers.com.cn/static/image/common/portal.ico" /--><!--link rel="archives" title="爱物论坛" href="http://bbs.hers.com.cn/archiver/" /-->
+<script src="static/js/forum.js?Kqm" type="text/javascript"></script>
+<script src="static/js/jquery.js" type="text/javascript"></script>	
+<script src="static/js/common_header.js" type="text/javascript"></script>	
+</head>
+
+<body id="nv_forum" class=" pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+
+<div class="beitounone dn" style="margin:0 auto;width: 1000px;">
+<a href="http://www.aituan.com/at/common_activity/double11" target="_blank"><img src="http://bbs.hers.com.cn/data/attachment/common/cf/beitou_aiwu_20141110_big.jpg" id="ad" width="1000" alt="" /><img src="http://bbs.hers.com.cn/data/attachment/common/cf/beitou_aiwu_20141110_small.jpg" id="ad1" style="display:none;" width="1000" alt="" /></a>
+</div>
+
+<div class="bbs_header" id="bbs_headers">
+   
+   
+   <!--同步微贴-->
+   <!--同步微贴-->
+
+<div class="wp wp_wrap">
+<a href="http://www.hers.com.cn"><strong>Hers爱物网</strong></a>
+<ul id="bbs_nav">
+<li class="fst sgg"><a href="http://bbs.hers.com.cn/"><em>论坛</em></a></li>
+<li ><a href="shishang"> <em>时尚</em></a></li>
+<li ><a href="shenghuo"> <em>生活</em></a></li>
+<li ><a href="xiangle"> <em>享乐</em></a></li>
+<li ><a href="wanggou"> <em>淘宝@网购</em></a></li>			
+<li ><a href="tuan"> <em>团购</em></a></li>
+<li ><a href="puguangtai"> <em>曝光台</em></a></li>
+<li ><a href="huodong"> <em>活动区</em></a></li>
+<li class="lst "><a href="zhanwu"> <em>站务管理</em></a></li>
+</ul>
+	
+
+<div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank" class="z">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="42ca0847" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="0" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<!-- <table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="showmenu xg1 xs2" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2 xs2">搜索</strong></button></td>
+</tr>
+</table> -->
+<a href="search.php" class="bbs_search">搜索</a>  
+</form><!--#member.php?mod=logging&action=login&referer=http%3A%2F%2Fnewbbs.com%2Fmember.php#-->
+<a class=" z" onclick="showWindow('login', this.href);return false;" href="member.php?mod=logging&amp;action=login" rel="nofollow">登录</a><span class="z scbar_line"></span>
+<a href="member.php?mod=register" class="z" rel="nofollow">立即注册</a></div>
+<!-- <ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li></ul> -->
+<script type="text/javascript">
+//initSearchmenu('scbar', '');
+</script>
+</div>
+<div class="bbs_sub_nav">
+<div class="bbs_sub_nav_wrap wp">
+<ul id="bbs_sub_nav">
+<li style="left:60px;">
+<a href="shishang-xiuchang" ><em>秀场</em></a> <a href="http://beauty.hers.com.cn/app.html"><em>问答手机版</em></a> <a href="http://bbs.hers.com.cn/shishang-meilizhuangrong" ><em>妆容</em></a><a href="shishang-sennv" ><em>森女</em></a><a href="shishang-chaoren" ><em>潮人</em></a><a href="shishang-dapai" ><em>大牌</em></a><a href="shishang-jiepai" ><em>街拍</em></a>
+<span class="bbs_arrow"></span>
+</li>
+<li style="left:1

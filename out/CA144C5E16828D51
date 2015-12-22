@@ -1,0 +1,1623 @@
+<!--UINFO: http://bbs.news.163.com/bbs/shishi/582667038,1.html	length=151581&last_modified=0&time_saved=1450676869&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk"/>
+<meta http-equiv="pragma" content="no-cache" />
+
+
+<link rel="stylesheet" type="text/css" href="http://img1.cache.netease.com/bbs/static/20150917/form_tie.css" charset="GBK"/>
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="http://img1.cache.netease.com/bbs/static/20150917/tie_ie6.css" charset="GBK"/>
+<![endif]-->
+
+<title>无产阶级专政的迷思</title>
+<script type="text/javascript" src="http://img1.cache.netease.com/bbs/static/20150917/bbsntes_jslib.js" charset="GBK"></script>
+<script type="text/javascript" src="http://img1.cache.netease.com/bbs/static/20150917/jquery_bbs.js" charset="GBK"></script>
+</head>
+<body>
+   <iframe src="http://t.163.com/crossdomain.html" style="display:none;"  id="iframeProxy"></iframe>
+<link type="text/css" rel="stylesheet" media="screen" href="http://img1.cache.netease.com/common/css/common_nav_v1.0.1.css" />
+<style>.NTES-nav {width: auto; margin-left: 5px;}</style>
+<div class="NTES-nav">
+    <span class="nav-link"><a href="http://www.163.com/">网易首页</a>-<a href="http://news.163.com/">新闻</a>-<a href="http://sports.163.com/">体育</a>-<a href="http://sports.163.com/nba/">NBA</a>-<a href="http://ent.163.com/">娱乐</a>-<a href="http://money.163.com/">财经</a>-<a href="http://money.163.com/stock/">股票</a>-<a href="http://auto.163.com/" id="_link_auto">汽车</a>-<a href="http://tech.163.com/">科技</a>-<a href="http://mobile.163.com/">手机</a>-<a href="http://lady.163.com/">女人</a>-<a href="http://bbs.163.com/">论坛</a>-<a href="http://v.163.com/">视频</a>-<a href="http://blog.163.com/">博客</a>-<a href="http://house.163.com/" id="houseUrl">房产</a>-<a id="homeUrl" href="http://home.163.com/">家居</a>-<a href="http://edu.163.com/">教育</a>-<a href="http://book.163.com/">读书</a>-<a href="http://game.163.com/" id="_link_game">游戏</a>-<a href="http://www.lofter.com/?act=qb163rk_20141031_05" target="_blank">LOFTER</a> |</span>
+    <div class="rightCon">
+        <div class="NTES-link">
+            <a href="http://email.163.com/" class="cBlue">免费邮箱</a> - <a href="http://reg.163.com/" class="cBlue">通行证登录</a>
+        </div>
+        <a href="http://www.163.com/rss"><img width="26" height="14" border="0" src="http://img3.cache.netease.com/cnews/img07/rss.gif" class="rss" alt="Rss"></a>
+    </div>
+</div>
+<script type="text/javascript">
+    //<![CDATA[
+    NTES.ready( function($){
+        var P_INFO = NTES.cookie.get("P_INFO");
+        var S_INFO = NTES.cookie.get("S_INFO");
+        if(P_INFO){
+            var mailconfig = {
+                "163.com":"http://entry.mail.163.com/coremail/fcg/ntesdoor2?verifycookie=1&lightweight=1",
+                "126.com" : "http://entry.mail.126.com/cgi/ntesdoor?verifycookie=1&lightweight=1&style=-1",
+                "vip.126.com" : "http://reg.vip.126.com/enterMail.m",
+                "yeah.net" : "http://entry.yeah.net/cgi/ntesdoor?verifycookie=1&lightweight=1&style=-1",
+                "188" : "http://reg.mail.188.com/servlet/enter",
+                "vip.163.com" : "http://reg.vip.163.com/enterMail.m?enterVip=true-----------"
+            };
+            var passport =  P_INFO.substr(0, P_INFO.indexOf("|"));
+            var username =  passport.substr(0, P_INFO.indexOf("@"));
+            var logstate = P_INFO.split("|")[2];
+            var logiframe = "";
+            var pspt = passport.length >= 6 ? passport.substr(0,6)+"..." : passport;
+            /@([^*]+)/.test(passport);
+            var logdomain = RegExp.$1;
+            if(P_INFO && S_INFO || logstate=="1") {
+                var entrylink_html = '<a href=\"http://reg.163.com/Main.jsp?username='+passport+'\">进入通行证</a>';
+                if(mailconfig[logdomain] != undefined) {
+                    entrylink_html += '<a href=\"'+mailconfig[logdomain]+'\">进入我的邮箱</a>';
+                }
+                if(logdomain == "popo.163.com" || mailconfig[logdomain] != undefined) {
+                    entrylink_html += '<a href="http://blog.163.com/passportIn.do?entry=163">进入我的博客</a><a href="http://photo.163.com/?username='+passport+'\">进入我的相册</a>';
+                }
+                entrylink_html += '<a href="http://yuehui.163.com/">进入我的约会</a><a href="http://t.163.com">进入我的微博</a>';
+                if(logdomain == "163.com" || logdomain == "126.com" || logdomain == "yeah.net") {
+                    logiframe = '<iframe allowTransparency=\"true\" style=\"width: 56px; height:26px; float:left; vertical-align: middle;\" id=\"ifrmNtesMailInfo\" border=\"0\" src=\"http://p.mail.'+logdomain+'/mailinfo/shownewmsg_www_1222.htm\" frameBorder=\"0\" scrolling=\"no\"></iframe>';
+                }
+                var login_html = '<div class=\"ntes-usercenter\"><div class=\"ntes-usercenter-logined\"><strong id=\"ntes_usercenter_name\" class=\"ntes-usercenter-name\" title=\"欢迎你，'+passport+'\">'+pspt+'</strong></div><div id=\"ntes_usercenter_entry\" class=\"ntes-usercenter-entry\"><span class=\"user-entry\">'+entrylink_html+'</span></div></div>'+logiframe+'|<a class=\"ntes-usercenter-loginout\" href=\"http://reg.163.com/Logout.jsp?username='+passport+'\" target=\"_self\">退出</a></div>';
+                NTES(".NTES-link")[0].innerHTML = login_html;
+
+                NTES("#ntes_usercenter_name").addEvent("click", function(e){
+                    NTES("#ntes_usercenter_entry").style.display = NTES("#ntes_usercenter_entry").style.display == "block" ? "none" : "block";
+                    e.preventDefault();
+                    e.cancelBubble = true;
+                    document.onclick = function(){
+                        NTES("#ntes_usercenter_entry").style.display = "none";
+                    }
+                })
+            };
+        }
+    })
+    //]]>
+    NTES.retire();
+</script>
+    <div id="topNav">
+                    <input type="hidden" name="boardid" id="boardid" value="shishi"/>
+                <input type="hidden" name="boardname" id="boardname" value="时事论坛"/>
+                    <input type="hidden" name="threadId" id="threadId" value="582667038"/>
+                <input type="hidden" name="channel" id="channel" value="news"/>
+
+        <input type="hidden" value="2" id="list_page_num">
+        <div class="nav-bar">
+            <a href="http://bbs.163.com" class="logo"></a>
+            <a href="http://www.163.com">网易首页</a> &gt;
+            <a href="http://news.163.com/">网易新闻</a> &gt;
+            <a href="http://bbs.news.163.com">网易新闻论坛</a> &gt;
+			            <a href="http://bbs.news.163.com/boardset/shishi.html">时事论坛</a>
+        </div>
+        <div class="nav-info" style="display:none;">
+            <a href="http://bbs.163.com/user/personalCenter.do" class="info-username" target="_blank"></a>
+    		<a href="#" class="info-mark info-sign">签到</a> |
+            <table class="info-manage" cellspacing="0" cellpadding="0" border="0">
+            <tr><td valign="middle">
+                <div class="dd-window dd-window-expand1">
+    			    <a href="http://bbs.163.com/user/personalCenter.do" target="_blank">我的管理中心</a>
+    				<em class="icon-arrow-up"></em>
+                    <div class="board-menu">
+                        <div class="board-menu-connect"></div>
+                        <div class="board-menu-container">
+                            <div class="board-menu-nav">
+                              	  个人管理 &gt;
+                            </div>
+                            <ul class="board-menu-sub-nav">
+                                <li><a target="_blank" href="http://bbs.163.com/user/personalCenter.do">管理中心</a></li>
+                                <li><a target="_blank" href="http://bbs.163.com/user/gift/newUserTask.do">新手任务</a></li>
+                                <li><a target="_blank" href="http://bbs.163.com/user/gift/giftShop.do">礼物商店</a></li>
+                                <li><a target="_blank" href="http://bbs.163.com/user/upgrade.do">升级中心</a></li>
+                            </ul>
+                        </div>
+                        <div class="board-menu-container last">
+                            <div class="board-menu-nav">
+                                个人收藏 &gt;
+                            </div>
+                            <ul class="board-menu-sub-nav like-list">
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </td></tr>
+            </table> |
+            <!--<a href="http://t.163.com/?f=bbsnav" class="info-weibo">我的网易微博</a>(<span class="red weibo-count">99+</span>) |-->
+            <a href="http://www.lofter.com/entry?act=qb163rk_20141031_05&logined=true" target="_blank">我的LOFTER</a><span class="js-lofter-sec">(<span class="red lofter-count">99+</span>)</span> |
+            <div class="info-message-box">
+                <div class="dd-window dd-window-expand1">
+                    <a href="http://bbs.163.com/user/msg.do?msgType=2">消息中心</a>(<span class="red message-count">6</span>)
+    				<em class="icon-arrow-up"></em>
+                    <ul class="info-message-box-list">
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=2">用户消息 <span class="em">2</span></a>
+                        </li>
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=1">评论消息 <span class="em">2</span></a>
+                        </li>
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=0">系统消息 <span class="em">2</span></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="message_alert_box">
+                    <span class="message_arrow"></span>
+                    <a class="message_alert_btn" href="">X</a>
+                    <ul class="message_alert_list">
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=2">用户消息 <span class="em">0</span></a>
+                        </li>
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=1">评论消息 <span class="em">0</span></a>
+                        </li>
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=0">系统消息 <span class="em">0</span></a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div> |
+            <a href="/bbs/user/logout.jsp">退出</a> |
+            <a href="/list/tyro.html" id="forumhelp">帮助</a>
+            <a href="http://help.3g.163.com/bbs/">手机版</a>
+        </div>
+        <div class="nav-login">
+            [<a href="#" class='login-button'>登录</a>]
+            <a href="#" class="info-mark info-sign">签到</a>  |
+            <a  href="/list/tyro.html" >帮助</a> |
+            <a href="http://help.3g.163.com/bbs/">手机版</a>
+        </div>
+    </div>
+ <input type="hidden" value="无产阶级专政的迷思" id="threadTitle"/>
+ <input type="hidden" value="aahwdl" id="authorEmail"/>
+<div id="tie_bd">
+    <div id="tie_wrapper">
+        <div class="tie-tab-bottom-nav">
+            <a class="tile-tab-nav-back" title="返回版面 时事论坛" href="/boardset/shishi.html">&lt;&lt;返回时事论坛</a>
+            <div class="tie-write">
+                <div class="dd-window">
+                    <a class="top" href="/post/shishi/publish/common-">发 帖</a>
+                    <ul class="tie-menu">
+                        <li><a href="/post/shishi/publish/common-">新帖子</a></li>
+                        <li class="pos-rel"><a href="/post/shishi/publish/album-">新图集</a><em class="pos-abs new-icon"></em></li>
+                        <li><a href="/post/shishi/publish/ask-">新问答</a></li>
+                        <li><a href="/post/shishi/publish/debate-">新辩论</a></li>
+                        <li class="noBg"><a href="/post/shishi/publish/vote-">新投票</a></li>
+                    </ul>
+                </div>
+            </div>
+			            <div class="tie-page">
+                共 <span class="red">999</span> 浏览 <span class="red">0</span> 回帖&nbsp;&nbsp;
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                
+                                                                        
+                
+        
+
+            
+            
+            
+            
+
+                                            </div>
+        </div>
+
+            <div class="tie-item tie-first-item">
+            <div class="tie-author">
+               <div class="tie-author-column">
+                   <a title="aahwdl" target="_blank" href="http://bbs.163.com/user/aahwdl">
+                        <img width="100" alt="aahwdl" src="http://image.bbs.163.com/face/aahwdl" />
+                   </a>
+                   <span class="info-name" title="aahwdl">
+                       <em class="icon_transparent_people"></em>
+					   																						                       <a target="_blank" href="http://bbs.163.com/user/aahwdl" class="js-tieauthor">aahwdl</a>
+
+								
+						                   </span>
+                   <a class="info-message" title="给 aahwdl 发送消息" href="javascript:;" passport="0jA9R" nickname="aahwdl">
+                      <span class="info-act-wraper">  
+                        <em class="icon_transparent_message"></em>发送消息
+                       </span>
+                   </a>
+                   <!--a href="javascript:;" target="_blank"  name="aahwdl" title="aahwdl 的微博" class="info-weibo js-info-weibo">
+                       <span class="info-act-wraper">
+                         <em class="icon_transparent_weibo"></em>TA的微博
+                       </span>
+                   </a-->
+                                      <a href="http://aahwdl.lofter.com?act=qb163rk_20141107_01" target="_blank"  title="aahwdl 的LOFTER" title="LOFTER" class="info-lofter">
+                       <span class="info-act-wraper">
+                         <em class="icon_transparent_lofter"></em>他的LOFTER
+                       </span>
+                   </a>
+                                      <div class="info-collection">
+                        <div class="info-class"><span class="info-class-title">等级:</span>
+                        <!-- 等级图标-->
+                             <div class="info-class-bar">
+                                <img src="http://img2.cache.netease.com/utf8/bbs/image/star_3.jpg" alt="花" title="等级:4"  /><img src="http://img2.cache.netease.com/utf8/bbs/image/star_1.jpg" alt="叶" title="等级:4"  /><img src="http://img2.cache.netease.com/utf8/bbs/image/star_1.jpg" alt="叶" title="等级:4"  />
+                             </div>
+                        </div>
+                        <p>积分: 162  </p>
+														<p>发帖: 215 篇</p>
+						                   
+                        <p>在线时长: 155 小时</p>
+                        
+                   </div>
+               </div>
+            </div>
+            <div class="tie-con">
+                <div class="tie-con-hd ">
+                    <div class="tie-con-hd-panel ">
+                                                	                        		<a href="/thread/shishi-582667038-1|0jA9R.html">只看楼主</a>
+                        	                                                <span class="time" id="floor-$item.floor">楼主 &nbsp;&nbsp; 2015-10-13 11:03:01</span>
+                         <a name="1" href="javascript:;" class="report-whistle btn-dialog js-report" title="举报" action="report" data='{"boardId":"shishi","threadId":582667038 }'>举报</a>
+                                                <div class="board-manage">
+                            <div class="dd-window js-dd-wraper">
+                                管理<em class="icon-arrow-up"></em>
+                                <ul class="board-menu">
+                                    <script type="text/template" class="js-postTemp">
+                                      <%for(var i=0;i<list.length;i++){%>
+                                                                                            <%if(list[i].opId=="top"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="topThread" title="置顶" data='{"boardId":"shishi","threadId":"582667038"}'>置顶</a></li>
+                                                <%}else if(list[i].opId=="push"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="topallThread" title="总置顶" data='{"boardId":"shishi","threadId":"582667038"}'>总置顶</a></li>
+                                                <%}else if(list[i].opId=="elite"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="eliteThread" title="精华" data='{"boardId":"shishi","threadId":"582667038"}'>精华</a></li>
+                                                <%}else if(list[i].opId=="commend"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="recommendThread" title="推荐"  data='{"boardId":"shishi","threadId":"582667038"}'>推荐</a></li>
+                                                <%}else if(list[i].opId=="relative"){%>
+                                                <li class="gt-master"><a href="/bbs/about.jsp?boardid=shishi&threadid=582667038" action="related" title="相关">相关</a></li>
+                                                <%}else if(list[i].opId=="move"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="moveThread" title="迁移" data='{"boardId":"shishi","threadId":"582667038"}'>迁移</a></li>
+                                                <%}else if(list[i].opId=="lock"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="lockThread" title="锁定" data='{"boardId":"shishi","threadId":"582667038"}'>加锁</a></li>
+                                                <%}else if(list[i].opId=="forbidden"){%>
+                                                <li class="gt-editor"><a href="javascript:;" class="btn-dialog" action="limitThread" title="限制" data='{"boardId":"shishi","threadId":"582667038"}'>限制</a></li>
+                                                <%}else if(list[i].opId=="down"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="downThread" title="下沉" data='{"boardId":"shishi","threadId":"582667038"}'>下沉</a></li>
+                                                <%}%>
+                                                                                                                                           <%if(list[i].opId=="modify"){%>
+                                                <li class="gt-editor"><a href="/post/shishi/publish/common-582667038" title="修改">修改</a></li>
+                                                <%}%>
+                                                                                                <%if(list[i].opId=="delete"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="deleteThread" title="删除" data='{"boardId":"shishi","threadId":"582667038" ,"isMain":1 ,"floor":""}' title="删除">删除</a></li>
+                                                <%}else if(list[i].opId=="black"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="addBlackList" title="加黑"  data='{"boardId":"shishi","threadId":"582667038" ,"isMain":1 ,"passport":"aahwdl","nickname":"aahwdl","userId":"0jA9R"}'>加黑</a></li>
+                                                <%}else if(list[i].opId=="iplimit"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="addIpLimit" title="IP限制"  data='{"boardId":"shishi","threadId":"582667038" ,"isMain":1 ,"nickname":"aahwdl","userId":"0jA9R"}'>IP</a></li>
+                                                <%}else if(list[i].opId=="enjoin"){%>
+                                                                                                 <%}%>
+
+                                     <%}%>
+                                    </script>
+                                </ul>
+                            </div>
+                        </div>
+                                                <em class="icon_manange_print"></em>
+                        <a href="/bbs2009/printArticle.jsp?boardid=shishi&articleid=582667038" class="button-print">打印</a>
+                                            </div>
+                                        <h2 class="tie-con-hd-title js-tietitle" style="color:#333;">无产阶级专政的迷思</h2>
+                                    </div>
+                <div class="tie-con-bd">
+                                                                                    <div class="tie-content">
+                        <p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;"><br /></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">无产阶级专政的迷思</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">&nbsp;&nbsp;</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">韦大林</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">&nbsp;</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">环球时报的文章说</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">宪政</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">“</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">在中国落不了地，更生不了根</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">。</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">在反宪政的人们看来，能够在中国落地生根的只能是无产阶级专政，或者叫人民民主专政。杨晓青教授就认为：“</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">毛泽东结合中国国情命名的人民民主专政即实质上的无产阶级专政，是一个科学的概念，是马列主义的精髓。</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">……</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">巴黎公社是最早的无产阶级专政的政权</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”。巴黎公社式的无产阶级专政（这可是正宗的“西方”政治制度）真的在中国落地生根了吗？</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">&nbsp;</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">一、实行市场经济就不可能有无产阶级专政</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">马克思在《资本论》中证明，资本家剥削工人依靠的是雇佣劳动制，而雇佣劳动制产生于使劳动力成为商品的市场经济。马克思由此建立了无产阶级革命和无产阶级专政的学说。根据马克思主义的理论，搞计划经济还是市场经济，是判定社会主义还是资本主义的根本标志。无产阶级专政的主要功能是：一、镇压资产阶级和其他剥削阶级的反抗，铲除产生雇佣劳动制的私有制以及市场经济，防止资本主义复辟；二、由国家占有全部生产资料，实行公有制和按劳分配的计划经济；三、逐步向无阶级、无国家（包括无产阶级专政）和各尽所能、按需分配的共产主义社会过渡。其中，消灭产生雇佣劳动制的市场经济是首要功能。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">也正是依据马克思反市场经济的理论，毛泽东才照搬苏联模式，推行消灭资本主义和市场经济的“一化三改造”，搞计划经济、命令经济，搞人民公社和防止资本主义复辟的“文革”。杨晓青的文章，不顾具体历史条件大量引用马克思、恩格斯、列宁和毛泽东的话来证明宪政是多么虚伪有害，万不可在中国实行。但是同样地，想用马克思、列宁、毛泽东的话来证明市场经济有害，也可以轻松找出超过他们反宪政十倍的话来。要肯定邓小平以市场经济为核心的改革开放路线，就必须否定计划经济的一套理论和实践。反过来，要坚持以马列主义、毛泽东思想为指导，坚持无产阶级专政和社会主义道路，就必须否定市场经济和改革开放。没有中间道路可走。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">无论杨晓青怎样辩解，说什么市场经济只是资本主义“</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">非关键性的制度元素和理念</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">，</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">中国的市场经济是以公有制为主体的等等，市场经济产权明晰、等价交换、平等竞争、优胜劣汰的规则都是不可改变的。市场经济交换和竞争的原则，必然要求财产私有化，必然导致劳动力成为商品并产生雇佣劳动制。保护市场经济必然要保护市场优胜者即企业家（其实就是资产阶级）。世界上有一种保护资产阶级（企业家）的无产阶级专政吗？</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">防止出现雇佣劳动制的公有制和计划经济如同无产阶级专政的</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">CPU</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">，把苹果电脑的</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">CPU</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">换了，对你说它只是“非关键性元素”，还按电脑的原价卖给你，你愿意接受吗？中国的权力与资本、官与商早已勾结在一起了，中国的亿万富豪绝大多数都是有权力背景的中央高干子弟，中国的贫富差距也早已超过了被杨晓青称之为资本主义的西方国家。经济基础决定上层建筑是马克思主义的基本原理，中国实行了市场经济，雇佣劳动制和血汗企业遍布全国城乡，还可能有马克思主义的无产阶级专政和社会主义道路吗？还有必要立一块无产阶级的贞洁牌坊吗？一个“中国特色”掩盖不了问题的实质。毛泽东要是活着，一定会说：“什么中国特色，明明是搞资本主义、修正主义嘛！”在中国“落地生根”的显然已不是什么无产阶级专政。反对宪政的人也根本不是要反对资产阶级专政，坚持无产阶级专政，而是要反对落实宪法，反对公民依法监督、限制权力，以便于他们推行权力与资本相联合、官与商相勾结的权贵资本主义和封建资本主义。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">环球时报的文章说什么：“</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">想引中国走另一条路，整个西方世界加起来也没有这个力量，国内少数有不同意见的人更不行</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">。</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">这话的意思是说，走民主宪政道路是“西方世界”的阴谋，中国也只有“少数人”想走这条路，咱家主人手上有枪，谁也不怕。环球时报恰好说反了，民主宪政是“共和国”的题中应有之义，是市场经济的内在要求，是民主政治的必然结果。民主宪政还承载着十分厚重的历史内涵，是康有为、梁启超、谭嗣同、秋瑾、章太炎、孙中山、宋教仁、蔡锷等仁人志士和不愿忍受专制统治的绝大多数中国人夙夜以求，不断为之奋斗的一条路，是毛泽东、刘少奇、周恩来等中国共产党人一再承诺要走的一条路，也是唯一能够使中国摆脱专制统治，走向富强、民主、文明的一条路。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">走民主宪政道路是中国人民自己的理性选择，与“西方世界”何干。“西方世界”嘴上说让你搞民主宪政，你可别自作多情，那是在逗你玩呢。中国目前没有宪政保障的“低人权状况”十分符合西方国际资本的利益，他们尽可以廉价地利用中国的环境、资源和劳力，赚取超额利润，这才是他们真正想要的。环球时报蛮横的语气反映出的是权贵集团的顽固和盲目自信。</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">&nbsp;</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">二、中国实行了“巴黎公社原则”吗？</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">恩格斯</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">曾说</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">：</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">“你想知道无产阶级专政是什么样子吗？请看巴黎公社。这就是无产阶级专政”。“巴黎公社原则”就是无产阶级专政的原则。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">什么是“巴黎公社原则”？巴黎公社作为一种国家形态，构建其国家权力组织的方法和原则就是“巴黎公社原则”。&nbsp;</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">人的本能中有自利性和社会性两个方面，自利性使人追求个体利益和个人自由，社会性产生出公共利益和权力。个体的利益和自由离不开公共权力对公共利益的组织实施和保障，例如，建造大型水利工程，维护社会安全和秩序，提供社会救助和福利等等，都离不开政府、军队、警察、法院等公共权力。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">但是，公共权力即国家权力都是由具体的人来掌握和执行的。人的自利性使人在掌握了国家权力又不受约束时，一定会利用权力谋取自己的私利，侵害民众和社会的利益，并千方百计地把国家权力化为私有，变成一种独占独享、可以世袭的专制权力和绝对权力。权力的蜕变和堕落是源于人的自利本性，与人的阶级性无关，与经济上的私有制还是公有制无关，与社会主义还是资本主义也无关，只与权力本身是私有还是公有有关。国家权力一旦私有化（成为家族、党派的私产），就必然会专制化、官僚化、权贵化，由社会的仆人转变为社会的主人，成为高居于社会之上，压迫榨取整个社会的“祸害”。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">马克思、恩格斯和潘恩都曾指出专制国家是一种“祸害”，但他们对于如何消除国家“祸害”却提出了完全不同的解决方案。潘恩一派主张用立宪和分权制衡的方法，限制规范权力，使权力公开化、透明化、公有化，使权力服从于公民的监督和社会的控制，恢复权力公共性的本来面貌，这就是民主宪政的解决方案。马恩主张用专权的方法，砸烂旧的国家机器，把权力集中在无产阶级及其政党的手中，实行无产阶级专政，同时采取某些“民主”的措施，防止公务人员“由社会公仆变为社会主人”，最后在经济公有制的基础上“</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">把这国家废物全部抛掉</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”，这就是无产阶级专政的解决方案。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">宪政和专政都有民主的要求，但两者的内涵是不同的：宪政民主是宪法和法律至上，打破阶级局限的全民民主、公民民主，宪政民主实现了国家权力的公有制，大大限制缩小了国家“祸害”；专政民主是以阶级斗争、阶级歧视和阶级压迫为前提，必须保证无产阶级及其政党绝对领导权的阶级民主、政党民主和领袖民主，专政必先专权，专政民主必然否定民主，最终走向政党和领袖的专制独裁，形成党派垄断的权力私有制国家。本想消除国家“祸害”的无产阶级专政却成了一种更大的新型的国家“祸害”。斯大林时期的苏联和毛泽东时期的中国，都见证了这种“祸害”。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">巴黎公社是无产阶级专政理论的第一次尝试。巴黎公社作为官僚军事帝国的对立物，作为一种新型的无产阶级专政的国家形态，其构建权力组织的主要方法和原则是：（一）砸烂旧的国家机器，</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">取消常备军、职业警察和职业官吏</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">；（二）实行普选制，把</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">行政、司法和国民教育方面的一切职位交给由普选选出的人担任，而且规定选举者可以随时撤换被选举者</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">；（三）实行低薪制，</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">对所有公职人员，不论职位高低，都只付给跟其他工人同样的工资</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">，</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">防止人们去追求升官发财</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">；（四）实行议行合一的集权制。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">尽管巴黎公社进行了普遍、平等、自由的选举，甚至还把资产阶级分子选为公社委员；尽管马克思肯定了巴黎公社的普选制，说过：“</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">如果用等级授职制去代替普选制，那是最违背公社精神不过的</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”，而且还认为巴黎公社是一种“取代阶级统治”的“社会共和国”。但马克思最终认为：“</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">公社的真正秘密就在于：它实质上是工人阶级的政府，是生产者阶级同占有者阶级斗争的产物，是终于发现的可以使劳动在经济上获得解放的政治形式</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">。</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">也就是说，巴黎公社的民主选举必须保证无产阶级及其政党的绝对领导权。如果在选举之前就已经确定了选举的结果，这样的“选举”还能叫选举吗？这样的选举不啻是对“民主”最无情的嘲笑和玩弄。确保阶级专政、政党专政和领袖专政的绝对权力，这才是“巴黎公社原则”的核心。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">前苏联、中国、越南和朝鲜都是所谓“无产阶级专政”的国家，为什么在这些国家，巴黎公社的原则除了“议行合一”的集权制（一党制）得到实行，其他带有民主性的原则都付之阙如呢？原因是明摆着的：如果取消了</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">常备军、职业警察和职业官吏</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">，靠什么来维持党和领袖的专政？如果实行了真正的普选制，党和领袖选不上怎么办，如何保证党和领袖的绝对领导权？实行低薪制吗？你以为手握大权的党的官员们个个都是六根清净、吃斋念佛的主吗？他们也一样是惦记着“升官发财”的。一句话说完，任何民主的原则、共和的原则，都是与权力私有、专权自利的专政体制格格不入的。接纳了“专政”就必须放弃“民主”与“共和”。&nbsp;</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">专政排斥民主的观点首先来自于马克思和恩格斯。德国工人党在其党纲中提出，要建立以普选、人民立法、言论和结社自由为基础的民主自由的“人民国家”。马克思和恩格斯给予了严厉的斥责和批判。马克思在《哥达纲领批判》中把这些民主要求斥之为“民主主义的陈词滥调，……纯粹是资产阶级的人民党、和平和自由同盟的回声”。恩格斯则说：“当无产阶级还需要国家的时候，它需要国家不是为了自由，而是为了镇压自己的敌人，一到有可能谈自由的时候，国家本身就不存在了”。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">马恩认为，在无产阶级专政期间，没有民主自由可言，只有在国家消亡之后的共产主义社会，才可能实现彻底的真正的民主自由。可见，专政与民主如同水火不能并存，毛泽东的“人民民主专政”的提法本身就是违背马克思主义的。专政之下可能有打击迫害，可能有冤假错案，可能有贪污腐败，可能有等级特权，可能有奴才犬儒，……但不可能有“人民民主”。专政下的“民主”与刺刀下的“自由”同样都是一种欺骗和谎言。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">西方的“巴黎公社原则”即无产阶级专政原则，经过前苏联传入中国，“落地生根”的只剩下了党权专制统治。指望通过专政来实现杨晓青所说的“人民民主”只能是一种缘木求鱼的幻想。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">&nbsp;</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">三、无产阶级专政的理论是如何失误的？</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">马克思和恩格斯的确十分看重无产阶级专政，列宁说：“只有承认阶级斗争、同时也承认无产阶级专政的人，才是马克思主义者。”也绝非虚言。但是，正如陈独秀晚年所指出的，由于苏联的无产阶级专政“党外无党，党内无派，不容许思想、出版、罢工、选举之自由”，无产阶级专政就必然会蜕变成个人独裁统治，因为“所谓‘无产阶级独裁’，根本没有这样东西，即党的独裁，结果也只能是‘领袖独裁’，任何独裁制度和残暴、蒙蔽、欺骗、贪污、腐化的官僚政治是不能分离的”。无产阶级专政实际上变成了“比中世纪的宗教法庭还要黑暗的”的法西斯专政。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">列宁说过，马克思和恩格斯“都是由民主主义者变成社会主义者的，所以他们仇恨政治专横的民主情感非常强烈”。“人的自由而全面的发展”、“自由人的联合体”等理念是贯穿于马克思主义理论的一条红线。马克思提出具有独裁倾向的无产阶级专政的理论，与马克思历史观的缺陷有关，与马克思对资本主义判断的失误有关，也与当时欧洲和德国的历史条件有关。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">马克思的历史观认为，人类历史是生产力与生产关系矛盾运动和阶级斗争的历史，阶级斗争推动生产关系的变革，促进生产力的发展。人类社会的剥削、压迫，人的私心和一切人性之恶，都是源于私有制；一切经济、政治上的不平等都是源于产生于私有制的阶级的不平等。要消除人的私心和一切人间罪恶，建立没有人剥削人、人压迫人，实现人的彻底自由解放的唯一途径就是消灭私有制和阶级。国家是阶级压迫的工具，阶级消灭了，国家也就随之消亡了。没有私有制、没有阶级和国家，因而也没有剥削和压迫的社会，就是马克思为人类设计规划的，能够使人类获得彻底解放的共产主义社会。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">任何才能实现共产主义？马克思认为，私有制和阶级的产生与生产力的发展程度密切相关，而生产力受制于生产关系，变革生产关系的阶级斗争就成为社会进步的关键。阶级斗争是根本对立的利益斗争，没有调和的可能，总是充满了血腥和暴力。资本主义推动生产力迅猛发展，使生产成为一种社会化的大生产，同时，资本家以雇佣劳动的方式剥削占有工人阶级的剩余价值。生产力的社会化，要求生产关系的社会化，资本主义已陷入了社会化大生产与生产资料私人占有之间不可克服的矛盾。这种矛盾表现为无产阶级与资产阶级之间的阶级斗争。无产阶级必须通过暴力革命推翻资产阶级的国家，建立无产阶级专政，镇压资产阶级的反抗，消灭资本主义的私有制和雇佣劳动制，实行公有制和计划经济。经过无产阶级专政的短暂过渡，最后进入彻底消灭私有制和阶级的共产主义社会。&nbsp;</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">马克思理论的基础与核心是，生产力是社会中决定一切的因素，生产力不同的发展程度决定着不同的社会和国家形态，并通过生产关系决定着人的阶级性和人的本质。马克思主义的理论就是以生产力为逻辑起点建立起来的十分严密的逻辑系统。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">哥德尔定理指出，真大于证明，任何逻辑系统都是不完备的，在系统中都存在着系统本身无法证明的命题。马克思主义的理论是否有其自身不能证明的命题呢？有，恰恰就是作为逻辑起点的“生产力决定一切”的命题。马克思理论的全部结论，都是从生产力的决定性作用推导出来的。但是，马克思的理论却不能令人信服地说明，为什么生产力能够具有决定性作用。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">如果生产力是决定一切的，生产力本身是从何而来的呢？如果生产力决定一切，人类起源于动物，动物只有本能，没有使用工具创造财富的生产力，动物将永远不可能进化成人类。如果生产力通过生产关系决定人的本性，原始社会的公有制形成无私的人性，后来财富有了剩余，没有私心的人们谁也不会去贪占剩余财富，就不可能出现私有制和阶级。掌握公共权力的氏族、部落首领也不会把权力据为己有，形成家族垄断的专制王权。在奴隶制社会，奴隶是受压迫的，但是奴隶地位是由于生产力低下而形成的，奴隶地位决定奴隶本性，奴隶应当甘愿当奴隶，怎么还会有斯巴达克斯的起义呢？&nbsp;</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">下面对马克思主义关于生产力、生产关系和阶级斗争的几个典型观点作一些简要解析：</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">（一）社会化的生产力必须实行公有制，共产主义社会是取消阶级和国家，“各尽所能、按需分配”的社会。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">——公有制就是财产不分你的我的，即没有明晰的产权。产权是一种经济社会发展的激励和约束机制，也是一种“利益责任”机制，没有产权当然就没有发展的动力和盈亏责任，也没有必要进行等价交换和成本核算，没有交换也就不可能有在优胜劣汰中自然形成的生产分工。这种没有产权，没有分工，也没有交换与核算的生产必定是管理混乱、浪费惊人、没有效率的生产，必然导致社会财富的普遍匮乏，如何能够做到“各尽所能、按需分配”？</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">社会化的大生产必定是一种市场化的资源流动、分工细密、产权明晰、核算精确、管理有序、优胜劣汰的生产，与之相联系的也必定是一个利益关系十分复杂的社会。有分工就会有不同的利益部门和阶级；有产权、有管理就会有资本的投资和运营，就会有企业家即资产阶级；管理一个复杂的社会也需要独立专职的权力部门即国家。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">现代社会通过国家宏观调控以及企业联盟（托拉斯、跨国公司等）合理地安排生产，防止发生经济危机，同时反对滥用垄断地位（《反垄断法》），保护消费者权益，促进企业平等竞争。通过股份制、扩大中产阶级、增加就业、提高工资福利、提供社会保障以及立法、谈判、税收调节等方式缩小贫富差距，限制资本恶性扩张，化解阶级矛盾和社会矛盾，实现劳资合作共赢、社会多元共存。通过民主监督、分权制衡的宪政方式使国家成为服务型的公共权力。产权（私有制）、资本、阶级和国家符合人的本性（自利性与社会性），是现代经济和社会存在、发展的必要条件。对产权、资本、阶级和国家可以用经济和法制等手段遏制其有害的一面，完全取消它们意味着现代经济和社会的崩溃，显然只是一种空想。鞋重要的是合不合脚，而不是姓资还是姓社。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">公有制的形式通常是国有制，无产阶级专政的绝对权力使国有制成为实际上的“官有制”，如何才能保证其公有性？国家控制了民众的一切生产和生活资料，就会形成民众对国家权力和官员的绝对服从和依附，如何才能避免“</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">使劳动在经济上获得解放的政治形式</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”蜕变成“国家奴隶制”？对奴隶的占有产生出奴隶主阶级，对土地的占有产生出地主阶级，对资本的占有产生出资产阶级。打算消灭一切阶级的无产阶级及其政党，由于对权力的独占却产生出一种新型的官僚权贵阶级。官僚权贵阶级凭借的不是生产资料而是国家权力，压榨盘剥的对象不是某一个阶级，而是整个社会。这大概是马克思当初没有想到的吧。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">（二）在资本主义社会工人阶级一无所有，“无产”的阶级地位决定其“无私”的阶级性。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">——无私的人不会去追求财富，何必要痛恨资本家有财产，何必要在乎资本家剥削了你的剩余价值，何必要通过持有股份而成为有产者呢？无产阶级其实也想发财致富，人的本性都是一样的。无产未必无私，无产可能更加贪婪。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">（三）资产阶级剥削工人阶级的剩余价值，工人阶级是现代化大生产的产物，代表先进生产力和历史发展的方向，是推翻资产阶级，建立无产阶级专政，实现共产主义的“物质力量”。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">——邓小平说：“科学技术是第一生产力”，掌握科学技术的知识分子无疑就是第一生产力的代表者，很多知识分子享有知识产权，甚至成为企业的创办者、投资者和管理者，成了名符其实的资本家，难道资本家又成了“第一生产力”的代表者吗？市场经济的生产创造两种价值，一种是交换价值，一种是“竞争价值”，工人阶级通过劳动创造交换价值，资本家通过管理、创新，提高产品质量，开发新产品，打开新的市场空间，创造竞争价值。资本家的利润主要来自于竞争价值，而不是剩余价值。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">那种依靠出卖劳动力维持生存，没有任何经济和政治权利，生活条件不断恶化的工人阶级，被马克思看作是能够进行“武器的批判”，推翻资本主义国家的“物质力量”。随着科学技术的进步和民主宪政制度的建立，这样的工人阶级在西方国家已经完全绝迹，在世界上绝大多数国家也越来越少。失去了无产阶级革命的“物质力量”，凭借什么去建立无产阶级专政，实现共产主义。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">（四）因为无私和代表先进生产力，所以工人阶级就是最先进的阶级，共产党又是工人阶级的先锋队，党的领袖们当然就是最最先进者。具有如此极度“先进性”的党及其领袖，当然应当掌控绝对的权力即无产阶级专政。无产阶级专政也一定是世界上最廉洁、最公正，最能“全心全意为人民服务”的政府。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">——无论是前苏联还是中国的党和政府，都曾制造了无数的残酷迫害和饥荒饿殍，都发生了大量的甚至普遍的官员腐败现象。中国官员的犯罪率远高于普通民众的犯罪率，也远高于资本主义国家官员的犯罪率，根本没有任何“先进性”可言，江青、康生、薄熙来、刘志军、雷政富等等有一丝一毫的先进性吗？正如担任过南斯拉夫副总统的</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">密洛凡</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">&middot;</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">吉拉斯</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">在《新阶级》一书中所描述的：“</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">共产主义革命是以取消阶级为号召开始，但最后竟造成一个握有空前绝对权威的新阶级</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”；“</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">这个新阶级是贪婪的而不能满足的，就像资产阶级一样。不过，它并无资产阶级所具有的朴素和节俭的美德。新阶级的排斥异己正像贵族阶级一样，但没有贵族阶级的教养和骑士风格</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”；“</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">这个新阶级的极权暴政和控制，如今已变成了驱使全民流血流汗的桎梏</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">社会经济是一个不断发展的</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">“</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">生态系统</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">，系统中的生产力有先进落后之分，但各个阶级对于维持系统的动态平衡，只有分工不同，地位都是平等的，没有先进落后之分。操作电脑的科技工作者，没有理由歧视手工烹饪的厨师；劳动者阶级，没有理由歧视投资创业者阶级，反之亦然。只有在社会转变的非常时期，在生产力发展的基础上，需要实现利益格局和系统的根本变革，才会出现革命阶级与反动阶级。革命阶级要求建立新的利益格局和系统，反动阶级竭力维持旧的利益格局和系统。但新的利益格局和系统建立起来之后，所有阶级的地位仍然是平等的，没有先进与落后之分，不应当有任何的歧视与迫害，否则新的系统平衡永远不可能建立起来。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">并不存在一种绝对先进的阶级，只有在它的“专政”统治之下，才能发展生产力，建立理想社会。一个合理的社会，不是依据某个天才人物创立的理论、主义设计出来的结果，也不是阶级斗争和专政的结果，而是社会各种力量和诉求经过民主宪政的程序，进行反复利益博弈，协商谈判，最后达成妥协的一种平衡局面，是社会各种自由意志的最大公约数。只允许某一个阶级、政党或领袖有自由意志，其他阶级只能绝对服从的社会不可能是一个合理的社会。斯大林、毛泽东以及波尔布特都曾强制推行所谓共产主义的“理想社会”，无不造成了巨大的历史浩劫和灾难。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">阶级矛盾和斗争有时不可避免，但不应编造出一种疯狂的非理性的鼓动斗争、暴力和专政的理论，加剧阶级的偏见、歧视和冲突。在人类历史上的大多数时期，阶级合作（包括竞争）和经济生态平衡更有利于生产力的发展和社会进步。过度的阶级冲突，造成的常常是大规模的生命死亡、生产力的破坏和文化的毁灭，不可能给任何阶级带来好处。人类完全可以诉诸理性和对话而不是诉诸暴力和专政，建立一种能够显示人性之高贵的文明开放、和平包容的调整利益、化解矛盾的制度平台，保持经济生态的平衡与社会的和谐进步。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">实际上，生产力只是为人类活动提供了一个基础和平台，对人的活动也有一定的制约作用，甚至是深刻的影响。人的活动不能超越这个基础和平台，但在这个基础和平台之上，人的活动是自由的。人们完全可以自由地选择、创造自己想要的生活方式和发展道路，并不存在一种由生产力决定的“必然规律”。在同样的生产力发展水平上，东方和西方，基督教、儒教和伊斯兰教各国的生活方式、国家制度和风俗文化都不尽相同。即使有某些共同之处，也不能简单地归因于生产力，有的是源于两性关系，例如氏族和部落；有的是源于图腾宗教和战争需要，例如某种礼仪制度和组织形式。至于游牧、农业、商业文明则与草原、平原和海洋等地理条件有关，等等。而生产力本身反倒是人的自由活动的产物，是人有自觉意识的</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">“</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">主体性活动</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">的一个中间环节、一种外部实现形式。人类历史发展的决定性因素不是生产力，而是人的主体性活动。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">人类的主体性活动（主体改造对象的正反馈活动）是一种在语言和工具的基础之上，主体与对象、内化与外化、精神与物质、心理与表象、逻辑性与有效性两极之间的转换往复、不断深化递进的社会实践活动。动物只有本能，没有意识，与自然同一，不能区分自己与自然，因而没有主体与对象、心（精神）与物的对立。人的主体性活动以及自觉意识把自己与自然区分开来，才有了主体与对象、心与物的区别。因此，“心”与“物”都产生并系之于人的主体性活动，没有人的主体性活动，心与物皆归于寂灭。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">人的主体性活动是一种历史传承和积淀的过程，心与物都内嵌在人的主体性活动之中。在不同的历史发展阶段，人的文化心理内涵和活动方式不同，心与物的形态亦不同。在人类活动的范围内，心与物都是第二性的，人的主体性活动才是</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">“</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">第一性</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">的。人是历史活动的中心，人的主体性实践活动是历史发展的本源性和主导性力量，唯物史观和唯心史观都应当回归于“唯人史观”。所以，解放生产力必须首先解放人，解放第一生产力（即科学技术）必须首先解放人的思想，解放思想传递交流的媒体。任何斗争和变革只有体现在人的解放上，体现在对人的自由和权利的尊重上，体现在人的文明素养和幸福指数的提升上，才具有历史进步的价值和意义。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">自利（趋利避害）是人的本性，无论生产力如何发展，阶级关系如何变化，人的自利本性都不会改变。不是人的自利性来自于私有制，而是私有制来自于人的自利性。自利本身不是罪恶，而是文明进步的动力；自利不受限制，任意侵害他人和社会就成了罪恶。任何阶级或政党掌握权力，如果不受制约都一定会腐败堕落，这是人性的规律，与阶级的先进还是落后无关。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">马克思主义关于生产力决定生产关系和人的本性，工人阶级是先进阶级，共产党是先锋队，无产阶级专政能够实现人的自由、民主和解放的理论，无论在逻辑上还是在实践上都是自欺欺人，很难自圆其说的。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">无产阶级专政理论的提出，固然是马克思的阶级斗争和暴力革命学说逻辑演绎的结果，同时也是对欧洲当时阶级斗争形势的反映。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">18世纪末到</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">19</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">世纪中期的欧洲，是阶级斗争和民族斗争风起云涌、异常激烈，社会发生剧烈动荡和变革的时期。处在资本主义原始积累和早期发展阶段的资产阶级，一方面提出“自由、平等、人民主权”的口号，反对封建专制统治，建立资产阶级的“共和国”；一方面对工人阶级在经济上残酷剥削，政治上也不给他们丝毫权利，而且还使用国家暴力无情地镇压工人阶级的反抗和起义。当时的马克思，只能看到资产阶级“每个毛孔都滴着血和肮脏的东西”的最恶劣、最野蛮的一面。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">马克思认为“资产阶级时代，却有一个特点：它使阶级对立简单化了。整个社会日益分裂为两大敌对阵营：资产阶级和无产阶级”。而今天的西方国家出现了大量的中间阶级，公众持股的股份制和社会福利政策使劳资双方不再是界限分明的敌对的两个阶级。马克思根据资本主义周期性的“商业危机”，就得出“社会上文明过度，生活资料太多，工业和商业太发达。社会所拥有的生产力已经不能再促进资产阶级文明和资产阶级所有制关系的发展”的结论，也显然为时过早。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">由于历史条件的限制，马克思看到的资本主义是如此糟糕，资产阶级与无产阶级是如此势不两立，资本主义已经明显地走到了尽头，除了立即用暴力推翻它，根本不可能有第二条出路。受到空想社会主义消灭私有制的观点，以及法国大革命时期革命者成立“国民公会”（革命专政）的影响，马克思提出建立无产阶级专政和共产主义社会的理论也就毫不奇怪了。&nbsp;</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;">&nbsp;</span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">四、从“专政社会主义”到“民主社会主义”</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">马克思和恩格斯不是僵化保守的教条主义者，而是具有严谨科学精神的思想家和革命导师。当他们发现历史条件和斗争形势发生了变化，他们就会毫不犹豫地调整修改自己的观点。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">19世纪下半叶的德国，虽然经历了资产阶级革命，却仍然保留了封建君主专制的统治。德国工人党提出要在德国建立民主自由的“人民国家”，显然是不现实的。马克思在《哥达纲领批判》中批评了德国工人党“民主主义的陈词滥调”，同时再一次提到了无产阶级专政。无产阶级专政显然主要是针对德国这种“以议会形式粉饰门面、混杂着封建残余、同时已经受到资产阶级影响、按官僚制度组成、以警察来保护的军事专制国家”。而对于瑞士、美国等“现代国家”，马克思则给予了肯定，</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;background-image: initial;background-attachment: initial;background-size: initial;background-origin: initial;background-clip: initial;background-position: initial;background-repeat: initial;">马克思赞扬美国是“伟大的民主共和国”，</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">认为“普选权、直接立法、人民权利”等民主要求，都已经在这些国家实现了，并非如杨晓青所说，“民主宪政”在美国等西方国家只是一种欺骗。马克思说的“以议会形式粉饰门面”指的是当时的德国，而不是瑞士和美国。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">据</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">恩格斯在《资本论》英文版序言中</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">的转述，</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">马克思</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">曾认为</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">：</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">“</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">至少在欧洲，英国是唯一可以完全通过和平的和合法的手段来实现不可避免的社会革命的国家</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”。马克思在阿姆斯特丹的一次演说中还说过：“工人总有一天必须夺取政权，以便建立一个新的劳动组织；他们如果不愿意像轻视和摒弃政治的早期基督教徒那样，永远失去自己在尘世的天国，就应该推翻维护旧制度的旧政治。但是，我们从来没有断言，为了达到这一目的，到处都应采取同样的手段。我们知道，必须考虑到各国的制度、风俗和传统；我们也不否认，有些国家，像美国、英国，——如果我们对你们的制度有更好的了解，也许还可以加上荷兰，——工人可能用和平手段达到自己的目的。”也就是说，在实行民主宪政的资本主义国家，可以不经过暴力革命和无产阶级专政，和平地转向社会主义和共产主义。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">马克思逝世之后，电力的普遍使用推动了欧洲的第二次工业革命，资本主义在经济和政治上都发生了很大变化，经济上产权社会化的股份制有了进一步发展，出现了有计划地规定产量和价格的企业联盟——托拉斯；政治上德国取消了实行长达</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">12</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">年的《反社会党人法》，欧洲各国以普选制和多党制为基础的民主宪政制度不断改进完善，代议制机关逐步成为国家权力的中心，工人阶级政党都能够参加议会选举。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">始终把握历史发展方向的恩格斯，洞悉资本主义社会中这些社会主义因素的出现和增长，他继承马克思的“民主社会主义”观点，逐步从“专政社会主义”（即所谓“科学社会主义”）彻底转向“民主社会主义”。恩格斯认为，托拉斯已具有社会主义的性质，“猛烈增长着的生产力对它的资本属性的这种反作用力，要求承认生产力的社会本性的这种日益增长的压力，迫使资本家阶级本身在资本关系内部可能的限度内，越来越把生产力当作社会生产力看待。……在托拉斯中，自由竟争转变为垄断，而资本主义社会的无计划生产向行将到来的社会主义社会的计划生产投降”。他还说：“可以设想，在人民代议机关把一切权力集中在自己手中、只要取得大多数人民的支持就能够按照宪法随意办事的国家里，旧社会有可能和平长入新社会，比如在法国和美国那样的民主共和国，在英国那样的君主国”。“如果说有什么是无可置疑的，那就是，我们的党和工人阶级只有在民主共和国这种形式下，才能取得统治”。“只有”也就是完全排除了别的选择。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">恩格斯指导德国社会民主党制定了民主社会主义的行动纲领《爱尔福特纲领》，《纲领》提出的主要政治要求是：</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">——凡年满二十岁的帝国公民，不分性别，在选举和投票的所有阶段，均可在秘密投票的情况下享有普遍的、平等的、直接的选举权和投票权。实行比例选举制。规定选举和投票在星期日和假日举行。对选出的代表支给薪金。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">——人民根据提出法案和否决法案的权利直接参加立法。在帝国、各邦、各省和各市镇实行人民自治。税收每年提付表决，有拒绝纳税的权利。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">——由选出的人民代表决定宣战与媾和问题。成立国际仲裁法庭。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">——废除一切限制或取消自由发表意见和集会结社权利的法律。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">——取消一切用于教会和宗教目的的国家经费的拨款。教会团体和宗教团体应视为私人的团体。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">《纲领》以承认德国资产阶级的国家制度为前提，不再提无产阶级专政的要求。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">恩格斯还从相反的方面说明，无产阶级革命和专政的道路是行不通的。马克思和恩格斯曾在《共产党宣言》中认为，周期性的“商业危机”说明，资本主义的经济已经没有任何发展的余地，资本主义已经濒于死亡。这是发动无产阶级革命消灭资产阶级，建立无产阶级专政的根本理由。47年之后，恩格斯在即将逝世前（1895年3月）写了他一生中最后的一篇长文《卡&middot;马克思〈1848年至1850年法兰西阶级斗争〉一书导言》，这是他留给第二国际社会民主党人的政治遗嘱。在这篇文章中，恩格斯说：“历史表明我们也曾经错了，暴露出我们当时的看法只是一个幻想。……历史清楚地表明，当时欧洲大陆经济发展的状况还远没有成熟到可以铲除资本主义生产的程度；历史用经济革命证明了这一点，从1848年起经济革命席卷了整个欧洲大陆，在法国、奥地利、匈牙利、波兰以及最近在俄国刚刚真正确立了大工业，而德国简直就成了一个头等工业国，——这一切都是以资本主义为基础的，可见这个基础在1848年还具有很大的扩展能力。”只要资本主义“还具有很大的扩展能力”，旨在消灭资本主义生产关系的无产阶级革命和专政就没有可能成功。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">从恩格斯逝世到现在，又过去了一百多年，资本主义经历了两次世界大战和无数次经济危机，却通过不断的技术革命和一系列经济制度和政策的调整革新，一次次地在危机中重生，显示出强大的生命力，丝毫看不出其生产力与生产关系有什么不可克服的矛盾。专政社会主义显然没有多少历史的“合理性”。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">恩格斯曾说过：“现代社会主义，就其内容来说，首先是对现代社会中普遍存在的有财产者和无财产者之间、资本家和雇佣工人之间的阶级对立以及生产中普遍存在的无政府状态这两个方面进行考察的结果。但是就其理论形式来说，它起初表现为18世纪法国伟大的启蒙学者们所提出的各种原则的进一步的、似乎更彻底的发展”。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">由此可见，社会主义在“理论形式”上与启蒙学者们提出的“自由、平等、人民主权”等原则是一脉相承的。对现实的诉求，一是在经济上克服生产中的无政府状态，二是在政治上解决劳资矛盾。马克思、恩格斯对社会主义现实诉求的回应，起初选择了用暴力彻底消灭资本主义的无产阶级革命和专政的道路。经过对几十年革命经验的总结和对资本主义的进一步考察，马恩开始寻找“革命与专政”之外的道路，这就是民主社会主义的道路。民主社会主义不再强调消灭阶级，而是强调人权和公民权的平等；不再强调消灭国家，而是强调国家权力的公有化和公共化。民主社会主义不再主张用暴力消灭资本主义，另外建立一个无产阶级专政，而是在资本主义民主宪政制度的框架内，提出社会主义的要求，发展社会主义的因素，最终实现资本主义向社会主义的和平转型。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">经过近半个世纪的历史轮回，马恩又回到了“自由、平等、人民主权”等原则上来，这些原则与他们的理论中“人的自由而全面发展”的基本观点，本来就是一致的。恩格斯临终之前承认：“历史表明我们也曾经错了，暴露出我们当时的看法只是一个幻想”。其心情是多么沉痛。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">马克思、恩格斯提出和平转型的观点表明，“专政”和“宪政”都是手段，可以为资本主义服务，也可以为社会主义服务。通过民主宪政转向社会主义的民主社会主义理论，毫无疑问是马克思主义的重要组成部分，也是马克思主义适应现代社会的发展，最精彩、最有价值的部分。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">马克思主义的一个基本观点是，不继承利用“</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">资本主义制度的一切肯定的成就</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”，是不可能建成真正的社会主义国家的。这些“肯定的成就”既包括资本主义高度发达的科学技术和生产力，也包括资本主义的“自由、平等、人权、法制”的价值观和民主宪政制度。在恩格斯领导下成立的第二国际及其继承者，坚持开展民主社会主义运动，充分利用资本主义的“</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">一切肯定的成就</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”，不仅成功建立了瑞典等民主社会主义国家，而且把社会主义运动与西方国家的民主政治、工人运动和人权斗争融合在一起，使美国等西方国家的社会主义因素越来越多，社会主义的特征越来越明显。而列宁、斯大林、毛泽东坚持“专政社会主义”道路，拒绝资本主义的“</span><span style="font-family: 'Times New Roman';letter-spacing: 0pt;font-size: 12pt;">一切肯定的成就</span><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">”，继承的都是沙皇、秦始皇的专制主义文化和制度的垃圾，结果只剩下“专政”（党和领袖的独裁专制），“社会主义”却不见了踪影。</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">2013-6-15</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">&nbsp;</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">&nbsp;</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">&nbsp;</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">&nbsp;</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">&nbsp;</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;">&nbsp;</span></p> 
+<p><span style="font-family: 宋体;letter-spacing: 0pt;font-size: 12pt;">&nbsp;</span><span style="font-family: 'Hiragino Sans GB W3';letter-spacing: 0pt;font-size: 12pt;"></span></p> 
+<p><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:1.0000pt;">&nbsp;</span></p>
+                        
+                        						                     </div>
+                </div>
+                                                                                        <div class="tie-con-manange">
+                                        <div class="tie-con-manange-panel">
+                        <a href="#editorWraper">回复本帖</a>
+                        <a href="javascript:;" id="tiecopy">复制链接</a>
+                        <a id="send-gift" title="赠送礼物" href="javascript:;" data='{"username": "aahwdl","boardid":"shishi","threadid":"582667038"}'>赠送礼物</a>
+                        <a href="/post/shishi/publish/common-582667038?586" class="js-edit">修改帖子</a>
+                    </div>
+                    <div class="tie-con-manange-share">
+                        <div class="bshare-custom">
+	<!--a title="分享到网易微博" class="bshare-neteasemb"></a-->
+	<a title="分享到QQ空间" class="bshare-qzone"></a>
+	<a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+	<a title="分享到人人网" class="bshare-renren"></a>
+	<a title="分享到腾讯微博" class="bshare-qqmb"></a>
+	<a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+</div>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=a1688878-28e5-42d3-828c-cf5199b14296&amp;pophcol=2&amp;lang=zh"></script>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+<script charset="utf-8" type="text/javascript">
+
+var url=window.location.href,
+isHas=url.indexOf("|") ,
+us=url.split("|");
+
+if(isHas!=-1){
+   url=us[0]+"%7C"+".html";
+}
+
+if(NTES("#photoView")){
+	bShare.addEntry({
+	  	summary:"分享自 网易论坛",
+	  	pic: {
+	  		toString:function(){return NTES("#photo").attr("src")}
+	  	},
+		url:url
+	});
+} else {
+	 if(NTES(NTES(".tie-content")[0]).NTES("img")[0]){
+	 	var src= NTES(NTES(".tie-content")[0]).NTES("img")[0].src;
+	 }else {
+	 	var src = "";
+	 }
+	bShare.addEntry({summary:"分享自 网易论坛",pic:src,url:url});
+};	
+</script>
+
+                    </div>
+                                    </div>
+                	                	
+                	                                       <div style="margin-left:8px;">
+<!--800100-->
+<!-- <iframe src="http://img1.126.net/channel4/html/gonghe_bbs800100.html" width="800" height="100" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"> </iframe> -->
+</div>                                    <div class="clearfix" style="width:908px;">
+                                                               <div style="float:left; width: 580px;" id="tieRecommend" data='{"createTime":"201510","dbname":"bbs_news","boardId":"shishi","threadId":"582667038"}'>
+                     </div>   
+                                                                                                            <div style="float:left; padding-left:8px; margin-top: 18px;">
+   <!--320320-->
+<!-- <iframe src="http://img1.126.net/channel4/html/gonghe_bbs320320.html" width="320" height="320" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"> </iframe> -->
+</div>                                       </div>
+                  
+                   
+                                                            <div id="thread_inside_ad">
+    <style>
+    #thread_inside_ad {margin-left: 10px;margin-bottom:20px;}
+    .bobo-list{position:relative;height:135px; overflow: hidden;}
+    .bobo-item{display:block;float:left;width:150px;height:135px;margin-left:10px;cursor:pointer;font-size:0;text-decoration:none;}
+    .bobo-item.first{margin-left: 0;}
+    a.bobo-item:hover{_zoom:1; overflow:hidden; border:none;}
+    a.bobo-item:hover .full-hover-show{color:#fff;top:0;z-index: 1;}
+    a.bobo-item:hover .icon-play{left:55px;top:25%;z-index: 1;}
+    .bobo-item, .bobo-item:visited{ position:relative; display:block; overflow:hidden; *zoom:1;*display:inline;}
+    .bobo-item.first .bobo-user .bobo-nick{margin: 0;}
+    .bobo-user .bobo-nick span {color: #f44103;}
+    .bobo-pic .bobo-livestat,.bobo-pic .bobo-usercount i,.bobo-user .bobo-level{background-image:url(http://img6.cache.netease.com/www/v2013/img/icon_bobo_140227-2.png);background-repeat:no-repeat;}
+    .bobo-pic{position:relative;width:100%;height:105px;text-align:center;vertical-align:top;overflow:hidden;}
+    .bobo-pic img.bobo-cover{width:100%;}
+    .bobo-pic .bobo-livestat{width:33px;height:20px;position:absolute;top:0;right:0;background-color:#F44103;background-position:0 -705px;}
+    .bobo-pic .bobo-usercount{position:absolute;left:0;bottom:0;width:100%;height:20px;line-height:22px;color:#FFF;background:rgba(0,0,0,.7);background:#000; opacity: 0.7;filter:alpha(opacity=70);font-size:12px;font-family:Arial, Verdana, sans-serif;}
+    .bobo-pic .bobo-usercount span{display:block;float:right;margin-right:8px;_margin-right:4px;}
+    .bobo-pic .bobo-usercount i{display:block;_display:none;float:right;margin:4px 4px 0 0;width:12px;height:12px;background-position:-5px -687px;}
+    .bobo-user{height:22px;padding:8px 0 0;position:relative;}
+    .bobo-user .bobo-nick{display:block;margin:0 24px 0 0;font-size:12px;line-height:20px;color:#252525;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+    .bobo-item:hover .bobo-nick{text-decoration:underline;}
+    .icon-play { background:url(http://img3.cache.netease.com/cnews/2014/2/bobo_ad/v_btn.png) no-repeat; background-position:0 0; height:42px; width:44px;position:absolute;top:-85%;cursor: pointer;}
+    .semi-trans { background: rgba(255, 255, 255, .8); background:#fff; opacity:0.5; filter:alpha(opacity=50); }
+    .full-hover-show{width: 120px; height: 100px;padding: 6px 15px 0; position:absolute; left:0;  top:-100%;display:block; }
+    .bobo-user .bobo-level{display:block;position:absolute;top:4px;right:0;width:22px;height:22px;background-position:0 0;}
+</style>
+<script type="text/javascript">
+    (function() {
+        var random = Math.floor(Math.random()*10),
+                url = "http://bobo.163.com/a/p2/163.bbssigh/6/boboData/" + random + ".js",
+                boboStatTag = "?from=163.bbsSigh",
+                boboNum = 6,
+                html = "";
+        window.boboData = function(data){
+            hotLive = data.hotLive;
+        };
+        NTES.ajax.importJs(url, function() {
+            var len = hotLive.length;
+            if (hotLive != '' && len != 0){
+                for (var i = 0; i < len; i++) {
+                    var boboItem = hotLive[i],
+                            isLive = boboItem.live,
+                            liveHref = isLive ? boboItem.liveUrl + boboStatTag : "http://bobo.163.com/" + boboStatTag,
+                            boboLiveStat = isLive ? '<div class="bobo-livestat"></div>' : '',
+                            boboHtml = '<a class="bobo-item" title="' + boboItem.anchorExtendTitle + '" target="_blank" href="' +liveHref+ '"><div class="bobo-pic"><img class="bobo-cover" src="'+ boboItem.liveCoverUrl + '" alt="' + boboItem.nick + '"/>' + boboLiveStat + '<div class="bobo-usercount"><span>' + boboItem.onlineUserCount+ '</span><i></i></div></div><div class="bobo-user"><div class="bobo-nick">' + boboItem.anchorExtendTitle + '</div></div><span class="full-hover-show semi-trans"></span><span class="icon-play png24"></span></a>';
+                    html += boboHtml;
+                };
+                NTES(".bobo-list").attr("innerHTML", function() {
+                    return this.innerHTML + html;
+                });
+            }
+        }, "utf-8");
+    })();
+</script>
+<div class="bobo-list">
+    <div class="first bobo-item">
+        <div class="bobo-pic">
+            <a href="http://www.bobo.com/?f=163.bbsSigh" target="_blank"><img width="150" height="105" alt="bobo" src="http://img3.cache.netease.com/bbs/img15/bobo_logo5.png"></a>
+        </div>
+        <div class="bobo-user">
+            <p class="bobo-nick"><a href="http://www.bobo.com/special/android/?f=163.bbsApp" style="color:#F44103;font-weight:bold">手机上和女神视频聊天</a></p>
+        </div>
+    </div>
+</div>
+<!--[if IE 6]>
+<script type="text/javascript" src="http://img1.cache.netease.com/bobo/js/DD_belatedPNG-min.js"></script>
+<script type="text/javascript">
+    DD_belatedPNG.fix('.png24');
+</script>
+<![endif]-->
+</div>                                                </div>
+        </div>
+
+    	<div class="tie-main-ad" style="height:auto">
+		<div id="youdao_ad_art_1" style="display:block"></div>
+		<!--"/htmlfile/side_2009/main_article_ad.html"-->
+	</div>
+    <div class="tie-tab-bottom-nav">
+    <div class="tie-page">
+        共<span class="red">999</span> 浏览 <span class="red">0</span> 回帖&nbsp;&nbsp;
+                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                
+                                                                        
+                
+        
+
+            
+            
+            
+            
+
+                            </div>
+</div>   
+   
+     <!-- 回帖区 -->
+   <div class="reviewBox"  id="div_reply">
+    <style type="text/css">
+#reviewBox_login{ padding-left:40px; display:none;}
+.replylogin_input{ width:140px; height:20px;  border:1px solid #ccc;}
+.replylogin_submit{ padding:0 10px; height:20px; background-color:#313a44; border:1px solid #000; line-height:20px; color:#fff; cursor:pointer;}
+</style>
+<div id="reviewBox_login">
+    <form id="replylogin_form" action="https://reg.163.com/logins.jsp" method="post">
+    <input type="hidden" name="type" value="1" />
+    <input type="hidden" name="url" id="replylogin_url" />
+    <input type="hidden" name="product" value="bbs" />
+    帐号:
+    <input  name="username" type="text" tabindex="11" class="replylogin_input" id="replyloginUsername"/>
+    密码:
+    <input name="password" type="password"  tabindex="12" class="replylogin_input"  id="replyloginPassword"/>
+    <label><input name="savelogin" type="checkbox" value="1" tabindex="13" />下次自动登录</label>
+     <input  type="submit" value="登录" class="replylogin_submit"/>
+    <a href="http://reg.163.com/reg/reg.jsp?product=bbs&loginurl=http://bbs.163.com&url=" target="_blank">注册</a> 
+    </form>
+</div>
+<script type="text/javascript"  charset="GBK">
+(function($){
+
+  $("#replylogin_form").submit(function(){
+    var u=$("#replyloginUsername").val(),
+    p=$("#replyloginPassword").val();
+    if( u==""|| p==""){
+        Dialog.alert("用户名或密码不能为空");
+		return false;
+    }
+    })
+  })(jQuery)
+
+</script>
+    <span class="blank9"></span>
+    <div class="form1 postForms" id="reply">
+        <form id="replyForm" name="frmpost"  method="post" action="/v2/post/doReply" >
+                        <input type="hidden" name="title" value="无产阶级专政的迷思"/>
+            <input type="hidden" name="replyPostId" id="replyPostId"/>
+                        <style type="text/css">
+.editor-status-bar {text-align: right;line-height: 24px;padding-right: 12px;background: #f5f5f5;}
+.editor-status-bar label {color: #BBB;}
+.editor-status-bar a,.editor-status-bar a:visited {color: #1e50a2;}
+#divComposeEditor{ height:300px;}
+
+
+.upload-wraper{ width: 680px; height:400px; font-size:12px;}
+.load-area{ height:370px;border: 1px solid #9DBBDD;}
+.upload-btn{ padding:20px 0 0 10px; text-align:left; }
+.upload-btn a,.upload-btn a:visited{ height:15px; line-height:15px;display:inline-block;padding:5px 15px;border:1px solid #ccc;text-decoration:none; background-color:#dadada; color:#3e3e3e; font-weight:bold}
+.upload-tab ul { overflow:hidden; zoom:1;margin:0;padding:0;}
+.uploadurl-wraper{ text-align:left;}
+.uploadurl { width:300px;height:25px;border:1px solid #ccc; margin-left:10px;}
+.uploadTips{ padding:10px; text-align:left;}
+.upload-tab li{float:left;height:30px;line-height:30px;padding:0 10px; }
+.upload-local-cur .local-tab,
+.upload-net-cur .net-tab{background-color:#313a44;color:#fff; }
+.local-tab,
+.net-tab{ cursor:pointer;}
+.upload-local-cur  .upload-net-wraper,
+.upload-net-cur .upload-flash-wraper{display:none;}
+.upload-local-cur  .upload-flash-wraper,
+.upload-net-cur .upload-net-wraper{display:block;}
+.upload-flash-wraper{ height:370px;}
+
+
+
+.media-wraper{ width:450px; font-size:12px; text-align:left }
+.media-iput{ width:300px; border:1px solid #ccc; height:25px;}
+.media-tips{ padding-top:5px; margin-bottom:5px;}
+.media-size-s{ margin-top:5px;}
+.media-size-s input{width:50px; border:1px solid #ccc; height:20px;}
+
+
+.html-content{ width:600px; height:300px; border:1px solid #ccc }
+
+
+.uploadIframe{ display:none;}
+.upload-file-panel{ font-size:12px; width:500px;}
+.upload-file-content{ border:1px solid #ccc; width:300px; height:25px;}
+.upload-file-wraper{ padding:5px 0;}
+.upload-button-wraper{ padding-top:10px;}
+.upload-file-tips{ padding:5px 0;}
+.upload-button-wraper input{ display:inline-block;padding:5px 15px;border:1px solid #ccc; background-color:#dadada; color:#3e3e3e; font-weight:bold}
+
+.four-panel{ width:550px;}
+.four-panel-top{ width:550px; height:460px; background:url(http://img5.cache.netease.com/utf8/bbs/image/panel/001.jpg); position:relative;}
+.four-panel-bottom{ width:550px; height:40px; background:url(http://img5.cache.netease.com/utf8/bbs/image/panel/006.jpg);}
+.four-input{ width:90px; height:100px; border:1px solid #ccc; position:absolute;}
+#fourPanelOne{ top:110px; left:180px;}
+#fourPanelTwo{ top:110px; left:290px;}
+#fourPanelThree{ top:315px; left:180px;}
+#fourPanelFour{ top:315px; left:290px;}
+
+
+#editor_dialog_box { padding-bottom: 10px;}
+#editor_dialog_box #editor_dialog_form {padding: 30px 20px 0px;}
+#editor_dialog_box .btn-set {padding-left: 0px;position: relative;display: inline;left: 50%;margin: 10px auto 10px -75px;}
+
+</style>
+<input type="hidden" id="publishcontent" name="content"/>
+<input type="hidden"  name="boardId" value="shishi" id="tieboardId"/>
+<input type="hidden"  name="threadId" value="582667038" id="tiethreadId"/>
+<input type="hidden" id="photoSetImgUrls" name="photoSetImgUrls"/>
+<div  id="editorWraper">
+<div class="frmpostPosition">
+    <div id="divComposeEditor">
+    </div>
+    <div class="editor-status-bar">
+        <label id="autoSaveLabel"> 每30秒自动保存一次内容</label>
+        <a href="javascript:;" id="savenode">手动保存</a> | <a href="javascript:;" id="restorenode">  恢复内容</a> | <a href="javascript:;" id="clearnode">清除内容</a>
+    </div>
+</div>
+<div id="editor_dialog_box">
+    <div id="editor_dialog_form">
+    </div>
+</div>
+<link href="http://img1.cache.netease.com/bbs/css/editor_v1.0.0.css" rel="stylesheet" type="text/css" />
+
+
+<script type="text/javascript" src="http://img1.cache.netease.com/bbs/static/20150917/forum_editor.js" charset="GBK"></script>
+
+
+<script type="text/javascript" src="http://bbs.163.com/bbs/js/prototype.ya.js"></script>
+<script language="javascript" type="text/javascript">
+   
+   
+
+    var boardId = "shishi",
+    threadId = "582667038",
+	channel="no";
+	
+	var mobileRe=[],replyRe=[],boardRe=[];
+	
+		
+	    
+    var oEditor = new EditorView({
+        editorDiv: "#divComposeEditor",
+        toolbar: {
+            basic: ["bold", "italic", "underline", "fontsize", "forecolor", "backcolor","justify", "list", "indent", "link", "bbsformat", "portrait", "bbsimage", "bbsvideo", "bbstcard"].concat(mobileRe,replyRe,boardRe),
+            full: ["undo", "cut", "copy", "fontname", "fontsize", "justify", "list", "indent", "lineheight", "link", "bbsformat", "portrait", "bbsimage", "bbsvideo", "bbstcard"].concat(mobileRe,replyRe,boardRe,["redo", "paste", "bold", "italic", "underline", "forecolor", "backcolor", "insertHorizontalRule", "insertTime","removeFormat", "insertTable"]),
+            fullTBWidth: { ie: 540, other: 495 }
+        }
+    });
+    EditorExtend.addListener(oEditor);
+   // EditorExtend.addPostListener(oEditor);
+
+    (function() {
+        /**
+        * 编辑器内容自动保存
+        */
+        var localStorageAdapter = {
+            storeName: 'NTESBBS',
+            isLocalStorage: window.localStorage ? true : false,
+            dataDOM: this.isLocalStorage ? null : (function() {
+                try {
+                    var dataDOM = document.createElement('input'),
+			    expires = new Date();
+                    dataDOM.type = 'hidden';
+                    dataDOM.style.display = 'none';
+                    //dataDOM.addBehavior('#default#userData');
+                    dataDOM.addBehavior && dataDOM.addBehavior('#default#userData');
+                    document.body.insertBefore(dataDOM, document.body.firstChild);
+                    expires.setDate(expires.getDate() + 30);
+                    dataDOM.expires = expires.toUTCString();
+                    return dataDOM;
+                } catch (ex) {
+                    return null;
+                }
+            })(),
+
+            set: function(key, value) {
+                var dataDOM = this.dataDOM;
+                if (this.isLocalStorage) {
+                    window.localStorage.setItem(key, value);
+                } else {
+                    if (dataDOM) {
+                        dataDOM.load(this.storeName);
+                        dataDOM.setAttribute(key, value);
+                        dataDOM.save(this.storeName);
+                    }
+                }
+            },
+
+            get: function(key) {
+                var dataDOM = this.dataDOM;
+                if (this.isLocalStorage) {
+                    return window.localStorage.getItem(key);
+                } else {
+                    if (dataDOM) {
+                        dataDOM.load(this.storeName);
+                        return dataDOM.getAttribute(key);
+                    }
+                }
+            },
+
+            remove: function(key) {
+                var dataDOM = this.dataDOM;
+                if (this.isLocalStorage) {
+                    window.localStorage.removeItem(key);
+                } else {
+                    if (dataDOM) {
+                        dataDOM.load(this.storeName);
+                        dataDOM.removeAttribute(key);
+                        dataDOM.save(this.storeName);
+                    }
+                }
+            }
+        }
+        var autoSaveTime;
+        function saveContent() {
+            autoSaveTime && clearTimeout(autoSaveTime);
+            var autoSaveLabel = document.getElementById("autoSaveLabel");
+            autoSaveLabel.innerHTML = "正在保存....";
+            var content = oEditor.editor.getContent().replace(/^<br>\s*$|^\s*$|^<DIV><\/DIV>$|^<P>&nbsp;<\/P>$/, '');
+            if (content) {
+                localStorageAdapter.set('bbs_content_autosave', content);
+            }
+            autoSaveTime = setTimeout(function() {
+                autoSaveLabel.innerHTML = "每30秒自动保存一次内容";
+            }, 1000);
+        }
+
+        function restoreContent() {
+            var content = localStorageAdapter.get('bbs_content_autosave');
+            if (content) {
+                oEditor.editor.setContent(content);
+            }
+        }
+
+        function clearContent() {
+            oEditor.editor.setContent('');
+        }
+
+        document.getElementById("savenode").onclick = function() {
+            saveContent();
+        };
+        document.getElementById("restorenode").onclick = function() {
+            restoreContent();
+        };
+        document.getElementById("clearnode").onclick = function() {
+            clearContent();
+        };
+
+        setInterval(function() {
+            saveContent();
+        }, 30000);
+    })();
+    document.domain = location.hostname.replace(/^.*\.([\w]+\.[\w]+)$/, "$1");
+</script>
+</div>
+            <span class="blank9"></span>
+            <div class="form2">
+               <div class="upLoad">
+				 <span class="right">
+                         <img title="看看如何用手机泡论坛" src="http://bbs.163.com/bbs/img/phoneIcon.jpg"/>
+				         <a class="cBlue" target="_blank" href="http://help.3g.163.com/bbs/">如何用手机快速回复？</a>
+				 </span>
+                 <style type="text/css">
+   #checkcodewraper{ display:none; margin-bottom:10px;}
+   .checkinputwraper{ margin-bottom:5px;}
+   .checkcode-input{border:1px solid #ccc; width:100px; height:20px; margin-top:10px;}
+   .code-tips{ color:rgb(0, 0, 255)}
+</style>
+<div id="checkcodewraper">
+<div class="checkinputwraper">验证码 <input type="text" class="checkcode-input" id="checkcodeinput" name="checkcode"/><span class="cRed" id="checkCodeMsg">()</span></div>
+<img alt="看不清，换一张" src="/v2/checkcode/codeimg" id="checkcodeimg"/><a href="javascript:;" id="checkcodenode"> 点击换一张</a>
+</div>
+<script language="javascript">
+    (function($) {
+        var ch=$("#checkcodeimg");
+		$("#checkcodenode").click(function() {
+            ch.attr("src", "/v2/checkcode/codeimg?timestamp=" + new Date().getTime());
+			return false;
+        });
+        $("#checkcodenode").click();
+    })(jQuery);
+</script>		         <span class="ui-button-on" id="btnSubmit"><a href="javascript:;" id="replyTie">回复本帖</a></span>
+		         <!--div class="synTinyblog" id="synBlog">
+                        <label class="synTinyblog-option" for="copytoweibo">
+                            <input type="checkbox" name="copytoweibo" id="copytoweibo"  checked="checked" class="js-check" value="y" />同步到微博
+                        </label>
+                 </div-->
+               </div>
+            </div>
+			<div class="recentBoard" id="visitHistory" style="display:none">您最近去的版：<span id="historyWraper"></span> </div>
+        </form>
+    </div>
+       <!-- 回贴框下广告  -->
+       <div class="comment_bottom_ad">
+    <style type="text/css">
+  #comment_bottom_ad { list-style: none; background: #f8f8f8;padding: 18px; margin-left: 40px; margin-top: 35px;}
+  #comment_bottom_ad ul { margin: 0; padding: 0;}
+  #comment_bottom_ad li { float: left; width: 122px; margin-left: 16px;}
+  #comment_bottom_ad li.first {margin-left: 0;}
+  #comment_bottom_ad a {text-decoration: none;}
+ #comment_bottom_ad a:hover, #comment_bottom_ad a:active {color: #a91c00; text-decoration: underline;}
+  #comment_bottom_ad li p { font-size: 12px; line-height: 14px; height: 14px;margin: 10px 0 0 0; overflow:hidden;} 
+#comment_bottom_ad li p a {color: #252525; }
+   .clearfix {_zoom: 1;}
+   .clearfix:after {clear: both;height: 0;overflow: hidden;display: block;visibility: hidden;content: ".";}
+ </style>
+    <div class="thum" id="comment_bottom_ad">
+        <ul class="clearfix">
+                                                               <li class="first">
+                            <a class="img_link" href="http://rd.da.netease.com/redirect?t=nfSOlH&p=A33HS5&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6067.html%3Ftag%3Da0c36828c177185576911ad8e49e6ce7" target="_blank">
+                    <img width="122" height="92" alt="考拉家居" title="考拉家居" src="http://img4.cache.netease.com/cnews/2015/12/17/20151217160307d5c06.jpg">
+                </a>
+                <p><a class="title_ad_link" href="http://rd.da.netease.com/redirect?t=nfSOlH&p=A33HS5&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6067.html%3Ftag%3Da0c36828c177185576911ad8e49e6ce7" target="_blank">考拉家居</a></p>
+            </li>
+                                       <li>
+                             <a class="img_link" href="http://rd.da.netease.com/redirect?t=iZyFPV&p=A33HS5&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6014.html%3Ftag%3Da0c36828c177185576911ad8e49e6ce7" target="_blank">
+                    <img width="122" height="92" alt="考拉海淘" title="考拉海淘" src="http://img4.cache.netease.com/cnews/2015/12/14/2015121416490515d4e.jpg">
+                </a>
+                <p><a class="title_ad_link" href="http://rd.da.netease.com/redirect?t=iZyFPV&p=A33HS5&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6014.html%3Ftag%3Da0c36828c177185576911ad8e49e6ce7" target="_blank">考拉海淘</a></p>
+            </li>
+                                       <li>
+                             <a class="img_link" href="http://rd.da.netease.com/redirect?t=TjtN3S&p=clQOt7&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6003.html%3Ftag%3D672142b8b80a9af7ce61681178a3f5bf" target="_blank">
+                    <img width="122" height="92" alt="领取考拉红包" title="领取考拉红包" src="http://img6.cache.netease.com/cnews/2015/12/9/2015120916081069328.jpg">
+                </a>
+                <p><a class="title_ad_link" href="http://rd.da.netease.com/redirect?t=TjtN3S&p=clQOt7&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6003.html%3Ftag%3D672142b8b80a9af7ce61681178a3f5bf" target="_blank">领取考拉红包</a></p>
+            </li>
+                                       <li>
+                             <a class="img_link" href="http://go.163.com/2015/1208/mu/" target="_blank">
+                    <img width="122" height="92" alt="全民奇迹周年庆" title="全民奇迹周年庆" src="http://img5.cache.netease.com/cnews/2015/12/9/20151209115943a8c79.jpg">
+                </a>
+                <p><a class="title_ad_link" href="http://go.163.com/2015/1208/mu/" target="_blank">全民奇迹周年庆</a></p>
+            </li>
+                    </ul>
+    </div>
+ <script type="text/javascript">
+    (function() {
+        jQuery("#comment_bottom_ad a").mousedown(function() {
+           var index = jQuery(this).parents('li').index() + 1,
+                 url = 'http://bbs.163.com/json/special/clickStat?type=ad_coop' + index;
+           jQuery.ajaxSetup({
+                 cache: true
+           });
+           jQuery.getScript(url);
+        });
+    })(jQuery);
+    </script>
+</div>
+  </div>
+
+
+    </div>
+
+    <!-- 右侧栏 -->
+    <div id="tie_addtion">
+        <!-- 右侧栏顶部广告 -->
+        <div style="margin-bottom: 10px;">
+            	<div class="ad260" style="height:auto">
+		<div style="display:none;"><a href="http://ymei.tmall.hk/ " target="_blank"><img src="http://img6.cache.netease.com/bbs/2015/1/19/201501191557390adf1.jpg  " width="240" height="240"/></a></div>
+		<!--"/htmlfile/side/bbs_news/news_artice_side.html"-->
+	</div>
+        </div>
+        
+                        <div class="board-widget-container">
+   <div class="hd">
+      <h3>
+                  头条推荐
+      </h3>
+   </div>
+   
+   <div class="bd">
+      <h3 class="news-top-head"><a href="http://bbs.home.163.com/photoalbum/chuishui/590144247.html" target="_blank">法国百姓的真实生活</a></h3>
+      <ul class="news-list">
+                     <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/591694189.html">纽约街头的流浪者</a></li>                     <li><a href="http://bbs.news.163.com/boardset/pp.html" target="_blank">[易拍天下]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/pp/590738709.html">雄伟壮观的秦王宫</a></li>                     <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/591390140.html">猎豹与黑斑羚和谐相处</a></li>                     <li><a href="http://bbs.travel.163.com/boardset/tuyou.html" target="_blank">[图游天下]</a> <a target="_blank" href="http://bbs.travel.163.com/bbs/tuyou/591311918.html">红河元阳梯田</a></li>                                                                                                                                             </ul>
+   </div>
+</div>
+<!--广告1-->
+<!-- <div style="display:block; margin-bottom:10px;">
+<iframe src="http://popme.163.com/link/015794_0513_321.html" width="240" height="240" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"> </iframe>
+</div> -->
+<div class="board-widget-container">
+   <div class="hd">
+      <h3>
+                  头条推荐
+      </h3>
+   </div>
+   
+   <div class="bd">
+      <ul class="news-list">
+                                                                                                         <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/591126058.html">少年挑战高楼拍照</a></li>                     <li><a href="http://bbs.news.163.com/boardset/pp.html" target="_blank">[易拍天下]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/pp/589728734.html">万安老街</a></li>                     <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/591127115.html">实拍俄罗斯壮美夜空</a></li>                     <li><a href="http://bbs.travel.163.com/boardset/youji.html" target="_blank">[原创游记]</a> <a target="_blank" href="http://bbs.travel.163.com/bbs/youji/589156960.html">嵩口古镇</a></li>                     <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/590506586.html">废弃监狱成景点</a></li>                     <li><a href="http://bbs.news.163.com/boardset/hometown.html" target="_blank">[我的故乡]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/hometown/589863942.html">渔民捕鱼全过程</a></li>               </ul>
+   </div>
+</div>
+<!--广告2-->
+<!-- <div style="display:block; margin-bottom:10px;"><a target="_blank" href="http://love.163.com"><img src="http://img4.cache.netease.com/life/2014/3/31/20140331184012f4ba1.jpg" border="0" height="150" width="240" alt=""></a></div> -->
+<!--广告3-->
+<!-- <div style="display:block; margin-bottom:10px;"><a target="_blank" href="http://m.163.com/openapp/"><img src="http://img2.126.net/xoimages/default/2012/240x100.jpg" border="0" height="200" width="240" alt=""></a></div> -->
+<div class="board-widget-container">
+   <div class="hd">
+      <h3>
+               论坛贴图
+      </h3>
+   </div>
+   
+      <div class="bd">
+      <ul class="news-photo-list">
+                  <li title="卢宅的精美木雕">
+            <a href="http://bbs.news.163.com/photoalbum/pp/591359579.html" target="_blank" >
+               <img width="100" height="75" alt="卢宅的精美木雕" src="http://img5.cache.netease.com/cnews/2015/12/21/20151221084112049bc.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/photoalbum/pp/591359579.html" target="_blank">卢宅的精美木雕</a></p>
+         </li>
+                  <li title="嵩口古镇">
+            <a href="http://bbs.travel.163.com/bbs/youji/589156960.html" target="_blank" >
+               <img width="100" height="75" alt="嵩口古镇" src="http://img2.cache.netease.com/cnews/2015/12/18/20151218084446aa5ef.jpg" />
+            </a>
+            <p><a href="http://bbs.travel.163.com/bbs/youji/589156960.html" target="_blank">嵩口古镇</a></p>
+         </li>
+                  <li title="野生娃娃鱼">
+            <a href="http://bbs.news.163.com/photoalbum/photo/590798061.html" target="_blank" >
+               <img width="100" height="75" alt="野生娃娃鱼" src="http://img6.cache.netease.com/cnews/2015/12/17/20151217084848d1fc2.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/photoalbum/photo/590798061.html" target="_blank">野生娃娃鱼</a></p>
+         </li>
+                  <li title="石臼湖的天鹅">
+            <a href="http://bbs.news.163.com/photoalbum/pp/590344232.html" target="_blank" >
+               <img width="100" height="75" alt="石臼湖的天鹅" src="http://img5.cache.netease.com/cnews/2015/12/16/201512160836404dc2c.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/photoalbum/pp/590344232.html" target="_blank">石臼湖的天鹅</a></p>
+         </li>
+                  <li title="资江美景">
+            <a href="http://bbs.news.163.com/bbs/hometown/590344042.html" target="_blank" >
+               <img width="100" height="75" alt="资江美景" src="http://img4.cache.netease.com/cnews/2015/12/15/20151215082944246f6.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/bbs/hometown/590344042.html" target="_blank">资江美景</a></p>
+         </li>
+                  <li title="古代瓷器艺术展">
+            <a href="http://bbs.news.163.com/photoalbum/pp/589781632.html" target="_blank" >
+               <img width="100" height="75" alt="古代瓷器艺术展" src="http://img2.cache.netease.com/cnews/2015/12/14/201512140838039b730.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/photoalbum/pp/589781632.html" target="_blank">古代瓷器艺术展</a></p>
+         </li>
+               </ul>
+   </div>
+   </div>
+<!--广告4-->
+<!-- <div style="display:block; margin-bottom:10px;">
+<embed src="http://img1.126.net/channel4/016268/kdlk240500_0328.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="opaque"  width="240" height="500"></embed>
+</div> -->
+<div class="board-widget-container">
+   <ul class="hd clearfix" id="js-menuBar">
+      <li class="on">推荐</li>
+      <li>时尚</li>
+      <li>达人</li>
+      <li class="last">应用</li>
+   </ul>
+      <div class="bd" id="js-menuTab">
+      <div class="normal on">
+         <ul class="news-photoTab-list clearfix">
+                        <li title="全民奇迹周年庆" >
+               <a href="http://go.163.com/2015/1208/mu/" target="_blank" >
+                  <img width="100" height="75" alt="全民奇迹周年庆" src="http://img1.cache.netease.com/cnews/2015/12/9/201512091029130ed1c.jpg" />
+               </a>
+               <p><a href="http://go.163.com/2015/1208/mu/" target="_blank">全民奇迹周年庆</a></p>
+            </li>
+                        <li title="纪念抗战胜利"  class="marginR0" >
+               <a href="http://war.163.com/special/dfkangzhan/" target="_blank" >
+                  <img width="100" height="75" alt="纪念抗战胜利" src="http://img4.cache.netease.com/cnews/2015/6/18/20150618172555fb7bd.png" />
+               </a>
+               <p><a href="http://war.163.com/special/dfkangzhan/" target="_blank">纪念抗战胜利</a></p>
+            </li>
+                        <li title="曝光天国阶梯" >
+               <a href="http://bbs.gz.house.163.com/photoalbum/showing/330447225.html" target="_blank" >
+                  <img width="100" height="75" alt="曝光天国阶梯" src="http://img3.cache.netease.com/cnews/2013/6/16/20130616083415c9662.jpg" />
+               </a>
+               <p><a href="http://bbs.gz.house.163.com/photoalbum/showing/330447225.html" target="_blank">曝光天国阶梯</a></p>
+            </li>
+                        <li title="航天员真实生活"  class="marginR0" >
+               <a href="http://bbs.news.163.com/photoalbum/photo/330046625.html" target="_blank" >
+                  <img width="100" height="75" alt="航天员真实生活" src="http://img4.cache.netease.com/cnews/2013/6/16/201306160833555eeb0.jpg" />
+               </a>
+               <p><a href="http://bbs.news.163.com/photoalbum/photo/330046625.html" target="_blank">航天员真实生活</a></p>
+            </li>
+                     </ul>
+      </div>
+             <div class="normal">
+         <ul class="news-photoTab-list clearfix">
+                        <li title="脸小猫OL范" >
+               <a href="http://126.am/5HRRK2" target="_blank" >
+                  <img width="100" height="75" alt="脸小猫OL范" src="http://img4.cache.netease.com/2008/2014/1/24/201401241629526700a.jpg" />
+               </a>
+               <p><a href="http://126.am/5HRRK2" target="_blank">脸小猫OL范</a></p>
+            </li>
+                        <li title="Kayi：赫本风"  class="marginR0" >
+               <a href="http://kayitusiji.blog.163.com/blog/static/212063090201402111222769/" target="_blank" >
+                  <img width="100" height="75" alt="Kayi：赫本风" src="http://img2.cache.netease.com/2008/2014/1/24/201401241630077689a.jpg" />
+               </a>
+               <p><a href="http://kayitusiji.blog.163.com/blog/static/212063090201402111222769/" target="_blank">Kayi：赫本风</a></p>
+            </li>
+                     </ul>
+         <ul class="news-list">
+                        <li>
+               <a href="http://126.am/P0zN74" target="_blank">禁区姐姐：陪伴我度过2013的小伙伴们</a>
+            </li>
+                        <li>
+               <a href="http://aiqinqinxinxin.blog.163.com/blog/static/22860710620140218411024/" target="_blank">亲亲新新：Roses Roses I Love You</a>
+            </li>
+                        <li>
+               <a href="http://yanyan860414.blog.163.com/blog/static/48824314201402115029590/" target="_blank">小夜：美美地迎接新年</a>
+            </li>
+                        <li>
+               <a href="http://lhqmaggie.blog.163.com/blog/static/229469084201402193622688/" target="_blank">北北：给女人特别的呵护</a>
+            </li>
+                        <li>
+               <a href="http://xinxilily.blog.163.com/blog/static/22914008220140204464543/" target="_blank">Lily：抗老从内到外</a>
+            </li>
+                     </ul>
+      </div>
+            <div class="normal">
+         <ul class="news-photoTab-list clearfix">
+                        <li title="vivianxu" >
+               <a href="http://vivianxu1105.blog.163.com/blog/static/13805735520140220481488/" target="_blank" >
+                  <img width="100" height="75" alt="vivianxu" src="http://img3.cache.netease.com/2008/2014/1/24/2014012416284753858.jpg" />
+               </a>
+               <p><a href="http://vivianxu1105.blog.163.com/blog/static/13805735520140220481488/" target="_blank">vivianxu</a></p>
+            </li>
+                        <li title="蜜蜜"  class="marginR0" >
+               <a href="http://pigssss.blog.163.com/blog/static/22919411220140212541428/" target="_blank" >
+                  <img width="100" height="75" alt="蜜蜜" src="http://img3.cache.netease.com/2008/2014/1/24/20140124162906ad2e6.jpg" />
+               </a>
+               <p><a href="http://pigssss.blog.163.com/blog/static/22919411220140212541428/" target="_blank">蜜蜜</a></p>
+            </li>
+                        <li title="许小丫" >
+               <a href="http://iamyababy.blog.163.com/blog/static/17910806620140207484372/" target="_blank" >
+                  <img width="100" height="75" alt="许小丫" src="http://img2.cache.netease.com/2008/2014/1/24/20140124162924fbbbf.jpg" />
+               </a>
+               <p><a href="http://iamyababy.blog.163.com/blog/static/17910806620140207484372/" target="_blank">许小丫</a></p>
+            </li>
+                        <li title="小树幸福"  class="marginR0" >
+               <a href="http://wewe5555.blog.163.com/blog/static/17541245820140211431157/" target="_blank" >
+                  <img width="100" height="75" alt="小树幸福" src="http://img6.cache.netease.com/2008/2014/1/24/201401241629391b725.jpg" />
+               </a>
+               <p><a href="http://wewe5555.blog.163.com/blog/static/17541245820140211431157/" target="_blank">小树幸福</a></p>
+            </li>
+                     </ul>
+      </div>
+            <div class="normal">
+         <ul class="news-photoSml-list clearfix">
+                                    <li title="豌豆荚一览 - 1 分钟看完所有应用的最新内容（高效率阅读头条新闻资讯娱" >
+               <a href="http://m.163.com/iphone/software/32ptl7.html" target="_blank" >
+                  <img width="47" height="47" alt="豌豆荚一览 - 1 分钟看完所有应用的最新内容（高效率阅读头条新闻资讯娱" src="http://imgm.ph.126.net/siHx6VpzclXUzYJxn9K1kw==/6631222796840525255.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32ptl7.html" target="_blank">豌豆荚一览 - 1 分钟看完所有应用的最新内容（高效率阅读头条新闻资讯娱</a></p>
+            </li>
+                                                <li title="蛋糕物语（网易出品最浪漫社交经营手游）" >
+               <a href="http://m.163.com/iphone/software/32pnai.html" target="_blank" >
+                  <img width="47" height="47" alt="蛋糕物语（网易出品最浪漫社交经营手游）" src="http://imgm.ph.126.net/JYLK1RS_RljPhR7xt4s2Xw==/6608901611283602312.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32pnai.html" target="_blank">蛋糕物语（网易出品最浪漫社交经营手游）</a></p>
+            </li>
+                                                <li title="网易财经-股票、基金、证券资讯直播"  class="marginR0" >
+               <a href="http://m.163.com/iphone/software/32n37f.html" target="_blank" >
+                  <img width="47" height="47" alt="网易财经-股票、基金、证券资讯直播" src="http://imgm.ph.126.net/RzSThqXOi_shBqBM7_11FA==/1543890247276055620.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32n37f.html" target="_blank">网易财经-股票、基金、证券资讯直播</a></p>
+            </li>
+                                                <li title="猫和老鼠官方手游——金秋十月，新学堂场景，汤姆大逆袭" >
+               <a href="http://m.163.com/iphone/software/32pn6j.html" target="_blank" >
+                  <img width="47" height="47" alt="猫和老鼠官方手游——金秋十月，新学堂场景，汤姆大逆袭" src="http://imgm.ph.126.net/HuAhNgEImJHiB7Tx1bdWcA==/1077486210866620866.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32pn6j.html" target="_blank">猫和老鼠官方手游——金秋十月，新学堂场景，汤姆大逆袭</a></p>
+            </li>
+                                                <li title="网易考拉海购—全球海淘自营正品" >
+               <a href="http://m.163.com/iphone/software/32plug.html" target="_blank" >
+                  <img width="47" height="47" alt="网易考拉海购—全球海淘自营正品" src="http://imgm.ph.126.net/ARp1nkVOSLrAdFkHkCnbBQ==/983473568645593075.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32plug.html" target="_blank">网易考拉海购—全球海淘自营正品</a></p>
+            </li>
+                                                <li title="魔天记（全新）-1v1斗法竞技手游"  class="marginR0" >
+               <a href="http://m.163.com/iphone/software/32pmf1.html" target="_blank" >
+                  <img width="47" height="47" alt="魔天记（全新）-1v1斗法竞技手游" src="http://imgm.ph.126.net/1MhEusSEWBKQuiwrDwPZyQ==/6619127069422199092.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32pmf1.html" target="_blank">魔天记（全新）-1v1斗法竞技手游</a></p>
+            </li>
+                                                                                                                                                                                                                                 </ul>
+         <ul class="news-list">
+                        <li>
+               <a href="http://miaomiaominy.blog.163.com/blog/static/2291070772014021260109/" target="_blank">喵喵Miny：打开毛孔，接受爱吧</a>
+            </li>
+                        <li>
+               <a href="http://m181819517.blog.163.com/blog/static/187295066201402104155224/" target="_blank">monmon：年前补水美白篇</a>
+            </li>
+                     </ul>
+      </div>
+   </div>
+</div>
+
+<div class="board-widget-container">
+   <div class="hd">
+      <h3>
+                  论坛活动
+      </h3>
+   </div>
+   <div class="bd">
+                            <a href="http://digibbs.tech.163.com/bbs/weisheying/562152679.html" target="_blank" class="news-image-top"><img src="http://img4.cache.netease.com/cnews/2015/6/30/20150630222414ee756.jpg"
+                 alt="网易数码摄影大赛第31期" title="网易数码摄影大赛第31期" />
+           </a>
+                        <ul class="news-list">
+                  <li>
+            <a href="http://bbs.travel.163.com/bbs/tuyou/582474052.html" target="_blank">图游有奖活动【我在秋色中撒娇】</a>
+         </li>
+                  <li>
+            <a href="http://digibbs.tech.163.com/bbs/shumadaren/518753764.html" target="_blank">达人试机团 万元徕卡高端相机免费试用</a>
+         </li>
+                  <li>
+            <a href="http://digibbs.tech.163.com/bbs/shumadaren/518718196.html" target="_blank">说陪伴你身边的智能硬件 赢智能水杯</a>
+         </li>
+                  <li>
+            <a href="http://service.bbs.163.com/bbs/doings/500638832.html" target="_blank">扫码+发帖 赢取小狗电器情人节大礼</a>
+         </li>
+                  <li>
+            <a href="http://service.bbs.163.com/bbs/doings/494023505.html" target="_blank">说出你的旅行梦 七洲网帮你实现</a>
+         </li>
+               </ul>
+   </div>
+</div>
+
+<div class="board-widget-container">
+   <div class="hd">
+      <h3>
+                  热点话题
+      </h3>
+   </div>
+   <div class="bd">
+      <div class="news-top-item">
+                                       <a href="http://digibbs.tech.163.com/bbs/weisheying/562152679.html" target="_blank">
+               <img width="100" height="75" alt="网易数码摄影大赛" title="网易数码摄影大赛" src="http://img3.cache.netease.com/cnews/2015/6/30/2015063022273954a06.jpg">
+             </a>
+             <h3>
+               <a href="http://digibbs.tech.163.com/bbs/weisheying/562152679.html" target="_blank">网易数码摄影大赛</a>
+             </h3>
+             <p>我眼中的似水流年作品征集<span class="red"><a href="http://digibbs.tech.163.com/bbs/weisheying/562152679.html" target="_blank">[详细]</a></span></p>
+                                      </div>
+      <ul class="news-list">
+                  <li>
+            <a href="http://bbs.ent.163.com/bbs/bagua/503674338.html" target="_blank">汪峰章子怡童年照</a>
+         </li>
+                  <li>
+            <a href="http://bbs.gz.house.163.com/photoalbum/trips/502151092.html" target="_blank">最富有的东欧国家</a>
+         </li>
+                  <li>
+            <a href="http://bbs.gz.house.163.com/photoalbum/trips/502208904.html" target="_blank">中国最贫穷的地方</a>
+         </li>
+                  <li>
+            <a href="http://bbs.163.com/special/0015sp/dashumantan_71.html" target="_blank">在香港上公厕有多难</a>
+         </li>
+                  <li>
+            <a href="http://bbs.163.com/special/0015sp/dashumantan_69.html" target="_blank">盖茨劝中国富人做慈善</a>
+         </li>
+               </ul>
+   </div>
+</div>
+
+<div class="board-widget-container" id="user_top">
+   <div class="hd">
+      <h3>
+                  24小时热帖榜
+      </h3>
+   </div>
+   <div class="bd">
+      <ul>
+                  <li>
+            <span class="num hot" >
+                     1
+            </span>
+            <a href="http://bbs.news.163.com/bbs/shishi/591818785.html" target="_blank" title="[原创]电工为抢修砍树被罚300元，忒冤！">[原创]电工为抢修砍树被罚3..</a>
+         </li>
+                  <li>
+            <span class="num hot" >
+                     2
+            </span>
+            <a href="http://bbs.news.163.com/bbs/shishi/591789795.html" target="_blank" title="[原创]伟大的人民公仆：纪念毛泽东同志诞辰122周年特辑[配字图片集锦收藏]">[原创]伟大的人民公仆：纪念..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     3
+            </span>
+            <a href="http://bbs.news.163.com/bbs/guoji/591776419.html" target="_blank" title="睿：所谓万科宝能之争，看了本人11月17日发帖。。">睿：所谓万科宝能之争，看了本..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     4
+            </span>
+            <a href="http://bbs.news.163.com/bbs/country/591782797.html" target="_blank" title="&quot;中国梦&quot;与中国百姓的梦(原)">&quot;中国梦&quot;与中国百姓的梦(原..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     5
+            </span>
+            <a href="http://bbs.news.163.com/bbs/country/591784003.html" target="_blank" title="【2015年最搞笑的新闻，不晓得的人还以为是段子】">【2015年最搞笑的新闻，不..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     6
+            </span>
+            <a href="http://bbs.news.163.com/bbs/pp/591783233.html" target="_blank" title="【原创摄影】《丽江千古情》震撼千古">【原创摄影】《丽江千古情》震..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     7
+            </span>
+            <a href="http://bbs.news.163.com/bbs/guoji/591806292.html" target="_blank" title="就怕灰心">就怕灰心</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     8
+            </span>
+            <a href="http://bbs.news.163.com/bbs/country/591788395.html" target="_blank" title="【2015那些温暖人心的盘点，给人带来阳光！】">【2015那些温暖人心的盘点..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     9
+            </span>
+            <a href="http://bbs.news.163.com/bbs/guoji/591810915.html" target="_blank" title="[原创]美对台军售，我制裁有效否？">[原创]美对台军售，我制裁有..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     10
+            </span>
+            <a href="http://bbs.news.163.com/bbs/country/591785903.html" target="_blank" title="【有钱任性！月薪过万美女辞职后种地 田间抚琴】">【有钱任性！月薪过万美女辞职..</a>
+         </li>
+               </ul>
+   </div>
+</div>
+<!--延长线-->
+<!-- <script style="text/javascript">
+var LeftBox="#tie_wrapper";
+var MinWidth = 1340;
+var RightBox="#tie_addtion";
+var RightBoxPr=4;
+var GtflAdForBBs=[{
+	"name":"FLashObject240530",
+	"width":"240",
+	"height":"600",
+	"src":"http://img1.126.net/channel4/015794/gh240600_0513.swf",//素材地址
+	"url":"http://g.163.com/a?CID=28229&Values=772833867&Redirect=http://www.kuaichale.com/hot/ltw/?from=163lt_Y"
+}];
+</script>
+<script language="javascript"; src="http://img2.126.net/ntesrich/auto/adbox/adbox-v1.1.2-120705.js"></script>
+<script language="javascript"; src="http://img2.126.net/ntesrich/temp/float_logo_gt20140416_1_bbs.js"></script> -->
+<iframe
+src="http://g.163.com/a?CID=28580&actionId=imp" width="1" height="1" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+</iframe>
+                <!--"/htmlfile/post_side/news.html"-->
+        
+        <!-- 右侧栏底部广告 -->
+        <div class="tie-right-ad">
+            <div id="youdao_ad_art_2" style="display:block;"></div>
+            <!--"/htmlfile/side_2009/article_side_bottom_ad.html"-->
+        </div>
+    </div>
+</div>
+
+   <!--帖子页底部广告-->
+   <div class="tie-bottom-ad">
+       <div style="padding-left:15px;display:none;"><embed src="http://img1.126.net/channel2/006796/006796_65060_091225.swf" 
+pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?
+P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" play="true" loop="true" quality="high" scale="showall" menu="true" width="650" height="80"></embed></div>
+       <!--"/htmlfile/bottom/bbs_news/news_article_bottom.html"-->
+   </div>
+        <div id="footer" class="footer">
+        <div class="police"><img src="http://bbs.163.com/bbs/img/police.gif"><div class="text"><a href="http://www.bj.cyberpolice.cn/index.htm">网络110<br>报警服务</a></div></div>
+        <div class="footText">
+            <a href="http://corp.163.com/">About NetEase</a> - <a href="http://gb.corp.163.com/gb/about/overview.html">公司简介</a> - <a href="http://gb.corp.163.com/gb/contactus.html">联系方法</a> - <a href="http://corp.163.com/gb/job/job.html">招聘信息</a> - <a href="http://help.163.com/ ">客户服务</a> - <a href="http://gb.corp.163.com/gb/legal.html">相关法律</a> - <a href="http://emarketing.biz.163.com/">网络营销</a>  - <a href="http://sitemap.163.com/">网站地图</a><br>
+            网易公司版权所有<br>
+            <span class="cRed">&copy;1997-2015</span>
+        </div>
+    </div>
+        <div id="scroll_to_top"></div>    <div id="dialog_login">
+    <form id="login_form" action="https://reg.163.com/logins.jsp" method="post" >
+        <input type="hidden" name="type" value="1" />
+        <input type="hidden" name="url" id="login_url" />
+        <input type="hidden" name="product" value="bbs" />
+        <div class="row">
+            <label> 帐号:
+                <input id="account" name="username" type="text" tabindex="1" />
+            </label>
+            <a href="http://reg.163.com/reg/reg.jsp?product=bbs&loginurl=http://bbs.163.com&url=" style="color:#BA2636;"  target="_blank">注册通行证</a>
+        </div>
+        <div class="row">
+            <label> 密码:
+                <input name="password" type="password" class="password" tabindex="2" />
+            </label>
+            <a href="http://reg.163.com/RecoverPassword.shtml" target="_blank">忘记密码？</a>
+        </div>
+        <div class="checkbox row">
+            <label>
+                <input name="savelogin" type="checkbox" value="1" tabindex="3" /> 下次自动登录
+            </label>
+            <!--
+            <label>
+                <input name="savelogin" type="checkbox" value="1" tabindex="4" /> 记住密码
+            </label>
+            -->
+        </div>
+        <div class="btn-set">
+            <span class="ui-button btn-login ui-button-on" tabindex="5">登录</span>
+            <span class="ui-button btn-cancel">取消</span>
+        </div>
+    </form>
+</div>    <div id="dialog_box">
+    <div id="dialog_form">
+    </div>
+</div>
+<script type="text/template" id="giftTemplate">
+<div id="giftBox">
+<div class="present_list_article">
+<div id="giftItemWraper"></div>
+<div id="giftpager"></div>
+ <div>赠言(仅限<span style="color: red;">20</span>字以内）
+    <textarea id="remark" name="remark" cols="35" class="gift-text" ></textarea>
+</div>
+</div>
+</div>
+</script>
+<script type="text/template" id="reportTemplate">
+          <div style="margin-bottom:5px;">请注明投诉原因:</div>
+          <textarea name="content" id="reportcontent"></textarea>
+</script>
+<script type="text/template" id="moveTemplate">
+<div class="dialog_c_wraper">
+<table>
+<tr><td>复制到</td></tr>
+<tr><td> <select id="moveChannelName" name="destDbname"></select></td></tr>
+<tr><td><select id="selectBoardid" name="selectBoardid"><option value="-1">请选择</option></select></td></tr>
+<tr><td>自定义版面ID：<input type="text" value="" id="destBoardid" name="destBoardid"></td></tr>
+<tr><td><input type="checkbox" id="isDelete" name="isDelete"><label for="isDelete">删除原始帖子</label></td></tr>
+</table>       
+</script>
+<script type="text/template" id="pushThread">
+   <div class="dialog_c_wraper">
+  <table>
+ <tr>
+ <td>范围:</td>
+ <td>
+     <select name="boardid" id="pushThreadScope">
+    </select>
+ </td></tr>
+ </table>
+ </div>
+ </div>
+</script>
+<script type="text/template" id="blackUserTemplate">
+ <div class="dialog_c_wraper">
+ <table>
+ <tr><td>通行证:</td><td><span id="userpassport"></span></td></tr>
+ <tr><td>昵  称:</td><td><span id="userusername"></span></td></tr>
+ <tr><td>加黑理由:</td><td><textarea id="userreason"></textarea></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="eliteTemplate">
+<div class="dialog_c_wraper">
+ <table>
+ <tr><td><div class="dialog_box_message">选择精华分类:</div></td></tr>
+ <tr><td><select id="eliteChannel">
+ <option value="-1">未分类</option>
+ </select></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="deliteTemplate">
+<div class="dialog_c_wraper">
+ <table>
+ <tr><td><div class="dialog_box_message">取消加精华</div></td></tr>
+ <tr><td><span id="eliteChannelLabel"></span></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="recommendTemplate">
+<div class="dialog_c_wraper">
+ <table>
+ <tr><td><div class="dialog_box_message">选择推荐分类:</div></td></tr>
+ <tr><td><select id="recommendChannel">
+  <option value="-1">未分类</option>
+ </select></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="drecommendTemplate">
+<div class="dialog_c_wraper">
+ <table>
+ <tr><td><div class="dialog_box_message">取消推荐</div></td></tr>
+ <tr><td><span id="recommendChannelLabel"></span></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="blackTemplate">
+    <div class="dialog_c_wraper">
+	<table>
+			 <tr><td>范围:</td><td>
+			    <select name="boardid" id="blackBoardId">
+                </select>
+			 </td></tr>
+			 <tr><td>通行证:</td><td><span id="blacklist_passport"></span></td></tr>
+			 <tr><td>昵称</td><td><span id="blacklist_nickname"></span></td></tr>
+			 <tr><td>封权人</td><td><span id="ban_people"></span></td></tr>
+			 <tr><td>加黑时间</td><td>
+			      <select name="deltime">
+                    <option value="1">24小时</option>
+                    <option selected="selected" value="2">3天</option>
+                    <option value="3">一周</option>
+                    <option value="4">一个月</option>
+                    <option value="5">三个月</option>
+                    <option value="6">半年</option>
+                    <option value="7">一年</option>
+                </select>
+			 </td></tr>
+			 <tr><td>加黑理由</td><td>
+			      <select name="reason">
+                    <option value="广告" selected="selected">广告</option>
+                    <option value="色情">色情</option>
+                    <option value="刷屏">刷屏</option>
+                    <option value="谩骂">谩骂</option>
+                    <option value="不和谐">不和谐</option>
+                    <option value="其它违规">其它违规</option>
+                </select>
+			 </td></tr>
+	</table>
+	</div>
+</script>
+<script type="text/template" id="ipTemplate">
+<div class="dialog_c_wraper">   
+   <table>
+			 <tr><td><strong style="width:50px;">发贴用户:</strong></td><td><span id="black_nickname"></span></td></tr>
+			 <tr><td><strong>发贴IP:</strong></td><td><span id="black_ip"></span></td></tr>
+			 <tr><td><strong>加黑理由</strong></td><td><input type="text" size="25" value="广告" id="black_reason"/></td></tr>
+			 <tr><td></td><td><input type="checkbox" id="blackipchk"/> 删除该IP在当前频道3天内的贴子</td></tr>
+	</table>
+</div>
+</script>
+<script type="text/template" id="listTemplate">
+    <table id="listtable" cellpadding="0" cellspacing="0">
+    <thead id="listhead">
+    </thead>
+    <tbody id="listbody">
+    </tbody>
+    </table>
+	<div id="listpager"></div>
+</script>
+
+<script type="text/template" id="sendMessageTemplate">
+    <div class="message_sendbox">
+        <table>
+		<tr>
+		<td></td>
+		<td><input type="text" readonly="readOnly" value="" class="inputBox inputBox-name" name="username" id="message_name" style="display:none;"></td>
+		</tr>
+		<tr>
+		<td><label>昵 称:</label></td>
+		<td><span id="nickname"></span></td>
+		</tr>
+		<tr>
+		<td><label for="message_content">内	容:</label></td>
+		<td><textarea class="inputBox"  id="message_content"></textarea></td>
+		</tr>
+		<tr>
+		<td></td>
+		<td>        
+		<span id="numTips">还可输入<span id="msgBytes">127</span>个字</span>
+	    <div id="errornumTips">已经超出<span id="msgerrorBytes"></span>个字</div>
+		</td>
+		</tr>
+		<tr>
+		<td><label>验证码:</label></td>
+		<td>
+		 <div class="vertifyCode">
+			<input type="text" maxlength="4" class="inputBox inputBox-name"  name="checkcode" id="checkcode" size="20"> <img alt="看不清，换一张" src="/v2/checkcode/codeimg" id="imgcheckcode"><a id="changeCode" style="display:inline;" href="javascript:;">换一张</a>
+		 </div>
+		</td>
+		</tr>
+		</table>
+    </div>
+</script>
+
+<script type="text/template" id="recTemplate">
+     <div class="guess-area">
+         <div class="guess-area-hd"><h3>猜你喜欢</h3></div>
+            <div class="guess-area-bd">
+                <div class="guess-pic">
+                            <a target="_blank" href="<#=headRec.url#>?from=<#=dbname#>top" title="<#=headRec.title#>"><img src="<#=headRec.imgsrc#>" /></a>
+                            <h4><a target="_blank" href="<#=headRec.url#>?from=<#=dbname#>top" title="<#=headRec.title#>"><#=headRec.title#></a></h4>
+                        </div>
+                        <div class="guess-list">
+                              <h4><a target="_blank" title="<#=lineRec.title#>" href="<#=lineRec.url#>?from=<#=dbname#>tol"><#=lineRec.title#></a></h4>
+                            <ul> 
+                            <#for(var i=0;i<recommends.length;i++){#>
+                                <li><a target="_blank" title="<#=recommends[i].title#>" href="<#=recommends[i].url#>?from=<#=dbname#>toc""><#=recommends[i].title#></a></li>
+                            <#}#>
+                            </ul>
+                <a target="_blank" href="http://t.163.com/BBS">关注论坛官方微博 &gt;</a>
+            </div>
+         </div>
+     </div>
+</script>
+    
+   <script type="text/javascript">
+                  var global_channel="shishi";
+                                     var isNeedLoginPost=true;
+                                    
+                  
+                                      var isRecommend=true;
+                                    
+   </script>
+
+
+<script type="text/javascript" src="http://img1.cache.netease.com/bbs/static/20150917/forum_tie.js" charset="GBK"></script>
+<div style="display:none;">
+<iframe height="22" frameborder="no" width="960" scrolling="no" name="ad_pop" marginheight="0" marginwidth="0" border="0" src="http://baby.163.com/?channel=news&type=post"></iframe>
+</div> 
+<script type="text/javascript">	
+			oEditor.set({ html: '' });	
+</script>
+
+<script src="http://analytics.163.com/ntes.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+_ntes_nacc = "news";
+neteaseTracker();
+</script>
+<!-- START WRating v1.0 -->
+<script type="text/javascript" src="http://163.wrating.com/a1.js"></script>
+<script type="text/javascript">
+var vjAcc="860010-0502020100";
+var wrUrl="http://163.wrating.com/";
+vjTrack();
+</script>
+<noscript><img src="http://163.wrating.com/a.gif?c=860010-0502020100" width="1" height="1"/></noscript>
+<!-- END WRating v1.0 -->
+</body>
+</html>	
+

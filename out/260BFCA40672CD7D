@@ -1,0 +1,627 @@
+<!--UINFO: http://www.mscbsc.com/bbs/thread-587928-1-1.html	length=42437&last_modified=0&time_saved=1450677189&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<title>4G未满  5G革命枪声已响 -  MSCBSC 移动通信论坛  |  国内领先的通信技术论坛</title>
+<link rel="alternate" type="application/rss+xml" title="ROR" href="sitemapIndex.php" />
+
+<meta name="keywords" content="Discuz!,Board,Comsenz,forums,bulletin board,移动通信,通信工程师的家园,通信人才,求职招聘,网络优化,通信工程,出差住宿,通信企业黑名单">
+<meta name="description" content="MSCBSC 移动通信论坛 mscbsc 移动通信论坛拥有30万通信专业人员，超过50万份GSM/3G等通信技术资料，是国内领先专注于通信技术和通信人生活的社区。 - Discuz! Board">
+<meta name="generator" content="Discuz! 5.5.0 with Templates 5.0.0">
+<meta name="MSSmartTagsPreventParsing" content="TRUE">
+<meta http-equiv="MSThemeCompatible" content="Yes">
+<link rel="archives" title="MSCBSC 移动通信论坛" href="http://www.mscbsc.com/bbs/archiver/">
+<link rel="stylesheet" type="text/css" id="css" href="forumdata/cache/style_6.css">
+<script src="include/javascript/jquery.js" type="text/javascript"></script>
+<script src="include/javascript/jquery.AlertWindow.js" type="text/javascript"></script>
+<script src="include/javascript/jquery.timer.js" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery.noConflict();
+</script>
+<script src="include/javascript/common.js" type="text/javascript"></script>
+<script src="include/javascript/menu.js" type="text/javascript"></script>
+<script src="include/javascript/ajax.js" type="text/javascript"></script>
+
+<script type="text/javascript">var IMGDIR = 'images/default';var SMDIR = 'images/smilies';</script>
+
+<!-- 请置于所有广告位代码之前 -->
+<script src="http://cbjs.baidu.com/js/m.js" type="text/javascript"></script>
+</head>
+
+<body>
+<script type="text/javascript">
+jQuery(document).ready(function(){ 
+jQuery("#close").click(function(){
+jQuery('#navigation').hide();
+});
+//判断分辨率在1024像素以上就显示快捷操作栏
+var isWidescreen=screen.width>1024; 
+if(isWidescreen){
+jQuery('#navigation').show();
+}
+});
+</script>
+
+<div class="odiv" id="login_popup" style="display: none">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+  <tr><td class="lt"></td><td class="t"></td><td class="rt"></td></tr><tr><td class="l"></td><td class="tbox">
+<h3 class="tit"><b>扫描二维码登录</b><a class="cls" href="#login" onClick="openShutManager(this,'login_popup_menu',false)" title="关闭">关闭</a></h3>
+<div style="padding:10px; width:400px; font-size:12px;">
+    <form method="post" name="login" action="logging.php?action=vlogin">
+<input type="hidden" name="formhash" value="eac94cd6">
+<input type="hidden" name="referer" value="">
+    <img src="qrcode_yz.jpg" height="160" style="float:left; margin:8px;" /> <br /><br />请用微信扫描左边二维码获得验证码<br /><br />
+<input id="vvcode" name="vcode" type="text" size="12" /> <span id="vtip"> * 填写验证码</span><br>
+<input class="button" type="submit" name="loginsubmit" value="提 &nbsp; 交"><br /><br />
+* 无需输入用户名密码，安全可靠 （需要微信已绑定）<a href="logging.php?action=login" class="btn1 btnsF12">普通登录</a>
+ </form>   
+     </div>
+    
+     </td><td class="r"></td></tr><tr><td class="lb"></td><td class="b"></td><td class="rb"></td></tr></table><s><i></i></s>
+  </div>
+
+<ul id="navigation" style="display:none;">
+            <li><span onclick="scroll(0,0)"><img src="images/default/top.gif" border="0" alt="顶部" /> 返回页顶</span></li>
+            <li class="ask"><a style=" border-bottom:1px solid #1d548a" href="http://www.mscbsc.com/askpro/ask.php" target="_blank" title="技术提问">我要提问</a></li>
+            <li class="writenote"><a style=" border-bottom:1px solid #1d548a"  href="
+post.php?action=newthread&fid=307" target="_blank" title="发新贴">我要发帖</a></li>
+            <li class="upload"><a href="
+post.php?action=newthread&fid=307&data=yes
+" target="_blank" title="分享资源">分享资源</a></li>
+ <li><span id="close">X 关闭</span></li>             
+</ul>
+
+<center>
+<div class="maintable" style="background-color:#FFF">
+<div class="mainborder" id="jsmenu_parent" style="	width: 956px; "></div>
+<div class="mainheader" style="	width: 956px; ">
+
+<div style=" width:120px; float:left;">
+<span onClick="var strHref=window.location.href;this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.mscbsc.com/bbs');" style="CURSOR: hand"><img src="images/home.gif" border="0" style="vertical-align:middle;"> 设MSCBSC为首页</span>
+ </div>
+
+<div align="right">
+
+<a href="http://www.mscbsc.com" target="_blank">移动通信网</a> | <a href="http://www.mscbsc.com/news/" target="_blank">通信要闻</a> | <a href="http://www.mscbsc.com/askpro/" target="_blank">技术问答</a> | <a href="http://www.mscbsc.com/blog/" target="_blank">博客</a> | <a href="http://www.mscbsc.com/group/" target="_blank">圈子</a>  | <a href="http://www.telecomhr.com" target="_blank">人才</a> | <a href="http://www.mscbsc.com/bbs/" target="_blank">论坛</a> | <a href="forum-74-1.html" target="_blank">资料</a> | <a href="forum-185-1.html" target="_blank">论坛指南</a> | <a href="thread-129-1-1.html" target="_blank"><font color="red">积分说明</font></a> | <a href="thread-66084-1-1.html" target="_blank"><font color="red">帐号的保护和激活</font></a>&nbsp;&nbsp;</div>
+
+<div class="logo" style="width: 956px; background-color:#FFFFFF;"><table width="100%" border="0"><tr>
+<td width="20%"><div align="left"><a href="forum.php"><img src="images/default/logo6.jpg" alt="MSCBSC 移动通信论坛" border="0" /></a></div></td>
+<td>
+<div id="headerbanner" class="right"><!-- 广告位：移动通信论坛页顶468x60 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("491140");</script></div>
+</td>
+</tr></table>
+
+</div>
+
+
+</div>
+
+
+<div class="mainheader" style="	width: 956px; ">
+
+
+<div align="right">
+<span class="left">
+</span>
+<span class="bold">游客: &nbsp;</span><a href="register.php">注册</a>
+| <a href="#login"   onclick="openShutManager(this,'login_popup',false)">登录</a>
+| <a href="http://search.mscbsc.com" target="_blank">搜索</a> 
+    
+| <a href="memcp.php?action=credits&operation=addfunds"><font color=red>充值威望</font></a> 
+    
+| <a href="invitecode.php">邀请注册</a> 
+    
+| <a href="../askpro/index.php"><font color=green>技术问答</font></a> 
+| <span id="plugin" onMouseOver="showMenu(this.id)">扩展功能<img alt="" title="" src="images/default/jsmenu.gif" border="0"></span>
+| <a href="faq.php">帮助</a>
+
+</div></div>
+</div>
+
+<!--搜索部分开始--> 
+<div id="searchA"> 
+  <div class="searchA_right">&nbsp;<a href="http://www.mscbsc.com/askpro" target="_blank">问答区</a> | <a href="search.php?srchfrom=87000&amp;searchsubmit=yes" target="_blank">新帖区</a> | <a href="digest.php" target="_blank">精华区</a>  
+<a href="rss.php?auth=0" target="_blank"><img src="images/common/xml.gif" border="0" class="absmiddle" alt="RSS 订阅全部论坛" /></a>
+</div> 
+  <div class="searchA cc"> 
+    <div id="banner_search"> 
+      <form class="searchForm" method="post" action="http://search.mscbsc.com/do/s.php" target="_blank"  onsubmit="return checkkw();"> 
+        <input class="text_input" id="kw" onblur="(this.value=='')?this.value='在50万帖子，100万资料，8万问答中搜索':this.value" onfocus="if(this.value=='在50万帖子，100万资料，8万问答中搜索'){this.value='';};this.select();" value="在50万帖子，100万资料，8万问答中搜索" name="q"> 
+        <select name="stype" class="select_input"> 
+          <option value="1" selected="selected">全部</option> 
+          <option value="2">帖子</option> 
+          <option value="3">资料</option> 
+          <option value="4">问答</option> 
+          <option value="5">招聘</option> 
+        </select> 
+        <input type="image" src="images/newindex/search1.gif" style="border:0px; height:28px; margin-left:10px;"> 
+      </form> 
+    </div> 
+  </div> 
+</div> 
+    <script type="text/javascript">
+function checkkw()
+{
+var kw = document.getElementById("kw").value;
+if(kw == "" || kw == '在50万帖子，100万资料，8万问答中搜索'){
+alert("请输入关键词，再进行搜索！\n\n关键词是你要搜寻的内容，多关键词用空格隔开");
+document.getElementById("kw").focus();
+return false;
+
+}
+return true;
+ 
+}
+</script>	
+<!--搜索部分结束--> 
+
+
+<div class="maintable"  style="width:960px;background-color:#FFFFFF; margin-top:0px;">
+<DIV id=digest style="RIGHT: 480px; WIDTH: 0px; POSITION: absolute; TOP: 425px; HEIGHT: 0px; filter: Alpha(opacity=50); -moz-opacity:.5;opacity:0.5;  " >
+ </DIV>
+<div class="topclass">
+<a href="http://www.telecomhr.com/wangyou" target="_blank">网络优化工程师招聘专栏</a>
+<a href="http://www.telecomhr.com/4g" target="_blank">4G/LTE通信工程师最新职位列表</a>
+<a href="http://www.telecomhr.com/shixi" target="_blank">通信实习生/应届生招聘职位</a>
+<img src="./gbook/txrcw220x30.jpg" border="0" onclick="javascript:location.href='http://www.telecomhr.com/jobs';" title="更多通信招聘职位" />
+</div>
+
+<div class="subtable nav" style="width:956px; padding:3px; ">
+<a href="forum.php">MSCBSC 移动通信论坛</a>
+ &raquo; <a href="forum-307-1.html">运营商·运营人</a> &raquo; 4G未满  5G革命枪声已响</div></div>
+<div class="maintable" style="background-color:#FFFFFF">
+<div class="right">
+</div>
+
+
+    
+<table width="956px" cellspacing="0" cellpadding="0" align="left" style="clear: both; background-color:#FFF">
+<tr><td valign="bottom">
+<div style="margin-bottom: 3px">
+<br>
+</div>
+</td><td width="40%" align="right" valign="bottom">
+<div class="right">&nbsp;<a href="post.php?action=reply&amp;fid=307&amp;tid=587928&amp;extra=page%3D1"><img src="images/default/reply.gif" border="0" alt="" /></a></div>
+<div id="newspecialheader" class="right" onmouseover="showMenu(this.id)"><img src="images/default/newtopic.gif" border="0" alt="" /><a href="###"><img src="images/default/newspecial.gif" border="0" alt="" /></a></div>
+<div class="popupmenu_popup newspecialmenu" id="newspecialheader_menu" style="display: none">
+<table cellpadding="4" cellspacing="0" border="0" width="100%">
+<tr><td class="popupmenu_option"><div class="newspecial"><a href="post.php?action=newthread&amp;fid=307&amp;extra=page%3D1">讨论帖</a></div></td></tr>
+<tr><td class="popupmenu_option"><div class="newspecial"><a href="post.php?action=newthread&amp;fid=307&amp;extra=page%3D1&amp;data=yes">资料帖</a></div></td></tr>
+<tr><td class="popupmenu_option"><div class="newspecial"><a href="post.php?action=newthread&amp;fid=307&amp;extra=page%3D1&amp;poll=yes">投票帖</a></div></td></tr>
+<tr><td class="popupmenu_option"><div class="newspecial"><a href="post.php?action=newthread&amp;fid=307&amp;extra=page%3D1&amp;reward=yes">悬赏帖</a></div></td></tr>
+</table></div>
+</td></tr></table></div>
+<script type="text/javascript">
+function fastreply(subject) {
+if($('postform')) {
+$('postform').subject.value = subject;
+$('postform').message.focus();
+}
+}
+</script>
+
+<div class="maintable">
+<div class="spaceborder" style="width: 956px; border-bottom: none">
+<table cellspacing="1" cellpadding="3" width="100%" align="center">
+<tr class="header"><td colspan="2" style=" height:3px;"></td></tr>
+<tr style="height:30px; background-color:#ECF4FC">
+<td class="bold" width="18%" style="color:#666666">
+<div class="readNum">
+<ul class="cc">
+<li><em>309</em>阅读</li>
+<li><em>0</em>回复</li>
+</ul>
+</div>
+
+</td> 
+<td class="bold" style="color:#000000; ">
+<div class="right" style="font-weight: normal">
+<a href="misc.php?action=emailfriend&amp;tid=587928">推荐</a> |
+<a href="my.php?item=subscriptions&amp;subadd=587928" id="ajax_subscription" onclick="ajaxmenu(event, this.id)">订阅</a> |
+<a href="my.php?item=favorites&amp;tid=587928" id="ajax_favorite" onclick="ajaxmenu(event, this.id)">收藏</a>
+</div>
+<span style="font-size:16px;">
+4G未满  5G革命枪声已响</span> 
+</td></tr>
+
+
+</table></div>
+
+<form method="post" name="delpost" action="topicadmin.php?action=delpost&amp;fid=307&amp;tid=587928&amp;page=1">
+<input type="hidden" name="formhash" value="eac94cd6">
+<div class="spaceborder" style="width: 956px; margin-bottom: 4px;
+ border-top: none
+">
+<table cellspacing="1" cellpadding="3" width="100%" align="left" class="t_row">
+<tr style="height: 100%">
+<td width="18%" valign="top" class="t_user"><a name="pid5198399"></a>  <a name="lastpost"></a><a href="space-uid-10142080.html" target="_blank" class="bold">17099015262</a> 
+<img src="images/online.png" border="0" style="vertical-align:middle" title="在线" />
+<br><div class="smalltxt">
+论坛元老 	
+<br />
+ <img src="images/ico_passmobile.gif" border="0" alt="手机号码已验证" style="vertical-align:middle" /> 			
+<br><br />
+<table width="95%" border="0" cellspacing="0" cellpadding="0" style="table-layout: fixed; overflow: hidden">
+<tr><td align="center"><div class="avatar" style="width: 120px"><img src="customavatars/10142080.gif" width="120" height="139" border="0" alt="" /></div></td></tr></table><br>
+<img src="images/common/pm.gif" border="0" style="vertical-align:middle" />&nbsp;<a href="pm.php?action=send&amp;uid=10142080" target="_blank">发短消息</a>&nbsp;
+<img src="images/common/my.gif" border="0" style="vertical-align:middle" />&nbsp;<a href="memcp.php?action=buddylist&amp;newbuddyid=10142080&amp;buddysubmit=yes" target="_blank" id="ajax_buddy_0" onclick="ajaxmenu(event, this.id)">关注Ta</a>&nbsp;
+<br /><br>
+积分 19918<br>
+帖子 3970<br>
+威望 154524 个<br>
+礼品券 40 个<br>
+专家指数 68 <br>
+注册 2015-3-30<br>专业方向&nbsp;
+WLAN保障<br>来自 山东淄博<br>
+回答问题数 <a href='http://www.mscbsc.com/askpro/member.php?command=answer&uid=10142080' target='_blank'>36</a><br />
+回答被采纳数 <a href='http://www.mscbsc.com/askpro/member.php?command=answer&uid=10142080' target='_blank'>1</a><br />
+回答采纳率 <a href='http://www.mscbsc.com/askpro/member-10142080.html' target='_blank'>3%</a><br />
+
+</div>
+</td>
+<td width="82%" valign="top" style="padding: 0px; height:100%;">
+<table border="0" cellspacing="0" cellpadding="3" class="t_msg">
+<tr><td>
+<div>
+<div class="right t_number"><a href="###" class="bold" title="复制帖子链接到剪贴板" onclick="setcopy('http://www.mscbsc.com/bbs/viewthread.php?tid=587928&amp;page=1#pid5198399', '已经复制到剪贴板')">#1</a></div>
+<span class="right">&nbsp;</span>
+<a href="###" class="right t_number" style="background-image: url("images/default/cat_bg.jpg")" onclick="$('message5198399').className='t_bigfont'">大</a>
+<a href="###" class="right t_number" style="background-image: url("images/default/cat_bg.jpg")" onclick="$('message5198399').className='t_msgfont'">中</a>
+<a href="###" class="right t_number" style="background-image: url("images/default/cat_bg.jpg")" onclick="$('message5198399').className='t_smallfont'">小</a>
+<div class="right" style="padding-top: 3px;">
+
+        
+        <a href="magic.php?action=user&amp;pid=5198399" target="_blank">使用道具</a>&nbsp;&nbsp;
+        
+        </div>
+<div style="padding-top: 3px;">
+发表于 2015-11-17 15:30:21&nbsp;
+        
+        
+        <a href="viewthread.php?tid=587928&amp;extra=page%3D1&amp;originator=yes">只看楼主</a>&nbsp;
+        
+        
+        
+<a href="http://wpa.qq.com/msgrd?V=1&amp;Uin=908782248&amp;Site=MSCBSC 移动通信论坛&amp;Menu=yes" target="_blank"><img src="./images/button_old_41.gif"  border="0" alt="QQ" /></a>
+         
+</div></div>
+</td></tr>
+<tr><td valign="top" class="line" style="padding-top: 10px;">
+<div style="float: right" align="right">
+</div>
+      
+<div id="message5198399" class="t_msgfont" style="padding-top:5px; padding-bottom:5px;
+">
+         
+<font face="Arial, Helvetica, "><font style="font-size: 12px"><font face="helvetica, Arial, "><font style="font-size: 18px"><font face="inherit ">4G未满，5G又起。</font><br />
+<br />
+<font face="inherit ">目前，4G技术在全世界范围内已经大规模商用，面向2020年及未来的第五代移动通信技术5G已经成为国际通信领域关注的焦点。移动互联网正在重新塑造产业，用户对于网络的要求是更高速、更便捷、更强大，推动移动通信技术突飞猛进的同时，通信技术体制更新的步伐也越来越紧凑。</font><br />
+<br />
+<font face="inherit "><b>上层引领</b></font><br />
+<br />
+<font face="inherit ">今年6月，ITU完成了5G的一个重要里程碑，确定了5G的名称、愿景和时间表。按照ITU关于2020年的规划，5年后就要全面进入5G了，相比3G、4G发展的进程，5G的规划几乎是坐上火箭冲云霄的速度。</font><br />
+<br />
+<font face="inherit ">“业内对于5G的讨论甚嚣尘上，现在关注的重点是在2020年之前建成一个无缝连接的社会，并在此后将人、物、数据、应用、交通系统和城市汇集在一个智能联网的通信环境中。”ITU秘书长赵厚麟表示。</font><br />
+<br />
+<font face="inherit ">据了解，在全球范围内，新一轮的竞争已经展开。世界各国和各个国际标准化组织已经看到了发展5G的迫切性，纷纷推出各自的科研支撑计划，并投入了巨大的研发力量。欧盟于2013年启动了面向5G研发的规划，并于今年正式公布了5G的公私合作愿景；日本产业电波学会在2014年底公布了5G白皮书；韩国成立了5G技术论坛，提出2017年试运行5G，2020年开展5G商用进程的目标;同时ITU、3GPPP等主流国际标准组织也已经明确了5G的工作时间表，并且于今年分阶段开始开展5G的国际标准制定或者说准备制定国际标准的工作。</font><br />
+<br />
+<font face="inherit ">“在全球业界的共同努力下，5G的概念已经逐渐清晰，5G的愿景和特征逐步达成共识，5G关键技术的研发，已经初见硕果，未来五年将是全球5G技术发展的关键时期，技术研发、标准制定、产业发展都将逐步加快。”科技部副部长曹健林日前表示。</font><br />
+<br />
+<font face="inherit ">产业链的积极推进是不是能保证顺利实现2020年愿景?业界有专家认为，现在业内对于5G的理论研究刚刚掀起高潮，要在五年的时间里实现一个被业界认为是“颠覆性”的技术，被国际电信联盟认可，并达到全球推广的程度，并不容易。</font><br />
+<br />
+<font face="inherit ">时间紧、任务重，怎么破?</font><br />
+<br />
+<font face="inherit "><b>多样化而不是一枝独秀</b></font><br />
+<br />
+<font face="inherit ">目前，全球已在5G需求与愿景方面的讨论中，超可靠性、超大规模、超高密集度和超无线连接是最重要的关键词，同时在技术路线和网络架构上也已经明确了几个主要的方向，取得较高的共识。</font><br />
+<br />
+<font face="inherit ">未来，5G将满足人们在居住、工作、休闲和交通等各种区域的多样化业务需求，即便在密集住宅区、办公室、体育场、露天集会、地铁、快速路、高铁和广域覆盖等具有超高流量密度、超高连接数密度、超高移动性特征的场景，也可以为用户提供超高清视频、虚拟现实、增强现实、云桌面、在线游戏等极致业务体验。</font><br />
+<br />
+<font face="inherit ">与此同时，5G还将渗透到物联网及各种行业领域，与工业设施、医疗仪器、交通工具等深度融合，有效满足工业、医疗、交通等垂直行业的多样化业务需求，实现真正的“网络触手可及”。</font><br />
+<br />
+<font face="inherit ">面向不同场景、提供高速便捷通信，5G因此成为颠覆行业和生活的关键技术，这些进一步明确了5G更加突出以用户为中心的网络。5G将解决多样化应用场景下差异化性能指标带来的挑战，不同应用场景面临的性能挑战有所不同，用户体验速率、流量密度、时延、能效和连接数都可能成为不同场景的挑战性指标。</font><br />
+<br />
+<font face="inherit ">中国移动研究院首席科学家易芝玲提出：“从1G到4G的发展阶段当中，总会有一个独领风骚的技术，这个技术渐渐一家独大，但是在5G的系统当中，不会有一枝独秀的情况了，会有更加多样化的KPI。”</font><br />
+<br />
+<font face="inherit "><b>技术路线倾向再演进</b></font><br />
+<br />
+<font face="inherit ">创新还是演进?5G在总体技术路线方面的选择一直是最大的分歧所在。业界普遍认为，4G演进空口能够在一定程度上满足移动互联网的需求，全新无线空口重点要解决物联网各场景的问题。以演进为主的观点认为，5G高频段、新空口重点解决物联网场景的问题，在低频段主要采用LTE演进技术来满足移动互联网的需求，在低频段不需要新空口。</font><br />
+<br />
+<font face="inherit ">而以创新为主的观点认为，5G无线技术具有较大的创新空间，低频、高频段采用统一的全新空口技术框架，根据频段、场景进行调整，形成低频和高频两种不同的技术方案，以满足移动互联网、物联网多种场景的技术需求。因此，在5G无线新空口与4G演进空口的侧重与适用范围以及低频段与高频段的结合问题上，存在较大争议。</font><br />
+<br />
+<font face="inherit ">现在业界很多观点提出，正如前文所说，5G研究高潮的兴起到量产和投入市场的热潮之间，按照规划的时间点，恐怕只有二三年的时间。根据通信技术发展的现状，在未来几年里出现革命性的空口技术存在很大的挑战挑战，5G技术应是现有技术的新组合，4GLTE就是作为长期演进的技术，因此说5G是4G技术的再演进。</font><br />
+<br />
+<font face="inherit ">对于支撑5G无线技术的关键技术方面，国内外已经形成了相对共识，例如我国IMT-2020(5G)推进组提出了包括“大规模天线、新型多址、密集组网、全频段技术+全新网络架构”在内的“4+1”的关键技术。</font><br />
+<br />
+<font face="inherit ">在网络架构方面，5G作为万物互联的开始，业内普遍认为需要基于SDN/NFV的平台技术实现新型网络架构，特别是如何解决物联网等多样化场景的问题，引入SDN/NFV概念的切片式网络来满足不同场景对带宽、时延的要求。从而实现5G从核心网到接入网以及空口部分中每个网络单元的“敏捷性”。</font><br />
+<br />
+<font face="inherit "><b>频率加强规划管理</b></font><br />
+<br />
+<font face="inherit ">任何一项技术的诞生及发展应该首先考虑有没有充足的无线电频谱资源来支撑发展。频率是5G绕不开的话题，也是决定其成败的关键。</font><br />
+<br />
+<font face="inherit ">“面对5G提出的美好愿景，更加要统筹考虑覆盖容量、性能及连接的问题，因此在频率的规划和指配上就要进行高低频率的带宽搭配。”工信部无线电管理局频率规划处处长李恒帅在接受采访时表示。</font><br />
+<br />
+<font face="inherit ">随着5G技术的发展，对频率的使用提出更高的要求。针对5G大流量、高密度的需求，要有300MHz以上的连续频谱作为支持，我国认为最好在4GHz～6GHz频段内寻找到适合的频谱，同时在6GHz以上频段开展频率规划研究工作。</font><br />
+<br />
+<font face="inherit ">截至目前，我国共为移动通信系统规划了687兆频率用于承载2G、3G、4G网络。“随着5G的发展，将来也会为5G继续规划新的频率。”李恒帅介绍。</font><br />
+<br />
+<font face="inherit ">他进一步透露，“6GHz以上频段，我们预留了包括22GHz、71GHz、81GHz等频段为后续研究埋下伏笔。”同时，面对频率日趋紧张、需求不断加大的情况，为了提高频谱使用的效率，在无线电管理中将会引入动态频率共享的机制，对频率进行精细化管理。与此同时，频率市场化的探索和审计评估机制的引入也将逐渐引入，发挥更大价值。</font><br />
+<br />
+<font face="inherit "><b>形成全球共识</b></font><br />
+<br />
+<font face="inherit ">由ITU提出的5G网络已经在全球标准化，将被国际认可。ITU完成5G目标声明的同时表示，下一步将从2016年初开始逐步定义5G的技术性能要求，同时考虑未来各种不同情形和使用情况的需求，然后规定评估纳入候选无线接口技术的评估标准。</font><br />
+<br />
+<font face="inherit ">在国内，科技部则于2013年设立了未来移动通信科技重点专项，并且组织专家系统规划了中国移动通信技术研发工作，专项工作面向2020年移动通信应用需求，将分三个阶段组织实施，提出5G的愿景，突破网络架构、无线组网、无线传输、新频谱开发与利用等关键技术，为推动国际5G技术和标准研究奠定基础。</font><br />
+<br />
+<font face="inherit ">曹健林表示，在“863计划”中已经分两期部署启动了5G移动通信与系统先期研究重大项目，累计投入经费2.5亿元，新一代宽带无线移动通信网的科技重大专项也从今年开始部署5G技术和标准研发。</font><br />
+<br />
+<font face="inherit ">目前，有关国际标准化组织已初步明确2016年正式启动标准的研制，部分国家已经提出5G商用的时间表，中国也提出了力争2020年启动5G网络商用的目标。</font><br />
+<br />
+<font face="inherit ">随即，5G研究将从概念的研究进入到基本性研究的新阶段。</font><br />
+<br />
+<font face="inherit ">工信部总工程师张峰指出：“未来，5G应用的场景将从移动互联网扩展到物联网领域，需要全新的网络架构和物件接口同时满足移动互联网和物联网的需求，为解决多样化应用场景提供保障，这既是巨大的技术挑战，同时也孕育着巨大的创新空间。因此要进一步加强国际合作，应重点加强在5G标准和频率上的合作。共同推动形成全球统一的5G标准，在5G通信系统、网络的愿景，以及需求研究、关键技术研发、全球标准化和频谱间隔等领域开展深入的交流，以更加开放的姿态，加强国际合作，努力推动建立5G的全球共识。”</font><br />
+<br />
+</font></font><br />
+</font></font> 
+        
+  
+</div>
+
+<br><br>
+
+                  
+                  
+<script type="text/javascript">
+function chcss(){
+document.getElementById('htab').className='low';
+}
+function hfcss(){
+document.getElementById('htab').className='high';
+}
+function viewpdf() {
+setTimeout("chcss()", 500);  
+setTimeout("hfcss()", 3000); 
+}
+</script>
+<style type="text/css">
+<!--
+.high { margin-top:15px; margin-bottom:15px;}
+.low { margin-top:0px; margin-bottom:0px;}
+-->
+</style>
+
+
+<div align="left" style="width:100%; overflow:hidden;">
+
+<div id="htab" class="high" style="width:100%">
+<div style="float:left"><img src="images/attachicons/pdf.gif" border="0" /></div><a href="down_pdf.php?tid=587928" target="_blank" onMouseOver="viewpdf();">免费免威望下载本帖内容PDF版</a>
+</div>
+<div style="clear:both; width:100%">
+<a name="pdf"></a>
+
+<div id="gg"></div>
+
+
+
+</div>
+
+</div>
+
+                   <br>
+
+   
+  
+  
+<div style="clear:both"></div>
+  
+<font style="color: #000000; font: 12px Tahoma, Verdana">
+</font>
+        <div class="cm">
+<h3 class="psth xs1" style="margin-top:3px;">对本帖内容的看法？ <a href="#rate" onclick="ShowWindow('ratemessWindow','ratepromptWindow','misc.php?action=rate&amp;tid=587928&amp;pid=5198399&amp;page=1&amp;msg=1');">我要点评</a></h3></div>
+        
+ 
+ 
+       
+ 
+<div style="width:100%; text-align:left;">
+<a href="recommend.php?tid=587928&amp;action=new" title="推荐获得审核通过，可获得丰厚奖励"><img src="images/default/recommend.gif" border="0" /></a>
+</div>
+ 
+                    <br><fieldset style="display:block; margin:0; padding:0;"><legend>作者的更多帖子</legend>
+                    	<ul class="mbw xl xl2 cl" style="margin-top:5px;">
+<li>
+  <span class="pipe">·</span><a href="thread-630325-1-1.html" target="_blank">这十个关键字 就能概括今年的手机设计</a> <span style="color:#CCCCCC">2015-12-21</span>						
+</li>
+<li>
+  <span class="pipe">·</span><a href="thread-630324-1-1.html" target="_blank">HTC新机曝光--A9之后的下一个出众者？</a> <span style="color:#CCCCCC">2015-12-21</span>						
+</li>
+<li>
+  <span class="pipe">·</span><a href="thread-630323-1-1.html" target="_blank">年度单手操作之王?荣耀7i手机深度体验</a> <span style="color:#CCCCCC">2015-12-21</span>						
+</li>
+<li>
+  <span class="pipe">·</span><a href="thread-630322-1-1.html" target="_blank">华为的Mate8，被中兴又发布了一次</a> <span style="color:#CCCCCC">2015-12-21</span>						
+</li>
+<li>
+  <span class="pipe">·</span><a href="thread-630321-1-1.html" target="_blank">摩托罗拉与中国电信联合发布MOTO X极 售价5288元</a> <span style="color:#CCCCCC">2015-12-21</span>						
+</li>
+<li>
+  <span class="pipe">·</span><a href="thread-630320-1-1.html" target="_blank">小米第三季度出货量仅为华为一半！三星苹果占据40%市场份额</a> <span style="color:#CCCCCC">2015-12-21</span>						
+</li>
+</ul>
+</fieldset>
+        
+       
+ 
+<tr><td valign="bottom">
+<br><br><br><img src="images/common/sigline.gif" alt="" /><br><div class="t_signature" style="overflow: hidden; max-height: 20em; maxHeightIE: 245px;">活到老学到老</div>
+</td></tr>
+<tr><td align="right">
+        
+<a href="###" onclick="scroll(0,0)"><img src="images/default/top.gif" border="0" alt="顶部" /></a>
+</td></tr>
+<tr class="t_infoline"><td class="line" style="padding: 5px"> <div id="czxz" style="width:100%">
+<div id="cfll" style="float:left"><a href="memcp.php?action=credits&operation=addfunds" target="_blank"><img src="./images/paycenter.gif" border="0" /></a></div><span style=" margin-left:8px;font-size:14px; font-weight:bold;">[<a href="memcp.php?action=credits&operation=addfunds" target="_blank">充值威望，立即自动到帐</a>] [<a href="../pay/vippay.php" target="_blank">VIP贵宾权限+威望套餐</a>] 另有大量优惠赠送活动，请光临充值中心</span><br />
+<span style="margin-left:8px;">充值拥有大量的威望和最高的下载权限，下载站内资料无忧</span>
+</div></td></tr>
+</table></td></tr></table></div>
+</form>
+</div>
+<div class="maintable" style="clear:both; background-color:#FFFFFF">
+<table width="956px" cellspacing="0" cellpadding="0" align="center">
+<tr><td valign="top"></td><td width="40%" align="right">
+<div class="right">&nbsp;<a href="post.php?action=reply&amp;fid=307&amp;tid=587928&amp;extra=page%3D1"><img src="images/default/reply.gif" border="0" alt="" /></a></div>
+<div id="newspecialfooter" class="right" onmouseover="showMenu(this.id)"><img src="images/default/newtopic.gif" border="0" alt="" /><a href="###"><img src="images/default/newspecial.gif" border="0" alt="" /></a></div>
+<div class="popupmenu_popup newspecialmenu" id="newspecialfooter_menu" style="display: none">
+<table cellpadding="4" cellspacing="0" border="0" width="100%">
+<tr><td class="popupmenu_option"><div class="newspecial"><a href="post.php?action=newthread&amp;fid=307&amp;extra=page%3D1">讨论帖</a></div></td></tr>
+<tr><td class="popupmenu_option"><div class="newspecial"><a href="post.php?action=newthread&amp;fid=307&amp;extra=page%3D1&amp;data=yes">资料帖</a></div></td></tr>
+<tr><td class="popupmenu_option"><div class="newspecial"><a href="post.php?action=newthread&amp;fid=307&amp;extra=page%3D1&amp;poll=yes">投票帖</a></div></td></tr>
+<tr><td class="popupmenu_option"><div class="newspecial"><a href="post.php?action=newthread&amp;fid=307&amp;extra=page%3D1&amp;reward=yes">悬赏帖</a></div></td></tr>
+</table></div>
+</table><br></div>
+<div class="odiv" id="out_popup_menu" style="display: none">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+  <tr><td class="lt"></td><td class="t"></td><td class="rt"></td></tr><tr><td class="l"></td><td class="tbox">
+<h3 class="tit"><b>您即将访问其它网站</b><a class="cls" href="javascript:;" onclick="openShutManager(this,'out_popup_menu',true)" title="关闭">关闭</a></h3>
+<div style="padding:10px; width:300px;">
+     <p style="color: #930">您即将访问的地址是其它网站的内容，MSCBSC将不再对其安全性和可靠性负责，请自行判断是否继续前往</p>
+     <p><span id="outurl"></span></p>
+     <p style="padding-left:30px;"><a id="outcontinue" href="" target="_blank" onclick="openShutManager(this,'out_popup_menu',true)">继续访问</a>   <a style="margin-left:20px;" href="javascript:;" onclick="openShutManager(this,'out_popup_menu',true)">取消访问，关闭</a></p>
+     </div>
+    
+     </td><td class="r"></td></tr><tr><td class="lb"></td><td class="b"></td><td class="rb"></td></tr></table><s><i></i></s>
+  </div>
+ 
+ <div id="bdad">
+<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script>
+<!-- 300x250, 技术问答右侧-创建于 11-7-8 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-0442476421808622"
+     data-ad-slot="5922528125"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+     
+</div>
+<div class="headermenu_popup" id="memcp_menu" style="display: none">
+<table cellpadding="4" cellspacing="0" border="0">
+<tr><td class="popupmenu_option"><a href="memcp.php">个人中心首页</a></td></tr>
+<tr><td class="popupmenu_option"><a href="memcp.php?action=profile">编辑个人资料</a></td></tr>
+<tr><td class="popupmenu_option"><a href="memcp.php?action=credits">积分交易</a></td></tr>
+<tr><td class="popupmenu_option"><a href="memcp.php?action=usergroups">公众用户组</a></td></tr>
+<tr><td class="popupmenu_option"><a href="memcp.php?action=buddylist">好友列表</a></td></tr>
+<tr><td class="popupmenu_option"><a href="memcp.php?action=spacemodule" target="_blank">个人空间管理</a></td></tr>
+<tr><td class="popupmenu_option"><a href="http://www.mscbsc.com/?uid/0" target="_blank">升级我的博客</a></td></tr>
+</table></div>
+<div class="headermenu_popup" id="plugin_menu" style="display: none">
+<table cellpadding="4" cellspacing="0" border="0">
+     
+     <tr><td class="popupmenu_option"><a href="plugin.php?identifier=bank&module=bank"><font color=blue>社区银行</font></a></td></tr>
+     
+     
+     <tr><td class="popupmenu_option"><a href="plugin.php?identifier=invite&module=invite">购买邀请码</a></td></tr>
+     
+     
+     <tr><td class="popupmenu_option"><a href="flack.php">宣传中心</a></td></tr>
+     
+     
+     <tr><td class="popupmenu_option"><a href="plugin.php?identifier=ditu&module=ditu"><b><font color=red>全国地图</font></b></a></td></tr>
+     
+</table></div>
+<div class="headermenu_popup" id="stats_menu" style="display: none">
+<table cellpadding="4" cellspacing="0" border="0">
+<tr><td class="popupmenu_option"><a href="stats.php">基本概况</a></td></tr>
+<tr><td class="popupmenu_option"><a href="stats.php?type=views">流量统计</a></td></tr><tr><td class="popupmenu_option"><a href="stats.php?type=agent">客户软件</a></td></tr><tr><td class="popupmenu_option"><a href="stats.php?type=posts">发帖量记录</a></td></tr>
+<tr><td class="popupmenu_option"><a href="stats.php?type=forumsrank">论坛排行</a></td></tr><tr><td class="popupmenu_option"><a href="stats.php?type=threadsrank">主题排行</a></td></tr><tr><td class="popupmenu_option"><a href="stats.php?type=postsrank">发帖排行</a></td></tr><tr><td class="popupmenu_option"><a href="stats.php?type=creditsrank">积分排行</a></td></tr>
+<tr><td class="popupmenu_option"><a href="stats.php?type=trade">交易排行</a></td></tr>
+<tr><td class="popupmenu_option"><a href="stats.php?type=onlinetime">在线时间</a></td></tr>
+<tr><td class="popupmenu_option"><a href="stats.php?type=team">管理团队</a></td></tr>
+<tr><td class="popupmenu_option"><a href="stats.php?type=modworks">管理统计</a></td></tr>
+</table></div>
+<div class="maintable" style="color: #666; clear: both; background-color:#FFFFFF">
+<div align="center" style="clear:both;margin-bottom:15px;"><table width="958" border="0" style="background-color:#F8F8F8;"><tr><td width="20"  style="background-color:#CCCCFF; font-size:14px;">精彩通信图库</td><td width="184"><a href="thread-610517-1-1.html" target="_blank"><img src="http://img.mscbsc.com/bbs/attachments/month_1512/20151214_41e1aec122c079a1830fQfaqnmB1RGUf.jpg" border="0" width="180" height="100" alt="广西居民认为基站导致孩子感冒发烧，强拆基站引发网络热议，联通回应：呵呵"><br>广西居民认为基站导致孩子感.</a> </td><td width="184"><a href="thread-590929-1-1.html" target="_blank"><img src="http://img.mscbsc.com/bbs/attachments/month_1512/20151210_eaa446bc25362e2206b6osl5NGJnGEmM.jpg" border="0" width="180" height="100" alt="战乱，炸基站，影子网络，还有邪恶的美军... 垢了..."><br>战乱，炸基站，影子网络，还.</a> </td><td width="184"><a href="thread-590607-1-1.html" target="_blank"><img src="http://img.mscbsc.com/bbs/attachments/month_1512/20151209_8c442d7742acc31b8348XXQWYKTizfQZ.jpg.thumb.jpg" border="0" width="180" height="100" alt="网优之路——杂拍1"><br>网优之路——杂拍1</a> </td><td width="184"><a href="thread-590604-1-1.html" target="_blank"><img src="http://img.mscbsc.com/bbs/attachments/month_1512/20151209_09c0591f5890aede36b2ArFOHQ7Oblqz.gif.thumb.jpg" border="0" width="180" height="100" alt="网优之路——眺望"><br>网优之路——眺望</a> </td><td width="184"><a href="thread-588664-1-1.html" target="_blank"><img src="http://img.mscbsc.com/bbs/attachments/month_1511/20151124_a0a825a7c52e7172e880GbcX34ZpcT5L.jpg.thumb.jpg" border="0" width="180" height="100" alt="无题-深夜酒后胡思乱笔"><br>无题-深夜酒后胡思乱笔</a> </td></tr></table></div>
+<br>
+<div class="maintable">
+
+</div>
+当前时区 GMT+8, 现在时间是 2015-12-21 13:53:08<br><a href="http://www.miibeian.gov.cn/" target="_blank">渝ICP备11001752号</a>
+&#160;<a href="http://www.mscbsc.com" target="_blank">Copyright @ 2006-2015 mscbsc.com</a>&#160;&#160;本站统一服务邮箱：mscbsc@163.com<br><br></div>
+
+<div class="footerline"><div><a href="#top"><img border="0" src="images/default/footer_top.gif" alt="" /></a></div></div>
+<table cellspacing="0" cellpadding="0" border="0" width="100%" class="altbg1" style="padding: 5px 0px;">
+<tr><td width="80" style="padding-left: 30px">
+</td>
+<td style="font-size: 11px">
+<br><span id="debuginfo">Processed in 0.042875 second(s), 12 queries
+, Gzip enabled
+</span>
+</td>
+<td valign="bottom" align="right" style="padding-right: 30px">
+<div class="right" style="font: 9px Arial; position: relative; top: -5px; padding-right: 7px; color: #FFFFFF"><a href="#top">TOP</a></div><br>
+<a href="member.php?action=clearcookies&amp;formhash=eac94cd6">清除 Cookies</a> - <a href="mailto:mscbsc@163.com">联系我们</a>  - <a href="http://www.mscbsc.com">移动通信网</a> - <a href="http://www.mscbsc.com/" target="_blank">移动通信论坛</a> - <a href="http://www.telecomhr.com">通信招聘网</a> 
+ - <a href="archiver/" target="_blank">Archiver</a>
+</td></tr></table>
+<a name="bottom"></a>
+<div class="mainborder"></div>
+</center>
+ <div style="display:none">
+
+<script type="text/javascript">var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F73bd8be2cbf9ded0b6047737756e5af2' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<script src="http://js.users.51.la/786775.js" type="text/javascript"></script>
+<noscript><a href="http://www.51.la/?786775" target="_blank"><img alt="我要啦免费统计" src="http://img.users.51.la/786775.asp" style="border:none" /></a></noscript>
+</div>
+<script>
+var baiduImagePlus = {
+noLogo:true,
+unionId:'u2335796',
+formList:[{formId:10}]
+};
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/i.js" type="text/javascript"></script>
+
+</body></html>
+<div id="ggadload" style="display:none;">
+<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script>
+<!-- 728x90, 创建于 09-2-8 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-0442476421808622"
+     data-ad-slot="1413960447"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<script type="text/javascript">
+var host1 = "mscbsc.com";
+var host2 = "telecomhr.com";
+jQuery(document).ready(function($) {
+var ggad = $("#ggadload").html();
+$("#gg").html(ggad);
+$("a").each(function() {
+if(this.href.indexOf(location.hostname) == -1 && this.href.indexOf(host1) == -1 && this.href.indexOf(host2) == -1) {
+var outurl = $(this).attr("href");
+$(this).attr("outurl", outurl);
+$(this).attr("href", "javascript:;");
+$(this).attr("target", "_self");
+$(this).bind("click",function(){
+openShutManager(this,'out_popup_menu',false);
+jQuery("#outurl").html(jQuery(this).attr('outurl'));
+    jQuery("#outcontinue").attr("href",jQuery(this).attr('outurl'));
+});
+}
+});
+});
+
+</script>
+<script src="include/javascript/bdshow.js" type="text/javascript"></script>

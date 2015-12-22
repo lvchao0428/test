@@ -1,0 +1,735 @@
+<!--UINFO: http://bbs.tiexue.net/post_10639821_1.html	length=92834&last_modified=1450228502&time_saved=1450677067&charset=gb2312-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta content="航空发动机先行是正确的，为什么还有那么多人不懂" name="keywords" />
+    <meta content="http://news.qq.com/a/20120312/001467.htm链接，转自*****军事
+
+
+尹卓认为，航空工业这几年发展的速度越来越快，形势越来越好，令人欣喜。但是，跟发达国家相比，还是有差距的。他建..." name="description" />
+    <meta http-equiv="mobile-agent" content="format=html5; url=http://m.tiexue.net/touch/thread_10639821_1.html"/>
+    <title>
+        航空发动机先行是正确的，为什么还有那么多人不懂
+        
+        -
+        空军论坛
+        - 铁血社区</title>
+        <link href="http://s.itiexue.net/??css/global/global-u.css,css/tiexue/bbs/page/post1-u.css?v=2" rel="stylesheet" type="text/css" charset="utf-8"/>    
+    <script src="http://s.itiexue.net/??js/global/base-all-v2-u.js,js/tiexue/public-u.js,js/tiexue/bbs/public-u.js,js/tiexue/bbs/page/post1t-u.js?v=5" type="text/javascript" charset="utf-8"></script>   
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+    <script type="text/javascript"> 
+        var ForumID=69;
+        var ForumGroupID=6;
+        var ThreadID=10639821;
+        var islocked=0;
+        var isvouch=0;
+        var Subject='航空发动机先行是正确的，为什么还有那么多人不懂';
+	
+        BAIDU_CLB_preloadSlots("180429", "41474", "92705", "81336");
+        function PageTurn()
+        {
+            var pageIndexJs=$.trim($("#txtTurn").val());
+            if(pageIndexJs!="")
+            {
+                if(ValidateNum(pageIndexJs))
+                { 
+                    window.location.href="http://bbs.tiexue.net/post_"+10639821+"_"+pageIndexJs+".html";
+                }
+                else
+                {
+                    alert("请输入数字！");
+                }
+            }else
+            {
+                alert("请输入要跳转的页码！");
+            }
+        }
+        function ValidateNum(srcStr)
+        {
+            var expr='^(0|[1-9][0-9]*)$';
+            var Reg= new RegExp(expr);
+            if(Reg.test(srcStr))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        } 
+        function GaqPush(cname) {
+            _gaq.push(['_trackEvent', 'bbspost', 'clicked', cname]);
+        }
+    </script>   
+</head>
+
+<body>
+    <div class="container">
+        <!--*中间970 内容 start-->
+        <!--*头部 start-->
+        
+<div id="topBar">
+<script type="text/javascript">
+    InitLoginBar({
+        id: "topBar",
+        template: 1,
+        game: false,
+        slideMenu1: false,
+        slideMenu2: true,
+        sousuo: true,
+        addNav: null,
+        addStyle: ""
+    });
+</script>
+</div>
+
+<div class="header">
+    <div class="area header_row_2">
+        <div class="logo textHide float_L">
+            <a title="铁血社区" href="http://bbs.tiexue.net/" target="_blank">铁血社区</a></div>        
+            <ul class="nav fontYaHei" id="topNav">
+                <li class="noLayer">
+                    <h3>
+                        <a href="http://www.tiexue.net" target="_blank" onclick="GaqPush('1')">首页</a></h3>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://mil.tiexue.net" target="_blank" onclick="GaqPush('2')">军事</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowPicClass_43_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-1'])">军品鉴赏</a></li><li><a href="http://mil.tiexue.net/Junlv_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-2'])">中国军旅</a></li><li><a href="http://mil.tiexue.net/junmi_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-3'])">军迷争议</a></li><li><a href="http://mil.tiexue.net/lishi.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-4'])">军事历史</a></li><li><a href="http://mil.tiexue.net/jujiao.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-5'])">军情聚焦</a></li><li><a href="http://mil.tiexue.net/zhuanti_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-6'])">军事专题</a></li><li><a href="http://mil.tiexue.net/daohang/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-7'])">外军网址导航</a></li><li><a href="http://mil.tiexue.net/1979/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-8'])">对越自卫反击战</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://bbs.tiexue.net" target="_blank" onclick="GaqPush('3')">社区</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://mil.tiexue.net/zhiyuanzhe/index.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-1'])">关爱老兵活动</a></li><li><a href="http://www.tiexue.net/ShowClass_775_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-2'])">铁血精品原创</a></li><li><a href="http://www.tiexue.net/ShowClass_772_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-3'])">铁血热门话题</a></li><li><a href="http://bbs.tiexue.net/bbs32-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-4'])">陆军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs31-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-5'])">海军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs69-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-6'])">空军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs33-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-7'])">环球风云</a></li><li><a href="http://bbs.tiexue.net/gbbs24-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-8'])">警察之家</a></li><li><a href="http://bbs.tiexue.net/bbs73-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-9'])">中国历史</a></li><li><a href="http://bbs.tiexue.net/bbs124-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-10'])">军事影评</a></li><li><a href="http://bbs.tiexue.net/bbs219-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-11'])">军品鉴赏</a></li><li><a href="http://bbs.tiexue.net/bbs246-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-12'])">四海钓鱼</a></li><li><a href="http://bbs.tiexue.net/bbs247-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-13'])">人间美食</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <h3>
+                        <a href="http://www.junshishu.com" target="_blank" onclick="GaqPush('5')">读书</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.junshishu.com/mil.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-1'])">军事小说</a></li><li><a href="http://www.junshishu.com/his.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-2'])">历史小说</a></li><li><a href="http://www.junshishu.com/MultiNovelList.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-3'])">全本小说</a></li><li><a href="http://www.junshishu.com/yjcbxs.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-4'])">出版图书</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://www.tiexue.net/ShowPicClass_53_1.html" target="_blank" onclick="GaqPush('6')">图片</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowPicClass_53_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-1'])">精选酷图</a></li><li><a href="http://pic.tiexue.net/tuji_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-2'])">焦点图集</a></li><li><a href="http://www.tiexue.net/ShowPicClass_171_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-3'])">军事酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_172_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-4'])">国际酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_173_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-5'])">历史酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_188_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-6'])">社会酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_599_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-7'])">原创酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_597_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-8'])">猎奇酷图</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://jingcha.tiexue.net" target="_blank" onclick="GaqPush('7')">警察</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowClass_308_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-1'])">处警故事</a></li><li><a href="http://www.tiexue.net/ShowClass_294_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-2'])">警察生活</a></li><li><a href="http://www.tiexue.net/ShowClass_293_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-3'])">警务探讨</a></li><li><a href="http://www.tiexue.net/pictopic-373-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-4'])">图说警察</a></li><li><a href="http://www.tiexue.net/SmallPiclist_670_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-5'])">警察聚焦</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://game.tiexue.net" target="_blank" onclick="GaqPush('8')">游戏</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://dj.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-1'])">大将军</a></li><li><a href="http://dx.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-2'])">大侠传</a></li><li><a href="http://yd.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-3'])">一代宗师</a></li><li><a href="http://jj.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-4'])">将军</a></li><li><a href="http://zzsf.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-5'])">征战四方</a></li><li><a href="http://as.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-6'])">傲视天地</a></li><li><a href="http://sg.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-7'])">三国风云2</a></li><li><a href="http://mr.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-8'])">秦美人</a></li>
+                    </ul>
+                </li>
+                 <li>
+                        <h3><a href="http://v.tiexue.net" target="_blank" onclick="GaqPush('10')">视频</a><span></span></h3>
+                        <ul>
+                           <li><a href="http://v.tiexue.net/classMain_1681.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-1'])">军事视频</a></li><li><a href="http://v.tiexue.net/classMain_1682.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-2'])">时政视频</a></li><li><a href="http://v.tiexue.net/classMain_1683.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-3'])">历史视频</a></li>
+                        </ul>
+                  </li>
+                <li class="junpShop">
+                    <h3>
+                        <span></span><a href="http://www.junph.com/?utm_source=TX&utm_medium=anniu&utm_campaign=junp"
+                            target="_blank" onclick="GaqPush('9')">君品商城</a></h3>
+                    <ul>
+                        <li><a href="http://www.junph.com/html/Class1.html?utm_source=TX&utm_medium=anniu&utm_campaign=1" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-1'])">军迷服饰</a></li><li><a href="http://www.junph.com/html/category/junbiao.htm?utm_source=TX&utm_medium=anniu&utm_campaign=2" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-2'])">军迷手表</a></li><li><a href="http://www.junph.com/html/Class11.html?utm_source=TX&utm_medium=anniu&utm_campaign=3" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-3'])">军迷鞋靴</a></li><li><a href="http://www.junph.com/html/Class9.html?utm_source=TX&utm_medium=anniu&utm_campaign=4" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-4'])">军迷包具</a></li><li><a href="http://www.junph.com/html/category/jp-yanjing/?utm_source=TX&utm_medium=anniu&utm_campaign=6" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-5'])">军迷眼镜</a></li><li><a href="http://www.junph.com/html/Class12.html?utm_source=TX&utm_medium=anniu&utm_campaign=5" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-6'])">军迷手电</a></li><li><a href="http://www.junph.com/html/category/jp-wangyuanjing/?utm_source=TX&utm_medium=anniu&utm_campaign=7" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-7'])">望远镜</a></li>
+                    </ul>
+                </li>
+            </ul>        
+        <script type="text/javascript">
+            function navTab(id) {
+                var $_Tit = $("#" + id + ">li").not(".noLayer");
+                var $_Sub = $("#" + id + ">li>ul");
+                var timmer = null;
+                var n = null;
+                $_Tit.hover(function () {
+                    n = $_Tit.index(this)
+                    $(this).addClass("select").siblings().removeClass("select");
+                    $(this).children("ul").show();
+                }, function () {
+                    $_Tit.eq(n).removeClass("select");
+                    $_Sub.eq(n).hide();
+                })
+            }
+            navTab("topNav");
+        </script>
+    </div>
+</div>
+
+        <!--头部 end-->
+        <!--*主要内容 start-->
+        <div class="main">
+            <div class="banner" id="Baidu_BBSPostNormalV3ContentTopAD1">
+                <div><script type="text/javascript" >BAIDU_CLB_fillSlot("180429")</script></div>
+            </div>
+            <div class="mRow_1">
+                <p class="ftBtn textHide float_L">
+                    <a onclick="addPost();_gaq.push(['_trackEvent', 'bbs', 'clicked', '发帖按钮']);" href="javascript:void(0);" target="_self">我要发帖</a>
+                </p>
+                <div class="page float_R">
+                    <a href="http://bbs.tiexue.net/post_10639821_1.html" class="pageHover">1</a>
+                    
+                </div>
+            </div>
+            
+<div class="dir">
+    
+    <a href="http://bbs.tiexue.net/" target="_top">铁血社区</a> &gt; <a href="http://bbs.tiexue.net/gbbs6-0-1.html" target="_top">铁血军事论坛</a> &gt; <a href="http://bbs.tiexue.net/bbs69-0-1.html" target="_top">空军论坛</a> &gt; 
+    <a target='_blank' href='http://bbs.tiexue.net/post_10639821_1.html'>航空发动机先行是正确的，为什么还有那么多人不懂</a>
+</div>
+
+            
+<div class="postContent border">
+    <div class="postTit">
+        <p class="float_L">
+            帖子主题：航空发动机先行是正确的，为什么还有那么多人不懂</p>
+        <p class="float_R">
+            共&nbsp;277&nbsp;个阅读者&nbsp;<span id="post_HeadReplySort"></span></p>
+    </div>
+</div>
+
+            
+<div class="postContent border">
+    <div class="postStart">
+        <!--*左边用户信息 start-->
+        <div class="sideLeft float_L">
+            <ul class="userMsg">
+                <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/3319399" class="signeffect-id"  target="_blank">你妹浮云了</a></strong><span></span></p><span class="boyHead"></span></div></li> <li class="headPic"> <a href="http://i.tiexue.net/3319399" target="_blank" title="查看个人空间"><img id="userMsg0" src="http://r.itiexue.net/bbs/other/images/user.gif" alt="头像" width="96" height="96" /></a><span class="signeffect-head"></span> </li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/r-07-LJ-xiao-3.gif" alt="军衔:陆军上校" title="军衔:陆军上校" /></li> <li class="xxMsg">军号：3319399</li><li class="rongYu"><!-- 勋章 start --><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=13&f=1' target='_blank'><img src='http://img1.itiexue.net/medal/honor/13/1/13_s.png' title='发帖新兵' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=14&f=1' target='_blank'><img src='http://img2.itiexue.net/medal/honor/14/1/14_s.png' title='发帖高手' width='26' height='45' border=0 align='absmiddle'></a><!-- 勋章 end --></li>	<li class='xxMsg'>工分:110053	</li>	<li class='xxMsg'>本区职务:会员</li>
+            </ul>
+            <!--*广告位 start-->
+            <div class="advert01" id="Baidu_BBSPostNormalV3ContentLeftAD1">
+                <div><script type="text/javascript" >BAIDU_CLB_fillSlot("41474")</script></div>
+            </div>
+            <!--广告位 end-->
+        </div>
+        <!--左边用户信息 end-->
+        <!--*右边帖子内容 start-->
+        <div class="contents">
+            <div class="contRow_1" id="adminAndUserPanel_1">
+                <!--10639821,100149031,1,3319399,你妹浮云了,AmoKWSKneSOv0ky%2fvCCKPQ%3d%3d,1,0,0,0,0-->
+            </div>
+            <div class="icon_left textHide">
+                左箭头-小图标</div>
+            <div class="contRow_2">
+                
+                <div class="bbsPosTit">
+                    
+                    <span class="emotion61"></span>
+                    <h1>
+                        航空发动机先行是正确的，为什么还有那么多人不懂</h1>
+                </div>
+                <!-- 广告位：标题下文字 -->
+ <div class="ad_text" id="Baidu_PostTitleTextAD" ></div>
+                <div class="tiJiaoMsg">
+                    <span>文章提交者：你妹浮云了
+                        加贴在</span>&nbsp;<a href="http://bbs.tiexue.net/bbs69-0-1.html" title="空军论坛">空军论坛</a>&nbsp;铁血论坛
+                                        http://bbs.tiexue.net/bbs69-0-1.html</div>
+                <div class="copyBtn" id="contentsbelowbar">
+                </div>
+                
+                <div id="postContent" class="js_box">                   
+                    <div id='Baidu_AdPIP2' class='AdPIP2'><div id='Baidu_AdPIP2_container'></div></div><!-- AdPanel_left --><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'>http://news.qq.com/a/20120312/001467.htm链接，转自*****军事</p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'>尹卓认为，<a href="http://data.tiexue.net/view/3317" class="linkin-word" target="_blank">航空</a>工业这几年发展的速度越来越快，形势越来越好，令人欣喜。但是，跟发达国家相比，还是有差距的。他建议国家要对包括航空工业在内的<a href="http://data.tiexue.net/view/5580" class="linkin-word" target="_blank">军工企业</a>再花大力气，加大一些投入。他认为，长期以来，我们形成了一种“一切围绕<a href="http://data.tiexue.net/view/14054" class="linkin-word" target="_blank">型号</a>”的思维方式，这种做法延误了很多宝贵的研制时间。他说：“<a href="http://data.tiexue.net/view/5628" class="linkin-word" target="_blank">军事工业</a>是我国高端制造业很重要的支撑部分，它非常注重实践能力。就是说，你理论上能计算出来、设计出来，但是在工艺上能不能实现，是需要实践检验的，比如说材料、气动外形、软件系统、航电系统等。一些基础的学科实验和基础的研究，不能跟着型号走。型号是一个特例，覆盖面很窄，而这些是基础性的行业，是整个研制过程中每一个型号都不可或缺的。”这些基础研究，国家必须重视并且加大投入，对军工企业要加大扶持力度，要养一批科研人员，让他们不为自己吃饭着急，心无旁骛地踏踏实实做研究。基础研究短期看是花钱的，但对产业的长远发展有好处。尹卓用了一个的比喻：你养了一只小鸡，一定要等它长成了之后才能要求它下蛋，否则它下不了蛋，即使下了蛋也太小不能孵化。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>把航空发动机做成货架产品</p><p class='bbsp'><br/></p><p class='bbsp'>发动机产业是航空工业发展的关键领域。世界上的航空强国，无一不是把航空发动机的研发制造技术牢牢掌握在自己手中。谈到航空发动机产业的发展，尹卓认为，应该把航空发动机以及燃气轮机、大型柴油机等与航空发动机相关的产品都做成货架产品。“一切围绕型号，有了型号，才能有投资――这是前<a href="http://data.tiexue.net/view/11351" class="linkin-word" target="_blank">苏联</a>留下来的管理模式，非常不科学。在以前我们的军工行业的起步阶段、经费奇缺的情况下可以这样做，但是现在我们的工业基础非常雄厚，我们的民用工业已经得到了长足的发展，特别是我们国家有了一定的经济基础，我们有能力把航空工业的基础打得更坚固一些。”尹卓认为，航空发动机应该按照自己的规律和谱系来发展，成为货架产品后，型号需要哪一款发动机，就取用哪一款，或稍加改造就可以使用。因为，一代发动机的研发需要15~20多年才能成熟，而型号的研制周期大都在十年以内。不仅航空发动机如此，航空用的特殊材料也是一样的，都需要从基础打起。如果基础工作做好了，发动机成为一种货架式产品，会大大缩短型号的研制周期。</p><p class='bbsp'><br/></p><p class='bbsp'>尹卓认为，相对于其他行业来讲，军工企业的自主创新更加重要。“我们拿航天与航空比较一下，航天技术因为我们买不到，只能靠自己研发，因此航天的自主研发做得比较好。航空技术，自从能从国外买以后，把我们自己的创新压制下来，这是一个需要从国家层面进行反思的问题。”尹卓说，“中国是一个大国，<a href="http://data.tiexue.net/view/15511" class="linkin-word" target="_blank">战斗力</a>的形成不能靠买，这是关系到国家安全的大问题，一定要靠自主创新来解决我们的基础发展。</p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'>F119和F120发动机的研制过程</p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'>由于技术难度大，因此全新研制的航空发动机的研究和发展周期比<a href="http://data.tiexue.net/view/1846" class="linkin-word" target="_blank">飞机</a>机体长5～8年。第四代<a href="http://data.tiexue.net/view/1389405" class="linkin-word" target="_blank">战斗机发动机</a>的部件技术研究工作始于20世纪70年代初，1980年、1983年、1986年和1991年分别开始核心机、技术验证机、型号验证机和型号工程研究和研制，到2005年12月F-22/F119具备初始作战能力，研究和发展全周期长达30年，其中型号研制周期也有15年。下面分三个阶段详细介绍。</p><p class='bbsp'><br/></p><p class='bbsp'>技术准备阶段<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>技术准备包括部件和系统研究以及核心机和技术验证机的研究。第四代战斗机发动机的预研工作在70年代初中期F100发动机投入使用前后即已开始。当时通过美国国防部6.2类推进系统部件技术计划以及6.3A类先进涡轮发动机燃气发生器、飞机推进分系统综合和联合技术验证机计划实施。</p><p class='bbsp'><br/></p><p class='bbsp'>发动机初步研究</p><p class='bbsp'><br/></p><p class='bbsp'>先进战术战斗机（ATF）计划始于1980年，普・惠公司和通用电气公司被选进入验证阶段。在论证ATF战术技术要求的同时，评估了未来空军和海军战术飞机可能的推进系统。这项研究对确定ATF发动机的推力和循环参数以及所用的新技术至关重要，包括：</p><p class='bbsp'><br/></p><p class='bbsp'>（1）先进技术发动机研究（ATES）</p><p class='bbsp'><br/></p><p class='bbsp'>ATES是美国海军在1980年到1982年主持进行的，不针对特定的飞机系统，其目的是制定政府和工业界长远的推进技术计划，以便能在满足性能要求的同时降低寿命期成本。此外，还要按照各种武器系统要求确定发动机设计参数，如推力量级、循环参数、成本、可靠性、维修性、和后勤保障性；确定高收益的关键技术和技术成熟的方法；确定成本效益最高的研制和鉴定策略；以及比较共用核心机和独特发动机方案，从而确定成本效益最高的途径。</p><p class='bbsp'><br/></p><p class='bbsp'>在同一期间，美国空军在1981年6月发布ATF发动机的信息征求书（RFI），其要求是，超声速巡航、短距起落、隐身、低的寿命期成本和1993年具备初步作战能力。飞机起飞总重预计为18160~27240kg。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>普・惠公司的ATES设计以它的核心机和JTDE690验证机为基础。这是一种涵道比为0.15的对转涡扇发动机，推力为9800daN级，总增压比24，燃烧室出口温度1866K,耐久性指标为12300战术循环，采办成本降低30%，维修成本降低55%。</p><p class='bbsp'><br/></p><p class='bbsp'>通用电气公司的ATSE研究集中在它的GE16系列固定和可变循环涡扇发动机上，有2~3级风扇和5级高压压气机以及1级高压涡轮和1级或2级低压涡轮。涡轮采用常规的带中间导叶的结构。</p><p class='bbsp'><br/></p><p class='bbsp'>（2） 战术战斗机推进系统评估（PATS）</p><p class='bbsp'><br/></p><p class='bbsp'>PATS在1982年9月到1983年9月进行，其目的是为美国空军和海军战斗机评估推进系统需求和新技术发动机的优势。同时，还进行关键发动机技术的寿命期成本权衡，并针对特定任务需求优化发动机构型。1982年初，发布战术空军任务需求（TAFS・N）草案，它开始论证ATF的总体要求。由于具体的要求更为明确，使推力级的不确定性减小，从而可以进一步确定发动机的技术要求。</p><p class='bbsp'><br/></p><p class='bbsp'>在此项工作中，选定的武器系统承包商（WSC）是发动机公司的转包商。飞机机体制造商负责对任务剖面和发动机一体化进行权衡分析。</p><p class='bbsp'><br/></p><p class='bbsp'>普・惠公司按照修改的性能需求继续完善其研究中的发动机。通用电气公司则得出结论，变循环发动机能更好地满足考虑中的各种ATF方案。它们的方案在马赫数大于2.0时具有高的不加力单位推力，而且在亚声速巡航时具有低的耗油率。变循环发动机的技术已经在一台YJ101发动机上经过验证。在GE23验证机上又验证了核心驱动风扇级和无中间导叶对转涡轮。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>地面验证机</p><p class='bbsp'><br/></p><p class='bbsp'>1984年，发布了正式的战术空军需求文件（TAFS・N），对飞机的要求是：作战半径1288km，以马赫数1.4~1.5作超声速巡航，起飞和着陆距离610m，起飞总重22700kg，单价4000万美元（1985年值），寿命期成本低于F-15。</p><p class='bbsp'><br/></p><p class='bbsp'>1983年9月，7家飞机机体承包商获得飞机方案论证合同，通用电气公司和普・惠公司各获得2.2亿美元的发动机地面验证机研制合同，另有3000万美元给阿诺德工程发展中心用作试验支持。发动机验证机合同的目标是，验证超声速巡航、二元矢量喷管和13200daN的推力。这项为期50个月的合同要求进行广泛的适用性试验和250h的加速任务试验。</p><p class='bbsp'><br/></p><p class='bbsp'>1983年5月发布征求建议书后（RFP），普・惠公司在ATES和PATS进行的方案设计的基础上开始PW5000(后编号为XF119)的详细设计。在70年代末取得的技术进展，如高负荷压气机和涡轮设计、新材料、快速凝固冶金、整体叶盘、浮壁燃烧室、二元矢量喷管和双通道双余度FADEC，使发动机性能、适用性、可靠性和耐久性得到大大提高。1986年10月，首台XF119(FX601)试车。在4年中，头两台发动机共试验1603h,其中模拟高空试验125.5h。1988年初，安装二元矢量喷管的发动机开始试验，该喷管具有±20o推力矢量和反推力能力。</p><p class='bbsp'><br/></p><p class='bbsp'>通用电气公司的地面验证机GE37(后编号为XF120)的设计重点在满足超声速巡航性能要求。这是一种小涵道比的变循环发动机，高低压涡轮对转，无中间导叶。采用两级整体叶盘风扇、5级高压压气级（第1级为核心驱动风扇）和三通道FADEC。变循环发动机的关键技术主要有可调面积涡轮导向器、可调面积旁路活门和多变量数字电子控制系统。头两台XF120验证机积累400h的试验。此外，还做了大量的部件和系统试验，包括8000h的控制和附件试验、5500h的结构试验和500h的低探测性技术试验。首台发动机在1987年5月开始试验，共进行地面试验130h，模拟高空试验60h。第二台于1987年11月开始试验，带碳碳材料的二元推力矢量/反推力喷管，共积累210h的试验。但后来反推力的要求被取消，反推力试验没有进行。</p><p class='bbsp'><br/></p><p class='bbsp'>飞行验证机<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>1985年9月，在方案论证之后两年，正式发布ATF对验证/证实阶段的RFP，它与TAFS・N的主要区别是最高单价降为3500万美元、总采购量750架和总的项目成本650亿美元。验证/证实阶段的内容包括飞机全尺寸和缩尺模型的风洞试验和雷达截面测量以及发动机、电子设备和其他分系统的研制。这些系统试验和计算机仿真是为了大大降低全尺寸原型机试飞的成本。两个月后，空军修改了RFP，对隐身提出更严格的指标。这也影响发动机设计。后来，空军又要求进行飞行验证机的飞行试验。这种"先飞后买'的策略对飞机和发动机的的研制计划产生很大的影响。1987年6月，普・惠公司和通用电气公司各得3.8亿美元进入飞行验证阶段。</p><p class='bbsp'><br/></p><p class='bbsp'>1987年末，飞机承包商的设计研究表明，由于要装更多的内部燃油而加大的机翼面积使得飞机的重量和阻力增大，要求发动机加力推力增大20%，达15600daN，中间推力为10500daN。通用电气公司采用流量增大12%的风扇来满足此要求；而普・惠公司将风扇流量增大15%，涵道比从0.25增加到0.30，但飞行验证试验仍用原来的发动机。</p><p class='bbsp'><br/></p><p class='bbsp'>1987年12月，出于重量、成本和维修的考虑，取消反推力要求，着陆滑跑距离从610m增加到915m。1990年秋天，两架YF-22和两架YF-23分别装YF119和YF120进行飞行试验，实现马赫数1.43和1.58的不加力超声速巡航，可以节省燃油30%。</p><p class='bbsp'><br/></p><p class='bbsp'>YF119与XF119的差别很小，只是在喷管、加力燃烧室和压气机前几级上改用Ally C钛合金，以减轻重量。提高耐久性和安全性。叶尖加上耐磨涂层，以提高性能和耐久性。飞行试验的目的是验证承包商有技术能力实现它投标所承诺的内容，而不是发动机飞行竞争。发动机的竞争是根据工程和制造研制的投标。</p><p class='bbsp'><br/></p><p class='bbsp'>F119与YF119的主要区别是增大了风扇直径和采用专门的高隐身性能和高生存力技术。加力燃烧室由四区该为三区，以减小重量、成本和复杂性。压气机气动设计作了改进，整个压缩系统均采用整体叶盘。喷管的冷却由外部冷却管改为内部冷却通道。</p><p class='bbsp'><br/></p><p class='bbsp'>1989年1月，首台飞行试验发动机完成初始地面试验，到1990年8月，完成飞行批准试验。XF119/YF119共完成超过3000h的试验。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>YF120的设计于1987年2月开始，1989年2月首台发动机开始试验。为满足飞机的需要和竞争，评估了各种更改方案。结果，YF120的构型与最终建议的工程和制造原型机很接近。风扇空气流量增加12%，以满足推力增长和金属喷管的冷却要求。由于涡轮无级间导叶，热端长度短，使冷却空气量比F110发动机的少30%。与F110相比，由于对简化了变循环结构，并加强了维修性设计，旋转零件减少63%，零件总数减少40%。</p><p class='bbsp'><br/></p><p class='bbsp'>YF120在YF-22和YF-23上总共飞行59次，累计飞行147发动机飞行小时。超过了超声速巡航的速度指标，并达到60o的迎角。工作中无油门杆限制和发动机失速。XF120和YF120共积累超过1900h的试验。工程和制造原型机F120在1990年12月试验了21h，该发动机采用第1级空心风扇叶片、程序控制的风扇涵道门和Ada软件。</p><p class='bbsp'><br/></p><p class='bbsp'>工程和制造原型机的选择和研制</p><p class='bbsp'><br/></p><p class='bbsp'>1990年3月，两家发动机公司各得2.9亿美元的合同，作为工程和制造发展阶段的长周期项目经费。1991年1月2日，两家公司正式提出原型机投标，同年4月23日，美空军宣布，洛克希德公司和普・惠公司的F-22/F119获胜，其理由是"它们显然以较低的成本提供较好的能力，因而为空军提供真正最佳的价值。"一份空军的评价报告的结论是，"洛克希德公司和普惠公司的投标风险低，成本也稍低。"</p><p class='bbsp'><br/></p><p class='bbsp'>另外一份报告同意这个评价，认为F120变循环发动机的油耗低，但重量较大，较复杂，这会增加维修问题。维修性也是一个重要的评价参数。通用电气公司的发动机在两架飞机上验证了较高的超声速巡航速度（M1.58）和最大速度，该公司在飞行试验中将达到高性能作为一个重要目标。而普・惠公司在对待风险方面比较谨慎。尽管它有J58变循环发动机的经验，但它不追求变循环发动机；尽管涡轮无级间导叶能带来好处，但仍采用级间导叶。从一开始，该公司在飞行试验计划中就要验证一种经过试验的发动机。</p><p class='bbsp'><br/></p><p class='bbsp'>1991年8月3日，普・惠公司获得13.75亿美元的工程和制造研制合同，包括9台研制试验发动机，8900h的验证试验、7400h的喷管验证试验、33台（后减为27台）飞行试验发动机、飞行试验计划现场保障、保障系统发展和以计算机为基础的培训系统发展。普惠公司声称，它们的设计是低风险的，在一项结实的设计中采用了成熟的技术。采用了较大的风扇后相对与型号规范发动机具有以下的裕度：不加力推力10%，重量64kg，燃油消耗2%，失速裕度20%~35%。该公司认为，对于空军战斗机来说，无需采用变循环发动机，因为变循环发动机会使重量和复杂性增加，从而导致研制和维修成本增加。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>1992年6月，F119完成关键设计评审；1992年12月，开始地面试验；1996年9月，交付飞行试验用发动机；1997年9月，首次试飞；1999年10月，完成空军鉴定；2001年8月，批准投入小批生产；2002年7月，批准初步使用（此时试验时数已超过4000h）；2003年3月，空军批准后勤保障系统；2003年8月，第一支驾驶员训练部队运作；2005年12月，第一支F-22/F119作战部队具备初步作战能力（I・C）。截止2005年初，累计试验时数超过7500h。</p><p class='bbsp'><br/></p><p class='bbsp'>型号型号</p><p class='bbsp'><br/></p><p class='bbsp'>F100</p><p class='bbsp'><br/></p><p class='bbsp'>F404</p><p class='bbsp'><br/></p><p class='bbsp'>F414</p><p class='bbsp'><br/></p><p class='bbsp'>F119(原来计划)<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>F119（实际）</p><p class='bbsp'><br/></p><p class='bbsp'>研制周期（月）</p><p class='bbsp'><br/></p><p class='bbsp'>54</p><p class='bbsp'><br/></p><p class='bbsp'>98</p><p class='bbsp'><br/></p><p class='bbsp'>72</p><p class='bbsp'><br/></p><p class='bbsp'>108<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>156</p><p class='bbsp'><br/></p><p class='bbsp'>研制用发动机</p><p class='bbsp'><br/></p><p class='bbsp'>23</p><p class='bbsp'><br/></p><p class='bbsp'>14</p><p class='bbsp'><br/></p><p class='bbsp'>14</p><p class='bbsp'><br/></p><p class='bbsp'>11<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>9</p><p class='bbsp'><br/></p><p class='bbsp'>试验时间（h）</p><p class='bbsp'><br/></p><p class='bbsp'>9628</p><p class='bbsp'><br/></p><p class='bbsp'>15000</p><p class='bbsp'><br/></p><p class='bbsp'>10000</p><p class='bbsp'><br/></p><p class='bbsp'>9683<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>8677</p><p class='bbsp'><br/></p><p class='bbsp'>研制成本（亿美元*）</p><p class='bbsp'><br/></p><p class='bbsp'>14.1</p><p class='bbsp'><br/></p><p class='bbsp'>10.5</p><p class='bbsp'><br/></p><p class='bbsp'>9.41</p><p class='bbsp'><br/></p><p class='bbsp'>14.7<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>24.65</p><p class='bbsp'><br/></p><p class='bbsp'>寿命</p><p class='bbsp'><br/></p><p class='bbsp'>150h</p><p class='bbsp'><br/></p><p class='bbsp'>4000TAC</p><p class='bbsp'><br/></p><p class='bbsp'>4000/8000TAC</p><p class='bbsp'><br/></p><p class='bbsp'>4000/8000TAC<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>4000/8000TAC</p><p class='bbsp'><br/></p><p class='bbsp'>表中F119、F414、F404和F100所用的研制时间、试验发动机台数、试验时数和成本以及所验证的寿命（* 以1996财年美元值计）。</p><p class='bbsp'><br/></p><p class='bbsp'>3 结论和发现</p><p class='bbsp'><br/></p><p class='bbsp'>（1）从预研开始到具备初始作战能的周期长达30年；</p><p class='bbsp'><br/></p><p class='bbsp'>（2）核心机和技术验证机属于预研范围，有性能验证和结构验证两种，技术分批进入；</p><p class='bbsp'><br/></p><p class='bbsp'>（3）通过地面和飞行型号验证机竞争择优进入工程研制；<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>（4）以寿命期成本最低为发动机循环优化的判断准则；</p><p class='bbsp'><br/></p><p class='bbsp'>（5）适用性、可靠性、耐久性和维修性与性能指标一起进入型号规范；</p><p class='bbsp'><br/></p><p class='bbsp'>（6）通过四阶段研制程序，研制结束时发动机达到生产定型状态；</p><p class='bbsp'><br/></p><p class='bbsp'>（7）从型号验证机开始的研制成本，XF119、YF119和F119累计为22.4亿美元（以当年美元值计），XF120和YF120累计为8.65亿美元。两个型号合计31.05亿美元。</p>
+                </div>
+                <div class="shareBlog">
+                    <div class="bar_1" style="clear:both;">
+                        <div class="float_L share share-hover">
+                            <span class="float_L">分享：</span>
+                            <a href="javascript:void(0)" onclick="TX_share('sina');GaqPush('分享');" class="share-1 float_L" title="分享到新浪微博"></a>
+                            <a href="javascript:void(0)" onclick="TX_share('qblog');GaqPush('分享');" class="share-2 float_L" title="分享到腾讯微博"></a>
+                            <a href="javascript:void(0)" onclick="TX_share('qzone');GaqPush('分享');" class="share-3 float_L" title="分享到QQ空间"></a>
+                            <a title="分享到微信" class="share-4 float_L" onclick="TX_share('weixin');GaqPush('分享');" href="javascript:void(0)"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="keyword">
+                    <strong>延伸阅读：</strong>
+                    <a onclick="GaqPush('关键词')"  href='http://data.tiexue.net/view/15511' target='_blank'>战斗力</a> <a onclick="GaqPush('关键词')"  href='http://data.tiexue.net/view/1846' target='_blank'>飞机</a> <a onclick="GaqPush('关键词')"  href='http://data.tiexue.net/view/1389405' target='_blank'>战斗机发动机</a> <a  href='http://www.tiexue.net/zhuanti/changxing/' target='_blank'>长兴岛造船厂</a> <a  href='http://www.tiexue.net/zhuanti/changzheng9/' target='_blank'>长征9号</a> <a  href='http://www.tiexue.net/zhuanti/pujingfangwen/' target='_blank'>普京访问中国</a> 
+                </div>
+                <div class="gfMsg">
+                    <ul class="gfLeft" onmouseover="tagetLayer(this,$(this).next('ul'))" id="tlogdiv"></ul>       
+                    <!--*日志弹出 start-->
+                    <ul class="logList" id="tloglist"></ul>
+                    <script type="text/javascript">
+                        //如果是管理员
+                        $(function(){
+                            var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                            var logisheader = TX.BaseCookie.BBS_IsHeader();
+                            var strhtml="";
+                            if(loguserid>0)
+                            {
+                                strhtml= '<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">6</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                                if(3319399 == loguserid|logisheader)
+                                {
+                                    strhtml='<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">6</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                                }
+                            }
+                            else{
+                                strhtml= '<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">6</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                            }
+                            $("#tlogdiv").html(strhtml);
+                            $("#tloglist").html(strhtml);
+                        })
+                    </script>
+                    <!--日志弹出 end-->
+                    <dl class="gfRight">
+                        <dd class="spare">
+                            <a href="javascript:void(0)" onclick="daShangLayer(3319399,100149031)">
+                                打赏</a></dd>
+                        <dd class="favor">
+                            <a href="javascript:void(0);" onclick="TxBBS_FavoriteThread('10639821');">
+                                收藏文本</a></dd>
+                        <dd class="ding" id="digNum">
+                            <a href="javascript:void(0);" onclick="TxBBS_DigThread('10639821');"><em>
+                                0</em><span></span></a></dd>
+                    </dl>
+                </div>
+                <div class="reward textHide" id="adminAddSalary_100149031_10639821">
+                </div>
+                <div class="qianming">0</div>
+                <div class="lock-msg border hidden" id="threadnoreplyspan">
+                    本帖已经被管理员锁定，不能回复</div>
+                <div class="fastReply" id="commentsDiv">
+                    <script type="text/javascript">
+                        try {
+                            TxBBS_SetQuickReplyHtml("commentsDiv", 'False', '69', '10639821', '航空发动机先行是正确的，为什么还有那么多人不懂');
+                        }
+                        catch (e) { }
+                    </script>
+                </div>
+                <!--*相关帖 start-->
+                <div class="aboutPost-v2" style="height: 340px; margin-top: 5px;">
+                    <h2 style="height: 50px; line-height: 50px; color: #38352C; font-size: 16px; font-weight: bold;">
+                        航空发动机先行是正确的，为什么还有那么多人不懂相关文章</h2>
+                    <div class="abpLeft">
+                        <ul>
+                            <li><a onclick="GaqPush('相关推荐-相关文章')" title='《张召忠再放卫星：1架歼十可控制住3架F35》倒底是谁在放卫星' href='http://bbs.tiexue.net/post_3254390_1.html' target = '_blank'>《张召忠再放卫星：1架歼十可控制住3架F35》倒底是谁在放卫星</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='评 “中印边境战略势局分析，印度全居劣势！”' href='http://bbs.tiexue.net/post_3682417_1.html' target = '_blank'>评 “中印边境战略势局分析，印度全居劣势！”</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='文武冠中华 千古第一人' href='http://bbs.tiexue.net/post_4155673_1.html' target = '_blank'>文武冠中华 千古第一人</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='全面解读：为什么老百姓一直都热爱毛主席' href='http://bbs.tiexue.net/post_4476046_1.html' target = '_blank'>全面解读：为什么老百姓一直都热爱毛主席</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='核武器真的有那么重要吗・・・・・・・・・・・・・・・・' href='http://bbs.tiexue.net/post_4980827_1.html' target = '_blank'>核武器真的有那么重要吗・・・・・・・・・・・・・・・・</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='为什么现在80后或90后的中国人如此执着的怀念毛主席' href='http://bbs.tiexue.net/post_5162806_1.html' target = '_blank'>为什么现在80后或90后的中国人如此执着的怀念毛主席</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='中国人要硬起来，不要再闹笑话了' href='http://bbs.tiexue.net/post_5172452_1.html' target = '_blank'>中国人要硬起来，不要再闹笑话了</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='为什么不敢打仗' href='http://bbs.tiexue.net/post_5636893_1.html' target = '_blank'>为什么不敢打仗</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='纪念伟大领袖毛主席诞辰118周年－民族的脊梁，中国的军魂' href='http://bbs.tiexue.net/post_5653342_1.html' target = '_blank'>纪念伟大领袖毛主席诞辰118周年－民族的脊梁，中国的军魂</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="abpRight pp01">
+                        <ul class="pp">
+                            <li><a href="http://bbs.tiexue.net/post_3962893_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small0.itiexue.net/1033/10338468.jpg" title="以色列“幼狮”的前世今生-为“猛龙”歼十正名" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_3962893_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>以色列“幼狮”的前世今生-为“猛龙”歼十正名</a></span></li><li><a href="http://bbs.tiexue.net/post_4741632_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small8.itiexue.net/1228/12284264.jpg" title="刺刀鉴赏-越战经典美国M7刺刀" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_4741632_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>刺刀鉴赏-越战经典美国M7刺刀</a></span></li><li><a href="http://bbs.tiexue.net/post_5034069_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small10.itiexue.net/1287/12870706.jpg" title="雪豹拍的还可以！无论真实不真实，国产剧在进步" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_5034069_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>雪豹拍的还可以！无论真实不真实，国产剧在进步</a></span></li><li><a href="http://bbs.tiexue.net/post_5634558_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small9.itiexue.net/1417/14179113.jpg" title="J20 起火了么？今天看到的图 求解" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_5634558_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>J20 起火了么？今天看到的图 求解</a></span></li><li><a href="http://bbs.tiexue.net/post_5644350_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small3.itiexue.net/1421/14210871.jpg" title="无聊人统统都闭嘴，让你们看看瓦良格真正的阻拦索…………………这么简单的东西，偏偏就涌现出那么多脑残" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_5644350_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>无聊人统统都闭嘴，让你们看看瓦良格真正的阻拦索…………………这么简单的东西，偏偏就涌现出那么多脑残</a></span></li><li><a href="http://bbs.tiexue.net/post_5823793_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small8.itiexue.net/1483/14834768.jpg" title="导弹艇火力这么强大 为啥还要造驱护舰" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_5823793_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>导弹艇火力这么强大 为啥还要造驱护舰</a></span></li>
+                        </ul>
+                    </div>
+                </div>
+                <!--相关帖 end-->
+            </div>
+            <!--*广告位 start-->
+            <div class="advert02" id="Baidu_BBSPostNormalV3ContentInfo"><script type="text/javascript" >BAIDU_CLB_fillSlot("92705")</script></div>
+            <!--广告位 end-->
+            <div class="date">
+                2015/12/15 8:16:14</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+</div>
+<!--*热门帖 start-->
+<div class="hotPost">
+    <div class="hotLeft border pp01">
+        <h3 class="tzTitle">
+            本版热门</h3>
+        <ul class="pp">
+            <li><a onclick="GaqPush('本版热门-焦点图')" target='_blank' title='歼15可以从斜角甲板起飞？' href='http://bbs.tiexue.net/post_10642140_1.html'><img id='img1' src='http://small6.itiexue.net/2120/21209454.jpg' width='120' height='90' border=0></a><span><a onclick="GaqPush('本版热门-焦点图')" target='_blank' title='歼15可以从斜角甲板起飞？' href='http://bbs.tiexue.net/post_10642140_1.html'>歼15可以从斜角甲板起飞？</a></span></li>
+        </ul>
+        <ul class="textList">
+            <li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626125_1.html' title='向中国科学家致敬，国产无人机限制销售给美国以及北约国家'>向中国科学家致敬，国产无人机限制销售给美国以及北约国家</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10639860_1.html' title='沙特多国联军2名军官被也门胡塞武装打死'>沙特多国联军2名军官被也门胡塞武装打死</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10628268_1.html' title='歼-20最新照！2017的蓝色尾焰！'>歼-20最新照！2017的蓝色尾焰！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10639933_1.html' title='巴飞行员试驾枭龙最新版，赞战斗力直逼歼10B：给F16也不换'>巴飞行员试驾枭龙最新版，赞战斗力直逼歼10B：给F16也不换</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10619618_1.html' title='苏-34飞行员背后真有个大夜壶!'>苏-34飞行员背后真有个大夜壶!</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10640126_1.html' title='俄罗斯将派安-30B侦察机进土领空对土耳其进行空中侦察！'>俄罗斯将派安-30B侦察机进土领空对土耳其进行空中侦察！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10641180_1.html' title='都看看！湾湾目前唯一战斗机女飞行员：25岁“甜姐”！'>都看看！湾湾目前唯一战斗机女飞行员：25岁“甜姐”！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10643241_1.html' title='[原创]俄罗斯功勋女飞行员卡巴妮娜特技表演欣赏'>[原创]俄罗斯功勋女飞行员卡巴妮娜特技表演欣赏</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626238_1.html' title='多图全方位展示阵风战斗机身影'>多图全方位展示阵风战斗机身影</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10625691_1.html' title='俄军向叙利亚增派4架苏34战机 加强空袭IS(图)'>俄军向叙利亚增派4架苏34战机 加强空袭IS(图)</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10622456_1.html' title='谷歌看到好东西'>谷歌看到好东西</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10621331_1.html' title='第二架C919正组装！明年首飞！'>第二架C919正组装！明年首飞！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10641470_1.html' title='战力爆表！美军无人机将安装激光武器'>战力爆表！美军无人机将安装激光武器</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10640128_1.html' title='乌克兰专家：中国航空发动机想突破还得靠乌方技术'>乌克兰专家：中国航空发动机想突破还得靠乌方技术</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10619493_1.html' title='俄T50隐形战机最新图曝光'>俄T50隐形战机最新图曝光</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10617888_1.html' title='中国用猪肉换来了俄罗斯苏35战斗机？俄方感慨让中国捡了金元宝'>中国用猪肉换来了俄罗斯苏35战斗机？俄方感慨让中国捡了金元宝</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10641221_1.html' title='三哥斥巨资研发无人攻击机:代号“死亡计划”！准备用10年完成设计！'>三哥斥巨资研发无人攻击机:代号“死亡计划”！准备用10年完成设计！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10635919_1.html' title='[原创]中国空军购买的SU-35--看看35先进在哪,顺便小科普下SU-35'>[原创]中国空军购买的SU-35--看看35先进在哪,顺便小科普下SU-35</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10625571_1.html' title='[原创]军事发烧友全解析俄军空袭IS叛军主战飞机'>[原创]军事发烧友全解析俄军空袭IS叛军主战飞机</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10628298_1.html' title='其实很多美国人希望中国的歼-20大获成功！'>其实很多美国人希望中国的歼-20大获成功！</a></li>
+        </ul>
+    </div>
+    
+    <div class="hotRight border pp01">
+        <h3 class="tzTitle">
+            大区热门</h3>
+        <ul class="pp">
+            <li><a onclick="GaqPush('大区热门-焦点图')" target='_blank' title='烈士走好' href='http://bbs.tiexue.net/post_10642122_1.html'><img id='img1' src='http://small5.itiexue.net/2120/21209321.jpg' width='120' height='90' border=0></a><span><a onclick="GaqPush('大区热门-焦点图')" target='_blank' title='烈士走好' href='http://bbs.tiexue.net/post_10642122_1.html'>烈士走好</a></span></li>
+        </ul>
+        <ul class="textList">
+            <li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626127_1.html' title='中国一天造就一个世界奇迹：国产航母将安装升降机'>中国一天造就一个世界奇迹：国产航母将安装升降机</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626170_1.html' title='听闻中国要出口这款装备给叙利亚，普京坐不住了急忙派人来华'>听闻中国要出口这款装备给叙利亚，普京坐不住了急忙派人来华</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10627052_1.html' title='中国导弹和西方战舰首次交锋 让西方丢尽脸面'>中国导弹和西方战舰首次交锋 让西方丢尽脸面</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626304_1.html' title='解放军向越南展示全地形战车 越南人很羡慕'>解放军向越南展示全地形战车 越南人很羡慕</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10641384_1.html' title='够猛够凄惨！一辆被重狙干掉的装甲车'>够猛够凄惨！一辆被重狙干掉的装甲车</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10639833_1.html' title='[原创]一吨黄金砸沉一艘宙斯盾舰，中国东风26导弹好用不贵'>[原创]一吨黄金砸沉一艘宙斯盾舰，中国东风26导弹好用不贵</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626289_1.html' title='北斗威武！中国远程精确打击武器终于可覆盖亚太'>北斗威武！中国远程精确打击武器终于可覆盖亚太</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10641202_1.html' title='台湾女警呼吁性别平等：男版防弹衣把胸都压平了！'>台湾女警呼吁性别平等：男版防弹衣把胸都压平了！</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10622267_1.html' title='快来看习大大又在打“打老虎”了！习大大加油！'>快来看习大大又在打“打老虎”了！习大大加油！</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10627674_1.html' title='台湾网民讨论真希望美爹来驻军成为美国一个州！'>台湾网民讨论真希望美爹来驻军成为美国一个州！</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10639824_1.html' title='不看不知道，一看吓一跳！2015年海兔新舰已服役数！'>不看不知道，一看吓一跳！2015年海兔新舰已服役数！</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10621178_1.html' title='美军又送给中国海军一大礼！（组图）'>美军又送给中国海军一大礼！（组图）</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10630533_1.html' title='《军事纪实》巨制： 《大棋局――从<开罗宣言>到<波茨坦公告>》 12月14日诚意推出！'>《军事纪实》巨制： 《大棋局――从<开罗宣言>到<波茨坦公告>》 12月14日诚意推出！</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626272_1.html' title='缺乏中国107火箭炮：看这些军队如何滥竽充数'>缺乏中国107火箭炮：看这些军队如何滥竽充数</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10627494_1.html' title='又该高潮了吧！湾湾首批黑鹰直升机运抵高雄 ！'>又该高潮了吧！湾湾首批黑鹰直升机运抵高雄 ！</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626149_1.html' title='二炮东风11与东风21部队在北方戈壁训练'>二炮东风11与东风21部队在北方戈壁训练</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626128_1.html' title='中国机枪发展历史 56式冲锋枪人称“小机枪”'>中国机枪发展历史 56式冲锋枪人称“小机枪”</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626974_1.html' title='79年打越南时解放军真的伤亡大吗？'>79年打越南时解放军真的伤亡大吗？</a></li>
+        </ul>
+    </div>
+    
+</div>
+<!--热门帖 end-->
+
+<div class="advert03" id="Baidu_BBSPostNormalV3FirstFloorBottomAD">
+    <div id="Baidu_BBSPostNormalV3FirstFloorBottomAD_container"></div>
+</div>
+
+<div class="postContent border hotReply wyReply">
+    <div class="postTit">
+        <h2>
+            网友回复</h2>
+        <span id="post_UserReplySort"></span>
+    </div>
+    <div id="PostReply_List">
+        
+        <!--*个人帖子 start-->
+        <!--deletefloor:4-->
+        <a name="4"></a>
+        <div class="postStart">
+            <!--*左边用户信息 start-->
+            <div class="sideLeft float_L">
+                <ul class="userMsg">
+                    <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/2502486" target="_blank">历史真相2</a></strong><span></span></p><span class="boyHead"></span></div></li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/LJ-xiao-2.gif" alt="军衔:陆军中校" title="军衔:陆军中校" /></li> <li class="xxMsg">军号：2502486</li>	<li class='xxMsg'>工分:74415	</li>
+                </ul>
+                <div id="Baidu_BBSPostNormalV3ContentLeftADList0" class="Baidu_PostADLeftList">
+                    <div id="Baidu_BBSPostNormalV3ContentLeftADList0_container">
+                    </div>
+                </div>
+            </div>
+            <!--左边用户信息 end-->
+            <!--*右边帖子内容 start-->
+            <div class="contents">
+                <div class="contRow_1" id="adminAndUserPanel_4">
+                    <!--10639821,100170724,4,2502486,历史真相2,XIRGVtPLp5q3ZjLxLk6DmQ%3d%3d,1,0,0,0,0-->
+                </div>
+                <div class="icon_left textHide">
+                    左箭头-小图标</div>
+                <div class="contRow_22">
+                <div class="bbsp2">
+                    
+                    <p>
+                        <!-- AdPanel --><!-- AdPanel_left --><p class='bbsp'>苏联和俄罗斯也早就型号和发动机分离了。</p>
+                    </p>
+                </div>
+                <div class="formMobile">本贴发自手机铁血网：[<a href="http://www.tiexue.net/mobile" target="_blank" style="text-decoration:underline;" onclick="GaqPush('wap')">围观热点军事动态，上手机铁血网:m.tiexue.net</a>]</div>
+    <div id="bompostlogdiv4">
+        <script type="text/javascript">
+            //如果是管理员
+            $(function(){
+                var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                var logisheader = TX.BaseCookie.BBS_IsHeader();
+                var strhtml="";
+                if(loguserid>0)
+                {
+                    strhtml= '<!-- 没有日志 -->';
+                    if(2502486 == loguserid|logisheader)
+                    {
+                        strhtml='<!-- 没有日志 -->';
+                    }
+                }
+                $("#bompostlogdiv4").html(strhtml);
+            })
+        </script>
+    </div>
+                <div style="height: 40px">
+                    <div class="tabBottom">
+                        <div class="reward textHide" id="adminAddSalary_100170724_10639821_0">
+                        </div>
+                        <p class="daShang">
+                            
+                             <a class="jubaobtn" style="visibility: hidden" onclick="GaqPush('主贴-举报');jubao('http://bbs.tiexue.net/ReportPostV2.aspx?PostID=100170724&ThreadID=10639821');" href="###">举报</a>
+                            <a href='javascript:void(0);daShangLayer("2502486","100170724")'>打赏</a>
+                            <a href='javascript:UserDigPost("100170724","Wonderful100170724")'>顶一下</a><strong>(<span id="Wonderful100170724">0</span>)</strong>
+                              <span><a onclick="commentPop('4',decodeURIComponent('历史真相2'),'XIRGVtPLp5q3ZjLxLk6DmQ%3d%3d');GaqPush('回复引用楼层');" href="###">回复</a></span>
+                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="date">
+                2015/12/16 9:15:01</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+    <!--个人帖子 end-->
+    
+        <!--*个人帖子 start-->
+        <!--deletefloor:3-->
+        <a name="3"></a>
+        <div class="postStart">
+            <!--*左边用户信息 start-->
+            <div class="sideLeft float_L">
+                <ul class="userMsg">
+                    <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/5799532" target="_blank">石板河的舰队</a></strong><span></span></p><span class="boyHead"></span></div></li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/KJ-xiao-3.gif" alt="军衔:空军上校" title="军衔:空军上校" /></li> <li class="xxMsg">军号：5799532</li>	<li class='xxMsg'>工分:134171		/ 排名:8830	</li>
+                </ul>
+                <div id="Baidu_BBSPostNormalV3ContentLeftADList1" class="Baidu_PostADLeftList">
+                    <div id="Baidu_BBSPostNormalV3ContentLeftADList1_container">
+                    </div>
+                </div>
+            </div>
+            <!--左边用户信息 end-->
+            <!--*右边帖子内容 start-->
+            <div class="contents">
+                <div class="contRow_1" id="adminAndUserPanel_3">
+                    <!--10639821,100158561,3,5799532,石板河的舰队,F%2b97YtPGgz12PSyqlOF5bQ%3d%3d,1,0,0,0,0-->
+                </div>
+                <div class="icon_left textHide">
+                    左箭头-小图标</div>
+                <div class="contRow_22">
+                <div class="bbsp2">
+                    
+                    <p>
+                        <!-- AdPanel --><!-- AdPanel_left --><p class='bbsp'><div class="yinyong"><dl><dt>2楼&nbsp;<a href="http://i.tiexue.net/994564" target="_blank">qdlai228</a></dt><dd>不懂的问题在于国内很少有人真的把这个问题给讲清楚讲透彻，即便是某些专家说法，也是奉旨宣诏，意在宣传发动，而不是科普。</p><p class='bbsp'>粗略的讲，航发技术上中国目前面临两个大难题，先进核心机研发和型号工程实现，两者都是航发进步的拦路虎。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>先进核心机研发这个问题，上面已经讲过了，我也就不多说，然而千万别以为你手里有了核心机，做具体型号就简单，不是那样的。</p><p class='bbsp'>我们看看美国，这个航发领域无论技术储备还是工程实践经验都最牛的国家，从核心机到F100的型号研发乃至成熟，用了15年以上的时间，可见并不容易！核心机并不等于成功的型号！</p><p class='bbsp'>国内情况也是如此，测绘仿制CFM56核心机大约在上世纪90年代中期就已经完成，然而到了实际型号太行上，前后又搞了差不多20年，一点也不简单，从核心机到成熟型号产品之间的路同样漫长。</p><p class='bbsp'>我们换到前面的话题，所谓发动机先行，更多的是指发动机技术预研和核心机预研这个层面上的问题，做好这件事，也并不等于你手头就有现成的发动机可用了，强如美帝，真正从技术到产品，还是要15年时间甚至更长，算上核心机技术预研和成品设计也需要15年以上的时间，整体可能需要30年后才能形成可靠产品，中国在人员技术储备不足，研发经费历史投入少的基础上，用的时间只会更多，不会更少。</p><p class='bbsp'>换而言之，发动机先行策略，执行的好，能给你的航发产业带来充足的发展后劲，但是对解决你目前没发动机可用的局面帮助是不大的，甚至说由于国内历史积累薄，人员技术储备少的现状，你付出很大精力去做这些基础科研工作，型号研制甚至进度会更慢，在一段时间内甚至根本就拿不出可用的东西来，而这也是国内航发领域目前不得不面对的窘境。</p><p class='bbsp'>让我们数数近年来已经引进或者确认要引进的型号好了，大推方面除了AL31及其发展型外，D30也已经引进，编号WS18，中推方面RD93也已经引进，编号WS13，小推方面乌克兰的AI222已经明确要引进，另外还有已经引进生产的AI25，编号WS11.可以看到，在国产发动机加大投入预研的同时，手头拿不出产品的现状迫使我们不得不从小到大全线引进了毛子发动机产品，除了微型发动机和用于民航的超大推力发动机以外几乎覆盖全部推力范围，即便如此，短时间内还是会持续依赖进口，因为即便引进的发动机，同样也有生产工艺掌握和成熟的问题在制约。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>因而实话实话，即便我们推行这个发动机先行的发展战略，真正看到成果也需要大约40年时间后，即便从本世纪初开始算起，也还有25年时间要等，这还是个比较乐观的估计，因为并没有考虑到国内相关专业人员的短缺和人才培养时间周期这些问题，国产航发要走的路还很长很长，还必须经受很长时间的痛苦煎熬，指望用个10年20年时间发展就成为航发强国，那是不切实际的臆想。</dd></dl></div>的确如此。</p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'>回顾过去，英国、美国、苏联站在德国喷气式航空发动机技术基础上七十年的发展，真正的体现出“发动机先行”思想也不过是美国一家在最近三十来年发生的事情，获得重要成果就更是过去二十来年。</p><p class='bbsp'>而英国和苏联仍然是秉承着传统的“飞机型号需求牵引发动机研发”的道路。</p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'>因此，中国在这个事情上急不来-----发动机技术的积累需要数以百万计发动机运行小时的支持，没有捷径可走。</p>
+                    </p>
+                </div>
+                
+    <div id="bompostlogdiv3">
+        <script type="text/javascript">
+            //如果是管理员
+            $(function(){
+                var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                var logisheader = TX.BaseCookie.BBS_IsHeader();
+                var strhtml="";
+                if(loguserid>0)
+                {
+                    strhtml= '<!-- 没有日志 -->';
+                    if(5799532 == loguserid|logisheader)
+                    {
+                        strhtml='<!-- 没有日志 -->';
+                    }
+                }
+                $("#bompostlogdiv3").html(strhtml);
+            })
+        </script>
+    </div>
+                <div style="height: 40px">
+                    <div class="tabBottom">
+                        <div class="reward textHide" id="adminAddSalary_100158561_10639821_0">
+                        </div>
+                        <p class="daShang">
+                            
+                             <a class="jubaobtn" style="visibility: hidden" onclick="GaqPush('主贴-举报');jubao('http://bbs.tiexue.net/ReportPostV2.aspx?PostID=100158561&ThreadID=10639821');" href="###">举报</a>
+                            <a href='javascript:void(0);daShangLayer("5799532","100158561")'>打赏</a>
+                            <a href='javascript:UserDigPost("100158561","Wonderful100158561")'>顶一下</a><strong>(<span id="Wonderful100158561">0</span>)</strong>
+                              <span><a onclick="commentPop('3',decodeURIComponent('石板河的舰队'),'F%2b97YtPGgz12PSyqlOF5bQ%3d%3d');GaqPush('回复引用楼层');" href="###">回复</a></span>
+                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="date">
+                2015/12/15 17:03:53</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+    <!--个人帖子 end-->
+    
+        <!--*个人帖子 start-->
+        <!--deletefloor:2-->
+        <a name="2"></a>
+        <div class="postStart">
+            <!--*左边用户信息 start-->
+            <div class="sideLeft float_L">
+                <ul class="userMsg">
+                    <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/994564" target="_blank">qdlai228</a></strong><span></span></p><span class="boyHead"></span></div></li> <li class="headPic"> <a href="http://i.tiexue.net/994564" target="_blank" title="查看个人空间"><img id="userMsg3" src="http://r.itiexue.net/bbs/other/images/user.gif" alt="头像" width="96" height="96" /></a> </li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/LJ-xiao-3.gif" alt="军衔:陆军上校" title="军衔:陆军上校" /></li> <li class="xxMsg">军号：994564</li><li class="rongYu"><!-- 勋章 start --><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=63&f=0' target='_blank'><img src='http://img3.itiexue.net/medal/honor/63/63_s.png' title='三级精华奖章' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=67&f=0' target='_blank'><img src='http://img7.itiexue.net/medal/honor/67/67_s.png' title='精华纪念章' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=68&f=0' target='_blank'><img src='http://img8.itiexue.net/medal/honor/68/68_s.png' title='原创纪念章' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=13&f=1' target='_blank'><img src='http://img1.itiexue.net/medal/honor/13/1/13_s.png' title='发帖新兵' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=14&f=1' target='_blank'><img src='http://img2.itiexue.net/medal/honor/14/1/14_s.png' title='发帖高手' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=167&f=1' target='_blank'><img src='http://img11.itiexue.net/medal/honor/167/1/167_s.png' title='三级原创精英' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=168&f=1' target='_blank'><img src='http://img0.itiexue.net/medal/honor/168/1/168_s.png' title='二级原创精英' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=179&f=1' target='_blank'><img src='http://img11.itiexue.net/medal/honor/179/1/179_s.png' title='三级精华高手' width='26' height='45' border=0 align='absmiddle'></a><!-- 勋章 end --></li>	<li class='xxMsg'>工分:182736		/ 排名:5806	</li>	<li class='xxMsg'>本区职务:会员</li>
+                </ul>
+                <div id="Baidu_BBSPostNormalV3ContentLeftADList2" class="Baidu_PostADLeftList">
+                    <div id="Baidu_BBSPostNormalV3ContentLeftADList2_container">
+                    </div>
+                </div>
+            </div>
+            <!--左边用户信息 end-->
+            <!--*右边帖子内容 start-->
+            <div class="contents">
+                <div class="contRow_1" id="adminAndUserPanel_2">
+                    <!--10639821,100154829,2,994564,qdlai228,ZAGyXomTM6LLMnFEw5IB%2bg%3d%3d,1,0,0,0,0-->
+                </div>
+                <div class="icon_left textHide">
+                    左箭头-小图标</div>
+                <div class="contRow_222">
+                <div class="bbsp2">
+                    
+                    <p>
+                        <!-- AdPanel --><!-- AdPanel_left --><p class='bbsp'>不懂的问题在于国内很少有人真的把这个问题给讲清楚讲透彻，即便是某些专家说法，也是奉旨宣诏，意在宣传发动，而不是科普。</p><p class='bbsp'>粗略的讲，航发技术上中国目前面临两个大难题，先进核心机研发和型号工程实现，两者都是航发进步的拦路虎。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>先进核心机研发这个问题，上面已经讲过了，我也就不多说，然而千万别以为你手里有了核心机，做具体型号就简单，不是那样的。</p><p class='bbsp'>我们看看美国，这个航发领域无论技术储备还是工程实践经验都最牛的国家，从核心机到F100的型号研发乃至成熟，用了15年以上的时间，可见并不容易！核心机并不等于成功的型号！</p><p class='bbsp'>国内情况也是如此，测绘仿制CFM56核心机大约在上世纪90年代中期就已经完成，然而到了实际型号太行上，前后又搞了差不多20年，一点也不简单，从核心机到成熟型号产品之间的路同样漫长。</p><p class='bbsp'>我们换到前面的话题，所谓发动机先行，更多的是指发动机技术预研和核心机预研这个层面上的问题，做好这件事，也并不等于你手头就有现成的发动机可用了，强如美帝，真正从技术到产品，还是要15年时间甚至更长，算上核心机技术预研和成品设计也需要15年以上的时间，整体可能需要30年后才能形成可靠产品，中国在人员技术储备不足，研发经费历史投入少的基础上，用的时间只会更多，不会更少。</p><p class='bbsp'>换而言之，发动机先行策略，执行的好，能给你的航发产业带来充足的发展后劲，但是对解决你目前没发动机可用的局面帮助是不大的，甚至说由于国内历史积累薄，人员技术储备少的现状，你付出很大精力去做这些基础科研工作，型号研制甚至进度会更慢，在一段时间内甚至根本就拿不出可用的东西来，而这也是国内航发领域目前不得不面对的窘境。</p><p class='bbsp'>让我们数数近年来已经引进或者确认要引进的型号好了，大推方面除了AL31及其发展型外，D30也已经引进，编号WS18，中推方面RD93也已经引进，编号WS13，小推方面乌克兰的AI222已经明确要引进，另外还有已经引进生产的AI25，编号WS11.可以看到，在国产发动机加大投入预研的同时，手头拿不出产品的现状迫使我们不得不从小到大全线引进了毛子发动机产品，除了微型发动机和用于民航的超大推力发动机以外几乎覆盖全部推力范围，即便如此，短时间内还是会持续依赖进口，因为即便引进的发动机，同样也有生产工艺掌握和成熟的问题在制约。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>因而实话实话，即便我们推行这个发动机先行的发展战略，真正看到成果也需要大约40年时间后，即便从本世纪初开始算起，也还有25年时间要等，这还是个比较乐观的估计，因为并没有考虑到国内相关专业人员的短缺和人才培养时间周期这些问题，国产航发要走的路还很长很长，还必须经受很长时间的痛苦煎熬，指望用个10年20年时间发展就成为航发强国，那是不切实际的臆想。</p>
+                    </p>
+                </div>
+                
+    <div id="bompostlogdiv2">
+        <script type="text/javascript">
+            //如果是管理员
+            $(function(){
+                var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                var logisheader = TX.BaseCookie.BBS_IsHeader();
+                var strhtml="";
+                if(loguserid>0)
+                {
+                    strhtml= '<!-- 没有日志 -->';
+                    if(994564 == loguserid|logisheader)
+                    {
+                        strhtml='<!-- 没有日志 -->';
+                    }
+                }
+                $("#bompostlogdiv2").html(strhtml);
+            })
+        </script>
+    </div>
+                <div style="height: 40px">
+                    <div class="tabBottom">
+                        <div class="reward textHide" id="adminAddSalary_100154829_10639821_0">
+                        </div>
+                        <p class="daShang">
+                            
+                             <a class="jubaobtn" style="visibility: hidden" onclick="GaqPush('主贴-举报');jubao('http://bbs.tiexue.net/ReportPostV2.aspx?PostID=100154829&ThreadID=10639821');" href="###">举报</a>
+                            <a href='javascript:void(0);daShangLayer("994564","100154829")'>打赏</a>
+                            <a href='javascript:UserDigPost("100154829","Wonderful100154829")'>顶一下</a><strong>(<span id="Wonderful100154829">0</span>)</strong>
+                              <span><a onclick="commentPop('2',decodeURIComponent('qdlai228'),'ZAGyXomTM6LLMnFEw5IB%2bg%3d%3d');GaqPush('回复引用楼层');" href="###">回复</a></span>
+                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="date">
+                2015/12/15 14:33:24</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+    <!--个人帖子 end-->
+    
+</div>
+</div>
+
+            <div class="mRow_1">
+                <p class="ftBtn textHide float_L">
+                    <a onclick="addPost();_gaq.push(['_trackEvent', 'bbs', 'clicked', '发帖按钮'])" href="javascript:void(0);" target="_self">我要发帖</a>
+                </p>
+                <div class="page">
+                    <p>
+                        总页数<span>1</span>第<span>1</span>页&nbsp;[共有<span>4</span>条记录]&nbsp;分页：
+                    </p>
+                    <a href="http://bbs.tiexue.net/post_10639821_1.html" class="pageHover">1</a>
+                    
+                </div>
+            </div>
+            <div class="advert03" id="Baidu_BBSPostNormalV3KuTuAD1"></div>
+            <div class="tabs">
+                <div class="tabsTop" id="replyUserMsg">
+                    &nbsp;对<span>航空发动机先行是正确的，为什么还有那么多人不懂</span>回复
+                </div>
+                <script type="text/javascript">
+                    if (TX.BaseCookie.BBS_CurrentUserID() != 0) {
+                        $("#replyUserMsg").prepend("“" + TX.BaseCookie.TxBBS_CurrentUserName() + "”");
+                    }
+                </script>
+                <iframe id="ReplyFrame" name="ReplyFrame" frameborder="0" marginheight="0" marginwidth="0"
+                    scrolling="no" src="http://bbs.tiexue.net/reply/ReplyNew2.htm" width="970" height="630"></iframe>
+                <div class="lock-msg border hidden" id="noreplyspan">
+                    本帖已经被管理员锁定，不能回复
+                </div>
+            </div>
+            <!--*底部操作条 start-->
+            <div class="bot-operateBar border hidden" id="postbuttonadminpanel_100149031_10639821_0_0">
+            </div>
+            <!--底部操作条 end-->
+        </div>
+        <!--主要内容 end-->
+        <!--*脚注 start-->
+        
+<div class="footer" id="footer">
+    <script type="text/javascript">        CreateFooter("about");</script>
+    <span>|</span><a href="http://www.tiexue.net/map_index.htm" target="_blank">网站地图</a>
+    <script type="text/javascript">        CreateFooter("version");</script>
+    <script type="text/javascript">        CreateFooter("law");</script>
+    <script type="text/javascript">        CreateFooter("record");</script>
+</div>
+
+        <!--脚注 end-->
+
+    </div>
+    <script type="text/javascript">
+
+        try {
+            var effect = ('').split(',');
+            for (var i = 0; i < effect.length; i++) {
+                getEffect(effect[i]);
+            }
+        }
+        catch (e) { }
+
+        function getEffect(ef) {
+            if (ef.indexOf("bg") > -1) {
+                $(".signeffect-id").addClass("sign-bg");
+            }
+            else if (ef.indexOf("head") > -1) {
+                $(".signeffect-head").addClass("sign-ico").attr("title", "签到精英");
+            }
+        }
+        $(document).ready(function () {
+            try {
+                Tx_InitTopPostDigBar("contentsbelowbar", ThreadID, Subject, '0');
+            }
+            catch (e)
+            { }
+            TxBBS_AdminAndUserPanel();
+            TxBBS_PostShowAdminButtonPanel();
+        });
+    </script>
+            
+    <script type="text/javascript" src="http://s.itiexue.net/js/tiexue/statistic/bbs/bbsmonitor-u.js"></script>
+    <!--对联广告-->
+    <script type="text/javascript">
+        function adInfoShow() {
+            if (TX.BaseCookie.BBS_CurrentUserID() <= 0) {
+                var showJunphAd = false;
+                if (document.referrer != null) {
+                    var referrerInfo = document.referrer;
+                    if (referrerInfo.toLowerCase().indexOf("showpicclass_43_1.html") > 0) {
+                        showJunphAd = true;
+                    }
+                }
+                if(ForumID ==292|| ForumID ==293|| ForumID ==291|| ForumID ==294|| ForumID ==283 || ForumID == 219 ||ForumID == 79 ||ForumID == 260 || showJunphAd) {
+                    BAIDU_CLB_singleFillSlot("445637");
+                }
+                else {
+                    BAIDU_CLB_singleFillSlot("80066");
+                }
+            }
+        }      
+
+        if (islocked > 0) {
+            $("#ReplyFrame").height("0px");
+            $("#ReplyFrame").hide();
+            $("#noreplyspan").show();
+            $("#replyUserMsg").hide();
+        }
+    </script>
+    <script type="text/javascript">
+        if (TX.BaseCookie.BBS_CurrentUserID() <= 0) {
+            //            if (GetCookie()) {
+            //               // BAIDU_CLB_singleFillSlot("545690");
+            //            } else {
+            var showJunphAd = false;
+            if (document.referrer != null) {
+                var referrerInfo = document.referrer;
+                if (referrerInfo.toLowerCase().indexOf("showpicclass_43_1.html") > 0) {
+                    showJunphAd = true;
+                }
+            }
+            if (ForumID ==292|| ForumID ==293|| ForumID ==291|| ForumID ==294|| ForumID ==283 || ForumID == 219 || ForumID == 79 || ForumID == 260 || showJunphAd) {
+                BAIDU_CLB_singleFillSlot("535435");
+            }
+            else {
+                BAIDU_CLB_fillSlot("81336");
+            }
+            //            }
+        }        
+    </script>
+</body>
+</html>
+
+
+<!-- Created On 2015/12/16 9:15:02 -->
+<!-- CopyRight by TieXue -->

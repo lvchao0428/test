@@ -1,0 +1,303 @@
+<!--UINFO: http://bbs.xs163.net/thread-3378284-1-1.html	length=17366&last_modified=0&time_saved=1450677189&charset=utf-8-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns:wb="http://open.weibo.com/wb">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>杭州早教中心 - 妈咪宝贝 -  萧山人自己的网上社区-北干听风 -  Powered by Discuz!</title>
+<link href="http://bbs.xs163.net/thread-3378284-1-1.html" rel="canonical" />
+<meta name="keywords" content="杭州早教中心" />
+<meta name="description" content=" 杭州早教中心 ,萧山人自己的网上社区-北干听风" />
+<meta name="generator" content="Discuz! X3.1" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.xs163.net/" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_common.css?Ld2" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_forum_viewthread.css?Ld2" /><script type="text/javascript">var STYLEID = '2', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Ld2', charset = 'utf-8', discuz_uid = '0', cookiepre = 'Jr6x_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|威望|,2|贝币|,3|贡献|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy54czE2My5uZXQvdGhyZWFkLTMzNzgyODQtMS0xLmh0bWw=', SITEURL = 'http://bbs.xs163.net/', JSPATH = 'static/js/', DYNAMICURL = '';</script>
+<script src="static/js/common.js?Ld2" type="text/javascript"></script>
+    <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" type="text/javascript" charset="utf-8"></script>
+<meta name="application-name" content="萧山人自己的网上社区-北干听风" />
+<meta name="msapplication-tooltip" content="萧山人自己的网上社区-北干听风" />
+<meta name="msapplication-task" content="name=门户;action-uri=http://bbs.xs163.net/portal.php;icon-uri=http://bbs.xs163.net/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=论坛;action-uri=http://bbs.xs163.net/forum.php;icon-uri=http://bbs.xs163.net/static/image/common/bbs.ico" />
+<link rel="archives" title="萧山人自己的网上社区-北干听风" href="http://bbs.xs163.net/archiver/" />
+<script src="static/js/forum.js?Ld2" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://bbs.xs163.net/');">设为首页</a><a href="http://oldbbs.xs163.net" target="_blank" >旧版入口</a><script type="text/javascript">var _speedMark = new Date();</script></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到宽版" class="switchwidth">切换到宽版</a>
+</div>
+</div>
+</div>
+
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=bgtfreg" class="xi2 xw1">立即注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div>         <div id="hd">
+<div class="w100">
+<div class="hdc cl wd960"><h2><a href="./" title="萧山人自己的网上社区-北干听风"><img src="static/image/common/logo.gif" alt="萧山人自己的网上社区-北干听风" border="0" /></a></h2><script src="static/js/logging.js?Ld2" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<span class="ftid">
+<select name="fastloginfield" id="ls_fastloginfield" width="40" tabindex="900">
+<option value="username">用户名</option>
+<option value="email">Email</option>
+</select>
+</span>
+<script type="text/javascript">simulateSelect('ls_fastloginfield')</script>
+</td>
+<td><input type="text" name="username" id="ls_username" autocomplete="off" class="px vm" tabindex="901" /></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />自动登录</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password" class="z psw_w">密码</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;"><em>登录</em></button></td>
+<td>&nbsp;<a href="member.php?mod=bgtfreg" class="xi2 xw1">立即注册</a></td>
+</tr>
+</table>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</div>
+
+<div class="fastlg_fm y" style="margin-right: 10px; padding-right: 10px">
+<p><a href="http://bbs.xs163.net/connect.php?mod=login&op=init&referer=forum.php%3Fmod%3Dviewthread%26tid%3D3378284%26extra%3Dpage%253D1%26page%3D1&statfrom=login_simple"><img src="static/image/common/qq_login.gif" class="vm" alt="QQ登录" /></a></p>
+<p class="hm xg1" style="padding-top: 2px;">只需一步，快速开始</p>
+</div>
+</div>
+</form>
+
+</div>
+
+<!--导航-->
+<div class="navbar" style="top: 0px; left: 152px; z-index: 199;" id="nv">
+<div class="main">
+<div class="nav bbs_nav">
+<a href="portal.php">首页</a>
+<a target="_blank" href="http://www.xs163.net" target="_blank">萧然在线</a>
+<a href="forum.php">社区导航</a>
+<a target="_blank" href="http://fc.xs163.net" target="_blank">房产</a>
+<a target="_blank" href="http://jz.xs163.net" target="_blank">家装</a>
+<a target="_blank" href="http://8.xs163.net" target="_blank">财经</a>
+<a target="_blank" href="http://car.xs163.net" target="_blank">汽车</a>
+<a target="_blank" href="http://edu.xs163.net" target="_blank">教育</a>
+<a target="_blank" href="http://health.xs163.net" target="_blank">健康</a>
+<a target="_blank" href="http://v.swjoy.com/?=xiaoshan1" target="_blank">视频交友</a>
+<a target="_blank" href="http://114.xs163.net" target="_blank">百事通</a>
+<a target="_blank" class="phone" href="http://m.xs163.net/m" target="_blank"><span class="sitenav"></span><font class="txtk">手机版</font></a>
+</div>
+</div>
+</div>
+<!--
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(170);})">快捷导航</a>
+<ul><li id="mn_portal" ><a href="portal.php" hidefocus="true" title="Portal"  >门户<span>Portal</span></a></li><li class="a" id="mn_forum" ><a href="forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li></ul>
+</div>
+-->
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div>     <!--论坛版块开始-->
+    <div class="fastnav">
+    	<div class="con sitenav">
+        	<dl class="category">
+            	<dt><img src="template/m1/common/images/topic.gif"></dt>
+                <dd>
+                	<a style="color:#f00" href="forum-18-1.html"><span>冷暖人间</span></a>
+                    <a href="forum-179-1.html"><span>警务</span></a>
+                    <a href="forum-20-1.html"><span>情感</span></a>
+                    <a href="forum-121-1.html"><span>视点聚焦</span></a>
+                    <a href="forum-43-1.html"><span>公益</span></a>
+                    <a href="forum-53-1.html"><span>人才</span></a>
+                </dd>
+                 <div class="clear"></div>
+            </dl>
+            
+            <dl class="category">
+            	<dt><img src="template/m1/common/images/live.gif"></dt>
+                <dd>
+                	<a href="forum-172-1.html"><span>房产</span></a>
+                    <a href="forum.php?gid=229"><span>家装</span></a>
+                    <a href="forum-92-1.html"><span>婚嫁</span></a>
+                    <a href="forum-38-1.html"><span>汽车</span></a>
+<a href="forum-15-1.html"><span>美食</span></a>
+<a href="forum-78-1.html"><span>电影</span></a>
+                    <a href="forum-89-1.html"><span>租房</span></a>
+                    <a href="forum-62-1.html"><span>财经</span></a>
+                </dd>
+                <div class="clear"></div>
+            </dl>
+            
+            <dl class="category">
+            	<dt><img src="template/m1/common/images/communication.gif"></dt>
+                <dd>
+                	<a href="forum-38-1.html"><span>车友</span></a>
+                    <a href="forum-80-1.html"><span>文学</span></a>
+                    <a href="forum-44-1.html"><span>宠物</span></a>
+                    <a href="forum-247-1.html"><span>健康</span></a>
+<a href="forum-236-1.html"><span>驴友</span></a>
+<a href="forum-170-1.html"><span>亲子</span></a>
+                    <a href="forum-50-1.html"><span>交友</span></a>
+<a href="forum-64-1.html"><span>教育</span></a>
+                    
+                </dd>
+                <div class="clear"></div>
+            </dl>
+            
+            <dl class="category nobackground">
+            	<dt><img src="template/m1/common/images/service.gif"></dt>
+                <dd>
+                	<a href="forum-101-1.html"><span>求助</span></a>
+                    <a href="forum-181-1.html"><span>乡镇论坛</span></a>
+                    <a href="forum-105-1.html"><span>棋牌</span></a>
+                    <a href="forum-159-1.html"><span>灌水</span></a>
+                    <a href="forum-101-1.html"><span>网友中心</span></a>
+                    <a href="forum-130-1.html"><span>活动</span></a>
+                </dd>
+                 <div class="clear"></div>
+            </dl>
+        </div>
+    </div>
+<!--论坛版块结束--><div id="mu" class="cl wd960">
+</div><div class="a_mu"><table width="960" border="0" cellspacing="0" cellpadding="0" align="center">
+<!--
+ <tr><td  align="center" height=65 ><a href="http://d1.xs163.net//adv/hsw/kaiyuan/kaiyuan.html" target="_blank"><img 
+src="http://d1.xs163.net/adv/lgl/2014/kymj.gif" border="0"></a></td></tr>
+-->
+ <tr><td  align="center" height=65 ><a href="http://fc.xs163.net/lp.asp?id=15" target="_blank" style="display:block;">
+<img src="http://d1.xs163.net/adv/lgl/2015/hrql.gif" border="0"></a>
+</td></tr>
+
+ <tr><td  align="center" height=65 ><a href="http://bbs.xs163.net/thread-3342386-1-1.html" target="_blank" style="display:block;">
+<img src="http://d1.xs163.net/adv/msy/yyh.gif" border="0"></a>
+</td></tr>
+
+<!--
+<tr>
+  <td align="center" height=65 >
+<a href="http://jz.xs163.net/family1.asp" target="_blank"><img src="http://d1.xs163.net//adv/hsw/jz_bbs.gif" border="0"></a></td>
+</tr>
+<tr>
+  <td align="center" height=65 >
+<a href="http://bbs.xs163.net/thread-3246666-1-1.html" target="_blank"><img src="http://d1.xs163.net/adv/msy/0918a.gif" border="0"></a></td>
+</tr>
+-->
+</table></div><div id="scbar" class="wd960 cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="358b186e" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="170" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%E6%B4%BB%E5%8A%A8&amp;formhash=358b186e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">活动</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E4%BA%A4%E5%8F%8B&amp;formhash=358b186e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">交友</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E8%BD%A6%E5%8F%8B%E4%BC%9A&amp;formhash=358b186e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">车友会</a>
+
+</div>
+</td>
+<td class="scbar_hot_td"><div style="padding-left:30px;"><wb:follow-button uid="2433707254" type="red_2" width="136" height="24" ></wb:follow-button></div></td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="curforum" fid="170" >本版</a></li><li><a href="javascript:;" rel="article">文章</a></li><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<script type="text/javascript">var fid = parseInt('170'), tid = parseInt('3378284');</script>
+
+<script src="static/js/forum_viewthread.js?Ld2" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(1);var imagemaxwidth = '760';var aimgcount = new Array();</script>
+
+<style id="diy_style" type="text/css"></style>
+<!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]-->
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">萧山人自己的网上社区-北干听风</a><em>&raquo;</em><a href="forum.php">论坛</a> <em>&rsaquo;</em> <a href="forum.php?gid=175">交友 / 婚嫁 / 亲子</a> <em>&rsaquo;</em> <a href="forum-170-1.html">妈咪宝贝</a> <em>&rsaquo;</em> <a href="thread-3378284-1-1.html">杭州早教中心</a>
+</div>
+</div>
+
+<script src="http://pc1.gtimg.com/js/jquery-1.4.4.min.js" type="text/javascript"></script><script type="text/javascript">jQuery.noConflict();</script><script type="text/javascript">(function(d){j=d.createElement('script');j.src='//openapi.guanjia.qq.com/fcgi-bin/getdzjs?cmd=urlquery_utf-8_zh_cn';j.setAttribute('ime-cfg','lt=2');d.getElementsByTagName('head')[0].appendChild(j)})(document)</script><link rel="stylesheet" type="text/css" href="http://s.pc.qq.com/discuz/css/style.css" /><style id="diy_style" type="text/css"></style>
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="ct" class="wp cl">
+<div id="pgt" class="pgs mbm cl ">
+<div class="pgt"></div>
+<span class="y pgb"><a href="forum-170-1.html">返回列表</a></span>
+<a id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=170')" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a></div>
+
+
+
+<div id="postlist" class="pl bm">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls ptn pbn">
+<div class="hm ptn">
+<span class="xg1">查看:</span> <span class="xi1">79</span><span class="pipe">|</span><span class="xg1">回复:</span> <span class="xi1">0</span>
+</div>
+</td>
+<td class="plc ptm pbn vwthd">
+<div class="y">
+<a href="forum.php?mod=viewthread&amp;action=printable&amp;tid=3378284" title="打印" target="_blank"><img src="static/image/common/print.png" alt="打印" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextoldset&amp;tid=3378284" title="上一主题"><img src="static/image/common/thread-prev.png" alt="上一主题" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextnewset&amp;tid=3378284" title="下一主题"><img src="static/image/common/thread-next.png" alt="下一主题" class="vm" /></a>
+</div>
+<h1 class="ts">
+<a href="forum.php?mod=forumdisplay&amp;fid=170&amp;filter=typeid&amp;typeid=364">[商家自荐]</a>
+<span id="thread_subject">杭州早教中心</span>
+</h1>
+<span class="xg1">
+<a href="thread-3378284-1-1.html" onclick="return copyThreadUrl(this, '萧山人自己的网上社区-北干听风')" >[复制链接]</a>
+</span>
+</td>
+</tr>
+</table>
+
+
+<table cellspacing="0" cellpadding="0" class="ad">
+<tr>
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table><div id="post_17673620" ><table id="pid17673620" class="plhin" summary="pid17673620" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar17673620" class="pls favatar">
+<a name="

@@ -1,0 +1,1831 @@
+<!--UINFO: http://bbs.news.163.com/bbs/shishi/582574040,1.html	length=189557&last_modified=0&time_saved=1450676868&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk"/>
+<meta http-equiv="pragma" content="no-cache" />
+
+
+<link rel="stylesheet" type="text/css" href="http://img1.cache.netease.com/bbs/static/20150917/form_tie.css" charset="GBK"/>
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="http://img1.cache.netease.com/bbs/static/20150917/tie_ie6.css" charset="GBK"/>
+<![endif]-->
+
+<title>对剩余价值论的再分析</title>
+<script type="text/javascript" src="http://img1.cache.netease.com/bbs/static/20150917/bbsntes_jslib.js" charset="GBK"></script>
+<script type="text/javascript" src="http://img1.cache.netease.com/bbs/static/20150917/jquery_bbs.js" charset="GBK"></script>
+</head>
+<body>
+   <iframe src="http://t.163.com/crossdomain.html" style="display:none;"  id="iframeProxy"></iframe>
+<link type="text/css" rel="stylesheet" media="screen" href="http://img1.cache.netease.com/common/css/common_nav_v1.0.1.css" />
+<style>.NTES-nav {width: auto; margin-left: 5px;}</style>
+<div class="NTES-nav">
+    <span class="nav-link"><a href="http://www.163.com/">网易首页</a>-<a href="http://news.163.com/">新闻</a>-<a href="http://sports.163.com/">体育</a>-<a href="http://sports.163.com/nba/">NBA</a>-<a href="http://ent.163.com/">娱乐</a>-<a href="http://money.163.com/">财经</a>-<a href="http://money.163.com/stock/">股票</a>-<a href="http://auto.163.com/" id="_link_auto">汽车</a>-<a href="http://tech.163.com/">科技</a>-<a href="http://mobile.163.com/">手机</a>-<a href="http://lady.163.com/">女人</a>-<a href="http://bbs.163.com/">论坛</a>-<a href="http://v.163.com/">视频</a>-<a href="http://blog.163.com/">博客</a>-<a href="http://house.163.com/" id="houseUrl">房产</a>-<a id="homeUrl" href="http://home.163.com/">家居</a>-<a href="http://edu.163.com/">教育</a>-<a href="http://book.163.com/">读书</a>-<a href="http://game.163.com/" id="_link_game">游戏</a>-<a href="http://www.lofter.com/?act=qb163rk_20141031_05" target="_blank">LOFTER</a> |</span>
+    <div class="rightCon">
+        <div class="NTES-link">
+            <a href="http://email.163.com/" class="cBlue">免费邮箱</a> - <a href="http://reg.163.com/" class="cBlue">通行证登录</a>
+        </div>
+        <a href="http://www.163.com/rss"><img width="26" height="14" border="0" src="http://img3.cache.netease.com/cnews/img07/rss.gif" class="rss" alt="Rss"></a>
+    </div>
+</div>
+<script type="text/javascript">
+    //<![CDATA[
+    NTES.ready( function($){
+        var P_INFO = NTES.cookie.get("P_INFO");
+        var S_INFO = NTES.cookie.get("S_INFO");
+        if(P_INFO){
+            var mailconfig = {
+                "163.com":"http://entry.mail.163.com/coremail/fcg/ntesdoor2?verifycookie=1&lightweight=1",
+                "126.com" : "http://entry.mail.126.com/cgi/ntesdoor?verifycookie=1&lightweight=1&style=-1",
+                "vip.126.com" : "http://reg.vip.126.com/enterMail.m",
+                "yeah.net" : "http://entry.yeah.net/cgi/ntesdoor?verifycookie=1&lightweight=1&style=-1",
+                "188" : "http://reg.mail.188.com/servlet/enter",
+                "vip.163.com" : "http://reg.vip.163.com/enterMail.m?enterVip=true-----------"
+            };
+            var passport =  P_INFO.substr(0, P_INFO.indexOf("|"));
+            var username =  passport.substr(0, P_INFO.indexOf("@"));
+            var logstate = P_INFO.split("|")[2];
+            var logiframe = "";
+            var pspt = passport.length >= 6 ? passport.substr(0,6)+"..." : passport;
+            /@([^*]+)/.test(passport);
+            var logdomain = RegExp.$1;
+            if(P_INFO && S_INFO || logstate=="1") {
+                var entrylink_html = '<a href=\"http://reg.163.com/Main.jsp?username='+passport+'\">进入通行证</a>';
+                if(mailconfig[logdomain] != undefined) {
+                    entrylink_html += '<a href=\"'+mailconfig[logdomain]+'\">进入我的邮箱</a>';
+                }
+                if(logdomain == "popo.163.com" || mailconfig[logdomain] != undefined) {
+                    entrylink_html += '<a href="http://blog.163.com/passportIn.do?entry=163">进入我的博客</a><a href="http://photo.163.com/?username='+passport+'\">进入我的相册</a>';
+                }
+                entrylink_html += '<a href="http://yuehui.163.com/">进入我的约会</a><a href="http://t.163.com">进入我的微博</a>';
+                if(logdomain == "163.com" || logdomain == "126.com" || logdomain == "yeah.net") {
+                    logiframe = '<iframe allowTransparency=\"true\" style=\"width: 56px; height:26px; float:left; vertical-align: middle;\" id=\"ifrmNtesMailInfo\" border=\"0\" src=\"http://p.mail.'+logdomain+'/mailinfo/shownewmsg_www_1222.htm\" frameBorder=\"0\" scrolling=\"no\"></iframe>';
+                }
+                var login_html = '<div class=\"ntes-usercenter\"><div class=\"ntes-usercenter-logined\"><strong id=\"ntes_usercenter_name\" class=\"ntes-usercenter-name\" title=\"欢迎你，'+passport+'\">'+pspt+'</strong></div><div id=\"ntes_usercenter_entry\" class=\"ntes-usercenter-entry\"><span class=\"user-entry\">'+entrylink_html+'</span></div></div>'+logiframe+'|<a class=\"ntes-usercenter-loginout\" href=\"http://reg.163.com/Logout.jsp?username='+passport+'\" target=\"_self\">退出</a></div>';
+                NTES(".NTES-link")[0].innerHTML = login_html;
+
+                NTES("#ntes_usercenter_name").addEvent("click", function(e){
+                    NTES("#ntes_usercenter_entry").style.display = NTES("#ntes_usercenter_entry").style.display == "block" ? "none" : "block";
+                    e.preventDefault();
+                    e.cancelBubble = true;
+                    document.onclick = function(){
+                        NTES("#ntes_usercenter_entry").style.display = "none";
+                    }
+                })
+            };
+        }
+    })
+    //]]>
+    NTES.retire();
+</script>
+    <div id="topNav">
+                    <input type="hidden" name="boardid" id="boardid" value="shishi"/>
+                <input type="hidden" name="boardname" id="boardname" value="时事论坛"/>
+                    <input type="hidden" name="threadId" id="threadId" value="582574040"/>
+                <input type="hidden" name="channel" id="channel" value="news"/>
+
+        <input type="hidden" value="2" id="list_page_num">
+        <div class="nav-bar">
+            <a href="http://bbs.163.com" class="logo"></a>
+            <a href="http://www.163.com">网易首页</a> &gt;
+            <a href="http://news.163.com/">网易新闻</a> &gt;
+            <a href="http://bbs.news.163.com">网易新闻论坛</a> &gt;
+			            <a href="http://bbs.news.163.com/boardset/shishi.html">时事论坛</a>
+        </div>
+        <div class="nav-info" style="display:none;">
+            <a href="http://bbs.163.com/user/personalCenter.do" class="info-username" target="_blank"></a>
+    		<a href="#" class="info-mark info-sign">签到</a> |
+            <table class="info-manage" cellspacing="0" cellpadding="0" border="0">
+            <tr><td valign="middle">
+                <div class="dd-window dd-window-expand1">
+    			    <a href="http://bbs.163.com/user/personalCenter.do" target="_blank">我的管理中心</a>
+    				<em class="icon-arrow-up"></em>
+                    <div class="board-menu">
+                        <div class="board-menu-connect"></div>
+                        <div class="board-menu-container">
+                            <div class="board-menu-nav">
+                              	  个人管理 &gt;
+                            </div>
+                            <ul class="board-menu-sub-nav">
+                                <li><a target="_blank" href="http://bbs.163.com/user/personalCenter.do">管理中心</a></li>
+                                <li><a target="_blank" href="http://bbs.163.com/user/gift/newUserTask.do">新手任务</a></li>
+                                <li><a target="_blank" href="http://bbs.163.com/user/gift/giftShop.do">礼物商店</a></li>
+                                <li><a target="_blank" href="http://bbs.163.com/user/upgrade.do">升级中心</a></li>
+                            </ul>
+                        </div>
+                        <div class="board-menu-container last">
+                            <div class="board-menu-nav">
+                                个人收藏 &gt;
+                            </div>
+                            <ul class="board-menu-sub-nav like-list">
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </td></tr>
+            </table> |
+            <!--<a href="http://t.163.com/?f=bbsnav" class="info-weibo">我的网易微博</a>(<span class="red weibo-count">99+</span>) |-->
+            <a href="http://www.lofter.com/entry?act=qb163rk_20141031_05&logined=true" target="_blank">我的LOFTER</a><span class="js-lofter-sec">(<span class="red lofter-count">99+</span>)</span> |
+            <div class="info-message-box">
+                <div class="dd-window dd-window-expand1">
+                    <a href="http://bbs.163.com/user/msg.do?msgType=2">消息中心</a>(<span class="red message-count">6</span>)
+    				<em class="icon-arrow-up"></em>
+                    <ul class="info-message-box-list">
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=2">用户消息 <span class="em">2</span></a>
+                        </li>
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=1">评论消息 <span class="em">2</span></a>
+                        </li>
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=0">系统消息 <span class="em">2</span></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="message_alert_box">
+                    <span class="message_arrow"></span>
+                    <a class="message_alert_btn" href="">X</a>
+                    <ul class="message_alert_list">
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=2">用户消息 <span class="em">0</span></a>
+                        </li>
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=1">评论消息 <span class="em">0</span></a>
+                        </li>
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=0">系统消息 <span class="em">0</span></a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div> |
+            <a href="/bbs/user/logout.jsp">退出</a> |
+            <a href="/list/tyro.html" id="forumhelp">帮助</a>
+            <a href="http://help.3g.163.com/bbs/">手机版</a>
+        </div>
+        <div class="nav-login">
+            [<a href="#" class='login-button'>登录</a>]
+            <a href="#" class="info-mark info-sign">签到</a>  |
+            <a  href="/list/tyro.html" >帮助</a> |
+            <a href="http://help.3g.163.com/bbs/">手机版</a>
+        </div>
+    </div>
+ <input type="hidden" value="对剩余价值论的再分析" id="threadTitle"/>
+ <input type="hidden" value="jinxuet2008" id="authorEmail"/>
+<div id="tie_bd">
+    <div id="tie_wrapper">
+        <div class="tie-tab-bottom-nav">
+            <a class="tile-tab-nav-back" title="返回版面 时事论坛" href="/boardset/shishi.html">&lt;&lt;返回时事论坛</a>
+            <div class="tie-write">
+                <div class="dd-window">
+                    <a class="top" href="/post/shishi/publish/common-">发 帖</a>
+                    <ul class="tie-menu">
+                        <li><a href="/post/shishi/publish/common-">新帖子</a></li>
+                        <li class="pos-rel"><a href="/post/shishi/publish/album-">新图集</a><em class="pos-abs new-icon"></em></li>
+                        <li><a href="/post/shishi/publish/ask-">新问答</a></li>
+                        <li><a href="/post/shishi/publish/debate-">新辩论</a></li>
+                        <li class="noBg"><a href="/post/shishi/publish/vote-">新投票</a></li>
+                    </ul>
+                </div>
+            </div>
+			            <div class="tie-page">
+                共 <span class="red">4219</span> 浏览 <span class="red">2</span> 回帖&nbsp;&nbsp;
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                
+                                                                        
+                
+        
+
+            
+            
+            
+            
+
+                                            </div>
+        </div>
+
+            <div class="tie-item tie-first-item">
+            <div class="tie-author">
+               <div class="tie-author-column">
+                   <a title="jinxuet2008" target="_blank" href="http://bbs.163.com/user/jinxuet2008">
+                        <img width="100" alt="jinxuet2008" src="http://image.bbs.163.com/face/jinxuet2008" />
+                   </a>
+                   <span class="info-name" title="jinxuet2008">
+                       <em class="icon_transparent_people"></em>
+					   																						                       <a target="_blank" href="http://bbs.163.com/user/jinxuet2008" class="js-tieauthor">jinxuet2008</a>
+
+								
+						                   </span>
+                   <a class="info-message" title="给 jinxuet2008 发送消息" href="javascript:;" passport="0QhBh" nickname="jinxuet2008">
+                      <span class="info-act-wraper">  
+                        <em class="icon_transparent_message"></em>发送消息
+                       </span>
+                   </a>
+                   <!--a href="javascript:;" target="_blank"  name="jinxuet2008" title="jinxuet2008 的微博" class="info-weibo js-info-weibo">
+                       <span class="info-act-wraper">
+                         <em class="icon_transparent_weibo"></em>TA的微博
+                       </span>
+                   </a-->
+                                      <a href="http://jinxuet2008.lofter.com?act=qb163rk_20141107_01" target="_blank"  title="jinxuet2008 的LOFTER" title="LOFTER" class="info-lofter">
+                       <span class="info-act-wraper">
+                         <em class="icon_transparent_lofter"></em>他的LOFTER
+                       </span>
+                   </a>
+                                      <div class="info-collection">
+                        <div class="info-class"><span class="info-class-title">等级:</span>
+                        <!-- 等级图标-->
+                             <div class="info-class-bar">
+                                <img src="http://img2.cache.netease.com/utf8/bbs/image/star_3.jpg" alt="花" title="等级:3"  /><img src="http://img2.cache.netease.com/utf8/bbs/image/star_1.jpg" alt="叶" title="等级:3"  />
+                             </div>
+                        </div>
+                        <p>积分: 164  </p>
+														<p>发帖: 171 篇</p>
+						                   
+                        <p>在线时长: 88 小时</p>
+                        
+                   </div>
+               </div>
+            </div>
+            <div class="tie-con">
+                <div class="tie-con-hd ">
+                    <div class="tie-con-hd-panel ">
+                                                	                        		<a href="/thread/shishi-582574040-1|0QhBh.html">只看楼主</a>
+                        	                                                <span class="time" id="floor-$item.floor">楼主 &nbsp;&nbsp; 2015-10-12 22:16:17</span>
+                         <a name="1" href="javascript:;" class="report-whistle btn-dialog js-report" title="举报" action="report" data='{"boardId":"shishi","threadId":582574040 }'>举报</a>
+                                                <div class="board-manage">
+                            <div class="dd-window js-dd-wraper">
+                                管理<em class="icon-arrow-up"></em>
+                                <ul class="board-menu">
+                                    <script type="text/template" class="js-postTemp">
+                                      <%for(var i=0;i<list.length;i++){%>
+                                                                                            <%if(list[i].opId=="top"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="topThread" title="置顶" data='{"boardId":"shishi","threadId":"582574040"}'>置顶</a></li>
+                                                <%}else if(list[i].opId=="push"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="topallThread" title="总置顶" data='{"boardId":"shishi","threadId":"582574040"}'>总置顶</a></li>
+                                                <%}else if(list[i].opId=="elite"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="eliteThread" title="精华" data='{"boardId":"shishi","threadId":"582574040"}'>精华</a></li>
+                                                <%}else if(list[i].opId=="commend"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="recommendThread" title="推荐"  data='{"boardId":"shishi","threadId":"582574040"}'>推荐</a></li>
+                                                <%}else if(list[i].opId=="relative"){%>
+                                                <li class="gt-master"><a href="/bbs/about.jsp?boardid=shishi&threadid=582574040" action="related" title="相关">相关</a></li>
+                                                <%}else if(list[i].opId=="move"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="moveThread" title="迁移" data='{"boardId":"shishi","threadId":"582574040"}'>迁移</a></li>
+                                                <%}else if(list[i].opId=="lock"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="lockThread" title="锁定" data='{"boardId":"shishi","threadId":"582574040"}'>加锁</a></li>
+                                                <%}else if(list[i].opId=="forbidden"){%>
+                                                <li class="gt-editor"><a href="javascript:;" class="btn-dialog" action="limitThread" title="限制" data='{"boardId":"shishi","threadId":"582574040"}'>限制</a></li>
+                                                <%}else if(list[i].opId=="down"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="downThread" title="下沉" data='{"boardId":"shishi","threadId":"582574040"}'>下沉</a></li>
+                                                <%}%>
+                                                                                                                                           <%if(list[i].opId=="modify"){%>
+                                                <li class="gt-editor"><a href="/post/shishi/publish/common-582574040" title="修改">修改</a></li>
+                                                <%}%>
+                                                                                                <%if(list[i].opId=="delete"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="deleteThread" title="删除" data='{"boardId":"shishi","threadId":"582574040" ,"isMain":1 ,"floor":""}' title="删除">删除</a></li>
+                                                <%}else if(list[i].opId=="black"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="addBlackList" title="加黑"  data='{"boardId":"shishi","threadId":"582574040" ,"isMain":1 ,"passport":"jinxuet2008","nickname":"jinxuet2008","userId":"0QhBh"}'>加黑</a></li>
+                                                <%}else if(list[i].opId=="iplimit"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="addIpLimit" title="IP限制"  data='{"boardId":"shishi","threadId":"582574040" ,"isMain":1 ,"nickname":"jinxuet2008","userId":"0QhBh"}'>IP</a></li>
+                                                <%}else if(list[i].opId=="enjoin"){%>
+                                                                                                 <%}%>
+
+                                     <%}%>
+                                    </script>
+                                </ul>
+                            </div>
+                        </div>
+                                                <em class="icon_manange_print"></em>
+                        <a href="/bbs2009/printArticle.jsp?boardid=shishi&articleid=582574040" class="button-print">打印</a>
+                                            </div>
+                                        <h2 class="tie-con-hd-title js-tietitle" style="color:#333;">对剩余价值论的再分析</h2>
+                                    </div>
+                <div class="tie-con-bd">
+                                                                                    <div class="tie-content">
+                        <p align="left"><span style="FONT-FAMILY: 宋体;COLOR: #333333;FONT-SIZE: 12pt;mso-font-kerning: 0pt;mso-bidi-font-family: 宋体;">改革开放以后，中国逐步推行政府有限干预下的市场经济政策，取得了举世瞩目的成就，使中国经济从贫穷落后颇临崩溃的边缘，跃升为世界经济强国。<span></span></span></p> 
+<p align="left"><span style="FONT-FAMILY: 宋体;COLOR: #333333;FONT-SIZE: 12pt;mso-font-kerning: 0pt;mso-bidi-font-family: 宋体;">但同时，人们也注意到在经济领域出现了一些不协调的现象，例如，存在一股力求避开政府调节和民众民主监督的极右权贵主义者。极右经济学给中国带来了不少负面的现象，根据联合国最新公布的各国贫富悬殊的数据，中国的基尼系数从<span>2010</span>年的<span>0.52 </span>继续恶化到了<span>2012</span>年的<span>0.55</span>， 成为了全球贫富差距最大的国家。另一方面，由于极右经济造成的社会不公腐败等现象严重，新三座大山压得老百姓喘不过气来。又促动极左思潮回流，主张回到一切由国家干预文革前的共产主义经济模式，起用马克思主义的经济学。一时，马左思潮甚嚣尘上，来势汹汹大有压城之势。<span></span></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">极左思潮未深刻反省苏中等共产主义国家阵营推行共产主义的失败，也未注意到<span>70</span>年代即使曾经红极一时主张国家干预经济的凯恩斯主义也由兴衰变为衰弱，出现凯恩斯主义危机。就连上世纪七八十年代，英法等国推行国有化，结果表明，当国有化企业在数量上达到百分之二十以上后，经济立马萧条崩溃。而后，西方社会主义国家多推行国家有限干预下的市场经济政策，取得较稳定的发展。<span></span></font></font></span></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">当然，正如张培刚教授所言，实行国家干预与市场调节相结合，</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">…</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">确实是当前国际经济学界面临的重大尖端研究课题。（</span><span style="COLOR: #333333;">薛进军 《凯恩斯革命的再革命》<span>P5</span>）</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;"></span></font></font></p> 
+<p><span style="COLOR: #333333;"><font face="宋体">&nbsp;</font></span></p> 
+<p><b style="mso-bidi-font-weight: normal;"><font><font face="宋体"><span style="COLOR: #333333;">1</span><span style="COLOR: #333333;">．价值<span></span></span></font></font></b></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">极左思潮在中国根深蒂固，危害性更大。我们需要深入研究分析其错误的根源，避免极左思潮在中国死灰复燃，再次危害人民。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">经济学界都知道，让经济学变成科学的始祖是瓦尔拉斯（法国经济学者，<span>1834-1910</span>）（小室直树 《给讨厌数学的人》<span>P224</span>），而大多数中国人仍然停留在亚当<span>&middot;</span>斯密，李嘉图和马克思手工业时代的经济学。要摆脱极左经济思潮，必须从手工业经济学中跳出来。首先，对价值等概念重新定义。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;mso-ansi-language: EN-GB;"><font><font face="宋体">在企业实际生产过程中，一般谈利润或收益，而不是价值。所谓收益是指厂商出售商品的收入，亦即商品的卖价所得。总收益是厂商将产品出售后所得到的全部收入。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;mso-ansi-language: EN-GB;"><font><font face="宋体">总收益<span>=</span>每个商品的卖价<span>*</span>销售量<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;mso-ansi-language: EN-GB;"><font><font face="宋体">利润泛指总收益与总成本之间的差额。（丁冰《当代西方经济学原理》北京经常学院出版社<span>P99-100</span>）<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">价值概念是农业社会向工业社会转型期，根据手工劳动生产的特征，由英国空想社会主义政治经济学主要代表人物<span>,</span>古典政治经济学集大成者<span>D.</span>李嘉图<span>(David Ricardo1772</span>～<span>1823)</span>给出的。他在主要经济学著作《政治经济学及赋税原理》，规定价值决定于劳动时间。并从斯密那里引来但经过了一些改动的劳动价值理论的基础上，论述了工资和利润的关系以及利润和地租的对立。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">马克思之所以得出错误的经济学，主要是由于他站在无产阶级一个阶级的立场上，片面局部解释论证产品的价值。明知工业社会的新变化，仍然沿用了李嘉图的价值概念，规定产品的价值是产品中包含的无差别的人的劳动量。马克思未能跟随时代的进步，未能全面公正客观的揭示收益利润和财富的真相，因此，不仅马克思主义不能作为科学学术载入史册，而且对社会的进步起了阻碍破坏的作用。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">星云大师说得好，慈悲心就是要立场调换，仅仅站在无产阶级或资产阶级立场上，只会得出不符合真相的诳语，马克思立场论的错误和失败当为后人为鉴。在中国的经济类教课书中，常常发现对经济学乱贴资产阶级和无产阶级的标签，这是一种不正常的极左学风，将马克思主义经济学贴上无产阶级的标签就想当然是正确的，非马克思主义经济学贴上资产阶级标签就认定是错误的。这不是实事求是面对真相的科学精神，正确的经济学一定是面对事实真相，给予公正真实的分析和结论的学术，凡是这样的经济学都是科学的学术，对工人阶级和资产阶级及至全社会都是有益的学术，我们当取而用之，而对极端不公正的学术当早日摒弃不用。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">显然，李嘉图马克思的价值概念已经不适合当今智能化工业时代的实况，必须重新修正另行定义。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">我们规定<span></span></font></font></span></p> 
+<p><font><font face="宋体"><b style="mso-bidi-font-weight: normal;"><span style="COLOR: #333333;">产品价值的概念</span></b><span style="COLOR: #333333;">是，产品中包含的资本含量，知识含量技术难度和新颖性及人和机器劳动量的总和。<span></span></span></font></font></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">其中人的劳动量的权重系数，随着智能化强度的增加将逐步弱化。在日常经济问题的讨论中，我们更多地用收益利润和财富等术语，而不用或少用价值概念。<span></span></font></font></span></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">例如<span>,</span>同样重量的金器和铜器价格不同<span>,</span>资本增值的幅度也不同<span>,</span>苹果树而不是铁棍子生长出苹果，说明产品价值中生产资料等资本占有一定的分量。同样</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">,</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">我们知道<span>,</span>高新技术产品比劳动密集型产品的附加值高，工程师的劳动比技术员比工人的产出的价值高<span>,</span>说明产品价值中知识技术含量是重要的必不可少的成分要素。<span></span></span></font></font></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;mso-ansi-language: EN-GB;">马克思主义者举例多为一双皮鞋一快蛋糕打鸡蛋或一盘菜等手工劳动工业产品的生产制造<span>,</span>从未看过他们举例机器反应釜数控机床生产加工中心机器人生产产品的制造分析<span>,</span>也没有看过他们举例多工序多工人流水线生产作业生产产品的制造分析<span>,</span>也没有看过他们举例机械电子化工服装传统工业和生物化工光纤微电子产品新材料计算机航空等新型工业产品的生产制造分析<span>,</span>没有看到过他们举例钢铁石油汽车工业和空调电视机手机电冰箱的生产制造<span>.</span>这说明，这批马克思主义者不懂现代工业和工厂实践的行情<span>,</span>多是读书本知识的书呆子。而且<span>,</span>读的是一二百年前手工经济学的书本<span>,</span>对现代经济学一窍不通<span>,</span>对马克思主义外的社会经济学自然科学和生产技术工艺也一无所知无凭一技之长生活<span>,</span>多是知识面狭窄的马井之蛙，只好靠马克思主义煽动劳资纠纷以渔翁得利。以陈腐过时的知识来解释现代现实中的新现象 <span>,</span>信口雌黄胡说八道<span>, </span>以其昏昏使人昭昭是对人民国家的误导和犯罪。更为可笑的是，他们居然打着捍卫马克思主义意识形态纯洁性和拒绝资产阶级意识形态入侵为借口，来掩饰他们不读书读死书混吃曹粮的蛀虫生活，掩盖他们知识面狭窄的不足和知识贫乏的冏态。实</span><span style="COLOR: #333333;">长见笑于大方之家</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">。试问，利国利民与坚持僵死的马克思主义的意识形态，到底孰轻孰重？<span></span></span></font></font></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">再先进的生产工具也不能创造出李嘉图马克思定义的价值<span>,</span>但能生产制造出现实中的产品财富资产和利润。马克思的剩余价值和价值是马克思主义书本上的。财富资产利润是现今现实生活中的，二者不能互用，在日常经济工作中谈论马克思主义的价值实多此一举。所以<span>,</span>无论是国营企业还是私企都不用马克思主义来指导生产<span>,</span>马克思主义没有指导现今实践的现实意义。<span></span></font></font></span></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">2</span><b style="mso-bidi-font-weight: normal;"><span style="COLOR: #333333;">．社会知识价值论和劳动价值论<span></span></span></b></font></font></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">信息社会经济的发展建筑在知识信息的基础上，是依托知识进步和人才投入的内向型经济。在此社会中，人们可用微乎其微的资本就启运生产经营，例如，拥有<span>500-600</span>亿财产的世界首富比尔</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">.</span><span style="COLOR: #333333;">盖茨，开始成立微软公司时，仅是大学一年级的他和保罗二人各出<span>910</span>美元与<span>6060</span>美元。依靠集成电路发明者罗伯特</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">.</span><span style="COLOR: #333333;">诺斯等人的智力，英特尔公司在<span>1968</span>年以<span>250</span>万美元起家，<span>12</span>年以后该公司的年销售额达到<span>8.5</span>亿美元。<span>2006</span>年<span>8</span>月<span>27</span>日重庆市电子商务协会网站分会发布最新统计信息明示世人，自<span>1999</span>年出现个人网站<span>7</span>年以来，重庆已经有<span>500</span>多家个人网站，其中资产总计百万元以上的有<span>7</span>个，平均一年诞生一个百万富翁，大多数站长是<span>80</span>年代后出生的年青人，年纪最小的仅<span>23</span>岁。其中郑立的音乐网<span>2 000</span>元起家，首发了一首《老鼠爱大米》就产生了<span>1 200</span>万元的收入。王晗大学时撰写了两个软件，收入<span>8</span>万元，<span>2004</span>年靠自己的技术没有费啥劲就创建起网站，以后每年网站的成本投入不过几十元而已。保罗</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">.</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">萨缪尔森 威廉<span>.</span>诺德豪斯指出，“如果如果一个国家劳工受教育程度较高、所受培训较多、与之配合的资本更多更好、所用的生产技术更先进，那么，它的一般工资水平就会趋于上升。”（</span><span style="COLOR: #333333;">保罗</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">.</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">萨缪尔森 威廉<span>.</span>诺德豪斯《经济学》<span>P253</span>）</span><span style="COLOR: #333333;"></span></font></font></p> 
+<p><font><font face="宋体"><span style="mso-ascii-font-family: '';mso-hansi-font-family: '';">美国著名企业管理家彼德&middot;德鲁克说：“知识生产力已成为生产力、竞争力和经济成就的关键因素。知识已成为最主要的工业，这个工业向经济提供生产所需要的中心资源。”</span><span style="FONT-FAMILY: '';">(</span><span style="mso-ascii-font-family: '';mso-hansi-font-family: '';">张彦</span><span style="FONT-FAMILY: '';"> </span><span style="mso-ascii-font-family: '';mso-hansi-font-family: '';">《高技术社会的劳动前景》</span><span style="FONT-FAMILY: '';">P66)</span><span style="COLOR: #333333;"></span></font></font></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;mso-ansi-language: EN-GB;">2.1</span><span style="COLOR: #333333;">相对劳动价值论，我们有<span></span></span></font></font></p> 
+<p><font><font face="宋体"><b style="mso-bidi-font-weight: normal;"><span style="COLOR: #333333;">知识价值论 </span></b><span style="COLOR: #333333;">产品的价值是由资本、知识和劳动联合产出的。<span></span></span></font></font></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">根据工厂生产实践，我们知道产品（并由此派生出来的财富价值利润等）是生产出来的，不是人为变戏法创造出来的，所以，为避免误解和歧义，我们用制造生产等工厂常用术语来取代创造一词。创造一词有人的主观能动性的涵蕴，容易为人玩弄文字游戏，排斥物化劳动产出产品的贡献作用，使分析脱离实际真相误入歧途，将产品生产的要素狭窄化。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">根据上世纪七八十年代，日本经济学家给出的公式，我们细化知识价值论如下：<span></span></font></font></span></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">在△</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">Yn(</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">资本某次</span><span style="COLOR: #333333;">增值</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)</span><span style="COLOR: #333333;">中，<span>An(</span>在这次增值中投入的新资本</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)</span><span style="COLOR: #333333;">的贡献占<span>5%</span>，</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">Bn(</span><span style="COLOR: #333333;">在这次增值中使用的经过培训的职工和机器的劳动</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)</span><span style="COLOR: #333333;">的贡献占<span>46%</span>，其中包括<span>Bn1(</span>工人劳动</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)Bn2(</span><span style="COLOR: #333333;">资本家劳动</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)Bn3(</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">管理人员</span><span style="COLOR: #333333;">劳动</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)</span><span style="COLOR: #333333;"> </span><span style="COLOR: #333333;">Bn4(</span><span style="COLOR: #333333;">技术人员的劳动</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">) Bn5(</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">机器的劳动<span>)</span></span><span style="COLOR: #333333;">，<span>C</span></span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">n(</span><span style="COLOR: #333333;">在这次增值中使用的</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">知识和</span><span style="COLOR: #333333;">科技创新</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)</span><span style="COLOR: #333333;">的贡献占<span>49%</span>。<span></span></span></font></font></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">若将各种资源要素作出的贡献产出分割出来，作一形象的说明，则有<span>:</span></font></font></span></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;"><span style="mso-spacerun: yes;">&nbsp;</span></span><span style="COLOR: #333333;">△</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">Yn</span><span style="COLOR: #333333;"> </span><span style="COLOR: #333333;">An</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;"> /</span><span style="COLOR: #333333;"> </span><span style="COLOR: #333333;">△</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">Y</span><span style="COLOR: #333333;"> =5%;</span></font></font></p> 
+<p><span style="COLOR: #333333;"><span style="mso-list: Ignore;"><font face="宋体">△</font><span style="FONT: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span></span><font><font face="宋体"><span style="COLOR: #333333;mso-ansi-language: EN-GB;">Yn Bn /</span><span style="COLOR: #333333;"> </span><span style="COLOR: #333333;">△</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">Y =</span><span style="COLOR: #333333;">46%;</span></font></font></p> 
+<p><span style="COLOR: #333333;"><span style="mso-list: Ignore;"><font face="宋体">△</font><span style="FONT: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span></span><font face="宋体"><font><span style="COLOR: #333333;mso-ansi-language: EN-GB;">Yn</span><span style="COLOR: #333333;"> </span><span style="COLOR: #333333;">C</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">n /</span><span style="COLOR: #333333;"> </span><span style="COLOR: #333333;">△</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">Y</span><span style="COLOR: #333333;"> </span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">=</span><span style="COLOR: #333333;">49%</span></font></font></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;mso-ansi-language: EN-GB;">△<span>Y</span></span><span style="COLOR: #333333;"> </span><span style="COLOR: #333333;">An</span><span style="COLOR: #333333;">是投入的新资本产出的产品增值的部分，△</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">Y Bn</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">是</span><span style="COLOR: #333333;">职工的劳动产出的产品增值的部分，</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">Yn</span><span style="COLOR: #333333;"> </span><span style="COLOR: #333333;">C</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">n</span><span style="COLOR: #333333;">使用的</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">知识和</span><span style="COLOR: #333333;">科技创新产出的产品增值的部分。<span></span></span></font></font></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;">当然在生产的过程中，各要素的作用是共生不可分割的，资本只有在知识劳动共同配合的作用下，才能产生效益。反之亦然。<span>“</span>社会生产力不是二要素或多要素的简单相加，而是生产要素有机结合的整体。劳动者、工具、劳动对象</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">…</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">这些东西作为独立的要素不是生产力，随便把它们放在一起，也不是生产力，只有将生产要素按照一定的规律组合为一个整体，才能成为现实的生产力</span><span style="COLOR: #333333;">”</span><span style="COLOR: #333333;">（《当代新学科手册续编》上海人民出版社<span>P111</span>）诚如网友举例说，小孩子（企业的效益）是由父亲（工人的劳动）母亲（资本生产资料设备技术）双方共同生育出来的，工人按下按钮，坐在视频前观察照顾，机器怀胎十月不停生产，才产出产品。<span></span></span></font></font></p> 
+<p><b style="mso-bidi-font-weight: normal;"><span style="COLOR: #333333;mso-ansi-language: EN-GB;"><font face="宋体"><font>说明与注释：<span></span></font></font></span></b></p> 
+<p><span style="COLOR: #333333;"><font face="宋体"><font>注一：因为，随着工业自动化的强化，产品主要是由机器的劳动生产出来的，所以，我们把机器从资本中移至劳动中来，否则需要修改<span>An</span>的贡献值。随着知识技术要素的作用增大，人的劳动作用弱化，上述具体比例关系还需调整。<span></span></font></font></span></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;">注二；马克思把<span>An </span>、<span>C</span></span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">n</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">和<span>Bn5</span>称为不变资本，把</span><span style="COLOR: #333333;">成本<span>Bn1</span>误认为资本，并称为可变资本投入计算。这是一个错误，在人力经济学<span>(</span>美国经济学家舒尔茨创立<span>1959)</span>中，我们可以使用劳动力资本这一术语，但劳动力在微观经济学中不能作为资本投入并计算<span>,“</span>人力资本与物质资本既有相同之处，也有不同之处，其主要区别在于：物质资本的所有权可以转让或继承，而人力资本的所有权既不能转让，也不能交换和承袭<span>”</span>（金哲等主编《世界新学科总监》<span>P1525</span>）。我们知道，只有资金和技术可以作为资本入股，未尝听说有以劳力作为资本入股分红的。<span></span></span></font></font></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;">我们来看看其他经济学家怎样介绍资本概念：保罗</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">.</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">萨缪尔森定义</span><span style="COLOR: #333333;">资本的概念为，美国等发达工业经济大量使用建筑物、机器和计算机等等，这些生产要素称为<b>资本</b>（<b><span>Capital</span></b>），即一种被生产出来的要素，一种本身就是由经济过程产出的耐用的投入品。（保罗</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">.</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">萨缪尔森 威廉<span>.</span>诺德豪斯</span><span style="COLOR: #333333;">《经济学》<span>P32</span>）在经济学中被定义为，用作企业生产的而又进一步投入生产的一切物质生产资料。它包括工具、机器设备、工厂建筑、运输和通讯设施等。因此，资本是一种被用来帮助生产消费品和服务的经济资源。<span>&nbsp;&nbsp;</span>（郭熙保 何玲 《微观经济学》）维基百科中资本的定义为，<b>资本</b>（<b><span>Capital</span></b>），在经济学意义上，指的是用于生产的基本生产要素，即资金、厂房、设备、材料等物质资源，用来生产其他商品或产生收入的累积物力与财务资源<sup><span><a href="http://zh.wikipedia.org/wiki/%E8%B5%84%E6%9C%AC#cite_note-1"></a></span></sup>。从企业会计学理论来讲，资本是指所有者投入生产经营，能产生效益的资金。故资本不包括从利润中挖来的“可变资本”<span>-</span>劳动力资本。<span></span></span></font></font></p> 
+<p><span style="COLOR: #333333;"><font face="宋体"><font>马克思的资本定义，是能带来剩余价值的价值。显然，其内涵和外延都比较模糊不准确，并有循环定义的嫌疑。有人未加分析，紧接马克思的定义就下结论说，资本体现了资本家对工人的剥削关系，是一种未加证明就妄下的结论，是不可取的。<span></span></font></font></span></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;"><span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp; </span></span><span style="COLOR: #333333;">有人认为，资本知识不能产生效益，或者说不能生产出产品财富。其错误有五：一是停留在手工劳动阶段，把产品的生产过程局限于人的劳动，忽视了资本知识等其他要素资源的作用。二是把资本纳入成本后就拒绝计算资本的贡献，把劳动力既纳入成本又计算其贡献。三是把产品的产出过程从生产制造局限于创造，排斥抹杀了产品的物化劳动的生产制造的功效。其实马克思也曾预言，在智能工业时代，在劳动过程中，劳动力的“思想生命”<span>(lifeofthemind)</span>被建构出为机器所有了。四、用的<span>200</span>年前的产品或商品的价值概念，与今天现实中产品或商品的价值不符，没有现实讨论分析的意义。五、将劳动的必要性看成充分必要性。没有劳动不能产生产品效益，但是单有劳动也不能产生产品效益。在劳动的配合下，通过生产资本和知识同时共生出产品财富。例如两块不同质地的仔玉，同一个工人同样的工时工艺，生产出的玉成品价格不同，增值的幅度也不同。有粉尘严重的两个车间其建筑构造设备不同，一个发生爆炸瘫痪，一个安全正常生产，这就是不同厂房车间产出的不同产品和财富。这就说明，资本家即使是不劳动，资本也在增值中发挥作用。人们把钱投进银行就得拿利息，就是这个道理。至今未曾听说，马克思主义者将钱存在银行不要利息的事迹报导。<span></span></span></font></font></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;mso-ansi-language: EN-GB;">2</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">．<span>2 <b style="mso-bidi-font-weight: normal;">Bn1Bn2Bn3Bn4Bn5</b></span><b style="mso-bidi-font-weight: normal;">的权重系数</b>，我们分别记为β<span>1</span>β<span>2</span>β<span>3</span>β<span>4</span>β<span>5</span>，其和等于<span>1</span>。 不同技术层次企业的权重系数不同。这里，我们取的是平均数。<span></span></span></font></font></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;">根据美国企业工资分配比例（中国有的国营企业，管理人员工资是工人工资的<span>20</span>多倍才是骇人听闻的剥削。），我们不妨设</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">β<span>1</span>β<span>2</span>β<span>3</span>β<span>4</span>β<span>5</span>分别为：<span></span></span></font></font></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;mso-ansi-language: EN-GB;">0.5</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">、<span>1.5</span>、<span>1</span>、<span>2</span>、<span>5</span>（归一再除以<span>10</span>），<span></span></span></font></font></p> 
+<p><span style="COLOR: #333333;mso-ansi-language: EN-GB;"><font face="宋体"><font>一个企业<span>Bn1Bn2Bn3Bn4Bn5</span>所作的贡献分别为：β<span>1x1</span>β<span>2x2</span>β<span>3x3</span>β<span>4x4</span>β<span>5x5,x1x2x3x4x5w</span>分别是工人资本家管理人员技术人员和机器的数量。<span></span></font></font></span></p> 
+<p><b style="mso-bidi-font-weight: normal;"><span style="COLOR: #333333;mso-ansi-language: EN-GB;"><font face="宋体"><font>说明与注释：<span></span></font></font></span></b></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;mso-ansi-language: EN-GB;">关于<span>Bn1</span>。因为，不同工种岗位，不同文化水平和技术等级的职工，其贡献作用是不同的，马克思提出</span><span style="COLOR: #333333;">无差别的人的劳动是不符合现实的。他的动机可能是简化计算方便，我们改称为平均数，这样在细算时，可进一步分析各</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">工种岗位，不同文化水平和技术等级的职工的贡献份额。<span></span></span></font></font></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;mso-ansi-language: EN-GB;">前苏联学者调查发现，工人所受的普通教育每提高一年级，那就意味着机器制造业中的劳动生产率平均增长<span>1.5-2.2%</span>、黑色冶金工业的劳动生产率平均增长<span>0.4-0.7</span>、轻工业的劳动生产率平均增长<span>1.5-2.2%</span>。国外经济学家还认为<span>,</span>大多数工人的教育水平与生产成正比<span>,</span>小学文化的工人生产率为<span>43%,</span>中学文化的工人则为<span>108%,</span>大学毕业生的生产率为<span>300%.</span>（冯之竣 赵红洲《现代化与科学学》<span>P40-41</span>）</span><span style="COLOR: #333333;"></span></font></font></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;">在当今智能化时代<span>,</span>已经出现无工人工厂<span>,</span>工人的劳动可有可无。而马克思的劳动价值论却错误地断定<span>,</span></span><span style="COLOR: #333333;mso-ansi-language: EN-GB;"> Yn(</span><span style="COLOR: #333333;">资本的某次增值<span>,</span>类似地知识的某个发现<span>),</span>百分之百地是由<span>Bn1(</span>这次工人的劳动</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">创造的。如今，马克思主义者们虽百般狡辩，却也无法给出这百分之百的理由。</span><span style="COLOR: #333333;">随着科学技术的发展，知识和资本在增值中的份额作用越来越大，例如将车床改成数控机床，工人只要把材料安装到机床上，开动机床就可站到一边，由机床自动运行，整个生产过程都是资本技术在起贡献。机器人不仅能生产机器人，还可以管理管控机器人。越来越多的企业投资购买了机器人，企业除了老板技术人员等管理人员外，不用工人就可运行生产，剩余价值理论中的劳动价值逐步式微。产品财富价值和利润单纯由工人创造的劳动价值论愈加站不住脚了。<span></span></span></font></font></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;mso-ansi-language: EN-GB;">有马克思主义者诡辩说，</span><span style="COLOR: #333333;">An(</span><span style="COLOR: #333333;">资本</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">和</span><span style="COLOR: #333333;">C</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">n(</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">知识和</span><span style="COLOR: #333333;">科技创新</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">也是劳动的产物，</span><span style="COLOR: #333333;">无人工厂的背后是制造和发明机器设备、计算机、机器人的工人和科技人员点子和创意，还得靠人的劳动实现。</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">其实</span><span style="COLOR: #333333;">An(</span><span style="COLOR: #333333;">资本</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">和</span><span style="COLOR: #333333;">C</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">n(</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">知识和</span><span style="COLOR: #333333;">科技创新</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">仍然是</span><span style="COLOR: #333333;">An-1</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">资本</span><span style="COLOR: #333333;">C n-1</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">知识和<span>B</span></span><span style="COLOR: #333333;"> n-1</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">劳动共同的产物，而不是他们所说的单纯是劳动的产物。</span><span style="COLOR: #333333;">而且知识和劳动是不同的概念，知识的劳动不等于劳动等共同的产物知识，二者范畴属性功能作用特别是能量都不同，知识的能量远非知识的劳动的能量可比拟。再次，知识的劳动也不能划归是工人的劳动来证明劳动价值论，他们无法证明已有机器设备计算机和机器人的制造，与本次资本知识增长中人的劳动的关系，即机器设备的生产的产品也是本次工人劳动的唯一结果。</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">即无法证明，</span><span style="COLOR: #333333;">An(</span><span style="COLOR: #333333;">资本</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">和</span><span style="COLOR: #333333;">C</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">n(</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">知识和</span><span style="COLOR: #333333;">科技创新</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">的作用如何百分之百归于</span><span style="COLOR: #333333;">Bn1(</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">这次</span><span style="COLOR: #333333;">工人的劳动</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">。所以，产品价值归功于</span><span style="COLOR: #333333;">Bn1(</span><span style="COLOR: #333333;">本次工人劳动</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">的创造，是不成立的荒谬之说，利润未全部给本次工人就是资本剥削统治奴役劳动是子虚乌有的无稽之谈。<span></span></span></font></font></p> 
+<p><span style="COLOR: #333333;mso-ansi-language: EN-GB;"><font face="宋体"><font>关于<span>Bn2</span>。资本家的劳动产生的效益主要在集资组织资金，选择投资方向，选择投资方式，选择工艺技术和产品，确定生产规模，选购设备，选择厂房地址和建筑商，组织管理团队所得，谋划决策营运策略等。特别是超额利润是由于企业家具有特异的天赋才能对企业进行创新的结果，更应当归企业家所有。（丁冰《当代西方经济学原理》北京经常学院出版社<span>P163</span>）<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;mso-ansi-language: EN-GB;"><font face="宋体"><font>例证：有家造纸厂选购错了淘汰设备，几千万投资投产后，企业立马倒闭。有座城市选择错了玻璃厂开发的新产品，导致企业倒闭。典型的例子是安阳彩管厂误判中国<span>5</span>、<span>6</span>亿农民只要电视机便宜不管大小，而忽视液晶的上马，很快液晶电视费用下降，安阳彩管厂垮掉了。这都说明投资者在产品生产中的作用和贡献。老板决断正确，企业收益好工人工资也高。老板决断错误，工人再多的创造也无收益和财富可言。马克思主义者断定资本家没有劳动纯粹是剥削工人是说不过去的。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;mso-ansi-language: EN-GB;"><font face="宋体"><font>边际生产力认为，资本生产力决定利息。即，在假设其他生产条件不变的前提下，随着资本量的增加，产量开始递增，但增到一定阶段后又逐渐下降。利息被认为由边际资本生产力决定的。资本生产要素和劳动生产要素一样，是创造价值的源泉，随着资本的增加而新增加的产量，自然是资本的产出，应归资本家所有，这就是属于资本家所有的利息。丁冰《当代西方经济学原理》北京经常学院出版社<span>P154</span>）均衡价格论以边际生产力论为依据，而且还指出资本的供给成本，乃是资本家对现期消费的牺牲或等待。（丁冰《当代西方经济学原理》北京经济学院出版社<span>P156</span>）正如工人工资是工人休息和消费享乐牺牲的回报一样。<span></span></font></font></span></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;">企业家的创新是指，把一种从来没有过的生产要素和生产条件的新组合引入生产体系。如引进新产品新技术，开辟新市场，获得原材料的新的供给，生产组织方法上的新发明和应用，即把新的科学技术发明和新的经营管理方法应用于生产实践。这样效率自然会大大提高，并能降低成本，获得超过正常利润的利润，当归资本家所得。（</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">丁冰《当代西方经济学原理》北京经济学院出版社<span>P163</span></span><span style="COLOR: #333333;">）<span></span></span></font></font></p> 
+<p><span style="COLOR: #333333;"><font face="宋体">郭台铭去自己工厂视察的时候，有好事者大声追问郭台铭：为什么爆肝的是我，首富却是你！<span>“</span>爆肝<span>”</span>，台湾话，这里特指很累的不断的加班或者做某事。</font><span><br /><font face="宋体">&nbsp;&nbsp;&nbsp;&nbsp;</font></span><font face="宋体">郭老板说：我们之间有三个差别。</font><span><br /><font face="宋体">&nbsp;&nbsp;&nbsp;&nbsp;</font></span><font face="宋体"><font>第一：三十年前我创建鸿海的时候是赌上全部家当，不成功便成仁。而你只是寄出几十份履历表后来鸿海上班，而且随时可以走人。我跟你的差别在：创业与就业。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font face="宋体"><font>第二：我选择从连接器切入市场，到最后跟苹果合作是因为我眼光判断正确，而你在哪个部门上班是因为学历和考试被分配的。我们之间的差别在：选择与被选择。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font face="宋体"><font>第三：我<span>24</span>小时都在思考如何创造利润，每一个决策都可能影响数万个家庭生计与数十万股民的权益。而你只要想什么时候下班跟照顾好你的家庭。我们之间的差别在：责任的轻重。<span></span></font></font></span></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;">关于<span>B3</span>。管理工作直接影响到生产利润的产出。<span>MBA</span>必修核心课程认为，“生产系统的经营管理</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">…</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">都要把装备、设备和人员组织在某些联合体内，使之形成生产能力</span><span style="COLOR: #333333;">”（<span>MBA</span>必修核心课程编组《生产作业》<span>P16</span>）管理者的第一项工作是使用资产创造利润，第二项是维护和保养资产。（张维迎《博弈论与信息经济学》<span>P483</span>）法玛（<span>F</span></span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">ama,1980</span><span style="COLOR: #333333;">）认为，经理的市场价值决定其经营业绩，以及显示激励合同与其积极性的关系。张维迎用一简单的霍姆斯特姆模式型证明：<span></span></span></font></font></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;">假定只有两个阶段，</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">t=1</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">，<span>2</span>，每个阶段的生产函数如下：<span></span></span></font></font></p> 
+<p><span style="COLOR: #333333;mso-ansi-language: EN-GB;"><font face="宋体"><font>π<span>t=at+</span>θ<span>+ut,t=1,2</span></font></font></span></p> 
+<p><span style="COLOR: #333333;mso-ansi-language: EN-GB;"><font face="宋体"><font>这里，π<span>t</span>理解为产出，<span>at</span>经理的努力水平，θ为经理的经营能力，<span>ut</span>是外生的随机信息。（同上，<span>P451</span>）这说明，一个企业能否生产出利润财富，与管理人员的关系极大，管理得好，企业多收益，管理不好，工人再多的财富创造，企业仍然无收益和财富可言。<span></span></font></font></span></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;">关于<span>B4</span>。</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">国外一种统计分析<span>,</span>对一项生产<span>,</span>如果一个工人搞合理化建议或技术革新<span>,</span>所起的作用是<span>1:2,</span>加进一个技术人员<span>,</span>他们所起的作用是<span>1:4,</span>而一个能够掌握软技术的管理人员<span>,</span>他起的作用可以达到<span>1:8</span>或<span>1:10</span>。（张碧辉《科学教育与科技进步》<span>P119</span>）<span></span></span></font></font></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;">关于<span>B5</span>。</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">我们这里把机器的贡献取为<span>5</span>，与大多数具体的情况可能相差悬殊，机器的生产效率可能是人工的上千上万倍，例如一列火车拉货产生的财富和价值，是一个工人不用任何工具单纯凭体力送货产生的财富和价值的成千上万倍。凡是在企业工作的人都知道，是机器将产品生产出来的，不是工人用牙齿啃出来的，产品主要是机器生产劳动出来的。<span></span></span></font></font></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;">关于<span>C</span></span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">n</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">。徐匡迪在第六届中国经济前瞻论坛的演讲中举例说明，中国奶牛一年一头产<span>2900</span>公斤，而国外由于动物种业创新，美国是<span>9590</span>公斤是我们的三倍，欧盟是<span>6200</span>公斤是我们的两倍。<span></span></span></font></font></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;">他介绍说，美国有家</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">FirstWind</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">公司，经营<span>16</span>个风力场，该公司在风力发动机上安装了系列传感器控制器和优化软件，可随时测量风速温度叶片位置和螺距，然后及时智能优化调控，年收入增加<span>120</span>万美元。安装的劳动并没有产出电能，是运用的知识技术产出电能。这就说明知识技术产生了效益和财富。<span></span></span></font></font></p> 
+<p><span style="COLOR: #333333;mso-ansi-language: EN-GB;"><font face="宋体"><font>马克思主义者说，资本是资本家靠剥削工人创造的剩余价值积累起来的，这是与事实不相符的。英特尔电脑公司凭借技术创新，不断更新芯片来售出高价，使毛利达到<span>60%</span>上下，这是劳动密集型企业不可思议望尘莫及的天文数字。英特尔用这种高额利润投资建造新的昂贵的芯片生产厂（每厂建造费用约需<span>20</span>亿美元，平均<span>9</span>个月建成一个。<span>1996</span>年用于基本建设和开发研究的经费达<span>50</span>亿。），从而为进入下一个发展循环做好准备。实现高科技高投入高风险高附加值的发展模式，这与靠蓝领工人的苦力发展模式是不可比拟的。<span></span></font></font></span></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;">2</span><span style="COLOR: #333333;">．<span>3</span><b style="mso-bidi-font-weight: normal;">劳动价值论和剩余价值论的时效性。</b>那些坚持劳动价值论和剩余价值论的马克思主义者，忘记了马克思关于劳动价值论和剩余价值论成立实用时间性的论述，马克思预测他以后的工业生产说，“劳动表现为不再像以前那样被包括在生产过程中，相反地，表现为人以生产过程的监督者和调节者的身份同生产过程本身发生关系……工人不再是生产过程的主要生产者，而是站在生产过程的旁边”，</span><span style="BACKGROUND: white;COLOR: black;"> 即在电气化自动化时代，特别到了今天知识经济和智能时代，人所承担的直接形式的劳动已经转交给机器和智能机器，随着智能机器的发展和广泛应用，工人的直接劳动不再是生产的基础，产品财富价值利润更多地由机器产生制造出来。在智慧文明的新纪元，智能主义取代“人类中心主义”，不仅强调人的价值，也承认机器的价值和自然的价值，从而完善人与自然协调</span><span style="BACKGROUND: white;COLOR: black;mso-ansi-language: EN-GB;">。（童天湘 林夏水《新自然观》<span>P304</span>）<span></span></span></font></font></p> 
+<p><font face="宋体"><font><span style="BACKGROUND: white;COLOR: black;">马克思在《<span>1857</span>—<span>1858</span>年经济学手稿》的《固定资本和社会生产力的发展》一节<span>(</span>国外学者称为“机器论片断”<span>)</span>中，在谈到劳动资料发展为自动的机器体系时，说过一般智力或者说一般社会知识通过机器体系这一中介，而对社会生活过程的分析尺度及其历史发展的动力产生影响的观点<span>:</span>“在这个转变中，表现为生产和财富的宏大基石的，既不是人本身完成的直接劳动，也不是人从事劳动的时间，而是对人本身的一般生产力的占有……现今财富的基础是盗窃他人的劳动时间，这同新发展起来的由大工业本身创造的基础相比，显得太可怜了。一旦直接形式的劳动不再是财富的巨大源泉，劳动时间就不再是，而且必然不再是财富的尺度，因而交换价值也不再是使用价值的尺度。群众的剩余劳动不再是一般财富发展的条件，同样，少数人的非劳动不再是人类头脑的一般能力发展的条件。于是，以交换价值为基础的生产便会崩溃，直接的物质生产过程本身也就摆脱了贫困和对立的形式。”</span><span style="COLOR: #333333;">“直接把社会必要时间减少到最低限度，那时，与此相适应，由于给人腾出时间和创造了手段，个人会在艺术、科学等等方面得到发展”</span><span style="BACKGROUND: white;COLOR: black;"> 马克思就通过引用尤尔的《工厂哲学》而凸显了自动机器体系的神奇性，并且还从自己所认可的角度写下了这样的话<span>:</span>“机器则代替工人而具有技能和力量，它本身就是能工巧匠，它通过在自身中发生作用的力学规律而具有自己的灵魂……科学通过机器的构造驱使那些没有生命的机器肢体有目的地作为自动机来运转，这种科学并不存在于工人的意识中，而是作为异己的力量，作为机器本身的力量，通过机器对工人发生作用。”另外，在这一节的中间部分，马克思也写下了类似的话<span>:</span>“劳动表现为不再像以前那样被包括在生产过程中，相反地，表现为人以生产过程的监督者和调节者的身份同生产过程发生关系。”</span><span style="COLOR: #333333;">（《马克思恩格斯全集》<span>P218-219</span>）。<span></span></span></font></font></p>
+                        
+                        						                     </div>
+                </div>
+                                                                                        <div class="tie-con-manange">
+                                        <div class="tie-con-manange-panel">
+                        <a href="#editorWraper">回复本帖</a>
+                        <a href="javascript:;" id="tiecopy">复制链接</a>
+                        <a id="send-gift" title="赠送礼物" href="javascript:;" data='{"username": "jinxuet2008","boardid":"shishi","threadid":"582574040"}'>赠送礼物</a>
+                        <a href="/post/shishi/publish/common-582574040?156" class="js-edit">修改帖子</a>
+                    </div>
+                    <div class="tie-con-manange-share">
+                        <div class="bshare-custom">
+	<!--a title="分享到网易微博" class="bshare-neteasemb"></a-->
+	<a title="分享到QQ空间" class="bshare-qzone"></a>
+	<a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+	<a title="分享到人人网" class="bshare-renren"></a>
+	<a title="分享到腾讯微博" class="bshare-qqmb"></a>
+	<a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+</div>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=a1688878-28e5-42d3-828c-cf5199b14296&amp;pophcol=2&amp;lang=zh"></script>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+<script charset="utf-8" type="text/javascript">
+
+var url=window.location.href,
+isHas=url.indexOf("|") ,
+us=url.split("|");
+
+if(isHas!=-1){
+   url=us[0]+"%7C"+".html";
+}
+
+if(NTES("#photoView")){
+	bShare.addEntry({
+	  	summary:"分享自 网易论坛",
+	  	pic: {
+	  		toString:function(){return NTES("#photo").attr("src")}
+	  	},
+		url:url
+	});
+} else {
+	 if(NTES(NTES(".tie-content")[0]).NTES("img")[0]){
+	 	var src= NTES(NTES(".tie-content")[0]).NTES("img")[0].src;
+	 }else {
+	 	var src = "";
+	 }
+	bShare.addEntry({summary:"分享自 网易论坛",pic:src,url:url});
+};	
+</script>
+
+                    </div>
+                                    </div>
+                	                	
+                	                                       <div style="margin-left:8px;">
+<!--800100-->
+<!-- <iframe src="http://img1.126.net/channel4/html/gonghe_bbs800100.html" width="800" height="100" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"> </iframe> -->
+</div>                                    <div class="clearfix" style="width:908px;">
+                                                               <div style="float:left; width: 580px;" id="tieRecommend" data='{"createTime":"201510","dbname":"bbs_news","boardId":"shishi","threadId":"582574040"}'>
+                     </div>   
+                                                                                                            <div style="float:left; padding-left:8px; margin-top: 18px;">
+   <!--320320-->
+<!-- <iframe src="http://img1.126.net/channel4/html/gonghe_bbs320320.html" width="320" height="320" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"> </iframe> -->
+</div>                                       </div>
+                  
+                   
+                                                            <div id="thread_inside_ad">
+    <style>
+    #thread_inside_ad {margin-left: 10px;margin-bottom:20px;}
+    .bobo-list{position:relative;height:135px; overflow: hidden;}
+    .bobo-item{display:block;float:left;width:150px;height:135px;margin-left:10px;cursor:pointer;font-size:0;text-decoration:none;}
+    .bobo-item.first{margin-left: 0;}
+    a.bobo-item:hover{_zoom:1; overflow:hidden; border:none;}
+    a.bobo-item:hover .full-hover-show{color:#fff;top:0;z-index: 1;}
+    a.bobo-item:hover .icon-play{left:55px;top:25%;z-index: 1;}
+    .bobo-item, .bobo-item:visited{ position:relative; display:block; overflow:hidden; *zoom:1;*display:inline;}
+    .bobo-item.first .bobo-user .bobo-nick{margin: 0;}
+    .bobo-user .bobo-nick span {color: #f44103;}
+    .bobo-pic .bobo-livestat,.bobo-pic .bobo-usercount i,.bobo-user .bobo-level{background-image:url(http://img6.cache.netease.com/www/v2013/img/icon_bobo_140227-2.png);background-repeat:no-repeat;}
+    .bobo-pic{position:relative;width:100%;height:105px;text-align:center;vertical-align:top;overflow:hidden;}
+    .bobo-pic img.bobo-cover{width:100%;}
+    .bobo-pic .bobo-livestat{width:33px;height:20px;position:absolute;top:0;right:0;background-color:#F44103;background-position:0 -705px;}
+    .bobo-pic .bobo-usercount{position:absolute;left:0;bottom:0;width:100%;height:20px;line-height:22px;color:#FFF;background:rgba(0,0,0,.7);background:#000; opacity: 0.7;filter:alpha(opacity=70);font-size:12px;font-family:Arial, Verdana, sans-serif;}
+    .bobo-pic .bobo-usercount span{display:block;float:right;margin-right:8px;_margin-right:4px;}
+    .bobo-pic .bobo-usercount i{display:block;_display:none;float:right;margin:4px 4px 0 0;width:12px;height:12px;background-position:-5px -687px;}
+    .bobo-user{height:22px;padding:8px 0 0;position:relative;}
+    .bobo-user .bobo-nick{display:block;margin:0 24px 0 0;font-size:12px;line-height:20px;color:#252525;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+    .bobo-item:hover .bobo-nick{text-decoration:underline;}
+    .icon-play { background:url(http://img3.cache.netease.com/cnews/2014/2/bobo_ad/v_btn.png) no-repeat; background-position:0 0; height:42px; width:44px;position:absolute;top:-85%;cursor: pointer;}
+    .semi-trans { background: rgba(255, 255, 255, .8); background:#fff; opacity:0.5; filter:alpha(opacity=50); }
+    .full-hover-show{width: 120px; height: 100px;padding: 6px 15px 0; position:absolute; left:0;  top:-100%;display:block; }
+    .bobo-user .bobo-level{display:block;position:absolute;top:4px;right:0;width:22px;height:22px;background-position:0 0;}
+</style>
+<script type="text/javascript">
+    (function() {
+        var random = Math.floor(Math.random()*10),
+                url = "http://bobo.163.com/a/p2/163.bbssigh/6/boboData/" + random + ".js",
+                boboStatTag = "?from=163.bbsSigh",
+                boboNum = 6,
+                html = "";
+        window.boboData = function(data){
+            hotLive = data.hotLive;
+        };
+        NTES.ajax.importJs(url, function() {
+            var len = hotLive.length;
+            if (hotLive != '' && len != 0){
+                for (var i = 0; i < len; i++) {
+                    var boboItem = hotLive[i],
+                            isLive = boboItem.live,
+                            liveHref = isLive ? boboItem.liveUrl + boboStatTag : "http://bobo.163.com/" + boboStatTag,
+                            boboLiveStat = isLive ? '<div class="bobo-livestat"></div>' : '',
+                            boboHtml = '<a class="bobo-item" title="' + boboItem.anchorExtendTitle + '" target="_blank" href="' +liveHref+ '"><div class="bobo-pic"><img class="bobo-cover" src="'+ boboItem.liveCoverUrl + '" alt="' + boboItem.nick + '"/>' + boboLiveStat + '<div class="bobo-usercount"><span>' + boboItem.onlineUserCount+ '</span><i></i></div></div><div class="bobo-user"><div class="bobo-nick">' + boboItem.anchorExtendTitle + '</div></div><span class="full-hover-show semi-trans"></span><span class="icon-play png24"></span></a>';
+                    html += boboHtml;
+                };
+                NTES(".bobo-list").attr("innerHTML", function() {
+                    return this.innerHTML + html;
+                });
+            }
+        }, "utf-8");
+    })();
+</script>
+<div class="bobo-list">
+    <div class="first bobo-item">
+        <div class="bobo-pic">
+            <a href="http://www.bobo.com/?f=163.bbsSigh" target="_blank"><img width="150" height="105" alt="bobo" src="http://img3.cache.netease.com/bbs/img15/bobo_logo5.png"></a>
+        </div>
+        <div class="bobo-user">
+            <p class="bobo-nick"><a href="http://www.bobo.com/special/android/?f=163.bbsApp" style="color:#F44103;font-weight:bold">手机上和女神视频聊天</a></p>
+        </div>
+    </div>
+</div>
+<!--[if IE 6]>
+<script type="text/javascript" src="http://img1.cache.netease.com/bobo/js/DD_belatedPNG-min.js"></script>
+<script type="text/javascript">
+    DD_belatedPNG.fix('.png24');
+</script>
+<![endif]-->
+</div>                                                </div>
+        </div>
+
+    	<div class="tie-main-ad" style="height:auto">
+		<div id="youdao_ad_art_1" style="display:block"></div>
+		<!--"/htmlfile/side_2009/main_article_ad.html"-->
+	</div>
+
+	        <div class="tie-item">
+            <div class="tie-author">
+               <div class="tie-author-column">
+                   <a title="jinxuet2008" target="_blank" href="http://bbs.163.com/user/jinxuet2008">
+                        <img width="100" alt="jinxuet2008" src="http://image.bbs.163.com/face/jinxuet2008" />
+                   </a>
+                   <span class="info-name" title="jinxuet2008">
+                       <em class="icon_transparent_people"></em>
+					   																						                       <a target="_blank" href="http://bbs.163.com/user/jinxuet2008" class="js-tieauthor">jinxuet2008</a>
+
+								
+						                   </span>
+                   <a class="info-message" title="给 jinxuet2008 发送消息" href="javascript:;" passport="0QhBh" nickname="jinxuet2008">
+                      <span class="info-act-wraper">  
+                        <em class="icon_transparent_message"></em>发送消息
+                       </span>
+                   </a>
+                   <!--a href="javascript:;" target="_blank"  name="jinxuet2008" title="jinxuet2008 的微博" class="info-weibo js-info-weibo">
+                       <span class="info-act-wraper">
+                         <em class="icon_transparent_weibo"></em>TA的微博
+                       </span>
+                   </a-->
+                                      <a href="http://jinxuet2008.lofter.com?act=qb163rk_20141107_01" target="_blank"  title="jinxuet2008 的LOFTER" title="LOFTER" class="info-lofter">
+                       <span class="info-act-wraper">
+                         <em class="icon_transparent_lofter"></em>他的LOFTER
+                       </span>
+                   </a>
+                                      <div class="info-collection">
+                        <div class="info-class"><span class="info-class-title">等级:</span>
+                        <!-- 等级图标-->
+                             <div class="info-class-bar">
+                                <img src="http://img2.cache.netease.com/utf8/bbs/image/star_3.jpg" alt="花" title="等级:3"  /><img src="http://img2.cache.netease.com/utf8/bbs/image/star_1.jpg" alt="叶" title="等级:3"  />
+                             </div>
+                        </div>
+                        <p>积分: 167  </p>
+														<p>发帖: 172 篇</p>
+						                   
+                        <p>在线时长: 88 小时</p>
+                        
+                   </div>
+               </div>
+            </div>
+            <div class="tie-con">
+                <div class="tie-con-hd tie-con-hd-sub">
+                    <div class="tie-con-hd-panel tie-con-hd-panel-sub">
+                                                <span class="time" id="floor-2"> 2楼&nbsp;&nbsp; 2015-10-12 22:17:52</span>
+                         <a name="1" href="javascript:;" class="report-whistle btn-dialog js-report" title="举报" action="report" data='{"boardId":"shishi","threadId":582574040 ,"postId":582574133}'>举报</a>
+                                                                                                    <div class="board-manage">
+                            <div class="dd-window js-dd-wraper">
+                                管理<em class="icon-arrow-up"></em>
+                                <ul class="board-menu">
+                                    <script type="text/template" class="js-postTemp">
+                                      <%for(var i=0;i<list.length;i++){%>
+                                                                                         									            <%if(list[i].opId=="modify"){%>
+									            <li class="gt-editor"><a href="/post/shishi/replyEdit/582574133 " title="修改">修改</a></li>
+                                                <%}%>
+                                                                                              <%if(list[i].opId=="delete"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="deleteThread" title="删除" data='{"boardId":"shishi","threadId":"582574040" ,"postId":"582574133","isMain":0,"floor":"2"}' title="删除">删除</a></li>
+                                                <%}else if(list[i].opId=="black"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="addBlackList" title="加黑"  data='{"boardId":"shishi","threadId":"582574040" ,"postId":"582574133","isMain":0,"passport":"jinxuet2008","nickname":"jinxuet2008","userId":"0QhBh"}'>加黑</a></li>
+                                                <%}else if(list[i].opId=="iplimit"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="addIpLimit" title="IP限制"  data='{"boardId":"shishi","threadId":"582574040" ,"postId":"582574133","isMain":0,"nickname":"jinxuet2008","userId":"0QhBh"}'>IP</a></li>
+                                                <%}else if(list[i].opId=="enjoin"){%>
+                                                                                                 <%}%>
+
+                                     <%}%>
+                                    </script>
+                                </ul>
+                            </div>
+                        </div>
+                                            </div>
+                                    </div>
+                <div class="tie-con-bd">
+                                        <div class="tie-content">
+                        <p><font face="宋体"><font><span style="COLOR: #333333;">3</span><span style="COLOR: #333333;">．我们来仔细分析剩余价值论的错误。<span></span></span></font></font></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;mso-ansi-language: EN-GB;">3.1</span><b style="mso-bidi-font-weight: normal;"><span style="COLOR: #333333;mso-ansi-language: EN-GB;">剩余价值或利润的生成分析<span></span></span></b></font></font></p> 
+<p><font face="宋体"><font><span style="COLOR: #333333;">马克思主义者告诉人们说，<b style="mso-bidi-font-weight: normal;">资本家要扩大生产增加资本规模，就必须招收雇佣工人。资本家通过反复雇佣工人的劳动不断增加新的剩余价值，从而资本规模越来越大。</b>我们在第二节已经说明，财富利润并不是工人单纯生产出来的，资本规模的扩大，并不来源于剥削工人的剩余价值。这里我们再作证明探讨<span>,</span>资本对工人剩余价值的剥削一说不总成立。</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;"></span></font></font></p> 
+<font><span style="COLOR: #333333;">1</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">）、首先，我们来看剩余价值的概念</span><span style="COLOR: #333333;">:</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">马克思说，剩余价值是雇佣工人创造的被资本家无偿占有的超过劳动力价值的价值。马克思所说的剩余劳动时间</span><span style="COLOR: #333333;">,</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">是指的除了必要劳动时间以外的的劳动时间</span><span style="COLOR: #333333;">,</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">而资本家就是通过攫取了工人在剩余劳动时间里所生产出的剩余价值而发财致富。这里的剩余价值，即资本主义的剩余价值，也是劳动者创造的超过自身及家庭需要的那部分价值。</span><span style="COLOR: #333333;"></span></font> 
+<font><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">马克思的叙述含混不清主题不特出。讨论剩余价值，不必胡扯必要时间和养家活口。为紧扣主题起见，</span><span style="FONT-FAMILY: 宋体;COLOR: red;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">我们说，剩余价值是工人产出的效益扣除工资所剩的部分。首先，我们必须弄清楚，工人到底产出多少效益。我们用知识价值论来分析，工人在产品中产出的价值比例是，</span><span style="COLOR: red;mso-ansi-language: EN-GB;">0.5/10*46%</span><span style="FONT-FAMILY: 宋体;COLOR: red;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;mso-ansi-language: EN-GB;">，即产品增值收益部分或毛利部分</span><span style="COLOR: red;mso-ansi-language: EN-GB;">(</span><span style="FONT-FAMILY: 宋体;COLOR: red;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;mso-ansi-language: EN-GB;">出厂价</span><span style="COLOR: red;mso-ansi-language: EN-GB;">-</span><span style="FONT-FAMILY: 宋体;COLOR: red;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;mso-ansi-language: EN-GB;">成本</span><span style="COLOR: red;mso-ansi-language: EN-GB;">)</span><span style="FONT-FAMILY: 宋体;COLOR: red;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;mso-ansi-language: EN-GB;">的</span><span style="COLOR: red;mso-ansi-language: EN-GB;">2.3%</span><span style="FONT-FAMILY: 宋体;COLOR: red;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;mso-ansi-language: EN-GB;">，这就是工人生成的剩余价值量。</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;mso-ansi-language: EN-GB;">例如，</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">假如你看管的食品机器一个小时做了</span><span style="COLOR: #333333;">50</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">块食品，可以卖</span><span style="COLOR: #333333;">500</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">元，除去成本</span><span style="COLOR: #333333;">250</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">元，毛利</span><span style="COLOR: #333333;">250</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">元（<b style="mso-bidi-font-weight: normal;">对本对利的工业很少见。</b></span><b style="mso-bidi-font-weight: normal;"><span style="COLOR: #333333;">&nbsp;&nbsp;2011<span style="FONT-FAMILY: 宋体;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;"><span>年</span></span>07<span style="FONT-FAMILY: 宋体;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;"><span>月</span></span>10<span style="FONT-FAMILY: 宋体;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;"><span>日</span></span> 09:22</span></b><b style="mso-bidi-font-weight: normal;"><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">华龙网</span><span style="COLOR: #333333;">-</span></b><b style="mso-bidi-font-weight: normal;"><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">重庆商报记者从市中小企业局了解到，当年</span><span style="COLOR: #333333;">5</span></b><b style="mso-bidi-font-weight: normal;"><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">月，重庆中小企业利润率为</span><span style="COLOR: #333333;">5%</span></b><b style="mso-bidi-font-weight: normal;"><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">。</span><span style="COLOR: #333333;">2011</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">年</span><span style="COLOR: #333333;">4</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">月</span><span style="COLOR: #333333;">26</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">日</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">，商务部财务司处长袁晓明表示，</span><span style="COLOR: #333333;">2010</span></b><b style="mso-bidi-font-weight: normal;"><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">年，我国出口企业平均利润率为</span><span style="COLOR: #333333;">1.47%</span></b><b style="mso-bidi-font-weight: normal;"><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">，低于工业企业平均利润水平；</span><span style="COLOR: #333333;"> 1</span></b><b style="mso-bidi-font-weight: normal;"><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">至</span><span style="COLOR: #333333;">2</span></b><b style="mso-bidi-font-weight: normal;"><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">月，企业出口利润率进一步下降到</span><span style="COLOR: #333333;">1.44%</span></b><b style="mso-bidi-font-weight: normal;"><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">。</span></b><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">），其中工人产出的毛利为</span><span style="COLOR: #333333;">5.75</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">元，但是你一个小时的工资是</span><span style="COLOR: #333333;">10</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">元，（<b style="mso-bidi-font-weight: normal;">食品行业属于大众行业，所以</b></span><b style="mso-bidi-font-weight: normal;"><span style="COLOR: #333333;"> </span></b><b style="mso-bidi-font-weight: normal;"><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">没有什么特殊的待遇，和全国基本工资差不多。在</span><span style="COLOR: #333333;">2000-3000</span></b><b style="mso-bidi-font-weight: normal;"><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">左右。当然一些高端或者技术岗位工资要高出这个基本工资。</span></b><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">）也就是说你一个小时</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;mso-ansi-language: EN-GB;">多拿</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">4.25</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;mso-ansi-language: EN-GB;">元钱。即，</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">多拿走老板</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">4.25</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;mso-ansi-language: EN-GB;">元！</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;"></span></font> 
+<font><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">如劳动者创造的价值只够工资没有一点剩余，那他便没有创造剩余价值，其剩余价值为零。如工人创造的价值若还不抵其工资，他便没有创造剩余价值，其剩余价值为负。只有创造的价值比工资多，他才创造了剩余价值，即其剩余价值为正。那么，</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;mso-ansi-language: EN-GB;">按照剩余价值论，工人在剥削资本家，而不是资本家在剥削工人。</span><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">所以说，剩余价值率是在资本主义条件下，是工人受资本家剥削程度的表现不总为真。事情就这么简单。</span><span style="COLOR: #333333;"></span></font> 
+<p><font face="宋体"><font><span style="COLOR: #333333;">2</span><span style="COLOR: #333333;">）、马克思主义认为，劳动力价值的市场表现为劳动力价格或者称工资，剩余价值指的是工人创造的被资本家无偿占有的超过劳动力价值即超过工人工资的价值。剩余价值可以说就是资本家的经营利润中的大部分，所以我们的教科书上写明了，私有制生产的实质是剩余价值的生产。<span></span></span></font></font></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">有马克思主义者举例说，假如你一个小时做了<span>10</span>块蛋糕，可以卖<span>100</span>元，但是你一个小时的工资是<span>10</span>元！也就是说你一个小时有<span>90</span>元的剩余价值被老板拿走了！当然老板投入生产的成本！但是大部分利润都被老板搜刮！而工人得到的仅仅是一点点！（还有马克思主义者举例说，</span><span style="COLOR: #333333;mso-bidi-font-family: Arial;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">假设在一件产品在市场上获利</span></font><span style="FONT-FAMILY: Arial;COLOR: #333333;">10</span><font face="宋体"><span style="COLOR: #333333;mso-bidi-font-family: Arial;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">元中，企业主如果跟工人平分，一人五元。但因为企业主只有一人，工人数量是企业主的几百甚至几千几万倍，所以资本家获利为五元的几百甚至几千几万倍。）</span><span style="COLOR: #333333;"></span></font></font></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">产值没有全部给工人就是剥削，资本家就成了黑心老板，这简直是闭着眼睛说瞎话，说瞎话的人才是黑心肠。他们举的例子对剩余价值的计算和老板的投入量全无准确性可言。其错误如下，剩余价值决无<span>90%</span>之高，<span>100</span>元是销售价，而非是收益利润，更非是工人单独产出。以上面重庆中小企业利润率为<span>5%</span>为准，剩余价值或利润仅为<span>5</span>元钱，工人拿<span>10</span>元，那么工人应当生产了<span>15</span>元钱。而实际上，由上面分析，按对本对利算，<span>50</span>元毛利中工人只生产了<span>1</span></span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">.15</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">元，而非</span><span style="COLOR: #333333;">15</span><span style="COLOR: #333333;">元钱，</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">多拿<span>8.85</span>元。<span>5</span>元钱的剩余价值或利润是资本、知识和其他人所为，当然要归老板和其他人员所得。<span></span></span></font></font></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">这个例子反映出，马克思主义者的糊涂之处，也是我们要分析清楚的是，老板到底搜刮了多少利润？即马克思主义者所举例子中的<span>90</span>元钱，怎么只剩下<span>5</span>元钱的，下面我们也来看利润是怎样生成的。<span></span></font></font></span></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">我们来看《公司财务管理》一书<span>P292</span>所举的例子：<span>ABC</span>公司某年全年产品销售收入为<span>3000</span>万元，减去产品销售成本<span>2644</span>元，产品销售费用<span>22</span>万元，以及产品销售税金及附加<span>28</span>万元，得到产品销售利润为<span>256</span>万元。再减去管理费用<span>46</span>万元和财务费用<span>110</span>万元，得到营业利润<span>100</span>万元。加上投资收益<span>40</span>万元，得到利润总额<span>140</span>万元。再减去所得税<span>64</span>万元，净利润仅为<span>76</span>万元为企业真正所得并能支配使用。（净利润率为<span>0</span></span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">.25%</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">。）（许纪校等</span><span style="COLOR: #333333;">《公司财务管理》<span>P292</span></span><span style="COLOR: #333333;mso-ansi-language: EN-GB;"> </span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">我们在这里略去了其他的一些收入）<span></span></span></font></font></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">再看国外一例：环球机械公司主产品是机床，现以每件<span>100</span>美元的产品为例。每天销售<span>100</span>件，销售收入为一万美元。固定经营费用<span>6000</span>美元，可变经营费用<span>2000</span>美元，税前利润为<span>2000</span>美元。减去税收<span>40%</span>，每天净收入为<span>1200</span>美元。若销售<span>50</span>件，每天净收入为负<span>1200</span>美元。销售<span>150</span>件，每天净收入为<span>3600</span>美元。（<span>MBA</span>必修核心课程编译组 理财：《资金筹措与使用》<span>P332</span>我们在这里略去了利息）<span></span></font></font></span></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">其实，在实际生产中情况更为复杂，以环球机械公司为例。若每天生产<span>200</span>件，第一种情况，企业还有<span>100</span>件生产成本未收回（再加上储存保管费用租赁仓库费用保养费用那就更多了。），企业财务账面上实际收入只有负<span>6800</span>美元。第二种情况，企业财务账面上实际收入只有负<span>10200</span>美元，第三种情况，企业财务账面上实际收入只有负<span>3400</span>美元。因为分别有<span>100</span>件、<span>150</span>件和<span>50</span>件的产品的经营费用已经支付出去了。如果<span>200</span>件产品外，还有<span>10</span>件产品作废，还得再支付<span>10</span>件的经营费用。即付出<span>210</span>件经营费用，实际分别只回收了<span>-6800</span>、<span>-10200</span>和<span>-3400</span>美元。此时无论是哪种情况，企业或老板并没有赚到钱。显然，这与资本家通过攫取了工人在剩余劳动时间里所生产出的剩余价值，</span><span style="COLOR: #333333;mso-bidi-font-family: Arial;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">获利了为工人工资的几百甚至几千几万倍（工人剩余劳动时间中创造出的）价值</span><span style="COLOR: #333333;">而发财致富的所说不相符合。<span></span></span></font></font></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">只有当企业销售收入大于经营成本，并且绝大多数产品都销售出去了，此时企业帐面上才有了余款而真正盈利。马克思主义者举例多是盈利，只算销售一空不谈滞销亏损，好象是人人投资办企业就都一定赚钱，实是不切实际的空谈。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">伯恩斯坦发现<span>,</span>真相与剩余价值论相悖，“我们今天恰好是在剩余价值率很高的工业中遇到地位最好的工人，即‘劳动贵族’的一部分，而在剩余价值率很低的工业中遇到被最可耻地压榨的工人”。道理很简单，工厂赚到很少的钱，拿不出更多的钱去增加工人的工资。企业利润率高，可以拿出更多的钱去提高工人的收入，工人反而觉得受剥削少。所以，剩余价值论“不能为劳动产品分配的正当性和不正当性提供规范。。。”（《伯恩斯坦文选》<span>P183</span>），由剩余价值论推断资本剥削统治奴役劳动的结论，只能是难以成立的伪命题。<span></span></font></font></span></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">3</span><span style="COLOR: #333333;">．<span>2</span><b style="mso-bidi-font-weight: normal;">利息提取。</b>马克思以单个产品来计算生产盈亏老板发财简直是不切实际的天方夜谭中的童话故事，企业有无盈亏赚钱，一般来说按年来计算，至少按天或月分或季度来测算。为具备代表性，我们下面不妨以月来观察企业的资本营运的状况。<span></span></span></font></font></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">假如，一个月下来企业盈利了，那么收益是否都进了老板的口袋了？其实，即虽是在盈利情况下，老板也未必就一定发财致富，盈利离老板收益还早着了。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">假如，这个月忽然发生工伤事故或火灾或污染等等事故罚款，应付职工忽然的事假损失，以及职工忽然的借款。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">交付职工教育费用。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">交付水电等费用。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">如此等等，一个月忙的钱也都赔进去了。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">扣除了正常的非正常的等等开支费用，老板们才有月息可得（一般是年息），也是资本产出所得，谈不上是剥削。若是亏损了，只能是空空如也。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">若是一年下来，还要扣除机器设备等固定资产的折旧费，年终奖金，劳保福利，上交职工的保险金和公积金。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">购买明年的新技术设备，购买更新换代的工艺流程，购买新产品技术专利，准备明年的新产品和新技术的研发经费。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">购买明年的生产资料。准备新车间或厂房的基建工程的筹款。这是为了维持正常生产，发展企业规模，也是为社会创造更多的财富，为更多的工人提供就业机会，为国家上交税收，最后才为老板们提取到利息，及享受资本劳动营运的快乐。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">预留资金应对亏损。假如有一天企业亏损严重了，如何保持企业生产能够维持正常？假如企业倒闭了，如何获得帮助？<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">扣除了所有这些费用，老板可能已经又一无所有了。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">马克思主义者责难资本家说，你们出钱，工人出力，挣了钱共同分配天经地义。请问这些马克思主义者，挣的钱是资本知识技术和劳动（包括资本家管理人员和工人的劳动）一同得来的，凭什么把资本和知识技术，资本家和管理人员创造的财富都分给工人？利润全部分给工人，上交税收、企业再发展的资金、应对突发事故的资金和种种赔偿，给工人上交的保险等资金从何而出？过度增长工人工资这一块（此时是工人剥削资本家），就要减少税收等其他块？能行吗？企业亏损时预垫的资金工人出了吗？企业亏损时工人照拿工资，共同分配亏损了吗（此时是工人剥削资本家）？企业血本无归倒闭时工人和资本家一起承担风险，共同分配风险了吗？资本家跳楼，工人陪跳了吗？资本家从早到晚一年忙到头，工人一样付出了吗？既然都没有共同的责任轻重共同的投资创业共同的决策选择（郭台铭语），资本家与工人就不能有一样的收入，更不能分配掉所有的收益利息利润和财富。<span></span></font></font></span></p> 
+<p><font><font face="宋体"><b style="mso-bidi-font-weight: normal;"><span style="COLOR: #333333;">3</span><span style="COLOR: #333333;">．<span>3</span>国家干预或国有经济固有的弊端</span></b><span style="COLOR: #333333;"></span></font></font></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">马克思主义认为，劳动价值论剩余价值论揭示了私有资本剥削工人的秘密。揭示了劳资收入不公，工人受奴役剥削压迫等现象，是私有制固有的矛盾，而且不消灭私有制实现公有制的共产主义，任何其他办法都不能解决私有制固有的矛盾。解决私有制下工人受剥削受奴役受压迫的唯一解决的办法便是消灭私有制，实行单一的公有制的共产主义。由此，马克思主义者认为马克思发现了宇宙真理。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">通过上述讨论，我们发现劳动价值论与现实出入较大，不符合资本营运的实际情况。而剩余价值论也有悖情理，近乎强词夺理。近百年共产主义的实践证明，国家干预或管理的公有制也存在着不可克服的固有的矛盾。（网友戏谑说，按照马克思主义的说法，剩余价值是工人创造的被资本家无偿占有的超过劳动力价值的价值。那么在共产主义社会，企业赢利，其利润也就是企业无偿占有了的工人创造的超过劳动力价值（即超剩余劳动时间），剩余价值在共产主义社会就是劳动者对社会的无私贡献。）<span></span></font></font></span></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">在上世纪七十年代，几乎所有的共产主义国家经济都陷入经济萧条的泥潭。主张国家干预经济的凯恩斯主义也出现危机。就连英法等国推行国有化，经济也萧条崩溃，暴发工人大规模的罢工和社会混乱。所以说，消灭私有制实现单一公有制的共产主义，既没有必要的理由，与情与理说不通，而且也行不通。伯恩斯坦早就预测说，“用激烈手段侵犯资产阶级的财产权却会触及一个更加广大得不知多少的利益阶层</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">…</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">事态的纯粹外表的尖锐化，绝对不会相应地加速工业的内部发展过程<span>..,</span></span><span style="COLOR: #333333;">”</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">(</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">《</span><span style="COLOR: #333333;">伯恩斯坦文集》<span>P67</span></span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">)</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">。<span></span></span></font></font></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">针对世界性经济危机，一时各种经济学派林立，纷纷对公有制和国有制及国家过多的干预进行了反思。其中供给学派、货币主义、理性预期学派深刻地指出了国家干预过多固有的矛盾和弊病：<span></span></font></font></span></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">1</span><span style="COLOR: #333333;">）、国家干预过多，把本来应当由地方、企业和个人决定的人财物等诸多事务统统集中到国家手中进行管理，不仅束缚生产者和投资者的手脚，限制企业和个人的积极性，减弱微观经济的活力，造成生产的停滞。而且会因为国家管得太广太多，滋生官僚主义，造成国家宏观指挥失误、计划失误，从而形成比市场失灵产生的后果更为严重。<span>70</span>年代后西方社会主义国家滞胀的产生，一些发展国家推行经济计划化的失败，共产主义国家经济出现国民经济失调、经济发展停滞甚至有时即将崩溃的边缘，就是国家管理经济的权力过于集中、国家干预失败的明显例证。（薛进军《凯恩斯革命的再革命》<span>P296-301</span>下同）<span></span></span></font></font></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">2</span><span style="COLOR: #333333;">）、政府机构庞大，失误常带有全局性。国家干预规模的扩大造成政府机构庞大冗员增多人浮于事，政府行政效率降低。再加大国家管理的事情越多越大，信息越不易及时搜集掌握，于是为失误产生了客观条件，加上国家干预涉及的都是全局性全国性的大问题，一旦出现失误便是僵全国整体性的灾难。<span></span></span></font></font></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">3</span><span style="COLOR: #333333;">）、经济计划失误造成的损失更大。特别是公有制的共产主义国家，事无巨细，都采取指令性计划和短中期计划形式，并依靠行政手段强行加以实施。而计划的制定者不可能掌握变化万千的市场动态的信息和每个消费者的不同需求预期偏好，往往缺乏科学依据，数据与指标不准，急功近利导致的决策失误，计划内容华而不实，计划执行不力等各种原因，造成全局性损失，计划妨碍了企业与个人的自由发展。<span></span></span></font></font></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">4</span><span style="COLOR: #333333;">）、国家干预过多妨碍了市场机制的发挥，甚至导致市场的失灵。好比摆弄坏了一部机器内部的主要器件，使机器失去了内在动力，单凭外界的力量去推动其运动，是不能不出问题的。对此，供给学派、理性预期学派的分析很多很详细。现在，越来越多的国家已经认识到这一点，不仅西方社会主义国家减少和调整国家干预，加强市场自动调节。东方共产主义国家，也纷纷建立市场经济、加强市场调节，改善和减少国家干预。<span></span></span></font></font></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">5</span><span style="COLOR: #333333;">）、国家的不当干预减弱了微观经济的活力。供给学派正确地指出，经济增长的主要动力是个人的自由发展和企业家精神的有效发挥。即使国家掌控依靠国家机器的力量，但少数人的决策总无法包办取代基层广大干群、直对市场星罗棋布的企业和千百万个人的活力。而国家的某些经济政策行政措施和社会福利制度却限制了企业的经营自由，挫伤了人们努力工作的积极性，使个人的创造力、企业家的自主创新精神得不到充分发挥，从而减弱了微观经济的活力，使经济增长失去主观能动性。<span></span></span></font></font></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">6</span><span style="COLOR: #333333;">）、国家干预不适当会引发经济波动。近百年的实践证明，无论西方社会主义和东方的共产主义，由于国家经济政策的效力过强，政府干预调节失误，都引起经济产生波动，增加不稳定因素。例如中国大约<span>5</span>至<span>10</span>年出现一次经济繁荣与停滞的交替。这种经济波动即共产主义经济危机。出现生产供给不足，需求过度的现象，存在经济增长的停滞下降，这都与国家干预有关。共产主义固有的国家干预是共产主义固有的矛盾，因此，共产主义国家减少国家干预，改善政府调节，稳定经济政策，必先放弃国家干预或单一国有经济的共产主义模式。<span></span></span></font></font></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;mso-ansi-language: EN-GB;">新自由主义给出国家干预与市场调节相结合的新模式，尤其是供给学派的模式最引人注目：市场调节为主，国家有限干预为辅，这一模式已经在美英等国初试身手，反响不凡。</span><span style="COLOR: #333333;">保罗</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">.</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">萨缪尔森 威廉<span>.</span>诺德豪斯针对劳动和资本的收入反差，认为，自由市场能促进效率。资本市场能够平衡储蓄和投资。政府能够减少不公平而又不损害效率。（</span><span style="COLOR: #333333;">保罗</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">.</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">萨缪尔森 威廉<span>.</span>诺德豪斯 《经济学》<span>P270-271</span>）</span><span style="COLOR: #333333;">保罗</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">.</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">萨缪尔森 威廉<span>.</span>诺德豪斯分析说，“美国在<span>20</span>世纪<span>90</span>年代经济长期繁荣，确实使贫困率在<span>1998</span>年下降到历史最低点：<span>12.7%</span>。”（</span><span style="COLOR: #333333;">保罗</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">.</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">萨缪尔森 威廉<span>.</span>诺德豪斯《经济学》<span>P371</span>）。<span></span></span></font></font></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">2007</span><span style="COLOR: #333333;">年出现的全球性金融海啸的冲击，冰岛和希腊由于国家福利制度造成的经济供给匮乏，国内生产能力和供给不足，城市化的过度膨胀，都让冰岛和希腊面临着破产更大的困境。对过度的平等福利和政府干预再次给出了反面的例证。</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;"></span></font></font></p> 
+<p><font><font face="宋体"><b style="mso-bidi-font-weight: normal;"><span style="COLOR: #333333;">3</span></b><b style="mso-bidi-font-weight: normal;"><span style="COLOR: #333333;mso-ansi-language: EN-GB;">.4</span><span style="COLOR: #333333;">公平与效率</span></b><span style="COLOR: #333333;">。<b style="mso-bidi-font-weight: normal;">供给与需求。工资利息和税收。公有制私有制和混合经济。市场调控与政府干预。</b></span><b style="mso-bidi-font-weight: normal;"><span style="COLOR: #333333;mso-ansi-language: EN-GB;"></span></b></font></font></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;mso-ansi-language: EN-GB;">排除</span><span style="COLOR: #333333;">劳动价值论剩余价值论一百五十多年来的喧嚣，摒弃百十年共产主义运动错误的扰动。我们回到工业社会中考虑争论的初始的问题，如何实现劳资公平，提高工人阶级的收入和生活水平，又繁荣经济活力，提高经济效率。实现劳资合作双赢。<span></span></span></font></font></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">单纯强调效率的百十年来的极端的资本主义制度和单纯强调平等的共产主义制度都已经证明行不通，都已经为人们所放弃。目前种种经济学派，虽然各有所侧重，但在公平与效率，供给与需求，工资利息和税收，公有制和私有制（混合经济），市场调控与政府干预的均衡上都趋同一致，即不可过分地强调一端。侧重公平，必然有损效率；反之，侧重效率也必有损公平。供给与需求，工资利息和税收，公有制和私有制（混合经济），市场调控与政府干预各对参数之间也是如此。</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;"></span></font></font></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;">最佳状态是中庸之道取中间道路，即我们在《社会稳定运行的数学模型分析》（<span>2005</span>年）一文章中，给出的基尼<span>-</span>金煊系数，取值<span>0</span></span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">.5</span><span style="COLOR: #333333;mso-ansi-language: EN-GB;">。也即是每对参数坐标系第一象限的<span>45</span>度线上。使</span><span style="COLOR: #333333;">公平与效率，供给与需求，工资利息和税收，公有制和私有制（混合经济），市场调控与政府干预的天平不偏向任何一方。<span></span></span></font></font></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">在实际操作的过程中，往往不是均衡发展而是互补的双方各有偏重交替执行，总是在摇摆倾斜偏离状态下运作，若是在一种状态下例如或侧重政府干预（包括单一的公有制共产主义经济）或侧重市场调节（包括单一的私有制资本主义经济），都会出现毁灭性的灾难。因此繁荣与萧条或危机也总是在周期性的波动出现。正如中国的一句古话，矫枉过正。若能掌控好各参数的均衡点，实是人类社会之宏福。<span></span></font></font></span></p> 
+<p><span style="COLOR: #333333;"><font><font face="宋体">最初<span>,</span>自由经济学发源于亚当<span>&middot;</span>斯密新古典经济学，反对国家干预贸易，主张自由放任和竞争，并认为竞争会使资源达至最大限度利用的程度。亚当<span>&middot;</span>斯密新古典经济学认为，整个社会由于竞争而受市场一只<span>“</span>看不见的手<span>”</span>的调节，起着政府干预所起不到的作用，因此经济学家和政治家在宏观经济上似乎没有严重的任务。在当时，亚当<span>&middot;</span>斯密力主政府要<span>“</span>廉洁<span>”</span>和减少干预。到了二十世纪二十年代末和三十年代初。世界上发生了空前的经济危机，宣告了新古典经济学的破产。<span>(</span>四五十年后<span>,</span>自由主义经济学家又重新提出反思<span>, </span>认为三十年代初经济危机源于供给不足<span>)</span>受希特勒和斯大林国家化经济繁荣的启示，公有国有化运动倍受世人瞩目和推崇，凯恩斯提出了国家干预经济的主张，他主张政府通过调节需求来达到充分就业。在聚集有效需求不足的情况下，他主张扩大政府开支，增加货币供应，实行赤字预算来刺激国民经济活动，以增加国民收入，实现充分就业。凯恩斯提出了各种反危机的政策主张，应该说，这种主张基本上是符合当时世界的实际情况，这些政策主张成为不少西方国家制定经济政策的重要理论依据。因此凯恩斯在许多方面取得了成功。到了上世纪七十年代，事情却发生了变化，几乎所有的共产主义国家经济都陷入经济萧条的泥潭。主张国家干预经济的凯恩斯主义也出现危机。工业社会以来出现的所有经济学<span>,</span>包括马克思主义政治经济学<span>,</span>没有一个理论学说最终一劳永逸地解决了所有的社会经济问题<span>,</span>对所有的学说当持佛教的思想<span>,</span>勿驻勿执著<span>,</span>当根据时代发展出现的新现象新问题<span>,</span>直面事实真相研究分析<span>,</span>推陈出新得出中肯公正的新结论新学说<span>,</span>提出切实可行的新方法<span>,</span>才能行之有效地解决现实中的问题。<span></span></font></font></span></p> 
+<p><font><font face="宋体"><span style="COLOR: #333333;mso-ansi-language: EN-GB;">从供给和需求两方面来看，中国要特别反思税收和福利政策。直至现在，</span><span style="COLOR: #333333;">中国仍然坚持改革开放前的高税收政策和分等级制的福利事业。中国目前是世界上税负第二重的国家，第一是法国。法国的社会福利开支占<span>GDP</span>的<span>34.9% </span>。中国的社会福利开支仅占<span>GDP</span>的<span>2.28% </span>。日本社会福利开支占<span>GDP</span>的<span>18.6%</span>。网友一针见血地指出，中国那么多银子都用在了“内部养官、外部捐赠”上了！这从供给上看，税收太高企业留成过低，企业缺少新技术新产品研发经费和再发展资金，不利于企业微观的生产，也限制了企业的知识投入波及企业的生产能力的提高，限制了市场的供给。产品知识技术的含金量过低又造成企业竞争力弱利润率不高。另一方面，税收太高企业留成过低，又造成工人工资过低，百姓购买力降低，加上福利事业的匮缺弱化，人们多把钱握紧在手不敢消费以防不测，造成需求不足，这是中国经济纠结之所在，对此必须有清醒的认识。再由于极左派利用马克思主义的劳动价值论剩余价值论挑动劳资纠纷，必然会加剧社会的动荡不安。<span></span></span></font></font></p> 
+<p><span class="con"><span style="FONT-FAMILY: Arial;COLOR: #333333;mso-bidi-font-size: 10.5pt;">&nbsp;</span></span></p> 
+<p><span class="con"><span style="FONT-FAMILY: 宋体;COLOR: #333333;mso-bidi-font-size: 10.5pt;mso-bidi-font-family: Arial;mso-ascii-font-family: Arial;mso-hansi-font-family: Arial;">二〇一五年十月十一日草稿</span></span><span class="con"><span style="FONT-FAMILY: Arial;COLOR: #333333;mso-bidi-font-size: 10.5pt;"></span></span></p>
+                        
+                        						                     </div>
+                </div>
+                                <div class="tie-con-manange">
+                                        <div class="tie-con-manange-panel">
+                        <a href="#divComposeEditor" postId="582574133" class="js-reply">回复本帖</a>
+                    </div>
+                                    </div>
+                	                	
+                	                                    <div class="clearfix" style="width:908px;">
+                                                                                                                           </div>
+                  
+                   
+                              </div>
+        </div>
+
+
+	        <div class="tie-item">
+            <div class="tie-author">
+               <div class="tie-author-column">
+                   <a title="枫歌燕语" target="_blank" href="http://bbs.163.com/user/fengfeng1964">
+                        <img width="100" alt="枫歌燕语" src="http://image.bbs.163.com/face/fengfeng1964" />
+                   </a>
+                   <span class="info-name" title="枫歌燕语">
+                       <em class="icon_transparent_people"></em>
+					   																						                       <a target="_blank" href="http://bbs.163.com/user/fengfeng1964" class="js-tieauthor">枫歌燕语</a>
+
+								
+						                   </span>
+                   <a class="info-message" title="给 枫歌燕语 发送消息" href="javascript:;" passport="-9MYm" nickname="枫歌燕语">
+                      <span class="info-act-wraper">  
+                        <em class="icon_transparent_message"></em>发送消息
+                       </span>
+                   </a>
+                   <!--a href="javascript:;" target="_blank"  name="fengfeng1964" title="枫歌燕语 的微博" class="info-weibo js-info-weibo">
+                       <span class="info-act-wraper">
+                         <em class="icon_transparent_weibo"></em>TA的微博
+                       </span>
+                   </a-->
+                                      <a href="http://fengfeng1964.lofter.com?act=qb163rk_20141107_01" target="_blank"  title="枫歌燕语 的LOFTER" title="LOFTER" class="info-lofter">
+                       <span class="info-act-wraper">
+                         <em class="icon_transparent_lofter"></em>他的LOFTER
+                       </span>
+                   </a>
+                                      <div class="info-collection">
+                        <div class="info-class"><span class="info-class-title">等级:</span>
+                        <!-- 等级图标-->
+                             <div class="info-class-bar">
+                                <img src="http://img2.cache.netease.com/utf8/bbs/image/star_4.jpg" alt="果" title="等级:11"  /><img src="http://img2.cache.netease.com/utf8/bbs/image/star_1.jpg" alt="叶" title="等级:11"  /><img src="http://img2.cache.netease.com/utf8/bbs/image/star_1.jpg" alt="叶" title="等级:11"  />
+                             </div>
+                        </div>
+                        <p>积分: 24767  </p>
+														<p>发帖: 465 篇</p>
+						                   
+                        <p>在线时长: 3121 小时</p>
+                        
+                   </div>
+               </div>
+            </div>
+            <div class="tie-con">
+                <div class="tie-con-hd tie-con-hd-sub">
+                    <div class="tie-con-hd-panel tie-con-hd-panel-sub">
+                                                <span class="time" id="floor-3"> 3楼&nbsp;&nbsp; 2015-10-13 16:34:59</span>
+                         <a name="1" href="javascript:;" class="report-whistle btn-dialog js-report" title="举报" action="report" data='{"boardId":"shishi","threadId":582574040 ,"postId":582717742}'>举报</a>
+                                                                                                    <div class="board-manage">
+                            <div class="dd-window js-dd-wraper">
+                                管理<em class="icon-arrow-up"></em>
+                                <ul class="board-menu">
+                                    <script type="text/template" class="js-postTemp">
+                                      <%for(var i=0;i<list.length;i++){%>
+                                                                                         									            <%if(list[i].opId=="modify"){%>
+									            <li class="gt-editor"><a href="/post/shishi/replyEdit/582717742 " title="修改">修改</a></li>
+                                                <%}%>
+                                                                                              <%if(list[i].opId=="delete"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="deleteThread" title="删除" data='{"boardId":"shishi","threadId":"582574040" ,"postId":"582717742","isMain":0,"floor":"3"}' title="删除">删除</a></li>
+                                                <%}else if(list[i].opId=="black"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="addBlackList" title="加黑"  data='{"boardId":"shishi","threadId":"582574040" ,"postId":"582717742","isMain":0,"passport":"fengfeng1964","nickname":"枫歌燕语","userId":"-9MYm"}'>加黑</a></li>
+                                                <%}else if(list[i].opId=="iplimit"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="addIpLimit" title="IP限制"  data='{"boardId":"shishi","threadId":"582574040" ,"postId":"582717742","isMain":0,"nickname":"枫歌燕语","userId":"-9MYm"}'>IP</a></li>
+                                                <%}else if(list[i].opId=="enjoin"){%>
+                                                                                                 <%}%>
+
+                                     <%}%>
+                                    </script>
+                                </ul>
+                            </div>
+                        </div>
+                                            </div>
+                                    </div>
+                <div class="tie-con-bd">
+                                        <div class="tie-content">
+                        <img class="emoji" src="http://img5.cache.netease.com/bbs/static/face/uncle/preview/uncle12.gif" />
+                        
+                        						                     </div>
+                </div>
+                                <div class="tie-con-manange">
+                                        <div class="tie-con-manange-panel">
+                        <a href="#divComposeEditor" postId="582717742" class="js-reply">回复本帖</a>
+                    </div>
+                                    </div>
+                	                	
+                	                                    <div class="clearfix" style="width:908px;">
+                                                                                                                           </div>
+                  
+                   
+                              </div>
+        </div>
+
+    <div class="tie-tab-bottom-nav">
+    <div class="tie-page">
+        共<span class="red">4219</span> 浏览 <span class="red">2</span> 回帖&nbsp;&nbsp;
+                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                
+                                                                        
+                
+        
+
+            
+            
+            
+            
+
+                            </div>
+</div>   
+   
+     <!-- 回帖区 -->
+   <div class="reviewBox"  id="div_reply">
+    <style type="text/css">
+#reviewBox_login{ padding-left:40px; display:none;}
+.replylogin_input{ width:140px; height:20px;  border:1px solid #ccc;}
+.replylogin_submit{ padding:0 10px; height:20px; background-color:#313a44; border:1px solid #000; line-height:20px; color:#fff; cursor:pointer;}
+</style>
+<div id="reviewBox_login">
+    <form id="replylogin_form" action="https://reg.163.com/logins.jsp" method="post">
+    <input type="hidden" name="type" value="1" />
+    <input type="hidden" name="url" id="replylogin_url" />
+    <input type="hidden" name="product" value="bbs" />
+    帐号:
+    <input  name="username" type="text" tabindex="11" class="replylogin_input" id="replyloginUsername"/>
+    密码:
+    <input name="password" type="password"  tabindex="12" class="replylogin_input"  id="replyloginPassword"/>
+    <label><input name="savelogin" type="checkbox" value="1" tabindex="13" />下次自动登录</label>
+     <input  type="submit" value="登录" class="replylogin_submit"/>
+    <a href="http://reg.163.com/reg/reg.jsp?product=bbs&loginurl=http://bbs.163.com&url=" target="_blank">注册</a> 
+    </form>
+</div>
+<script type="text/javascript"  charset="GBK">
+(function($){
+
+  $("#replylogin_form").submit(function(){
+    var u=$("#replyloginUsername").val(),
+    p=$("#replyloginPassword").val();
+    if( u==""|| p==""){
+        Dialog.alert("用户名或密码不能为空");
+		return false;
+    }
+    })
+  })(jQuery)
+
+</script>
+    <span class="blank9"></span>
+    <div class="form1 postForms" id="reply">
+        <form id="replyForm" name="frmpost"  method="post" action="/v2/post/doReply" >
+                        <input type="hidden" name="title" value="对剩余价值论的再分析"/>
+            <input type="hidden" name="replyPostId" id="replyPostId"/>
+                        <style type="text/css">
+.editor-status-bar {text-align: right;line-height: 24px;padding-right: 12px;background: #f5f5f5;}
+.editor-status-bar label {color: #BBB;}
+.editor-status-bar a,.editor-status-bar a:visited {color: #1e50a2;}
+#divComposeEditor{ height:300px;}
+
+
+.upload-wraper{ width: 680px; height:400px; font-size:12px;}
+.load-area{ height:370px;border: 1px solid #9DBBDD;}
+.upload-btn{ padding:20px 0 0 10px; text-align:left; }
+.upload-btn a,.upload-btn a:visited{ height:15px; line-height:15px;display:inline-block;padding:5px 15px;border:1px solid #ccc;text-decoration:none; background-color:#dadada; color:#3e3e3e; font-weight:bold}
+.upload-tab ul { overflow:hidden; zoom:1;margin:0;padding:0;}
+.uploadurl-wraper{ text-align:left;}
+.uploadurl { width:300px;height:25px;border:1px solid #ccc; margin-left:10px;}
+.uploadTips{ padding:10px; text-align:left;}
+.upload-tab li{float:left;height:30px;line-height:30px;padding:0 10px; }
+.upload-local-cur .local-tab,
+.upload-net-cur .net-tab{background-color:#313a44;color:#fff; }
+.local-tab,
+.net-tab{ cursor:pointer;}
+.upload-local-cur  .upload-net-wraper,
+.upload-net-cur .upload-flash-wraper{display:none;}
+.upload-local-cur  .upload-flash-wraper,
+.upload-net-cur .upload-net-wraper{display:block;}
+.upload-flash-wraper{ height:370px;}
+
+
+
+.media-wraper{ width:450px; font-size:12px; text-align:left }
+.media-iput{ width:300px; border:1px solid #ccc; height:25px;}
+.media-tips{ padding-top:5px; margin-bottom:5px;}
+.media-size-s{ margin-top:5px;}
+.media-size-s input{width:50px; border:1px solid #ccc; height:20px;}
+
+
+.html-content{ width:600px; height:300px; border:1px solid #ccc }
+
+
+.uploadIframe{ display:none;}
+.upload-file-panel{ font-size:12px; width:500px;}
+.upload-file-content{ border:1px solid #ccc; width:300px; height:25px;}
+.upload-file-wraper{ padding:5px 0;}
+.upload-button-wraper{ padding-top:10px;}
+.upload-file-tips{ padding:5px 0;}
+.upload-button-wraper input{ display:inline-block;padding:5px 15px;border:1px solid #ccc; background-color:#dadada; color:#3e3e3e; font-weight:bold}
+
+.four-panel{ width:550px;}
+.four-panel-top{ width:550px; height:460px; background:url(http://img5.cache.netease.com/utf8/bbs/image/panel/001.jpg); position:relative;}
+.four-panel-bottom{ width:550px; height:40px; background:url(http://img5.cache.netease.com/utf8/bbs/image/panel/006.jpg);}
+.four-input{ width:90px; height:100px; border:1px solid #ccc; position:absolute;}
+#fourPanelOne{ top:110px; left:180px;}
+#fourPanelTwo{ top:110px; left:290px;}
+#fourPanelThree{ top:315px; left:180px;}
+#fourPanelFour{ top:315px; left:290px;}
+
+
+#editor_dialog_box { padding-bottom: 10px;}
+#editor_dialog_box #editor_dialog_form {padding: 30px 20px 0px;}
+#editor_dialog_box .btn-set {padding-left: 0px;position: relative;display: inline;left: 50%;margin: 10px auto 10px -75px;}
+
+</style>
+<input type="hidden" id="publishcontent" name="content"/>
+<input type="hidden"  name="boardId" value="shishi" id="tieboardId"/>
+<input type="hidden"  name="threadId" value="582574040" id="tiethreadId"/>
+<input type="hidden" id="photoSetImgUrls" name="photoSetImgUrls"/>
+<div  id="editorWraper">
+<div class="frmpostPosition">
+    <div id="divComposeEditor">
+    </div>
+    <div class="editor-status-bar">
+        <label id="autoSaveLabel"> 每30秒自动保存一次内容</label>
+        <a href="javascript:;" id="savenode">手动保存</a> | <a href="javascript:;" id="restorenode">  恢复内容</a> | <a href="javascript:;" id="clearnode">清除内容</a>
+    </div>
+</div>
+<div id="editor_dialog_box">
+    <div id="editor_dialog_form">
+    </div>
+</div>
+<link href="http://img1.cache.netease.com/bbs/css/editor_v1.0.0.css" rel="stylesheet" type="text/css" />
+
+
+<script type="text/javascript" src="http://img1.cache.netease.com/bbs/static/20150917/forum_editor.js" charset="GBK"></script>
+
+
+<script type="text/javascript" src="http://bbs.163.com/bbs/js/prototype.ya.js"></script>
+<script language="javascript" type="text/javascript">
+   
+   
+
+    var boardId = "shishi",
+    threadId = "582574040",
+	channel="no";
+	
+	var mobileRe=[],replyRe=[],boardRe=[];
+	
+		
+	    
+    var oEditor = new EditorView({
+        editorDiv: "#divComposeEditor",
+        toolbar: {
+            basic: ["bold", "italic", "underline", "fontsize", "forecolor", "backcolor","justify", "list", "indent", "link", "bbsformat", "portrait", "bbsimage", "bbsvideo", "bbstcard"].concat(mobileRe,replyRe,boardRe),
+            full: ["undo", "cut", "copy", "fontname", "fontsize", "justify", "list", "indent", "lineheight", "link", "bbsformat", "portrait", "bbsimage", "bbsvideo", "bbstcard"].concat(mobileRe,replyRe,boardRe,["redo", "paste", "bold", "italic", "underline", "forecolor", "backcolor", "insertHorizontalRule", "insertTime","removeFormat", "insertTable"]),
+            fullTBWidth: { ie: 540, other: 495 }
+        }
+    });
+    EditorExtend.addListener(oEditor);
+   // EditorExtend.addPostListener(oEditor);
+
+    (function() {
+        /**
+        * 编辑器内容自动保存
+        */
+        var localStorageAdapter = {
+            storeName: 'NTESBBS',
+            isLocalStorage: window.localStorage ? true : false,
+            dataDOM: this.isLocalStorage ? null : (function() {
+                try {
+                    var dataDOM = document.createElement('input'),
+			    expires = new Date();
+                    dataDOM.type = 'hidden';
+                    dataDOM.style.display = 'none';
+                    //dataDOM.addBehavior('#default#userData');
+                    dataDOM.addBehavior && dataDOM.addBehavior('#default#userData');
+                    document.body.insertBefore(dataDOM, document.body.firstChild);
+                    expires.setDate(expires.getDate() + 30);
+                    dataDOM.expires = expires.toUTCString();
+                    return dataDOM;
+                } catch (ex) {
+                    return null;
+                }
+            })(),
+
+            set: function(key, value) {
+                var dataDOM = this.dataDOM;
+                if (this.isLocalStorage) {
+                    window.localStorage.setItem(key, value);
+                } else {
+                    if (dataDOM) {
+                        dataDOM.load(this.storeName);
+                        dataDOM.setAttribute(key, value);
+                        dataDOM.save(this.storeName);
+                    }
+                }
+            },
+
+            get: function(key) {
+                var dataDOM = this.dataDOM;
+                if (this.isLocalStorage) {
+                    return window.localStorage.getItem(key);
+                } else {
+                    if (dataDOM) {
+                        dataDOM.load(this.storeName);
+                        return dataDOM.getAttribute(key);
+                    }
+                }
+            },
+
+            remove: function(key) {
+                var dataDOM = this.dataDOM;
+                if (this.isLocalStorage) {
+                    window.localStorage.removeItem(key);
+                } else {
+                    if (dataDOM) {
+                        dataDOM.load(this.storeName);
+                        dataDOM.removeAttribute(key);
+                        dataDOM.save(this.storeName);
+                    }
+                }
+            }
+        }
+        var autoSaveTime;
+        function saveContent() {
+            autoSaveTime && clearTimeout(autoSaveTime);
+            var autoSaveLabel = document.getElementById("autoSaveLabel");
+            autoSaveLabel.innerHTML = "正在保存....";
+            var content = oEditor.editor.getContent().replace(/^<br>\s*$|^\s*$|^<DIV><\/DIV>$|^<P>&nbsp;<\/P>$/, '');
+            if (content) {
+                localStorageAdapter.set('bbs_content_autosave', content);
+            }
+            autoSaveTime = setTimeout(function() {
+                autoSaveLabel.innerHTML = "每30秒自动保存一次内容";
+            }, 1000);
+        }
+
+        function restoreContent() {
+            var content = localStorageAdapter.get('bbs_content_autosave');
+            if (content) {
+                oEditor.editor.setContent(content);
+            }
+        }
+
+        function clearContent() {
+            oEditor.editor.setContent('');
+        }
+
+        document.getElementById("savenode").onclick = function() {
+            saveContent();
+        };
+        document.getElementById("restorenode").onclick = function() {
+            restoreContent();
+        };
+        document.getElementById("clearnode").onclick = function() {
+            clearContent();
+        };
+
+        setInterval(function() {
+            saveContent();
+        }, 30000);
+    })();
+    document.domain = location.hostname.replace(/^.*\.([\w]+\.[\w]+)$/, "$1");
+</script>
+</div>
+            <span class="blank9"></span>
+            <div class="form2">
+               <div class="upLoad">
+				 <span class="right">
+                         <img title="看看如何用手机泡论坛" src="http://bbs.163.com/bbs/img/phoneIcon.jpg"/>
+				         <a class="cBlue" target="_blank" href="http://help.3g.163.com/bbs/">如何用手机快速回复？</a>
+				 </span>
+                 <style type="text/css">
+   #checkcodewraper{ display:none; margin-bottom:10px;}
+   .checkinputwraper{ margin-bottom:5px;}
+   .checkcode-input{border:1px solid #ccc; width:100px; height:20px; margin-top:10px;}
+   .code-tips{ color:rgb(0, 0, 255)}
+</style>
+<div id="checkcodewraper">
+<div class="checkinputwraper">验证码 <input type="text" class="checkcode-input" id="checkcodeinput" name="checkcode"/><span class="cRed" id="checkCodeMsg">()</span></div>
+<img alt="看不清，换一张" src="/v2/checkcode/codeimg" id="checkcodeimg"/><a href="javascript:;" id="checkcodenode"> 点击换一张</a>
+</div>
+<script language="javascript">
+    (function($) {
+        var ch=$("#checkcodeimg");
+		$("#checkcodenode").click(function() {
+            ch.attr("src", "/v2/checkcode/codeimg?timestamp=" + new Date().getTime());
+			return false;
+        });
+        $("#checkcodenode").click();
+    })(jQuery);
+</script>		         <span class="ui-button-on" id="btnSubmit"><a href="javascript:;" id="replyTie">回复本帖</a></span>
+		         <!--div class="synTinyblog" id="synBlog">
+                        <label class="synTinyblog-option" for="copytoweibo">
+                            <input type="checkbox" name="copytoweibo" id="copytoweibo"  checked="checked" class="js-check" value="y" />同步到微博
+                        </label>
+                 </div-->
+               </div>
+            </div>
+			<div class="recentBoard" id="visitHistory" style="display:none">您最近去的版：<span id="historyWraper"></span> </div>
+        </form>
+    </div>
+       <!-- 回贴框下广告  -->
+       <div class="comment_bottom_ad">
+    <style type="text/css">
+  #comment_bottom_ad { list-style: none; background: #f8f8f8;padding: 18px; margin-left: 40px; margin-top: 35px;}
+  #comment_bottom_ad ul { margin: 0; padding: 0;}
+  #comment_bottom_ad li { float: left; width: 122px; margin-left: 16px;}
+  #comment_bottom_ad li.first {margin-left: 0;}
+  #comment_bottom_ad a {text-decoration: none;}
+ #comment_bottom_ad a:hover, #comment_bottom_ad a:active {color: #a91c00; text-decoration: underline;}
+  #comment_bottom_ad li p { font-size: 12px; line-height: 14px; height: 14px;margin: 10px 0 0 0; overflow:hidden;} 
+#comment_bottom_ad li p a {color: #252525; }
+   .clearfix {_zoom: 1;}
+   .clearfix:after {clear: both;height: 0;overflow: hidden;display: block;visibility: hidden;content: ".";}
+ </style>
+    <div class="thum" id="comment_bottom_ad">
+        <ul class="clearfix">
+                                                               <li class="first">
+                            <a class="img_link" href="http://rd.da.netease.com/redirect?t=nfSOlH&p=A33HS5&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6067.html%3Ftag%3Da0c36828c177185576911ad8e49e6ce7" target="_blank">
+                    <img width="122" height="92" alt="考拉家居" title="考拉家居" src="http://img4.cache.netease.com/cnews/2015/12/17/20151217160307d5c06.jpg">
+                </a>
+                <p><a class="title_ad_link" href="http://rd.da.netease.com/redirect?t=nfSOlH&p=A33HS5&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6067.html%3Ftag%3Da0c36828c177185576911ad8e49e6ce7" target="_blank">考拉家居</a></p>
+            </li>
+                                       <li>
+                             <a class="img_link" href="http://rd.da.netease.com/redirect?t=iZyFPV&p=A33HS5&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6014.html%3Ftag%3Da0c36828c177185576911ad8e49e6ce7" target="_blank">
+                    <img width="122" height="92" alt="考拉海淘" title="考拉海淘" src="http://img4.cache.netease.com/cnews/2015/12/14/2015121416490515d4e.jpg">
+                </a>
+                <p><a class="title_ad_link" href="http://rd.da.netease.com/redirect?t=iZyFPV&p=A33HS5&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6014.html%3Ftag%3Da0c36828c177185576911ad8e49e6ce7" target="_blank">考拉海淘</a></p>
+            </li>
+                                       <li>
+                             <a class="img_link" href="http://rd.da.netease.com/redirect?t=TjtN3S&p=clQOt7&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6003.html%3Ftag%3D672142b8b80a9af7ce61681178a3f5bf" target="_blank">
+                    <img width="122" height="92" alt="领取考拉红包" title="领取考拉红包" src="http://img6.cache.netease.com/cnews/2015/12/9/2015120916081069328.jpg">
+                </a>
+                <p><a class="title_ad_link" href="http://rd.da.netease.com/redirect?t=TjtN3S&p=clQOt7&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6003.html%3Ftag%3D672142b8b80a9af7ce61681178a3f5bf" target="_blank">领取考拉红包</a></p>
+            </li>
+                                       <li>
+                             <a class="img_link" href="http://go.163.com/2015/1208/mu/" target="_blank">
+                    <img width="122" height="92" alt="全民奇迹周年庆" title="全民奇迹周年庆" src="http://img5.cache.netease.com/cnews/2015/12/9/20151209115943a8c79.jpg">
+                </a>
+                <p><a class="title_ad_link" href="http://go.163.com/2015/1208/mu/" target="_blank">全民奇迹周年庆</a></p>
+            </li>
+                    </ul>
+    </div>
+ <script type="text/javascript">
+    (function() {
+        jQuery("#comment_bottom_ad a").mousedown(function() {
+           var index = jQuery(this).parents('li').index() + 1,
+                 url = 'http://bbs.163.com/json/special/clickStat?type=ad_coop' + index;
+           jQuery.ajaxSetup({
+                 cache: true
+           });
+           jQuery.getScript(url);
+        });
+    })(jQuery);
+    </script>
+</div>
+  </div>
+
+
+    </div>
+
+    <!-- 右侧栏 -->
+    <div id="tie_addtion">
+        <!-- 右侧栏顶部广告 -->
+        <div style="margin-bottom: 10px;">
+            	<div class="ad260" style="height:auto">
+		<div style="display:none;"><a href="http://ymei.tmall.hk/ " target="_blank"><img src="http://img6.cache.netease.com/bbs/2015/1/19/201501191557390adf1.jpg  " width="240" height="240"/></a></div>
+		<!--"/htmlfile/side/bbs_news/news_artice_side.html"-->
+	</div>
+        </div>
+        
+                        <div class="board-widget-container">
+   <div class="hd">
+      <h3>
+                  头条推荐
+      </h3>
+   </div>
+   
+   <div class="bd">
+      <h3 class="news-top-head"><a href="http://bbs.home.163.com/photoalbum/chuishui/590144247.html" target="_blank">法国百姓的真实生活</a></h3>
+      <ul class="news-list">
+                     <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/591694189.html">纽约街头的流浪者</a></li>                     <li><a href="http://bbs.news.163.com/boardset/pp.html" target="_blank">[易拍天下]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/pp/590738709.html">雄伟壮观的秦王宫</a></li>                     <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/591390140.html">猎豹与黑斑羚和谐相处</a></li>                     <li><a href="http://bbs.travel.163.com/boardset/tuyou.html" target="_blank">[图游天下]</a> <a target="_blank" href="http://bbs.travel.163.com/bbs/tuyou/591311918.html">红河元阳梯田</a></li>                                                                                                                                             </ul>
+   </div>
+</div>
+<!--广告1-->
+<!-- <div style="display:block; margin-bottom:10px;">
+<iframe src="http://popme.163.com/link/015794_0513_321.html" width="240" height="240" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"> </iframe>
+</div> -->
+<div class="board-widget-container">
+   <div class="hd">
+      <h3>
+                  头条推荐
+      </h3>
+   </div>
+   
+   <div class="bd">
+      <ul class="news-list">
+                                                                                                         <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/591126058.html">少年挑战高楼拍照</a></li>                     <li><a href="http://bbs.news.163.com/boardset/pp.html" target="_blank">[易拍天下]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/pp/589728734.html">万安老街</a></li>                     <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/591127115.html">实拍俄罗斯壮美夜空</a></li>                     <li><a href="http://bbs.travel.163.com/boardset/youji.html" target="_blank">[原创游记]</a> <a target="_blank" href="http://bbs.travel.163.com/bbs/youji/589156960.html">嵩口古镇</a></li>                     <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/590506586.html">废弃监狱成景点</a></li>                     <li><a href="http://bbs.news.163.com/boardset/hometown.html" target="_blank">[我的故乡]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/hometown/589863942.html">渔民捕鱼全过程</a></li>               </ul>
+   </div>
+</div>
+<!--广告2-->
+<!-- <div style="display:block; margin-bottom:10px;"><a target="_blank" href="http://love.163.com"><img src="http://img4.cache.netease.com/life/2014/3/31/20140331184012f4ba1.jpg" border="0" height="150" width="240" alt=""></a></div> -->
+<!--广告3-->
+<!-- <div style="display:block; margin-bottom:10px;"><a target="_blank" href="http://m.163.com/openapp/"><img src="http://img2.126.net/xoimages/default/2012/240x100.jpg" border="0" height="200" width="240" alt=""></a></div> -->
+<div class="board-widget-container">
+   <div class="hd">
+      <h3>
+               论坛贴图
+      </h3>
+   </div>
+   
+      <div class="bd">
+      <ul class="news-photo-list">
+                  <li title="卢宅的精美木雕">
+            <a href="http://bbs.news.163.com/photoalbum/pp/591359579.html" target="_blank" >
+               <img width="100" height="75" alt="卢宅的精美木雕" src="http://img5.cache.netease.com/cnews/2015/12/21/20151221084112049bc.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/photoalbum/pp/591359579.html" target="_blank">卢宅的精美木雕</a></p>
+         </li>
+                  <li title="嵩口古镇">
+            <a href="http://bbs.travel.163.com/bbs/youji/589156960.html" target="_blank" >
+               <img width="100" height="75" alt="嵩口古镇" src="http://img2.cache.netease.com/cnews/2015/12/18/20151218084446aa5ef.jpg" />
+            </a>
+            <p><a href="http://bbs.travel.163.com/bbs/youji/589156960.html" target="_blank">嵩口古镇</a></p>
+         </li>
+                  <li title="野生娃娃鱼">
+            <a href="http://bbs.news.163.com/photoalbum/photo/590798061.html" target="_blank" >
+               <img width="100" height="75" alt="野生娃娃鱼" src="http://img6.cache.netease.com/cnews/2015/12/17/20151217084848d1fc2.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/photoalbum/photo/590798061.html" target="_blank">野生娃娃鱼</a></p>
+         </li>
+                  <li title="石臼湖的天鹅">
+            <a href="http://bbs.news.163.com/photoalbum/pp/590344232.html" target="_blank" >
+               <img width="100" height="75" alt="石臼湖的天鹅" src="http://img5.cache.netease.com/cnews/2015/12/16/201512160836404dc2c.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/photoalbum/pp/590344232.html" target="_blank">石臼湖的天鹅</a></p>
+         </li>
+                  <li title="资江美景">
+            <a href="http://bbs.news.163.com/bbs/hometown/590344042.html" target="_blank" >
+               <img width="100" height="75" alt="资江美景" src="http://img4.cache.netease.com/cnews/2015/12/15/20151215082944246f6.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/bbs/hometown/590344042.html" target="_blank">资江美景</a></p>
+         </li>
+                  <li title="古代瓷器艺术展">
+            <a href="http://bbs.news.163.com/photoalbum/pp/589781632.html" target="_blank" >
+               <img width="100" height="75" alt="古代瓷器艺术展" src="http://img2.cache.netease.com/cnews/2015/12/14/201512140838039b730.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/photoalbum/pp/589781632.html" target="_blank">古代瓷器艺术展</a></p>
+         </li>
+               </ul>
+   </div>
+   </div>
+<!--广告4-->
+<!-- <div style="display:block; margin-bottom:10px;">
+<embed src="http://img1.126.net/channel4/016268/kdlk240500_0328.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="opaque"  width="240" height="500"></embed>
+</div> -->
+<div class="board-widget-container">
+   <ul class="hd clearfix" id="js-menuBar">
+      <li class="on">推荐</li>
+      <li>时尚</li>
+      <li>达人</li>
+      <li class="last">应用</li>
+   </ul>
+      <div class="bd" id="js-menuTab">
+      <div class="normal on">
+         <ul class="news-photoTab-list clearfix">
+                        <li title="全民奇迹周年庆" >
+               <a href="http://go.163.com/2015/1208/mu/" target="_blank" >
+                  <img width="100" height="75" alt="全民奇迹周年庆" src="http://img1.cache.netease.com/cnews/2015/12/9/201512091029130ed1c.jpg" />
+               </a>
+               <p><a href="http://go.163.com/2015/1208/mu/" target="_blank">全民奇迹周年庆</a></p>
+            </li>
+                        <li title="纪念抗战胜利"  class="marginR0" >
+               <a href="http://war.163.com/special/dfkangzhan/" target="_blank" >
+                  <img width="100" height="75" alt="纪念抗战胜利" src="http://img4.cache.netease.com/cnews/2015/6/18/20150618172555fb7bd.png" />
+               </a>
+               <p><a href="http://war.163.com/special/dfkangzhan/" target="_blank">纪念抗战胜利</a></p>
+            </li>
+                        <li title="曝光天国阶梯" >
+               <a href="http://bbs.gz.house.163.com/photoalbum/showing/330447225.html" target="_blank" >
+                  <img width="100" height="75" alt="曝光天国阶梯" src="http://img3.cache.netease.com/cnews/2013/6/16/20130616083415c9662.jpg" />
+               </a>
+               <p><a href="http://bbs.gz.house.163.com/photoalbum/showing/330447225.html" target="_blank">曝光天国阶梯</a></p>
+            </li>
+                        <li title="航天员真实生活"  class="marginR0" >
+               <a href="http://bbs.news.163.com/photoalbum/photo/330046625.html" target="_blank" >
+                  <img width="100" height="75" alt="航天员真实生活" src="http://img4.cache.netease.com/cnews/2013/6/16/201306160833555eeb0.jpg" />
+               </a>
+               <p><a href="http://bbs.news.163.com/photoalbum/photo/330046625.html" target="_blank">航天员真实生活</a></p>
+            </li>
+                     </ul>
+      </div>
+             <div class="normal">
+         <ul class="news-photoTab-list clearfix">
+                        <li title="脸小猫OL范" >
+               <a href="http://126.am/5HRRK2" target="_blank" >
+                  <img width="100" height="75" alt="脸小猫OL范" src="http://img4.cache.netease.com/2008/2014/1/24/201401241629526700a.jpg" />
+               </a>
+               <p><a href="http://126.am/5HRRK2" target="_blank">脸小猫OL范</a></p>
+            </li>
+                        <li title="Kayi：赫本风"  class="marginR0" >
+               <a href="http://kayitusiji.blog.163.com/blog/static/212063090201402111222769/" target="_blank" >
+                  <img width="100" height="75" alt="Kayi：赫本风" src="http://img2.cache.netease.com/2008/2014/1/24/201401241630077689a.jpg" />
+               </a>
+               <p><a href="http://kayitusiji.blog.163.com/blog/static/212063090201402111222769/" target="_blank">Kayi：赫本风</a></p>
+            </li>
+                     </ul>
+         <ul class="news-list">
+                        <li>
+               <a href="http://126.am/P0zN74" target="_blank">禁区姐姐：陪伴我度过2013的小伙伴们</a>
+            </li>
+                        <li>
+               <a href="http://aiqinqinxinxin.blog.163.com/blog/static/22860710620140218411024/" target="_blank">亲亲新新：Roses Roses I Love You</a>
+            </li>
+                        <li>
+               <a href="http://yanyan860414.blog.163.com/blog/static/48824314201402115029590/" target="_blank">小夜：美美地迎接新年</a>
+            </li>
+                        <li>
+               <a href="http://lhqmaggie.blog.163.com/blog/static/229469084201402193622688/" target="_blank">北北：给女人特别的呵护</a>
+            </li>
+                        <li>
+               <a href="http://xinxilily.blog.163.com/blog/static/22914008220140204464543/" target="_blank">Lily：抗老从内到外</a>
+            </li>
+                     </ul>
+      </div>
+            <div class="normal">
+         <ul class="news-photoTab-list clearfix">
+                        <li title="vivianxu" >
+               <a href="http://vivianxu1105.blog.163.com/blog/static/13805735520140220481488/" target="_blank" >
+                  <img width="100" height="75" alt="vivianxu" src="http://img3.cache.netease.com/2008/2014/1/24/2014012416284753858.jpg" />
+               </a>
+               <p><a href="http://vivianxu1105.blog.163.com/blog/static/13805735520140220481488/" target="_blank">vivianxu</a></p>
+            </li>
+                        <li title="蜜蜜"  class="marginR0" >
+               <a href="http://pigssss.blog.163.com/blog/static/22919411220140212541428/" target="_blank" >
+                  <img width="100" height="75" alt="蜜蜜" src="http://img3.cache.netease.com/2008/2014/1/24/20140124162906ad2e6.jpg" />
+               </a>
+               <p><a href="http://pigssss.blog.163.com/blog/static/22919411220140212541428/" target="_blank">蜜蜜</a></p>
+            </li>
+                        <li title="许小丫" >
+               <a href="http://iamyababy.blog.163.com/blog/static/17910806620140207484372/" target="_blank" >
+                  <img width="100" height="75" alt="许小丫" src="http://img2.cache.netease.com/2008/2014/1/24/20140124162924fbbbf.jpg" />
+               </a>
+               <p><a href="http://iamyababy.blog.163.com/blog/static/17910806620140207484372/" target="_blank">许小丫</a></p>
+            </li>
+                        <li title="小树幸福"  class="marginR0" >
+               <a href="http://wewe5555.blog.163.com/blog/static/17541245820140211431157/" target="_blank" >
+                  <img width="100" height="75" alt="小树幸福" src="http://img6.cache.netease.com/2008/2014/1/24/201401241629391b725.jpg" />
+               </a>
+               <p><a href="http://wewe5555.blog.163.com/blog/static/17541245820140211431157/" target="_blank">小树幸福</a></p>
+            </li>
+                     </ul>
+      </div>
+            <div class="normal">
+         <ul class="news-photoSml-list clearfix">
+                                    <li title="豌豆荚一览 - 1 分钟看完所有应用的最新内容（高效率阅读头条新闻资讯娱" >
+               <a href="http://m.163.com/iphone/software/32ptl7.html" target="_blank" >
+                  <img width="47" height="47" alt="豌豆荚一览 - 1 分钟看完所有应用的最新内容（高效率阅读头条新闻资讯娱" src="http://imgm.ph.126.net/siHx6VpzclXUzYJxn9K1kw==/6631222796840525255.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32ptl7.html" target="_blank">豌豆荚一览 - 1 分钟看完所有应用的最新内容（高效率阅读头条新闻资讯娱</a></p>
+            </li>
+                                                <li title="蛋糕物语（网易出品最浪漫社交经营手游）" >
+               <a href="http://m.163.com/iphone/software/32pnai.html" target="_blank" >
+                  <img width="47" height="47" alt="蛋糕物语（网易出品最浪漫社交经营手游）" src="http://imgm.ph.126.net/JYLK1RS_RljPhR7xt4s2Xw==/6608901611283602312.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32pnai.html" target="_blank">蛋糕物语（网易出品最浪漫社交经营手游）</a></p>
+            </li>
+                                                <li title="网易财经-股票、基金、证券资讯直播"  class="marginR0" >
+               <a href="http://m.163.com/iphone/software/32n37f.html" target="_blank" >
+                  <img width="47" height="47" alt="网易财经-股票、基金、证券资讯直播" src="http://imgm.ph.126.net/RzSThqXOi_shBqBM7_11FA==/1543890247276055620.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32n37f.html" target="_blank">网易财经-股票、基金、证券资讯直播</a></p>
+            </li>
+                                                <li title="猫和老鼠官方手游——金秋十月，新学堂场景，汤姆大逆袭" >
+               <a href="http://m.163.com/iphone/software/32pn6j.html" target="_blank" >
+                  <img width="47" height="47" alt="猫和老鼠官方手游——金秋十月，新学堂场景，汤姆大逆袭" src="http://imgm.ph.126.net/HuAhNgEImJHiB7Tx1bdWcA==/1077486210866620866.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32pn6j.html" target="_blank">猫和老鼠官方手游——金秋十月，新学堂场景，汤姆大逆袭</a></p>
+            </li>
+                                                <li title="网易考拉海购—全球海淘自营正品" >
+               <a href="http://m.163.com/iphone/software/32plug.html" target="_blank" >
+                  <img width="47" height="47" alt="网易考拉海购—全球海淘自营正品" src="http://imgm.ph.126.net/ARp1nkVOSLrAdFkHkCnbBQ==/983473568645593075.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32plug.html" target="_blank">网易考拉海购—全球海淘自营正品</a></p>
+            </li>
+                                                <li title="魔天记（全新）-1v1斗法竞技手游"  class="marginR0" >
+               <a href="http://m.163.com/iphone/software/32pmf1.html" target="_blank" >
+                  <img width="47" height="47" alt="魔天记（全新）-1v1斗法竞技手游" src="http://imgm.ph.126.net/1MhEusSEWBKQuiwrDwPZyQ==/6619127069422199092.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32pmf1.html" target="_blank">魔天记（全新）-1v1斗法竞技手游</a></p>
+            </li>
+                                                                                                                                                                                                                                 </ul>
+         <ul class="news-list">
+                        <li>
+               <a href="http://miaomiaominy.blog.163.com/blog/static/2291070772014021260109/" target="_blank">喵喵Miny：打开毛孔，接受爱吧</a>
+            </li>
+                        <li>
+               <a href="http://m181819517.blog.163.com/blog/static/187295066201402104155224/" target="_blank">monmon：年前补水美白篇</a>
+            </li>
+                     </ul>
+      </div>
+   </div>
+</div>
+
+<div class="board-widget-container">
+   <div class="hd">
+      <h3>
+                  论坛活动
+      </h3>
+   </div>
+   <div class="bd">
+                            <a href="http://digibbs.tech.163.com/bbs/weisheying/562152679.html" target="_blank" class="news-image-top"><img src="http://img4.cache.netease.com/cnews/2015/6/30/20150630222414ee756.jpg"
+                 alt="网易数码摄影大赛第31期" title="网易数码摄影大赛第31期" />
+           </a>
+                        <ul class="news-list">
+                  <li>
+            <a href="http://bbs.travel.163.com/bbs/tuyou/582474052.html" target="_blank">图游有奖活动【我在秋色中撒娇】</a>
+         </li>
+                  <li>
+            <a href="http://digibbs.tech.163.com/bbs/shumadaren/518753764.html" target="_blank">达人试机团 万元徕卡高端相机免费试用</a>
+         </li>
+                  <li>
+            <a href="http://digibbs.tech.163.com/bbs/shumadaren/518718196.html" target="_blank">说陪伴你身边的智能硬件 赢智能水杯</a>
+         </li>
+                  <li>
+            <a href="http://service.bbs.163.com/bbs/doings/500638832.html" target="_blank">扫码+发帖 赢取小狗电器情人节大礼</a>
+         </li>
+                  <li>
+            <a href="http://service.bbs.163.com/bbs/doings/494023505.html" target="_blank">说出你的旅行梦 七洲网帮你实现</a>
+         </li>
+               </ul>
+   </div>
+</div>
+
+<div class="board-widget-container">
+   <div class="hd">
+      <h3>
+                  热点话题
+      </h3>
+   </div>
+   <div class="bd">
+      <div class="news-top-item">
+                                       <a href="http://digibbs.tech.163.com/bbs/weisheying/562152679.html" target="_blank">
+               <img width="100" height="75" alt="网易数码摄影大赛" title="网易数码摄影大赛" src="http://img3.cache.netease.com/cnews/2015/6/30/2015063022273954a06.jpg">
+             </a>
+             <h3>
+               <a href="http://digibbs.tech.163.com/bbs/weisheying/562152679.html" target="_blank">网易数码摄影大赛</a>
+             </h3>
+             <p>我眼中的似水流年作品征集<span class="red"><a href="http://digibbs.tech.163.com/bbs/weisheying/562152679.html" target="_blank">[详细]</a></span></p>
+                                      </div>
+      <ul class="news-list">
+                  <li>
+            <a href="http://bbs.ent.163.com/bbs/bagua/503674338.html" target="_blank">汪峰章子怡童年照</a>
+         </li>
+                  <li>
+            <a href="http://bbs.gz.house.163.com/photoalbum/trips/502151092.html" target="_blank">最富有的东欧国家</a>
+         </li>
+                  <li>
+            <a href="http://bbs.gz.house.163.com/photoalbum/trips/502208904.html" target="_blank">中国最贫穷的地方</a>
+         </li>
+                  <li>
+            <a href="http://bbs.163.com/special/0015sp/dashumantan_71.html" target="_blank">在香港上公厕有多难</a>
+         </li>
+                  <li>
+            <a href="http://bbs.163.com/special/0015sp/dashumantan_69.html" target="_blank">盖茨劝中国富人做慈善</a>
+         </li>
+               </ul>
+   </div>
+</div>
+
+<div class="board-widget-container" id="user_top">
+   <div class="hd">
+      <h3>
+                  24小时热帖榜
+      </h3>
+   </div>
+   <div class="bd">
+      <ul>
+                  <li>
+            <span class="num hot" >
+                     1
+            </span>
+            <a href="http://bbs.news.163.com/bbs/shishi/591818785.html" target="_blank" title="[原创]电工为抢修砍树被罚300元，忒冤！">[原创]电工为抢修砍树被罚3..</a>
+         </li>
+                  <li>
+            <span class="num hot" >
+                     2
+            </span>
+            <a href="http://bbs.news.163.com/bbs/shishi/591789795.html" target="_blank" title="[原创]伟大的人民公仆：纪念毛泽东同志诞辰122周年特辑[配字图片集锦收藏]">[原创]伟大的人民公仆：纪念..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     3
+            </span>
+            <a href="http://bbs.news.163.com/bbs/guoji/591776419.html" target="_blank" title="睿：所谓万科宝能之争，看了本人11月17日发帖。。">睿：所谓万科宝能之争，看了本..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     4
+            </span>
+            <a href="http://bbs.news.163.com/bbs/country/591782797.html" target="_blank" title="&quot;中国梦&quot;与中国百姓的梦(原)">&quot;中国梦&quot;与中国百姓的梦(原..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     5
+            </span>
+            <a href="http://bbs.news.163.com/bbs/country/591784003.html" target="_blank" title="【2015年最搞笑的新闻，不晓得的人还以为是段子】">【2015年最搞笑的新闻，不..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     6
+            </span>
+            <a href="http://bbs.news.163.com/bbs/pp/591783233.html" target="_blank" title="【原创摄影】《丽江千古情》震撼千古">【原创摄影】《丽江千古情》震..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     7
+            </span>
+            <a href="http://bbs.news.163.com/bbs/guoji/591806292.html" target="_blank" title="就怕灰心">就怕灰心</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     8
+            </span>
+            <a href="http://bbs.news.163.com/bbs/country/591788395.html" target="_blank" title="【2015那些温暖人心的盘点，给人带来阳光！】">【2015那些温暖人心的盘点..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     9
+            </span>
+            <a href="http://bbs.news.163.com/bbs/guoji/591810915.html" target="_blank" title="[原创]美对台军售，我制裁有效否？">[原创]美对台军售，我制裁有..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     10
+            </span>
+            <a href="http://bbs.news.163.com/bbs/country/591785903.html" target="_blank" title="【有钱任性！月薪过万美女辞职后种地 田间抚琴】">【有钱任性！月薪过万美女辞职..</a>
+         </li>
+               </ul>
+   </div>
+</div>
+<!--延长线-->
+<!-- <script style="text/javascript">
+var LeftBox="#tie_wrapper";
+var MinWidth = 1340;
+var RightBox="#tie_addtion";
+var RightBoxPr=4;
+var GtflAdForBBs=[{
+	"name":"FLashObject240530",
+	"width":"240",
+	"height":"600",
+	"src":"http://img1.126.net/channel4/015794/gh240600_0513.swf",//素材地址
+	"url":"http://g.163.com/a?CID=28229&Values=772833867&Redirect=http://www.kuaichale.com/hot/ltw/?from=163lt_Y"
+}];
+</script>
+<script language="javascript"; src="http://img2.126.net/ntesrich/auto/adbox/adbox-v1.1.2-120705.js"></script>
+<script language="javascript"; src="http://img2.126.net/ntesrich/temp/float_logo_gt20140416_1_bbs.js"></script> -->
+<iframe
+src="http://g.163.com/a?CID=28580&actionId=imp" width="1" height="1" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+</iframe>
+                <!--"/htmlfile/post_side/news.html"-->
+        
+        <!-- 右侧栏底部广告 -->
+        <div class="tie-right-ad">
+            <div id="youdao_ad_art_2" style="display:block;"></div>
+            <!--"/htmlfile/side_2009/article_side_bottom_ad.html"-->
+        </div>
+    </div>
+</div>
+
+   <!--帖子页底部广告-->
+   <div class="tie-bottom-ad">
+       <div style="padding-left:15px;display:none;"><embed src="http://img1.126.net/channel2/006796/006796_65060_091225.swf" 
+pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?
+P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" play="true" loop="true" quality="high" scale="showall" menu="true" width="650" height="80"></embed></div>
+       <!--"/htmlfile/bottom/bbs_news/news_article_bottom.html"-->
+   </div>
+        <div id="footer" class="footer">
+        <div class="police"><img src="http://bbs.163.com/bbs/img/police.gif"><div class="text"><a href="http://www.bj.cyberpolice.cn/index.htm">网络110<br>报警服务</a></div></div>
+        <div class="footText">
+            <a href="http://corp.163.com/">About NetEase</a> - <a href="http://gb.corp.163.com/gb/about/overview.html">公司简介</a> - <a href="http://gb.corp.163.com/gb/contactus.html">联系方法</a> - <a href="http://corp.163.com/gb/job/job.html">招聘信息</a> - <a href="http://help.163.com/ ">客户服务</a> - <a href="http://gb.corp.163.com/gb/legal.html">相关法律</a> - <a href="http://emarketing.biz.163.com/">网络营销</a>  - <a href="http://sitemap.163.com/">网站地图</a><br>
+            网易公司版权所有<br>
+            <span class="cRed">&copy;1997-2015</span>
+        </div>
+    </div>
+        <div id="scroll_to_top"></div>    <div id="dialog_login">
+    <form id="login_form" action="https://reg.163.com/logins.jsp" method="post" >
+        <input type="hidden" name="type" value="1" />
+        <input type="hidden" name="url" id="login_url" />
+        <input type="hidden" name="product" value="bbs" />
+        <div class="row">
+            <label> 帐号:
+                <input id="account" name="username" type="text" tabindex="1" />
+            </label>
+            <a href="http://reg.163.com/reg/reg.jsp?product=bbs&loginurl=http://bbs.163.com&url=" style="color:#BA2636;"  target="_blank">注册通行证</a>
+        </div>
+        <div class="row">
+            <label> 密码:
+                <input name="password" type="password" class="password" tabindex="2" />
+            </label>
+            <a href="http://reg.163.com/RecoverPassword.shtml" target="_blank">忘记密码？</a>
+        </div>
+        <div class="checkbox row">
+            <label>
+                <input name="savelogin" type="checkbox" value="1" tabindex="3" /> 下次自动登录
+            </label>
+            <!--
+            <label>
+                <input name="savelogin" type="checkbox" value="1" tabindex="4" /> 记住密码
+            </label>
+            -->
+        </div>
+        <div class="btn-set">
+            <span class="ui-button btn-login ui-button-on" tabindex="5">登录</span>
+            <span class="ui-button btn-cancel">取消</span>
+        </div>
+    </form>
+</div>    <div id="dialog_box">
+    <div id="dialog_form">
+    </div>
+</div>
+<script type="text/template" id="giftTemplate">
+<div id="giftBox">
+<div class="present_list_article">
+<div id="giftItemWraper"></div>
+<div id="giftpager"></div>
+ <div>赠言(仅限<span style="color: red;">20</span>字以内）
+    <textarea id="remark" name="remark" cols="35" class="gift-text" ></textarea>
+</div>
+</div>
+</div>
+</script>
+<script type="text/template" id="reportTemplate">
+          <div style="margin-bottom:5px;">请注明投诉原因:</div>
+          <textarea name="content" id="reportcontent"></textarea>
+</script>
+<script type="text/template" id="moveTemplate">
+<div class="dialog_c_wraper">
+<table>
+<tr><td>复制到</td></tr>
+<tr><td> <select id="moveChannelName" name="destDbname"></select></td></tr>
+<tr><td><select id="selectBoardid" name="selectBoardid"><option value="-1">请选择</option></select></td></tr>
+<tr><td>自定义版面ID：<input type="text" value="" id="destBoardid" name="destBoardid"></td></tr>
+<tr><td><input type="checkbox" id="isDelete" name="isDelete"><label for="isDelete">删除原始帖子</label></td></tr>
+</table>       
+</script>
+<script type="text/template" id="pushThread">
+   <div class="dialog_c_wraper">
+  <table>
+ <tr>
+ <td>范围:</td>
+ <td>
+     <select name="boardid" id="pushThreadScope">
+    </select>
+ </td></tr>
+ </table>
+ </div>
+ </div>
+</script>
+<script type="text/template" id="blackUserTemplate">
+ <div class="dialog_c_wraper">
+ <table>
+ <tr><td>通行证:</td><td><span id="userpassport"></span></td></tr>
+ <tr><td>昵  称:</td><td><span id="userusername"></span></td></tr>
+ <tr><td>加黑理由:</td><td><textarea id="userreason"></textarea></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="eliteTemplate">
+<div class="dialog_c_wraper">
+ <table>
+ <tr><td><div class="dialog_box_message">选择精华分类:</div></td></tr>
+ <tr><td><select id="eliteChannel">
+ <option value="-1">未分类</option>
+ </select></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="deliteTemplate">
+<div class="dialog_c_wraper">
+ <table>
+ <tr><td><div class="dialog_box_message">取消加精华</div></td></tr>
+ <tr><td><span id="eliteChannelLabel"></span></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="recommendTemplate">
+<div class="dialog_c_wraper">
+ <table>
+ <tr><td><div class="dialog_box_message">选择推荐分类:</div></td></tr>
+ <tr><td><select id="recommendChannel">
+  <option value="-1">未分类</option>
+ </select></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="drecommendTemplate">
+<div class="dialog_c_wraper">
+ <table>
+ <tr><td><div class="dialog_box_message">取消推荐</div></td></tr>
+ <tr><td><span id="recommendChannelLabel"></span></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="blackTemplate">
+    <div class="dialog_c_wraper">
+	<table>
+			 <tr><td>范围:</td><td>
+			    <select name="boardid" id="blackBoardId">
+                </select>
+			 </td></tr>
+			 <tr><td>通行证:</td><td><span id="blacklist_passport"></span></td></tr>
+			 <tr><td>昵称</td><td><span id="blacklist_nickname"></span></td></tr>
+			 <tr><td>封权人</td><td><span id="ban_people"></span></td></tr>
+			 <tr><td>加黑时间</td><td>
+			      <select name="deltime">
+                    <option value="1">24小时</option>
+                    <option selected="selected" value="2">3天</option>
+                    <option value="3">一周</option>
+                    <option value="4">一个月</option>
+                    <option value="5">三个月</option>
+                    <option value="6">半年</option>
+                    <option value="7">一年</option>
+                </select>
+			 </td></tr>
+			 <tr><td>加黑理由</td><td>
+			      <select name="reason">
+                    <option value="广告" selected="selected">广告</option>
+                    <option value="色情">色情</option>
+                    <option value="刷屏">刷屏</option>
+                    <option value="谩骂">谩骂</option>
+                    <option value="不和谐">不和谐</option>
+                    <option value="其它违规">其它违规</option>
+                </select>
+			 </td></tr>
+	</table>
+	</div>
+</script>
+<script type="text/template" id="ipTemplate">
+<div class="dialog_c_wraper">   
+   <table>
+			 <tr><td><strong style="width:50px;">发贴用户:</strong></td><td><span id="black_nickname"></span></td></tr>
+			 <tr><td><strong>发贴IP:</strong></td><td><span id="black_ip"></span></td></tr>
+			 <tr><td><strong>加黑理由</strong></td><td><input type="text" size="25" value="广告" id="black_reason"/></td></tr>
+			 <tr><td></td><td><input type="checkbox" id="blackipchk"/> 删除该IP在当前频道3天内的贴子</td></tr>
+	</table>
+</div>
+</script>
+<script type="text/template" id="listTemplate">
+    <table id="listtable" cellpadding="0" cellspacing="0">
+    <thead id="listhead">
+    </thead>
+    <tbody id="listbody">
+    </tbody>
+    </table>
+	<div id="listpager"></div>
+</script>
+
+<script type="text/template" id="sendMessageTemplate">
+    <div class="message_sendbox">
+        <table>
+		<tr>
+		<td></td>
+		<td><input type="text" readonly="readOnly" value="" class="inputBox inputBox-name" name="username" id="message_name" style="display:none;"></td>
+		</tr>
+		<tr>
+		<td><label>昵 称:</label></td>
+		<td><span id="nickname"></span></td>
+		</tr>
+		<tr>
+		<td><label for="message_content">内	容:</label></td>
+		<td><textarea class="inputBox"  id="message_content"></textarea></td>
+		</tr>
+		<tr>
+		<td></td>
+		<td>        
+		<span id="numTips">还可输入<span id="msgBytes">127</span>个字</span>
+	    <div id="errornumTips">已经超出<span id="msgerrorBytes"></span>个字</div>
+		</td>
+		</tr>
+		<tr>
+		<td><label>验证码:</label></td>
+		<td>
+		 <div class="vertifyCode">
+			<input type="text" maxlength="4" class="inputBox inputBox-name"  name="checkcode" id="checkcode" size="20"> <img alt="看不清，换一张" src="/v2/checkcode/codeimg" id="imgcheckcode"><a id="changeCode" style="display:inline;" href="javascript:;">换一张</a>
+		 </div>
+		</td>
+		</tr>
+		</table>
+    </div>
+</script>
+
+<script type="text/template" id="recTemplate">
+     <div class="guess-area">
+         <div class="guess-area-hd"><h3>猜你喜欢</h3></div>
+            <div class="guess-area-bd">
+                <div class="guess-pic">
+                            <a target="_blank" href="<#=headRec.url#>?from=<#=dbname#>top" title="<#=headRec.title#>"><img src="<#=headRec.imgsrc#>" /></a>
+                            <h4><a target="_blank" href="<#=headRec.url#>?from=<#=dbname#>top" title="<#=headRec.title#>"><#=headRec.title#></a></h4>
+                        </div>
+                        <div class="guess-list">
+                              <h4><a target="_blank" title="<#=lineRec.title#>" href="<#=lineRec.url#>?from=<#=dbname#>tol"><#=lineRec.title#></a></h4>
+                            <ul> 
+                            <#for(var i=0;i<recommends.length;i++){#>
+                                <li><a target="_blank" title="<#=recommends[i].title#>" href="<#=recommends[i].url#>?from=<#=dbname#>toc""><#=recommends[i].title#></a></li>
+                            <#}#>
+                            </ul>
+                <a target="_blank" href="http://t.163.com/BBS">关注论坛官方微博 &gt;</a>
+            </div>
+         </div>
+     </div>
+</script>
+    
+   <script type="text/javascript">
+                  var global_channel="shishi";
+                                     var isNeedLoginPost=true;
+                                    
+                  
+                                      var isRecommend=true;
+                                    
+   </script>
+
+
+<script type="text/javascript" src="http://img1.cache.netease.com/bbs/static/20150917/forum_tie.js" charset="GBK"></script>
+<div style="display:none;">
+<iframe height="22" frameborder="no" width="960" scrolling="no" name="ad_pop" marginheight="0" marginwidth="0" border="0" src="http://baby.163.com/?channel=news&type=post"></iframe>
+</div> 
+<script type="text/javascript">	
+			oEditor.set({ html: '' });	
+</script>
+
+<script src="http://analytics.163.com/ntes.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+_ntes_nacc = "news";
+neteaseTracker();
+</script>
+<!-- START WRating v1.0 -->
+<script type="text/javascript" src="http://163.wrating.com/a1.js"></script>
+<script type="text/javascript">
+var vjAcc="860010-0502020100";
+var wrUrl="http://163.wrating.com/";
+vjTrack();
+</script>
+<noscript><img src="http://163.wrating.com/a.gif?c=860010-0502020100" width="1" height="1"/></noscript>
+<!-- END WRating v1.0 -->
+</body>
+</html>	
+

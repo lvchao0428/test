@@ -1,0 +1,454 @@
+<!--UINFO: http://www.xici.net/b1455336/bderror.asp?s=UnAccess	length=28779&last_modified=0&time_saved=1450676755&charset=GB2312-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="alternate" type="application/rss+xml" title="订阅浙江省污点曝光"  href="rss.asp">
+<title>浙江省污点曝光_丽水人文论坛_西祠胡同</title>
+<meta http-equiv="cache-control" content="no-transform " />
+<meta http-equiv="content-type" content="text/html; charset=gb2312" />
+<meta http-equiv="content-language" content="gb2312" />
+<meta name="keywords" content="浙江省污点曝光"/>
+<meta name="description" content="浙江省污点曝光 "/>
+<link rel="icon" href="http://imgs.xici.net/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://imgs.xici.net/favicon.ico" type="image/x-icon" />
+<link href="http://imgs.xici.net/_common/styles/base.css?t=201301151" rel="stylesheet" />
+<link href="http://imgs.xici.net/_common/styles/style.css?t=201404281" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://imgs.xici.net/_common/styles/home-min.css?t=201303131" />
+<script language="JavaScript" type="text/javascript" src="http://imgs.xici.net/_js/board.js?t=20150527"></script>
+<script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
+<script language="JavaScript" type="text/javascript">
+function swithcBookBT(flag, url){
+	if(flag == 'redirect'){
+		LoadandSwitUrl(url);
+		return true;
+	}
+	top.MDIlogin_OutRef('close');
+	if (flag == "true"){
+		document.getElementById("inOnline").style.display = "none";
+		document.getElementById("outBd").style.display = "";
+		if(document.getElementById("tips") && document.getElementById("tips").style.display != "none") document.getElementById("tips").style.display = "none";
+		if(top.document.getElementById('frameMenu')) top.document.getElementById('frameMenu').src = 'menu.asp?t=' + (new Date()).getTime();
+	}
+	
+}
+
+function LoadandSwitUrl(url){
+	if (url == '') url = "/" + location.href.substring(location.host.length + 8);
+
+	if (top == window){
+		location = url;
+	}else{
+		top.MDILoadFrSwitUrl(url);
+	}
+}
+
+function sendForm(outBdForm){
+	document.getElementById("div_outBd").style.display = "none";
+	outBdForm.h.value = H2(outBdForm.bd_id.value);
+}
+</script>
+<script language=javascript>var lSubBdId = 0;var lBdId = 1455336;</script>
+</head>
+<body>
+<script>var StatMainTag = "城市论坛" </script>
+<script language="JavaScript" type="text/javascript">
+	realPath='/b1455336/';
+	var bgSound='';
+	var lat=28.140357;var lng=120.311341;
+</script>
+
+<script language="javascript" type="text/javascript" src="http://imgs.xici.net/_js/pub.js?t=20120906"></script>
+<script language="javascript">{var d = new Date();d.setTime((new Date()).getTime() + 108000000);document.cookie = "desktop=1; domain=xici.net; path=/; expires=" + d.toGMTString();}</script>
+<script language="javascript">var strPageUrl = '/b1455336/bderror.asp?s=UnAccess';</script>
+<link href="http://imgs.xici.net/_common/styles/base.css?t=201301151" rel="stylesheet" />
+<link href="http://imgs.xici.net/_common/styles/style.css?t=201404281" rel="stylesheet" />
+<script src="http://imgs.xici.net/_js/GA.js?t=201401011"></script>
+
+<!--global_header:begin-->
+<div id="global_header">
+	<!--header_bar:begin-->
+	<div class="header_bar" id="header_bar">
+       <div class="header_logo" node-type="LOGO{$$}topnav" data-type="ga"><a class="logo_top" href="/" title="胡同口"></a></div>
+       <!--top_nav:begin-->
+       <ul class="top_nav">
+        <li node-type="胡同口{$$}topnav" data-type="ga"><a href="/" class="link">胡同口</a></li>
+        <li node-type="menu_list">
+        	
+            <!--chanel_box:begin-->
+             
+            <a href="javascript:;" class="link" id="cityname">广州<em></em></a>
+            <div class="tip_box o_city_box">
+            	<ul class="tip_list clear" id="hot_list">
+                </ul>
+            </div>
+        </li>
+        <!-- <li node-type="menu_list">
+        	<a href="javascript:;" class="link">游戏<em></em></a>
+			<div class="tip_box o_city_box" node-type="优惠频道{$$}topnav" data-type="ga">
+            	<ul class="tip_list">
+                <li><a href="http://huajia.xici.net/" target="_blank">结婚省米</a></li>
+                <li><a href="http://youxi.xici.net" target="_blank">游戏频道</a></li>
+                <li><a href="http://qipai.xici.6998.com/" target="_blank">网页棋牌</a></li>
+                <li><a href="http://www.xici.net/b1449976/" target="_blank">安卓游戏</a></li>
+                </ul>
+            </div>
+        </li> -->
+        <li node-type="手机版{$$}topnav" data-type="ga"><a href="/app.asp" class="link">手机版</a></li>
+    </ul>
+    <!--top_nav:end-->
+    <div class="top_search">
+       <input type="text" class="txt_search" id="search" node-type="公共头搜索{$$}topnav" data-type="ga" value="搜索版名、版号、关键词" />
+       <input type="button" value=" " node-type="公共头搜索{$$}topnav" data-type="ga" class="btn_search" onclick="doSearch();" />
+   </div>
+   <!--判断是否登录用户-->  
+           
+   <ul class="user_login">
+     <li class="mr-10" node-type="居委会{$$}topnav" data-type="ga"><a href="/b2488/" class="link">居委会</a></li>
+     <li class="mr-10" node-type="登录{$$}topnav" data-type="ga"><a title="登录" href="http://account.xici.net/login?refer=http://www.xici.net/b1455336/bderror.asp?s=UnAccess" class="link">登录</a></li>
+     <li node-type="注册{$$}topnav" data-type="ga"><a href="http://account.xici.net/register?refer=http://www.xici.net/b1455336/bderror.asp?s=UnAccess" title="注册" class="link">注册</a></li>
+ </ul>
+ 
+<!--飞语提示，默认先隐藏掉-->
+<div class="top_showtip" style="display:none" node-type="提示气泡{$$}topnav" data-type="ga"><p></p><a href="javascript:;" class="close_top_showtip" id = "notice_close"></a></div>
+<div id="global_notice" node-type="global_showtip"  style="display:none">
+    <span>尊敬的IE6/7/8浏览器的用户，胡同大妈教你在新版西祠玩的更舒服</span>
+    <a href="http://www.xici.net/d174003348.htm" class="blue">点击查看这里&gt;&gt;</a>
+    <a href="javascript:;" class="close_top_showtip"></a>
+</div>
+
+</div>
+<!--header_bar:end-->
+<div class="head_shadow"></div>
+</div>
+<!--global_header:end-->
+
+<script src="http://imgs.xici.net/_js/jquery-1.7.2.min.js"></script>
+<script src="http://imgs.xici.net/_js/jquery.plugins.js?t=201312061"></script>
+<script src="http://imgs.xici.net/_js/comm.js?t=20140912"></script>
+<div id="warp" class="warp">
+
+    <iframe width=1 height=1 marginwidth=0 marginheight=0 frameborder=0 scrolling=no src="/xiciservice/verify.asp"></iframe>
+
+<script language=javascript>
+
+    function PointCity(baseurl,url,setcityid,setlat,setlng,setrange) {
+        var Cfrm = document.citychangeform;
+        Cfrm.action = baseurl;
+        Cfrm.setcityid.value = setcityid;
+        Cfrm.setlat.value = setlat;
+        Cfrm.setlng.value = setlng;
+        Cfrm.setrange.value = setrange;
+        Cfrm.url.value = url;
+        
+        if(top != window){
+            parent.parent.notcity = setcityid;
+        }
+        
+        document.getElementById("submitcity").click();
+        parent.parent.updateFavs();
+    }
+</script>
+<form action="" method="post" name="citychangeform" style="display:none">
+    <input type="hidden" name="t" value="c" />
+    <input type="hidden" name="url" value="" />
+    <input type="hidden" name="setcityid" value="" />
+    <input type="hidden" name="setlat" value="" />
+    <input type="hidden" name="setlng" value="" />
+    <input type="hidden" name="setrange" value="" />
+    <input type="submit" name="submitcity" id="submitcity" value="确定" />
+</form>
+<script language="javascript">var xici_hotcity = new Array('南京;\/asia\/china\/huadong\/jiangsu\/nanjing','北京;\/asia\/china\/huabei\/beijing','上海;\/asia\/china\/huadong\/shanghai','苏州;\/asia\/china\/huadong\/jiangsu\/suzhou','深圳;\/asia\/china\/zhongnan\/guangdong\/shenzhen','南通;\/asia\/china\/huadong\/jiangsu\/nantong','扬州;\/asia\/china\/huadong\/jiangsu\/yangzhou','广州;\/asia\/china\/zhongnan\/guangdong\/guangzhou','无锡;\/asia\/china\/huadong\/jiangsu\/wuxi','成都;\/asia\/china\/xinan\/sichuan\/chengdu','济南;\/asia\/china\/huadong\/shandong\/jinan','徐州;\/asia\/china\/huadong\/jiangsu\/xuzhou','杭州;\/asia\/china\/huadong\/zhejiang\/hangzhou','芜湖;\/asia\/china\/huadong\/anhui\/wuhu','武汉;\/asia\/china\/zhongnan\/hubei\/wuhan','郑州;\/asia\/china\/zhongnan\/henan\/zhengzhou','盐城;\/asia\/china\/huadong\/jiangsu\/yancheng','常州;\/asia\/china\/huadong\/jiangsu\/changzhou','合肥;\/asia\/china\/huadong\/anhui\/hefei','青岛;\/asia\/china\/huadong\/shandong\/qingdao','西安;\/asia\/china\/xibei\/shannxi\/xian','泰州;\/asia\/china\/huadong\/jiangsu\/taizhou','石家庄;\/asia\/china\/huabei\/hebei\/shijiazhuang','沈阳;\/asia\/china\/dongbei\/liaoning\/shenyang','镇江;\/asia\/china\/huadong\/jiangsu\/zhenjiang','福州;\/asia\/china\/huadong\/fujian\/fuzhou','昆明;\/asia\/china\/xinan\/yunnan\/kunming','重庆;\/asia\/china\/xinan\/chongqing','广东;\/asia\/china\/zhongnan\/guangdong','兰州;\/asia\/china\/xibei\/gansu\/lanzhou','长沙;\/asia\/china\/zhongnan\/hunan\/changsha','淮安;\/asia\/china\/huadong\/jiangsu\/huaian','天津;\/asia\/china\/huabei\/tianjin','贵阳;\/asia\/china\/xinan\/guizhou\/guiyang','哈尔滨;\/asia\/china\/dongbei\/heilongjiang\/haerbin','太原;\/asia\/china\/huabei\/shanxi\/taiyuan','宿迁;\/asia\/china\/huadong\/jiangsu\/suqian','南宁;\/asia\/china\/zhongnan\/guangxi\/nanning','长春;\/asia\/china\/dongbei\/jilin\/changchun','保定;\/asia\/china\/huabei\/hebei\/baoding','佛山;\/asia\/china\/zhongnan\/guangdong\/foshan','厦门;\/asia\/china\/huadong\/fujian\/xiamen','连云港;\/asia\/china\/huadong\/jiangsu\/lianyungang','大连;\/asia\/china\/dongbei\/liaoning\/dalian','宁波;\/asia\/china\/huadong\/zhejiang\/ningbo','南昌;\/asia\/china\/huadong\/jiangxi\/nanchang','温州;\/asia\/china\/huadong\/zhejiang\/wenzhou','烟台;\/asia\/china\/huadong\/shandong\/yantai','泉州;\/asia\/china\/huadong\/fujian\/quanzhou','临沂;\/asia\/china\/huadong\/shandong\/linyi'
+);</script>
+
+	<style type="text/css">
+	.width_fix,.tab_sub,.board_t,.setup_alert,.navBar {width:960px;clear:both;}
+	.width_fix { text-align:left}
+	</style>
+	<link rel="stylesheet" type="text/css" media="screen" href="http://imgs.xici.net/_common/styles/board.css?t=20120728" />
+
+	<div class=width_fix>
+		<!-- 首通广告开始 -->
+		<script type="text/javascript">/*讨论版一通-960*90*/var cpro_id = "u1280625";</script><script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+		<!-- 首通广告结束 -->
+	</div>
+
+	<style>
+body{background-color:#FFFFFF;background-image:url(about:blank);background-attachment:fixed;}
+td,p,span,.p9,small,.doc_txt{color:#333333;}
+.tab_link,.tab_link:hover,.tab_link:visited {color:#000000;}
+a,a:hover,a:visited {color: #0000FF;}
+.title,.LightText {color:#FF0000;}
+.tab_sub {background-color:#6699EE;border-bottom-color:#2870E7;}
+.tab_sub td,.tab_sub a,.tab_sub a:hover,.tab_sub a:visited,.board_bg a,.board_bg a:hover,.board_bg a:visited{color:#000000;}
+.tab_normal {background-color:#84ADF1;border-left-color:#A3C1F4;border-right-color:#2870E7;}
+.tab_left {background-color:#84ADF1;border-left-color:#A3C1F4;}
+.tab_sel {color:#333333;background-color:#6699EE;border-left-color:#A3C1F4;border-right-color:#2870E7;}
+.tab_right {background-color:#84ADF1;border-right-color:#2870E7;}
+.tab_top,.tab_top_left,.tab_top_right,.tab_normal_td {border-bottom-color:#A3C1F4;}
+.tab_sel_td {border-bottom-color:#6699EE;}
+.board_t {border-bottom-color:#FFFFFF;}
+.board_bg {background-color:#DDDDDD;border-bottom-color:#B1B1B1;border-top-color:#FFFFFF;color:#000000;}
+.board_bg_0 {background-color:#F8F8F8;}
+.board_bg_1 {background-color:#EEEEEE;}
+.board_bg_0 td,.board_bg_1 td {border-top-color:#FFFFFF;}
+.visited a,.visited a:hover,.visited a:visited {COLOR: #800080;}
+.doc_td {border-top-color:#6699EE;border-bottom-color:#DDDDDD;}
+.doc_td2 {border-top-color:#6699EE;}
+.doc_sign {color:#FF0000;}
+.vote_bar {background-color:#FF3535;border-bottom-color:#CC0000;border-top-color:#FF0000;}
+.navi_left,.navi_right {border-bottom-color:#6699EE;color:#0000FF;}
+.navi_null,.navi_selected {border-color:#6699EE;}
+.navi_null,.navi_selected {border-color:#6699EE;}
+.sBdMenu {color:#000000;background-color:#6699EE;}
+.topic span a,.topic span a:visited {color:#0000FF}
+.topic, .topic a,.topic a:visited{color:#333333}
+.board_shop {background:#EEEEEE;}
+.shop_title {background-color:#DDDDDD;color:#000000;border-bottom-color:#6699EE;border-top-color:#FFFFFF;}
+.board_t_shop {border-color:#DDDDDD;}
+.board_bg_shop {background:#F8F8F8;}
+.topic_title {border-bottom-color:#6699EE;}
+</style>
+
+	<!-- Address Path -->
+
+	<script type="text/javascript">
+        setWeddingUrl(1455336,1208)
+	</script>
+
+	<iframe name="outBdFrame" style="display: none"></iframe>
+	<!--border info start-->    
+        <style>
+		.urlCss{ padding-top:5px}
+		.tips { position:absolute; background:#FFF; z-index:10; padding:20px; border:1px solid #b2d5ea; width:740px; display:none; line-height:24px;border-radius: 5px 5px 5px 5px;box-shadow: 2px 2px 3px #b2d5ea;}
+		.clearfix{ clear:both}
+		.bd_title { width:800px;}
+        .bd_info, .bd_tag { width:960px; margin:0 auto; text-align:left;zoom:1;}
+		.bd_info { position:relative; margin-top:30px}
+		.bd_info:after{content:".";	display:block;height:0;	clear:both;	visibility:hidden;}
+		.bd_tag { font-size:12px; height:24px; line-height:24px;}
+		.bd_tag:after{content:".";	display:block;height:0;	clear:both;	visibility:hidden;}		
+		.bd_info .bd_logo { float:left; margin-top:10px; position:relative; overflow:hidden;}
+		.bd_logo img { border-radius:10px;}
+		.bd_logo  .b_msg { font-size:14px;font-weight:700; color:#ffffff; width:150px; height:0;filter:alpha(opacity=0); opacity:0; background:#7a7772; position:absolute; text-align:center; line-height:0; bottom:0;}
+		.bd_logo  .b_msg:hover { color:#ffffff}
+		.bd_info .bd_content { width:800px; float:right}
+		.bd_content .bd_c { width:780px; display:inline-block}
+		.bd_nav .p9,.bd_m .p9 ,.bd_num .p9 { font-size:14px;}
+		.bd_info .bd_title { padding-top:10px; float:left;}
+		.bd_info .bd_m { float:left; margin-top:10px;}
+		.bd_info .bd_nav{ clear:left; float:left; width:800px;position:relative;height:16px; overflow:hidden}
+		.bd_nav{ margin-top:10px}
+		.bd_nav small { position:absolute; right:0;}
+		.bd_info .bd_topic_content {clear:left; float:left; width:790px;*width:800px; padding-right:10px; height:52px; overflow:hidden; position:relative;margin-top:5px;}
+		.bd_info .bd_topic_c {margin-right:15px;}
+		.bg_tips{ width:800px;margin:0px auto;text-align:left;margin-top:10px}
+		.bg_apply{ width:960px;height:30px;margin:0px auto; margin-top:20px; margin-bottom:20px; position:relative; text-align:left; }
+		.bg_apply .sendnow{background:url(http://imgs.xici.net/_img/btn_apply.gif) no-repeat; width:89px; height:30px; display:inline-block; float:left; margin-left:30px}
+		.bg_apply .bg_cfont{cursor:hand;font:normal 12px/2 宋体; float:left; padding-left:41px}
+		.tags { font-size:12px;}
+		.tags a { font-size:12px;}
+		.view_more { display:none; position:absolute; right:0; background:url(http://imgs.xici.net/_img/open_icon.png) no-repeat 13px 0; width:30px; height:30px;}
+		#bd_nav { width:960px; margin:10px auto; text-align:left; padding:0}
+		.hj_tip { position:relative; width:131px; border:1px solid #FC945A; background-color:#FEFFE5; border-radius:3px; height:24px;line-height:24px; color:#E50012;}
+		.square_bom {font-size: 12px;height: 15px;left: 25px;line-height: 1;position: absolute; bottom:-11px;  *bottom: -11px; _bottom:-11px;   color:#FC945A;}
+		.square_bom2 {color: #FEFFE5;font-size: 12px;line-height: 1;position: absolute; right: 0; bottom:5px; *bottom: 5px; _bottom:4px;   }
+		.tab_sel_td{ height:45px;}
+		.tip_word{padding-left:10px; color:#E50012;}
+		.hj_pop{ position:absolute; bottom:-35px; left:2px; width:133px;}
+		.board_num{ margin-right:10px;}
+		.bd_num{ margin-top:10px; width:100%; float:left; height:16px;}
+        </style>
+        <div class="bd_nav doc_txt" id="bd_nav" node-type="讨论版面包屑{$$}board{$$}人文|1455336" data-type="ga">
+			<a href="/" title="西祠首页">胡同口</a> &gt; <a  href='/cul/'>人文</a> &gt;
+			<a href="/b1455336/">浙江省污点曝光</a>
+		</div>
+        <div class="bd_info">
+        	<div class="tips"></div>
+        	<div class="bd_logo">
+				<img src='http://xiciimgs.xici800.com/board_1455336.jpg' id='bbslog'/>
+                
+            </div>
+            <div class="bd_content">
+            	<div class="bd_title">
+                        <div id="div_outBd" style="display:none">
+                            <form name="outBdForm" id="outBdForm" action="/board/bookBd.asp?book_type=quitbd" target="outBdFrame" method="post" onSubmit="sendForm(this)">
+                                <input type="hidden" name="bd_id" value="1455336" />
+                                <input type="hidden" name="h" value="" />
+                                <input type="hidden" name="isShow" value="none">
+                                <span class="tSpan"><img src="http://imgs.xici.net/_img/board/bookbd/outbd_0.png" class="img_outN" />&nbsp;确定退出该版？</span>
+                                <div class="div1">
+                                    <span class="btstyle_s"><input type="submit" name="btout" value="" /></span>
+                                    <span class="btstyle_b"><input type="button" name="retout" onClick="document.getElementById('div_outBd').style.display = 'none';return false;"></span>
+                                </div>
+                            </form>
+                        </div>
+                        <span class="title" style="float: left">
+                        浙江省污点曝光</span><span class='urlCss' style='font-size:12px;float:right;'>&nbsp;<a href="http://b1455336.xici.net" onclick="window.external.AddFavorite('http://b1455336.xici.net','浙江省污点曝光 - 西祠胡同');return false;"><font style="font-family:verdana;letter-spacing:2px;">http://b1455336.xici.net</font></a></span>
+                	<script type="text/javascript" language="javascript">
+						var arrWH, odHeight, odWidth, div_outBd, tempObj;
+				
+						div_outBd = document.getElementById("div_outBd");
+						tempObj = (document.getElementById("outBd")&&document.getElementById("outBd").style.display != "none") ? document.getElementById("outBd") : document.getElementById("inOnline");
+						if (tempObj){
+							arrWH = getIE(tempObj);
+							odHeight = parseInt(arrWH.split(',')[0]);
+							odWidth = parseInt(arrWH.split(',')[1]);
+							div_outBd.style.top = (odHeight - 100) + "px";
+							div_outBd.style.left = (odWidth - 150) + "px";
+						}
+					</script>
+                </div><!--/bd_title end-->
+				<div class="bd_num"><span class="board_num"><b class="p9">版号：</b>1455336</span></div>
+                
+                <div class="bd_m"  node-type="讨论版版主{$$}board{$$}人文|1455336" data-type="ga">
+                	<b class="p9">斑竹:</b>
+                     <a href="javascript:;" onclick="sendMessage.sendDivShow({},true,'夜夜归的人')" title="给夜夜归的人留言">夜夜归的人</a>
+                </div>
+                <div class="clearfix"></div> 
+                <div  class="bg_tips tags p9">
+                      
+        		</div>     
+                
+        
+        <div class="bd_nav tags" node-type="讨论版标签{$$}board{$$}人文|1455336" data-type="ga">
+        标签：
+        <a href="/t_%B3%C7%CA%D0%C2%DB%CC%B3.htm" path="/t_%B3%C7%CA%D0%C2%DB%CC%B3.htm" target="_blank">城市论坛</a>&nbsp;<a href="/t_%C9%E7%BB%E1%CB%BC%BF%BC.htm" path="/t_%C9%E7%BB%E1%CB%BC%BF%BC.htm" target="_blank">社会思考</a>&nbsp;<a href="/t_%C9%E7%BB%E1%CA%B1%C6%C0.htm" path="/t_%C9%E7%BB%E1%CA%B1%C6%C0.htm" target="_blank">社会时评</a>&nbsp;<a href="/t_%D7%DB%BA%CF%CC%D6%C2%DB%C7%F8.htm" path="/t_%D7%DB%BA%CF%CC%D6%C2%DB%C7%F8.htm" target="_blank">综合讨论区</a>&nbsp;<a href="/t_%C9%E7%BB%E1%C8%CB%CE%C4.htm" path="/t_%C9%E7%BB%E1%C8%CB%CE%C4.htm" target="_blank">社会人文</a>&nbsp;<a href="/t_%C8%CB%C9%FA%B8%D0%CE%F2.htm" path="/t_%C8%CB%C9%FA%B8%D0%CE%F2.htm" target="_blank">人生感悟</a>&nbsp;<a href="/t_%B6%BC%CA%D0%C9%FA%BB%EE.htm" path="/t_%B6%BC%CA%D0%C9%FA%BB%EE.htm" target="_blank">都市生活</a>&nbsp;<a href="/t_%C3%F1%C9%FA.htm" path="/t_%C3%F1%C9%FA.htm" target="_blank">民生</a>&nbsp;<a href="/t_%BE%AD%BC%C3%B7%A2%D5%B9.htm" path="/t_%BE%AD%BC%C3%B7%A2%D5%B9.htm" target="_blank">经济发展</a>&nbsp;<a href="/t_%B3%C7%CA%D0%B7%A2%D5%B9.htm" path="/t_%B3%C7%CA%D0%B7%A2%D5%B9.htm" target="_blank">城市发展</a>&nbsp;
+        </div>
+        
+        <!--border info end-->
+            <script type="text/javascript">
+            jQuery(".view_more").click(function (e) {
+                var _yy = jQuery(this).outerHeight();
+                var _o = jQuery(this).next();
+                jQuery(".tips").css({"top":_yy + 30, "right":0}).html(_o.html().replace("导航:", "")).fadeIn();
+                e.stopPropagation();
+            })
+            jQuery(document).click(function(event){
+                if (jQuery(".tips").css("display") == "block") {
+                    jQuery(".tips").fadeOut()  
+                }
+            });
+            jQuery(".bd_logo").hover(
+                function (){
+                    jQuery(".b_msg").animate({
+                        height		: "36px",
+                        lineHeight	:"36px",
+                        opacity : "0.5"
+                    });
+                },
+                function (){
+                    jQuery(".b_msg").animate({
+                        height		: "0",
+                        lineHeight	:"0",
+                        opacity : "0"
+                    });
+                }
+            )
+            jQuery(".bd_nav, .bd_topic_content").hover(
+                function (){
+                    jQuery(this).find(".view_more").show();
+                },
+                function (){
+                    jQuery(this).find(".view_more").hide();
+                }
+            )
+            </script>                   
+            </div><!--/bd_content end-->
+        </div>
+        <div class="clearfix"></div> 
+        <div class="bg_apply" node-type="讨论版发帖{$$}board{$$}人文|1455336" data-type="ga">
+                	<a href="../b1455336/#msg" class="sendnow"></a>
+                <!-- Baidu Button BEGIN -->
+                <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" style=" float:right">
+					<span style="float: left; height: 16px;padding-bottom: 3px;padding-left: 22px;padding-top: 6px; display:block">分享：</span>
+                    <a class="bds_tqq">腾讯微博</a>
+                    <a class="bds_tsina">新浪微博</a>
+                    <a class="bds_qzone">QQ空间</a>
+                    <a class="bds_renren">人人网</a>                
+                    <span class="bds_more">更多</span>
+                    <a class="bds_copy">复制</a>
+                    <a class="shareCount"></a>
+                </div>
+                <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=600775" ></script>
+                <script type="text/javascript" id="bdshell_js"></script>
+                <script type="text/javascript">
+                    var bdText = "";
+					bdText = "在#西祠#的[浙江省污点曝光]里，大家都爱讨论“" + jQuery(".tags a").eq(0).text() + "“这类的流行话题，在版里待得时间长了，我才真正明白上网越久越真实并非只是一句空话。";
+                    var bds_config = {'bdText':bdText,'wbUid':2084662145};
+                    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+                </script>
+                <!-- Baidu Button END -->
+        </div>
+		<table width=100% border=0 cellspacing=0 cellpadding=0  class="width_fix" align=center>
+			<tr>
+				<td width=10 class=tab_normal_td>&nbsp;&nbsp;</td>
+
+					<script language='javascript'>genTabMenu('首页', 'index.asp', '讨论区', './', '裤子', 'cool.asp','活动', 'huodong.asp', '相册', 'photo.asp', '手机版', 'bdwap.asp', '在线[11]', 'online.asp', '@版聊', 'chat.asp" target="_blank', '搜索', 'search.asp');</script>
+                    <script>
+                        jQuery(".tab_left").attr('node-type', "讨论版首页{$$}board{$$}人文|1455336");
+                        jQuery(".tab_left").attr('data-type', "ga");
+                    </script>
+
+					<td width=99% class=tab_normal_td align=right valign=bottom style="padding-bottom:2px;"><small>&nbsp;
+						秘密版
+						</small>
+					</td>
+				</tr>
+			</table>
+
+
+			
+
+<table cellspacing=0 cellpadding=0 align=center border=0 class="board_t">
+<tr class="board_bg"><td class="board_bg">&nbsp;</td></tr>
+<tr class="board_bg_0">
+	<td style="padding:20 5 30 5;" align=center>
+		<img src="http://imgs.xici.net/_img/emot/panda/7.gif" align=absmiddle>
+		您还没有访问本版的权限<p><span style="line-height:50px;height:48px;"><strong><a href='newbd.asp'>还是我自己建一个讨论版吧</a></strong></span>
+	</td>
+</tr>
+</table>
+
+<script type="text/javascript">var lCityId=142440100;var lClubId=1208;var lATimes=1;var strRefer='http://www.xici.net/d215544337.0.htm';var refer='';if(refer=='fav') {strRefer='menu.asp';} var strFirstRefer='Xici';var maintag = (typeof(StatMainTag)=='undefined')?'':StatMainTag;var sbookDate = (typeof(bookDate)=='undefined')?'4':bookDate;var sLogondays = (typeof(Logondays)=='undefined')?'0':Logondays;var screenResolution = screen.width+'*'+screen.height;var str_img={rnd:"2015-12-21|13:45:55",runtime:{pub_1:"0.020",pub_2:"0.000",LoadhDict1:"0.000",ATime:"0.113",DTime:"0.000",FTime:"0.000",AppSvr:"",AppRun:""},stat:{dn:"www.xici.net",uname:"",uid:"0",s:"1E43AAC0536044B4",h:"",ct:"142440100",ch:"1208",ats:"1",fr:"Xici",frurl:"http://www.xici.net/d215544337.0.htm",cus:"http://www.xici.net/b1455336/bderror.asp?s=UnAccess",rf:escape(strRefer),mt:escape(maintag),bdt:sbookDate,lds:sLogondays,scr:screenResolution}};str_img="<img src='http://data.xici.net/1x1.gif?"+JSON.stringify(str_img)+"' style='display:none;' />";if(typeof(lBdId)=="undefined") {document.write(str_img);}else{document.write(str_img.replace(/(\/d([^/]+)\.htm)/,'/b'+lBdId+'$1'));}</script>
+	<script type="text/javascript">
+	window.onload = function () {
+			var SessionID = '1E43AAC0536044B4';
+			if (SessionID != "" && window.localStorage){
+				var key = localStorage.getItem("key");
+				if (key!=SessionID){
+					localStorage.setItem("key",SessionID);
+					localStorage.setItem("count",1);
+				}else{
+					var value = Number(localStorage.getItem("count"));
+					localStorage.setItem("count",value+1);
+					if ((value % 6)==0){
+						bdAccessLogon(location.href.substring(location.host.length + 8),'_self');
+					}
+				}
+			}
+		}
+	</script>
+<img alt="" src="" width="0" height="0" />
+<div class="width_fix bottom w960" style="padding:16px 0; text-align:center"><a href="/" target="_blank">胡同口</a> | <a href="/help/law.asp" target="_blank">法规</a> | <a href="http://service.xici.net/" target="_blank">广告服务</a> | <a href="/help/partner.asp" target="_blank">合作伙伴</a> | <a href="/help/contact.asp" target="_blank">联系我们</a> | <a href="/b566135/" target="_blank" title="加入我们">加入我们</a>
+</div>
+<script type="text/javascript">
+//google代码统计
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+gastatic();
+</script>
+<!--[if IE 6]>
+<script src="http://imgs.xici.net/_js/DD_belatedPNG.js"></script>
+<script type="text/javascript">
+   DD_belatedPNG.fix('.logo_top, .logo a');
+</script>
+<![endif]-->
+
+
+</body>
+</html>

@@ -1,0 +1,209 @@
+<!--UINFO: http://suggest.zhongsou.com/	length=11006&last_modified=0&time_saved=1450677000&charset=gb2312-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>意见反馈-中搜</title>
+<link href="css/fback.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/tiny_mce/tiny_mce.js"></script>
+<script type="text/javascript">
+tinyMCE.init({
+		// General options
+		language : 'zh',
+		mode : "exact",
+		editor_selector : "mceEditor",
+		elements : "textarea_all",
+		theme : "advanced",
+		//plugins : "safari,layer,table,inlinepopups,media,searchreplace,contextmenu,paste,directionality,fullscreen,noneditable,visualchars,nonbreaking,xhtmlxtras,upload,pagebreak",
+		plugins : "inlinepopups,contextmenu,paste,noneditable,visualchars,nonbreaking,xhtmlxtras",
+		relative_urls:false,
+		remove_script_host:false,
+		extended_valid_elements:"marquee[scrollAmount|scrollDelay|direction|width|height]",
+		
+		// Theme options
+		//theme_advanced_buttons1 : "",
+		//theme_advanced_buttons2 : "",
+		//theme_advanced_buttons3 : "",
+		theme_advanced_toolbar_location : "",
+		theme_advanced_toolbar_align : "",
+		theme_advanced_statusbar_location : "none",
+		theme_advanced_fonts : "宋体=宋体;黑体=黑体;楷体_GB2312=楷体_GB2312;幼圆=幼圆;Arial=arial,helvetica,sans-serif;Arial Black=arial black,avant garde;Book Antiqua=book antiqua,palatino;Comic Sans MS=comic sans ms,sans-serif;Courier New=courier new,courier;Georgia=georgia,palatino;Helvetica=helvetica;Impact=impact,chicago;Symbol=symbol;Tahoma=tahoma,arial,helvetica,sans-serif;Terminal=terminal,monaco;Times New Roman=times new roman,times;Verdana=verdana,geneva;Webdings=webdings",
+		theme_advanced_resizing : false
+	});
+$().ready(function(){
+	$('#cancel').bind('click',function(){document.body.innerHTML = '';window.close();});
+	$('#tijiao').bind('click',function(){
+		if($('#textfield').val() == ''){
+			alert('问题页面地址不能为空!');
+		}else if(/^((https|http|ftp|rtsp|mms)?:\/\/)+[\.A-Za-z0-9]+\.zhongsou\.(com|cn|net)[\/=\?%\-&_~`@[\]\':+!]*([^<>\"\"])*$/.test($('#textfield').val()) === false){	
+			alert('请正确填写中搜网问题页面地址!');
+		}else if(tinyMCE.get('textarea_all').getContent() == ''){
+			alert('内容不能为空!');
+		}else if(tinyMCE.get('textarea_all').getContent().length < 27){
+			alert('内容最短20字!');
+		}else if($('#textfield3').val() == ''){
+			alert('请填写验证码!');
+		}else if($('#textfield4').val() != '' && /^[^\d]{1,5}$/.test($('#textfield4').val()) === false){
+			alert('请正确填写您的姓名,您可以留空');
+		}else if($('#textfield5').val() != '' && /^[\d]{6,20}$/.test($('#textfield5').val()) === false){
+			alert('请正确填写您的QQ或电话号码,您可以留空');
+		}else if($('#textfield2').val() != '' && /^([a-zA-Z0-9_-])+@([a-zA-Z0-9_-])+((\.[a-zA-Z0-9_-]{2,3}){1,2})$/.test($('#textfield2').val()) === false){
+			alert('请正确填写您的邮箱地址,您可以留空');
+		}else{
+			$.ajax({
+				url:"/login/check",
+				type:"POST",
+				data:"captcha="+$("#textfield3").val(),
+				dataType:"text",
+				timeout:3000,
+				success:function(value){
+					if(value === '1'){
+						$('#form1').submit();
+					}else{
+						alert('验证码错误');
+					}
+				}
+			});
+		}
+	});
+})
+</script>
+</head>
+
+<body>
+<!--顶部开始-->
+<div class="fb_top">
+  <div class="fb_logo"><img src="images/fback_logo.png" width="188" height="40" /></div>
+  <div class="fb_tel"><img src="images/fback_tel.png" width="220" height="21" /></div>  
+</div>
+<!--主体内容-->
+<div class="fb_mian">
+<form method="post" action="" enctype="multipart/form-data" id="form1" >
+<div class="fb_mianbg">
+    <div class="fb_miannr">
+      <div class="fb_nr">
+         <h1>
+            <strong>您的位置：<a href="http://www.zhongsou.com" target="_blank">首页</a> > 意见反馈</strong>
+            <span class="fb_line"><a href="http://help.zhongsou.com/zs-help.htm" target="_blank">帮助中心</a></span>
+         </h1>
+         <div class="fb_nrdiv">
+            <h2>
+         　　尊敬的用户：您在使用第三代搜索时如有任何疑问、意见、建议、需求，都可以通过填写下表信息反馈给我们，也可以发邮件到<a href="mailto:suggest@zhongsou.com">suggest@zhongsou.com</a>,我们会在第一时间解决相关问题。感谢您的支持！            </h2>
+            <div class="fb_atable">
+              
+              <table width="760" class="atable"  background="#dddddd" cellpadding="1" cellspacing="1">
+                <tr class="atable_abg">
+                  <td colspan="4" bgcolor="#CCCCCC"><strong> 　问题反馈</strong> (<span class="fb_red">*</span>必填)</td>
+                </tr>
+                <tr class="atable_bbg">
+                  <td width="135" align="center">问题类型</td>
+                  <td width="220">
+                    <select name="select" class="fb_aselect" id="select">
+                      <option value="内容问题">内容问题</option>
+                      <option value="连接错误">连接错误</option>
+                      <option value="意见建议">意见建议</option>
+                      <option value="其他">其他</option>
+                    </select>
+                  </td>
+                  <td width="135" align="center">问题截图</td>
+                  <td width="270"  >
+                    <div style="height:24px; _height:25px; width:265px; margin:0px; overflow:hidden;"> 
+                    <input type='text' id='cardImg' style="width:180px" name="cardImg" class="fb_input fb_einput">
+					<input type='button' id='btnFile' name="btnFile" value='本地上传' onClick='document.getElementById("fileHidden").click();' class="fb_dinput">
+                    <input type='file' style="display:;background:#fff;padding:0px;margin:0px;" id='fileHidden' name="fileHidden" onChange='return document.getElementById("cardImg").value=document.getElementById("fileHidden").value;' runat="server"  class="tes_file">
+					<script language="javascript">
+					if(navigator.appName=='Microsoft Internet Explorer'){
+						$('#cardImg')[0].style.display = 'none';
+						$('#btnFile')[0].style.display = 'none';
+						$('#fileHidden')[0].style.width = "260px";
+						$('#fileHidden')[0].style.height = "23px";
+					}else{
+						$('#cardImg')[0].style.display = '';
+						$('#btnFile')[0].style.display = '';
+						$('#fileHidden')[0].style.width = "0px";
+						$('#fileHidden')[0].style.height = "0px";
+						$('#fileHidden')[0].style.border = "0px";
+						$('#fileHidden')[0].style.padding = "0px";
+					}
+                    </script>            
+                    </div>        
+                  </td>
+                </tr>
+                <tr class="atable_bbg">
+                  <td align="center">问题页面地址<span class="fb_red">*</span></td>
+                  <td colspan="3">
+                    <input class="fb_ainput fb_input" type="text" name="textfield" id="textfield" maxlength="200"/>
+                  </td>
+                </tr>
+                <tr class="atable_bbg">
+                  <td height="200" align="center"><p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>内　　 容 <span class="fb_red">*</span>
+                      <br />
+                      <br />                  
+                  （可将网络图片插入到编辑框）<br />
+                  </p></td>
+                  <td colspan="3" valign="top"><div style="position:relative;">
+				   <div style="position:absolute">
+                    <textarea style=" position: absolute; top:0px; left:0px;" class="fb_input fb_binput" name="apdiv" id="textarea_all"></textarea>
+                  </div></div>
+				  </td>
+                </tr>
+              </table>            
+ </div>
+            <div class="fb_atable">
+               <table width="760" class="atable"  background="#dddddd" cellpadding="1" cellspacing="1">
+                <tr class="atable_abg">
+                  <td colspan="4" bgcolor="#CCCCCC"><strong> 　个人信息　</strong>请留下您的联系方式，以便我们与您交流。</td>
+                </tr>
+                <tr class="atable_bbg">
+                  <td width="135" align="center">您的称呼</td>
+                  <td width="220"><input type="text" class="fb_input fb_cinput" name="textfield4" id="textfield4" maxlength="20"/></td>
+                  <td width="134" align="center">QQ/电话</td>
+                  <td width="271"><input type="text" class="fb_input fb_cinput" name="textfield5" id="textfield5" maxlength="13"/></td>
+                </tr>
+                <tr class="atable_bbg">
+                  <td align="center">邮　　箱</td>
+                  <td colspan="3"><input class="fb_finput fb_input" type="text" name="textfield2" id="textfield2" maxlength="30"/></td>
+                </tr>
+              </table>
+            </div>
+            <!--验证-->
+            <div class="fb_yz">
+               <div class="fb_yznr ">
+                  验证码<span class="fb_red">*</span>:<input type="text" class="fb_cinput" name="captcha" id="textfield3" />  
+                 <a href="javascript:void(0)" class="fb_gray" onclick="$('#me').css('display','block')">点击获取</a><br/>
+               <span class="fb_gray" style="margin-left:46px;">输入下图中的字符，不区分大小写</span>
+               <div class="fb_yztc" id="me" style="display:none;"><img src="/login/captcha" width="124" height="43" id='captchaimg'/><a href="javascript:void(0)" class="fb_gray" onclick="document.getElementById('captchaimg').
+src='/login/captcha?id='+Math.random();">看不清楚，换一张</a></div>
+               
+               </div>
+               
+            
+            </div>
+           <div>
+           
+           </div>
+         </div>
+         <div class="clear"></div>
+      </div>
+  </div>
+    <div class="fb_miantj">
+      <input type="button" name='sbb' id="tijiao" value="提交" />
+      <input name="" type="button" value="取消" id="cancel" />
+    <div class="clear"></div>
+  </div>
+  
+
+  <div class="clear"></div>
+  </form>
+</div>
+<!--底部开始-->
+<div class="fb_foot">
+  <a href="http://www.zhongsou.cn/">聚焦中搜</a> | <a href="http://sales.zhongsou.net/" target="_blank">企业服务</a> | <a href="http://www.zhongsou.cn/about5.html" target="_blank">合作伙伴</a> | <a href="http://srp.zhongsou.com/" target="_blank">词条交易</a> | <a href="http://srp.zhongsou.com/" target="_blank">审核</a><br/>
+  版权所有 中搜 京ICP证100943号 经营性网站信息 京公网安备110108006300号
+</div>
+</body>
+</html>

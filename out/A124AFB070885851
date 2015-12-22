@@ -1,0 +1,1412 @@
+<!--UINFO: http://forum.home.news.cn/detail/138148871/1.html	length=69272&last_modified=0&time_saved=1450676876&charset=GBK-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+<title>成都失信行为联合惩戒机制启动_发展论坛_新华社区</title>
+
+<!-- <link media=screen href="http://tmisc.home.news.cn/forum/styles/ubb.css" type=text/css rel=stylesheet /> -->
+<link href="http://www.news.cn/forum/wb/style/popup.css" rel="stylesheet" type="text/css" />
+<link href="/static/css/post/detail.css" type="text/css" rel="stylesheet" />
+
+<script language="JavaScript" src="http://tmisc.home.news.cn/forum/script/common.js"></script>
+<script type="text/javascript" src="http://tmisc.home.news.cn/forum/script/faces.js"></script>
+<script type="text/javascript" src="/static/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="http://www.news.cn/forum/wb/js/popup.js"></script>
+<script language="JavaScript" src="http://tmisc.home.news.cn/forum/script/float2.js"></script>
+<script type="text/javascript" src="/static/api/js/post.js"></script>
+<style>
+.fileP{
+	margin-top:10px;
+}
+
+.delBtn{
+	float: right;padding-right:60px;
+}
+fieldset {
+	padding: 10px;
+	margin: 20px;
+	color: #333;
+	border: #999 solid 1px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+}
+legend {
+	color: #333;
+	font-weight: 200;
+	padding: 3px 6px;
+}
+fieldset textarea{
+	width:450px;
+	height:93px;
+}
+.descpTips{
+	padding-left:40px;
+	text-align: left;
+}
+/*分享 样式*/
+#share{margin-top:15px;text-align: right;padding-right:15px;font-size:12px;}
+#share a{text-decoration: none;color: #000;}
+#share a:HOVER{color:#0000FF}
+#share a:VISITED {text-decoration: none;}
+</style>
+<script language="JavaScript">
+function setImageSize() {
+    var nMaxWidth;
+    if (84 == 80){
+	nMaxWidth = 930;
+	}
+	else{
+	nMaxWidth = 700;
+	}
+	var arEls = document.getElementsByTagName("IMG");
+	for( var i=0;i<arEls.length;i++ ){
+		if( arEls[i].width >nMaxWidth ) {	//如果图片宽度大于nMaxWidth，则等比缩小显示
+			var nHeight = (arEls[i].height * (nMaxWidth/arEls[i].width));
+			arEls[i].height = nHeight;
+			arEls[i].width  =	nMaxWidth;
+			arEls[i].style.height = nHeight;
+			arEls[i].style.width = nMaxWidth;
+		}
+	}
+}
+function doMailTo() {
+	var	fmt	= document.forms["mailto"];
+	if (fmt != null) {
+		fmt.title.value	= document.title;
+		fmt.url.value	= this.location;
+		fmt.submit();
+	}
+}
+
+function checkReply(form) {
+    var mode = window.frames['Editor'].document.getElementById('ubb').value; 
+    var nmessage = window.frames['Editor'].document.getElementById('posteditor_textarea');
+	var str ="";
+
+	if(mode == 0){
+	   if(nmessage.value==""){
+			str = "请输入回复的内容！";	   
+		    alert(str);
+			nmessage.focus();
+	   		return false;
+		} else if(nmessage.value.length > 5000){
+			str = "回复内容的长度不能超过"+5000+"个字，请您拆分后再上帖。";	  		
+			alert(str);
+			nmessage.focus();
+	   		return false;
+		}
+		   
+	   }
+	  
+	 if(mode == 1){
+		var content = window.frames['Editor'].editdoc.body.innerHTML;
+	    if(content == "" || content == "<br>"){
+		    str = "请输入回复的内容！";
+		    alert(str);
+		    window.frames['Editor'].editdoc.body.focus();
+	   		return false;
+		}
+		else if(window.frames['Editor'].editdoc.body.innerHTML.length > 5000){
+		  str = "回复内容的长度不能超过"+5000+"个字，请您拆分后再上帖。";			
+		alert(str);
+		window.frames['Editor'].editdoc.body.focus();
+	   		return false;
+		   }
+	 }
+	if (form.userid != null) {
+		if(form.userid.value=="") {
+		    str = "你好像忘了输入用户名啦！";		
+			alert(str);
+			form.userid.focus();
+	   		return false;
+		}
+	}
+	if (form.password != null) {
+		if(form.password.value == "") {
+		    str = "你好像忘了输入用户密码啦！";		
+			alert(str);
+			form.password.focus();
+	   		return false;
+		}
+	}
+	
+		if (form.username != null) {
+		if(form.username.value=="") {
+		    str = "你好像忘了输入真实姓名啦！";		
+			alert(str);
+			form.username.focus();
+	   		return false;
+		}
+	}
+	if (form.usertel != null) {
+		if(form.usertel.value == "") {
+		    str = "你好像忘了输入联系电话啦！";		
+			alert(str);
+			form.usertel.focus();
+	   		return false;
+		}
+	}
+	if (form.useraddress != null) {
+		if(form.useraddress.value == "") {
+		    str = "你好像忘了输入通讯地址啦！";		
+			alert(str);
+			form.useraddress.focus();
+	   		return false;
+		}
+	}
+	if (form.userzip != null) {
+		if(form.userzip.value == "") {
+		    str = "你好像忘了输入邮编啦！";		
+			alert(str);
+			form.userzip.focus();
+	   		return false;
+		}
+	}
+	if (form.userjob != null) {
+		if(form.userjob.value == "") {
+		    str = "你好像忘了输入身份证号啦！";		
+			alert(str);
+			form.userjob.focus();
+	   		return false;
+		}
+	}
+	
+	var result = true;
+	//检测描述字数
+	$.each($("textarea[name=descp]"),function(index,obj){
+		result = result && checkDescpCount(obj);
+	});
+	
+	if(!result){
+		alert("描述字数超过200，请检查");
+		return false;
+	}
+
+	return true;
+}
+
+//描述字数限制
+var descpLimit = 200;
+
+function checkDescpCount(obj){
+	var len = obj.value.replace(/^\s+|\s+$/g, '').length; 
+	var tipsObj = $(obj).parent().next().children(":first");
+	if(len>descpLimit){
+		tipsObj.html("当前"+len+"个字，<font color=red>描述不能超过"+descpLimit+"字。</font>");
+		return false;
+	}
+	tipsObj.html("当前"+len+"个字");
+	return true;
+}
+
+function hello() {
+		mydate = new Date();
+		myhour = mydate.getHours();
+		if (myhour < 6)
+			welcomestring = "凌晨好";
+		else if (myhour < 9)
+			welcomestring = "早上好";
+		else if (myhour < 12)
+			welcomestring = "上午好";
+		else if (myhour < 14)
+			welcomestring = "中午好";
+		else if (myhour < 17)
+			welcomestring = "下午好";
+		else if (myhour < 19)
+			welcomestring = "傍晚好";
+		else if (myhour < 22)
+			welcomestring = "晚上好";
+		else
+			welcomestring = "夜里好";
+		return welcomestring;
+	}
+
+	function checkLogin(loginform) {
+		if (loginform.userid.value == "") {
+			alert("你好像忘了输入用户名啦！");
+			loginform.userid.focus();
+			return false;
+		}
+		if (loginform.password.value == "") {
+			alert("你好像忘了输入用户密码啦！");
+			loginform.password.focus();
+			return false;
+		}
+		return true;
+	}
+	
+	function get(id){
+	return document.getElementById(id);
+}
+
+	//添加 引用
+	function addQuote(id){
+	var mode = window.frames['Editor'].document.getElementById('ubb').value;
+//		var oauthor = get('author_'+id);
+		//var au_tm = get('mess_'+id);
+		var au_tm = $.trim($("#mess_"+id).text()).replace(/\s+/g, ' ');
+		
+//		var otime = get('time_'+id);
+		var omessage = get('message_'+id);
+		var str=omessage.outerHTML;
+        var t1=str.indexOf("<DIV class=BBS_QUOTE><Q>");
+              if(t1 > -1)
+            {
+
+                 var reg1=new RegExp("<DIV id=message_"+ id +"><DIV class=BBS_QUOTE><Q>","g");
+                 var reg2=new RegExp("<DIV class=BBS_QUOTE><Q>","g");
+                 var reg3=new RegExp("<I>","g"); 
+                 var reg4=new RegExp("</I>","g");
+                 var reg5=new RegExp("</Q></DIV><BR>","g");
+                 var reg6=new RegExp("</Q>","g");
+                 var reg7=new RegExp("<BR>","g");
+                 var reg8=new RegExp("</DIV>","g");
+                 var temp1=str.replace(reg1,"[qt]");
+                 var temp2=temp1.replace(reg2,"[qt]");
+                 var temp3=temp2.replace(reg3,"[I]");
+                 var temp4=temp3.replace(reg4,"[/I]");
+                 var temp5=temp4.replace(reg5,"[/qt]");
+                 var temp6=temp5.replace(reg6,"[/qt]");
+                 var temp7=temp6.replace(reg7," ");
+                 var temp8=temp7.replace(reg8," ");
+                // alert(temp8);
+             }
+		//var nmessage = get('content');
+		var nmessage = window.frames['Editor'].document.getElementById('posteditor_textarea');
+		var tempmess = "";
+
+		tempmess+='[qt]';
+		if(mode == 1){
+		   tempmess+='引自:<i>'+au_tm+'</i>';
+		}
+		else{
+		  tempmess+='引自:[i]'+au_tm+'[/i]';
+		}
+		//tempmess+='[i]'+oauthor.innerText+'[/i]';
+		//tempmess+=' 于 '+otime.innerText+' 发表:';
+         if(t1 > -1){
+		tempmess+="\n"+temp8;
+          }
+         else{
+                tempmess+="\n"+$("#message_"+id).text().replace(/\s+/g, ' ');
+          } 
+		tempmess+='[/qt]';
+		try{
+		    if(mode == 0){
+			//nmessage.innerHTML = tempmess;
+		    	window.frames['Editor'].newEditor(mode, tempmess);
+				document.getElementById("Editor").contentDocument.getElementById("posteditor_textarea").focus();
+			}
+			else if(mode == 1){
+			window.frames['Editor'].editdoc.body.innerHTML = tempmess;
+			}
+		}catch(e){}
+		return false;
+	}
+	
+	//添加回复
+	function addRevert(id){
+	    var mode = window.frames['Editor'].document.getElementById('ubb').value;
+		//var oauthor = get('author_'+id).innerText;
+		var oauthor=$("#author_"+id).text();
+		var nmessage = window.frames['Editor'].document.getElementById('posteditor_textarea');
+		var tempmess = "";
+		if(mode == 1){
+/* 			if(id == 1){
+				tempmess+='<b>回复'+'首贴 '+oauthor+'的帖子</b>';
+			}else{
+		    	tempmess+='<b>回复'+id+'楼'+oauthor+'的帖子</b>';
+		    } */
+		    tempmess+='<b>回复'+oauthor+'的帖子</b>';
+		}
+	    else{
+/* 	    	if(id == 1){
+	    		tempmess+='[b]回复'+'首贴 '+oauthor+'的帖子[/b]';
+	    	}else{
+		    	tempmess+='[b]回复'+id+'楼'+oauthor+'的帖子[/b]';
+		    } */
+		    tempmess+='[b]回复'+oauthor+'的帖子[/b]'
+		}
+		try{
+		    if(mode == 0){
+				//nmessage.innerHTML = tempmess;
+				window.frames['Editor'].newEditor(mode, tempmess);
+				document.getElementById("Editor").contentDocument.getElementById("posteditor_textarea").focus();
+			}
+			else if(mode == 1){
+			window.frames['Editor'].editdoc.body.innerHTML = tempmess;
+			}
+		}catch(e){}
+		return false;
+	}
+function ubbaction(tag, val){
+	var tag = tag.toUpperCase();
+	if(typeof(val) == "undefined"){
+ 	val = "";
+	}
+	if(val){
+ 	val = "=" + val;
+	}
+
+	var r = document.selection.createRange().text;
+	rr = "[" + tag + val + "]" + r + "[/" + tag +"]";
+	if(r){
+ 	document.selection.createRange().text = rr;
+	}else{
+ 	document.all.content.value += rr;
+	}
+	}
+ function countTitleChars(){
+		document.getElementById("title_num_leave").innerHTML = 50-document.bbsedit.title.value.length;
+	}
+	
+	function Cswf()
+{		
+	document.bbsedit.content.focus();
+		 //var enterSIZE   = prompt("输入Flash尺寸（宽，高）！", "WIDTH=300 HEIGHT=250");
+		var enterURL   = prompt("请输入Flash网址", "http://");
+		var ToAdd="";
+		if (enterURL)
+		{		 
+			ToAdd = "[FLASH=400,300]"+enterURL;	
+			InsertText(objActive,ReplaceText(objActive,ToAdd,'[/FLASH]'),true); 				
+	}
+}
+function Curl()
+{
+	document.bbsedit.content.focus();
+	var FoundErrors = '';
+	var enterURL   = prompt("输入链接网址！", "http://");
+	
+	if (!enterURL)
+	{
+		FoundErrors += "\n" + "链接网址不能为空";
+	}
+	
+	if (FoundErrors)
+	{
+		alert("错误！"+FoundErrors);
+		return;
+	}
+	str = "[URL="+enterURL+"]";
+	InsertText(objActive,ReplaceText(objActive,str,'[/URL]'),true); 
+}
+function Cswf() {
+	document.bbsedit.content.focus();
+	//var enterSIZE   = prompt("输入Flash尺寸（宽，高）！", "WIDTH=300 HEIGHT=250");
+	var enterURL   = prompt("请输入Flash网址", "http://");
+	var ToAdd="";
+	if (enterURL) {
+		ToAdd = "[FLASH=400,300]"+enterURL;
+		InsertText(objActive,ReplaceText(objActive,ToAdd,'[/FLASH]'),true); 
+	}
+}
+function Cinsertimage()
+{
+	document.bbsedit.content.focus();
+	var enterURL   = prompt("请输入图片网址", "http://");
+	var ToAdd="";
+	if (enterURL)
+	{
+		ToAdd = " [IMG]"+enterURL;
+		InsertText(objActive,ReplaceText(objActive,ToAdd,'[/IMG]'),true); 
+	}
+}
+var objActive;
+function GetActiveText(objHTML) {
+	objActive=objHTML;
+	if(document.selection){
+		var obj=document.getElementById(objHTML);
+		obj.currPos = document.selection.createRange().duplicate();
+	}
+}
+function InsertText(objHTML,strText,bolReplace) {
+	if (strText=="") {
+		return "";
+	}
+	var obj=document.getElementById(objHTML);
+	if (!obj) {
+		return "";
+	}
+	if(document.selection){
+		if (obj.currPos){
+			if(bolReplace && (obj.value=="")){
+				obj.currPos.text=strText;
+			}
+			else{
+				obj.currPos.text+=strText;
+			}
+		}
+		else{
+			obj.value+=strText;
+		}
+	}
+	else{
+		if(bolReplace){
+			obj.value=obj.value.slice(0,obj.selectionStart) + strText + obj.value.slice(obj.selectionEnd,obj.value.length);
+		}
+		else{
+			obj.value=obj.value.slice(0,obj.selectionStart) + strText + obj.value.slice(obj.selectionStart,obj.value.length);
+		}
+	}
+}
+function ReplaceText(objHTML,strPrevious,strNext) {
+	var obj=document.getElementById(objHTML);
+	if (!obj) {
+		return "";
+	}
+	var strText;
+	if(document.selection && document.selection.type == "Text"){
+		if (obj.currPos){
+			var range = document.selection.createRange();
+			range.text = strPrevious + range.text + strNext;
+			return "";
+		}
+		else{
+			strText=strPrevious + strNext;
+			return strText;
+		}
+	}
+	else{
+		if(obj.selectionStart || obj.selectionEnd){
+			strText=strPrevious + obj.value.slice(obj.selectionStart,obj.selectionEnd) + strNext;
+			return strText;
+		}
+		else{
+			strText=strPrevious + strNext;
+			return strText;
+		}
+	}
+}
+
+function callback(id){
+		MI.CallBack.init(this, function(data) {
+		if (data.result == 200) {
+			UI.getScript("http://t.home.news.cn/followmore.action?typeId=3&checkdel="+id+"&rd="+Math.random());
+		} else if (data.result == 0) {
+			//alert(data.msg);
+			alert("关注成功");
+		}
+		}, function(data) {
+		if (data.result == 201) {
+			//隐藏登录框
+			MI.dialog.hide();
+			//alert(data.msg);
+			alert("登陆失败");
+		} else if (data.result == 1) {
+			if(data.msg=="noRegister"){
+				alert('您还没有开通新华微博，现在就去开通吗？');
+				var win=window.open('','_blank');
+				win.location.href="http://t.home.news.cn/index.jsp";
+			}else if(data.msg=="userNotExist"){
+				alert('您关注用户还未开通新华微博，通知TA一下吧？');
+				var win=window.open('','_blank');
+				win.location.href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&content="+encodeURIComponent("我已经开通新华微博了，你也来吧！")+"http://t.home.news.cn/index.jsp &userName="+id;
+			}else{
+				alert("关注失败");
+			}
+		}
+		});
+}
+function follow(id){
+	callback(id);
+	if(id!=''){
+		UI.getScript("http://t.home.news.cn/followmore.action?typeId=3&checkdel="+id+"&rd="+Math.random());
+	}
+}
+
+function dataLength(fData){   
+    var intLength=0   
+    for (var i=0;i<fData.length;i++) {   
+        if ((fData.charCodeAt(i) < 0) || (fData.charCodeAt(i) > 255))   
+            intLength=intLength+2   
+        else  
+            intLength=intLength+1       
+    }   
+    return intLength   
+}
+</script>
+
+</head>
+
+<body onLoad="setImageSize(); ">
+	
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+<link href="/static/topheader/css/all.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/static/topheader/js/jq.js"></script>
+</head>
+<body>
+<div class="page">
+	<div class="area clearfix">
+		<div class="fl logo"><a href="http://news.cn/" target="_blank">新华网首页</a></div>
+		<div class="fl left1 clearfix">
+			<ul class="clearfix">
+<!-- 				<li><a href="http://www.xinhuanet.com/forum/index.htm">社区</a></li> -->
+				<li><a href="http://forum.home.news.cn/index.jsp">论坛</a></li>
+				<li><a href="http://sike.news.cn/">思客</a></li>
+				<li><a href="http://t.home.news.cn/">微博</a></li>
+				<li><a href="http://blog.home.news.cn/">博客</a></li>
+				<li class="xuankongjian"><a href="">炫空间</a>
+					<div class="xkjcon">
+						<ul class="clearfix">
+							<li><a href="http://search.home.news.cn/index.html">搜索</a></li>
+							<li><a href="http://vdisk.home.news.cn/vdisk/control/home.do">云盘</a></li>
+						</ul>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<div class="fl left2">
+			<ul class="clearfix">
+				<li class="iconnew"><a href="http://forum.home.news.cn/view/oldphoto/list.html">新华老年摄影&nbsp</a></li>
+				<li><a href="http://forum.home.news.cn/view/publicforum/list.html">公益论坛&nbsp</a></li>
+				<li><a href="http://forum.home.news.cn/list/82-0-0-1.html">地方论坛&nbsp</a></li>
+				<li><a href="http://forum.home.news.cn/list/376-0-0-1.html">熊猫社区&nbsp</a></li>
+				<li><a href="http://forum.home.news.cn/list/82-484-0-1.html">江苏民声&nbsp</a></li>
+				<!-- <li><a href="http://forum.home.news.cn/list/82-366-0-1.html">渝论&nbsp</a></li> -->
+				<!-- <li><a href="http://forum.home.news.cn/list/82-379-0-1.html">e齐e鲁&nbsp</a></li> -->
+			</ul>
+		</div>
+		<div class="fr right author">
+			业务合作：010-88050843
+		</div>
+	</div>
+</div>
+<script type="text/javascript" >
+	$(function(){
+		$(".xuankongjian,.xuankongjian a,.xkjcon").bind("mouseover",function(){
+			$(".xuankongjian").addClass("active");
+		});
+		$(".xuankongjian,.xuankongjian a,.xkjcon").bind("mouseleave",function(){
+			$(".xuankongjian").removeClass("active");
+		});
+	})
+</script>
+</body>
+</html>
+	<div style="width:993px; margin:0 auto;padding-top:60px;">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="993" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="158"><img src="http://misc.home.news.cn/forum/images/2010/forum_logo.gif" width="158" height="102" /></td>
+    <td width="835" valign="top"><table width="835" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="55" align="center" class="hei12">
+        <a href="http://www.news.cn/" target="_blank">新华网首页</a>
+         <!-- | <a href="http://www.xinhuanet.com/forum/index.htm" target="_blank">新华社区</a>  -->
+         | <a href="http://forum.home.news.cn">发展论坛</a>
+         | <a href="http://t.home.news.cn" target="_blank">新华微博</a>
+         | <a href="http://blog.home.news.cn/" target="_blank">新华博客</a> 
+         | <a href="http://sike.news.cn/" title="思客" target="_blank"><img src="http://tmisc.home.news.cn/forum/sike.gif" width="26" height="13" border="0"  align="center" style="margin-bottom:3px"/></a> 
+         | <a href="http://vdisk.home.news.cn/vdisk/control/home.do" target="_blank">新华云盘</a> 
+         | <a href="http://search.home.news.cn/index.html" target="_blank">社区搜索</a>&nbsp;
+         | <a href="http://my.xuan.news.cn" target="_blank"><img width="70" height="18" align="center" src="/static/images/xuan_boke.png" border="0"/></a>&nbsp;
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3"><table width="835" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="167" align="center"><table width="160" border="0" cellpadding="0" cellspacing="0" class="dh">
+              <tr>
+                <td width="50" rowspan="2"><img src="http://misc.home.news.cn/forum/images/2010/forum_dh01.gif" width="49" height="39" /></td>
+                <td width="110"><a href="/list/50-0-0-1.html">发展</a>  <a href="/list/85-0-0-1.html">国际</a>  <a href="/list/50-135-0-1.html">深水</a></td>
+              </tr>
+              <tr>
+                <td width="110"><a href="/list/50-388-0-1.html">热点</a>  <a href="/list/52-0-0-1.html">两岸</a>  <a href="/list/84-0-0-1.html"><font color=red>旗帜</font></a></td>
+              </tr>
+            </table></td>
+            <td width="167" align="center"><table width="160" border="0" cellpadding="0" cellspacing="0" class="dh">
+              <tr>
+                <td width="50" rowspan="2"><img src="http://misc.home.news.cn/forum/images/2010/forum_dh02.gif" width="40" height="39" /></td>
+                <td width="110"><a href="/list/98-0-0-1.html">财经</a>  <a href="/list/92-0-0-1.html" >军事</a>  <a href="/list/50-133-0-1.html" >反腐</a>
+      </td>
+              </tr>
+              <tr>
+                <td width="110"><a href="/list/113-0-0-1.html" >金融</a>  <a href="/list/50-404-0-1.html" >历史</a>  <a href="/list/111-0-0-1.html" >教育</a></td>
+              </tr>
+            </table></td>
+            <td width="167" align="center"><table width="160" border="0" cellpadding="0" cellspacing="0" class="dh">
+              <tr>
+                <td width="50" rowspan="2"><img src="http://misc.home.news.cn/forum/images/2010/forum_dh03.gif" width="40" height="39" /></td>
+                <td width="110"><a href="/list/82-0-0-1.html" ><font color=red>地方</font></a>  <a href="/list/50-128-0-1.html" >社会</a>  <a href="/list/50-134-0-1.html" >三农</a></td>
+              </tr>
+              <tr>
+                <td width="110"><a href="/list/93-0-0-1.html" >体育</a>  <a href="/list/50-514-0-1.html" ><font color=red>曝光</font></a>  <a href="/list/121-0-0-1.html" >村官</a></td>
+              </tr>
+            </table></td>
+            <td width="167" align="center"><table width="160" border="0" cellpadding="0" cellspacing="0" class="dh">
+              <tr>
+                <td width="50" rowspan="2"><img src="http://misc.home.news.cn/forum/images/2010/forum_dh04.gif" width="40" height="39" /></td>
+                <td width="110"><a href="/list/80-0-0-1.html" >摄影</a>  <a href="/list/75-0-0-1.html" >生活</a>  <a href="/list/91-0-0-1.html" >文化</a></td>
+              </tr>
+              <tr>
+                <td width="110"><a href="/list/109-0-0-1.html" >汽车</a>  <a href="/list/443-0-0-1.html" >房产</a>  <a href="/list/50-224-0-1.html" >科技</a></td>
+              </tr>
+            </table></td>
+            <td width="167" align="center"><table width="160" border="0" cellpadding="0" cellspacing="0" class="dh">
+              <tr>
+                <td width="50" rowspan="2"><img src="http://misc.home.news.cn/forum/images/2010/forum_dh05.gif" width="40" height="39" /></td>
+                <td width="110"><a href="/list/75-148-0-1.html" >情感</a>  <a href="/list/75-147-0-1.html" >笑话</a>  <a href="/list/81-0-0-1.html" >娱乐</a></td>
+              </tr>
+              <tr>
+                <td width="110"><a href="/list/90-0-0-1.html" >电脑</a>  <a href="/list/83-0-0-1.html" >网友俱乐部</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="993" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="6"></td>
+  </tr>
+</table>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>发展论坛</title>
+<script type="text/javascript" src="http://forum.home.news.cn/static/js/jquery-1.9.1.min.js"></script>
+<link rel="stylesheet" type="text/css" href="http://forum.home.news.cn/static/topheader/css/all.css">
+<script type="text/javascript">
+$(function(){
+	 $.ajax({
+             type: "post",
+             url: "/api/sso/getLoginUser.do",
+             // url:"getLoginUser.json",
+             dataType: "json",
+             success: function(data){
+             	 if(data.code == '200'){
+             	 	$('.hd01 tr td').eq(1).html(data.data.nickname +' <span class="lan12">'+hello()+'</span')
+             	 	$('.hd01 tr td').eq(2).html(
+             	 		'<a href="http://my.xuan.news.cn/" target="_blank" class="hei12">炫空间</a>&nbsp; <a href="http://'+data.data.username+'.home.news.cn" target="_blank" class="hei12">门户</a>&nbsp; <a href="http://my.home.news.cn/qm/control/home.do" target="_blank" class="hei12">短消息</a>&nbsp;   <a href="/space/userposts.do?&amp;id='+data.data.username+'" target="_blank" class="hei12">帖子</a>&nbsp; <a href="/trash/list.do" target="_blank" class="hei12">回收站</a>&nbsp;<!-- <a href="http://my.home.news.cn/bookmark/control/home.do" target="_blank" class="hei12">收藏</a>&nbsp;  --><a href="http://f.home.news.cn" target="_blank" class="hei12">好友</a>&nbsp;<!-- <a href="http://my.home.news.cn/profile/control/home.do" target="_blank" class="hei12">服务</a>&nbsp;  --><a href="http://my.home.news.cn/blog/control/home.do" target="_blank">控制面板</a>&nbsp;<a href="/space/userspace.do?id='+data.data.username+'" target="_blank" class="hei12">个人资料</a>&nbsp; <a href="/logout.jsp" class="hei12">退出</a>'
+             	 		)
+             	 } else{
+             	 	$('.hd01 tr td').eq(1).html('游客 <span class="lan12">'+hello()+'</span')
+             	 	$('.hd01 tr td').eq(2).html('<form id="loginForm" action="/login.jsp" method="post" style="margin:0;padding:0"><table width="570" border="0" cellspacing="0" cellpadding="0" class="hd01"><tbody><tr><td width="50" align="center">用户名</td><td width="60" align="center"><input type="text" id="senderName" name="senderName" class="form" size="6"></td><td width="50" align="center">密码</td><td width="60" align="center"><input type="password" id="password" name="password" class="form" size="6"></td><td width="60" align="center"><input name="login" type="image" src="http://misc.home.news.cn/forum/images/2010/denglu01.gif" width="50" height="18" class="login_button"></td><td width="60" align="center"><a href="http://my.home.news.cn/profile/passport.do" target="_blank"><img src="http://misc.home.news.cn/forum/images/2010/denglu02.gif" width="50" height="18" border="0"></a></td><td align="left"><script type="text/javascript">function jumpUrl(o,n){top.location.href="http://login.home.news.cn/profile/cologin.do?t="+n+"&callback="+encodeURIComponent(top.location)}<\/script><span style="margin:5px auto;float:left;padding-left:5px">第三方登录：</span><ul style="list-style-type:none;margin:3px auto;padding-left:5px"><li style="list-style-type:none;float:left;padding-left:5px"><a onclick="jumpUrl(this,&quot;qq&quot;)" style="cursor:pointer"><img src="http://login.home.news.cn/global/images/login-qq2.png" width="20px" height="20px" title="QQ"><br></a></li><li style="list-style-type:none;float:left;padding-left:5px"><a onclick="jumpUrl(this,&quot;sina&quot;)" style="cursor:pointer"><img src="http://login.home.news.cn/global/images/login-sina.png" width="20px" height="20px" title="新浪"><br></a></li><li style="list-style-type:none;float:left;padding-left:5px"><a onclick="jumpUrl(this,&quot;weixin&quot;)" style="cursor:pointer"><img src="http://login.home.news.cn/global/images/login-wx.png" width="20px" height="20px" title="微信"><br></a></li><li style="list-style-type:none;float:left;padding-left:5px"><a onclick="jumpUrl(this,&quot;tianyi&quot;)" style="cursor:pointer"><img src="http://login.home.news.cn/global/images/login-telecom.png" width="20px" height="20px" title="天翼"><br></a></li></ul></td></tr></tbody></table></form>')
+             	 }
+             }
+         });
+    
+    $.ajax({
+		url : "/api/getOnlineUserCount.do",
+		type : 'POST',
+		dataType : "json",
+		async : true,
+		data : {
+		},
+		cache : false,
+		success : function(result) {
+			if (result.code == 200) {
+				$("#userCount").html("<a href='/view/common/onlineuser.jsp' target='_blank'> 当前在线 </a>" + result.data);
+			}
+		}
+	});
+
+	
+	function hello() {
+		var mydate,myhour,welcomestring;
+		mydate = new Date();
+		myhour = mydate.getHours();
+		if (myhour < 6)
+			welcomestring = "凌晨好";
+		else if (myhour < 9)
+			welcomestring = "早上好";
+		else if (myhour < 12)
+			welcomestring = "上午好";
+		else if (myhour < 14)
+			welcomestring = "中午好";
+		else if (myhour < 17)
+			welcomestring = "下午好";
+		else if (myhour < 19)
+			welcomestring = "傍晚好";
+		else if (myhour < 22)
+			welcomestring = "晚上好";
+		else
+			welcomestring = "夜里好";
+		return welcomestring;
+	}	
+	$('body').on('submit', '#loginForm', function(){
+		if ($('#senderName').val() == "") {
+			alert("你好像忘了输入用户名啦！");
+			$('#senderName').focus();
+			return false;
+		}
+		if ($('#password').val() == "") {
+			alert("你好像忘了输入用户密码啦！");
+			$('#senderName').focus();
+			return false;
+		}
+		return true;
+	});
+
+})
+</script>
+
+</head>
+
+<body>
+	<table width="993" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#901D20" class="hd01">
+		<tbody><tr>
+			<td width="21" height="32">&nbsp;</td>
+			<td width="104"> 游客 <span class="lan12">下午好</span></td>
+			<td width="400" class="hei12">
+				
+			</td>
+
+			<td width="174" align="center">
+				<a href="http://login.home.news.cn/getPwd.jsp" target="_blank">找回密码</a>   
+				<a href="http://misc.home.news.cn/common/html/yhxy.html" target="_blank">管理规定</a>   
+				<a href="http://forum.xinhuanet.com/help.html" target="_blank">论坛帮助</a></td>
+				<td width="105" align="center" id="userCount">
+					<a href="/view/common/onlineuser.jsp" target="_blank"> 当前在线</a> 46179
+					<!--  <script language="JavaScript" src="http://login.home.news.cn/onlineUserNumber.jsp"></script>  -->
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<!-- 未登录 -->
+
+	
+</body>
+
+</html>
+
+		<table width="993" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F2F2F2">
+			<tr>
+				
+				<td width="39"><img src="http://tmisc.home.news.cn/forum/images/2010/forum_home.gif" width="28" height="27" />
+				
+				</td>
+				<td width="730" class="dqwz">
+<!-- 					<a href="http://www.news.cn/forum" target="_blank">社区首页</a> &gt;  -->
+					<a href="/list/84-0-0-1.html" class="bai12">旗帜论坛</a></td>
+				<td width="16" valign="middle"><img src="http://tmisc.home.news.cn/forum/images/2010/hfd.gif" />
+				</td>
+				<td class="dqwz">值班斑竹：<a href="/space/userlist.do?id=xionglj" target="_blank">维君</a> <a
+					href="/space/userlist.do?id=" target="_blank"></a>
+				</td>
+			</tr>
+		</table>
+		
+		<table width="993" border="0" align="center" cellpadding="0" cellspacing="0">
+			<tr>
+				<td height="41" valign="middle" class="hong12">&nbsp;&nbsp;论坛声明：本帖由网友上传，只代表网友个人观点，转帖请注明作者及出处。删帖申请，请邮件与我们联系（邮箱：xhwjbx@xinhua.org），中介或代理机构勿扰。
+				</td>
+			</tr>
+		</table>
+		
+		<table width="993" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr valign="top">
+				<td width="725">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<!-- 设置权限变量 减少循环验证权限-->
+						
+						
+						
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+										<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#333333">
+											<tr>
+												<td id="title" width="420" class="biaoti"><b>成都失信行为联合惩戒机制启动</b> </td>
+												 <td class="xbiaoti"><a name="138148871"></a> <a href="#replyArea">回复</a> | <a href="JavaScript:doMailTo()">推荐</a> | <a
+													id="sc" onclick="encodeUri('sc')" href="">收藏</a> | <a href="/thread/138148871/1.html">树状</a>
+												</td>
+												
+											</tr>
+										</table>
+									
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_1">
+												
+													&nbsp;作者： 
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_0" href="/space/userspace.do?id=92397346" target="_blank" class="zuozhe01">花碑、社区</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('92397346');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-11-12 10:17 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=92397346" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=92397346"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/92397346"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+										<div id="sikeEmbed">
+											<iframe src="http://www.xinhuanet.com/forum/zt2014/qz10418fzltend/index.htm" scrolling="no" height="120" frameborder="0"
+												vspale="0" noresize="" marginheight="0" framespacing="0" marginwidth="0" name="search" border="0"
+												style="height:120px;width:100%;"></iframe>
+										</div>
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_1"><br>
+2015年7月，成都正式获批成为全国11个创建社会信用体系建设示范城市之一。为落实国家关于创建社会信用体系建设示范城市的工作部署，加快全市社会信用体系建设，日前，我市出台了《成都市创建社会信用体系建设示范城市实施意见（2015-2016年）》（以下简称《实施意见》），明确以建设覆盖全社会的公共信用信息共享交换平台为基础，以构建守信激励和失信惩戒机制为重点，全面展开全市社会信用体系建设。到明年，建成信用信息共享交换平台，实现与国家统一的信用信息共享交换平台和“信用中国”网站的互联互通，这意味着，将打破“信息孤岛”，在信息资源有效共享的基础上，使守信成为守信者的通行证，失信者面临处处受限的窘境。<br>
+　　失信行为联合惩戒机制今年启动建立<br>
+　　推进社会信用体系建设是一个系统工程，涉及面广、时间跨度长，《实施意见》是整个系统工程的重要一环。记者了解到，《实施意见》在制定的过程中，认真贯彻了关于加快推进社会信用体系建设的相关决策部署，并按照《成都市社会信用体系建设规划(2015-2020年)》要求，围绕政务诚信、商务诚信、社会诚信和司法公信建设，推进信用记录和信用产品的广泛应用，同时强调加大宣传和教育力度，从而努力提高全社会的诚信意识和信用水平，为我市的经济社会发展营造良好的信用环境。<br>
+　　同时，《实施意见》还明确了年度目标，提出在2015年，我市将建立创建社会信用体系建设示范城市的工作体系和运行机制，落实专门工作机构、人员和经费保障;实施统一的社会信用代码制度;以行政执法信用记录为重点，建立健全公民、法人和其他组织各领域的信用记录，启动信用信息共享交换平台建设;率先在行政审批、招标投标、政府采购、财政性资金使用等领域使用信用记录和信用产品;在若干重点领域建立并实施失信行为联合惩戒机制，大力开展诚信教育、诚信宣传活动。<br>
+　　到2016年，将建成信用信息共享交换平台，实现与国家统一的信用信息共享交换平台和“信用中国”网站的互联互通;在行政管理和公共服务各领域广泛应用信用记录和信用产品;全面建立事前信用承诺、事中信用分类监管、事后信用联合惩戒制度，初步建立以信用为核心的市场监管体系，全社会诚信意识明显提高。<br>
+　　行政许可和行政处罚推进7日公示制度<br>
+　　记者从《实施意见》中了解到，我市明确了创建社会信用体系建设示范城市的工作部署，通过明确责任单位、完成时限以确保各项创建工作顺利完成。而分工落实主要在于在前期工作的开展中就强化了顶层设计，据了解，早在今年4月份我市正式出台了《成都市社会信用体系建设规划(2015-2020年)》，围绕政务诚信、商务诚信、社会诚信和司法公信建设，以健全信用法律法规和标准体系、形成覆盖全社会的征信系统为基础，以推进诚信文化建设、建立守信激励和失信惩戒机制为重点，明确了成都市社会信用体系建设的目标任务、关键环节和时间步骤。<br>
+　　作为《实施意见》提出的今年的年度目标之一，推进社会统一信用代码制度已在我市工商企业登记领域得到落实。记者从发改委了解到，我市于今年8月就出台了《成都市“三证合一”登记制度改革实施方案》，并于9月1日率先在工商企业登记领域正式实施统一社会信用代码制度。同时，为进一步加大政府信息公开和数据开放力度，我市正在推进行政许可和行政处罚7日公示相关工作，初步形成以“市级部门—市政务服务中心和政务服务办—信用信息共享交换平台”为实施路径的公示机制，实现与“信用中国”网站的信息共享交换。<br>
+　　崇州和高新试点农村和小微企业信用体系建设<br>
+　　值得一提的是，我市还深化了农村和小微企业信用体系试点。<br>
+　　2015年7月，成都获批成为全国首个农村金融服务综合改革试点城市。在农村信用体系建设方面，以崇州市为试点，已累计采集各类涉农信息近20余万条，并建立了信用评价和信用激励约束机制，引导金融机构向守信主体加大信贷资源和政策资源的倾斜力度。<br>
+　　人民银行成都分行营业管理部也在探索实现新型农业经营主体信息共享，促进农村金融服务创新与现代农业发展需求有效对接。据悉，目前在崇州开展的建设新型农业经营主体信息共享机制工作取得积极进展，信用激励奖惩和风险基金持续补充机制初步建立，明确了对失信行为的惩戒措施，促进了该市金融机构信贷资源向守信主体倾斜。截至9月末，崇州市农户贷款余额23亿元。金融机构向示范信用镇桤泉镇的信用户发放了全省首批经济林木（竹、果）权抵押贷款授信400万元，向信用镇隆兴镇、白头镇的信用专合社发放首宗农村土地经营权直接抵押贷款130万元、农业生产经营设施所有权抵押贷款140万元。农商银行等使用人民银行支农再贷款向包含8个乡镇（其中7个为信用镇）的10万亩粮食高产综合示范基地发放贷款9000万元。<br>
+　　小微企业信用体系的建设也在紧锣密鼓地开展之中。小微企业信用体系建设方面以高新区为试点，正在打造科技金融服务平台，实现科技资源和金融资源的深入对接。<br>
+　　人民银行成都分行营业管理部与市科技局共同建立创业天府科技金融服务平台，已初步完成平台系统搭建和上线测试。此外，为缓解中小企业融资难，盘活企业应收账款，大力推动“中征应收账款融资服务平台”的运用，8月底，该部与市经信委、财政局、国资委研究落实《四川省应收账款融资甘泉行动计划》。截至9月末，我市已开通平台金融机构用户219户，开通借款企业用户146户，上传平台账款84笔，平台成交金额92.91亿元。成交的85笔业务中，78%的借款企业为各类生产或商贸企业，51%的企业单笔借款金额少于1亿元，其中低于1000万元的应收账款融资13笔。<br>
+　　建立信用信息共享交换平台可进行信用查询<br>
+　　下一步的工作重点有哪些呢？根据《实施意见》提出的年度目标，成都市还将从数个方面加大社会信用体系建设的推进力度。<br>
+　　加快公共信用信息系统建设。依托成都市已经建立的数据交换平台、企业信用信息系统、公民信息管理系统和部门数据交换机制，结合“互联网+”和大数据应用，建立开放的公共信用信息共享交换平台。以“成都信用网”为门户网站，为公民、企业、社会组织、政府部门提供信用查询及相关服务。<br>
+　　同时，成都市还将做好信用信息数据归集工作，通过完善信用信息数据清单，形成《成都市公共信用信息目录》；并充分利用大数据的理念、技术和资源，加快整合各类政府信息平台，建成成都市公共信用信息共享交换平台，实现与国家统一的信用信息共享交换平台和“信用中国”网站的互联互通。<br>
+　　记者从发改委获悉，成都市还将率先在食品药品安全、环境保护、医疗卫生等关系到经济健康发展和社会和谐稳定的重点领域推行信用记录和信用报告。而这是加快以政府示范带动为先导的信用市场培育的重要内容，从而引导法人、自然人等社会主体在市场交易、就业、公共业务办理等领域依法使用信用信息，推动征信机构、信用市场的培育和发展。<br>
+　　同时，下一步，成都市还将初步建立以信用为核心的市场监管体系。具体而言，将率先在工商登记领域建立市场主体准入前信用承诺制度；在税务、建筑、交通等领域扩大事中信用分类监管制度；在财政资金补助、政府采购、政府购买服务等领域建立健全守信激励和失信联合惩戒机制。同时，积极推进信用信息应用示范工程、小微企业信用体系建设工程、农村信用体系建设工程、信用服务机构培育工程、信用人才培养工程以及诚信文化示范工程六大创新性示范工程，发挥示范型工程带动引领作用。（记者 徐璨 马玉宝）<br>
+　　个人信用<br>
+　　8个查询点查询<br>
+　　在面对公众的征信服务方面，记者了解到，人民银行成都分行营业管理部已在主城区设立了6个个人信用报告代理查询点，在龙泉驿和青白江各设立了1个代理查询点。截至9月末，辖内受理企业、个人信用报告查询分别为1.5万户次、24.4万人次，同比分别增长30%和16%。（记者 马玉宝）<br>
+　　金融信用<br>
+　　10家小贷公司<br>
+　　已开通查询服务<br>
+　　昨日，记者从人民银行成都分行营业管理部了解到，该部正深入推进金融信用信息基础数据库建设，不断提高征信系统覆盖面。目前，辖内主要银行业金融机构及信托投资公司、财务公司均已成功接入金融信用信息基础数据库，我市首批获准接入的10家小贷公司已开通了查询服务，第二批24家小贷、担保机构已获批接入人民银行征信系统，第三批10家机构已完成接入初审。（记者 马玉宝）<br>
+　　企业信用<br>
+　　已披露267批<br>
+　　失信黑名单<br>
+　　企业信贷将受限<br>
+　　诚信二字说来容易，真正做到却并不简单。按照市委、市政府打造“诚信成都”的战略部署和我市创建社会信用体系示范城市的要求，市工商局围绕商事制度改革任务，大力推进企业信用体系建设，有效提升了企业守法诚信经营意识，促进了企业法定代表人勤勉履行职责义务，提高了工商、市场监管部门的执法权威。<br>
+　　“为进一步推动企业信用信息系统建设，我们构建了‘一中心一平台一门户四系统’的企业信用信息网络体系。”据市工商局信用中心副主任杨勇介绍，市工商局建立了以电子政务云中心为载体、统一数据交换平台为基础、“成都信用网”为门户网站，包含企业、个体、工商户、中介机构和重点人群四个子系统，集信息归集、交换、共享和披露于一体的网络体系，实现了我市195余万户市场主体信息（含注销、吊销）的全覆盖。<br>
+　　同时，市工商局在开发面向移动互联网的微应用的同时，还积极拓展企业信用信息征集与互联互通。“我们紧紧围绕商事制度改革和创建信用示范城市需要，扩大信息公示范围，强化社会监督。”杨勇说，今年上半年，“成都信用网”已与全国企业信用信息公示系统(四川)实现对接。目前采用自动采集上传数据的成员单位由8家增至13家，通过自动交换共享数据的单位由1家增至8家，极大地提高了数据采集的及时性和准确性。<br>
+　　与此同时，成都市还通过“成都信用网”“红黑名单榜”，加大对金融、食药、质监、工商、法院等单位掌握的严重失信企业信息进行披露。截至今年10月，“成都信用网”累计公布红名单129批，黑名单267批。对未按照《企业信息公示暂行条例》规定期限公示年度报告的企业列入企业经营异常名录。商业银行可通过“成都信用网”查询，对列入经营异常名录企业做出信贷限制。（记者 陈瑾 王李科）<br>
+　　新闻链接<br>
+　　公民个人信息 目前已归集各类数据近10亿条<br>
+　　为完善公民信息管理，加快创建社会信用体系建设示范城市，成都市建设了以公民身份号码为标识，集居住、婚育、就业、纳税、信用、社会保险等信息于一体的公民信息管理系统，构建起跨部门数据共享交换平台，归集全市各级各部门和公共企事业单位涉及的全域成都的公民信息数据，实现了跨部门数据交换和综合应用。<br>
+　　记者从市政务服务办了解到，通过推进公民信息数据归集、加强公民信息数据共享应用、加大数据综合分析力度等，完善了公民信用信息，促进了诚信社会建设。目前，已归集公民个人信息各类数据近10亿条(含历史数据)，为市人社局、市民政局、市卫计委等部门提供跨部门数据共享服务约1000万次。通过收集相关部门在业务办理过程中反馈的由部门间数据共享发现的不一致信息，发现使用伪造证件、提供虚假材料等失信行为。<br>
+　　据介绍，下一步，将按照我市创建社会信用体系建设示范城市的工作要求，进一步梳理形成公民信用信息目录，加强数据归集力度，建设全市个人信用信息基础库;通过梳理业务规则，建立数据规范等方式提升发现异常数据的能力，同时强化数据纠错机制，建立健全异常数据发现、纠错机制，不断提升数据质量;配合公共信用信息共享交换平台建设，依托个人信用信息库为推进信用记录和信用产品的广泛应用提供数据支撑。<br>
+<br>
+<br>
+<br>
+<br>
+                                ---转载《四川文明网》<br>
+</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+											<tr align="left">
+												<td><br /> <br />
+												</td>
+											</tr>
+											
+											
+												
+												<tr align="left">
+													<td><br /></td>
+												</tr>
+												
+												
+													<tr align="left">
+														<td><IFRAME
+																src="http://www.xinhuanet.com/forum/rtlj.htm"
+																frameBorder=0 width=710 height=610></IFRAME></td>
+													</tr>
+												
+												 
+												
+											
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+													
+													
+													<div id="share">
+														分享到：  <span>
+															<a href="javascript:;"
+																onclick="share2()" class="hei12" title="分享到新华微博"> <IMG src="http://tmisc.home.news.cn/forum/xinhuawb.gif"
+																	width="16" height="16" hspace="2" border="0" align="absmiddle" />新华微博</a>
+														</span>
+														<span>
+															<a id="sinar" title="分享到新浪微博" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://v.t.sina.com.cn/share/share.php?appkey=649106854',u=z||d.location,p=['&url=',e(u),'?&title=',e(t||d.title),'&source=',e(r),'&sourceUrl=',e(l),'&content=',c||'gb2312','&pic=','&searchPic=false',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=600,height=430,left=',(s.width-600)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','',document.title,'','utf-8'));">
+															<img src="http://tmisc.home.news.cn/forum/sinawb.gif" alt="分享到新浪微博" width="20" height="16" hspace="2" border="0" align="absmiddle" />新浪微博</a> 
+														</span>
+														<span>
+															<a href="javascript:window.open('http://v.t.qq.com/share/share.php?url='+encodeURIComponent(document.location)+'&amp;appkey=649106854&amp;site=http://www.xinhuanet.com/&amp;pic='+encodeURI('')+'&amp;title='+encodeURI(document.title),'', 'width=700, height=680, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' ); void 0;"
+																title="分享到腾讯微博"> <img src="http://tmisc.home.news.cn/forum/qqwb.png" alt="分享到腾讯微博" width="16" height="16"
+																	hspace="2" border="0" align="absmiddle" />腾讯微博
+															</a>
+														</span>	
+														<span><a href="/showcoder/showc.do?id=138148871&title=成都失信行为联合惩戒机制启动&" target="_blank" title="分享到微信">
+																<img src="http://tmisc.home.news.cn/forum/weixin.png"  alt="分享到微信" width="19" height="16"
+																	hspace="2" border="0" align="absmiddle"/>微信</a></span>
+													</div>
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('0');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('1');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>570</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+
+						<tr>
+							<td height="17">&nbsp;</td>
+						</tr>
+
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<form method="post" action="/newPost.do" name="bbsedit" enctype="multipart/form-data" onSubmit="return checkReply(this)">
+
+										
+
+										<table width="100%" border="0" cellpadding="0" cellspacing="0" class="hei12">
+											<tr>
+												<td height="5" colspan="5" align="right"><a name="replyArea"></a>&nbsp;</td>
+											</tr>
+											<tr>
+												<td width="9%" align="center">标题</td>
+												<td width="3%" align="center"></td>
+												<td width="47%" align="left"><input name="title" type="text" id="title" size="40" maxlength="40"
+													onKeyUp="countTitleChars();" /></td>
+												<td width="19%">(当前可输入字数:<span id="title_num_leave" class="hong12">50</span>) <script>countTitleChars();</script>
+												</td>
+												<td width="14%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td height="20" colspan="5" align="right">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align="center">内容</td>
+												<td height="257" colspan="4" align="left"><textarea name="content" cols="80" rows="2" style="display:none"
+														onChange="GetActiveText(this.id);" onClick="GetActiveText(this.id);" onFocus="GetActiveText(this.id);"></textarea> <iframe
+														id="Editor" name="Editor" src="/editor.jsp?ubb=0&id=content&len=5000" frameborder="0" marginheight="0"
+														marginwidth="0" scrolling="no" style="height:257px;width:600px"></iframe>
+												</td>
+											</tr>
+
+											<tr>
+												<td height="20" colspan="5" align="right">&nbsp;</td>
+											</tr>
+											<tr>
+												<td>&nbsp;</td>
+												<td colspan="4"><table width="612" border="0" cellpadding="1" cellspacing="1" bgcolor="#DEDEDE" class="hei12">
+														<tr>
+															<input type="hidden" id="totalAttach" value="5" />
+															<td height="30" align="left" bgcolor="#ECECEC"><strong>&nbsp;上传单张本地图片</strong> 许可格式：jpg, gif, png 许可大小：小于1024K<input type="button" onclick="addAttachLine();" value="添加一张" /></td>
+														</tr>
+														<tr><td  height="30" align="left" bgcolor="#FFFFFF">&nbsp;
+															<fieldset>
+																<legend>附件信息</legend>
+																<p class="fileP">图片：<input type="file" name="picfile" size="56" style="height:22;"></p>
+																<p class="fileP" style="margin-top: 10px;">
+																	<span style="height: 100%; vertical-align: middle;">描述：</span>
+																	<textarea name="descp" placeholder="限200字" onkeyup="checkDescpCount(this)"></textarea>
+																</p>
+																<p class="fileP"><span class="descpTips"></span></p>
+															</fieldset>
+														</td></tr>
+													</table>
+													<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+														<tr>
+															<td width="100%" height="12">&nbsp;</td>
+														</tr>
+													</table>
+													<table width="612" border="0" cellpadding="1" cellspacing="1" bgcolor="#DEDEDE" class="hei12">
+														<tr>
+															<td height="30" align="left" bgcolor="#ECECEC" width="100"><strong>&nbsp;&nbsp;&nbsp;&nbsp;更多功能</strong>
+															</td>
+															<td bgcolor="#ECECEC">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td>
+																			<table width="100%" border="0" cellspacing="0" cellpadding="0" height="35">
+																				<tr>
+																					<td width="25%" height="40"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/photo/control/imagePost.do" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon01.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/photo/control/imagePost.do" target="_blank">批量上传图片</a>
+																								</td>
+																							</tr>
+																						</table>
+																					</td>
+																					<td width="20%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/video/control/videoArticlePost.do" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon02.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/video/control/videoArticlePost.do" target="_blank">上传视频</a>
+																								</td>
+																							</tr>
+																						</table></td>
+																					<td width="40%">
+																						<!--
+																						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/music/control/musicFilePost.do?type=2" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon03.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/music/control/musicFilePost.do?type=2" target="_blank">上传音乐</a><span
+																									class="l12"><font color="#009900"><a
+																											href="http://news.xinhuanet.com/forum/2008-11/13/content_10352089.htm" target="_blank">（如何引用）</a> </font> </span>
+																								</td>
+																							</tr>
+																						</table>-->
+																						</td>
+																					<td width="20%"></td>
+																				</tr>
+																			</table></td>
+																	</tr>
+																	<tr>
+																		<td>
+																			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																				<tr>
+																					<td width="18%" height="35"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/blog/control/home.do?articleid=1" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon04.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/blog/control/home.do?articleid=1" target="_blank">写博客 </a>
+																								</td>
+																							</tr>
+																						</table>
+																					</td>
+																					<td width="20%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/bookmark/control/bookmarkFormView.do" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon05.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><A id="scbt" onClick="encodeUri('scbt')" href="">收藏本贴</a>
+																								</td>
+																							</tr>
+																						</table></td>
+																					<td width="20%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/mail/control/mailLaunch.do?view=list" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon06.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/mail/control/mailLaunch.do?view=list" target="_blank">接收邮件</a>
+																								</td>
+																							</tr>
+																						</table></td>
+																					<td width="20%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/calendar/control/home.do" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon07.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/calendar/control/home.do" target="_blank">使用日历</a>
+																								</td>
+																							</tr>
+																						</table>
+																					</td>
+																					<td width="22%"></td>
+																				</tr>
+																			</table></td>
+																	</tr>
+																</table></td>
+														</tr>
+													</table>
+													<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+														<tr>
+															<td width="100%" height="12"></td>
+														</tr>
+													</table>
+													<table width="612" border="0" cellpadding="0" cellspacing="0" class="hei12">
+														<tr>
+															<td width="120" align="left"><strong>&nbsp;回复通知</strong>
+															</td>
+															<td width="20" align="left"><input type="radio" name="notifyid" id="radio" value="0" checked="checked"/></td>
+															<td width="60" align="left">不通知</td>
+															<td width="20" align="left"><input type="radio" name="notifyid" value="2" id="radio" /></td>
+															<td width="100" align="left">通过论坛短消息</td>
+															<td align="left">&nbsp;</td>
+														</tr>
+														<tr>
+															<td colspan="6" align="left" bgcolor="#FFFFFF">&nbsp;</td>
+														</tr>
+													</table>
+													<table width="100%" border="0" cellpadding="0" cellspacing="0">
+														<tr>
+															<td width="100%" height="12"><table width="612" border="0" align="center" cellpadding="0" cellspacing="0" class="hei12"
+																	bgcolor="#ECECEC">
+																	<tr>
+																		<td valign="middle">
+																				<span class="hei12">用户名: <input type="text" name="userid" size="20" maxlength="20" style="height:20" /> 密码:<input
+																					type="password" name="password" size="20" maxlength="20" style="height:20" />
+																					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my.home.news.cn/profile/passport.do" target="_blank"> <font
+																						color="#FF0000">注册新用户</font> </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://login.home.news.cn/getPwd.jsp" target="_blank">
+																						<font color="#FF0000">找回密码</font> </a> </span>
+																			
+																		</td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+													</table>
+													<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+														<tr>
+															<td width="100%" height="12"></td>
+														</tr>
+													</table></td>
+											</tr>
+											<tr>
+												<td height="40" colspan="5">
+													<table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+														<tr>
+															<td width="50%" align="center" valign="top"><input name="Submit" type="image"
+																src="http://tmisc.home.news.cn/forum/images/2010/forum_ft11.gif" width="73" height="25"><input type="hidden"
+																name="pid" value="0">
+															</td>
+															<td width="50%" align="center" valign="top">
+																<input name="reset" type="image" src="http://tmisc.home.news.cn/forum/images/2010/forum_ft12.gif"
+																 width="73" height="25" border="0" onclick="reset();return(false)" /> 
+																<input type="hidden" name="bid" value="84">
+																<input type="hidden" name="hid" value="0" />
+																<input type="hidden" name="parentid" value="138148871" />
+																<input type="hidden" name="deepflag" value="0">
+																<input type="hidden" name="arttype" value="0">
+																<input type="hidden" name="pnum" value="1" />
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+											<tr>
+												<td colspan="5">&nbsp;</td>
+											</tr>
+										</table>
+									</form></td>
+							</tr>
+						
+
+						
+
+					</table></td>
+				<td width="15" style="border-right:1px solid #d6d6d6;">&nbsp;</td>
+				<!--  -->
+				<td width="253" style="border-left:4px solid #dedede;" valign="top" align="left">
+					<iframe name="yl1" marginwidth="0" marginheight="0" src="http://www.xinhuanet.com/forum/zt2014/qz10417fzltend/index.htm" 
+					frameborder="0" id="leftIframe" scrolling="no"></iframe>
+<script type="text/javascript">
+var cpro_id="u2070375";
+(window["cproStyleApi"] = window["cproStyleApi"] || {})[cpro_id]={at:"3",rsi0:"250",rsi1:"300",pat:"3",tn:"baiduCustNativeAD",rss1:"#FFFFFF",conBW:"1",adp:"1",ptt:"0",titFF:"%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91",titFS:"14",rss2:"#000000",titSU:"0",tft:"0",tlt:"1"}
+</script>
+<script type="text/javascript">
+    /*社区内页细览画中画二250*250 创建于 2015-04-27*/
+    var cpro_id = "u2070361";
+</script>
+<!-- <script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script> -->
+<!-- <div><script type="text/javascript" src="http://f2.adpush.cn/ap/adspacejs/57573.js"></script></div> -->
+<script type="text/javascript" src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|TppAd|LtHzh250t200&db=xinhuanet&border=0&local=yes&js=ie" charset="gbk"></script>
+				</td>
+				<!--  -->
+			</tr>
+		</table>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td height="60">&nbsp;</td>
+			</tr>
+		</table>
+		<form name="mailto" method="post" action="/view/common/mailto.jsp" target="_blank">
+			<input type="hidden" name="title" /> <input type="hidden" name="url" />
+		</form>
+<script language="JavaScript">
+function encodeUri(id){
+     var title = document.getElementById("title").innerText;
+	 var url = location.href;
+	 title = encodeURIComponent(title);
+	 url = encodeURIComponent(url);
+	 var urlHref="http://my.home.news.cn/bookmark/control/bookmarkFormView.do?title="+ title + "&url="+url;
+	 document.getElementById(id).href=urlHref; 
+	}
+</script>
+<script type="text/javascript">
+var _w = 109 , _h = 16;
+var cUrl=document.location.href;
+var regexp1 = /http:\/\/.*\/c_([0-9]+).htm/g;
+var id = cUrl.replace(regexp1,'$1');
+var regexp2 = /(.+\/)(\w+\.\w+)(?:\?.+)?/g;
+var tempstr;
+var pic1="";
+var arEls = document.getElementsByTagName("img");
+for( var i=0;i<arEls.length;i++ ){
+       tempstr=arEls[i].src.replace(regexp2, '$2');  
+       if(tempstr.indexOf(id)>=0)
+       pic1+=arEls[i].src+",";
+}
+//设置图片地址
+pic1='';
+pic1 = pic1.replace(/\|\|/g,","); //由于picUrl是用||分割的,新华微博用,分割,所以要进行替换,  /g代表替换所有
+
+var param = {
+  url:'' || location.href,/**分享url的路径(可选,默认为所在页面的href)*/
+  type:'6',
+  appkey:'', /**您申请的应用appkey,显示分享来源(可选)4dd7a69ed7de049c2f45c8d6a335e75b*/
+  title:''|| document.title, /**分享的文字内容(可选，默认为所在页面的title)*/
+  pic:pic1, /**分享图片的路径(可选)*/
+  rnd:new Date().valueOf()
+}
+var temp = [];
+for( var p in param ){
+  temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )  
+}
+// (function(){
+// var t='<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://www.news.cn/weibo/share.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>';
+// document.getElementById("xhwbShareArea").innerHTML=t;
+// //document.getElementById("xhwbShareArea1").innerHTML=t;
+// })()
+function share2() {
+window.open("http://t.home.news.cn/share.jsp?"
+	+ temp.join('&'), "_blank", "width=615,height=505");
+}
+</script>
+	<script type="text/javascript" src="http://www.xinhuanet.com/weibo/follow/callbackf.js" charset="utf-8"></script>
+	
+	<div style="display:none">
+			<script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script>
+			<script type="text/javascript">
+				wd_paramtracker("_wdxid=010020040414084000000000012101920138148871");
+			</script>
+			<noscript>
+				<img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010020040414084000000000012101920138148871" border="0" />
+			</noscript>
+		</div>
+	</div>
+<script type="text/javascript">
+var totalAttach = $("#totalAttach").val(); //最多添加5个附件
+//添加一个附件行
+function addAttachLine(){
+	if($("input[name='picfile']").length < totalAttach) {
+		$("input[name='picfile']:last").parent().parent().after('<fieldset><legend>附件信息</legend><p class="fileP">图片：<input type="file" name="picfile" size="56" style="height:22;"></p><p class="fileP"><span style="height: 100%; vertical-align: middle;">描述：</span><textarea name="descp" placeholder="限200字" onkeyup="checkDescpCount(this)"></textarea></p><p class="fileP"><span class="descpTips"></span><span class="delBtn"><input type="button" value="删除" onclick="removePicInput(this)" /></span></p></fieldset>');
+	}else{
+		alert("最多只能添加"+totalAttach+"个附件");
+	}
+}
+//删除一个附件行
+function removePicInput(obj){
+	$(obj).parent().parent().parent().remove();
+}
+
+</script>
+
+<script type="text/javascript">
+
+function postLike(postId){
+	like(postId, function(){
+		
+	});
+	document.location.reload();
+}
+</script>
+</body>
+</html>
+

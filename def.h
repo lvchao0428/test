@@ -13,22 +13,24 @@
 typedef struct UrlBuf
 {
    int lineno;
+   char* filename;
+   char* htmls;
+   int file_size;
+   char* url;
    char* siss; //存储最短可识别特征的字符串
-   char* str;
-   char* id;
-   char* cls;
+   char* title;
+   char* time;
+   char* content;
+   
    struct UrlBuf* next;
 }UrlBuf;
 
 typedef struct CommonPart
 {
-   int* urlIndexs;
-   int lineno;
-   char* comStr;
+   char* siss;
    char* id;
    char* cls;
-   char* auth;
-   char* time;
+   UrlBuf* maxBuf; 
    UrlBuf* ubList;
    struct CommonPart* next;
 }CommonPart;

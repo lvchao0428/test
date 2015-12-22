@@ -1,0 +1,783 @@
+<!--UINFO: http://bbs.jrj.com.cn/msg,99150332,1.html	length=61340&last_modified=0&time_saved=1450676873&charset=gbk-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+		<title>抓住机遇适时转型 造就日本经济崛起：1946-1984-债券论坛-金融界理财论坛</title>
+		<meta name="keywords" content="抓住机遇适时转型 造就日本经济崛起：1946-1984,理财论坛,股市分析,预测明日大盘走势,个股分析">
+		<meta name="description" content="抓住机遇适时转型 造就日本经济崛起：1946-1984　　主要观点：　　二战结束后，日本从一个满目疮痍、资源匮乏的战败国，在"/>
+		<script type="text/javascript" src="http://js.jrj.com.cn/myjrj/js/jquery.js"></script>
+		<script src="http://js.jrj.com.cn/bbsnew/bbs120626.js" type="text/javascript"></script>
+		<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/LoginDialog-min.js"></script>
+		<link rel="stylesheet" id="skin" type="text/css" href="http://js.jrj.com.cn/bbsnew/css/essay120605.css" />
+		<script type="text/javascript" src="http://js.jrj.com.cn/myjrj/js/api/myjrj_api_1.js"></script>
+		<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/dialogs-2.js"></script>
+		<script src="http://js.jrj.com.cn/bbsnew/article/staticpage140102.js" type="text/javascript"></script>
+		<link rel="stylesheet" type="text/css" href="http://js.jrj.com.cn/lib/ui/dialog-cool.css" />
+		<link href="http://js.jrjimg.cn/common/bottombar.css" rel="stylesheet" /><!-- 底部通用导航新加样式 -->
+		<style type="text/css">
+	    	.jbtext{background:url(http://i0.jrjimg.cn/istock/igjb.png) no-repeat 0 center;padding:0 20px 0 20px;cursor:pointer;}
+	    	.fcfcnew{z-index:9999;display:none;background:url(http://i0.jrjimg.cn/bbsnew/img/fcfcnew.png) no-repeat 0 0;width:490px;height:350px;position:fixed;top:50%;left:50%;margin-left:-245px;_position:absolude;margin-top:-175px;}
+			.fcfcnew .hd{height:104px;position:relative;}
+			.fcfcnew .hd a.clear{position:absolute;top:8px;right:14px;width:15px;height:15px;display:block;}
+			.fcfcnew .hd i{font-family:"微软雅黑","宋体";font-sizE:24px;position:absolute;top:53px;left:245px;color:#fff;}
+			.text-new1{padding:25px 60px 0;}
+			.text-new1 p{line-height:21px;}
+			.text-new1 p.cur{padding:0 0 20px;}
+			.fhbox{position:fixed;margin-left:480px;left:50%;top:40%;_position:absolute;}
+			.fhbox a{display:block;background:url(http://i0.jrjimg.cn/istock/fhtopnew.jpg) no-repeat;width:66px;height:68px;}
+			.fhbox a.fh02{background-position:0 -68px;margin-top:9px;}
+			.fhbox a.fh01:hover{background-position:-66px 0;}
+			.fhbox a.fh02:hover{background-position:-66px -68px;}
+			.sharetos {
+			    background: none repeat scroll 0 0 transparent;
+			    cursor: pointer;
+			    display: inline-block;
+			    font-size: 12px;
+			    height: 25px;
+			    margin-right: 5px;
+			    padding-left: 2px;
+			    vertical-align: middle;
+			}
+			.mpll {
+			    margin: 38px 0 5px;
+			    overflow: hidden;
+			    text-align: center;
+			}
+	    </style>
+	    <script type="text/javascript" src="http://js.jrjimg.cn/js.do?f=/lib/jrjbase-min.js,/lib/util/ie6fixed-nojq-min.js,/lib/ui/ScrollLeft-min.js,/lib/ui/PopupMsgBox-nojq-1.0.min.js"></script>
+	    
+<script>
+$(document).ready(function(){
+	var ie6Fixed = JRJ.util.ie6Fixed;
+	ie6Fixed.fixed($(".fcfcnew"), "cc");
+	//$(".jbtext").click(function(){
+	//		$(".fcfcnew").show();
+	//		return false;
+	//});
+	$(".clear").click(function(){
+			$(".fcfcnew").hide();
+			return false;
+	});
+  $("#helpbutton").css("right",($(window).width()-$("#topIndex").width())/2-$("#helpbutton").width()-2);
+  if(jQuery.browser.msie && jQuery.browser.version == 6) {
+    Followmod.follow();
+  }
+  $("#helpbutton").show();
+});
+Followmod = {
+  follow : function(){
+    $("#helpbutton").css("position","absolute");
+    $(window).scroll(function(){
+      var mtop = $(window).scrollTop() + $(window).height() - $("#helpbutton").outerHeight()-260;
+      var mleft = ($(window).width()-$("#topIndex").width())/2-$("#helpbutton").width()-2;
+      $("#helpbutton").css({"top":mtop,"right":mleft});
+    });
+  }
+}
+function imgsize(img){
+	img.width=Math.min(img.width,900);
+	if(img.width==900){
+		img.style.cursor="pointer";
+		img.title="点击查看原图";
+	}
+}
+
+function imggo(img){
+	if(img.width>=900){
+		window.open(img.src);
+	}
+}
+</script>
+	</head>
+	<body>
+	<script type="text/javascript" src="http://js.jrjimg.cn/home/click.js"></script>
+	<div class="fcfcnew" id="fcfcnew">
+    	<div class="hd"><a href="javascript:void(0);" class="clear"></a><i>金融界论坛</i></div>
+        <div class="bd">
+        	<div class="text-new1">
+        		<strong>尊敬的用户：</strong>
+                <p class="cur">如您在使用金融界网站论坛的过程中发现色情，反动言论，伪造他人言论，广告欺诈等帖子，为便于网友反馈问题，特将金融界论坛管理员联系方式公布如下，欢迎大家有问题或者建议随时联系。</p>
+                <p>金融界客户服务中心邮箱：jrjhudong@jrj.com.cn</p>
+                <p>论坛客服电话010-58325388-1532</p>
+                <p>金融界论坛官方账户：管理员01</p>
+                <p>金融界论坛客服QQ:2632547546</p>
+                
+            </div>
+        </div>
+    </div>
+	<p class="cnav bbs">
+	<a href="http://www.jrj.com/" target="_blank">首页</a>|
+	<a href="http://i.jrj.com.cn/" target="_blank">我的金融界</a>|
+	<a href="http://blog.jrj.com.cn/" target="_blank">博客</a>|
+	<a href="http://bbs.jrj.com.cn/" target="_blank">论坛</a>|
+	<a href="http://istock.jrj.com.cn/" target="_blank">爱股</a>|
+	<a href="http://itougu.jrj.com.cn?from=itougu-20141227-rc-bbs-sydh-wzl-051" target="_blank">爱投顾</a>|
+	<a href="http://zhibo.jrj.com.cn/" target="_blank">实盘直播</a>|
+	<a href="http://v.jrj.com.cn/" target="_blank">微视频</a>|
+	<a href="http://pic.jrj.com.cn/" target="_blank">图片</a>
+
+			<span>[<a href="http://www.m.jrj.com.cn/" target="_blank">手机金融界</a>]
+			[<a href="http://bbs.jrj.com.cn/bbsmap.html" target="_blank">网站地图</a>]
+			[<a href="javascript:void(0);" onclick="javascript:addFav();">收藏本页</a>]</span>
+		</p>
+		<div class="ban bbs">
+			<a href="http://bbs.jrj.com.cn" class="logo"><a href="http://bbs.jrj.com.cn"></a></a>
+			<div class="fr" id="adDiv"></div>
+      <script>
+             window.onload=function(){
+             var div = document.getElementById("adDiv");
+             div.innerHTML = '<div class="ad1"><iframe width="547" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=27&op=1" ></iframe></div>'
++'<div class="ad2"><iframe width="195" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=28&op=1" ></iframe></div>';
+         }               
+     </script>                       
+	</div>
+	<div class="Bbs_Thread bdnav fw1">
+			<select class="fr" name="history" onchange="windowOPENTO(this)">
+				<option>
+					最近访问版区
+				</option>
+			</select>
+						<!-- a href="http://www.jrj.com.cn">金融界</a><i>&gt;</i --><a href="http://bbs.jrj.com.cn">金融界论坛</a><i>&gt;</i><a href="/money">理财论坛</a><i>&gt;</i><a href="/bond">债券论坛</a>		</div>
+	<div class="Bbs_Thread bbs flist">
+			<div id="login">
+			</div>	
+<form action="/article/searchArticle.jspa" class="search" method="get" onsubmit="return checkData(this)">
+<select id="searchtype" name="searchtype">
+	<option value="author">
+		作者
+	</option>
+	<option value="title">
+		标题
+	</option>
+	<option value="tag">
+		标签
+	</option>
+</select>
+<input class="text" value="请输入搜索内容" name="typeValue" onfocus="onSelected(this)" onblur="onLeave(this)" id="typeValue" type="text"/>
+<input type="hidden" name="from" value="search"/>
+<input type="hidden" name="cid" value="2" />
+<input class="btn" value="搜索" type="submit"/>
+</form>
+</div>
+<div class="navlist" id="loginlist" onmouseover="showloginlist()" onmouseout="outMenuDiv(this, event)" style="display:none">
+<ul><li><a href="/author,2," target="_blank" id="mymsg">我的帖子</a></li><li><a href="/jiangu" target="_blank">我的荐股</a></li></ul>
+</div>
+
+<script>
+	setValue('2','907','0','99150332','090331010013261537','/article/getMsgReply.jspa?msgid=99150332&itemid=0&forumid=907&cid=2&status=0&count=$totalCount');
+	showLogin('thread');
+</script>
+		<div class="Bbs_Thread fun button1">
+			<span class="fl">
+			<!-- a href="javascript:void(0);" onclick="goToReplyDiv('replyDiv')" class="reply" target="_top">回复</a -->
+			<a href="#" onclick="return newthread('/article/sendPreStock.jsp');" class="reply">荐股</a>
+			<a href="#" onclick="return newthread('/article/sendMsgMain.jsp?cid=2&forumid=907&itemid=0');" class="pub">发新帖</a>
+			<a href="javascript:void(0);" onclick="javascript:window.location.reload();" class="break">刷新</a>
+			<a href="/doldmsg/2_99150332.html" class="acol" target="_blank">以旧版方式浏览</a>
+			<a href="http://www.m.jrj.com.cn" class="acol" target="_blank" style="background:url(http://i0.jrjimg.cn/bbsnew/img/phone.gif) no-repeat;padding:5px 0 0 25px;margin:0 0 0 10px">手机上论坛</a>
+			</span>
+			<span class="fr" id="adReplySpan">
+				<!--	<a href="#">预留广告位预留广告位</a>-->
+			</span>
+		</div>
+
+		<div class="Bbs_Thread lcd zhengwen" id="topIndex">
+			<div class="ltit">
+				<h1><b>『普通』主题： 抓住机遇适时转型 造就日本经济崛起：1946-1984</b></h1>
+				<span>
+					<a class="jbtext" id="jubao" onclick="javascript:$('.fcfcnew').show();">举报</a>
+					<a href="javascript:void(0);" onclick="javascript:addFav();">收藏本页</a><!-- a href="javascript:void(0)" onclick="doFavorite('99150332','0','907','2')">收藏</a--> 
+				</span>
+			</div>
+			<div class="author">
+			<!-- a href="http://i.jrj.com.cn/app/trace/traceforum.jspa?user=090331010013261537" target=_blank -->
+			<a href="/author,2,iforeveryoung" target=_blank>
+						<img src="http://i5.jrjimg.cn/sys/default_xs.jpg" alt="" />
+						</a>
+			<p class="name"><b><a href="/author,2,iforeveryoung" name="users" id="1-090331010013261537" onmouseover="showUserinfo('090331010013261537','topIndex','2','25','907')" target="_blank" ref="090331010013261537">iforeveryoung</a></b><!--a href="#">查看他的牛股池</a--><a href="/author,2,iforeveryoung" id="track1-090331010013261537" target="_blank">查看TA的论坛文集</a><span class="fr">发表日期：2015-11-30 09:55:23</span></p>
+			<p>头衔：社区侯爵<em id="jifen">积分：661265</em>
+			<a href="#" id="attentionBut" onclick="checkLogin('090331010013261537','iforeveryoung',1);">关注</a><a href="#" id="frientBut" onclick="checkLogin('090331010013261537','iforeveryoung',2);">加为好友</a>
+			<span class="fr">
+			<a href="#" name="admin" id="admin-99150332" onmouseover='getOperation("99150332",1,0,0,0)' style="display:none">管理</a>
+			<a href="javascript:void(0)" target="_top" onclick="return quoto('iforeveryoung','msgMainContent','2015-11-30 09:55:23');">引用</a>
+			<span class="pingfen">
+			<a href="javascript:void(0)" onclick='msgScoreShow("99150332","0","2")'>评分</a>
+			<span class="pop" style="display:none"><strong id="pingfenClose" title="关闭"></strong>点击这里可对本文评分<em></em></span>
+			</span>
+			<script type="text/javascript">
+			$(function() {
+				var pingfenVal = getCookie('threadMsgMain_pingfen');
+				if(pingfenVal != null && pingfenVal != ''){
+					$(".pop").css('display','none');
+				}else {
+					$(".pop").css('display','inline');
+				}
+				$("#pingfenClose").click(function(){
+					addCookie('threadMsgMain_pingfen',1,241000);
+					$(".pop").css('display','none');
+				});
+			});
+			</script>  
+			<a href="#" onclick='return onlyViewUserThread("99150332","2","090331010013261537")'>只看该作者</a>			<ul class='admin' id='only99150332' style="display:none"></ul>
+			</span></p>
+			</div>
+			<!--帖子内容-->
+			
+			<div id="msgcoin_99150332" class="pf_result"> </div>
+			
+			<div class="content" id="msgMainContent">
+				<p>　　主要观点：</p>
+<p>
+　　二战结束后，日本从一个满目疮痍、资源匮乏的战败国，在短短二三十年的时间里以令世人惊叹的速度崛起，迅速跃升为仅次于美国的世界第二大经济强国，不能不说是二十世纪世界经济史上的一个奇迹。无独有偶，中国经济自改革开放以来同样取得了令世人瞩目的成绩，同样是在短短的二三十年时间里快速崛起成为世界第二大经济强国。中日两国在崛起的过程中，不论是经济发展的路径还是面临的挑战，都有诸多的相似之处，甚至有观点认为，中国就是第二个日本。那么，中国经济的崛起与日本经济的腾飞有何相似之处，又有何区别？目前中国与历史上的日本相比，处在经济发展的什么阶段？日本经历的泡沫破灭与失去的二十年是否会在中国重演？</p>
+<p>
+　　我们试图通过一个系列报告来对中日经济崛起进行系统的比较，来为以上这些问题寻找答案。在前三篇报告中，我们将把二战后的日本经济史分成崛起、泡沫和失去三个阶段，分别剖析不同阶段主导日本经济运行的支配因素。而在第四篇报告中，我们将对中日经济进行全方位的比较，以找寻中日崛起过程中的相似与区别，并对中国经济的前景作出展望。</p>
+<p>
+　　在系列报告的第一篇中，我们将聚焦二战后日本经济崛起的过程，探寻日本如何从战败国的废墟中重新出发，最终成为世界第二大经济强国。由于整个过程时间跨度长达近四十年，为了更为清晰的展现日本经济崛起过程中不同的发展阶段，我们将日本经济崛起的过程再细分为三个阶段：1946-1955年，1956-1973年，1974-1984年。</p>
+<p>
+　　二战结束后的第二年（1946年）起，日本开始走上经济复兴之路。在经济方面，1946年开始采取的“倾斜生产方式”对经济复兴具有重要意义。为了实施“倾斜生产方式”，日本政府还对重点产业部门实施价格补贴，并于1947年初设立了“复兴金融金库”，给重点产业部门提供低息贷款。朝鲜战争于1950年6月爆发，美国大量的战争“特需”带来了空前的“特需景气”。此外，日本雄厚的工业基础、扎实的人才储备、冷战的开始、美国的扶持以及和平宪法的护航都为日本经济的快速复活创造了条件。至1953年日本的实际GNP已经超过了1944年的水平，而1946年的实际GNP只及1944年的56%。从1946-1955年的10年间，GNP年均增长率达到9.2%。</p>
+<p>
+　　在1955年日本经济全面超过战前水平后，1956-1973年将近20年的时间里，尽管增长率波动很大，但日本经济的年平均增长率始终保持在10%以上。之所以日本经济能在近20年的时间里保持10%以上的年均增速，主要受益于在此期间快速增长的投资和出口。此外，日本政府推行凯恩斯主义，发展国家垄断资本主义；大力发展教育，重视培养人才；充分利用传统文化的积极因素和独特的企业经营管理体制；自民党长期的执政，使社会经济发展相对稳定；60年代资本主义国家的普遍快速发展和美国在越战中遭到削弱，都对日本经济的快速崛起带来了积极影响。</p>
+<p>
+　　随着时间进入20世纪70年代，国际局势开始变得风云激荡。1970年由于美国的国际收支恶化，美元大量流出，以美元为中心的国际货币体制开始动摇。1971年8月美国宣布美元与黄金脱钩，布雷顿森林体系宣告瓦解，并对进口加征10%的关税，即发生了所谓“尼克松冲击”。1971年底十国财政部长在华盛顿开会，对各国汇率进行了调整，其中日元对美元汇率从1美元兑换360日元调整到1美元兑换308日元，但行情仍不稳定，又于1973年2
+月转为浮动汇率制，而由市场机制来决定。1973年10月爆发了第四次中东战争，石油输出国将油价从每桶约2-3美元提高到4美元、8美元、12美元，从而引发了“第一次石油危机”。面对冲击日本开始反思20年来的经济发展模式，并最终选择了顺应第三次科技革命的浪潮，树立“科技立国”的发展新战略，推进产业结构升级，促使劳动与资本密集型产业结构向技术、知识密集型产业结构转变。日本政府制定了“创造科学技术推进制度”（科技厅）、“下一代产业基础技术研究开发制度”（通产省）等重要的研究开发计划，采取各种政策措施来推动“产官学”（“产”指民间企业，“官”指政府研究机构，“学”指大学）的科技合作与交流。在此期间，在日本政府的扶持下，半导体、计算机、新型材料、清洁能源、节能技术等众多高新技术产业蓬勃兴起。</p>
+<p>
+　　综上所述，日本经济快速从二战中复活，靠的是深厚的工业基础、美国的扶持、朝鲜战争的机遇和“倾斜生产方式”；日本经济能够持续近20年高速增长，靠的是引进外资和先进技术、发展外向型经济、加强投资、推行国家垄断资本主义、重视教育尊重人才、稳定的国内政治环境，同时还赶上了资本主义发展黄金时期的东风；而在面对国际局势的动荡和环境的污染时，日本及时调整经济发展战略，坚持科技立国，大力发展高新技术产业，同时在恶劣的市场环境中锻炼企业的韧性，最终成功完成了经济转型。而如今的中国同样面临着国际局势的动荡、环境问题日益严峻、经济增速下台阶等一系列问题，日本及时而坚定的调整经济发展方式的做法，无疑为当今的中国提供了成功的镜鉴。</p>
+<p>
+　　二战结束后，日本从一个满目疮痍、资源匮乏的战败国，在短短二三十年的时间里以令世人惊叹的速度崛起，迅速跃升为仅次于美国的世界第二大经济强国，不能不说是二十世纪世界经济史上的一个奇迹。无独有偶，中国经济自改革开放以来同样取得了令世人瞩目的成绩，同样是在短短的二三十年时间里快速崛起成为世界第二大经济强国。<strong>中日两国在崛起的过程中，不论是经济发展的路径还是面临的挑战，都有诸多的相似之处，甚至有观点认为，中国就是第二个日本。</strong>那么，中国经济的崛起与日本经济的腾飞有何相似之处，又有何区别？目前中国与历史上的日本相比，处在经济发展的什么阶段？日本经历的泡沫破灭与失去的二十年是否会在中国重演？<strong>我们试图通过一个系列报告来对中日经济崛起进行系统的比较，来为以上这些问题寻找答案。</strong></p>
+<p>
+　　<strong>在前三篇报告中，我们将把二战后的日本经济史分成崛起、泡沫和失去三个阶段，分别剖析不同阶段主导日本经济运行的支配因素。而在第四篇报告中，我们将对中日经济进行全方位的比较，以找寻中日崛起过程中的相似与区别，并对中国经济的前景作出展望。</strong></p>
+<p>
+　　<strong>在系列报告的第一篇中，我们将聚焦二战后日本经济崛起的过程，探寻日本如何从战败国的废墟中重新出发，最终成为世界第二大经济强国。</strong>由于整个过程时间跨度长达近四十年，为了更为清晰的展现日本经济崛起过程中不同的发展阶段，我们将日本经济崛起的过程再细分为三个阶段：1946-1955年，1956-1973年，1974-1984年。</p>
+<p align="center"><span id="addnextpagelinkbegin"></span><img style="BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid" border="1" alt=" " src="http://img.jrjimg.cn/2015/11/20151130095151243.jpg"></p>
+<p class="pictext" align="left">　　<strong>一，战后复兴阶段：1946-1955</strong></p>
+<p>
+　　二战结束后的第二年（1946年）起，日本开始走上经济复兴之路。由于二战中美军的空袭和两颗原子弹所造成的巨大破坏，日本国内满目疮痍，生产能力锐减，工业设备的30%-60%遭到空袭破坏，未遭破坏的设备也急需修理与更新。同时，由于战时大量支出军费，导致国内出现恶性的通货膨胀，许多生活必需品供应奇缺。1946
+年日本国民生产总值仅为战前（1934-1936年平均值）的65%，工矿业生产仅为战前的28%，农林渔业生产仅为战前的78%。全国的失业人口多达1300多万，从海外撤退回国的日本国民多达650
+万人，大批无家可归的流浪者露宿街头，食品不足导致许多人因营养不良而死亡。</p>
+<p>
+　　在经济方面，1946年开始采取的“倾斜生产方式”对经济复兴具有重要意义。由于当时的主要能源是煤炭，产业“粮食”是钢铁，为了全面恢复生产，首先需要全力恢复煤炭与钢铁的生产。“倾斜生产方式”就是选准煤炭与钢铁作为恢复经济的突破口，首先依靠美国援助，将从美国进口的重油优先投入钢铁生产，接着将增产的钢铁优先投入煤炭生产，再将增产的煤炭投向钢铁生产，通过钢铁业与煤炭业的相互促进与共同振兴来带动电力、化肥、交通等其他产业部门的发展。为了实施“倾斜生产方式”，日本政府还对重点产业部门实施价格补贴，并于1947年初设立了“复兴金融金库”，给重点产业部门提供低息贷款。这样，到了1948
+年日本经济虽然摆脱萎缩状态而走上了扩大再生产的道路，使经济重建开始走上轨道。</p>
+<p>
+　　朝鲜战争于1950年6月爆发，美国大量的战争“特需”带来了空前的“特需景气”。美国在日本的战争特需采购从第一年的卡车到第二年的汽车零部件再到第三年的武器，同时还包括棉衣棉布、煤炭、武器的修理和改装、运输、通讯等等。到1953年末的三年半时间，特需的合同金额就高达13亿美元。此外为了支援战争，大量的美军和军属在日本居留所带来的大量消费需求，还有大量非军事机关在日本的开支。将这些广义的特需计算在内，到1953年年末特需收入超过了23亿美元。其中1953年一年的美元特需收入就占到了当年日本外汇收入总额的38%。</p>
+<p>
+　　1952年朝鲜停战之后，由于美国不再从日本大量采购战争物资，致使日本经济一度陷入短暂的不景气，但此时日本经济已经度过了最困难的时期，企业得以依靠其资本积累扩大设备投资，实行产业的合理化，提高国际竞争力；城乡居民在收入明显提高的条件下，对耐用消费品等的需求不断增大，刺激了生产的发展，因而很快出现了“投资、消费景气”。至1953年日本的实际GNP已经超过了1944年的水平，而1946年的实际GNP只及1944年的56%。从1946-1955年的10年间，GNP年均增长率达到9.2%。</p>
+<p align="center"><span id="addnextpagelinkbegin"></span><img style="BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid" border="1" alt=" " src="http://img.jrjimg.cn/2015/11/20151130095234824.jpg"></p>
+<p class="pictext" align="left">　　<strong>日本经济之所以能在二战后迅速恢复到战前水平，主要有以下几个方面的原因：</strong></p>
+<p>
+　　1、日本早在明治维新后就开始逐渐走上现代化和工业化的道路，战前就已经拥有相当的工业基础，虽然在二战中日本的工业生产能力遭到了严重破坏，但由于盟军并未登陆日本本土作战，日本大量掌握先进技术和劳动技能的劳动者仍保留了下来，这对战后日本经济，尤其是工业的快速复苏发挥了至关重要的作用。</p>
+<p>
+　　2、二战结束后冷战的开始，使得美国从战略上需要日本作为牵制苏联和中国的力量而存在，因此美国很快结束了对日本的占领并大力扶持日本，来自美国的资金和技术的支持，以及朝鲜战争期间的大量订单，是日本得以快速从二战中恢复过来的重要原因。</p>
+<p>
+　　3、战后日本采取“倾斜生产方式”优先发展重工业，有利于集中有限的资源快速恢复生产力，这与中国建国之初所采取的优先发展重工业的路线如出一辙，且均发挥了十分显著的作用。</p>
+<p>　　4、二战结束后日本和平宪法的颁布使得日本不再需要保持军队，节省出的大量军费开支能够更好的支持经济建设。</p>
+<p>　　<strong>二，高速增长阶段：1956-1973</strong></p>
+<p>
+　　1956年日本发表的《经济白皮书》用了“现在已不是战后了”这样一句话作为结语，这句话成为了当时风靡一时的流行语，甚至从某种意义上被认为是日本进入经济高速增长时代的标志。事实上也确实是这样，在1955年日本经济全面超过战前水平后，1956-1973年将近20年的时间里，尽管增长率波动很大，但日本经济的年平均增长率始终保持在10%以上，到1973年，日本的实际GNP达到1946年水平的11倍，战前水平（1934-1936平均）的7.7倍，人均GNP从50年代不及美国的1/10，增长到美国的60%。</p>
+<p>
+　　之所以日本经济能在近20年的时间里保持10%以上的年均增速，主要受益于在此期间快速增长的投资和出口。50年代中期，随着日本经济从二战中恢复过来，日本政府开始积极推行产业结构调整，确立了“贸易立国”的发展战略，大力发展外向型经济。日本开始大规模地引进外资和国外先进技术，发展加工贸易。在引进国外先进技术的过程中，50年代中期以前，日本仍处于经济恢复时期，主要引进电力、钢铁、汽车、造船、机械制造等基础产业部门的传统成套设备和技术。50年代中期以后，尤其是60年代初开始，逐渐转向以购买专利为主来引进新兴技术。为了对引进技术进行吸收改造，日本企业不惜花费巨额资金，吸引优秀人才，在仿造的基础上博采众长，进行消化吸收再创新。这使得日本工业始终走在全球技术的前列。</p>
+<p align="center"><span id="addnextpagelinkbegin"></span><img style="BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid" border="1" alt=" " src="http://img.jrjimg.cn/2015/11/20151130095321235.jpg"></p>
+<p>
+　　新兴技术的引进带来了旺盛的投资需求，以1956年为例，按照经济企划厅的估计，1956年日本企业设备投资额，将比上一年增长7.8%，然而实际上却增长了57.6%。1955-1970年的15年中，日本固定资产投资的增长了115倍以上。日本政府投资额占政府支出的比率，1960年为35%，1965年为47%，1970年又上升为52%。据1977年统计，日本政府投资占国民生产总值的5.6%，相当美国的1.4倍，高于英、法、联邦德国、意四国同年投资的总和。固定资本的投资的重点是对电力、钢铁、机械等基础工业和电子、化学、汽车等新兴工业。进行大规模投资，不仅使日本迅速建立起了以钢铁为中心的工业体系和一系列新兴工业部门，而且大大加快了各部门固定资本的更新，提高了企业技术设备和现代化水准。</p>
+<p align="center"><span id="addnextpagelinkbegin"></span><img style="BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid" border="1" alt=" " src="http://img.jrjimg.cn/2015/11/20151130095354146.jpg"></p>
+<p>
+　　由于日本工业始终以国际先进水平为目标，企业的技术设备和现代化水准均为国际一流，因此日本工业品，尤其是新兴工业品的品质始终处于世界领先水平。而由于与欧美发达资本主义国家相比，日本的劳动力成本相对廉价，二战后日元盯住美元的固定汇率制度（1美元固定兑换360日元）则更进一步放大了日本商品的价格优势，这使得物美价廉日本工业品迅速进入欧美并快速占领了市场。三种神器（黑白电视机、洗衣机、冰箱）和新三种神器（彩色电视机、空调、汽车）就是那个时代日本工业品的象征。</p>
+<p>
+　　而在50-60年代，日本相继加入关贸总协定（WTO前身），IMF，OECD等国际组织，并推行资本和贸易的自由化，降低资本和关税壁垒，积极融入资本主义全球市场。这也为日本商品走向全球开辟了更广阔的市场，极大的促进了日本外向型经济的发展。<strong>这一点与加入WTO后的中国如出一辙。</strong></p>
+<p align="center"><span id="addnextpagelinkbegin"></span><img style="BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid" border="1" alt=" " src="http://img.jrjimg.cn/2015/11/20151130095424597.jpg"></p>
+<p>　　<strong>除了旺盛的投资需求和快速增长的出口，还有一些其他的因素也客观上促进了这一阶段日本经济的飞速发展：</strong></p>
+<p>
+　　1、日本政府推行凯恩斯主义，发展国家垄断资本主义。战后日本政府推行凯恩斯主义，利用国家政权的力量，加强对经济生活的干预、引导和控制，发展国家垄断资本主义。战后初期日本政府制定许多经济计划，如1948-1949年两次制定了“经济复兴五年计划试行方案”；1951年又编制“自立经济的三年计划”进一步推动经济的发展。战后中期1955年底鸠山内阁制定《经济自立五年计划》（1956-1960）；1957年12月，岸信介内阁制定《新长期经济计划》（1958-1962年）；1960年池田内阁时期制定的《国民收入倍增计划》等等。通过这些计划，避免了资本竞争中的一些盲目因素，使日本经济有了连续性发展的基础。</p>
+<p>
+　　2、大力发展教育，重视培养人才。日本在1947年进行教育改革，改行九年义务教育。1950年九年义务教育完全普及，就学率达99%；1965年初中毕业升入高中的比率达69.6%；1970年高中毕业升入大学的比率达23.6%。政府还加大对教育的投资，1950年教育经费为1599亿日元，1972年增至40244亿日元，在当年预算中占20%。高度重视教育的结果，为经济的现代化提供了充分数量的优秀工人及科技人才，成为日本经济高速发展的人才资源。</p>
+<p>
+　　3、充分利用传统文化的积极因素和独特的企业经营管理体制。日本传统文化中的集体主义、重教育、重和谐、守纪律和节俭、勤劳的优秀传统，有利于职工增强对企业的荣誉感，有利职工形成与企业同舟共济的忠诚心理，对日本经济的高度发展有积极意义。</p>
+<p>
+　　4、自民党长期的执政，使社会经济发展相对稳定。1955年11月15日，日本自由党和民主党合并组成自由民主党（简称自民党）。由于自民党在议会中占据决大多数席位，所以1955年体制的实质就在于，他实际是保守的自由民主党一党执政的体制。从此，日本开始了由自由民主党长期执掌政权的历史。从50-60年代的执政实践看，历届政府对内对外政策是一脉相承的。在经济方面，自由民主党政府广泛的干预经济生活，制定计划，致力于新产业的培育与开发，加大资金投入，采取了促进资金积累的特别措施；在政治和社会方面，政府制定了和颁发了一系列以实现稳定为目标的法令，加强对人民的控制；对外政策方面，各届政府都竭力追随美国。</p>
+<p>
+　　5、60年代是战后资本主义发展的黄金时代，各主要资本主义国家60年代均获得了长足的发展，各国共同发展产生了旺盛的需求，从客观上也有利于日本外向型经济的发展。而美国则深陷越战的泥潭，一方面需要大量向日本进口以支撑战事，另一方面在国际舞台上美国的影响力则相对削弱，这都从客观上有利于日本的发展壮大。</p>
+<p>　　在此期间，日本于1967年超过英国和法国，1968年超过联邦德国，跃居资本主义世界第二大经济强国。</p>
+<p>　　<strong>三，中速增长阶段：1974-1984</strong></p>
+<p>
+　　随着时间进入20世纪70年代，国际局势开始变得风云激荡。1970年由于美国的国际收支恶化，美元大量流出，以美元为中心的国际货币体制开始动摇。1971年8月美国宣布美元与黄金脱钩，布雷顿森林体系宣告瓦解，并对进口加征10%的关税，即发生了所谓“尼克松冲击”。1971年底十国财政部长在华盛顿开会，对各国汇率进行了调整，其中日元对美元汇率从1美元兑换360日元调整到1美元兑换308日元，但行情仍不稳定，又于1973年2
+月转为浮动汇率制，而由市场机制来决定。</p>
+<p>
+　　1973年10月爆发了第四次中东战争，石油输出国将油价从每桶约2-3美元提高到4美元、8美元、12美元，从而引发了“第一次石油危机”。石油价格大幅度上涨对石油消费国的经济造成了很大影响，引起了通货膨胀、经常收支恶化等问题，尤其是对进口中东石油依赖很大、号称“油上楼阁”的日本经济的冲击更大。在石油危机的影响下，日本国内投机盛行，物价暴涨，甚至出现了家庭妇女抢购卫生纸的现象。为此，政府采取了强有力的金融紧缩政策，结果虽然控制了物价上涨，但却导致设备投资停滞，经济增长明显减速，雇用减少，失业增加。</p>
+<p>
+　　日本政府于1975年春解除了金融紧缩，又于1977年底采用了财政刺激政策，同时推进产业结构高度化，促使劳动与资本密集型产业结构向技术、知识密集型产业结构转变。由于出口持续扩大，填补了国内需求的减少，结果经济开始稳步回升，同时物价保持稳定，失业率趋于下降，经济增长率的上下摆动也不大，日本经济进入中速增长阶段。</p>
+<p>
+　　为了克服石油危机，努力推行生产与经营合理化的民间企业功不可没。它们依靠市场原理，一方面大力节省资源能源，并实行“减量经营”以节省各种费用，一方面通过技术革新实现了产品、特别是出口产品的高附加价值化。通过推进生产与经营合理化，企业的素质与效率有了明显的提高。到了70年代后半期，人们逐渐发现，尽管油价上涨，在西方国家中受打击最大的日本经济却恢复得最快；尽管汇率浮动，民间企业却能在困境中顽强地恢复其活力。整个日本经济由于产业结构的高度化与企业素质的增强而加强了对外部冲击的抵抗力。尽管在1978-1979年爆发了第二次石油危机（石油价格从1978年中期的每桶13美元暴涨到1980-1981年的每桶40美元），1981-1983年又出现了世界性经济危机，日本经济所受影响甚小。</p>
+<p>
+　　石油危机暴露了日本经济的脆弱，过度依赖资源和能源；以水俣病为代表的四大公害病逼迫日本人反思经济发展方式的得与失；庞大的顺差引来了无数的贸易摩擦和指责。由此日本开始反思20年来的经济发展模式，并最终选择了顺应第三次科技革命的浪潮，树立“科技立国”的发展新战略，推进产业结构升级，促使劳动与资本密集型产业结构向技术、知识密集型产业结构转变。日本政府制定了“创造科学技术推进制度”（科技厅）、“下一代产业基础技术研究开发制度”（通产省）等重要的研究开发计划，采取各种政策措施来推动“产官学”（“产”指民间企业，“官”指政府研究机构，“学”指大学）的科技合作与交流。在此期间，在日本政府的扶持下，半导体、计算机、新型材料、清洁能源、节能技术等众多高新技术产业蓬勃兴起。</p>
+<p align="center"><span id="addnextpagelinkbegin"></span><img style="BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid" border="1" alt=" " src="http://img.jrjimg.cn/2015/11/20151130095450167.jpg"></p>
+<p>
+　　<strong>综上所述，日本经济快速从二战中复活，靠的是深厚的工业基础、美国的扶持、朝鲜战争的机遇和“倾斜生产方式”；日本经济能够持续近20年高速增长，靠的是引进外资和先进技术、发展外向型经济、加强投资、推行国家垄断资本主义、重视教育尊重人才、稳定的国内政治环境，同时还赶上了资本主义发展黄金时期的东风；而在面对国际局势的动荡和环境的污染时，日本及时调整经济发展战略，坚持科技立国，大力发展高新技术产业，同时在恶劣的市场环境中锻炼企业的韧性，最终成功完成了经济转型。</strong></p>
+<p>
+　　<strong>而如今的中国同样面临着国际局势的动荡、环境问题日益严峻、经济增速下台阶等一系列问题，日本及时而坚定的调整经济发展方式的做法，无疑为当今的中国提供了成功的镜鉴。我们将在后期的系列报告中对中日经济相似点和不同点做进一步的分析。</strong></p>
+<p align="center"><img alt="" src="http://mmbiz.qpic.cn/mmbiz/EBC3dEZyCQXPXeiaqMnF7xzia1TN0gFvZE6k9Mho7CzvmMkt41nia1HQXiblHJaJ2ByQpGHEmXykU9VszTewER6KlA/0?wx_fmt=jpeg"></p>
+<br>
+
+　　原文链接：http://bond.jrj.com.cn/2015/11/30095520155499.shtml
+
+							</div>
+			<div class="content">
+							
+			<div style="height:10px">&nbsp;</div>
+						</div>
+			
+				<div class="mpll" style="width:625px;margin:0 auto;margin-top:38px;">
+			<span style="float:left;margin-right:5px;" class="digg1" onclick="doDingorCaiAction(0,99150332,2)">文章不错(<i>0</i>)</span>
+			<span style="float:left;" class="digg4" onclick="copyShareUrl()">复制链接</span>
+			<div style="float:left;" class="sharetos">
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+				<span class="bds_more">分享到：</span>
+				<a class="bds_qzone"></a>
+				<a class="bds_tsina"></a>
+				<a class="bds_tqq"></a>
+				<a class="bds_renren"></a>
+				<a class="bds_t163"></a>
+				<a class="shareCount"></a>
+				</div>
+				<span class="refreshs" style="float:left;line-height:25px;">&nbsp;&nbsp;帖子刷新<select id="autoRefreshConfSelect" name="autoRefreshConfSelect" onchange="javascript:refreshConfSet()" >
+					<option value="1" >1分钟</option>
+					<option value="2" >2分钟</option>
+					<option value="3" >3分钟</option>
+					<option value="5" >5分钟</option>
+					<option value="0" >不刷新</option>
+				</select></span>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=6470526" ></script>
+				<script type="text/javascript" id="bdshell_js"></script>
+				<script type="text/javascript">
+				document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+				</script>
+				<!-- Baidu Button END -->
+			</div>
+<script>
+	var inter_variable;
+	function refreshConfSet(){
+		var time = parseFloat($('#autoRefreshConfSelect').val());
+		var date = new Date();
+		date.setTime(date.getTime()+365*24*3600*1000);
+		document.cookie = 'Ref_Msg_Conf=' + time + ';expires=' + date.toGMTString();
+		clearInterval(inter_variable);
+		if(time != 0){
+			inter_variable = setInterval(function(){
+					window.location.href = window.location.href;
+				},time*60*1000);
+		}
+	}
+	function getDefaultRefreshTime(){
+		var cook = document.cookie;
+		var start = cook.indexOf('Ref_Msg_Conf');
+		var time = parseFloat('0');
+		if(start != -1){
+			start += 'Ref_Msg_Conf'.length + 1;
+			var end = cook.indexOf(';',start);
+			if(end == -1){
+				time = parseFloat(cook.substring(start));
+			}else{
+				time = parseFloat(cook.substring(start,end));
+			}
+		}
+		clearInterval(inter_variable);		
+		$('#autoRefreshConfSelect').val(time);
+		if(time != 0){
+			inter_variable = setInterval(function(){
+					window.location.href = window.location.href;
+				},time*60*1000);
+		}
+	}
+	
+	getDefaultRefreshTime();
+</script>
+			</div>
+			<br>
+		</div>
+<div class="floats" id="popdiv" style="display:none">
+<div class="float float1" id="favoriteDiv" style="display:none"> <a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>收藏帖子</span></strong></p>
+    <p class="right" id="favoriteAlert">已经成功收藏本帖！请到<a href="#">我的收藏</a>中查看所有收藏贴</p>
+    <p class="txr">窗口5秒自动关闭</p>
+</div>
+<div id="sharediv" class="float float1" style="display:none"> <a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>复制链接给好友</span></strong></p>
+    <p>本帖连接：<input id="shareurl" type="text" value="http://bbs.jrj.com.cn/msg,99150332.html" class="tex" readonly="readonly"/></p>
+    <p class="p1"><input type="button" value="复制并发送给我的好友" onclick="copyShareUrl()"/></p>
+    <p>分享到：<a href="javascript:void(0)" onclick="javascript:createShare()" class="ic1">我的金融界</a></p>
+</div>
+<div id="shareokdiv" class="float float1" style="display:none" ><a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>复制链接给好友</span></strong></p>
+    <p id="sharemsg" class="right p2">帖子地址已经复制，您可以粘贴到QQ，MSN或者邮件发给好友了！每次点击你将获得一个威望。</p>
+    <p class="txr">窗口5秒自动关闭</p>
+</div>
+</div>
+<div style="margin-bottom:10px;"><center><a href="http://i.jrj.com.cn/app/vstock/index.jspa" target="_blank"><img src="http://ufile.jrj.com.cn/200912/17/bbs_attach_img/bbs_attach_img_12610207826881.gif" alt=""></a></center></div>
+
+		<!--楼主更多贴，论坛精粹-->
+		<div class="Bbs_Thread about">
+			<div class="lcd s1">
+			<p class="ltit">
+				<strong><a href="/author,2,iforeveryoung" target="_blank">楼主更多贴</a></strong>
+				<ul class="ull" id="louzhumoremsg"></ul>	
+			</p>
+			</div>
+									<div class="lcd bbsjp s1">
+										   	<p class="ltit"><strong>论坛精粹</strong>
+			   					<div id="injection">
+								   <a href="http://bbs.jrj.com.cn/msg,73302967.html"><img						src="http://img.jrjimg.cn/2011/05/20110520151932921.jpg" class="imgb"						alt="富人的50个理财习惯" /> </a>				<ul class="ull">					<li>						<A href="http://bbs.jrj.com.cn/msg,73510041.html" target="_blank">吃透三句话人人都能成富翁</A><A href="http://bbs.jrj.com.cn/msg,73289221.html" target="_blank"></A><A href="http://bbs.jrj.com.cn/msg,72917018.html" target="_blank"></A><a href="http://bbs.jrj.com.cn/msg,71744207.html"></a>					</li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73508474.html" target="_blank">经济适用男PK白领愁嫁女！！</A><a href="http://bbs.jrj.com.cn/msg,72916645.html"></a>					</li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73507900.html" target="_blank">高薪不是白领唯一追求</A><a href="http://bbs.jrj.com.cn/msg,73286590.html"></a>					</li>					<li><A href="http://bbs.jrj.com.cn/msg,73504857.html" target="_blank">全球最火辣十大亿万富家女</A><A href="http://bbs.jrj.com.cn/msg,73309651.html" target="_blank"></A><a href="http://bbs.jrj.com.cn/msg,72882577.html"></a>											</li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73502482.html" target="_blank">私奔投资人王功权回家</A><a href="http://bbs.jrj.com.cn/msg,73309641.html"></a>					</li>				</ul>				<ul class="ull">					<li>						<a href="http://bbs.jrj.com.cn/msg,73499076.html"> 全球最理想工作盘点</a></li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73487695.html" target="_blank">揭秘美国人理财十大秘诀</A><a href="http://bbs.jrj.com.cn/msg,72880887.html"></a>					</li>						
+<li>						<A href="http://bbs.jrj.com.cn/msg,73484026.html" target="_blank">闲暇时该做的28件聪明事</A><A href="http://bbs.jrj.com.cn/msg,73262409.html" target="_blank"></A><a href="http://bbs.jrj.com.cn/msg,72880299.html"></a>					</li>					<li><A href="http://bbs.jrj.com.cn/msg,73467912.html" target="_blank">工薪族三步攒出个百万富翁</A><a href="http://bbs.jrj.com.cn/msg,72861475.html"></a>											</li>		  	<li>						<a href="http://bbs.jrj.com.cn/msg,73480310.html"> 如何让所有人都快乐消费</a>					</li>				</ul>
+								</div>
+			   </p>
+			</div>
+					</div>
+		
+		<!--zhibo
+		<div class="Bbs_Thread about" style="height:75px;margin:10px auto 9px;overflow: hidden;width: 953px;">
+			<iframe width="950" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=472&op=1" ></iframe>
+		</div>-->
+		
+		<!--回帖信息列表-->
+				<div class="Bbs_Thread fun button2">
+			<span class="fl">
+				<!-- a href="javascript:void(0);" onclick="goToReplyDiv('replyDiv')" target="_top"  class="reply">回复</a -->
+				<a href="#" onclick="return newthread('/article/sendPreStock.jsp');" class="reply">荐股</a>
+				<a href="#" onclick="return newthread('/article/sendMsgMain.jsp?cid=2&forumid=907&itemid=0');" class="pub">发新帖</a>
+				<a href="javascript:window.location.reload();" class="break">刷新</a>
+				<a href="/doldmsg/2_99150332.html" class="acol" target="_blank">以旧版方式浏览</a> 
+		       	</span>
+			<p class="pn pn2"><a href="/msg,99150332,1.html">首页</a><a href="#" class="next">&lt;&lt;上一页</a><a href="#" class="cur">1</a><a href="#" class="next">下一页&gt;&gt;</a><a href="/msg,99150332,1.html">末页</a>共1页&nbsp;到<input id="gopage2" type="text" size=2>页<input type="button" value="提交" onclick="javascript:goPage(2);"></p>
+		</div>
+		<div class="Bbs_Thread blue2">
+		<p class="abor">
+				<a href="/">返回论坛首页</a><a href="/907" id="_backTOfirst">返回本版首页</a>
+			</p>
+			<p id="previous">
+				<b>论坛上一帖：</b><a href="javascript:void(0)" id="previousthread" target="_blank">&nbsp;&nbsp;</a>
+			</p>
+			<p id="next">
+				<b>论坛下一帖：</b><a href="javascript:void(0)" id="nextthread" target="_blank">&nbsp;&nbsp;</a>
+			</p>
+		</div>
+
+		<div class="Bbs_Thread lcd tjian" id="S1_R">
+			<p class="ltit"><strong>近期热门话题推荐</strong></p>
+				
+				<ul><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95188719.html"><img src="http://i5.jrjimg.cn/201404/29/bbs_attach_img/bbs_attach_img_13987437656041.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95188719.html">政府关系最硬的民营企业</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95115050.html"><img src="http://i5.jrjimg.cn/201404/24/bbs_attach_img/bbs_attach_img_13983079197391.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95115050.html">盘点年入几十万的小生意</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95007640.html"><img src="http://i5.jrjimg.cn/201404/16/bbs_attach_img/bbs_attach_img_13976176535951.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95007640.html">中国社会七大灰色产业链</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,94971037.html"><img src="http://i5.jrjimg.cn/201404/14/bbs_attach_img/bbs_attach_img_13974442464991.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,94971037.html">中国九大最好赚钱的产业</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,94922538.html"><img src="http://i5.jrjimg.cn/201404/10/bbs_attach_img/bbs_attach_img_13971002679111.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,94922538.html">中国人变穷的四大真相</a></p></li></ul><ul class="ull"><li><a target="_blank" href="http://bbs.jrj.com.cn/picshow">更多劲爆图片</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbmsg">论坛热帖</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbzqt">精准高手</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/tag">热门股票</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbps_5">人气高手</a></li></ul>
+		</div>
+
+		<div class="Bbs_Thread cc">
+			<div id="ReplyIframeDiv" class="fl" >
+			<iframe id="replyPostDetal" name="replyPostDetal" width="100%" height="368px;" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes" src="/article/getMsgReply.jspa?msgid=99150332&itemid=0&forumid=907&cid=2&status=0&count=$totalCount"> 
+			</iframe>
+			<script type="text/javascript">
+				var attachNum=0;
+				var delIndex=null;
+				var sourcetext = "";
+				 
+				 function insertAttach(fileName,fileUrl){
+				 	 attachNum++;
+				 	 
+				 	var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+				 	 var atts = editdoc.getElementById("fileAttach");
+				 	 
+				 	 if (attachNum==1){
+				 	 	sourcetext = atts.innerHTML;
+				 	 }
+				 	 
+				 	 atts.innerHTML += '<li id="attach_'+attachNum+'">附件：<a href="'+fileUrl+'"><img src="http://js.jrj.com.cn/bbsnew/fckeditor/editor/skins/default/toolbar/uploadfile.gif" width="15px" height="15px"></img>'
+				 	   +'&nbsp;'+fileName+'</a>&nbsp;&nbsp;<a href="javascript:void(0)" name="delete" onclick="parent.delAttach('+attachNum+')">删除附件</a>&nbsp;&nbsp;&nbsp;&nbsp;售价（铜板）：<input name="filecoin_'+attachNum+'" id="filecoin_'+attachNum+'" type="text" style="width:30px" /> 最高1000</li>';
+				 	 atts.innerHTML = atts.innerHTML.replace(sourcetext,"") + sourcetext;
+				 	   
+				 	   var sAnnex = editdoc.getElementById("annxe");
+				 	   if(!sAnnex){
+					 	   var form1 = editdoc.getElementById("form1");
+							var textHidden = editdoc.createElement("input");
+							textHidden.type = "hidden";
+							textHidden.name ="annxe";
+							textHidden.id = "annxe";
+							textHidden.value = "";
+							form1.appendChild(textHidden);
+							sAnnex = textHidden;
+					   }
+				 	  var value = sAnnex.value;
+				 	  if(value!="") {
+							value += "|";
+					  }
+				 	  value += attachNum+","+fileUrl+","+ fileName + "," + "http://js.jrj.com.cn/bbsnew/fckeditor/editor/skins/default/toolbar/uploadfile.gif";
+				 	  sAnnex.value = value;
+				 	  
+						var pTar = document.getElementById("replyPostDetal");
+					    if (pTar.contentDocument && pTar.contentDocument.body.offsetHeight){  
+					      pTar.height = pTar.contentDocument.body.offsetHeight;   
+					    }else if (pTar.Document && pTar.Document.body.scrollHeight){  
+					      pTar.height = pTar.Document.body.scrollHeight;
+					    }
+				 }
+				 function delAttach(index){           
+         			 delIndex=index;
+         			 var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+         			 var sAnnex = editdoc.getElementById("annxe");
+         			 if(sAnnex) {
+						var sValue = sAnnex.value;
+						var iIndex = sValue.indexOf("|"+index);
+						if (index==1) iIndex = 0;
+						var iEndIndex = sValue.indexOf("|",iIndex+1);
+						if(iEndIndex==-1) {
+							iEndIndex = sValue.length;
+							}
+						var firstStr = sValue.substring(0,iIndex);
+						var endStr = sValue.substring(iEndIndex+1);
+						if (index!=1){
+							sAnnex.value = firstStr +"|"+ endStr;
+						}else{
+							sAnnex.value = firstStr + endStr;
+						}
+						
+						var pTar = document.getElementById("replyPostDetal");
+					    if (pTar.contentDocument && pTar.contentDocument.body.offsetHeight){  
+					      pTar.height = pTar.contentDocument.body.offsetHeight;   
+					    }else if (pTar.Document && pTar.Document.body.scrollHeight){  
+					      pTar.height = pTar.Document.body.scrollHeight;  
+					    }
+             		 }
+         			 delCallBack();
+				 }
+				 function delCallBack(){
+					 var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+				   	var atts = editdoc.getElementById("fileAttach");
+				 	 var att = editdoc.getElementById("attach_"+delIndex);
+				 	 atts.removeChild(att);
+				 }
+				 function goPage(pagename){
+				 	var gopage = document.getElementById("gopage"+pagename).value;
+				 	if(gopage!=null && gopage!=""){
+        				var r,re;
+        				re = /\d*/i;
+        				r = gopage.match(re);
+        				if (r!=gopage){
+        					alert("请输入数字页码");
+        					return;
+        				}
+    				}else{
+    					alert("请输入数字页码");
+    					return;
+    				}
+    				//window.location.href= "/dmsg/2_99150332_"+gopage+".html";
+				 	window.location.href= "/msg,99150332,"+gopage+".html";
+				 }
+				</script>
+			</div>
+	<div class="fr">
+				<ul class="ltit">
+			<li class="hover" id="jh1" onmouseover="setTab('jh',1,2)" onclick="window.open('/gupiao_celite');"><strong>最新精华帖</strong></li>
+			<li id="jh2" onmouseover="ajax_getNiurenList(907)"><strong>版区牛人榜</strong></li>
+		</ul>
+		<ul class="ull" id="con_jh_1">
+		<li><img src="http://i0.jrjimg.cn/myjrj/loading2.gif"/></li>
+		</ul>
+		<div id="con_jh_2" style="height:339px;display:none">
+			<table class="jhtab" id="niuren">
+			<tr><th width="32"><span>排名</span></th><th width="85"><span>ID</span></th><th width="61"><span>精华帖数</span></th><th width="55"><span class="end">积分</span></th></tr>
+			<tr id="niurenload"><td colspan=4><img src="http://i0.jrjimg.cn/myjrj/loading2.gif"/></td></tr>
+			</table>
+			<br><center><a href="/msg,64498799.html" target="_blank"><img src="http://i0.jrjimg.cn/bbsnew/img/joinniuren.gif"/></a></center>
+		</div>
+			</div>
+		</div>
+		
+				
+		<div class="Bbs_Thread bdnav fw2">
+			<select class="fr" name="history" onchange="windowOPENTO(this)">
+				<option>
+
+					最近访问版区
+				</option>
+			</select>
+		<a href="http://www.jrj.com.cn">金融界</a><i>&gt;</i><a href="/money">理财论坛</a><i>&gt;</i><a href="/bond">债券论坛</a>		</div>
+
+<!-- 回到顶部&刷新 start 
+<div class="helpbutton" id="helpbutton" style="display:none">
+  <div class="gotop"><a href="javascript:void(0);" alt="回到顶部" onclick="javascript:window.scrollTo(0,0);">回到顶部</a></div>
+  <div class="refresh"><a href="javascript:void(0);" alt="刷新" onclick="javascript:window.location.reload();">刷新</a></div>
+</div>-->
+<!--
+<div class="fhbox" id="helpbutton"><a href="javascript:void(0);" class="fh01" alt="回到顶部" onclick="javascript:window.scrollTo(0,0);"></a><a href="http://survey.jrj.com.cn/channel/pub/q1832m2w0h0.html" class="fh02" target="_blank"></a></div>
+-->
+<!-- 回到顶部&刷新 end -->
+
+		<!-- 不能删除的div模板-->
+		<div class="infor" style="display:none">
+		</div>
+<script type="text/javascript">
+	goToFirstPage(window.location+"");
+        var _globalImgPath = "http://i0.jrjimg.cn/bbsnew/";
+	var _messageshow="thread";
+	var itemid=_itemid;
+	var forumid=_forumid;
+	var cid=_cid;
+	var divid = "history";
+	var forumname="债券论坛";
+
+	getMainMsgInfo(_msgid,_cid);
+	ajax_getEssList(0,_cid);
+</script>
+<script>
+	var ads={"list":[{"title":"","link":"http://www.jrj.com.cn"},{"title":"","link":"http://www.jrj.com.cn"}]}
+
+fixUpRecommendReply();
+</script>
+	<script src="/editorInc/finacing/floater_fd.js" type="text/javascript"></script>
+<script type="text/javascript">
+	showFloater(2);
+	function newthread(url){
+		if(typeof(flag)=='undefined' || flag=='notlogin'){
+			loginDlg.show();
+			return true;
+		}
+		window.location.href=url;
+	}
+	function checkLogin(uid,username,type) {
+		if(uid&&username&&uid.length>0&&username.length>0) {
+			if(typeof(flag)=='undefined' || flag=='notlogin'){
+				loginDlg.show();
+			}else {
+				ajax_getLoginUser(uid,username,type,loginDlg);
+			}
+		}else{
+			loginDlg.show();
+		}
+	}
+	var toDiv = document.getElementById('toooo');
+	if(toDiv) {
+		var div = getAbsPoint(toDiv);
+		if(div) {
+			window.scrollTo(0,div['y']);
+		}
+	}
+	ajax_JustLoginUser('090331010013261537');
+	dealIMG();
+	Popularize();
+	
+</script>
+
+		<div class="f">
+			<script src="http://js.jrjimg.cn/common/foot/v2.js" type="text/javascript"></script>
+		</div>
+
+		<img width="1" height="1" src="http://i0.jrjimg.cn/bbsnew/img/null.gif" id="countimg" alt=""/>
+<script src="http://js.jrj.com.cn/bbsnew/tongji_bbs.js" type="text/javascript"></script>
+
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛左浮标 Begin -->
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=29" ></script>
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛左浮标 End -->
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛右浮标 Begin -->
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=30" ></script>
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛右浮标 End -->
+
+<input type="hidden" id="ms_msgid" value="">
+<input type="hidden" id="ms_parentid" value="">
+<input type="hidden" id="fsfileid" value="">
+
+<!---------------------底部通用导航html-------------------------->
+<!--
+<div class="bottom_nav">
+
+    <div id="BBar_Main" class="open" style="display:none">
+
+    <iframe frameborder="0" scrolling="no" style="position:absolute; visibility:inherit; top:0px; left:0px; width:100%; height:31px;background:none;border:none;display:none;_display:block; z-index:-1; filter:alpha(opacity=0);-moz-opacity:0;-khtml-opacity:0;opacity:0;background:none;"></iframe>
+
+    <div class="left-box">
+
+    	<strong>实盘直播</strong>  
+
+    </div>
+
+	<div class="right-box">
+
+    	<a id="BBar_Open_Btn" href="javascript:;" class="develop"></a>
+
+    	<p class="btn"><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/main" target="_blank">我的金融界</a><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/stock/group/index.jspa" target="_blank">我的自选股</a><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/myfund/index.jspa" target="_blank">自选基金</a><a href="http://pay.jrj.com.cn/coin/rechage.jspa" target="_blank">金币充值</a></p>
+
+        <b id="BBar_Msg_Tip" class="off"></b>
+
+    </div>
+
+    <div class="center-box">
+
+    	<div class="pab01">
+
+    		<div id="stock_scroll" class="scroll">
+
+              	<table>
+
+                    <tbody>
+
+	  	  				<tr>
+
+	  	  					<td id="stock_scroll_content1">
+
+	  	  					</td>
+
+	  	  					<td id="stock_scroll_content2"></td>
+
+	  	  				</tr>
+
+	  				</tbody>
+
+  				</table>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    </div>
+
+    <div id="BBar_Close_Cont" class="close" style="display:none"><input id="BBar_Close_Btn" type="button" /></div>
+
+</div>
+-->
+	<div id="popMsgBox" class="mb" style="display:none;right:20px;">
+
+	   <div id="popMsgBox_Titlebar" class="mbhd">
+
+		   <span id="popMsgBox_Title" class="title">系统消息</span>
+
+		   <b id="popMsgBox_Close" class="option"></b>
+
+	   </div>
+
+	   <div id="popMsgBox_Content" class="mnbd">
+
+	   	  <div class="tit-mb">
+
+            <p></p>
+
+            <p class="pr"><a href="http://i.jrj.com.cn/main/systemMessages.jspa" target="_blank">查看</a></p>
+
+          </div>
+
+	   </div>
+
+	</div>
+
+<!---------------------------END 底部通用导航html--------------------------->
+
+    
+
+<!---------------------------   底部通用导航页面js   ---------------------------> 
+
+
+<!--<script type="text/javascript" src="http://js.jrjimg.cn/lib/bottom-bar/BottomBar-min.1.7.js"></script>-->
+
+
+<!---------------------------  END 底部通用导航页面js   ------------------------> 
+
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=484" ></script>
+	</body>
+</html>
+
+

@@ -1,0 +1,204 @@
+<!--UINFO: http://www.oiegg.com/viewthread.php?tid=1970666&amp;page=1	length=23558&last_modified=0&time_saved=1450676877&charset=utf-8-->
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<meta name="keywords" content="北师大论坛,北京师范大学论坛,北京师范大学bbs,北师大bbs" />
+<title>富力地产（北方区）2016“富力星”校园招聘 - 全职信息 -  蛋蛋网  - 师大人的精神家园</title>
+<script type="text/javascript">var IMGDIR = 'images/default';var attackevasive = '0';var gid = 0;gid = parseInt('794');var fid = parseInt('101');var tid = parseInt('1970666'); var curscript = 'viewthread';</script>
+<link rel="stylesheet" type="text/css" href="/static/css/style.css?msk600" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"><script src="/forumdata/cache/js_packed.js?m9fffn"></script><script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-18298494-1']);
+	_gaq.push(['_setDomainName', '.oiegg.com']);
+	_gaq.push(['_trackPageview']);
+
+	_gaq.push([
+    	'_setCustomVar',
+        1,
+        'MemberType',
+        'guest',
+        1
+    ]);
+
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = 'http://www.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+<body onkeydown="if(event.keyCode==27) return false;" onload="setBrowserTagToBody()">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div class="wrap side-shadow">
+    <div class="inner_wrapper">
+        <div id="header">
+            <h2><a href="index.php" title="蛋蛋网"><img src="images/logo.gif?20130708" alt="蛋蛋网" border="0"></a></h2>
+            <div id="ad_headerbanner"><!-- 广告位：蛋蛋网顶部图片广告 -->
+<script type="text/javascript" >BAIDU_CLB_SLOT_ID = "807906";</script>
+<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script></div>
+        </div>
+        <div class="float-box">
+            <div id="menu">
+                <ul class="fl">
+                                        <li id="return"><a href="forumdisplay.php?fid=101" class="notabs"><font size=2>&lt;&lt;</font></a></li>
+                                        <li><a href="/index.php" class="current">首页</a></li>
+                    <li id="nav_169" onmouseover="showMenu(this.id)"><a href="/index.php?gid=169">师大</a></li>
+                    <li id="nav_546" onmouseover="showMenu(this.id)"><a href="/index.php?gid=546">信息</a></li>
+		    <li id="nav_794" class="current" onmouseover="showMenu(this.id)"><a href="/index.php?gid=794">职业</a></li>
+                    <li id="nav_495" onmouseover="showMenu(this.id)"><a href="/index.php?gid=495">学术</a></li>
+                    <li id="nav_632" onmouseover="showMenu(this.id)"><a href="/index.php?gid=632">交易</a></li>
+                    <li id="nav_544" onmouseover="showMenu(this.id)"><a href="/index.php?gid=544">生活</a></li>
+                    <li id="nav_41" onmouseover="showMenu(this.id)"><a href="/index.php?gid=41">娱乐</a></li>
+                    <li id="nav_608" onmouseover="showMenu(this.id)"><a href="/index.php?gid=608">小组</a></li>
+                    <li id="nav_564" onmouseover="showMenu(this.id)"><a href="/index.php?gid=564">BT</a></li>
+                    <li id="nav_501" onmouseover="showMenu(this.id)"><a href="/index.php?gid=501">站务</a></li>
+                                    </ul>
+                
+<div id="headsearch">
+    <form action="http://zhannei.baidu.com/cse/search" id="gform" name="gform" target="_blank">
+        <input name="s" type="hidden" value="11712997693582005251">
+        <input name="ie" type="hidden" value="utf-8">
+        <input name="q" id="q" type="text" class="lighttxt" value="请输入搜索关键字" maxlength="120" size="14" />
+        <button value="true" type="submit"></button>
+    </form>
+</div>
+                <ul class="fr">
+                                        <li><a href="register.php" class="notabs">加入蛋蛋</a></li>
+                    <li><a href="logging.php?action=login">登录</a></li>
+                                        <li><a id="appli" onmouseover="showMenu(this.id)" class="current">应用</a></li>
+                                                        </ul>
+            </div>
+        </div>
+<script src="include/javascript/viewthread.js" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(1);</script>
+
+<div class="ad_text" id="ad_text">
+<table summary="Text Ad" cellpadding="0" cellspacing="1"><tr><td width="33%"><a href="http://www.qsiedu.com/fudaoban/1v1.html" target="_blank" ><b><font color="blue">北师大考研辅导班</br>勤思考研一对一保过</b></font></a></td><td width="33%"><a href="/viewthread.php?tid=1969606" target="_blank" ><b><font color="blue">海淀驾校远航驾校直降400</br>驾校官方授权报名平台</b></font></a></td><td width="33%"><a href="/viewthread.php?tid=1879324" target="_blank" ><b><font color="blue">高回报 课酬分成九比一</br>猿题库招聘兼职在线教师</b></font></a></td></tr>
+</table>
+</div>
+<h1>富力地产（北方区）2016“富力星”校园招聘</h1>
+<div class="pages_btns">
+	<div class="threadflow"><a href="/forumdisplay.php?fid=101"> &lsaquo;&lsaquo; 全职信息</a></div>
+	  			<span class="postbtn" id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu(this.id)"><a href="post.php?action=newthread&amp;fid=101&amp;gid=794&amp;extra="><img src="images/default/newtopic.gif" border="0" alt="发新话题" title="发新话题" /></a></span>
+		<span class="replybtn"><a href="post.php?action=reply&amp;fid=101&amp;gid=794&amp;tid=1970666&amp;extra="><img src="images/default/reply.gif" border="0" alt="" /></a></span></div>
+
+	<ul class="popupmenu_popup newspecialmenu" id="newspecial_menu" style="display: none">
+		<li><a href="post.php?action=newthread&amp;fid=101&amp;extra=">发新话题</a></li>
+		<li class="poll"><a href="post.php?action=newthread&amp;fid=101&amp;extra=&amp;special=1">发布投票</a></li>		<li class="reward"><a href="post.php?action=newthread&amp;fid=101&amp;extra=&amp;special=3">发布悬赏</a></li>		<li class="activity"><a href="post.php?action=newthread&amp;fid=101&amp;extra=&amp;special=4">发布活动</a></li>			</ul>
+
+<form method="post" name="modactions">
+	<input type="hidden" name="formhash" value="db13da2e" />
+	<div class="mainbox viewthread">
+							<table id="pid19505059" summary="pid19505059" cellspacing="0" cellpadding="0">
+			<tr>
+				<td class="postauthor">
+					 					<cite>
+											<a href="space.php?uid=209548" target="_blank" id="userinfo19505059">xuan2012</a>
+
+											<label><a id="ajax_getip_0">校外</a></label>
+					
+						
+		       		</cite>
+													<div class="more_info invisible"><ul><li><span class="username">xuan2012</span></li><li><dl class="left"><dt>UID</dt><dd>209548&nbsp;</dd>
+<dt>帖子</dt><dd>793&nbsp;</dd>
+<dt>精华</dt><dd><a href="digest.php?authorid=209548">0</a>&nbsp;</dd>
+<dt>积分</dt><dd>7802&nbsp;</dd>
+<dt>蛋蛋币</dt><dd>7802 枚&nbsp;</dd>
+<dt>威望</dt><dd>0&nbsp;</dd>
+</dl>
+<dl>
+<dt>BT积分</dt><dd>0&nbsp;</dd>
+<dt>阅读权限</dt><dd>80&nbsp;</dd>
+<dt>性别</dt><dd>?&nbsp;</dd>
+<dt>在线时间</dt><dd>365 小时&nbsp;</dd>
+<dt>注册时间</dt><dd>2012-4-26&nbsp;</dd></dl></li></ul><div class="avatar"><img class="avatar" src="images/avatars/noavatar.gif" alt="" /></div><p><a href="space.php?uid=209548" target="_blank" title="xuan2012的个人空间"><img src="images/default/forumlink.gif" /></a>&nbsp;<a href="pm.php?action=send&amp;uid=209548" target="_blank" id="ajax_uid_19505059" onclick="ajaxmenu(event, this.id, 9000000, null, 0)"><img src="images/default/buddy_sendpm.gif" /></a>&nbsp;<a href="my.php?item=buddylist&newbuddyid=209548&buddysubmit=yes" target="_blank" id="ajax_buddy_0" onclick="ajaxmenu(event, this.id, null, 0)"><img src="images/default/user_add.gif" /></a></p></div><div class="avatar js_userinfo"><img class="avatar" src="images/avatars/noavatar.gif" alt="" /></div>												<p><em>凤凰蛋</em></p>
+						<p><img src="images/default/star_level2.gif" alt="Rank: 8" /><img src="images/default/star_level1.gif" alt="Rank: 8" /><img src="images/default/star_level1.gif" alt="Rank: 8" /><img src="images/default/star_level1.gif" alt="Rank: 8" /></p>
+																					</td>
+				<td class="postcontent" >
+					<div class="postinfo">
+						<strong title="复制帖子链接到剪贴板" id="postnum_19505059" onclick="setcopy('http://www.oiegg.com/viewthread.php?tid=1970666&amp;page=1#pid19505059', '帖子链接已经复制到剪贴板')">主楼</strong>
+													<em onclick="$('postmessage_19505059').className='t_bigfont'">大</em>							<em onclick="$('postmessage_19505059').className='t_msgfont'">中</em>
+							<em onclick="$('postmessage_19505059').className='t_smallfont'">小</em>												发表于 2015-10-8 19:28&nbsp;																					<a href="viewthread.php?tid=1970666&amp;page=1&amp;authorid=209548">只看该作者</a>
+													                                                                        					</div>
+										<div class="postmessage defaultpost">
+																									<h2>富力地产（北方区）2016“富力星”校园招聘</h2>
+						
+						
+																											<div id="postmessage_19505059" class="t_msgfont"><p align="center"><p align="center"><strong><font face="&amp;quot "><font style="font-size: 15.0pt">富力地产（北方区）2016“富力星”校园招聘</font></font></strong><font face="&amp;quot "></font></p></p><font face="&amp;quot ">创建非凡，至善共生</font><br />
+<font face="&amp;quot ">我们坚信，生命的本质，应该在建筑的品质中得到升华；</font><br />
+<p align="center"><p align="center"><font face="&amp;quot ">我们期望，以多元丰富的建筑产品，让每一个不同人生都能尽享不凡；</font></p></p><p align="center"><p align="center"><font face="&amp;quot ">我们致力，让遍布全国各地的近百个旗舰项目，都成为推动城市发展的永恒坐标；</font></p></p><p align="center"><p align="center"><font face="&amp;quot ">我们深知，一个企业的成长离不开社会的支持，唯有不遗余力投身公益回报才能走的更远……</font></p></p><p align="center"><p align="center"><font face="&amp;quot ">世界每天都在生长，我们一直与城市共进，我们始终恪守，没有比责任更高的建筑。</font></p></p><p align="center"><p align="center"><font face="&amp;quot ">富力地产</font></p></p><p align="center"><p align="center"><font face="&amp;quot ">创建非凡，至善共生！</font></p></p><p align="center"><p align="center"><font face="&amp;quot ">加入我们，成就属于自己的舞台！</font></p></p><strong><font face="&amp;quot "><font style="font-size: 18.0pt">公司简介</font></font></strong><br />
+<font face="&amp;quot ">广州富力地产股份有限公司（香港联合交易所上市编号：2777）成立于1994年，集房地产设计、开发、工程监理、销售、物业管理、房地产中介等业务为一体，拥有国家建设部颁发的一级开发资质、甲级设计资质、甲级工程监理资质、一级物业管理资质及一级房地产中介资质，是中国综合实力最强的房地产企业之一。公司于2005年7月14日在香港联交所主板上市，为首家被纳入恒生中国企业指数的内地房地产企业，并荣登市值最高公司之一。自1994年成立以来，富力人倾尽心思与心血，从细节出绩效，终于赢得了客户的认同与赞赏。2008年10月11日，荣获国家税务局计划统计司权威发布的中国纳税百强排行榜房地产行业第一名。实力造就金牌品质，荣誉闪耀品牌辉煌，公司在二零零五年至二零零九年连续五年蝉联国家统计局评选及公布的中国房地产企业综合实力第一名。</font><br />
+<font face="&amp;quot ">　　“规划与时俱进，紧扣城市化建设”是富力多年来的拓展模式，成功的策略使富力的每一个项目都成为城市发展的坐标，极大提升了富力品牌影响力。从大本营广州开始，富力的业务已拓展至北京、上海、天津、西安、沈阳、太原、大同、无锡、哈尔滨、包头、郑州、石家庄、南京、重庆、成都、杭州、福州、贵阳、长沙、梅州、惠州、海南、马来西亚、澳大利亚等二十多个城市和地区，基本上已实现全国性的布局策略。公司目前拥有超过100个物业项目，土地储备约2500万平方米。</font><br />
+<font face="&amp;quot ">　　另外，富力地产还与全球著名连锁酒店管理集团——万豪国际集团、凯悦酒店集团、洲际酒店集团等合作，共同打造多家超五星级酒店。展望未来，商用物业的投资、开发与管理将会为富力注入一股更值得期待的鲜活的生命力。在广州、北京、天津、上海等全国一线城市，富力地产也增加了商业楼宇的开发力度，商业地产的拓展，不仅能满足了企业长期投资收益的需要，更提高了国内现代化商业地产的顶级标准。</font><br />
+<font face="&amp;quot ">　　富力地产在成就与责任与日俱增的今天，站在企业公民的高度，不断关注民生，回馈社会。十多年来，公司各类慈善捐赠遍及文教、卫生、治安、敬老、扶贫等多个领域，累计超过4亿人民币。</font><br />
+<font face="&amp;quot ">　　走过二十余年稳健发展的富力地产，不仅有了更多元化、更为畅顺的融资渠道和一体化地产运营的管理模式，以及更充足的土地储备和合理布局，相信未来，富力地产在继续营造和谐社会的同时，更将迎来下一个收获之年。</font><br />
+<br />
+<br />
+<strong><font face="&amp;quot ">筑印记</font></strong><br />
+<font face="&amp;quot ">1994</font><font face="&amp;quot ">：广州富力实业发展总公司、天力房地产开发公司成立，开发第一个项目“富丽花园”</font><br />
+<font face="&amp;quot ">1995</font><font face="&amp;quot ">：广州天力建筑设计院成立</font><br />
+<font face="&amp;quot ">1996</font><font face="&amp;quot ">：富力广场动工，实现当年拿地、当年开工、当年销售</font><br />
+<font face="&amp;quot ">1997</font><font face="&amp;quot ">：广州天力物业发展有限公司成立</font><br />
+<font face="&amp;quot ">1999</font><font face="&amp;quot ">：销售额突破10亿，荣获广州市房地产销售冠军、综合实力第一名</font><br />
+<font face="&amp;quot ">2000</font><font face="&amp;quot ">：荣获中国著名地产企业称号，公司更名为广州富力地产集团有限公司</font><br />
+<font face="&amp;quot ">2001</font><font face="&amp;quot ">：广州天富建设工程监理有限公司成立</font><br />
+<font face="&amp;quot ">2002</font><font face="&amp;quot ">：以32亿投得中国有史以来最大的公开招标地块——北京富力城地块</font><br />
+<font face="&amp;quot ">2003</font><font face="&amp;quot ">：荣获“中国房地产品牌企业50强”</font><br />
+<font face="&amp;quot ">2004</font><font face="&amp;quot ">：国际统计局颁发“中国房地产综合实力第三名”</font><br />
+<font face="&amp;quot ">2005</font><font face="&amp;quot ">：香港联交所主板上市，编号2777；中国房地产综合实力第一位</font><br />
+<font face="&amp;quot ">2006</font><font face="&amp;quot ">：公司销售额突破100亿；中国房地产企业综合实力第一名</font><br />
+<font face="&amp;quot ">2007</font><font face="&amp;quot ">：中国房地产企业综合实力第一名</font><br />
+<font face="&amp;quot ">2008</font><font face="&amp;quot ">：中国房地产企业综合实力第一名</font><br />
+<font face="&amp;quot ">2009</font><font face="&amp;quot ">：中国房地产企业综合实力第一名</font><br />
+<font face="&amp;quot ">2010</font><font face="&amp;quot ">：销售额突破300亿</font><br />
+<font face="&amp;quot ">2011</font><font face="&amp;quot ">：广州富力足球俱乐部成立；富力切尔西足球学校</font><br />
+<font face="&amp;quot ">2012</font><font face="&amp;quot ">：成立大同、惠州、杭州公司</font><br />
+<font face="&amp;quot ">2013</font><font face="&amp;quot ">：收购马来西亚新山地块，成立马来西亚公司</font><br />
+<font face="&amp;quot ">2014</font><font face="&amp;quot ">：销售额突破500亿；澳洲公司成立</font><br />
+<br />
+<br />
+<strong><font face="&amp;quot ">筑荣耀</font></strong><br />
+<font face="&amp;quot ">·<br />
+广东省企业100强</font><br />
+<font face="&amp;quot ">·<br />
+第六届广东地产资信20强</font><br />
+<font face="&amp;quot ">·<br />
+广东最具投资价值上市公司50强</font><br />
+<font face="&amp;quot ">·&nbsp;&nbsp;2006年华南十大地产品牌</font><br />
+<font face="&amp;quot ">·&nbsp;&nbsp;2006年度广州市民十大最喜爱房地产品牌企业</font><br />
+<font face="&amp;quot ">·&nbsp;&nbsp;2006-2007年度广州市优秀民营企业</font><br />
+<font face="&amp;quot ">·&nbsp;&nbsp;2007年度广东纳税百强企业</font><br />
+<font face="&amp;quot ">·<br />
+中国驰名商标</font><br />
+<font face="&amp;quot ">·<br />
+中国房地产品牌企业</font><br />
+<font face="&amp;quot ">·<br />
+中国房地产业纳税百强第一名</font><br />
+<font face="&amp;quot ">·&nbsp;&nbsp;2005-2008年蝉联中国房地产业综合实力第一名</font><br />
+<font face="&amp;quot ">·&nbsp;&nbsp;2006-2007年度最具实力地产企业</font><br />
+<font face="&amp;quot ">·&nbsp;&nbsp;2007年 中国企业所得税纳税百强</font><br />
+<font face="&amp;quot ">·&nbsp;&nbsp;2009年 中国房地产百强企业-综合实力TOP10</font><br />
+<font face="&amp;quot ">·&nbsp;&nbsp;2009年 杰出内房股</font><br />
+<font face="&amp;quot ">·&nbsp;&nbsp;2010年 荣获十大最具影响力品牌</font><br />
+<font face="&amp;quot ">·&nbsp;&nbsp;2010年 中国最具价值地产上市企业</font><br />
+<font face="&amp;quot ">·&nbsp;&nbsp;2011年 获中国酒店业最佳业主</font><br />
+<font face="&amp;quot ">·&nbsp;&nbsp;2011年 中国房地产500强十强称号</font><br />
+<font face="&amp;quot ">·&nbsp;&nbsp;2012年 获中国最具影响力企业</font><br />
+<font face="&amp;quot ">·&nbsp;&nbsp;2013年 上榜胡润品牌版</font><br />
+<font face="&amp;quot ">·&nbsp;&nbsp;2014年 获2013年度中国房地产卓越100榜奖项</font><br />
+<font face="&amp;quot ">· </font><font face="微软雅黑, sans-serif "> 2015</font><font face="微软雅黑, sans-serif ">年 获2014年中国酒店业最佳雇主，旗下酒店连夺中国酒店星光大奖</font><br />
+<font face="宋体 ">·<br />
+</font><font face="微软雅黑, sans-serif "> 2015</font><font face="微软雅黑, sans-serif ">年 获中国地产风尚大奖-2015中国最具影响力地产企业</font><br />
+<br />
+<br />
+<strong><font face="&amp;quot "><font style="font-size: 15.0pt">企业文化</font></font></strong><br />
+<strong><font face="&amp;quot ">筑品牌</font></strong><br />
+<br />
+<font face="&amp;quot ">儒商之道：富力地产的&quot;家文化&quot;</font><br />
+<br />
+<font face="&amp;quot ">富力地产一直提倡&quot;大家庭文化&quot;，在现代民营企业的建设中，富力开创的&quot;家文化&quot;有着新的范式和发展，被认为是一种&quot;儒家文化&quot;的改良，是符合现代企业要求的文化演变。其包括：精神层（核心和灵魂）、制度层（保障功能）、物质层（基础）等三个层次和境界。</font><br />
+<br />
+<br />
+<br />
+<font face="&amp;quot ">精神层</font><br />
+<font face="&amp;quot ">&nbsp; &nbsp;&nbsp; &nbsp; &quot;</font><font face="&amp;quot ">多沟通，少埋怨；多自省，少斥人；严律己，宽待

@@ -1,0 +1,1745 @@
+<!--UINFO: http://bbs.local.163.com/bbs/bjpiao/575396573,1.html	length=142991&last_modified=0&time_saved=1450677002&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk"/>
+<meta http-equiv="pragma" content="no-cache" />
+
+
+<link rel="stylesheet" type="text/css" href="http://img1.cache.netease.com/bbs/static/20150917/form_tie.css" charset="GBK"/>
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="http://img1.cache.netease.com/bbs/static/20150917/tie_ie6.css" charset="GBK"/>
+<![endif]-->
+
+<title>福建自贸区：一个全局战略框架</title>
+<script type="text/javascript" src="http://img1.cache.netease.com/bbs/static/20150917/bbsntes_jslib.js" charset="GBK"></script>
+<script type="text/javascript" src="http://img1.cache.netease.com/bbs/static/20150917/jquery_bbs.js" charset="GBK"></script>
+</head>
+<body>
+   <iframe src="http://t.163.com/crossdomain.html" style="display:none;"  id="iframeProxy"></iframe>
+<link type="text/css" rel="stylesheet" media="screen" href="http://img1.cache.netease.com/common/css/common_nav_v1.0.1.css" />
+<style>.NTES-nav {width: auto; margin-left: 5px;}</style>
+<div class="NTES-nav">
+    <span class="nav-link"><a href="http://www.163.com/">网易首页</a>-<a href="http://news.163.com/">新闻</a>-<a href="http://sports.163.com/">体育</a>-<a href="http://sports.163.com/nba/">NBA</a>-<a href="http://ent.163.com/">娱乐</a>-<a href="http://money.163.com/">财经</a>-<a href="http://money.163.com/stock/">股票</a>-<a href="http://auto.163.com/" id="_link_auto">汽车</a>-<a href="http://tech.163.com/">科技</a>-<a href="http://mobile.163.com/">手机</a>-<a href="http://lady.163.com/">女人</a>-<a href="http://bbs.163.com/">论坛</a>-<a href="http://v.163.com/">视频</a>-<a href="http://blog.163.com/">博客</a>-<a href="http://house.163.com/" id="houseUrl">房产</a>-<a id="homeUrl" href="http://home.163.com/">家居</a>-<a href="http://edu.163.com/">教育</a>-<a href="http://book.163.com/">读书</a>-<a href="http://game.163.com/" id="_link_game">游戏</a>-<a href="http://www.lofter.com/?act=qb163rk_20141031_05" target="_blank">LOFTER</a> |</span>
+    <div class="rightCon">
+        <div class="NTES-link">
+            <a href="http://email.163.com/" class="cBlue">免费邮箱</a> - <a href="http://reg.163.com/" class="cBlue">通行证登录</a>
+        </div>
+        <a href="http://www.163.com/rss"><img width="26" height="14" border="0" src="http://img3.cache.netease.com/cnews/img07/rss.gif" class="rss" alt="Rss"></a>
+    </div>
+</div>
+<script type="text/javascript">
+    //<![CDATA[
+    NTES.ready( function($){
+        var P_INFO = NTES.cookie.get("P_INFO");
+        var S_INFO = NTES.cookie.get("S_INFO");
+        if(P_INFO){
+            var mailconfig = {
+                "163.com":"http://entry.mail.163.com/coremail/fcg/ntesdoor2?verifycookie=1&lightweight=1",
+                "126.com" : "http://entry.mail.126.com/cgi/ntesdoor?verifycookie=1&lightweight=1&style=-1",
+                "vip.126.com" : "http://reg.vip.126.com/enterMail.m",
+                "yeah.net" : "http://entry.yeah.net/cgi/ntesdoor?verifycookie=1&lightweight=1&style=-1",
+                "188" : "http://reg.mail.188.com/servlet/enter",
+                "vip.163.com" : "http://reg.vip.163.com/enterMail.m?enterVip=true-----------"
+            };
+            var passport =  P_INFO.substr(0, P_INFO.indexOf("|"));
+            var username =  passport.substr(0, P_INFO.indexOf("@"));
+            var logstate = P_INFO.split("|")[2];
+            var logiframe = "";
+            var pspt = passport.length >= 6 ? passport.substr(0,6)+"..." : passport;
+            /@([^*]+)/.test(passport);
+            var logdomain = RegExp.$1;
+            if(P_INFO && S_INFO || logstate=="1") {
+                var entrylink_html = '<a href=\"http://reg.163.com/Main.jsp?username='+passport+'\">进入通行证</a>';
+                if(mailconfig[logdomain] != undefined) {
+                    entrylink_html += '<a href=\"'+mailconfig[logdomain]+'\">进入我的邮箱</a>';
+                }
+                if(logdomain == "popo.163.com" || mailconfig[logdomain] != undefined) {
+                    entrylink_html += '<a href="http://blog.163.com/passportIn.do?entry=163">进入我的博客</a><a href="http://photo.163.com/?username='+passport+'\">进入我的相册</a>';
+                }
+                entrylink_html += '<a href="http://yuehui.163.com/">进入我的约会</a><a href="http://t.163.com">进入我的微博</a>';
+                if(logdomain == "163.com" || logdomain == "126.com" || logdomain == "yeah.net") {
+                    logiframe = '<iframe allowTransparency=\"true\" style=\"width: 56px; height:26px; float:left; vertical-align: middle;\" id=\"ifrmNtesMailInfo\" border=\"0\" src=\"http://p.mail.'+logdomain+'/mailinfo/shownewmsg_www_1222.htm\" frameBorder=\"0\" scrolling=\"no\"></iframe>';
+                }
+                var login_html = '<div class=\"ntes-usercenter\"><div class=\"ntes-usercenter-logined\"><strong id=\"ntes_usercenter_name\" class=\"ntes-usercenter-name\" title=\"欢迎你，'+passport+'\">'+pspt+'</strong></div><div id=\"ntes_usercenter_entry\" class=\"ntes-usercenter-entry\"><span class=\"user-entry\">'+entrylink_html+'</span></div></div>'+logiframe+'|<a class=\"ntes-usercenter-loginout\" href=\"http://reg.163.com/Logout.jsp?username='+passport+'\" target=\"_self\">退出</a></div>';
+                NTES(".NTES-link")[0].innerHTML = login_html;
+
+                NTES("#ntes_usercenter_name").addEvent("click", function(e){
+                    NTES("#ntes_usercenter_entry").style.display = NTES("#ntes_usercenter_entry").style.display == "block" ? "none" : "block";
+                    e.preventDefault();
+                    e.cancelBubble = true;
+                    document.onclick = function(){
+                        NTES("#ntes_usercenter_entry").style.display = "none";
+                    }
+                })
+            };
+        }
+    })
+    //]]>
+    NTES.retire();
+</script>
+    <div id="topNav">
+                    <input type="hidden" name="boardid" id="boardid" value="bjpiao"/>
+                <input type="hidden" name="boardname" id="boardname" value="北漂一族"/>
+                    <input type="hidden" name="threadId" id="threadId" value="575396573"/>
+                <input type="hidden" name="channel" id="channel" value="local"/>
+
+        <input type="hidden" value="2" id="list_page_num">
+        <div class="nav-bar">
+            <a href="http://bbs.163.com" class="logo"></a>
+            <a href="http://www.163.com">网易首页</a> &gt;
+            <a href="http://bbs.163.com/">网易论坛</a> &gt;
+            <a href="http://bbs.local.163.com">网易地方论坛</a> &gt;
+			            <a href="http://bbs.local.163.com/boardset/bjpiao.html">北漂一族</a>
+        </div>
+        <div class="nav-info" style="display:none;">
+            <a href="http://bbs.163.com/user/personalCenter.do" class="info-username" target="_blank"></a>
+    		<a href="#" class="info-mark info-sign">签到</a> |
+            <table class="info-manage" cellspacing="0" cellpadding="0" border="0">
+            <tr><td valign="middle">
+                <div class="dd-window dd-window-expand1">
+    			    <a href="http://bbs.163.com/user/personalCenter.do" target="_blank">我的管理中心</a>
+    				<em class="icon-arrow-up"></em>
+                    <div class="board-menu">
+                        <div class="board-menu-connect"></div>
+                        <div class="board-menu-container">
+                            <div class="board-menu-nav">
+                              	  个人管理 &gt;
+                            </div>
+                            <ul class="board-menu-sub-nav">
+                                <li><a target="_blank" href="http://bbs.163.com/user/personalCenter.do">管理中心</a></li>
+                                <li><a target="_blank" href="http://bbs.163.com/user/gift/newUserTask.do">新手任务</a></li>
+                                <li><a target="_blank" href="http://bbs.163.com/user/gift/giftShop.do">礼物商店</a></li>
+                                <li><a target="_blank" href="http://bbs.163.com/user/upgrade.do">升级中心</a></li>
+                            </ul>
+                        </div>
+                        <div class="board-menu-container last">
+                            <div class="board-menu-nav">
+                                个人收藏 &gt;
+                            </div>
+                            <ul class="board-menu-sub-nav like-list">
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </td></tr>
+            </table> |
+            <!--<a href="http://t.163.com/?f=bbsnav" class="info-weibo">我的网易微博</a>(<span class="red weibo-count">99+</span>) |-->
+            <a href="http://www.lofter.com/entry?act=qb163rk_20141031_05&logined=true" target="_blank">我的LOFTER</a><span class="js-lofter-sec">(<span class="red lofter-count">99+</span>)</span> |
+            <div class="info-message-box">
+                <div class="dd-window dd-window-expand1">
+                    <a href="http://bbs.163.com/user/msg.do?msgType=2">消息中心</a>(<span class="red message-count">6</span>)
+    				<em class="icon-arrow-up"></em>
+                    <ul class="info-message-box-list">
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=2">用户消息 <span class="em">2</span></a>
+                        </li>
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=1">评论消息 <span class="em">2</span></a>
+                        </li>
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=0">系统消息 <span class="em">2</span></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="message_alert_box">
+                    <span class="message_arrow"></span>
+                    <a class="message_alert_btn" href="">X</a>
+                    <ul class="message_alert_list">
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=2">用户消息 <span class="em">0</span></a>
+                        </li>
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=1">评论消息 <span class="em">0</span></a>
+                        </li>
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=0">系统消息 <span class="em">0</span></a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div> |
+            <a href="/bbs/user/logout.jsp">退出</a> |
+            <a href="/list/tyro.html" id="forumhelp">帮助</a>
+            <a href="http://help.3g.163.com/bbs/">手机版</a>
+        </div>
+        <div class="nav-login">
+            [<a href="#" class='login-button'>登录</a>]
+            <a href="#" class="info-mark info-sign">签到</a>  |
+            <a  href="/list/tyro.html" >帮助</a> |
+            <a href="http://help.3g.163.com/bbs/">手机版</a>
+        </div>
+    </div>
+ <input type="hidden" value="福建自贸区：一个全局战略框架" id="threadTitle"/>
+ <input type="hidden" value="onelovemm09" id="authorEmail"/>
+<div id="tie_bd">
+    <div id="tie_wrapper">
+        <div class="tie-tab-bottom-nav">
+            <a class="tile-tab-nav-back" title="返回版面 北漂一族" href="/boardset/bjpiao.html">&lt;&lt;返回北漂一族</a>
+            <div class="tie-write">
+                <div class="dd-window">
+                    <a class="top" href="/post/bjpiao/publish/common-">发 帖</a>
+                    <ul class="tie-menu">
+                        <li><a href="/post/bjpiao/publish/common-">新帖子</a></li>
+                        <li class="pos-rel"><a href="/post/bjpiao/publish/album-">新图集</a><em class="pos-abs new-icon"></em></li>
+                        <li><a href="/post/bjpiao/publish/ask-">新问答</a></li>
+                        <li><a href="/post/bjpiao/publish/debate-">新辩论</a></li>
+                        <li class="noBg"><a href="/post/bjpiao/publish/vote-">新投票</a></li>
+                    </ul>
+                </div>
+            </div>
+			            <div class="tie-page">
+                共 <span class="red">2974</span> 浏览 <span class="red">0</span> 回帖&nbsp;&nbsp;
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                
+                                                                        
+                
+        
+
+            
+            
+            
+            
+
+                                            </div>
+        </div>
+
+            <div class="tie-item tie-first-item">
+            <div class="tie-author">
+               <div class="tie-author-column">
+                   <a title="永远的麦克" target="_blank" href="http://bbs.163.com/user/onelovemm09">
+                        <img width="100" alt="永远的麦克" src="http://image.bbs.163.com/face/onelovemm09" />
+                   </a>
+                   <span class="info-name" title="永远的麦克">
+                       <em class="icon_transparent_people"></em>
+					   																						                       <a target="_blank" href="http://bbs.163.com/user/onelovemm09" class="js-tieauthor">永远的麦克</a>
+
+								
+						                   </span>
+                   <a class="info-message" title="给 永远的麦克 发送消息" href="javascript:;" passport="2584e" nickname="永远的麦克">
+                      <span class="info-act-wraper">  
+                        <em class="icon_transparent_message"></em>发送消息
+                       </span>
+                   </a>
+                   <!--a href="javascript:;" target="_blank"  name="onelovemm09" title="永远的麦克 的微博" class="info-weibo js-info-weibo">
+                       <span class="info-act-wraper">
+                         <em class="icon_transparent_weibo"></em>TA的微博
+                       </span>
+                   </a-->
+                                      <div class="info-collection">
+                        <div class="info-class"><span class="info-class-title">等级:</span>
+                        <!-- 等级图标-->
+                             <div class="info-class-bar">
+                                <img src="http://img2.cache.netease.com/utf8/bbs/image/star_3.jpg" alt="花" title="等级:3"  /><img src="http://img2.cache.netease.com/utf8/bbs/image/star_1.jpg" alt="叶" title="等级:3"  />
+                             </div>
+                        </div>
+                        <p>积分: 472  </p>
+														<p>发帖: 318 篇</p>
+						                   
+                        <p>在线时长: 128 小时</p>
+                        
+                   </div>
+               </div>
+            </div>
+            <div class="tie-con">
+                <div class="tie-con-hd ">
+                    <div class="tie-con-hd-panel ">
+                                                	                        		<a href="/thread/bjpiao-575396573-1|2584e.html">只看楼主</a>
+                        	                                                <span class="time" id="floor-$item.floor">楼主 &nbsp;&nbsp; 2015-09-07 14:25:10</span>
+                         <a name="1" href="javascript:;" class="report-whistle btn-dialog js-report" title="举报" action="report" data='{"boardId":"bjpiao","threadId":575396573 }'>举报</a>
+                                                <div class="board-manage">
+                            <div class="dd-window js-dd-wraper">
+                                管理<em class="icon-arrow-up"></em>
+                                <ul class="board-menu">
+                                    <script type="text/template" class="js-postTemp">
+                                      <%for(var i=0;i<list.length;i++){%>
+                                                                                            <%if(list[i].opId=="top"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="topThread" title="置顶" data='{"boardId":"bjpiao","threadId":"575396573"}'>置顶</a></li>
+                                                <%}else if(list[i].opId=="push"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="topallThread" title="总置顶" data='{"boardId":"bjpiao","threadId":"575396573"}'>总置顶</a></li>
+                                                <%}else if(list[i].opId=="elite"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="eliteThread" title="精华" data='{"boardId":"bjpiao","threadId":"575396573"}'>精华</a></li>
+                                                <%}else if(list[i].opId=="commend"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="recommendThread" title="推荐"  data='{"boardId":"bjpiao","threadId":"575396573"}'>推荐</a></li>
+                                                <%}else if(list[i].opId=="relative"){%>
+                                                <li class="gt-master"><a href="/bbs/about.jsp?boardid=bjpiao&threadid=575396573" action="related" title="相关">相关</a></li>
+                                                <%}else if(list[i].opId=="move"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="moveThread" title="迁移" data='{"boardId":"bjpiao","threadId":"575396573"}'>迁移</a></li>
+                                                <%}else if(list[i].opId=="lock"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="lockThread" title="锁定" data='{"boardId":"bjpiao","threadId":"575396573"}'>加锁</a></li>
+                                                <%}else if(list[i].opId=="forbidden"){%>
+                                                <li class="gt-editor"><a href="javascript:;" class="btn-dialog" action="limitThread" title="限制" data='{"boardId":"bjpiao","threadId":"575396573"}'>限制</a></li>
+                                                <%}else if(list[i].opId=="down"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="downThread" title="下沉" data='{"boardId":"bjpiao","threadId":"575396573"}'>下沉</a></li>
+                                                <%}%>
+                                                                                                                                           <%if(list[i].opId=="modify"){%>
+                                                <li class="gt-editor"><a href="/post/bjpiao/publish/common-575396573" title="修改">修改</a></li>
+                                                <%}%>
+                                                                                                <%if(list[i].opId=="delete"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="deleteThread" title="删除" data='{"boardId":"bjpiao","threadId":"575396573" ,"isMain":1 ,"floor":""}' title="删除">删除</a></li>
+                                                <%}else if(list[i].opId=="black"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="addBlackList" title="加黑"  data='{"boardId":"bjpiao","threadId":"575396573" ,"isMain":1 ,"passport":"onelovemm09","nickname":"永远的麦克","userId":"2584e"}'>加黑</a></li>
+                                                <%}else if(list[i].opId=="iplimit"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="addIpLimit" title="IP限制"  data='{"boardId":"bjpiao","threadId":"575396573" ,"isMain":1 ,"nickname":"永远的麦克","userId":"2584e"}'>IP</a></li>
+                                                <%}else if(list[i].opId=="enjoin"){%>
+                                                                                                 <%}%>
+
+                                     <%}%>
+                                    </script>
+                                </ul>
+                            </div>
+                        </div>
+                                                <em class="icon_manange_print"></em>
+                        <a href="/bbs2009/printArticle.jsp?boardid=bjpiao&articleid=575396573" class="button-print">打印</a>
+                                            </div>
+                                        <h2 class="tie-con-hd-title js-tietitle" style="color:#333;">福建自贸区：一个全局战略框架</h2>
+                                    </div>
+                <div class="tie-con-bd">
+                                                                                    <div class="tie-content">
+                        <span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">福建自贸区的建设是一个综合性的社会系统工程，涉及到方方面面的统筹协调，既要统筹协调系统内部三大片区之间的发展，又要统筹协调与其他三大自贸区的合作关系；既要做好自贸区建设，又要将其充分融入到海上丝绸之路核心区建设；既要夯基固本，又要做好保障工作。为此，本书先提出一个战略性分析框架，以期为福建自贸区以及其他自贸区的建设提供借鉴。</span> 
+<br /> 
+<br /> 
+<img class="zoom" alt="" src="http://i1.tietuku.com/0d758ab83f3bcb9d.png" width="421" height="364" /> 
+<br /> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">图3-1&nbsp; &nbsp;福建自贸区建设：一个战略性分析框架</span> 
+<br /> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">（一）一倡创新</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">福建自贸试验区建设的特色集中地反映在四个“便利化”方面，即金融便利化、贸易便利化、投资便利化以及监管服务便利化。而便利化政策的实施离不开技术、管理、文化、服务、制度等一揽子创新上面，即创新驱动发展战略的实施。因此，自贸试验区建设的本质在于借力创新驱动发展战略，以体制机制创新作为突破口，引领技术、管理、文化、服务等全方位的创新，不断为自贸试验区的建设注入新的动力和活力,为全面深化改革和扩大开放探索新途径，积累新经验。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">1.加快推进管理模式创新，当好改革方向盘</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">一是深化行政管理体制改革。率先挖掘改革潜力，破解改革难题。按照国际化、市场化和法制化的要求，加快推进政府管理模式的创新，建设法治化的营商环境。加快审批制度的改革，由注重事前审批转为注重事中和事后审批，提高行政管理的效率。允许企业“先入区，再申报”，最大限度提升进出入境的便利程度和运作效率。二是积极探索负面清单管理模式。探索对外商投资实行准入前国民待遇加负面清单的管理模式，营造各类投资者平等准入的市场环境，发挥市场在资源配置中的决定性作用，提高开放度和透明度。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">2.全面激发科技创新内核动力，驱动自贸区大发展</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">一是依靠科技创新驱动贸易发展方式转变。依靠科技创新，积极培育贸易新型业态和功能，发展跨境电子商务，开展飞机等高技术含量、高附加值产品境内外维修业务试点，形成以技术、品牌、质量、服务为核心的外贸竞争新优势，推动贸易发展方式转变。二是依靠科技创新驱动闽台产业合作新模式。创新两岸合作机制，推进货物、服务、资金和人员等各类要素的自由流动，增强闽台经济关联度。探索闽台合作研发创新，合作打造品牌，推动台湾先进制造业、战略性新兴产业、现代服务业等在自贸试验区内集聚发展，承接台湾产业转移，支持自贸试验区内企业赴台湾投资，促进闽台产业链的深度融合。三是依靠科技创新实现自贸试验区与高新技术产业区叠加联动效应。进一步加强自主创新能力建设，促进科技创新，加快科技成果转化，促进自贸试验区与高新技术产业区的互动融合发展，依托高新技术产业区加快自贸试验区建设的步伐，依托自贸试验区推动科技创新水平的提升。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">3.持续提升供应链服务创新能力，打造自贸区共生共享共荣共赢生态圈</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">一是强化金融服务功能。坚持金融服务实体经济的原则，根据区内企业的融资需求，设计个性化融资计划；允许外资和民营资本设立金融机构，建立国际交易平台，创新自贸试验区金融产品，大力发展供应链金融业务，为企业开拓融资渠道，提升供应链的全球竞争力。二是加快提升物流与供应链服务水平。引导自贸试验区内的物流企业向多元化的方向发展，加快跨境电商物流发展，不断提高物流企业的创新能力，提升其国际化服务能力。三是提升国际航运服务能级。探索具有国际竞争力的航运发展制度和运作模式，放宽中外合资、中外合作国际船舶运输企业的外资股比限制；允许自贸试验区试点海运快件国际和台港澳中转集拼业务。三是依托互联网思维助推自贸试验区发展。将自贸试验区建设成为企业“走出去”窗口和“一站式”综合服务平台，依托电子商务平台促进自贸试验区内传统企业转型升级，以互联网思维打造共生、共享、共荣、共赢的自贸试验区生态圈。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">最后，作为全面创新系统，要统筹协调各方创新资源。既要注重制度创新，又要注重功能创新；既要充分发挥科技创新优势，又要充分结合体制创新、管理创新、服务创新、文化创新和商业模式创新的优势。将科技创新与商业模式创新、服务流程创新相结合，实现创新资源的优化配置，提升自贸试验区创新系统整体效能。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">（二）二区叠加（自贸区、“海丝”核心区）</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">十八大以后，党中央领导班子提出了一带一路和自贸区战略，目前已有30多个省市区在政府工作报告中提出了积极参与、主动融入一带一路战略。福建被列为建设21世纪海上丝绸之路的核心区，且被列为中国第二批自由贸易试验区试点，这“二区叠加”的模式对于福建来说既是机遇又是挑战，但毕竟两者之间存在差距，如何更好地统筹两者之间的关系，将成为影响福建能否实现科学发展跨越发展的重要因素。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">&nbsp; &nbsp; 1.借力“二区叠加”，打开福建对外开放新格局</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">面对日益严峻复杂的未来世界贸易规则、格局，中国将面临“二次入世”的危险，“一带一路”和自贸区建设将为中国争取全球化主动权提供条件，将推动中国构建与国际相衔接的新的营商环境。而福建作为21世纪海上丝绸之路的核心区，与海上丝绸之路沿线国家的经贸、文化、旅游交往紧密。其中，“海丝”战略的核心是加强福建同海上丝绸之路沿线国家的交流与合作，因此有必要先建立自贸区，虽然同属于国家战略，但是自贸区战略只是“海丝”战略的一个平台，一个重要的开放窗口。福建自贸区建设与“海丝”战略将共同构成福建新对外开放格局，自贸区建设侧重于从降低贸易门槛角度，提升贸易便利化水平来加快区域内的经济一体化，而“海丝”战略则侧重于以基础设施为先导促进沿线经济体的互联互通（陈耀，2014）。因此，福建自贸区建设中应充分利用自身与海上丝绸之路沿线国家和地区的历史渊源，深化与海上丝绸之路沿线国家在经济贸易、港口航运、海洋能源、科技创新、旅游文化等领域的全方位开放合作。主动融入其中寻求突破，以创新推动结构优化升级，以东南亚为重点，坚持经济合作与人文融合并重，为打造全方位对外开放新格局贡献力量。其中，东盟是海上丝绸之路必经之地，是建设21世纪海上丝绸之路的重点地区，依托“海丝”战略，推动我省与东盟经贸合作的深度发展，扩大我省与东盟各国各地区的利益汇合点，并以此为契机，延展与海上丝绸之路沿线其他国家和地区（南亚、中东和非洲等相关国家）的经贸合作。依托福建自贸区建设的利好投资政策和发展机会，吸引全球各地的外资进入福建，福建企业家也可以更好地到境外投资，福建将依托地域优惠政策，结合闽地海外华人华侨众多的优势，先行先试。未来的发展中，福建自贸区的建设要在“海丝”战略的依托下，认清形势、解放思想、转变观念，实现一种全方位、宽领域、深层次开放的经济形态，实施更加积极主动的开放战略，提高开放型经济水平和质量，赢得国际竞争的主动。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">2.依托“二区叠加”，打造福建经济升级版</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">2013年3月17日李克强总理在中外记者见面会中首次提出了“打造中国经济升级版”的概念，这是强调要改变粗放型的经济发展方式，调整不合理的经济结构，让经济的质量和效益、就业和收入、环境保护和资源节约等方面都有新的大幅度的提升[总理阐释“中国经济升级版”.21CN新闻，2013年4月16日。]。籍此，各个地方政府也纷纷提出了构建经济发展的升级版，如上海借力自贸区之机指出其应该成为升级版的特区，广东指出要发挥排头兵的角色助力“升级版”，并且通过广东自贸区的建设打造国际贸易的升级版，天津指出要打造经济和城市的两个升级版。而福建也有学者指出借力21世纪海上丝绸之路助推福建自贸区升级版（黄茂兴，2015），通过福建这个海上丝绸之路核心区的建设，加大与沿线国家的经贸往来，使得海上丝绸之路的建设取得更大的进展。因此，作为经济“新常态”下的国家发展战略，福建自贸区的建设并不是政策洼地，而是改革的高地，使得福建能够更加注重速度和质量的紧密结合，能够明白升级的动力来自于推动经济转型，而转型来自于创新、内需和改革，能够明白这种升级不仅仅是强调经济的发展，更多的是要改善民生和促进社会公平统一[易鹏.“中国经济升级版”意味什么[N].人民日报，2013年3月25日。]，这才是福建经济升级版的真正内涵。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">3.凭借“二区叠加”，打造区域经济新的增长极</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">2011年，国务院已批复并开始打造以福建为主体的新的经济增长极——海峡西岸经济区，其定位于两岸人民交流合作先行先试区域；服务周边发展新的对外开放综合通道；东部沿海地区先进制造业重要基地；重要的自然和文化旅游中心。四年来，海西区的发展逐步推进，发展潜力逐渐得以释放。但随着发展阶段的转换，原有的增长极的引领和带动作用有所检索，必须打造新的增长极。福建省毗邻台湾地区，又拥有巨大的海外侨胞资源，并且已有厦门经济特区和平潭综合实验区开展了一些先行先试的进出口贸易政策，这些都为自贸区的启动奠定了良好的基础。而此次“海丝”核心区和福建自贸区总体方案的通过，又为这一增长极注入了新的活力，有利于打造区域经济新的增长极，集中地体现在“两区叠加”使得更多的要素在区域内集聚，从而使得空间经济要素实现帕累托最优；第二，增长极的形成使得区域内创新要素功能极大化，估计企业进行技术革新，而区内的优惠政策安排又为企业的集聚、发展和创新带来更大的空间。同时，增长极的出现会对外部经济体产生支配效应、乘数效应、扩散效应。未来的发展中，要进一步依托“海丝”战略，与海峡西岸经济区建设、“自贸区时代”紧密结合，大力发展现代海洋产业体系，培育海洋经济增长点成为新的经济增长点，共同打造更加广阔、更加深入、更加活跃的区域经济新的增长极。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">（三）三群耦合（产业、港口、城市）</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">三区协同与三群联动从本质而言，所反映的内容具有一致性，三区着重于从行政区域的角度而言，而三群则打破了行政区划的概念，既突出强调福州、平潭、厦门内部的产业、港口城市的协调发展，同时还强调跨区域的城市合作、产业分工和港口定位的思路，因此，此部分着重于从三群联动的角度来分析说明。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">福建自贸区“产业-港口-城市”三群联动发展是在福建自贸区范围内产业群、港口群与城市群之间相互作用、相互影响的一种态势，三大系统互动发展最终形成产业布局、港口布局以及城市空间布局一体化的局面。持续推进三群联动发展是着眼于当前福建自贸区发展的现实需要；是福建省参与建设“一带一路”，全面拓展与“海丝”沿线国家交流合作的新载体；是着眼于福建省经济社会发展全局，落实科学发展观、全面建设小康社会的重大举措；是加快推进福建省经济结构战略性调整，实现科学发展、跨越发展的重要系统工程；是实现闽台产业深层次对接的关键所在；更是实现福建省全球价值链攀升的必由之路。福建省近年来出台了相应的“产业-港口-城市”三群联动发展的措施，以港兴城、以港兴产、产兴促港、产兴促城取得了显著的成效。但在当前经济发展新常态下，产业-港口-城市三群联动发展的任务工作依然艰巨：地区之间在产业、港口、城市存在激烈竞争；相关规划、建设、投资、运营、管理方面缺乏统一协调，资源没有进行合理的优化配置；产业园区建设集而不聚，资源无法共享；物流运输成本偏高与物流信息技术水平不高制约着制造产业的转型升级等等。未来发展中，应该着眼于全局，统筹协调三群联动发展，实现资源优化配置。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">1.差异化城市功能定位，推进城市联盟建设</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">一是结合福建自贸园区的“对台”特色，差异化城市功能定位。福州作为政治、经济、文化中心和高新技术产业基地，要以两岸经贸合作为核心，发挥福州独特的对台优势，加强在对台投资、贸易、航空、金融、旅游、农业等方面先行先试；厦门作为现代服务业、科技创新中心和国际航运中心，要在吸引台资和对台投资方面加大制度创新；平潭综合实验区则是两岸交流合作和对外开放中的先行区。二是健康有序推进我省智慧城市建设。依托于智慧城市建设的感知平台、服务支撑平台和应用支付平台，持续建设高效便民的电子政务以及城市管理和服务的智能化，通过实施企业智能化制造工程、口岸智能化应用工程、网络信息服务创新工程等智慧城市新型业态驱动产业群和港口群的协调联动发展。三是积极推进城市联盟建设。积极推进自贸园区内城市之间的交流与合作，各个城市在规划建设、产业发展、环境保护等方面进行对接，推进协作性竞争，实现多方共赢。同时，要进一步加强自贸园区内城市与外围城市进行跨区域的协作，包括闽台两岸城市的协作以及与周边省区城市的协作，推进区域联动发展。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">2.加快实施创新驱动发展战略，推进产业结构调整转型升级</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">一是加快实施创新驱动发展战略。以主导产业、龙头企业、名牌产品和大型项目为依托，围绕重大基础设施、产业链、现代农业等重点领域，以科技创新为支撑，做大做强电子信息、机械制造、石油化工等一批战略性新兴产业，形成新型业态，培育优质项目。二是大力发展现代服务业。充分发挥中心城市的要素集聚和辐射带动作用，对接台湾的物联网应用、智慧城市、文化创意、云计算、生物科技等优势产业，积极承接台湾现代服务业转移。厦门强化港口物流产业、旅游会展业、金融保险业、信息软件业和文化创意产业的发展，福州中心城区优先发展综合性现代服务业，平潭优先发展旅游业和文化创意产业。三是完善服务平台建设。完善科技研发、金融服务、品牌创建、市场营销、现代物流、行业协会等平台建设，提高产业配套能力，促进工业化与信息化的深度融合，提升自贸园区内产业集群能力。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">3.建立和使用现代物流信息平台，延伸港口产业链</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">一是加强港口间的分工与合作。充分明确发挥厦门港、福州港的功能定位，加大港口资源整合力度，提升其国际航运服务能级；加快厦门东南国际航运中心建设，着力打造集装箱运输核心港区；发展罗源湾大型散货泊位，推动大宗散货中转业务发展；加快江阴专业化现代化集装箱和整车物流进口港区的建设。二是建立和使用现代物流信息平台。通过建立现代物流信息系统，企业可以在各项经营活动开展过程中，对从接受订货到发货的物流职能进行控制，使之提高效率，增加物流系统各环节对市场变化反应的灵敏度，节约成本。三是延伸港口产业链。福建自贸园区内的港口基本靠码头装卸，业务的附加值不高，自贸园区成立后，要充分利用其贸易便利化的优势，开展仓储物流业务，引进台湾的优质农产品，充分发挥其贸易分拨中心的功能，延伸港口产业链。四是持续深化两岸港航合作。鼓励台商在自贸园区内从事仓储、物流配送等服务，推动两岸滚装运输，拓展两岸的陆海航运效率，提升自贸园区内港口群发展水平。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">（四）四地联动（上海、福建、广东、天津）</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">在区域经济一体化加速、新兴工业革命兴起以及全球产业格局新一轮的重塑，各地区加强经济合作、联合应对国内外竞争的需求日益迫切，跨区域的协调发展已经成为当前中国经济转型发展的重头戏。国家“十二五”规划中指出“要充分发挥不同地区的比较优势，促进生产要素合理流动，深化区域合作，推进区域良性互动发展，逐步缩小区域发展差距”。十八届三中全会中强调要“建立和完善跨区域城市发展协调机制”，以长三角、珠三角、京津冀三大增长极发展质量不断提升，已经成为当前经济稳增长的新引擎。因此，福建自贸区的建设不仅要加强其内部各个子系统的联动发展，更要与上海、广东、天津积极形成联动发展的态势，共同服务于国家自贸区建设的大战略的需要。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">1.做足顶层设计，完善政府引导机制</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">一是明确目标导向。自贸区的建设是一项复杂的系统工程，本质在于从自身的内部改革上下功夫，以转型和寻找新的经济增长突破口作为契机，打造新的经济增长极。当前四地自贸区的建设面临着国家三大支撑带（“一带一路”、长江经济带和京津冀协同发展）的战略机遇下，也面临着新常态下经济下行压力加大的风险，传统的增长极驱动作用减弱。因此，要服从和服务于国家战略的需要，在经济下行压力增大的基础上，加大四地在决策层、协调层和执行层的对接，培育新的经济增长极。二是坚持方案引领。四地自贸区的建设是服务于当前国家发展战略的需要，目的是形成可复制、可推广的经验，最终实现与国际贸易规则的对接，服务于APEC框架的亚太供应链的建设，提升在全球治理体系中的话语权，因此在实施的过程中，要突出总体方案的引领作用，既体现共同性、又具有差异化，通过方案强化区域协同发展战略的顶层设计。三是深化改革推动。四地自贸区建设共同的任务都是全面深化改革，将为中国打造新一轮的全面深化改革的高地，倒逼新一轮的改革开放，推进政府职能的转变，促进体制机制创新。因此，在实施过程中，要始终把握住这条主线，依托创新驱动政府职能的转变，提高政府运作效率，降低运营成本，在“投资、贸易、金融”三大模块中寻找体制机制的制度性突破，在深化改革中发现新的动力源和增长极。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">2.构建紧密合作的网络系统，完善多元化参与机制</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">一是构建跨区域合作战略联盟。加强四地之间相互沟通和协调能力，依托国务院自贸试验区工作部际联席会议对全国自由贸易试验区深化改革试点工作进行宏观指导，协调解决自由贸易试验区改革试验中遇到的重大问题，及时评估、总结自由贸易试验区改革试点经验，推出可复制和推广的意见建议[汪洋牵头国务院自贸试验区工作部际联席会议. http://www.gsc-offshore.com/post-679.html]。推进区域间政府合作机制的形成，发挥政府部门的综合协调作用，构建跨区域的协同创新系统。二是完善多元化参与机制。充分发挥社会组织、企业、公众在自贸区建设过程中的作用。鼓励各类区域性社会组织参与到自贸区建设过程中一系列重大问题的论证、宣传与协调工作。充分发挥企业的资源配置作用，专家学者的参谋咨询作用，给予公众更多的机会，听取公众的意见。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">3.创新合作模式，建立利益共享机制</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">一是因地制宜，错位发展。根据各个地区功能定位的差异，优化区域经济结构。上海自贸区要突出通过建设长三角区域国际贸易推动长江经济带的发展，广东自贸区要通过加工贸易转型带动泛珠三角区域和内地区域的产业升级，天津自贸区旨在通过京津冀协同发展来辐射内陆地区，福建自贸区要加强闽台产业对接、创新两岸服务业合作模式。四地要避免同质化竞争，实现错位发展，形成独具特色的改革开放高地。二是拓宽合作领域，创新合作模式。了解合作方的诉求和平衡点，区域之间产业开展合理的竞争与合作，创新多元化的合作模式，培育新的经济增长点。三是建立利益共享机制，共创“1+1+1&gt;3”的模式。利益问题始终是四地合作过程中的纽带，要建立健全双赢的利益协调机制，使得不同地区之间的合作创造出更多的价值。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">（五）五位一体（贸易、生产、金融、投资、物流）</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">福建自贸区总体方案中提到的主要任务和措施包括6大条和16小条。其中六大条包含切实转变政府职能、推进投资管理体制改革、推进贸易发展方式转变、率先推进与台湾地区投资贸易自由、推进金融领域开放创新、培育平潭开放开发新优势。除了着重突出对台和平潭建设之外，从内容上看主要涉及到五大的模块，包含贸易、生产、金融、投资和物流。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">1.贸易</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">总体方案中提到贸易的主要是转变贸易发展方式，突出强调了拓展新型贸易方式、提升航运服务功能以及推进通关机制创新。比照上海自贸区做法，允许进出口货物“先入区、后报关”，对货物状态实施分类监管模式。其中突出强调要积极培育贸易新型业态和功能，形成以技术、品牌、质量和服务为核心的外贸竞争新优势。特别是在当前互联网思维的大背景下，要突出强调发展跨境电子商务，并且不断地完善与之相适应的海关监管、检验检疫、退税、跨境支付、物流等支撑体系的建设。方案中同时要指出要推进动漫创意、信息管理、数据处理、供应链管理等服务外包业务发展。创新加工贸易方式，开展飞机及其零部件等高技术含量、高附加值产品境内外维修业务，建立整合物流、贸易、结算等功能的营运中心。在扩大对外服务贸易方面突出强调了要促进闽台服务要素的自由流动，加大在通信、运输、旅游和医疗等行业的对台开放。而提升航运服务功能和推进通关机制创新则是为了进一步保证贸易的便利化，包括简化海关特殊监管区域内产品内销手续，促进内销便利化，支持自贸试验区与21世纪海上丝绸之路沿线国家和地区开展海关、检验检疫、认证认可、标准计量等方面的合作与交流，探索实施与21世纪海上丝绸之路沿线国家和地区开展贸易供应链安全与便利合作。在这里，始终围绕着21世纪海上丝绸之路核心区的建设来探讨福建自贸区的任务和措施。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">2.生产</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">方案中的生产主要着重于强调先进制造业方面，体现在负面清单中对生产领域的制造业的开放力度上，尤其是在新版的负面清单中，制造业的放开力度明显增大，14条取消的管理措施中，有7条涉及到制造业，包括：取消对投资400吨及以上轮式、履带式起重机械制造的股比限制；取消对投资各类普通级(P0)轴承及零件(钢球、保持架)、毛坯制造、一般涤纶长丝、短纤维设备制造的限制等。在19条放宽的管理措施中，有9条涉及到制造业。并且更加注重制造业产业链的延伸，突出强调了允许外资以独资的方式从事豪华游轮、游艇设计、航空发动机零部件的设计、制造和维修，投资高速铁路、铁路客运专线、城际铁路及城市轨道交通配套服务设备的研发等，将有利于制造业产业链的延伸和本土制造业的转型升级。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">3.金融</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">在金融领域方面主要包括扩大金融对外开放、拓展金融服务功能以及推进两岸金融服务的先行先试方面。具体来说包括完善人民币涉外账户管理模式，简化人民币涉外账户分类，进一步促进跨境贸易、投融资结算的便利化，支持跨国公司总部外汇资金集中运营管理，允许自贸试验区内银行和支付机构、托管机构与境外银行和支付机构开展跨境支付合作。推动开展跨境人民币业务创新，推进自贸试验区内企业和个人跨境贸易与投资人民币结算业务。支持自贸试验区内设立多币种的产业投资基金，研究设立多币种的土地信托基金等。支持符合条件的自贸试验区内机构按照规定双向投资于境内外证券期货市场。在合法合规、风险可控前提下，逐步开展商品场外衍生品交易。支持福建省股权交易场所拓展业务范围，为台资企业提供综合金融服务。加强两岸在金融纠纷调解、仲裁、诉讼及金融消费者维权支持方面的合作，健全多元化纠纷解决渠道。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">4.投资</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">在投资方面主要改革外商投资管理模式、构建对外投资促进体系以及支持自贸区内品牌企业赴台湾投资。方案中规定，对外商投资实行准入前国民待遇加负面清单的管理模式，对负面清单之外的领域，将项目核准和企业合同、章程审批改为备案制。先行选择金融服务、航运服务、商贸服务、专业服务、文化服务、社会服务及先进制造业领域，减少或者取消对境外投资者资质的要求，股权比例、业务范围等准入限制。降低外商投资性公司准入条件，允许符合条件的外国投资者自由转移其投资收益，允许区内企业到区外再投资或者开展业务。目标在于将自贸区建设成为企业走出去窗口和综合服务平台。对境外投资项目和开办企业实行备案制，由自贸区负责备案管理，确保企业及个人对外投资主体地位，支持企业在境外设立股权投资企业和专业从事境外股权投资的项目公司，支持设立境外股权投资母基金，支持区内个人使用本人自有的金融资产进行对外直接投资、自由承揽项目和劳务合作项目。建立对外投资合作“一站式”服务平台，加强境外投资事后管理和服务，完善境外资产和人员安全预警和应急保障体系。未来发展中，福建自贸区要健全完善“走出去”支持促进体系，充分发挥好援外培训班平台作用，大力支持企业“走出去”。以“海丝”建设为载体，办好各类经贸活动，帮助企业进一步开拓东盟市场，并以东盟为跳板拓展福建与南亚、中东国家之间的经贸往来。通过企业“走出去”，带动商品出口和境外资源回运，推动构建跨境产业链。注重发展对外投资，加快构筑对外投资服务促进体系，积极推进对外投融资汇兑便利化，支持区内主体多种形式的境外投资，简化对外直接投资手续。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">5.物流</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">物流作为自贸试验区建设的重要支撑体系，对于自贸试验区建设体系中的“生产——贸易——金融”意义重大。但福建目前总体的物流与供应链管理水平较低，在物流服务需求、物流观念、物流经营以及供应链管理方面尚处于萌芽阶段，物流企业配送服务环节薄弱、物流综合运输体系不完善、物流信息系统应用水平难以达到先进水平、物流服务模式有待于进一步创新、物流与供应链管理人才缺乏，教育培养相对落后等问题。为此，物流企业要跟上自贸区建设的大步伐，依托自贸试验区平台实现与贸易、生产、金融的真正融合，顺势而上。未来发展中，要对标国际先进物流企业，适应全球商流、物流、资金流和信息流快速发展的需要，主动学习国际先进物流企业的成功经验，培育国际型物流企业。改变单一的物流服务模式，特别重视贸易金融的平台服务功能，促进国际物流与贸易金融的整合创新，提供货物的分拣、延期装配和包装等增值服务，满足客户多样化物流服务需求，为客户提供安全和保值服务。鼓励国际物流和供应链的服务延伸和模式创新，积极探索对台的物流服务模式创新。将供应链中的商流、物流、信息流、资金流四要素有机结合起来集成创新，将物流与贸易、金融、生产紧密结合，打造“物流+”服务模式。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">（六）六重保障（人才、制度、组织、税收、平台、评估）</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">1.人才保障</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">自贸区建设，人才是基本。根据福建省人力资源和社会保障厅印发的《福建省2015年度紧缺急需人才引进指导目录》，即首次将自贸区建设人才需求纳入到指导目录中，其中涉及到经营管理、国际贸易、产业服务等领域的岗位12个，所需专业14个[人才与资本“深情”邂逅创新驱动引领福建跨越发展.国家知识产权人才信息网络平台. http://www.sipo.gov.cn/ztzl/ywzt/gjzscqrcxxwlpt/rcgzdt/201504/t20150422_1105569.html]，如表3-2所示：</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">表3-2&nbsp;&nbsp;福建自贸区2015年紧缺急需人才引进指导目录</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">主要涉及领域&nbsp; &nbsp; &nbsp; &nbsp; 主要涉及岗位&nbsp; &nbsp; &nbsp; &nbsp; 专业要求&nbsp; &nbsp; &nbsp; &nbsp; 条件要求&nbsp; &nbsp; &nbsp; &nbsp; 地区导向</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">经营管理&nbsp; &nbsp; &nbsp; &nbsp; 国际招商策划&nbsp; &nbsp; &nbsp; &nbsp; 经济学、法学、外国语言文学、计算机科学与技术、交通运输工程、工商管理、公共管理、物流管理与工程、电子商务、旅游管理&nbsp; &nbsp; &nbsp; &nbsp; 1.具有博士学位或者副高以上职称；</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">2.年龄在40周岁以下</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">3.有较高的专业技术水平&nbsp; &nbsp; &nbsp; &nbsp; 福州、厦门（在厦门的省属单位）、平潭</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">&nbsp; &nbsp; &nbsp; &nbsp; 国际化经营管理&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">&nbsp; &nbsp; &nbsp; &nbsp; 营销管理&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">&nbsp; &nbsp; &nbsp; &nbsp; 旅游策划运营&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">国际贸易&nbsp; &nbsp; &nbsp; &nbsp; 国际贸易实务&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">&nbsp; &nbsp; &nbsp; &nbsp; 国际商务谈判&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">&nbsp; &nbsp; &nbsp; &nbsp; 国际标准化&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">&nbsp; &nbsp; &nbsp; &nbsp; 国际法律&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">产业服务&nbsp; &nbsp; &nbsp; &nbsp; 国际金融服务&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">&nbsp; &nbsp; &nbsp; &nbsp; 跨境电子商务&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">&nbsp; &nbsp; &nbsp; &nbsp; 国际物流&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">&nbsp; &nbsp; &nbsp; &nbsp; 国际航运业务管理&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">资料来源：福建省2015年度紧缺急需人才引进指导目录。</span> 
+<br /> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">因此，要根据自贸区行政管理、园区建设和产业发展的需要，大力引进国内外各类高层次人才，为自贸区建设提供人才保障。一是实施人才激励机制。省财政和自贸区专项资金要支持高层次人才创新创业，建设高层次人才公寓，解决高层次人才的住房、医疗及家属的安置政策。对于高层次人才参加国际学术会议给予一定比例的活动经费资助，建设台湾创业园和台湾大学生创新创业基地。二是加强人才培养培训机制。扩大国际商务、金融、法律、电子商务等相关专业的招生，着力于推进企业、高校、科研院所共建校企人才培养模式，定期组织自贸区管理人员到省外高等院校开展培训，充实研究咨询力量。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">2．制度保障</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">福建自贸区未来要培育国际化和法治化的营商环境，必须要有高效运作的制度保障，具体包括建立自贸区综合监管制度、如何进行投资管理改革、 如何为负面清单管理模式提供法制保障等[陈静.上海自贸区法制保障建设全面启动[N].中国新闻网，2013年11月26日。]。2015年4月22日，福州市市长主持召开了2015年福州市政府第7次常务会议，提出了完善自贸区法制保障体系，足见其重要性。结合福建自贸区总体方案中的内容可知，目前以及未来即将推行的制度保障主要包括实施全区域监管，在实施“宽进”的同时，切实加强监管，做到安全高效管理。健全社会信用体系，推进社会信用信息共享和应用，完善企业年度报告公示制度和经营异常名录制度，建立相应的激励、警示、惩戒制度。完善金融风险管控机制。建立健全与自贸区发展相适应的金融监管协调机制，完善符合自贸园区内金融业风险特征的监控指标，加强跨境收支检测，及时有效防范和化解金融。推进通关机制创新。简化自贸区税收审批清单和报税料件串换审批、报税产品内销等手续，推行多样化担保。各部门自贸区在对台先行先试、拓展与“海丝”沿线国家交流合作等方面深化改革试点，及时解决试点过程中的制度保障问题。支持福建省通过地方立法、建立与试点要求相适应的自贸园区政策法规体系，为改革开放、体制创新、先行先试提供法律保障和支持。以法律的形式明确货物以及服务贸易自由化、投资、金融、知识产权等法律制度，完善法律法规，政策和相关的措施，改善投资环境。签订地区协定和加强立法协作，保障法制的趋同性，服务于福建自贸区总体建设要求。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">3．组织保障</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">福建自贸区在建设过程中，要充分发挥党员干部的精气神作用，要培养有良好的综合素质的组织领导干部队伍。这就要求自贸区内的干部队伍要不断地加大知识储备和提升自身的能力水平。2015年4月13-14日，福建省长苏树林在福州平潭调研自贸区建设过程中，就明确提出了要强化组织保障，加强领导力量。未来福建自贸区建设过程中既要服从国务院自贸试验区工作部际联席会议制度的领导，协调解决自贸试验区内改革试验中遇到的重要的问题，又要福建省层面的工作领导小组办公室来统筹协调相关工作，整合和协调三个片区的发展，避免恶性竞争，加大对自贸区相关人员的培训力度，提高其管理水平和专业水平。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">4．税收保障</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">进一步发挥积极财政服务中国（福建）自由贸易试验区的建设与发展，打造福建国际化营商环境，先行先试，在推进新一轮改革开放、促进经济提质增效升级中探索经验，并发挥示范带动作用。参照实施中国（上海）自由贸易试验区促进投资的税收政策，在电子围网区域和物理围网区域内参照实施中国（上海）自由贸易试验区促进贸易的税收政策。对在区内的企业生产、加工并经“二线”销往国内市场的货物，实施选择性征税。同时，在电子围网区域和物流围网区域内开展两岸避免双重征税试点，在符合税制改革方向和国际惯例，以及不导致利润转移和税基侵蚀的前提下，积极完善适应境外股权投资和离岸业务发展的税收政策。建立便捷的税务服务体系，事实税务专业化集中审批，逐步取消前置检查，推行先批后检，检批分离的工作方式。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">5.平台保障</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">自贸区的建设离不开便利的信息化平台。据悉，目前自贸区信息化平台目前还在建设中。由于福建自贸区的分布在四大自贸区里空间跨度是最大的，如何在三大片区之间实现信息平台的统一办理、一口受理、一个窗口办理是提高自贸区运作效率的制度保障，尤其是在关口和检验检疫方面，要把贸易便利化等试验内容真正落实到实处。通过建立公共信息平台，促进相互之间的信息共享，构建三大片区之间的互联互通的供应链平台，实现商流、信息流、物流和资金流的“四流”合一，共同参与到FTA贸易规则的研究中，共同研究国际贸易规则，实现资源的共享。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">6.评估保障</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">福建自贸区的建设要及时地总结创新经验和成果。一方面，要完善福建、广东、天津、上海四地合作治理的评估监督机制，充分发挥第三方评估的作用，完善评估方法，对自贸区在转变政府职能、改革监管方式等方面进行评估。另一方面，福建自贸区内的三大片区也要充分引入福建省社科联、厦门大学、福建师范大学等第三方评估机构的作用，实行交叉评估，目的是共同服务于福建自贸区建设的总体水平，服务于自贸区建设的差别化定位。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">如表3-3所示是目前已经公布的第一批和第二批的30项标志性改革措施，这些措施中既有涉及到制度创新，也有涉及到平台保障，还包含税收方面的改革，这将大大提高政府的运作效率。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">表3-3&nbsp;&nbsp;福建自贸区颁布的30项标志性改革措施</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">福建自由贸易试验区&nbsp; &nbsp; &nbsp; &nbsp; 1.对外商投资实行准入前国民待遇加负面清单的管理模式。负面清单以外领域，外商投资项目实行备案制，外商投资企业设立、变更及合同章程审批改为备案管理。（福州、厦门、平潭片区）</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">2. 率先推行电子营业执照，加盖登记机关电子印章，赋予企业“电子身份”，方便企业商务交易、办理行政事务手续。（福州、厦门、平潭片区）</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">3. 实施卡口智能化管理。对智能化卡口识别条形码系统进行改造，实现车辆过卡自动对比、自动识别、自动验放等智能化管理。（福州、厦门、平潭片区）</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">4.在海关特殊监管区内企业可在自贸试验区内开展保税展示交易业务。（福州、厦门、平潭片区）</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">5. 对台湾地区输入区内的农产品、食品等产品试行快速检验检疫模式。（福州、厦门、平潭片区）</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">6.发布福建自贸试验区第一批18项规范性文件。（福州、厦门、平潭片区）</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">7. 企业设立实行“一表申报、一口受理、一证三码”。（福州和平潭片区）</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">福州&nbsp; &nbsp; &nbsp; &nbsp; 8.对整车进口口岸非中规车业务，实行“分类管理、验证改装、事后监管”的检验检疫监管模式。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">9. 创新金融服务，发展跨境电子商务，拓展东盟水产品交易所功能。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">10.在全国率先试点推行“一掌通”3A移动税务平台。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">厦门&nbsp; &nbsp; &nbsp; &nbsp; 11.建设自贸试验区综合服务平台，为企业提供投资设立、工商变更、纳税服务、社保缴交、海关检验检疫登记、进出口经营权备案、“多规合一”申报、信用查询、公章刻制、报关、报检、金融服务等全方位、“一站式”服务。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">12.打造两岸移动互联网联盟，创新两岸冷链物流市场合作机制。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">13. 创新监管模式，发展文化保税业务，建设文化保税展示交易中心和收藏品交流中心。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">14. 大力支持发展融资租赁、商业保理等非银行金融业务和对台离岸业务。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">15.创新区域管理，推行“多规合一”城市治理体系</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">16.企业注册率先实行“三证合一、一照一号”登记制度。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">17.率先实行厦门海关、国检“一站式”查验平台。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">平潭&nbsp; &nbsp; &nbsp; &nbsp; 18.在实施动植物检疫审批负面清单管理的基础上，授予福建检验检疫局审批平潭进口台湾水生动物检疫。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">19. 对原产于台湾的预包装食品、化妆品实施“快审快核”的标签审核模式。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">20. 对台湾进口水果实施“边抽样检验、边上架销售”的检验检疫模式。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">21.创新台湾输大陆商品快速验放机制。除国家禁止、限制进口的商品、废物原料、危险化学品及其包装、散装商品外，区内进口原产于台湾的工业品简化手续。对平潭与台湾之间进出口商品原则上不实施检验，检验检疫部门加强事后监管。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">22.在“一表申报、一口受理、一照一号”的基础上，实行“一章审批、印章即刻、立等可取”的服务模式，进一步方便企业。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">23.试行“先放行后报关”模式。允许企业借助新舱单系统数据向海关进行入境申报，海关对舱单审核、查验后直接放行货物，企业再报关、缴税。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">24.对台小额商品交易市场内进口原产台湾药品、化妆品、医疗器械简化审批手续，快验快放。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">25.深化外债比例自律管理试点，区内中资企业借用外币外债资金可按规定结汇使用。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">26.自贸试验区内外商直接投资项下外汇资本金意愿结汇。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">27.率先实行商事主体名称“自助查重、自主选用”。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">28.率先实行企业联络地址登记制度。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">29. 率先对台企试行“台商协会总担保制度”。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">30. 率先采信台湾认证认可结果和检验检测结果。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">注：其中第7、10、16、17、27、28、29、30为第一批发布的改革措施，剩下的为第二批发布的改革措施。</span> 
+<br /> 
+<span style="color: rgb(49, 49, 49);font-family: SimSun, Verdana, Arial, Helvetica, sans-serif;line-height: 21px;">资料来源：福建自贸区发布：22项标志性改革创新举措.东南快报，2015年4月22日。</span>
+                        
+                        						                     </div>
+                </div>
+                                                                                        <div class="tie-con-manange">
+                                        <div class="tie-con-manange-panel">
+                        <a href="#editorWraper">回复本帖</a>
+                        <a href="javascript:;" id="tiecopy">复制链接</a>
+                        <a id="send-gift" title="赠送礼物" href="javascript:;" data='{"username": "onelovemm09","boardid":"bjpiao","threadid":"575396573"}'>赠送礼物</a>
+                        <a href="/post/bjpiao/publish/common-575396573?616" class="js-edit">修改帖子</a>
+                    </div>
+                    <div class="tie-con-manange-share">
+                        <div class="bshare-custom">
+	<!--a title="分享到网易微博" class="bshare-neteasemb"></a-->
+	<a title="分享到QQ空间" class="bshare-qzone"></a>
+	<a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+	<a title="分享到人人网" class="bshare-renren"></a>
+	<a title="分享到腾讯微博" class="bshare-qqmb"></a>
+	<a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+</div>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=a1688878-28e5-42d3-828c-cf5199b14296&amp;pophcol=2&amp;lang=zh"></script>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+<script charset="utf-8" type="text/javascript">
+
+var url=window.location.href,
+isHas=url.indexOf("|") ,
+us=url.split("|");
+
+if(isHas!=-1){
+   url=us[0]+"%7C"+".html";
+}
+
+if(NTES("#photoView")){
+	bShare.addEntry({
+	  	summary:"分享自 网易论坛",
+	  	pic: {
+	  		toString:function(){return NTES("#photo").attr("src")}
+	  	},
+		url:url
+	});
+} else {
+	 if(NTES(NTES(".tie-content")[0]).NTES("img")[0]){
+	 	var src= NTES(NTES(".tie-content")[0]).NTES("img")[0].src;
+	 }else {
+	 	var src = "";
+	 }
+	bShare.addEntry({summary:"分享自 网易论坛",pic:src,url:url});
+};	
+</script>
+
+                    </div>
+                                    </div>
+                	                	
+                	                                       <div style="margin-left:8px;">
+<!--800100-->
+<!-- <iframe src="http://img1.126.net/channel4/html/gonghe_bbs800100.html" width="800" height="100" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"> </iframe> -->
+</div>                                    <div class="clearfix" style="width:908px;">
+                                                               <div style="float:left; width: 580px;" id="tieRecommend" data='{"createTime":"201509","dbname":"bbs_local","boardId":"bjpiao","threadId":"575396573"}'>
+                     </div>   
+                                                                                                            <div style="float:left; padding-left:8px; margin-top: 18px;">
+   <!--320320-->
+<!-- <iframe src="http://img1.126.net/channel4/html/gonghe_bbs320320.html" width="320" height="320" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"> </iframe> -->
+</div>                                       </div>
+                  
+                   
+                                                            <div id="thread_inside_ad">
+    <style>
+    #thread_inside_ad {margin-left: 10px;margin-bottom:20px;}
+    .bobo-list{position:relative;height:135px; overflow: hidden;}
+    .bobo-item{display:block;float:left;width:150px;height:135px;margin-left:10px;cursor:pointer;font-size:0;text-decoration:none;}
+    .bobo-item.first{margin-left: 0;}
+    a.bobo-item:hover{_zoom:1; overflow:hidden; border:none;}
+    a.bobo-item:hover .full-hover-show{color:#fff;top:0;z-index: 1;}
+    a.bobo-item:hover .icon-play{left:55px;top:25%;z-index: 1;}
+    .bobo-item, .bobo-item:visited{ position:relative; display:block; overflow:hidden; *zoom:1;*display:inline;}
+    .bobo-item.first .bobo-user .bobo-nick{margin: 0;}
+    .bobo-user .bobo-nick span {color: #f44103;}
+    .bobo-pic .bobo-livestat,.bobo-pic .bobo-usercount i,.bobo-user .bobo-level{background-image:url(http://img6.cache.netease.com/www/v2013/img/icon_bobo_140227-2.png);background-repeat:no-repeat;}
+    .bobo-pic{position:relative;width:100%;height:105px;text-align:center;vertical-align:top;overflow:hidden;}
+    .bobo-pic img.bobo-cover{width:100%;}
+    .bobo-pic .bobo-livestat{width:33px;height:20px;position:absolute;top:0;right:0;background-color:#F44103;background-position:0 -705px;}
+    .bobo-pic .bobo-usercount{position:absolute;left:0;bottom:0;width:100%;height:20px;line-height:22px;color:#FFF;background:rgba(0,0,0,.7);background:#000; opacity: 0.7;filter:alpha(opacity=70);font-size:12px;font-family:Arial, Verdana, sans-serif;}
+    .bobo-pic .bobo-usercount span{display:block;float:right;margin-right:8px;_margin-right:4px;}
+    .bobo-pic .bobo-usercount i{display:block;_display:none;float:right;margin:4px 4px 0 0;width:12px;height:12px;background-position:-5px -687px;}
+    .bobo-user{height:22px;padding:8px 0 0;position:relative;}
+    .bobo-user .bobo-nick{display:block;margin:0 24px 0 0;font-size:12px;line-height:20px;color:#252525;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+    .bobo-item:hover .bobo-nick{text-decoration:underline;}
+    .icon-play { background:url(http://img3.cache.netease.com/cnews/2014/2/bobo_ad/v_btn.png) no-repeat; background-position:0 0; height:42px; width:44px;position:absolute;top:-85%;cursor: pointer;}
+    .semi-trans { background: rgba(255, 255, 255, .8); background:#fff; opacity:0.5; filter:alpha(opacity=50); }
+    .full-hover-show{width: 120px; height: 100px;padding: 6px 15px 0; position:absolute; left:0;  top:-100%;display:block; }
+    .bobo-user .bobo-level{display:block;position:absolute;top:4px;right:0;width:22px;height:22px;background-position:0 0;}
+</style>
+<script type="text/javascript">
+    (function() {
+        var random = Math.floor(Math.random()*10),
+                url = "http://bobo.163.com/a/p2/163.bbssigh/6/boboData/" + random + ".js",
+                boboStatTag = "?from=163.bbsSigh",
+                boboNum = 6,
+                html = "";
+        window.boboData = function(data){
+            hotLive = data.hotLive;
+        };
+        NTES.ajax.importJs(url, function() {
+            var len = hotLive.length;
+            if (hotLive != '' && len != 0){
+                for (var i = 0; i < len; i++) {
+                    var boboItem = hotLive[i],
+                            isLive = boboItem.live,
+                            liveHref = isLive ? boboItem.liveUrl + boboStatTag : "http://bobo.163.com/" + boboStatTag,
+                            boboLiveStat = isLive ? '<div class="bobo-livestat"></div>' : '',
+                            boboHtml = '<a class="bobo-item" title="' + boboItem.anchorExtendTitle + '" target="_blank" href="' +liveHref+ '"><div class="bobo-pic"><img class="bobo-cover" src="'+ boboItem.liveCoverUrl + '" alt="' + boboItem.nick + '"/>' + boboLiveStat + '<div class="bobo-usercount"><span>' + boboItem.onlineUserCount+ '</span><i></i></div></div><div class="bobo-user"><div class="bobo-nick">' + boboItem.anchorExtendTitle + '</div></div><span class="full-hover-show semi-trans"></span><span class="icon-play png24"></span></a>';
+                    html += boboHtml;
+                };
+                NTES(".bobo-list").attr("innerHTML", function() {
+                    return this.innerHTML + html;
+                });
+            }
+        }, "utf-8");
+    })();
+</script>
+<div class="bobo-list">
+    <div class="first bobo-item">
+        <div class="bobo-pic">
+            <a href="http://www.bobo.com/?f=163.bbsSigh" target="_blank"><img width="150" height="105" alt="bobo" src="http://img3.cache.netease.com/bbs/img15/bobo_logo5.png"></a>
+        </div>
+        <div class="bobo-user">
+            <p class="bobo-nick"><a href="http://www.bobo.com/special/android/?f=163.bbsApp" style="color:#F44103;font-weight:bold">手机上和女神视频聊天</a></p>
+        </div>
+    </div>
+</div>
+<!--[if IE 6]>
+<script type="text/javascript" src="http://img1.cache.netease.com/bobo/js/DD_belatedPNG-min.js"></script>
+<script type="text/javascript">
+    DD_belatedPNG.fix('.png24');
+</script>
+<![endif]-->
+</div>                                                </div>
+        </div>
+
+    	<div class="tie-main-ad" style="height:auto">
+		<div id="youdao_ad_art_1" style="display:block"></div>
+		<!--"/htmlfile/side_2009/main_article_ad.html"-->
+	</div>
+    <div class="tie-tab-bottom-nav">
+    <div class="tie-page">
+        共<span class="red">2974</span> 浏览 <span class="red">0</span> 回帖&nbsp;&nbsp;
+                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                
+                                                                        
+                
+        
+
+            
+            
+            
+            
+
+                            </div>
+</div>   
+   
+     <!-- 回帖区 -->
+   <div class="reviewBox"  id="div_reply">
+    <style type="text/css">
+#reviewBox_login{ padding-left:40px; display:none;}
+.replylogin_input{ width:140px; height:20px;  border:1px solid #ccc;}
+.replylogin_submit{ padding:0 10px; height:20px; background-color:#313a44; border:1px solid #000; line-height:20px; color:#fff; cursor:pointer;}
+</style>
+<div id="reviewBox_login">
+    <form id="replylogin_form" action="https://reg.163.com/logins.jsp" method="post">
+    <input type="hidden" name="type" value="1" />
+    <input type="hidden" name="url" id="replylogin_url" />
+    <input type="hidden" name="product" value="bbs" />
+    帐号:
+    <input  name="username" type="text" tabindex="11" class="replylogin_input" id="replyloginUsername"/>
+    密码:
+    <input name="password" type="password"  tabindex="12" class="replylogin_input"  id="replyloginPassword"/>
+    <label><input name="savelogin" type="checkbox" value="1" tabindex="13" />下次自动登录</label>
+     <input  type="submit" value="登录" class="replylogin_submit"/>
+    <a href="http://reg.163.com/reg/reg.jsp?product=bbs&loginurl=http://bbs.163.com&url=" target="_blank">注册</a> 
+    </form>
+</div>
+<script type="text/javascript"  charset="GBK">
+(function($){
+
+  $("#replylogin_form").submit(function(){
+    var u=$("#replyloginUsername").val(),
+    p=$("#replyloginPassword").val();
+    if( u==""|| p==""){
+        Dialog.alert("用户名或密码不能为空");
+		return false;
+    }
+    })
+  })(jQuery)
+
+</script>
+    <span class="blank9"></span>
+    <div class="form1 postForms" id="reply">
+        <form id="replyForm" name="frmpost"  method="post" action="/v2/post/doReply" >
+                        <input type="hidden" name="title" value="福建自贸区：一个全局战略框架"/>
+            <input type="hidden" name="replyPostId" id="replyPostId"/>
+                        <style type="text/css">
+.editor-status-bar {text-align: right;line-height: 24px;padding-right: 12px;background: #f5f5f5;}
+.editor-status-bar label {color: #BBB;}
+.editor-status-bar a,.editor-status-bar a:visited {color: #1e50a2;}
+#divComposeEditor{ height:300px;}
+
+
+.upload-wraper{ width: 680px; height:400px; font-size:12px;}
+.load-area{ height:370px;border: 1px solid #9DBBDD;}
+.upload-btn{ padding:20px 0 0 10px; text-align:left; }
+.upload-btn a,.upload-btn a:visited{ height:15px; line-height:15px;display:inline-block;padding:5px 15px;border:1px solid #ccc;text-decoration:none; background-color:#dadada; color:#3e3e3e; font-weight:bold}
+.upload-tab ul { overflow:hidden; zoom:1;margin:0;padding:0;}
+.uploadurl-wraper{ text-align:left;}
+.uploadurl { width:300px;height:25px;border:1px solid #ccc; margin-left:10px;}
+.uploadTips{ padding:10px; text-align:left;}
+.upload-tab li{float:left;height:30px;line-height:30px;padding:0 10px; }
+.upload-local-cur .local-tab,
+.upload-net-cur .net-tab{background-color:#313a44;color:#fff; }
+.local-tab,
+.net-tab{ cursor:pointer;}
+.upload-local-cur  .upload-net-wraper,
+.upload-net-cur .upload-flash-wraper{display:none;}
+.upload-local-cur  .upload-flash-wraper,
+.upload-net-cur .upload-net-wraper{display:block;}
+.upload-flash-wraper{ height:370px;}
+
+
+
+.media-wraper{ width:450px; font-size:12px; text-align:left }
+.media-iput{ width:300px; border:1px solid #ccc; height:25px;}
+.media-tips{ padding-top:5px; margin-bottom:5px;}
+.media-size-s{ margin-top:5px;}
+.media-size-s input{width:50px; border:1px solid #ccc; height:20px;}
+
+
+.html-content{ width:600px; height:300px; border:1px solid #ccc }
+
+
+.uploadIframe{ display:none;}
+.upload-file-panel{ font-size:12px; width:500px;}
+.upload-file-content{ border:1px solid #ccc; width:300px; height:25px;}
+.upload-file-wraper{ padding:5px 0;}
+.upload-button-wraper{ padding-top:10px;}
+.upload-file-tips{ padding:5px 0;}
+.upload-button-wraper input{ display:inline-block;padding:5px 15px;border:1px solid #ccc; background-color:#dadada; color:#3e3e3e; font-weight:bold}
+
+.four-panel{ width:550px;}
+.four-panel-top{ width:550px; height:460px; background:url(http://img5.cache.netease.com/utf8/bbs/image/panel/001.jpg); position:relative;}
+.four-panel-bottom{ width:550px; height:40px; background:url(http://img5.cache.netease.com/utf8/bbs/image/panel/006.jpg);}
+.four-input{ width:90px; height:100px; border:1px solid #ccc; position:absolute;}
+#fourPanelOne{ top:110px; left:180px;}
+#fourPanelTwo{ top:110px; left:290px;}
+#fourPanelThree{ top:315px; left:180px;}
+#fourPanelFour{ top:315px; left:290px;}
+
+
+#editor_dialog_box { padding-bottom: 10px;}
+#editor_dialog_box #editor_dialog_form {padding: 30px 20px 0px;}
+#editor_dialog_box .btn-set {padding-left: 0px;position: relative;display: inline;left: 50%;margin: 10px auto 10px -75px;}
+
+</style>
+<input type="hidden" id="publishcontent" name="content"/>
+<input type="hidden"  name="boardId" value="bjpiao" id="tieboardId"/>
+<input type="hidden"  name="threadId" value="575396573" id="tiethreadId"/>
+<input type="hidden" id="photoSetImgUrls" name="photoSetImgUrls"/>
+<div  id="editorWraper">
+<div class="frmpostPosition">
+    <div id="divComposeEditor">
+    </div>
+    <div class="editor-status-bar">
+        <label id="autoSaveLabel"> 每30秒自动保存一次内容</label>
+        <a href="javascript:;" id="savenode">手动保存</a> | <a href="javascript:;" id="restorenode">  恢复内容</a> | <a href="javascript:;" id="clearnode">清除内容</a>
+    </div>
+</div>
+<div id="editor_dialog_box">
+    <div id="editor_dialog_form">
+    </div>
+</div>
+<link href="http://img1.cache.netease.com/bbs/css/editor_v1.0.0.css" rel="stylesheet" type="text/css" />
+
+
+<script type="text/javascript" src="http://img1.cache.netease.com/bbs/static/20150917/forum_editor.js" charset="GBK"></script>
+
+
+<script type="text/javascript" src="http://bbs.163.com/bbs/js/prototype.ya.js"></script>
+<script language="javascript" type="text/javascript">
+   
+   
+
+    var boardId = "bjpiao",
+    threadId = "575396573",
+	channel="no";
+	
+	var mobileRe=[],replyRe=[],boardRe=[];
+	
+		
+	    
+    var oEditor = new EditorView({
+        editorDiv: "#divComposeEditor",
+        toolbar: {
+            basic: ["bold", "italic", "underline", "fontsize", "forecolor", "backcolor","justify", "list", "indent", "link", "bbsformat", "portrait", "bbsimage", "bbsvideo", "bbstcard"].concat(mobileRe,replyRe,boardRe),
+            full: ["undo", "cut", "copy", "fontname", "fontsize", "justify", "list", "indent", "lineheight", "link", "bbsformat", "portrait", "bbsimage", "bbsvideo", "bbstcard"].concat(mobileRe,replyRe,boardRe,["redo", "paste", "bold", "italic", "underline", "forecolor", "backcolor", "insertHorizontalRule", "insertTime","removeFormat", "insertTable"]),
+            fullTBWidth: { ie: 540, other: 495 }
+        }
+    });
+    EditorExtend.addListener(oEditor);
+   // EditorExtend.addPostListener(oEditor);
+
+    (function() {
+        /**
+        * 编辑器内容自动保存
+        */
+        var localStorageAdapter = {
+            storeName: 'NTESBBS',
+            isLocalStorage: window.localStorage ? true : false,
+            dataDOM: this.isLocalStorage ? null : (function() {
+                try {
+                    var dataDOM = document.createElement('input'),
+			    expires = new Date();
+                    dataDOM.type = 'hidden';
+                    dataDOM.style.display = 'none';
+                    //dataDOM.addBehavior('#default#userData');
+                    dataDOM.addBehavior && dataDOM.addBehavior('#default#userData');
+                    document.body.insertBefore(dataDOM, document.body.firstChild);
+                    expires.setDate(expires.getDate() + 30);
+                    dataDOM.expires = expires.toUTCString();
+                    return dataDOM;
+                } catch (ex) {
+                    return null;
+                }
+            })(),
+
+            set: function(key, value) {
+                var dataDOM = this.dataDOM;
+                if (this.isLocalStorage) {
+                    window.localStorage.setItem(key, value);
+                } else {
+                    if (dataDOM) {
+                        dataDOM.load(this.storeName);
+                        dataDOM.setAttribute(key, value);
+                        dataDOM.save(this.storeName);
+                    }
+                }
+            },
+
+            get: function(key) {
+                var dataDOM = this.dataDOM;
+                if (this.isLocalStorage) {
+                    return window.localStorage.getItem(key);
+                } else {
+                    if (dataDOM) {
+                        dataDOM.load(this.storeName);
+                        return dataDOM.getAttribute(key);
+                    }
+                }
+            },
+
+            remove: function(key) {
+                var dataDOM = this.dataDOM;
+                if (this.isLocalStorage) {
+                    window.localStorage.removeItem(key);
+                } else {
+                    if (dataDOM) {
+                        dataDOM.load(this.storeName);
+                        dataDOM.removeAttribute(key);
+                        dataDOM.save(this.storeName);
+                    }
+                }
+            }
+        }
+        var autoSaveTime;
+        function saveContent() {
+            autoSaveTime && clearTimeout(autoSaveTime);
+            var autoSaveLabel = document.getElementById("autoSaveLabel");
+            autoSaveLabel.innerHTML = "正在保存....";
+            var content = oEditor.editor.getContent().replace(/^<br>\s*$|^\s*$|^<DIV><\/DIV>$|^<P>&nbsp;<\/P>$/, '');
+            if (content) {
+                localStorageAdapter.set('bbs_content_autosave', content);
+            }
+            autoSaveTime = setTimeout(function() {
+                autoSaveLabel.innerHTML = "每30秒自动保存一次内容";
+            }, 1000);
+        }
+
+        function restoreContent() {
+            var content = localStorageAdapter.get('bbs_content_autosave');
+            if (content) {
+                oEditor.editor.setContent(content);
+            }
+        }
+
+        function clearContent() {
+            oEditor.editor.setContent('');
+        }
+
+        document.getElementById("savenode").onclick = function() {
+            saveContent();
+        };
+        document.getElementById("restorenode").onclick = function() {
+            restoreContent();
+        };
+        document.getElementById("clearnode").onclick = function() {
+            clearContent();
+        };
+
+        setInterval(function() {
+            saveContent();
+        }, 30000);
+    })();
+    document.domain = location.hostname.replace(/^.*\.([\w]+\.[\w]+)$/, "$1");
+</script>
+</div>
+            <span class="blank9"></span>
+            <div class="form2">
+               <div class="upLoad">
+				 <span class="right">
+                         <img title="看看如何用手机泡论坛" src="http://bbs.163.com/bbs/img/phoneIcon.jpg"/>
+				         <a class="cBlue" target="_blank" href="http://help.3g.163.com/bbs/">如何用手机快速回复？</a>
+				 </span>
+                 <style type="text/css">
+   #checkcodewraper{ display:none; margin-bottom:10px;}
+   .checkinputwraper{ margin-bottom:5px;}
+   .checkcode-input{border:1px solid #ccc; width:100px; height:20px; margin-top:10px;}
+   .code-tips{ color:rgb(0, 0, 255)}
+</style>
+<div id="checkcodewraper">
+<div class="checkinputwraper">验证码 <input type="text" class="checkcode-input" id="checkcodeinput" name="checkcode"/><span class="cRed" id="checkCodeMsg">()</span></div>
+<img alt="看不清，换一张" src="/v2/checkcode/codeimg" id="checkcodeimg"/><a href="javascript:;" id="checkcodenode"> 点击换一张</a>
+</div>
+<script language="javascript">
+    (function($) {
+        var ch=$("#checkcodeimg");
+		$("#checkcodenode").click(function() {
+            ch.attr("src", "/v2/checkcode/codeimg?timestamp=" + new Date().getTime());
+			return false;
+        });
+        $("#checkcodenode").click();
+    })(jQuery);
+</script>		         <span class="ui-button-on" id="btnSubmit"><a href="javascript:;" id="replyTie">回复本帖</a></span>
+		         <!--div class="synTinyblog" id="synBlog">
+                        <label class="synTinyblog-option" for="copytoweibo">
+                            <input type="checkbox" name="copytoweibo" id="copytoweibo"  checked="checked" class="js-check" value="y" />同步到微博
+                        </label>
+                 </div-->
+               </div>
+            </div>
+			<div class="recentBoard" id="visitHistory" style="display:none">您最近去的版：<span id="historyWraper"></span> </div>
+        </form>
+    </div>
+       <!-- 回贴框下广告  -->
+       <div class="comment_bottom_ad">
+    <style type="text/css">
+  #comment_bottom_ad { list-style: none; background: #f8f8f8;padding: 18px; margin-left: 40px; margin-top: 35px;}
+  #comment_bottom_ad ul { margin: 0; padding: 0;}
+  #comment_bottom_ad li { float: left; width: 122px; margin-left: 16px;}
+  #comment_bottom_ad li.first {margin-left: 0;}
+  #comment_bottom_ad a {text-decoration: none;}
+ #comment_bottom_ad a:hover, #comment_bottom_ad a:active {color: #a91c00; text-decoration: underline;}
+  #comment_bottom_ad li p { font-size: 12px; line-height: 14px; height: 14px;margin: 10px 0 0 0; overflow:hidden;} 
+#comment_bottom_ad li p a {color: #252525; }
+   .clearfix {_zoom: 1;}
+   .clearfix:after {clear: both;height: 0;overflow: hidden;display: block;visibility: hidden;content: ".";}
+ </style>
+    <div class="thum" id="comment_bottom_ad">
+        <ul class="clearfix">
+                                                               <li class="first">
+                            <a class="img_link" href="http://rd.da.netease.com/redirect?t=nfSOlH&p=A33HS5&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6067.html%3Ftag%3Da0c36828c177185576911ad8e49e6ce7" target="_blank">
+                    <img width="122" height="92" alt="考拉家居" title="考拉家居" src="http://img4.cache.netease.com/cnews/2015/12/17/20151217160307d5c06.jpg">
+                </a>
+                <p><a class="title_ad_link" href="http://rd.da.netease.com/redirect?t=nfSOlH&p=A33HS5&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6067.html%3Ftag%3Da0c36828c177185576911ad8e49e6ce7" target="_blank">考拉家居</a></p>
+            </li>
+                                       <li>
+                             <a class="img_link" href="http://rd.da.netease.com/redirect?t=iZyFPV&p=A33HS5&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6014.html%3Ftag%3Da0c36828c177185576911ad8e49e6ce7" target="_blank">
+                    <img width="122" height="92" alt="考拉海淘" title="考拉海淘" src="http://img4.cache.netease.com/cnews/2015/12/14/2015121416490515d4e.jpg">
+                </a>
+                <p><a class="title_ad_link" href="http://rd.da.netease.com/redirect?t=iZyFPV&p=A33HS5&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6014.html%3Ftag%3Da0c36828c177185576911ad8e49e6ce7" target="_blank">考拉海淘</a></p>
+            </li>
+                                       <li>
+                             <a class="img_link" href="http://rd.da.netease.com/redirect?t=TjtN3S&p=clQOt7&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6003.html%3Ftag%3D672142b8b80a9af7ce61681178a3f5bf" target="_blank">
+                    <img width="122" height="92" alt="领取考拉红包" title="领取考拉红包" src="http://img6.cache.netease.com/cnews/2015/12/9/2015120916081069328.jpg">
+                </a>
+                <p><a class="title_ad_link" href="http://rd.da.netease.com/redirect?t=TjtN3S&p=clQOt7&proId=1024&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F6003.html%3Ftag%3D672142b8b80a9af7ce61681178a3f5bf" target="_blank">领取考拉红包</a></p>
+            </li>
+                                       <li>
+                             <a class="img_link" href="http://go.163.com/2015/1208/mu/" target="_blank">
+                    <img width="122" height="92" alt="全民奇迹周年庆" title="全民奇迹周年庆" src="http://img5.cache.netease.com/cnews/2015/12/9/20151209115943a8c79.jpg">
+                </a>
+                <p><a class="title_ad_link" href="http://go.163.com/2015/1208/mu/" target="_blank">全民奇迹周年庆</a></p>
+            </li>
+                    </ul>
+    </div>
+ <script type="text/javascript">
+    (function() {
+        jQuery("#comment_bottom_ad a").mousedown(function() {
+           var index = jQuery(this).parents('li').index() + 1,
+                 url = 'http://bbs.163.com/json/special/clickStat?type=ad_coop' + index;
+           jQuery.ajaxSetup({
+                 cache: true
+           });
+           jQuery.getScript(url);
+        });
+    })(jQuery);
+    </script>
+</div>
+  </div>
+
+
+    </div>
+
+    <!-- 右侧栏 -->
+    <div id="tie_addtion">
+        <!-- 右侧栏顶部广告 -->
+        <div style="margin-bottom: 10px;">
+            	<div class="ad260" style="height:auto">
+		<div style="display:none;"><a href="http://ymei.tmall.hk/"><img src="http://img6.cache.netease.com/bbs/2015/1/19/201501191557390adf1.jpg  " width="240" height="240"/></a></div>
+		<!--"/htmlfile/side/bbs_local/local_artice_side.html"-->
+	</div>
+        </div>
+        
+                        <div class="board-widget-container">
+   <div class="hd">
+      <h3>
+                  头条推荐
+      </h3>
+   </div>
+   
+   <div class="bd">
+      <h3 class="news-top-head"><a href="http://bbs.home.163.com/photoalbum/chuishui/590144247.html" target="_blank">法国百姓的真实生活</a></h3>
+      <ul class="news-list">
+                     <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/591694189.html">纽约街头的流浪者</a></li>                     <li><a href="http://bbs.news.163.com/boardset/pp.html" target="_blank">[易拍天下]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/pp/590738709.html">雄伟壮观的秦王宫</a></li>                     <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/591390140.html">猎豹与黑斑羚和谐相处</a></li>                     <li><a href="http://bbs.travel.163.com/boardset/tuyou.html" target="_blank">[图游天下]</a> <a target="_blank" href="http://bbs.travel.163.com/bbs/tuyou/591311918.html">红河元阳梯田</a></li>                                                                                                                                             </ul>
+   </div>
+</div>
+<!--广告1-->
+<!-- <div style="display:block; margin-bottom:10px;">
+<iframe src="http://popme.163.com/link/015794_0513_321.html" width="240" height="240" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"> </iframe>
+</div> -->
+<div class="board-widget-container">
+   <div class="hd">
+      <h3>
+                  头条推荐
+      </h3>
+   </div>
+   
+   <div class="bd">
+      <ul class="news-list">
+                                                                                                         <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/591126058.html">少年挑战高楼拍照</a></li>                     <li><a href="http://bbs.news.163.com/boardset/pp.html" target="_blank">[易拍天下]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/pp/589728734.html">万安老街</a></li>                     <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/591127115.html">实拍俄罗斯壮美夜空</a></li>                     <li><a href="http://bbs.travel.163.com/boardset/youji.html" target="_blank">[原创游记]</a> <a target="_blank" href="http://bbs.travel.163.com/bbs/youji/589156960.html">嵩口古镇</a></li>                     <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/590506586.html">废弃监狱成景点</a></li>                     <li><a href="http://bbs.news.163.com/boardset/hometown.html" target="_blank">[我的故乡]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/hometown/589863942.html">渔民捕鱼全过程</a></li>               </ul>
+   </div>
+</div>
+<!--广告2-->
+<!-- <div style="display:block; margin-bottom:10px;"><a target="_blank" href="http://love.163.com"><img src="http://img4.cache.netease.com/life/2014/3/31/20140331184012f4ba1.jpg" border="0" height="150" width="240" alt=""></a></div> -->
+<!--广告3-->
+<!-- <div style="display:block; margin-bottom:10px;"><a target="_blank" href="http://m.163.com/openapp/"><img src="http://img2.126.net/xoimages/default/2012/240x100.jpg" border="0" height="200" width="240" alt=""></a></div> -->
+<div class="board-widget-container">
+   <div class="hd">
+      <h3>
+               论坛贴图
+      </h3>
+   </div>
+   
+      <div class="bd">
+      <ul class="news-photo-list">
+                  <li title="卢宅的精美木雕">
+            <a href="http://bbs.news.163.com/photoalbum/pp/591359579.html" target="_blank" >
+               <img width="100" height="75" alt="卢宅的精美木雕" src="http://img5.cache.netease.com/cnews/2015/12/21/20151221084112049bc.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/photoalbum/pp/591359579.html" target="_blank">卢宅的精美木雕</a></p>
+         </li>
+                  <li title="嵩口古镇">
+            <a href="http://bbs.travel.163.com/bbs/youji/589156960.html" target="_blank" >
+               <img width="100" height="75" alt="嵩口古镇" src="http://img2.cache.netease.com/cnews/2015/12/18/20151218084446aa5ef.jpg" />
+            </a>
+            <p><a href="http://bbs.travel.163.com/bbs/youji/589156960.html" target="_blank">嵩口古镇</a></p>
+         </li>
+                  <li title="野生娃娃鱼">
+            <a href="http://bbs.news.163.com/photoalbum/photo/590798061.html" target="_blank" >
+               <img width="100" height="75" alt="野生娃娃鱼" src="http://img6.cache.netease.com/cnews/2015/12/17/20151217084848d1fc2.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/photoalbum/photo/590798061.html" target="_blank">野生娃娃鱼</a></p>
+         </li>
+                  <li title="石臼湖的天鹅">
+            <a href="http://bbs.news.163.com/photoalbum/pp/590344232.html" target="_blank" >
+               <img width="100" height="75" alt="石臼湖的天鹅" src="http://img5.cache.netease.com/cnews/2015/12/16/201512160836404dc2c.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/photoalbum/pp/590344232.html" target="_blank">石臼湖的天鹅</a></p>
+         </li>
+                  <li title="资江美景">
+            <a href="http://bbs.news.163.com/bbs/hometown/590344042.html" target="_blank" >
+               <img width="100" height="75" alt="资江美景" src="http://img4.cache.netease.com/cnews/2015/12/15/20151215082944246f6.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/bbs/hometown/590344042.html" target="_blank">资江美景</a></p>
+         </li>
+                  <li title="古代瓷器艺术展">
+            <a href="http://bbs.news.163.com/photoalbum/pp/589781632.html" target="_blank" >
+               <img width="100" height="75" alt="古代瓷器艺术展" src="http://img2.cache.netease.com/cnews/2015/12/14/201512140838039b730.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/photoalbum/pp/589781632.html" target="_blank">古代瓷器艺术展</a></p>
+         </li>
+               </ul>
+   </div>
+   </div>
+<!--广告4-->
+<!-- <div style="display:block; margin-bottom:10px;">
+<embed src="http://img1.126.net/channel4/016268/kdlk240500_0328.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="opaque"  width="240" height="500"></embed>
+</div> -->
+<div class="board-widget-container">
+   <ul class="hd clearfix" id="js-menuBar">
+      <li class="on">推荐</li>
+      <li>时尚</li>
+      <li>达人</li>
+      <li class="last">应用</li>
+   </ul>
+      <div class="bd" id="js-menuTab">
+      <div class="normal on">
+         <ul class="news-photoTab-list clearfix">
+                        <li title="全民奇迹周年庆" >
+               <a href="http://go.163.com/2015/1208/mu/" target="_blank" >
+                  <img width="100" height="75" alt="全民奇迹周年庆" src="http://img1.cache.netease.com/cnews/2015/12/9/201512091029130ed1c.jpg" />
+               </a>
+               <p><a href="http://go.163.com/2015/1208/mu/" target="_blank">全民奇迹周年庆</a></p>
+            </li>
+                        <li title="纪念抗战胜利"  class="marginR0" >
+               <a href="http://war.163.com/special/dfkangzhan/" target="_blank" >
+                  <img width="100" height="75" alt="纪念抗战胜利" src="http://img4.cache.netease.com/cnews/2015/6/18/20150618172555fb7bd.png" />
+               </a>
+               <p><a href="http://war.163.com/special/dfkangzhan/" target="_blank">纪念抗战胜利</a></p>
+            </li>
+                        <li title="曝光天国阶梯" >
+               <a href="http://bbs.gz.house.163.com/photoalbum/showing/330447225.html" target="_blank" >
+                  <img width="100" height="75" alt="曝光天国阶梯" src="http://img3.cache.netease.com/cnews/2013/6/16/20130616083415c9662.jpg" />
+               </a>
+               <p><a href="http://bbs.gz.house.163.com/photoalbum/showing/330447225.html" target="_blank">曝光天国阶梯</a></p>
+            </li>
+                        <li title="航天员真实生活"  class="marginR0" >
+               <a href="http://bbs.news.163.com/photoalbum/photo/330046625.html" target="_blank" >
+                  <img width="100" height="75" alt="航天员真实生活" src="http://img4.cache.netease.com/cnews/2013/6/16/201306160833555eeb0.jpg" />
+               </a>
+               <p><a href="http://bbs.news.163.com/photoalbum/photo/330046625.html" target="_blank">航天员真实生活</a></p>
+            </li>
+                     </ul>
+      </div>
+             <div class="normal">
+         <ul class="news-photoTab-list clearfix">
+                        <li title="脸小猫OL范" >
+               <a href="http://126.am/5HRRK2" target="_blank" >
+                  <img width="100" height="75" alt="脸小猫OL范" src="http://img4.cache.netease.com/2008/2014/1/24/201401241629526700a.jpg" />
+               </a>
+               <p><a href="http://126.am/5HRRK2" target="_blank">脸小猫OL范</a></p>
+            </li>
+                        <li title="Kayi：赫本风"  class="marginR0" >
+               <a href="http://kayitusiji.blog.163.com/blog/static/212063090201402111222769/" target="_blank" >
+                  <img width="100" height="75" alt="Kayi：赫本风" src="http://img2.cache.netease.com/2008/2014/1/24/201401241630077689a.jpg" />
+               </a>
+               <p><a href="http://kayitusiji.blog.163.com/blog/static/212063090201402111222769/" target="_blank">Kayi：赫本风</a></p>
+            </li>
+                     </ul>
+         <ul class="news-list">
+                        <li>
+               <a href="http://126.am/P0zN74" target="_blank">禁区姐姐：陪伴我度过2013的小伙伴们</a>
+            </li>
+                        <li>
+               <a href="http://aiqinqinxinxin.blog.163.com/blog/static/22860710620140218411024/" target="_blank">亲亲新新：Roses Roses I Love You</a>
+            </li>
+                        <li>
+               <a href="http://yanyan860414.blog.163.com/blog/static/48824314201402115029590/" target="_blank">小夜：美美地迎接新年</a>
+            </li>
+                        <li>
+               <a href="http://lhqmaggie.blog.163.com/blog/static/229469084201402193622688/" target="_blank">北北：给女人特别的呵护</a>
+            </li>
+                        <li>
+               <a href="http://xinxilily.blog.163.com/blog/static/22914008220140204464543/" target="_blank">Lily：抗老从内到外</a>
+            </li>
+                     </ul>
+      </div>
+            <div class="normal">
+         <ul class="news-photoTab-list clearfix">
+                        <li title="vivianxu" >
+               <a href="http://vivianxu1105.blog.163.com/blog/static/13805735520140220481488/" target="_blank" >
+                  <img width="100" height="75" alt="vivianxu" src="http://img3.cache.netease.com/2008/2014/1/24/2014012416284753858.jpg" />
+               </a>
+               <p><a href="http://vivianxu1105.blog.163.com/blog/static/13805735520140220481488/" target="_blank">vivianxu</a></p>
+            </li>
+                        <li title="蜜蜜"  class="marginR0" >
+               <a href="http://pigssss.blog.163.com/blog/static/22919411220140212541428/" target="_blank" >
+                  <img width="100" height="75" alt="蜜蜜" src="http://img3.cache.netease.com/2008/2014/1/24/20140124162906ad2e6.jpg" />
+               </a>
+               <p><a href="http://pigssss.blog.163.com/blog/static/22919411220140212541428/" target="_blank">蜜蜜</a></p>
+            </li>
+                        <li title="许小丫" >
+               <a href="http://iamyababy.blog.163.com/blog/static/17910806620140207484372/" target="_blank" >
+                  <img width="100" height="75" alt="许小丫" src="http://img2.cache.netease.com/2008/2014/1/24/20140124162924fbbbf.jpg" />
+               </a>
+               <p><a href="http://iamyababy.blog.163.com/blog/static/17910806620140207484372/" target="_blank">许小丫</a></p>
+            </li>
+                        <li title="小树幸福"  class="marginR0" >
+               <a href="http://wewe5555.blog.163.com/blog/static/17541245820140211431157/" target="_blank" >
+                  <img width="100" height="75" alt="小树幸福" src="http://img6.cache.netease.com/2008/2014/1/24/201401241629391b725.jpg" />
+               </a>
+               <p><a href="http://wewe5555.blog.163.com/blog/static/17541245820140211431157/" target="_blank">小树幸福</a></p>
+            </li>
+                     </ul>
+      </div>
+            <div class="normal">
+         <ul class="news-photoSml-list clearfix">
+                                    <li title="豌豆荚一览 - 1 分钟看完所有应用的最新内容（高效率阅读头条新闻资讯娱" >
+               <a href="http://m.163.com/iphone/software/32ptl7.html" target="_blank" >
+                  <img width="47" height="47" alt="豌豆荚一览 - 1 分钟看完所有应用的最新内容（高效率阅读头条新闻资讯娱" src="http://imgm.ph.126.net/siHx6VpzclXUzYJxn9K1kw==/6631222796840525255.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32ptl7.html" target="_blank">豌豆荚一览 - 1 分钟看完所有应用的最新内容（高效率阅读头条新闻资讯娱</a></p>
+            </li>
+                                                <li title="蛋糕物语（网易出品最浪漫社交经营手游）" >
+               <a href="http://m.163.com/iphone/software/32pnai.html" target="_blank" >
+                  <img width="47" height="47" alt="蛋糕物语（网易出品最浪漫社交经营手游）" src="http://imgm.ph.126.net/JYLK1RS_RljPhR7xt4s2Xw==/6608901611283602312.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32pnai.html" target="_blank">蛋糕物语（网易出品最浪漫社交经营手游）</a></p>
+            </li>
+                                                <li title="网易财经-股票、基金、证券资讯直播"  class="marginR0" >
+               <a href="http://m.163.com/iphone/software/32n37f.html" target="_blank" >
+                  <img width="47" height="47" alt="网易财经-股票、基金、证券资讯直播" src="http://imgm.ph.126.net/RzSThqXOi_shBqBM7_11FA==/1543890247276055620.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32n37f.html" target="_blank">网易财经-股票、基金、证券资讯直播</a></p>
+            </li>
+                                                <li title="猫和老鼠官方手游——金秋十月，新学堂场景，汤姆大逆袭" >
+               <a href="http://m.163.com/iphone/software/32pn6j.html" target="_blank" >
+                  <img width="47" height="47" alt="猫和老鼠官方手游——金秋十月，新学堂场景，汤姆大逆袭" src="http://imgm.ph.126.net/HuAhNgEImJHiB7Tx1bdWcA==/1077486210866620866.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32pn6j.html" target="_blank">猫和老鼠官方手游——金秋十月，新学堂场景，汤姆大逆袭</a></p>
+            </li>
+                                                <li title="网易考拉海购—全球海淘自营正品" >
+               <a href="http://m.163.com/iphone/software/32plug.html" target="_blank" >
+                  <img width="47" height="47" alt="网易考拉海购—全球海淘自营正品" src="http://imgm.ph.126.net/ARp1nkVOSLrAdFkHkCnbBQ==/983473568645593075.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32plug.html" target="_blank">网易考拉海购—全球海淘自营正品</a></p>
+            </li>
+                                                <li title="魔天记（全新）-1v1斗法竞技手游"  class="marginR0" >
+               <a href="http://m.163.com/iphone/software/32pmf1.html" target="_blank" >
+                  <img width="47" height="47" alt="魔天记（全新）-1v1斗法竞技手游" src="http://imgm.ph.126.net/1MhEusSEWBKQuiwrDwPZyQ==/6619127069422199092.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32pmf1.html" target="_blank">魔天记（全新）-1v1斗法竞技手游</a></p>
+            </li>
+                                                                                                                                                                                                                                 </ul>
+         <ul class="news-list">
+                        <li>
+               <a href="http://miaomiaominy.blog.163.com/blog/static/2291070772014021260109/" target="_blank">喵喵Miny：打开毛孔，接受爱吧</a>
+            </li>
+                        <li>
+               <a href="http://m181819517.blog.163.com/blog/static/187295066201402104155224/" target="_blank">monmon：年前补水美白篇</a>
+            </li>
+                     </ul>
+      </div>
+   </div>
+</div>
+
+<div class="board-widget-container">
+   <div class="hd">
+      <h3>
+                  论坛活动
+      </h3>
+   </div>
+   <div class="bd">
+                            <a href="http://digibbs.tech.163.com/bbs/weisheying/562152679.html" target="_blank" class="news-image-top"><img src="http://img4.cache.netease.com/cnews/2015/6/30/20150630222414ee756.jpg"
+                 alt="网易数码摄影大赛第31期" title="网易数码摄影大赛第31期" />
+           </a>
+                        <ul class="news-list">
+                  <li>
+            <a href="http://bbs.travel.163.com/bbs/tuyou/582474052.html" target="_blank">图游有奖活动【我在秋色中撒娇】</a>
+         </li>
+                  <li>
+            <a href="http://digibbs.tech.163.com/bbs/shumadaren/518753764.html" target="_blank">达人试机团 万元徕卡高端相机免费试用</a>
+         </li>
+                  <li>
+            <a href="http://digibbs.tech.163.com/bbs/shumadaren/518718196.html" target="_blank">说陪伴你身边的智能硬件 赢智能水杯</a>
+         </li>
+                  <li>
+            <a href="http://service.bbs.163.com/bbs/doings/500638832.html" target="_blank">扫码+发帖 赢取小狗电器情人节大礼</a>
+         </li>
+                  <li>
+            <a href="http://service.bbs.163.com/bbs/doings/494023505.html" target="_blank">说出你的旅行梦 七洲网帮你实现</a>
+         </li>
+               </ul>
+   </div>
+</div>
+
+<div class="board-widget-container">
+   <div class="hd">
+      <h3>
+                  热点话题
+      </h3>
+   </div>
+   <div class="bd">
+      <div class="news-top-item">
+                                       <a href="http://digibbs.tech.163.com/bbs/weisheying/562152679.html" target="_blank">
+               <img width="100" height="75" alt="网易数码摄影大赛" title="网易数码摄影大赛" src="http://img3.cache.netease.com/cnews/2015/6/30/2015063022273954a06.jpg">
+             </a>
+             <h3>
+               <a href="http://digibbs.tech.163.com/bbs/weisheying/562152679.html" target="_blank">网易数码摄影大赛</a>
+             </h3>
+             <p>我眼中的似水流年作品征集<span class="red"><a href="http://digibbs.tech.163.com/bbs/weisheying/562152679.html" target="_blank">[详细]</a></span></p>
+                                      </div>
+      <ul class="news-list">
+                  <li>
+            <a href="http://bbs.ent.163.com/bbs/bagua/503674338.html" target="_blank">汪峰章子怡童年照</a>
+         </li>
+                  <li>
+            <a href="http://bbs.gz.house.163.com/photoalbum/trips/502151092.html" target="_blank">最富有的东欧国家</a>
+         </li>
+                  <li>
+            <a href="http://bbs.gz.house.163.com/photoalbum/trips/502208904.html" target="_blank">中国最贫穷的地方</a>
+         </li>
+                  <li>
+            <a href="http://bbs.163.com/special/0015sp/dashumantan_71.html" target="_blank">在香港上公厕有多难</a>
+         </li>
+                  <li>
+            <a href="http://bbs.163.com/special/0015sp/dashumantan_69.html" target="_blank">盖茨劝中国富人做慈善</a>
+         </li>
+               </ul>
+   </div>
+</div>
+
+<div class="board-widget-container" id="user_top">
+   <div class="hd">
+      <h3>
+                  24小时热帖榜
+      </h3>
+   </div>
+   <div class="bd">
+      <ul>
+                  <li>
+            <span class="num hot" >
+                     1
+            </span>
+            <a href="http://bbs.local.163.com/bbs/localzj/591873078.html" target="_blank" title="浙 东 新 闻 (12月21日)">浙 东 新 闻 (12月21..</a>
+         </li>
+                  <li>
+            <span class="num hot" >
+                     2
+            </span>
+            <a href="http://bbs.local.163.com/bbs/localzj/591871649.html" target="_blank" title="浙江地方新闻 (12月21日)">浙江地方新闻 (12月21日..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     3
+            </span>
+            <a href="http://bbs.local.163.com/bbs/localzj/591872478.html" target="_blank" title="【“五水共治” 生态浙江】2015.342">【“五水共治” 生态浙江】2..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     4
+            </span>
+            <a href="http://bbs.local.163.com/bbs/localzj/591869177.html" target="_blank" title="浙江综合新闻 (12月21日)">浙江综合新闻 (12月21日..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     5
+            </span>
+            <a href="http://bbs.local.163.com/bbs/localzj/591869965.html" target="_blank" title="杭 州 新 闻 (12月21日)">杭 州 新 闻 (12月21..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     6
+            </span>
+            <a href="http://bbs.local.163.com/bbs/localsh/591806605.html" target="_blank" title="沪东老年护理院的“90后”护士 善良让老人笑容重现">沪东老年护理院的“90后”护..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     7
+            </span>
+            <a href="http://bbs.local.163.com/bbs/localzj/591871848.html" target="_blank" title="浙江社会与民生 ( 12.21 )">浙江社会与民生 ( 12.2..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     8
+            </span>
+            <a href="http://bbs.local.163.com/bbs/localsh/591858065.html" target="_blank" title="上海综合新闻 (12月21日)">上海综合新闻 (12月21日..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     9
+            </span>
+            <a href="http://bbs.local.163.com/bbs/localsh/591856690.html" target="_blank" title="上海社会与民生 ( 12.21 )">上海社会与民生 ( 12.2..</a>
+         </li>
+                  <li>
+            <span class= "num" >
+                     10
+            </span>
+            <a href="http://bbs.local.163.com/bbs/localsh/591856997.html" target="_blank" title="上海财经新闻 (12月21日)">上海财经新闻 (12月21日..</a>
+         </li>
+               </ul>
+   </div>
+</div>
+<!--延长线-->
+<!-- <script style="text/javascript">
+var LeftBox="#tie_wrapper";
+var MinWidth = 1340;
+var RightBox="#tie_addtion";
+var RightBoxPr=4;
+var GtflAdForBBs=[{
+	"name":"FLashObject240530",
+	"width":"240",
+	"height":"600",
+	"src":"http://img1.126.net/channel4/015794/gh240600_0513.swf",//素材地址
+	"url":"http://g.163.com/a?CID=28229&Values=772833867&Redirect=http://www.kuaichale.com/hot/ltw/?from=163lt_Y"
+}];
+</script>
+<script language="javascript"; src="http://img2.126.net/ntesrich/auto/adbox/adbox-v1.1.2-120705.js"></script>
+<script language="javascript"; src="http://img2.126.net/ntesrich/temp/float_logo_gt20140416_1_bbs.js"></script> -->
+<iframe
+src="http://g.163.com/a?CID=28580&actionId=imp" width="1" height="1" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+</iframe>
+                <!--"/htmlfile/post_side/local.html"-->
+        
+        <!-- 右侧栏底部广告 -->
+        <div class="tie-right-ad">
+            <div id="youdao_ad_art_2" style="display:block;"></div>
+            <!--"/htmlfile/side_2009/article_side_bottom_ad.html"-->
+        </div>
+    </div>
+</div>
+
+   <!--帖子页底部广告-->
+   <div class="tie-bottom-ad">
+       
+       <!--"/htmlfile/bottom/bbs_local/local_article_bottom.html"-->
+   </div>
+        <div id="footer" class="footer">
+        <div class="police"><img src="http://bbs.163.com/bbs/img/police.gif"><div class="text"><a href="http://www.bj.cyberpolice.cn/index.htm">网络110<br>报警服务</a></div></div>
+        <div class="footText">
+            <a href="http://corp.163.com/">About NetEase</a> - <a href="http://gb.corp.163.com/gb/about/overview.html">公司简介</a> - <a href="http://gb.corp.163.com/gb/contactus.html">联系方法</a> - <a href="http://corp.163.com/gb/job/job.html">招聘信息</a> - <a href="http://help.163.com/ ">客户服务</a> - <a href="http://gb.corp.163.com/gb/legal.html">相关法律</a> - <a href="http://emarketing.biz.163.com/">网络营销</a>  - <a href="http://sitemap.163.com/">网站地图</a><br>
+            网易公司版权所有<br>
+            <span class="cRed">&copy;1997-2015</span>
+        </div>
+    </div>
+        <div id="scroll_to_top"></div>    <div id="dialog_login">
+    <form id="login_form" action="https://reg.163.com/logins.jsp" method="post" >
+        <input type="hidden" name="type" value="1" />
+        <input type="hidden" name="url" id="login_url" />
+        <input type="hidden" name="product" value="bbs" />
+        <div class="row">
+            <label> 帐号:
+                <input id="account" name="username" type="text" tabindex="1" />
+            </label>
+            <a href="http://reg.163.com/reg/reg.jsp?product=bbs&loginurl=http://bbs.163.com&url=" style="color:#BA2636;"  target="_blank">注册通行证</a>
+        </div>
+        <div class="row">
+            <label> 密码:
+                <input name="password" type="password" class="password" tabindex="2" />
+            </label>
+            <a href="http://reg.163.com/RecoverPassword.shtml" target="_blank">忘记密码？</a>
+        </div>
+        <div class="checkbox row">
+            <label>
+                <input name="savelogin" type="checkbox" value="1" tabindex="3" /> 下次自动登录
+            </label>
+            <!--
+            <label>
+                <input name="savelogin" type="checkbox" value="1" tabindex="4" /> 记住密码
+            </label>
+            -->
+        </div>
+        <div class="btn-set">
+            <span class="ui-button btn-login ui-button-on" tabindex="5">登录</span>
+            <span class="ui-button btn-cancel">取消</span>
+        </div>
+    </form>
+</div>    <div id="dialog_box">
+    <div id="dialog_form">
+    </div>
+</div>
+<script type="text/template" id="giftTemplate">
+<div id="giftBox">
+<div class="present_list_article">
+<div id="giftItemWraper"></div>
+<div id="giftpager"></div>
+ <div>赠言(仅限<span style="color: red;">20</span>字以内）
+    <textarea id="remark" name="remark" cols="35" class="gift-text" ></textarea>
+</div>
+</div>
+</div>
+</script>
+<script type="text/template" id="reportTemplate">
+          <div style="margin-bottom:5px;">请注明投诉原因:</div>
+          <textarea name="content" id="reportcontent"></textarea>
+</script>
+<script type="text/template" id="moveTemplate">
+<div class="dialog_c_wraper">
+<table>
+<tr><td>复制到</td></tr>
+<tr><td> <select id="moveChannelName" name="destDbname"></select></td></tr>
+<tr><td><select id="selectBoardid" name="selectBoardid"><option value="-1">请选择</option></select></td></tr>
+<tr><td>自定义版面ID：<input type="text" value="" id="destBoardid" name="destBoardid"></td></tr>
+<tr><td><input type="checkbox" id="isDelete" name="isDelete"><label for="isDelete">删除原始帖子</label></td></tr>
+</table>       
+</script>
+<script type="text/template" id="pushThread">
+   <div class="dialog_c_wraper">
+  <table>
+ <tr>
+ <td>范围:</td>
+ <td>
+     <select name="boardid" id="pushThreadScope">
+    </select>
+ </td></tr>
+ </table>
+ </div>
+ </div>
+</script>
+<script type="text/template" id="blackUserTemplate">
+ <div class="dialog_c_wraper">
+ <table>
+ <tr><td>通行证:</td><td><span id="userpassport"></span></td></tr>
+ <tr><td>昵  称:</td><td><span id="userusername"></span></td></tr>
+ <tr><td>加黑理由:</td><td><textarea id="userreason"></textarea></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="eliteTemplate">
+<div class="dialog_c_wraper">
+ <table>
+ <tr><td><div class="dialog_box_message">选择精华分类:</div></td></tr>
+ <tr><td><select id="eliteChannel">
+ <option value="-1">未分类</option>
+ </select></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="deliteTemplate">
+<div class="dialog_c_wraper">
+ <table>
+ <tr><td><div class="dialog_box_message">取消加精华</div></td></tr>
+ <tr><td><span id="eliteChannelLabel"></span></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="recommendTemplate">
+<div class="dialog_c_wraper">
+ <table>
+ <tr><td><div class="dialog_box_message">选择推荐分类:</div></td></tr>
+ <tr><td><select id="recommendChannel">
+  <option value="-1">未分类</option>
+ </select></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="drecommendTemplate">
+<div class="dialog_c_wraper">
+ <table>
+ <tr><td><div class="dialog_box_message">取消推荐</div></td></tr>
+ <tr><td><span id="recommendChannelLabel"></span></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="blackTemplate">
+    <div class="dialog_c_wraper">
+	<table>
+			 <tr><td>范围:</td><td>
+			    <select name="boardid" id="blackBoardId">
+                </select>
+			 </td></tr>
+			 <tr><td>通行证:</td><td><span id="blacklist_passport"></span></td></tr>
+			 <tr><td>昵称</td><td><span id="blacklist_nickname"></span></td></tr>
+			 <tr><td>封权人</td><td><span id="ban_people"></span></td></tr>
+			 <tr><td>加黑时间</td><td>
+			      <select name="deltime">
+                    <option value="1">24小时</option>
+                    <option selected="selected" value="2">3天</option>
+                    <option value="3">一周</option>
+                    <option value="4">一个月</option>
+                    <option value="5">三个月</option>
+                    <option value="6">半年</option>
+                    <option value="7">一年</option>
+                </select>
+			 </td></tr>
+			 <tr><td>加黑理由</td><td>
+			      <select name="reason">
+                    <option value="广告" selected="selected">广告</option>
+                    <option value="色情">色情</option>
+                    <option value="刷屏">刷屏</option>
+                    <option value="谩骂">谩骂</option>
+                    <option value="不和谐">不和谐</option>
+                    <option value="其它违规">其它违规</option>
+                </select>
+			 </td></tr>
+	</table>
+	</div>
+</script>
+<script type="text/template" id="ipTemplate">
+<div class="dialog_c_wraper">   
+   <table>
+			 <tr><td><strong style="width:50px;">发贴用户:</strong></td><td><span id="black_nickname"></span></td></tr>
+			 <tr><td><strong>发贴IP:</strong></td><td><span id="black_ip"></span></td></tr>
+			 <tr><td><strong>加黑理由</strong></td><td><input type="text" size="25" value="广告" id="black_reason"/></td></tr>
+			 <tr><td></td><td><input type="checkbox" id="blackipchk"/> 删除该IP在当前频道3天内的贴子</td></tr>
+	</table>
+</div>
+</script>
+<script type="text/template" id="listTemplate">
+    <table id="listtable" cellpadding="0" cellspacing="0">
+    <thead id="listhead">
+    </thead>
+    <tbody id="listbody">
+    </tbody>
+    </table>
+	<div id="listpager"></div>
+</script>
+
+<script type="text/template" id="sendMessageTemplate">
+    <div class="message_sendbox">
+        <table>
+		<tr>
+		<td></td>
+		<td><input type="text" readonly="readOnly" value="" class="inputBox inputBox-name" name="username" id="message_name" style="display:none;"></td>
+		</tr>
+		<tr>
+		<td><label>昵 称:</label></td>
+		<td><span id="nickname"></span></td>
+		</tr>
+		<tr>
+		<td><label for="message_content">内	容:</label></td>
+		<td><textarea class="inputBox"  id="message_content"></textarea></td>
+		</tr>
+		<tr>
+		<td></td>
+		<td>        
+		<span id="numTips">还可输入<span id="msgBytes">127</span>个字</span>
+	    <div id="errornumTips">已经超出<span id="msgerrorBytes"></span>个字</div>
+		</td>
+		</tr>
+		<tr>
+		<td><label>验证码:</label></td>
+		<td>
+		 <div class="vertifyCode">
+			<input type="text" maxlength="4" class="inputBox inputBox-name"  name="checkcode" id="checkcode" size="20"> <img alt="看不清，换一张" src="/v2/checkcode/codeimg" id="imgcheckcode"><a id="changeCode" style="display:inline;" href="javascript:;">换一张</a>
+		 </div>
+		</td>
+		</tr>
+		</table>
+    </div>
+</script>
+
+<script type="text/template" id="recTemplate">
+     <div class="guess-area">
+         <div class="guess-area-hd"><h3>猜你喜欢</h3></div>
+            <div class="guess-area-bd">
+                <div class="guess-pic">
+                            <a target="_blank" href="<#=headRec.url#>?from=<#=dbname#>top" title="<#=headRec.title#>"><img src="<#=headRec.imgsrc#>" /></a>
+                            <h4><a target="_blank" href="<#=headRec.url#>?from=<#=dbname#>top" title="<#=headRec.title#>"><#=headRec.title#></a></h4>
+                        </div>
+                        <div class="guess-list">
+                              <h4><a target="_blank" title="<#=lineRec.title#>" href="<#=lineRec.url#>?from=<#=dbname#>tol"><#=lineRec.title#></a></h4>
+                            <ul> 
+                            <#for(var i=0;i<recommends.length;i++){#>
+                                <li><a target="_blank" title="<#=recommends[i].title#>" href="<#=recommends[i].url#>?from=<#=dbname#>toc""><#=recommends[i].title#></a></li>
+                            <#}#>
+                            </ul>
+                <a target="_blank" href="http://t.163.com/BBS">关注论坛官方微博 &gt;</a>
+            </div>
+         </div>
+     </div>
+</script>
+    
+   <script type="text/javascript">
+                  var global_channel="bjpiao";
+                                     var isNeedLoginPost=true;
+                                    
+                  
+                                      var isRecommend=true;
+                                    
+   </script>
+
+
+<script type="text/javascript" src="http://img1.cache.netease.com/bbs/static/20150917/forum_tie.js" charset="GBK"></script>
+<div style="display:none;">
+<iframe height="22" frameborder="no" width="960" scrolling="no" name="ad_pop" marginheight="0" marginwidth="0" border="0" src="http://baby.163.com/?channel=local&type=post"></iframe>
+</div> 
+<script type="text/javascript">	
+			oEditor.set({ html: '' });	
+</script>
+
+<script src="http://analytics.163.com/ntes.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+_ntes_nacc = "bbschannel";
+neteaseTracker();
+</script>
+</body>
+</html>	
+

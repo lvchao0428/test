@@ -1,0 +1,641 @@
+<!--UINFO: http://www.mscbsc.com/bbs/thread-583471-1-1.html	length=59731&last_modified=0&time_saved=1450677190&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<title>挑战英特尔AMD 中国芯到底谁买单 -  MSCBSC 移动通信论坛  |  国内领先的通信技术论坛</title>
+<link rel="alternate" type="application/rss+xml" title="ROR" href="sitemapIndex.php" />
+
+<meta name="keywords" content="Discuz!,Board,Comsenz,forums,bulletin board,移动通信,通信工程师的家园,通信人才,求职招聘,网络优化,通信工程,出差住宿,通信企业黑名单">
+<meta name="description" content="MSCBSC 移动通信论坛 mscbsc 移动通信论坛拥有30万通信专业人员，超过50万份GSM/3G等通信技术资料，是国内领先专注于通信技术和通信人生活的社区。 - Discuz! Board">
+<meta name="generator" content="Discuz! 5.5.0 with Templates 5.0.0">
+<meta name="MSSmartTagsPreventParsing" content="TRUE">
+<meta http-equiv="MSThemeCompatible" content="Yes">
+<link rel="archives" title="MSCBSC 移动通信论坛" href="http://www.mscbsc.com/bbs/archiver/">
+<link rel="stylesheet" type="text/css" id="css" href="forumdata/cache/style_6.css">
+<script src="include/javascript/jquery.js" type="text/javascript"></script>
+<script src="include/javascript/jquery.AlertWindow.js" type="text/javascript"></script>
+<script src="include/javascript/jquery.timer.js" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery.noConflict();
+</script>
+<script src="include/javascript/common.js" type="text/javascript"></script>
+<script src="include/javascript/menu.js" type="text/javascript"></script>
+<script src="include/javascript/ajax.js" type="text/javascript"></script>
+
+<script type="text/javascript">var IMGDIR = 'images/default';var SMDIR = 'images/smilies';</script>
+
+<!-- 请置于所有广告位代码之前 -->
+<script src="http://cbjs.baidu.com/js/m.js" type="text/javascript"></script>
+</head>
+
+<body>
+<script type="text/javascript">
+jQuery(document).ready(function(){ 
+jQuery("#close").click(function(){
+jQuery('#navigation').hide();
+});
+//判断分辨率在1024像素以上就显示快捷操作栏
+var isWidescreen=screen.width>1024; 
+if(isWidescreen){
+jQuery('#navigation').show();
+}
+});
+</script>
+
+<div class="odiv" id="login_popup" style="display: none">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+  <tr><td class="lt"></td><td class="t"></td><td class="rt"></td></tr><tr><td class="l"></td><td class="tbox">
+<h3 class="tit"><b>扫描二维码登录</b><a class="cls" href="#login" onClick="openShutManager(this,'login_popup_menu',false)" title="关闭">关闭</a></h3>
+<div style="padding:10px; width:400px; font-size:12px;">
+    <form method="post" name="login" action="logging.php?action=vlogin">
+<input type="hidden" name="formhash" value="eac94cd6">
+<input type="hidden" name="referer" value="">
+    <img src="qrcode_yz.jpg" height="160" style="float:left; margin:8px;" /> <br /><br />请用微信扫描左边二维码获得验证码<br /><br />
+<input id="vvcode" name="vcode" type="text" size="12" /> <span id="vtip"> * 填写验证码</span><br>
+<input class="button" type="submit" name="loginsubmit" value="提 &nbsp; 交"><br /><br />
+* 无需输入用户名密码，安全可靠 （需要微信已绑定）<a href="logging.php?action=login" class="btn1 btnsF12">普通登录</a>
+ </form>   
+     </div>
+    
+     </td><td class="r"></td></tr><tr><td class="lb"></td><td class="b"></td><td class="rb"></td></tr></table><s><i></i></s>
+  </div>
+
+<ul id="navigation" style="display:none;">
+            <li><span onclick="scroll(0,0)"><img src="images/default/top.gif" border="0" alt="顶部" /> 返回页顶</span></li>
+            <li class="ask"><a style=" border-bottom:1px solid #1d548a" href="http://www.mscbsc.com/askpro/ask.php" target="_blank" title="技术提问">我要提问</a></li>
+            <li class="writenote"><a style=" border-bottom:1px solid #1d548a"  href="
+post.php?action=newthread&fid=21" target="_blank" title="发新贴">我要发帖</a></li>
+            <li class="upload"><a href="
+post.php?action=newthread&fid=21&data=yes
+" target="_blank" title="分享资源">分享资源</a></li>
+ <li><span id="close">X 关闭</span></li>             
+</ul>
+
+<center>
+<div class="maintable" style="background-color:#FFF">
+<div class="mainborder" id="jsmenu_parent" style="	width: 956px; "></div>
+<div class="mainheader" style="	width: 956px; ">
+
+<div style=" width:120px; float:left;">
+<span onClick="var strHref=window.location.href;this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.mscbsc.com/bbs');" style="CURSOR: hand"><img src="images/home.gif" border="0" style="vertical-align:middle;"> 设MSCBSC为首页</span>
+ </div>
+
+<div align="right">
+
+<a href="http://www.mscbsc.com" target="_blank">移动通信网</a> | <a href="http://www.mscbsc.com/news/" target="_blank">通信要闻</a> | <a href="http://www.mscbsc.com/askpro/" target="_blank">技术问答</a> | <a href="http://www.mscbsc.com/blog/" target="_blank">博客</a> | <a href="http://www.mscbsc.com/group/" target="_blank">圈子</a>  | <a href="http://www.telecomhr.com" target="_blank">人才</a> | <a href="http://www.mscbsc.com/bbs/" target="_blank">论坛</a> | <a href="forum-74-1.html" target="_blank">资料</a> | <a href="forum-185-1.html" target="_blank">论坛指南</a> | <a href="thread-129-1-1.html" target="_blank"><font color="red">积分说明</font></a> | <a href="thread-66084-1-1.html" target="_blank"><font color="red">帐号的保护和激活</font></a>&nbsp;&nbsp;</div>
+
+<div class="logo" style="width: 956px; background-color:#FFFFFF;"><table width="100%" border="0"><tr>
+<td width="20%"><div align="left"><a href="forum.php"><img src="images/default/logo6.jpg" alt="MSCBSC 移动通信论坛" border="0" /></a></div></td>
+<td>
+<div id="headerbanner" class="right"><!-- 广告位：移动通信论坛页顶468x60 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("491140");</script></div>
+</td>
+</tr></table>
+
+</div>
+
+
+</div>
+
+
+<div class="mainheader" style="	width: 956px; ">
+
+
+<div align="right">
+<span class="left">
+</span>
+<span class="bold">游客: &nbsp;</span><a href="register.php">注册</a>
+| <a href="#login"   onclick="openShutManager(this,'login_popup',false)">登录</a>
+| <a href="http://search.mscbsc.com" target="_blank">搜索</a> 
+    
+| <a href="memcp.php?action=credits&operation=addfunds"><font color=red>充值威望</font></a> 
+    
+| <a href="invitecode.php">邀请注册</a> 
+    
+| <a href="../askpro/index.php"><font color=green>技术问答</font></a> 
+| <span id="plugin" onMouseOver="showMenu(this.id)">扩展功能<img alt="" title="" src="images/default/jsmenu.gif" border="0"></span>
+| <a href="faq.php">帮助</a>
+
+</div></div>
+</div>
+
+<!--搜索部分开始--> 
+<div id="searchA"> 
+  <div class="searchA_right">&nbsp;<a href="http://www.mscbsc.com/askpro" target="_blank">问答区</a> | <a href="search.php?srchfrom=87000&amp;searchsubmit=yes" target="_blank">新帖区</a> | <a href="digest.php" target="_blank">精华区</a>  
+<a href="rss.php?auth=0" target="_blank"><img src="images/common/xml.gif" border="0" class="absmiddle" alt="RSS 订阅全部论坛" /></a>
+</div> 
+  <div class="searchA cc"> 
+    <div id="banner_search"> 
+      <form class="searchForm" method="post" action="http://search.mscbsc.com/do/s.php" target="_blank"  onsubmit="return checkkw();"> 
+        <input class="text_input" id="kw" onblur="(this.value=='')?this.value='在50万帖子，100万资料，8万问答中搜索':this.value" onfocus="if(this.value=='在50万帖子，100万资料，8万问答中搜索'){this.value='';};this.select();" value="在50万帖子，100万资料，8万问答中搜索" name="q"> 
+        <select name="stype" class="select_input"> 
+          <option value="1" selected="selected">全部</option> 
+          <option value="2">帖子</option> 
+          <option value="3">资料</option> 
+          <option value="4">问答</option> 
+          <option value="5">招聘</option> 
+        </select> 
+        <input type="image" src="images/newindex/search1.gif" style="border:0px; height:28px; margin-left:10px;"> 
+      </form> 
+    </div> 
+  </div> 
+</div> 
+    <script type="text/javascript">
+function checkkw()
+{
+var kw = document.getElementById("kw").value;
+if(kw == "" || kw == '在50万帖子，100万资料，8万问答中搜索'){
+alert("请输入关键词，再进行搜索！\n\n关键词是你要搜寻的内容，多关键词用空格隔开");
+document.getElementById("kw").focus();
+return false;
+
+}
+return true;
+ 
+}
+</script>	
+<!--搜索部分结束--> 
+
+
+<div class="maintable"  style="width:960px;background-color:#FFFFFF; margin-top:0px;">
+<DIV id=digest style="RIGHT: 480px; WIDTH: 0px; POSITION: absolute; TOP: 425px; HEIGHT: 0px; filter: Alpha(opacity=50); -moz-opacity:.5;opacity:0.5;  " >
+ </DIV>
+<div class="topclass">
+<a href="http://www.telecomhr.com/wangyou" target="_blank">网络优化工程师招聘专栏</a>
+<a href="http://www.telecomhr.com/4g" target="_blank">4G/LTE通信工程师最新职位列表</a>
+<a href="http://www.telecomhr.com/shixi" target="_blank">通信实习生/应届生招聘职位</a>
+<img src="./gbook/txrcw220x30.jpg" border="0" onclick="javascript:location.href='http://www.telecomhr.com/jobs';" title="更多通信招聘职位" />
+</div>
+
+<div class="subtable nav" style="width:956px; padding:3px; ">
+<a href="forum.php">MSCBSC 移动通信论坛</a>
+ &raquo; <a href="forum-21-1.html">通信产业资讯</a> &raquo; 挑战英特尔AMD 中国芯到底谁买单</div></div>
+<div class="maintable" style="background-color:#FFFFFF">
+<div class="right">
+</div>
+
+
+    
+<table width="956px" cellspacing="0" cellpadding="0" align="left" style="clear: both; background-color:#FFF">
+<tr><td valign="bottom">
+<div style="margin-bottom: 3px">
+<br>
+</div>
+</td><td width="40%" align="right" valign="bottom">
+<div class="right">&nbsp;<a href="post.php?action=reply&amp;fid=21&amp;tid=583471&amp;extra=page%3D1"><img src="images/default/reply.gif" border="0" alt="" /></a></div>
+<div id="newspecialheader" class="right" onmouseover="showMenu(this.id)"><img src="images/default/newtopic.gif" border="0" alt="" /><a href="###"><img src="images/default/newspecial.gif" border="0" alt="" /></a></div>
+<div class="popupmenu_popup newspecialmenu" id="newspecialheader_menu" style="display: none">
+<table cellpadding="4" cellspacing="0" border="0" width="100%">
+<tr><td class="popupmenu_option"><div class="newspecial"><a href="post.php?action=newthread&amp;fid=21&amp;extra=page%3D1">讨论帖</a></div></td></tr>
+<tr><td class="popupmenu_option"><div class="newspecial"><a href="post.php?action=newthread&amp;fid=21&amp;extra=page%3D1&amp;data=yes">资料帖</a></div></td></tr>
+<tr><td class="popupmenu_option"><div class="newspecial"><a href="post.php?action=newthread&amp;fid=21&amp;extra=page%3D1&amp;poll=yes">投票帖</a></div></td></tr>
+<tr><td class="popupmenu_option"><div class="newspecial"><a href="post.php?action=newthread&amp;fid=21&amp;extra=page%3D1&amp;reward=yes">悬赏帖</a></div></td></tr>
+</table></div>
+</td></tr></table></div>
+<script type="text/javascript">
+function fastreply(subject) {
+if($('postform')) {
+$('postform').subject.value = subject;
+$('postform').message.focus();
+}
+}
+</script>
+
+<div class="maintable">
+<div class="spaceborder" style="width: 956px; border-bottom: none">
+<table cellspacing="1" cellpadding="3" width="100%" align="center">
+<tr class="header"><td colspan="2" style=" height:3px;"></td></tr>
+<tr style="height:30px; background-color:#ECF4FC">
+<td class="bold" width="18%" style="color:#666666">
+<div class="readNum">
+<ul class="cc">
+<li><em>349</em>阅读</li>
+<li><em>0</em>回复</li>
+</ul>
+</div>
+
+</td> 
+<td class="bold" style="color:#000000; ">
+<div class="right" style="font-weight: normal">
+<a href="misc.php?action=emailfriend&amp;tid=583471">推荐</a> |
+<a href="my.php?item=subscriptions&amp;subadd=583471" id="ajax_subscription" onclick="ajaxmenu(event, this.id)">订阅</a> |
+<a href="my.php?item=favorites&amp;tid=583471" id="ajax_favorite" onclick="ajaxmenu(event, this.id)">收藏</a>
+</div>
+<span style="font-size:16px;">
+挑战英特尔AMD 中国芯到底谁买单</span> 
+</td></tr>
+
+
+</table></div>
+
+<form method="post" name="delpost" action="topicadmin.php?action=delpost&amp;fid=21&amp;tid=583471&amp;page=1">
+<input type="hidden" name="formhash" value="eac94cd6">
+<div class="spaceborder" style="width: 956px; margin-bottom: 4px;
+ border-top: none
+">
+<table cellspacing="1" cellpadding="3" width="100%" align="left" class="t_row">
+<tr style="height: 100%">
+<td width="18%" valign="top" class="t_user"><a name="pid5183134"></a>  <a name="lastpost"></a><a href="space-uid-10013387.html" target="_blank" class="bold">liluxiang</a> 
+<img src="images/stealth.png" border="0" style="vertical-align:middle" title="离线" /> 
+<br><div class="smalltxt">
+原始天尊 	
+<br />
+ <img src="images/ico_passmobile.gif" border="0" alt="手机号码已验证" style="vertical-align:middle" /> 			
+<br><br />
+<table width="95%" border="0" cellspacing="0" cellpadding="0" style="table-layout: fixed; overflow: hidden">
+<tr><td align="center"><img src="images/default/noavatar_middle.gif" border="0" /></td></tr></table><br>
+<img src="images/common/pm.gif" border="0" style="vertical-align:middle" />&nbsp;<a href="pm.php?action=send&amp;uid=10013387" target="_blank">发短消息</a>&nbsp;
+<img src="images/common/my.gif" border="0" style="vertical-align:middle" />&nbsp;<a href="memcp.php?action=buddylist&amp;newbuddyid=10013387&amp;buddysubmit=yes" target="_blank" id="ajax_buddy_0" onclick="ajaxmenu(event, this.id)">关注Ta</a>&nbsp;
+<br /><br>
+<img src="images/common/medal13.gif" border="0" alt="C友·铁杆勋章" /> &nbsp;
+<img src="images/common/medal10.gif" border="0" alt="C友·贡献勋章" /> &nbsp;
+<img src="images/common/medal_water1.gif" border="0" alt="“灌水之王”" /> &nbsp;
+<img src="images/common/m06.gif" border="0" alt="财富勋章·财运连连" /> &nbsp;
+<img src="images/common/gjxunzhang004.gif" border="0" alt="C友·登录达人" /> &nbsp;
+<br>
+积分 130977<br>
+帖子 26108<br>
+威望 7347 个<br>
+礼品券 510 个<br>
+专家指数 437 <br>
+注册 2010-4-15<br>专业方向&nbsp;
+移动网规划和优化——理论与实践<br>
+回答问题数 <a href='http://www.mscbsc.com/askpro/member.php?command=answer&uid=10013387' target='_blank'>215</a><br />
+回答被采纳数 <a href='http://www.mscbsc.com/askpro/member.php?command=answer&uid=10013387' target='_blank'>6</a><br />
+回答采纳率 <a href='http://www.mscbsc.com/askpro/member-10013387.html' target='_blank'>3%</a><br />
+
+</div>
+</td>
+<td width="82%" valign="top" style="padding: 0px; height:100%;">
+<table border="0" cellspacing="0" cellpadding="3" class="t_msg">
+<tr><td>
+<div>
+<div class="right t_number"><a href="###" class="bold" title="复制帖子链接到剪贴板" onclick="setcopy('http://www.mscbsc.com/bbs/viewthread.php?tid=583471&amp;page=1#pid5183134', '已经复制到剪贴板')">#1</a></div>
+<span class="right">&nbsp;</span>
+<a href="###" class="right t_number" style="background-image: url("images/default/cat_bg.jpg")" onclick="$('message5183134').className='t_bigfont'">大</a>
+<a href="###" class="right t_number" style="background-image: url("images/default/cat_bg.jpg")" onclick="$('message5183134').className='t_msgfont'">中</a>
+<a href="###" class="right t_number" style="background-image: url("images/default/cat_bg.jpg")" onclick="$('message5183134').className='t_smallfont'">小</a>
+<div class="right" style="padding-top: 3px;">
+
+        
+        <a href="magic.php?action=user&amp;pid=5183134" target="_blank">使用道具</a>&nbsp;&nbsp;
+        
+        </div>
+<div style="padding-top: 3px;">
+发表于 2015-9-17 09:15:18&nbsp;
+        
+        
+        <a href="viewthread.php?tid=583471&amp;extra=page%3D1&amp;originator=yes">只看楼主</a>&nbsp;
+        
+        
+        
+         
+</div></div>
+</td></tr>
+<tr><td valign="top" class="line" style="padding-top: 10px;">
+<div style="float: right" align="right">
+</div>
+      
+<div id="message5183134" class="t_msgfont" style="padding-top:5px; padding-bottom:5px;
+">
+         
+<font face="宋体 "></font><b><font style="font-size: 10.5pt"><font face="Times New Roman "> </font></font></b><br />
+<font face="宋体 "></font><b><font color="windowtext"><font style="font-size: 10.5pt"><u><font face="Times New Roman "> </font></u></font></font></b><br />
+<font face="宋体 "></font><font face="宋体 ">龙芯，中国科学院计算所自主研发的通用</font><font face="Times New Roman ">CPU</font><font face="宋体 ">。相对于大名鼎鼎的英特尔、</font><font face="Times New Roman ">AMD</font><font face="宋体 ">而言，龙芯的影响力基本可以忽略不</font><font face="Times New Roman "> </font><font face="宋体 ">计。但是“中国自主研发”几个字的份量却不言而喻，这使得龙芯变得与众不同。当然，设计和生产是两回事，龙芯的设计是中国自主的知识产权，而生产则是交给</font><font face="Times New Roman "></font><font face="宋体 ">代工厂来完成，因此龙芯从设计上来讲是国产，但从生产角度来看，并不是由中国制造生产的</font><font face="Times New Roman ">CPU</font><font face="宋体 ">芯片。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">从表面来看，龙芯与其它</font><font face="Times New Roman ">CPU</font><font face="宋体 ">是产品之间的竞争，但其实蕴藏在背后的则是中美之间的科学技术竞争，因此，性能羸弱、问题多多的龙芯，始终并未从中国科技领域的版图上抹去。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">已经追上英特尔</font><font face="Times New Roman ">AMD</font><font face="宋体 ">？中国芯到底谁买单</font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">龙</font><font face="Times New Roman "></font><font face="宋体 ">芯项目从</font><font face="Times New Roman ">2001</font><font face="宋体 ">年</font><font face="Times New Roman ">5</font><font face="宋体 ">月份上马至今，已经走过了</font><font face="Times New Roman ">14</font><font face="宋体 ">个年头。龙芯最初的英文名称为</font><font face="Times New Roman ">Godson</font><font face="宋体 ">，后来正式注册的英文名为</font><font face="Times New Roman ">Longstanding</font><font face="宋体 ">，现在的</font><font face="Times New Roman "> </font><font face="宋体 ">英文名称为</font><font face="Times New Roman ">Loongson</font><font face="宋体 ">。</font><font face="Times New Roman ">2002</font><font face="宋体 ">年</font><font face="Times New Roman ">8</font><font face="宋体 ">月</font><font face="Times New Roman ">10</font><font face="宋体 ">日，龙芯</font><font face="Times New Roman ">1</font><font face="宋体 ">号芯片</font><font face="Times New Roman ">X1A50</font><font face="宋体 ">流片成功，成为龙芯品牌下的第一颗</font><font face="Times New Roman ">CPU</font><font face="宋体 ">。它由中国科学院计算技术所龙芯课题</font><font face="Times New Roman "> </font><font face="宋体 ">组独立研制，由中国科学院计算技术所授权的北京神州龙芯集成电路设计公司研发，代工生产则由台积电完成（</font><font face="Times New Roman ">06</font><font face="宋体 ">年之后由意法半导体代工）。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">与</font><font face="Times New Roman "> X86</font><font face="宋体 ">架构的英特尔、</font><font face="Times New Roman ">AMD</font><font face="宋体 ">不同，龙芯在架构方面绝大部分采用了</font><font face="Times New Roman ">MIPS</font><font face="宋体 ">架构中的指令集，仅有非常少的部分采用了龙芯自主指令集，但这非常少的部分大都也</font><font face="Times New Roman "> </font><font face="宋体 ">是重复</font><font face="Times New Roman ">MIPS</font><font face="宋体 ">的指令功能。因此，龙芯在主流系统、软件的兼容性方面毫无优势，除非能够建立起自己的生态圈并进行拓展，否则与</font><font face="Times New Roman ">X86</font><font face="宋体 ">架构的英特尔、</font><font face="Times New Roman ">AMD </font><font face="宋体 ">在</font><font face="Times New Roman ">PC</font><font face="宋体 ">端的较量会永无天日。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">此外，龙芯与</font><font face="Times New Roman ">MIPS</font><font face="宋体 ">的合作也有黑历史存在，当然与汉芯的造假骗取研发经费相比，龙芯则是栽在了别人的手上。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="Times New Roman ">2011 </font><font face="宋体 ">年，龙芯购买了</font><font face="Times New Roman ">MIPS 64</font><font face="宋体 ">位架构授权，这使得龙芯可以全面迈向</font><font face="Times New Roman ">64</font><font face="宋体 ">位高性能芯片领域，然而仅仅一年之后，</font><font face="Times New Roman ">MIPS</font><font face="宋体 ">就宣告倒闭，其中</font><font face="Times New Roman ">ARM</font><font face="宋体 ">以</font><font face="Times New Roman ">3.5</font><font face="宋体 ">亿美</font><font face="Times New Roman "></font><font face="宋体 ">元买下了</font><font face="Times New Roman ">MIPS</font><font face="宋体 ">全部的</font><font face="Times New Roman ">498</font><font face="宋体 ">项专利永久授权和另外</font><font face="Times New Roman ">82</font><font face="宋体 ">项专利交叉授权，让龙芯着实吃了一次哑巴亏，这次事件也让人们看到了“自主知识产权”六个字的份</font><font face="Times New Roman "></font><font face="宋体 ">量，然而直到今天，龙芯在架构上依然难以实现完全的自主知识产权。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">那么时至今日，龙芯到底发展到了怎样的程度？它所存在的问题有哪些？未来又会不会有机会去分一杯羹呢？</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">龙芯</font><font face="Times New Roman ">3B1500</font><font face="宋体 ">是颗怎样的芯</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">在</font><font face="Times New Roman "></font><font face="宋体 ">龙芯的发展过程中，有几个时间点是非常重要的，比如</font><font face="Times New Roman ">2002</font><font face="宋体 ">年</font><font face="Times New Roman ">8</font><font face="宋体 ">月</font><font face="Times New Roman ">10</font><font face="宋体 ">日龙芯</font><font face="Times New Roman ">1</font><font face="宋体 ">号芯片</font><font face="Times New Roman ">X1A50</font><font face="宋体 ">流片成功；再比如</font><font face="Times New Roman ">2003</font><font face="宋体 ">年</font><font face="Times New Roman ">10</font><font face="宋体 ">月</font><font face="Times New Roman ">17</font><font face="宋体 ">日，首款</font><font face="Times New Roman ">64</font><font face="宋体 ">位通用</font><font face="Times New Roman "> CPU</font><font face="宋体 ">龙芯</font><font face="Times New Roman ">2B</font><font face="宋体 ">（代号</font><font face="Times New Roman ">MZD110</font><font face="宋体 ">）流片成功；而</font><font face="Times New Roman ">2006</font><font face="宋体 ">年</font><font face="Times New Roman ">3</font><font face="宋体 ">月</font><font face="Times New Roman ">18</font><font face="宋体 ">日龙芯</font><font face="Times New Roman ">2E</font><font face="宋体 ">（代号</font><font face="Times New Roman ">CZ70</font><font face="宋体 ">）流片成功则标志着龙芯</font><font face="Times New Roman ">CPU</font><font face="宋体 ">首次突破</font><font face="Times New Roman ">1GHz</font><font face="宋体 ">主频。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">此外，</font><font face="Times New Roman ">2009</font><font face="宋体 ">年</font><font face="Times New Roman ">9</font><font face="宋体 ">月</font><font face="Times New Roman ">28</font><font face="宋体 ">日，首款四核</font><font face="Times New Roman ">CPU</font><font face="宋体 ">龙芯</font><font face="Times New Roman ">3A</font><font face="宋体 ">（代号</font><font face="Times New Roman ">PRC60</font><font face="宋体 ">）流片成功标志着龙芯进入多核时代，而</font><font face="Times New Roman ">2012</font><font face="宋体 ">年</font><font face="Times New Roman ">10</font><font face="宋体 ">月，八核</font><font face="Times New Roman ">32</font><font face="宋体 ">纳米龙芯</font><font face="Times New Roman ">3B1500</font><font face="宋体 ">流片成功则让龙芯步入了新时代。目前，</font><font face="Times New Roman ">3B1500</font><font face="宋体 ">是龙芯品牌最新、也是最强的</font><font face="Times New Roman ">CPU</font><font face="宋体 ">芯片。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="Times New Roman ">3B1500</font><font face="宋体 ">是一颗</font><font face="Times New Roman ">32nm</font><font face="宋体 ">工艺制程处理器，集成</font><font face="Times New Roman ">8</font><font face="宋体 ">个</font><font face="Times New Roman ">64</font><font face="宋体 ">位超标量处理器核心，支持</font><font face="Times New Roman ">MIPS64</font><font face="宋体 ">指令集以及龙芯扩展指令集，并采用了动态主频设计，为</font><font face="Times New Roman ">1.2GHz</font><font face="宋体 ">至</font><font face="Times New Roman ">1.5GHz</font><font face="宋体 ">，与英特尔处理器动辄</font><font face="Times New Roman ">1GHz</font><font face="宋体 ">上下睿频相比，龙芯的动态频率设计显然还差的很远。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">在</font><font face="Times New Roman "></font><font face="宋体 ">高速缓存方面，</font><font face="Times New Roman ">3B1500</font><font face="宋体 ">拥有</font><font face="Times New Roman ">64KB</font><font face="宋体 ">私有一级指令</font><font face="Times New Roman ">cache</font><font face="宋体 ">和数据</font><font face="Times New Roman ">cache</font><font face="宋体 ">，</font><font face="Times New Roman ">128KB</font><font face="宋体 ">私有二级</font><font face="Times New Roman ">cache</font><font face="宋体 ">，而三级</font><font face="Times New Roman ">cache</font><font face="宋体 ">做到了</font><font face="Times New Roman ">8MB</font><font face="宋体 ">，纸面实</font><font face="Times New Roman "></font><font face="宋体 ">力看上去已经是相当不错了。封装方面，采用了</font><font face="Times New Roman ">40mm</font><font face="宋体 ">×</font><font face="Times New Roman ">40mm BGA</font><font face="宋体 ">封装，</font><font face="Times New Roman ">1121</font><font face="宋体 ">个引脚，普通工作模式</font><font face="Times New Roman ">1.2GHz</font><font face="宋体 ">主频下，理论功耗为</font><font face="Times New Roman ">30W</font><font face="宋体 ">，向量</font><font face="Times New Roman "> </font><font face="宋体 ">工作模式</font><font face="Times New Roman ">1GHz</font><font face="宋体 ">主频下，理论功耗为</font><font face="Times New Roman ">40W</font><font face="宋体 ">。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">如果抛开架构以及实际体验来看，经过</font><font face="Times New Roman ">14</font><font face="宋体 ">年的发展，龙芯在某些参数上确实已经赶上了</font><font face="Times New Roman ">AMD</font><font face="宋体 ">低端</font><font face="Times New Roman ">CPU</font><font face="宋体 ">，但与英特尔还是有着较大的差距。此外，在制程工艺、功耗控制、处理器主频等方面，依然与先进处理器有着天壤之别。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">中国芯的中国特色</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">“中国特色”可以说是最有特色的特色。龙芯既然是国家级科研项目，那么其所展现出的中国特色自然必不可少。在很多人眼里，龙芯项目就是一个骗取国家科研经费的项目，原因在于十四年的发展过程中，与英特尔、</font><font face="Times New Roman ">AMD</font><font face="宋体 ">的发展速度、程度相比，龙芯都太过逊色。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">然而，这种看法更多的是有一种黑的成份在里面。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">龙</font><font face="Times New Roman "></font><font face="宋体 ">芯所代表的是中国“自主知识产权的</font><font face="Times New Roman ">CPU</font><font face="宋体 ">”，在科技竞争中具备非常重要的战略地位。必然不能够因为多年来无法赶超英特尔、</font><font face="Times New Roman ">AMD</font><font face="宋体 ">而放弃这个项目。其实在中</font><font face="Times New Roman "> </font><font face="宋体 ">国，与龙芯相似的科研项目有很多，而龙芯只不过是这些项目中尚算偶尔能够听到声音的项目，因此每当龙芯新生代产品更新、或者技术有所突破的时候，也必然会</font><font face="Times New Roman "></font><font face="宋体 ">听到一些来自用户的声音。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">那么为什么技术跟不上，放着英特尔、</font><font face="Times New Roman ">AMD</font><font face="宋体 ">的</font><font face="Times New Roman ">CPU</font><font face="宋体 ">不好好用，还要死气白咧的组织一批人去搞“中国芯”呢？</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">其实对于中国而言，中国芯的意义不在于它能卖出多少颗，而是在于一种科技实力的进步，同时对于国家安全，企业、工业信息安全，以及冲破技术壁垒有着极大的推动作用。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">金窝银窝不如自家的草窝，外来的东西再好，也不如自家产的让人放心，同时如果龙芯能够达到主流消费或商用级电脑的性能，那么对于管理、维护而言也是更加的方便、快捷。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">此</font><font face="Times New Roman "></font><font face="宋体 ">外，龙芯的应用价值在当下或是未来很长一段时间里，都应该是注重国防、工业、通信、网络安全等方面，而并非个人消费电脑领域。一方面是“中国芯”自身特性</font><font face="Times New Roman "></font><font face="宋体 ">所决定，另一方面也是“中国芯”很难撼动英特尔与</font><font face="Times New Roman ">AMD</font><font face="宋体 ">在消费级市场的地位。因此，自产自销才是龙芯现阶段发展的主要目标，这也是中国科研项目所普遍具有</font><font face="Times New Roman "> </font><font face="宋体 ">的特色。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">没人用是最尴尬问题</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="Times New Roman ">2015</font><font face="宋体 ">年</font><font face="Times New Roman ">8</font><font face="宋体 ">月份，沉寂三年的龙芯发布了新一代四核心处理器——龙芯</font><font face="Times New Roman ">3A2000</font><font face="宋体 ">以及龙芯</font><font face="Times New Roman ">3B2000</font><font face="宋体 ">。同时流露出的消息表示，新一代龙芯的整数部分同频</font><font face="Times New Roman ">Coremark</font><font face="宋体 ">测试结果媲美</font><font face="Times New Roman ">Ivy Bridge</font><font face="宋体 ">，也就是与第三代酷睿平台的性能相仿。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">我们姑且不去评论这个测试结果的真与假，而假设龙芯确实达到了</font><font face="Times New Roman ">IVB</font><font face="宋体 ">平台的性能，那么相对而言它依然不能被看作是一颗成功的</font><font face="Times New Roman ">CPU</font><font face="宋体 ">核芯。但是如果从技术进步的角度来看的话，还是十分让人兴奋的。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">不</font><font face="Times New Roman "></font><font face="宋体 ">过，从官方给出的参数信息来看，新一代龙芯四核处理器采用了</font><font face="Times New Roman ">28nm</font><font face="宋体 ">工艺制程，这点已经与</font><font face="Times New Roman ">AMD</font><font face="宋体 ">持平，而英特尔目前为</font><font face="Times New Roman ">14nm</font><font face="宋体 ">工艺制程。功耗方面，新一代</font><font face="Times New Roman "> </font><font face="宋体 ">龙芯做到了</font><font face="Times New Roman ">15W</font><font face="宋体 ">，但是主频却依然惨不忍睹，只有</font><font face="Times New Roman ">800MHz-1GHz</font><font face="宋体 ">，共享三级缓存为</font><font face="Times New Roman ">4MB</font><font face="宋体 ">，内存最高只支持</font><font face="Times New Roman ">DDR31333MHz</font><font face="宋体 ">。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">虽然笔者无缘拿到基于龙芯的电脑进行实地测试，但是根据多年的评测经验来看，</font><font face="Times New Roman ">3A2000</font><font face="宋体 ">与</font><font face="Times New Roman ">3B2000</font><font face="宋体 ">在纸面实力上，依然与英特尔、</font><font face="Times New Roman ">AMD</font><font face="宋体 ">有极大差距，一旦使用主流测试软件进行跑分测评，那么新一代龙芯依然是一败涂地的感觉。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">那么为什么会是这样的结果呢？笔者认为主要原因在于微架构设计上的难以突破。微架构是处理器性能提升的一大法宝，英特尔第六代酷睿平台就是得益于微架构的调整，因而在</font><font face="Times New Roman ">14nm</font><font face="宋体 ">制程工艺下比同为</font><font face="Times New Roman ">14nm</font><font face="宋体 ">制程工艺的第五代</font><font face="Times New Roman ">Broadwell</font><font face="宋体 ">平台性能更强。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">其</font><font face="Times New Roman "></font><font face="宋体 ">实微架构的调整主要目的在于如何让晶体管排布更合理、更高效，而晶体管又是决定处理器性能的重要因素，因此高效、合理的晶体管排布，必然会带来性能的提</font><font face="Times New Roman "></font><font face="宋体 ">升。龙芯在这方面的劣势注定了它很难有超越英特尔、</font><font face="Times New Roman ">AMD</font><font face="宋体 ">的微架构革新，因此在最终的性能表现上，自然也就有着天壤之别。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">除了性能之</font><font face="Times New Roman "></font><font face="宋体 ">外，龙芯面临的最大尴尬是“没有人用”。龙芯中科技术有限公司总裁兼龙芯总设计师胡伟武在接受央视采访时表示：“我们</font><font face="Times New Roman ">CPU</font><font face="宋体 ">也是可以做世界第一的，而且</font><font face="Times New Roman "> </font><font face="宋体 ">有，但关键是没有人用。”笔者不去评价前面两句话究竟如何，单看最后一句话，就能看出龙芯，以及像龙芯一样的中国芯们的尴尬。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">龙芯在技</font><font face="Times New Roman "></font><font face="宋体 ">术层面上落后英特尔、</font><font face="Times New Roman ">AMD</font><font face="宋体 ">好几代，即便假设</font><font face="Times New Roman ">3A2000</font><font face="宋体 ">、</font><font face="Times New Roman ">3B2000</font><font face="宋体 ">芯片性能达到了</font><font face="Times New Roman ">IVB</font><font face="宋体 ">平台水准，那么二者差距也至少隔着三代，性能毫无竞争力、量</font><font face="Times New Roman "> </font><font face="宋体 ">产困难、价格等诸多问题无法解决，同时整个</font><font face="Times New Roman ">PC</font><font face="宋体 ">市场又建立在</font><font face="Times New Roman ">X86</font><font face="宋体 ">架构与</font><font face="Times New Roman ">Windows</font><font face="宋体 ">系统之上，以不支持</font><font face="Times New Roman ">Flash</font><font face="宋体 ">、</font><font face="Times New Roman ">Adobe</font><font face="宋体 ">等软件的</font><font face="Times New Roman ">MIPS</font><font face="宋体 ">架构、</font><font face="Times New Roman "> </font><font face="宋体 ">以及</font><font face="Times New Roman ">Linux</font><font face="宋体 ">系统为基础的龙芯，自然很难在用户层面获得认可。因此究竟谁来为中国芯买单？谁会用中国芯？就成为了龙芯所面临的最尴尬问题。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">同时从目前甚至未来很长一段时间来看，这个问题都将困扰着这颗中国芯，当然也将困扰着像天津飞腾、中晟宏芯、上海兆芯等一颗颗中国芯。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">构建独有生态圈是未来出路</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">龙芯以及众多中国芯想要获得突破，除了在技术、性能上不断提升之外，那么当下以及未来最重要的，还需要有生态圈的构建。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">英</font><font face="Times New Roman "></font><font face="宋体 ">特尔用了几十年时间在全球市场形成了成熟、稳定的生态圈，与合作伙伴微软结成</font><font face="Times New Roman ">Wintel</font><font face="宋体 ">联盟，扶植各类软硬件企业做产品、技术研发，龙芯想要复制这个过</font><font face="Times New Roman "> </font><font face="宋体 ">程几乎要付出百倍甚至千倍的努力，当然也不一定能够成功，因此，龙芯需要借助中国特色，来打造属于自己的特色生态圈。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">首</font><font face="Times New Roman "></font><font face="宋体 ">先，构建基于龙芯硬件平台与</font><font face="Times New Roman ">Linux</font><font face="宋体 ">系统软件平台生态圈，拉拢更多的合作伙伴，建设并完善软硬件产品和技术的研发生态圈，让龙芯平台变得有用，从而摆脱</font><font face="Times New Roman "></font><font face="宋体 ">“无人会用”的尴尬。当然这个过程说起来简单，但做起来却有很多的困难，因为首要得要让开发者们认可龙芯，让他们能够从龙芯平台上获得利益，这样才能拉拢</font><font face="Times New Roman "></font><font face="宋体 ">到更有实力的合作伙伴。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">其次，利用“中国芯”特性，着眼国内市场，做真正的中国芯。龙芯对于国家安全、企业、工业信息安全、网络安全的意义不言而喻，而对于普通消费者的吸引力几乎可以忽略不计，因此可以率先去寻求与特定领域的合作，比如军用电脑、工业电脑等。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">最后，当基础生态圈建设、完善之后，不妨去探寻对</font><font face="Times New Roman ">X86-Windows</font><font face="宋体 ">体系的冲击。而前提是要有过硬的性能表现，即便无法赶超英特尔，至少也能够与</font><font face="Times New Roman ">AMD</font><font face="宋体 ">有一战之力，再加上“中国芯”的情怀，必然会比</font><font face="Times New Roman ">AMD</font><font face="宋体 ">更有竞争力。</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">小结</font><br />
+<font face="宋体 "></font><font face="Times New Roman "> </font><br />
+<font face="宋体 "></font><font face="宋体 ">没</font><font face="Times New Roman "></font><font face="宋体 ">有人会因为不如姚明高就不去打篮球，这就是为什么中国芯屡战屡败，却依然屡败屡战的原因。对于中国而言，有一颗具备“自主知识产权”的中国芯是科技发展的</font><font face="Times New Roman "></font><font face="宋体 ">必然需求，它所代表的并不仅仅是品牌与品牌、产品与产品之间的竞争，而是代表了国家与国家之间在科技、安全等层面上的竞争，因此多给中国芯一点鼓励，是每</font><font face="Times New Roman "></font><font face="宋体 ">一个中国普通大众所应该去做的事情。</font><br />
+<font face="宋体 "></font><font color="black"><font style="font-size: 10.5pt"><font face="Times New Roman "> </font></font></font><br />
+<font face="宋体 "></font> 
+        
+  
+</div>
+
+<br><br>
+
+                  
+                  
+<script type="text/javascript">
+function chcss(){
+document.getElementById('htab').className='low';
+}
+function hfcss(){
+document.getElementById('htab').className='high';
+}
+function viewpdf() {
+setTimeout("chcss()", 500);  
+setTimeout("hfcss()", 3000); 
+}
+</script>
+<style type="text/css">
+<!--
+.high { margin-top:15px; margin-bottom:15px;}
+.low { margin-top:0px; margin-bottom:0px;}
+-->
+</style>
+
+
+<div align="left" style="width:100%; overflow:hidden;">
+
+<div id="htab" class="high" style="width:100%">
+<div style="float:left"><img src="images/attachicons/pdf.gif" border="0" /></div><a href="down_pdf.php?tid=583471" target="_blank" onMouseOver="viewpdf();">免费免威望下载本帖内容PDF版</a>
+</div>
+<div style="clear:both; width:100%">
+<a name="pdf"></a>
+
+<div id="gg"></div>
+
+
+
+</div>
+
+</div>
+
+                   <br>
+
+   
+  
+  
+<div style="clear:both"></div>
+  
+<font style="color: #000000; font: 12px Tahoma, Verdana">
+</font>
+        <div class="cm">
+<h3 class="psth xs1" style="margin-top:3px;">对本帖内容的看法？ <a href="#rate" onclick="ShowWindow('ratemessWindow','ratepromptWindow','misc.php?action=rate&amp;tid=583471&amp;pid=5183134&amp;page=1&amp;msg=1');">我要点评</a></h3></div>
+        
+ 
+ 
+       
+ 
+<div style="width:100%; text-align:left;">
+<a href="recommend.php?tid=583471&amp;action=new" title="推荐获得审核通过，可获得丰厚奖励"><img src="images/default/recommend.gif" border="0" /></a>
+</div>
+ 
+                    <br><fieldset style="display:block; margin:0; padding:0;"><legend>作者的更多帖子</legend>
+                    	<ul class="mbw xl xl2 cl" style="margin-top:5px;">
+<li>
+  <span class="pipe">·</span><a href="thread-630237-1-1.html" target="_blank">建议是否应该设立5G技术专门板块</a> <span style="color:#CCCCCC">2015-12-21</span>						
+</li>
+<li>
+  <span class="pipe">·</span><a href="thread-630057-1-1.html" target="_blank">鹏博士杨学平：互联网+最终要落实到“实体经济”</a> <span style="color:#CCCCCC">2015-12-18</span>						
+</li>
+<li>
+  <span class="pipe">·</span><a href="thread-630056-1-1.html" target="_blank">直击世界互联网大会：中国电信5G展台</a> <span style="color:#CCCCCC">2015-12-18</span>						
+</li>
+<li>
+  <span class="pipe">·</span><a href="thread-630055-1-1.html" target="_blank">TD-LTE宽带专网发展值得关注</a> <span style="color:#CCCCCC">2015-12-18</span>						
+</li>
+<li>
+  <span class="pipe">·</span><a href="thread-630054-1-1.html" target="_blank">专访中兴通讯SDN专家：ElasticNet规模部署 深厚积累迎接商用浪潮</a> <span style="color:#CCCCCC">2015-12-18</span>						
+</li>
+<li>
+  <span class="pipe">·</span><a href="thread-630053-1-1.html" target="_blank">华为携手白俄罗斯电信部署全联接智慧家庭</a> <span style="color:#CCCCCC">2015-12-18</span>						
+</li>
+</ul>
+</fieldset>
+        
+       
+ 
+<tr><td align="right">
+        
+<a href="###" onclick="scroll(0,0)"><img src="images/default/top.gif" border="0" alt="顶部" /></a>
+</td></tr>
+<tr class="t_infoline"><td class="line" style="padding: 5px"> <div id="czxz" style="width:100%">
+<div id="cfll" style="float:left"><a href="memcp.php?action=credits&operation=addfunds" target="_blank"><img src="./images/paycenter.gif" border="0" /></a></div><span style=" margin-left:8px;font-size:14px; font-weight:bold;">[<a href="memcp.php?action=credits&operation=addfunds" target="_blank">充值威望，立即自动到帐</a>] [<a href="../pay/vippay.php" target="_blank">VIP贵宾权限+威望套餐</a>] 另有大量优惠赠送活动，请光临充值中心</span><br />
+<span style="margin-left:8px;">充值拥有大量的威望和最高的下载权限，下载站内资料无忧</span>
+</div></td></tr>
+</table></td></tr></table></div>
+</form>
+</div>
+<div class="maintable" style="clear:both; background-color:#FFFFFF">
+<table width="956px" cellspacing="0" cellpadding="0" align="center">
+<tr><td valign="top"></td><td width="40%" align="right">
+<div class="right">&nbsp;<a href="post.php?action=reply&amp;fid=21&amp;tid=583471&amp;extra=page%3D1"><img src="images/default/reply.gif" border="0" alt="" /></a></div>
+<div id="newspecialfooter" class="right" onmouseover="showMenu(this.id)"><img src="images/default/newtopic.gif" border="0" alt="" /><a href="###"><img src="images/default/newspecial.gif" border="0" alt="" /></a></div>
+<div class="popupmenu_popup newspecialmenu" id="newspecialfooter_menu" style="display: none">
+<table cellpadding="4" cellspacing="0" border="0" width="100%">
+<tr><td class="popupmenu_option"><div class="newspecial"><a href="post.php?action=newthread&amp;fid=21&amp;extra=page%3D1">讨论帖</a></div></td></tr>
+<tr><td class="popupmenu_option"><div class="newspecial"><a href="post.php?action=newthread&amp;fid=21&amp;extra=page%3D1&amp;data=yes">资料帖</a></div></td></tr>
+<tr><td class="popupmenu_option"><div class="newspecial"><a href="post.php?action=newthread&amp;fid=21&amp;extra=page%3D1&amp;poll=yes">投票帖</a></div></td></tr>
+<tr><td class="popupmenu_option"><div class="newspecial"><a href="post.php?action=newthread&amp;fid=21&amp;extra=page%3D1&amp;reward=yes">悬赏帖</a></div></td></tr>
+</table></div>
+</table><br></div>
+<div class="odiv" id="out_popup_menu" style="display: none">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+  <tr><td class="lt"></td><td class="t"></td><td class="rt"></td></tr><tr><td class="l"></td><td class="tbox">
+<h3 class="tit"><b>您即将访问其它网站</b><a class="cls" href="javascript:;" onclick="openShutManager(this,'out_popup_menu',true)" title="关闭">关闭</a></h3>
+<div style="padding:10px; width:300px;">
+     <p style="color: #930">您即将访问的地址是其它网站的内容，MSCBSC将不再对其安全性和可靠性负责，请自行判断是否继续前往</p>
+     <p><span id="outurl"></span></p>
+     <p style="padding-left:30px;"><a id="outcontinue" href="" target="_blank" onclick="openShutManager(this,'out_popup_menu',true)">继续访问</a>   <a style="margin-left:20px;" href="javascript:;" onclick="openShutManager(this,'out_popup_menu',true)">取消访问，关闭</a></p>
+     </div>
+    
+     </td><td class="r"></td></tr><tr><td class="lb"></td><td class="b"></td><td class="rb"></td></tr></table><s><i></i></s>
+  </div>
+ 
+ <div id="bdad">
+<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script>
+<!-- 300x250, 技术问答右侧-创建于 11-7-8 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-0442476421808622"
+     data-ad-slot="5922528125"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+     
+</div>
+<div class="headermenu_popup" id="memcp_menu" style="display: none">
+<table cellpadding="4" cellspacing="0" border="0">
+<tr><td class="popupmenu_option"><a href="memcp.php">个人中心首页</a></td></tr>
+<tr><td class="popupmenu_option"><a href="memcp.php?action=profile">编辑个人资料</a></td></tr>
+<tr><td class="popupmenu_option"><a href="memcp.php?action=credits">积分交易</a></td></tr>
+<tr><td class="popupmenu_option"><a href="memcp.php?action=usergroups">公众用户组</a></td></tr>
+<tr><td class="popupmenu_option"><a href="memcp.php?action=buddylist">好友列表</a></td></tr>
+<tr><td class="popupmenu_option"><a href="memcp.php?action=spacemodule" target="_blank">个人空间管理</a></td></tr>
+<tr><td class="popupmenu_option"><a href="http://www.mscbsc.com/?uid/0" target="_blank">升级我的博客</a></td></tr>
+</table></div>
+<div class="headermenu_popup" id="plugin_menu" style="display: none">
+<table cellpadding="4" cellspacing="0" border="0">
+     
+     <tr><td class="popupmenu_option"><a href="plugin.php?identifier=bank&module=bank"><font color=blue>社区银行</font></a></td></tr>
+     
+     
+     <tr><td class="popupmenu_option"><a href="plugin.php?identifier=invite&module=invite">购买邀请码</a></td></tr>
+     
+     
+     <tr><td class="popupmenu_option"><a href="flack.php">宣传中心</a></td></tr>
+     
+     
+     <tr><td class="popupmenu_option"><a href="plugin.php?identifier=ditu&module=ditu"><b><font color=red>全国地图</font></b></a></td></tr>
+     
+</table></div>
+<div class="headermenu_popup" id="stats_menu" style="display: none">
+<table cellpadding="4" cellspacing="0" border="0">
+<tr><td class="popupmenu_option"><a href="stats.php">基本概况</a></td></tr>
+<tr><td class="popupmenu_option"><a href="stats.php?type=views">流量统计</a></td></tr><tr><td class="popupmenu_option"><a href="stats.php?type=agent">客户软件</a></td></tr><tr><td class="popupmenu_option"><a href="stats.php?type=posts">发帖量记录</a></td></tr>
+<tr><td class="popupmenu_option"><a href="stats.php?type=forumsrank">论坛排行</a></td></tr><tr><td class="popupmenu_option"><a href="stats.php?type=threadsrank">主题排行</a></td></tr><tr><td class="popupmenu_option"><a href="stats.php?type=postsrank">发帖排行</a></td></tr><tr><td class="popupmenu_option"><a href="stats.php?type=creditsrank">积分排行</a></td></tr>
+<tr><td class="popupmenu_option"><a href="stats.php?type=trade">交易排行</a></td></tr>
+<tr><td class="popupmenu_option"><a href="stats.php?type=onlinetime">在线时间</a></td></tr>
+<tr><td class="popupmenu_option"><a href="stats.php?type=team">管理团队</a></td></tr>
+<tr><td class="popupmenu_option"><a href="stats.php?type=modworks">管理统计</a></td></tr>
+</table></div>
+<div class="maintable" style="color: #666; clear: both; background-color:#FFFFFF">
+<div align="center" style="clear:both;margin-bottom:15px;"><table width="958" border="0" style="background-color:#F8F8F8;"><tr><td width="20"  style="background-color:#CCCCFF; font-size:14px;">精彩通信图库</td><td width="184"><a href="thread-610517-1-1.html" target="_blank"><img src="http://img.mscbsc.com/bbs/attachments/month_1512/20151214_41e1aec122c079a1830fQfaqnmB1RGUf.jpg" border="0" width="180" height="100" alt="广西居民认为基站导致孩子感冒发烧，强拆基站引发网络热议，联通回应：呵呵"><br>广西居民认为基站导致孩子感.</a> </td><td width="184"><a href="thread-590929-1-1.html" target="_blank"><img src="http://img.mscbsc.com/bbs/attachments/month_1512/20151210_eaa446bc25362e2206b6osl5NGJnGEmM.jpg" border="0" width="180" height="100" alt="战乱，炸基站，影子网络，还有邪恶的美军... 垢了..."><br>战乱，炸基站，影子网络，还.</a> </td><td width="184"><a href="thread-590607-1-1.html" target="_blank"><img src="http://img.mscbsc.com/bbs/attachments/month_1512/20151209_8c442d7742acc31b8348XXQWYKTizfQZ.jpg.thumb.jpg" border="0" width="180" height="100" alt="网优之路——杂拍1"><br>网优之路——杂拍1</a> </td><td width="184"><a href="thread-590604-1-1.html" target="_blank"><img src="http://img.mscbsc.com/bbs/attachments/month_1512/20151209_09c0591f5890aede36b2ArFOHQ7Oblqz.gif.thumb.jpg" border="0" width="180" height="100" alt="网优之路——眺望"><br>网优之路——眺望</a> </td><td width="184"><a href="thread-588664-1-1.html" target="_blank"><img src="http://img.mscbsc.com/bbs/attachments/month_1511/20151124_a0a825a7c52e7172e880GbcX34ZpcT5L.jpg.thumb.jpg" border="0" width="180" height="100" alt="无题-深夜酒后胡思乱笔"><br>无题-深夜酒后胡思乱笔</a> </td></tr></table></div>
+<br>
+<div class="maintable">
+
+</div>
+当前时区 GMT+8, 现在时间是 2015-12-21 13:53:04<br><a href="http://www.miibeian.gov.cn/" target="_blank">渝ICP备11001752号</a>
+&#160;<a href="http://www.mscbsc.com" target="_blank">Copyright @ 2006-2015 mscbsc.com</a>&#160;&#160;本站统一服务邮箱：mscbsc@163.com<br><br></div>
+
+<div class="footerline"><div><a href="#top"><img border="0" src="images/default/footer_top.gif" alt="" /></a></div></div>
+<table cellspacing="0" cellpadding="0" border="0" width="100%" class="altbg1" style="padding: 5px 0px;">
+<tr><td width="80" style="padding-left: 30px">
+</td>
+<td style="font-size: 11px">
+<br><span id="debuginfo">Processed in 0.052732 second(s), 12 queries
+, Gzip enabled
+</span>
+</td>
+<td valign="bottom" align="right" style="padding-right: 30px">
+<div class="right" style="font: 9px Arial; position: relative; top: -5px; padding-right: 7px; color: #FFFFFF"><a href="#top">TOP</a></div><br>
+<a href="member.php?action=clearcookies&amp;formhash=eac94cd6">清除 Cookies</a> - <a href="mailto:mscbsc@163.com">联系我们</a>  - <a href="http://www.mscbsc.com">移动通信网</a> - <a href="http://www.mscbsc.com/" target="_blank">移动通信论坛</a> - <a href="http://www.telecomhr.com">通信招聘网</a> 
+ - <a href="archiver/" target="_blank">Archiver</a>
+</td></tr></table>
+<a name="bottom"></a>
+<div class="mainborder"></div>
+</center>
+ <div style="display:none">
+
+<script type="text/javascript">var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F73bd8be2cbf9ded0b6047737756e5af2' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<script src="http://js.users.51.la/786775.js" type="text/javascript"></script>
+<noscript><a href="http://www.51.la/?786775" target="_blank"><img alt="我要啦免费统计" src="http://img.users.51.la/786775.asp" style="border:none" /></a></noscript>
+</div>
+<script>
+var baiduImagePlus = {
+noLogo:true,
+unionId:'u2335796',
+formList:[{formId:10}]
+};
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/i.js" type="text/javascript"></script>
+
+</body></html>
+<div id="ggadload" style="display:none;">
+<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script>
+<!-- 728x90, 创建于 09-2-8 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-0442476421808622"
+     data-ad-slot="1413960447"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<script type="text/javascript">
+var host1 = "mscbsc.com";
+var host2 = "telecomhr.com";
+jQuery(document).ready(function($) {
+var ggad = $("#ggadload").html();
+$("#gg").html(ggad);
+$("a").each(function() {
+if(this.href.indexOf(location.hostname) == -1 && this.href.indexOf(host1) == -1 && this.href.indexOf(host2) == -1) {
+var outurl = $(this).attr("href");
+$(this).attr("outurl", outurl);
+$(this).attr("href", "javascript:;");
+$(this).attr("target", "_self");
+$(this).bind("click",function(){
+openShutManager(this,'out_popup_menu',false);
+jQuery("#outurl").html(jQuery(this).attr('outurl'));
+    jQuery("#outcontinue").attr("href",jQuery(this).attr('outurl'));
+});
+}
+});
+});
+
+</script>

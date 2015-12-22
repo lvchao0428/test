@@ -1,0 +1,512 @@
+<!--UINFO: http://bbs.tiexue.net/post_10046653_1.html	length=69547&last_modified=1447990707&time_saved=1450676798&charset=gb2312-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta content="精兵之路：人民解放军历史上的10次大裁军" name="keywords" />
+    <meta content="裁军，历来是国际社会极为关注的一个问题。第二次世界大战结束后，联合国就将裁军列为基本口号之一，认为裁军是当代人类安全与幸福的一个必不可少的条件。新中国成立后，中国政府一直主张裁减军队，反对军备竞赛，为推动世界裁军进程做出了应..." name="description" />
+    <meta http-equiv="mobile-agent" content="format=html5; url=http://m.tiexue.net/touch/thread_10046653_1.html"/>
+    <title>
+        精兵之路：人民解放军历史上的10次大裁军
+        
+        -
+        陆军论坛
+        - 铁血社区</title>
+        <link href="http://s.itiexue.net/??css/global/global-u.css,css/tiexue/bbs/page/post1-u.css?v=2" rel="stylesheet" type="text/css" charset="utf-8"/>    
+    <script src="http://s.itiexue.net/??js/global/base-all-v2-u.js,js/tiexue/public-u.js,js/tiexue/bbs/public-u.js,js/tiexue/bbs/page/post1t-u.js?v=5" type="text/javascript" charset="utf-8"></script>   
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+    <script type="text/javascript"> 
+        var ForumID=32;
+        var ForumGroupID=6;
+        var ThreadID=10046653;
+        var islocked=0;
+        var isvouch=0;
+        var Subject='精兵之路：人民解放军历史上的10次大裁军';
+	
+        BAIDU_CLB_preloadSlots("180429", "41474", "92705", "81336");
+        function PageTurn()
+        {
+            var pageIndexJs=$.trim($("#txtTurn").val());
+            if(pageIndexJs!="")
+            {
+                if(ValidateNum(pageIndexJs))
+                { 
+                    window.location.href="http://bbs.tiexue.net/post_"+10046653+"_"+pageIndexJs+".html";
+                }
+                else
+                {
+                    alert("请输入数字！");
+                }
+            }else
+            {
+                alert("请输入要跳转的页码！");
+            }
+        }
+        function ValidateNum(srcStr)
+        {
+            var expr='^(0|[1-9][0-9]*)$';
+            var Reg= new RegExp(expr);
+            if(Reg.test(srcStr))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        } 
+        function GaqPush(cname) {
+            _gaq.push(['_trackEvent', 'bbspost', 'clicked', cname]);
+        }
+    </script>   
+</head>
+
+<body>
+    <div class="container">
+        <!--*中间970 内容 start-->
+        <!--*头部 start-->
+        
+<div id="topBar">
+<script type="text/javascript">
+    InitLoginBar({
+        id: "topBar",
+        template: 1,
+        game: false,
+        slideMenu1: false,
+        slideMenu2: true,
+        sousuo: true,
+        addNav: null,
+        addStyle: ""
+    });
+</script>
+</div>
+
+<div class="header">
+    <div class="area header_row_2">
+        <div class="logo textHide float_L">
+            <a title="铁血社区" href="http://bbs.tiexue.net/" target="_blank">铁血社区</a></div>        
+            <ul class="nav fontYaHei" id="topNav">
+                <li class="noLayer">
+                    <h3>
+                        <a href="http://www.tiexue.net" target="_blank" onclick="GaqPush('1')">首页</a></h3>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://mil.tiexue.net" target="_blank" onclick="GaqPush('2')">军事</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowPicClass_43_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-1'])">军品鉴赏</a></li><li><a href="http://mil.tiexue.net/Junlv_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-2'])">中国军旅</a></li><li><a href="http://mil.tiexue.net/junmi_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-3'])">军迷争议</a></li><li><a href="http://mil.tiexue.net/lishi.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-4'])">军事历史</a></li><li><a href="http://mil.tiexue.net/jujiao.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-5'])">军情聚焦</a></li><li><a href="http://mil.tiexue.net/zhuanti_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-6'])">军事专题</a></li><li><a href="http://mil.tiexue.net/daohang/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-7'])">外军网址导航</a></li><li><a href="http://mil.tiexue.net/1979/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-8'])">对越自卫反击战</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://bbs.tiexue.net" target="_blank" onclick="GaqPush('3')">社区</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://mil.tiexue.net/zhiyuanzhe/index.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-1'])">关爱老兵活动</a></li><li><a href="http://www.tiexue.net/ShowClass_775_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-2'])">铁血精品原创</a></li><li><a href="http://www.tiexue.net/ShowClass_772_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-3'])">铁血热门话题</a></li><li><a href="http://bbs.tiexue.net/bbs32-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-4'])">陆军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs31-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-5'])">海军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs69-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-6'])">空军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs33-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-7'])">环球风云</a></li><li><a href="http://bbs.tiexue.net/gbbs24-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-8'])">警察之家</a></li><li><a href="http://bbs.tiexue.net/bbs73-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-9'])">中国历史</a></li><li><a href="http://bbs.tiexue.net/bbs124-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-10'])">军事影评</a></li><li><a href="http://bbs.tiexue.net/bbs219-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-11'])">军品鉴赏</a></li><li><a href="http://bbs.tiexue.net/bbs246-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-12'])">四海钓鱼</a></li><li><a href="http://bbs.tiexue.net/bbs247-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-13'])">人间美食</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <h3>
+                        <a href="http://www.junshishu.com" target="_blank" onclick="GaqPush('5')">读书</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.junshishu.com/mil.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-1'])">军事小说</a></li><li><a href="http://www.junshishu.com/his.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-2'])">历史小说</a></li><li><a href="http://www.junshishu.com/MultiNovelList.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-3'])">全本小说</a></li><li><a href="http://www.junshishu.com/yjcbxs.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-4'])">出版图书</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://www.tiexue.net/ShowPicClass_53_1.html" target="_blank" onclick="GaqPush('6')">图片</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowPicClass_53_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-1'])">精选酷图</a></li><li><a href="http://pic.tiexue.net/tuji_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-2'])">焦点图集</a></li><li><a href="http://www.tiexue.net/ShowPicClass_171_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-3'])">军事酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_172_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-4'])">国际酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_173_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-5'])">历史酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_188_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-6'])">社会酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_599_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-7'])">原创酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_597_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-8'])">猎奇酷图</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://jingcha.tiexue.net" target="_blank" onclick="GaqPush('7')">警察</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowClass_308_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-1'])">处警故事</a></li><li><a href="http://www.tiexue.net/ShowClass_294_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-2'])">警察生活</a></li><li><a href="http://www.tiexue.net/ShowClass_293_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-3'])">警务探讨</a></li><li><a href="http://www.tiexue.net/pictopic-373-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-4'])">图说警察</a></li><li><a href="http://www.tiexue.net/SmallPiclist_670_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-5'])">警察聚焦</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://game.tiexue.net" target="_blank" onclick="GaqPush('8')">游戏</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://dj.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-1'])">大将军</a></li><li><a href="http://dx.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-2'])">大侠传</a></li><li><a href="http://yd.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-3'])">一代宗师</a></li><li><a href="http://jj.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-4'])">将军</a></li><li><a href="http://zzsf.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-5'])">征战四方</a></li><li><a href="http://as.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-6'])">傲视天地</a></li><li><a href="http://sg.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-7'])">三国风云2</a></li><li><a href="http://mr.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-8'])">秦美人</a></li>
+                    </ul>
+                </li>
+                 <li>
+                        <h3><a href="http://v.tiexue.net" target="_blank" onclick="GaqPush('10')">视频</a><span></span></h3>
+                        <ul>
+                           <li><a href="http://v.tiexue.net/classMain_1681.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-1'])">军事视频</a></li><li><a href="http://v.tiexue.net/classMain_1682.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-2'])">时政视频</a></li><li><a href="http://v.tiexue.net/classMain_1683.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-3'])">历史视频</a></li>
+                        </ul>
+                  </li>
+                <li class="junpShop">
+                    <h3>
+                        <span></span><a href="http://www.junph.com/?utm_source=TX&utm_medium=anniu&utm_campaign=junp"
+                            target="_blank" onclick="GaqPush('9')">君品商城</a></h3>
+                    <ul>
+                        <li><a href="http://www.junph.com/html/Class1.html?utm_source=TX&utm_medium=anniu&utm_campaign=1" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-1'])">军迷服饰</a></li><li><a href="http://www.junph.com/html/category/junbiao.htm?utm_source=TX&utm_medium=anniu&utm_campaign=2" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-2'])">军迷手表</a></li><li><a href="http://www.junph.com/html/Class11.html?utm_source=TX&utm_medium=anniu&utm_campaign=3" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-3'])">军迷鞋靴</a></li><li><a href="http://www.junph.com/html/Class9.html?utm_source=TX&utm_medium=anniu&utm_campaign=4" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-4'])">军迷包具</a></li><li><a href="http://www.junph.com/html/category/jp-yanjing/?utm_source=TX&utm_medium=anniu&utm_campaign=6" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-5'])">军迷眼镜</a></li><li><a href="http://www.junph.com/html/Class12.html?utm_source=TX&utm_medium=anniu&utm_campaign=5" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-6'])">军迷手电</a></li><li><a href="http://www.junph.com/html/category/jp-wangyuanjing/?utm_source=TX&utm_medium=anniu&utm_campaign=7" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-7'])">望远镜</a></li>
+                    </ul>
+                </li>
+            </ul>        
+        <script type="text/javascript">
+            function navTab(id) {
+                var $_Tit = $("#" + id + ">li").not(".noLayer");
+                var $_Sub = $("#" + id + ">li>ul");
+                var timmer = null;
+                var n = null;
+                $_Tit.hover(function () {
+                    n = $_Tit.index(this)
+                    $(this).addClass("select").siblings().removeClass("select");
+                    $(this).children("ul").show();
+                }, function () {
+                    $_Tit.eq(n).removeClass("select");
+                    $_Sub.eq(n).hide();
+                })
+            }
+            navTab("topNav");
+        </script>
+    </div>
+</div>
+
+        <!--头部 end-->
+        <!--*主要内容 start-->
+        <div class="main">
+            <div class="banner" id="Baidu_BBSPostNormalV3ContentTopAD1">
+                <div><script type="text/javascript" >BAIDU_CLB_fillSlot("180429")</script></div>
+            </div>
+            <div class="mRow_1">
+                <p class="ftBtn textHide float_L">
+                    <a onclick="addPost();_gaq.push(['_trackEvent', 'bbs', 'clicked', '发帖按钮']);" href="javascript:void(0);" target="_self">我要发帖</a>
+                </p>
+                <div class="page float_R">
+                    <a href="http://bbs.tiexue.net/post_10046653_1.html" class="pageHover">1</a>
+                    
+                </div>
+            </div>
+            
+<div class="dir">
+    
+    <a href="http://bbs.tiexue.net/" target="_top">铁血社区</a> &gt; <a href="http://bbs.tiexue.net/gbbs6-0-1.html" target="_top">铁血军事论坛</a> &gt; <a href="http://bbs.tiexue.net/bbs32-0-1.html" target="_top">陆军论坛</a> &gt; 
+    <a target='_blank' href='http://bbs.tiexue.net/post_10046653_1.html'>精兵之路：人民解放军历史上的10次大裁军</a>
+</div>
+
+            
+<div class="postContent border">
+    <div class="postTit">
+        <p class="float_L">
+            帖子主题：精兵之路：人民解放军历史上的10次大裁军</p>
+        <p class="float_R">
+            共&nbsp;0&nbsp;个阅读者&nbsp;<span id="post_HeadReplySort"></span></p>
+    </div>
+</div>
+
+            
+<div class="postContent border">
+    <div class="postStart">
+        <!--*左边用户信息 start-->
+        <div class="sideLeft float_L">
+            <ul class="userMsg">
+                <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/2184455" class="signeffect-id"  target="_blank">avsq70psds78qcwh</a></strong><span></span></p><span class="girlHead"></span></div></li> <li class="headPic"> <a href="http://i.tiexue.net/2184455" target="_blank" title="查看个人空间"><img id="userMsg0" src="http://r.itiexue.net/bbs/other/images/user.gif" alt="头像" width="96" height="96" /></a><span class="signeffect-head"></span> </li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/LJ-bing-1.gif" alt="军衔:陆军列兵" title="军衔:陆军列兵" /></li> <li class="xxMsg">军号：2184455</li>	<li class='xxMsg'>工分:2008	</li>	<li class='xxMsg'>本区职务:会员</li>
+            </ul>
+            <!--*广告位 start-->
+            <div class="advert01" id="Baidu_BBSPostNormalV3ContentLeftAD1">
+                <div><script type="text/javascript" >BAIDU_CLB_fillSlot("41474")</script></div>
+            </div>
+            <!--广告位 end-->
+        </div>
+        <!--左边用户信息 end-->
+        <!--*右边帖子内容 start-->
+        <div class="contents">
+            <div class="contRow_1" id="adminAndUserPanel_1">
+                <!--10046653,99280462,1,2184455,avsq70psds78qcwh,0oQy%2bWVGbV5H3FBlmw5Gyg%3d%3d,1,0,0,0,0-->
+            </div>
+            <div class="icon_left textHide">
+                左箭头-小图标</div>
+            <div class="contRow_2">
+                
+                <div class="bbsPosTit">
+                    
+                    <span class="emotion61"></span>
+                    <h1>
+                        精兵之路：人民解放军历史上的10次大裁军</h1>
+                </div>
+                <!-- 广告位：标题下文字 -->
+ <div class="ad_text" id="Baidu_PostTitleTextAD" ></div>
+                <div class="tiJiaoMsg">
+                    <span>文章提交者：avsq70psds78qcwh
+                        加贴在</span>&nbsp;<a href="http://bbs.tiexue.net/bbs32-0-1.html" title="陆军论坛">陆军论坛</a>&nbsp;铁血论坛
+                                        http://bbs.tiexue.net/bbs32-0-1.html</div>
+                <div class="copyBtn" id="contentsbelowbar">
+                </div>
+                
+                <div id="postContent" class="js_box">                   
+                    <div id='Baidu_AdPIP2' class='AdPIP2'><div id='Baidu_AdPIP2_container'></div></div><!-- AdPanel_left --><p class='bbsp'><br/></p><p class='bbsp'>裁军，历来是国际社会极为关注的一个问题。第二次世界大战结束后，联合国就将裁军列为基本口号之一，认为裁军是当代人类安全与幸福的一个必不可少的条件。新中国成立后，中国政府一直主张裁减军队，反对军备竞赛，为推动世界裁军进程做出了应有的贡献。</p><p class='bbsp'><br/></p><p class='bbsp'>今年9月3日，习主席在纪念中国人民抗日战争暨世界反法西斯战争胜利70周年大会上郑重宣布：中国将裁减军队员额30万。此言一出，举世瞩目。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'><a target="_blank" href="http://img5.itiexue.net/2107/21072161.jpg"><img  src="http://img5.itiexue.net/2107/21072161.jpg" border="0" onload="bbimg(this)" border="0" alt="精兵之路：人民解放军历史上的10次大裁军" title="精兵之路：人民解放军历史上的10次大裁军（图1）"/></a></p><p class='bbsp'><br/></p><p class='bbsp'>裁军是中国军队实现强军目标的重大战略举措</p><p class='bbsp'><br/></p><p class='bbsp'>这是新中国成立后，人民解放军历史上的第11次大规模裁军，是中国军队实现强军目标的重大战略举措，更表明中国坚定不移走和平发展道路的诚意和决心。</p><p class='bbsp'><br/></p><p class='bbsp'>前十次大裁军，人民解放军先后有数十个军区、兵团和军兵种司令部被撤销，上千所部队医院、学校和农场等附属机构被裁撤、转隶或缩编，总员额由最高时的627万减至230万，逐步建设成为一支革命化现代化正规化的军队。如今，我们又一次自信而豪迈地迈出精兵的步伐，一定能使部队的规模结构更加优化、编成更加科学，为努力实现党在新形势下的强军目标提供坚强保障。</p><p class='bbsp'><br/></p><p class='bbsp'>今天，就让我们一起回望人民军队脚下的这条精兵之路、强军之路、和平之路……</p><p class='bbsp'><br/></p><p class='bbsp'>高奏凯歌中四次精简<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>――大幅缩减陆军员额，由单一军种向诸军兵种合成发展</p><p class='bbsp'><br/></p><p class='bbsp'>新生的共和国百废待兴，急需休养生息，发展生产，医治长期战争遗留下来的创伤。为此，党中央确定把恢复国民经济、争取国家财政经济状况好转作为中心任务。</p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'>1950年3月，为大量节减军政经费，毛泽东主席提出全军可整编缩减为400万人。当时全军共550余万人，以陆军为主体，空军、海军和陆军特种兵几乎是空白，军费开支占国家财政总支出的41.1%。5月，全军参谋会议研究讨论了整编复员的具体方案，将全军总员额压缩至400万人，并重新定额各军种。其中，陆军进行了较大规模压缩，总数为381.86万人；而空军、海军、军兵种机关和部队、军事院校则有了较大发展，空军定额为12.64万人，海军定额为5.5万人。但由于抗美援朝战争的爆发，人民解放军的首次大裁军自动终止，又开始扩编。到1951年底，全军总员额增至627.9万，为我军历史上兵力最多的时期。</p><p class='bbsp'><br/></p><p class='bbsp'>当志愿军把以美国为首的“联合国军”从鸭绿江畔打回到“三八线”附近地区之后，朝鲜战场形势处于相对稳定的对峙局面，而国内剿匪作战大体完成，镇压反革命运动也已获得显著成效。于是全军精简整编问题再度提上议事日程。</p><p class='bbsp'><br/></p><p class='bbsp'><a target="_blank" href="http://img6.itiexue.net/2107/21072162.jpg"><img  src="http://img6.itiexue.net/2107/21072162.jpg" border="0" onload="bbimg(this)" border="0" alt="精兵之路：人民解放军历史上的10次大裁军" title="精兵之路：人民解放军历史上的10次大裁军（图2）"/></a></p><p class='bbsp'><br/></p><p class='bbsp'>中国人民志愿军跨过鸭绿江，开赴朝鲜战场<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>1951年10月上旬，中央政治局扩大会议确定实行“精兵简政，增产节约”的方针。9日，军委决定为适应现代战争要求、促进国民经济快速发展，大幅压缩军队总规模。1952年1月5日，毛泽东批准施行《军事整编计划》，规定3年内把国防部队总人数控制在300万人左右。其中，陆军由53个军、185个师整编为30个军、100个师，人数由274万精简至134万，特种兵（空军、海军、炮兵、装甲兵、防空部队、工兵）则由61万增至84.3万，并把地方部队全部转为公安部队。4月15日，毛泽东、周恩来签署中央军委、政务院《关于集体转业部队的决定》，把41个师、11个团共46.5万人转为各种工程部队和屯垦部队。这是人民解放军的第二次大裁军，也是精简员额最大的一次。截至当年10月底，共精简19个军、73个师近200万人，全军总员额减少到420万人左右。军费开支占全国财政总支出比例下降到32.9%。陆军初步完成由分散领导向集中统一指挥、从单一步兵体制向诸兵种合成体制的转变。同时，海军、空军和院校建设得到了加强。</p><p class='bbsp'><br/></p><p class='bbsp'>1953年7月，抗美援朝战争胜利结束，国内剿匪作战也接近尾声。此时，全军总员额已降至406万，但仍有伤病人员、供给关系在军队的家属小孩等非列编人员47万余人，以及文化学习队、子弟小学、托儿所等机构工作人员20多万人。为给实行义务兵役制、军衔制、薪金制做准备，8月28日，中央发出军事系统应在整顿组织、精简机构和冗员、加强技术训练、提高部队质量的基础上，大力缩减军费开支的紧急指示，由此启动了人民解放军的第三次大裁军。这次裁军至1955年底完成，全军共精简员额23%左右，总部机关和军区、军兵种机关得到调整和加强，重点加强了海军、空军和陆军炮兵、装甲兵、工程兵等技术兵种建设，极大地推进了人民解放军合成化水平。</p><p class='bbsp'><br/></p><p class='bbsp'>1957年1月，中央军委扩大会议通过了《关于裁减军队数量加强质量的决定》，确定“在裁减军队数量加强质量的原则下，将人民解放军员额裁减三分之一，即从383万人中裁减130万左右，保持250万或者再少一些的常备军队”。同时调整全军的组织编制，把原来的陆军、海军、空军、防空军、公安军5个军种改为陆军、海军、空军3个军种，八总部领导体制改为三总部领导体制。</p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'>到1958年底，人民解放军的第四次大裁军基本完成，人民解放军编制体制实现了一次根本性调整，打破了以陆军为主体的军事力量格局，大力发展海军、空军及陆军技术兵种，初步达到战略合成的要求。</p><p class='bbsp'><br/></p><p class='bbsp'>往事链接</p><p class='bbsp'><br/></p><p class='bbsp'><a target="_blank" href="http://img7.itiexue.net/2107/21072163.jpg"><img  src="http://img7.itiexue.net/2107/21072163.jpg" border="0" onload="bbimg(this)" border="0" alt="精兵之路：人民解放军历史上的10次大裁军" title="精兵之路：人民解放军历史上的10次大裁军（图3）"/></a><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>将军当农民，甘祖昌是新中国第一人</p><p class='bbsp'><br/></p><p class='bbsp'>开国少将回乡务农</p><p class='bbsp'><br/></p><p class='bbsp'>2013年9月26日，习主席在接见第四届全国道德模范及提名奖获得者时，亲切问候并向大家介绍坐在第一排的一位老人。习主席饱含深情地向大家介绍，这位全国道德模范就是开国将军甘祖昌同志的夫人龚全珍老人，甘祖昌在新中国成立后回家当农民。半个世纪过去了，我们仍然要弘扬这种革命精神，要一代一代传承下去，向老前辈致敬。</p><p class='bbsp'><br/></p><p class='bbsp'>1955年，时任新疆军区后勤部部长的甘祖昌被授予少将军衔。在长期的革命战争中，甘祖昌的头部曾3次负重伤，严重的脑震荡后遗症使他难以坚持工作。领导和同志们都建议甘祖昌到条件比较好的地方去长期休养，但他却说：“活着就要为国家做事情，做不了大事就做小事，干不了复杂重要的工作就做简单的工作，决不能无功受禄，决不能不劳而获。”</p><p class='bbsp'><br/></p><p class='bbsp'>时值第四次大裁军。为了不给国家增加负担，甘祖昌决定解甲归田，但他的请求没被组织批准。7月，总政治部副主任萧华视察新疆军区。甘祖昌又当面提出申请，终获同意。</p><p class='bbsp'><br/></p><p class='bbsp'>将军当农民，甘祖昌是新中国第一人。回乡后，他始终过着节俭简朴的生活，不光养猪种菜，就连抽的烟叶也是自己种的，而上级按有关规定要给他盖房配车，都被他一一拒绝。回乡后的29年里，他和乡亲们一起，用辛勤的汗水修起了3座水库、4座水电站、3条公路、12座桥梁，还有25公里长的渠道；他还坚持从每月330元工资中挤出三分之二，把攒得的85000多元捐给家乡，用来修水利、建电站、盖校舍、办企业，为促进当地的经济发展做出了不朽的贡献。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>1986年3月23日，甘祖昌因病在莲花县逝世。弥留之际，他还交代家人：“领了工资，先交党费，留下生活费，其余的全部买农药化肥支援农业。”</p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'>改革春风里百万裁军</p><p class='bbsp'><br/></p><p class='bbsp'>――以“消肿”为突破口，提高现代条件下诸军兵种联合作战能力</p><p class='bbsp'><br/></p><p class='bbsp'><a target="_blank" href="http://img8.itiexue.net/2107/21072164.jpg"><img  src="http://img8.itiexue.net/2107/21072164.jpg" border="0" onload="bbimg(this)" border="0" alt="精兵之路：人民解放军历史上的10次大裁军" title="精兵之路：人民解放军历史上的10次大裁军（图4）"/></a></p><p class='bbsp'><br/></p><p class='bbsp'>英雄的人民解放军部队</p><p class='bbsp'><br/></p><p class='bbsp'>1984年11月1日，国庆35周年大阅兵刚过，中央军委在京西宾馆召开座谈会，全军各大单位的领导集聚一堂。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>“从哪里讲起呢？”邓小平随和、亲切地望着会场上的诸位高级将领，“这次阅兵国际国内反映都很好。但我说有个缺陷，就是80岁的人来检阅部队，本身就是个缺陷。这表明我们军队高层领导老化，这种状态不改变不行。”</p><p class='bbsp'><br/></p><p class='bbsp'>如何改变？唯有“消肿”。当时我军有400万人，机关庞大，官多兵少，官兵比例为1∶2.45。邓小平尖锐指出：“这样庞大的机关，不要说指挥打仗，跑反都跑不赢！”“精简整编，着重精简军以上的人员、干部和机构。精简整编，要搞革命的办法。一次搞好了，得罪人就得罪这一次。用改良的办法，根本行不通。”</p><p class='bbsp'><br/></p><p class='bbsp'>这次，邓小平拿定了主意，要采取革命性的行动――裁减员额100万！</p><p class='bbsp'><br/></p><p class='bbsp'>当时，我国面对的国际形势并不乐观，而裁军百万，意味着我军将减少四分之一的员额。这个决策的作出需要对国内外形势有准确的判断和科学的预见，需要有坚定的决心和超人的胆略。</p><p class='bbsp'><br/></p><p class='bbsp'>1985年6月4日，邓小平在军委扩大会议上举重若轻地伸出一个指头――中国人民解放军减少员额100万！</p><p class='bbsp'><br/></p><p class='bbsp'>决策“消肿”已属不易，实行起来更是难上加难。裁并机关、裁减部队、转隶关系、精简干部、提高合成程度、调整军队院校等一系列举措实行之后，到1990年，全军总员额降至319.9万人，共裁减103.9万人。人民解放军整编了若干个集团军，新组建了陆军航空兵、电子对抗兵等部队，同时加强了特种兵建设，海军、空军也加强了诸兵种的合成。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'>当1986年“国际和平年”来临时，裁军百万的战略性行动已总体完成。这第八次大裁军与以往不同，并不是简单的裁减人员，而是军队结构性的大调整，标志着我国国防和军队建设的指导思想已经由“准备早打、大打、打核战争”，转到围绕现代化建设这个中心全面提高指挥和打赢现代化战争能力的基础上来。事实证明，“减少一百万，实际上并没有削弱军队的战斗力，而是增强了军队的战斗力。”</p><p class='bbsp'><br/></p><p class='bbsp'>往事链接</p><p class='bbsp'><br/></p><p class='bbsp'><a target="_blank" href="http://img9.itiexue.net/2107/21072165.jpg"><img  src="http://img9.itiexue.net/2107/21072165.jpg" border="0" onload="bbimg(this)" border="0" alt="精兵之路：人民解放军历史上的10次大裁军" title="精兵之路：人民解放军历史上的10次大裁军（图5）"/></a></p><p class='bbsp'><br/></p><p class='bbsp'>中国铁道兵战士</p><p class='bbsp'><br/></p><p class='bbsp'>裁撤命令下在最前线</p><p class='bbsp'><br/></p><p class='bbsp'>自20世纪60年代后期以来，华北地区持续干旱，天津遭遇到历史上罕见的水荒，几千家工厂面临缺水而被迫停产，近800万人民群众的生活深受影响。1981年，党中央、国务院决定兴建引滦入津工程。工程中最关键、最复杂的是在河北省迁西县境内开凿一条高6.25米、宽5.7米、长9600米的穿山引水隧洞。工程总指挥、时任天津市市长的李瑞环把这个最艰险的任务交给了铁道兵第8师。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>1982年3月，第8师官兵们高唱着《铁道兵战士志在四方》，来到引水隧洞工地――景忠山下。这一地区石质复杂，塌方频繁，施工难度相当大。</p><p class='bbsp'><br/></p><p class='bbsp'>就在官兵们不畏困难，争先请战，夜以继日地进行正洞掘进时，5月23日，师长刘敏、政委张景喜奉命赶到北京参加铁道兵党委紧急扩大会议。谁也没想到，几天后，他们带回来一个令人心碎的消息：铁道兵并入铁道部，全体官兵脱下军装，集体转业。</p><p class='bbsp'><br/></p><p class='bbsp'>如同一声惊天霹雳，让原本激情万丈的队伍一下子乱了阵脚。一时间，要求调转、退伍的申请报告，不亚于以前的请战书，像雪片似的飞往连部、营部、团部；第40团报告零点至6点的班没人上；第36团工程进度直线下降；全团3个井3天进度不到1米；有的连队一天躺下不少“病号”……</p><p class='bbsp'><br/></p><p class='bbsp'>“绝不能给铁道兵脸上抹黑！”“为铁道兵写好光辉历史的最后一页！”通过一系列有效的思想动员，官兵们澄清了认识，放下了包袱，重新振奋了精神，继续坚守各自的工作岗位。</p><p class='bbsp'><br/></p><p class='bbsp'>1982年7月，总指挥部决定再缩短半年工期，确保引滦工程在1983年国庆节前通水。已没有退路的第8师决定倒排工期、背水一战。</p><p class='bbsp'><br/></p><p class='bbsp'>被称为“泥老虎”的9号洞是引水隧洞全线最“烂”的洞子，石块一抓一把，沾水就流，一碰即塌，工程期间先后塌方了360多次。官兵们水大不惧，塌方就抢，前面倒了，后面接着上。石质碎软不能打眼放炮，他们就一镐一镐地挖，一锹一锹地铲，甚至用手抠。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'>深秋的一天夜晚，9号洞再次发生塌方。为了不引发严重影响工期的“通天”塌方，第39团工程师王国军高喊一声：“是党员的跟我来，现在是我们为国献身的时候了！”说着，就扛起一根枕木冲向最危险的地方。在他的带动下，官兵们也纷纷扛着枕木冲进洞里。经过两个小时的拼死搏斗，100余名官兵流血负伤，终于避免了一起即将发生的特大塌方。</p><p class='bbsp'><br/></p><p class='bbsp'>尽管撤编在即，身上缠满急需解决的问题，但在祖国和人民需要的时候，第8师官兵还是将高昂的士气和革命干劲，同科学的态度相结合，于1983年7月1日，比预定时间提前3个月完成了施工任务，创造了轰动全国的“引滦精神”。</p><p class='bbsp'><br/></p><p class='bbsp'><a target="_blank" href="http://img10.itiexue.net/2107/21072166.jpg"><img  src="http://img10.itiexue.net/2107/21072166.jpg" border="0" onload="bbimg(this)" border="0" alt="精兵之路：人民解放军历史上的10次大裁军" title="精兵之路：人民解放军历史上的10次大裁军（图6）"/></a></p><p class='bbsp'><br/></p><p class='bbsp'>解放军演习采用先进信息化指挥平台</p><p class='bbsp'><br/></p><p class='bbsp'>科技强军下两度裁减</p><p class='bbsp'><br/></p><p class='bbsp'>――突出精兵、合成、高效，实现军队建设的“两个根本性转变”<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>20世纪90年代初，随着东欧剧变和苏联解体，冷战结束，国际战略格局开始向“一超多强”的多极化方向发展。同时科学技术的迅猛发展，高技术兵器在军事领域的广泛应用，已使现代战争形态发生了根本性变化，对军队现代化的质量要求大为提高。</p><p class='bbsp'><br/></p><p class='bbsp'>中央军委敏锐地察觉到这些新变化，在1995年12月的军委扩大会议上明确提出“科技强军”战略，依靠科技进步实现军队建设由数量规模型向质量效能型、由人力密集型向科技密集型转变，走有中国特色的精兵之路。1997年9月，江泽民在党的第十五届代表大会上宣布，3年内再裁减军队员额50万。到1999年底，人民解放军按照“精兵、合成、高效”的原则完成了第九次大裁军，调整改革了不合理的体制编制，增强了武器装备的高科技含量，解散了大部分守备部队，部分集团军建制的乙种师归武警部队，有20余万干部退出现役转业地方工作，军队总员额由300万降至250万。</p><p class='bbsp'><br/></p><p class='bbsp'>进入21世纪，随着现代科技特别是信息技术的发展，以信息技术为核心的世界新军事革命在更大范围和更深层次上呈现加速发展的态势，战争形态开始向信息化战争转变，江泽民提出了积极推进中国特色军事变革，努力完成人民军队机械化和信息化建设的双重历史任务，实现军队现代化建设跨越式发展的重大战略思想。2003年9月1日，江泽民在出席国防科学技术大学建校50周年庆典活动时宣布：在2005年前再裁减员额20万，使军队总规模降至230万。胡锦涛主持中央军委工作后，提出了在国防和军队建设中贯彻落实科学发展观，建设信息化军队、打赢信息化战争，拓展和深化军事斗争准备，走中国特色军民融合式发展路子等重大战略思想。这次裁军着重解决体制编制中存在的深层次问题，优化编成结构，使部队作战效能进一步提高；理顺重大比例关系，使领导指挥管理和保障机制得到改进；适度减少数量，使部队规模更趋精干；注重提高质量，使部队建设的科技含量明显增大。2005年底，第十次大裁军完成，有2万人转入武警机动部队，裁减非作战部队及机关和其他管理机构近18万人，其中管理军官6.4万余人。</p><p class='bbsp'><br/></p><p class='bbsp'>历史经验表明，强大的军队绝不是靠人头数量堆出来的。适度裁减军队员额，不仅不会降低战斗力，而且能够进一步优化结构，有效利用资源，提升作战效率。当前，世界新军事变革风起云涌，我军由机械化向信息化迈进任重道远，实现党在新形势下的强军目标任务艰巨。习近平主席作出裁军30万的重大决策，充分显示出中国珍爱和平、维护和平的决心和信心，也必将对人民解放军的现代化建设产生深远影响。</p><p class='bbsp'><br/></p>
+                </div>
+                <div class="shareBlog">
+                    <div class="bar_1" style="clear:both;">
+                        <div class="float_L share share-hover">
+                            <span class="float_L">分享：</span>
+                            <a href="javascript:void(0)" onclick="TX_share('sina');GaqPush('分享');" class="share-1 float_L" title="分享到新浪微博"></a>
+                            <a href="javascript:void(0)" onclick="TX_share('qblog');GaqPush('分享');" class="share-2 float_L" title="分享到腾讯微博"></a>
+                            <a href="javascript:void(0)" onclick="TX_share('qzone');GaqPush('分享');" class="share-3 float_L" title="分享到QQ空间"></a>
+                            <a title="分享到微信" class="share-4 float_L" onclick="TX_share('weixin');GaqPush('分享');" href="javascript:void(0)"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="keyword">
+                    <strong>延伸阅读：</strong>
+                    
+                </div>
+                <div class="gfMsg">
+                    <ul class="gfLeft" onmouseover="tagetLayer(this,$(this).next('ul'))" id="tlogdiv"></ul>       
+                    <!--*日志弹出 start-->
+                    <ul class="logList" id="tloglist"></ul>
+                    <script type="text/javascript">
+                        //如果是管理员
+                        $(function(){
+                            var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                            var logisheader = TX.BaseCookie.BBS_IsHeader();
+                            var strhtml="";
+                            if(loguserid>0)
+                            {
+                                strhtml= '<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">3</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                                if(2184455 == loguserid|logisheader)
+                                {
+                                    strhtml='<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">3</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                                }
+                            }
+                            else{
+                                strhtml= '<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">3</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                            }
+                            $("#tlogdiv").html(strhtml);
+                            $("#tloglist").html(strhtml);
+                        })
+                    </script>
+                    <!--日志弹出 end-->
+                    <dl class="gfRight">
+                        <dd class="spare">
+                            <a href="javascript:void(0)" onclick="daShangLayer(2184455,99280462)">
+                                打赏</a></dd>
+                        <dd class="favor">
+                            <a href="javascript:void(0);" onclick="TxBBS_FavoriteThread('10046653');">
+                                收藏文本</a></dd>
+                        <dd class="ding" id="digNum">
+                            <a href="javascript:void(0);" onclick="TxBBS_DigThread('10046653');"><em>
+                                0</em><span></span></a></dd>
+                    </dl>
+                </div>
+                <div class="reward textHide" id="adminAddSalary_99280462_10046653">
+                </div>
+                <div class="qianming">0</div>
+                <div class="lock-msg border hidden" id="threadnoreplyspan">
+                    本帖已经被管理员锁定，不能回复</div>
+                <div class="fastReply" id="commentsDiv">
+                    <script type="text/javascript">
+                        try {
+                            TxBBS_SetQuickReplyHtml("commentsDiv", 'False', '32', '10046653', '精兵之路：人民解放军历史上的10次大裁军');
+                        }
+                        catch (e) { }
+                    </script>
+                </div>
+                <!--*相关帖 start-->
+                <div class="aboutPost-v2" style="height: 340px; margin-top: 5px;">
+                    <h2 style="height: 50px; line-height: 50px; color: #38352C; font-size: 16px; font-weight: bold;">
+                        精兵之路：人民解放军历史上的10次大裁军相关文章</h2>
+                    <div class="abpLeft">
+                        <ul>
+                            <li><a onclick="GaqPush('相关推荐-相关文章')" title='解放军-你还能续写过去的辉煌吗' href='http://bbs.tiexue.net/post_3040452_1.html' target = '_blank'>解放军-你还能续写过去的辉煌吗</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='中国人民解放军建国后的精简整编（二）' href='http://bbs.tiexue.net/post_3196584_1.html' target = '_blank'>中国人民解放军建国后的精简整编（二）</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='我军由70个军变成18个军的历程' href='http://bbs.tiexue.net/post_3271424_1.html' target = '_blank'>我军由70个军变成18个军的历程</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='中国古代十大败将' href='http://bbs.tiexue.net/post_3388497_1.html' target = '_blank'>中国古代十大败将</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='专家：中国远程投送能力离不开老百姓' href='http://bbs.tiexue.net/post_3778771_1.html' target = '_blank'>专家：中国远程投送能力离不开老百姓</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='建国以后我军十次裁军情况简介' href='http://bbs.tiexue.net/post_3802700_1.html' target = '_blank'>建国以后我军十次裁军情况简介</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='人民解放军历史上的几件趣事' href='http://bbs.tiexue.net/post_3878078_1.html' target = '_blank'>人民解放军历史上的几件趣事</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='人民解放军由70军变成18个集团军的发展变革' href='http://bbs.tiexue.net/post_5301485_1.html' target = '_blank'>人民解放军由70军变成18个集团军的发展变革</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='台军中有打过仗的军人吗' href='http://bbs.tiexue.net/post_5731903_1.html' target = '_blank'>台军中有打过仗的军人吗</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="abpRight pp01">
+                        <ul class="pp">
+                            <li><a href="http://bbs.tiexue.net/post_3767903_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small0.itiexue.net/978/9789288.jpg" title="跨越2009演习是攻击越南前的模拟考" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_3767903_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>跨越2009演习是攻击越南前的模拟考</a></span></li><li><a href="http://bbs.tiexue.net/post_3893914_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small6.itiexue.net/1015/10152342.jpg" title="瞧瞧我下载军事视频目录与DVD军事光盘藏品" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_3893914_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>瞧瞧我下载军事视频目录与DVD军事光盘藏品</a></span></li><li><a href="http://bbs.tiexue.net/post_4192642_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small3.itiexue.net/1097/10977795.jpg" title="解密：解放军如何由70军个变成18个集团军" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_4192642_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>解密：解放军如何由70军个变成18个集团军</a></span></li><li><a href="http://bbs.tiexue.net/post_6089353_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small10.itiexue.net/1531/15318778.jpg" title="空军将领大规模调整 第一位“60后”副大军区将领产生" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_6089353_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>空军将领大规模调整 第一位“60后”副大军区将领产生</a></span></li><li><a href="http://bbs.tiexue.net/post_6594068_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small9.itiexue.net/1618/16188945.jpg" title="解放军历史上装备火炮最大口径是多少" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_6594068_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>解放军历史上装备火炮最大口径是多少</a></span></li><li><a href="http://bbs.tiexue.net/post_6957823_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small7.itiexue.net/1705/17056651.jpg" title="解放军陆军18个集团军身世大揭秘" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_6957823_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>解放军陆军18个集团军身世大揭秘</a></span></li>
+                        </ul>
+                    </div>
+                </div>
+                <!--相关帖 end-->
+            </div>
+            <!--*广告位 start-->
+            <div class="advert02" id="Baidu_BBSPostNormalV3ContentInfo"><script type="text/javascript" >BAIDU_CLB_fillSlot("92705")</script></div>
+            <!--广告位 end-->
+            <div class="date">
+                2015/11/20 11:26:29</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+</div>
+<!--*热门帖 start-->
+<div class="hotPost">
+    <div class="hotLeft border pp01">
+        <h3 class="tzTitle">
+            本版热门</h3>
+        <ul class="pp">
+            <li><a onclick="GaqPush('本版热门-焦点图')" target='_blank' title='新疆警方56天打掉1暴恐团伙，1人投降28人被歼！' href='http://bbs.tiexue.net/post_10046555_1.html'><img id='img1' src='http://small5.itiexue.net/2107/21071657.jpg' width='120' height='90' border=0></a><span><a onclick="GaqPush('本版热门-焦点图')" target='_blank' title='新疆警方56天打掉1暴恐团伙，1人投降28人被歼！' href='http://bbs.tiexue.net/post_10046555_1.html'>新疆警方56天打掉1暴恐团伙，1人投降28人被歼！</a></span></li>
+        </ul>
+        <ul class="textList">
+            <li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10021601_1.html' title='我兔反恐下重手往死里打不留活口先轰后烤......'>我兔反恐下重手往死里打不留活口先轰后烤......</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10020670_1.html' title='中国新式穿甲弹的威力多大？看完令人冷汗直流！'>中国新式穿甲弹的威力多大？看完令人冷汗直流！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10018698_1.html' title='中国最强步兵连现身非洲 曾吓退英王牌军'>中国最强步兵连现身非洲 曾吓退英王牌军</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10035519_1.html' title='湾湾又吓自己 中国二炮有个五千公里地下长城！[呆湾神贴 第51期]'>湾湾又吓自己 中国二炮有个五千公里地下长城！[呆湾神贴 第51期]</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10018760_1.html' title='中美俄巴预警机内部对比 中国连巴铁都比不过'>中美俄巴预警机内部对比 中国连巴铁都比不过</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10029266_1.html' title='中国装甲兵绝活：用坦克炮端水杯火控写汉字'>中国装甲兵绝活：用坦克炮端水杯火控写汉字</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10036440_1.html' title='美叫嚣21天打垮中国 结果令人大吃一惊'>美叫嚣21天打垮中国 结果令人大吃一惊</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10019713_1.html' title='俄罗斯首次进口中国武器装备！中俄军贸终于攻守易形了'>俄罗斯首次进口中国武器装备！中俄军贸终于攻守易形了</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10032507_1.html' title='[原创]阿玛塔――忽悠人的四代坦克'>[原创]阿玛塔――忽悠人的四代坦克</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10035194_1.html' title='IS招惹普京能有好下场？俄一天打掉1/20库存导弹'>IS招惹普京能有好下场？俄一天打掉1/20库存导弹</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10029285_1.html' title='[原创]闲聊解放军军体格斗术的发展'>[原创]闲聊解放军军体格斗术的发展</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10036457_1.html' title='中国外交部：中国公民被害 定将IS罪犯绳之以法'>中国外交部：中国公民被害 定将IS罪犯绳之以法</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10029537_1.html' title='国产电磁炮首度高调现身 秘密建造超50年'>国产电磁炮首度高调现身 秘密建造超50年</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10037447_1.html' title='日本叫嚣百天夺取北方四岛 俄：敢来就抹平你'>日本叫嚣百天夺取北方四岛 俄：敢来就抹平你</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10037164_1.html' title='巴铁警告西方：中国导弹技术已经世界一流'>巴铁警告西方：中国导弹技术已经世界一流</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10020294_1.html' title='兔子真丧心病狂!每个连都装备4支大口径反器材狙击步枪'>兔子真丧心病狂!每个连都装备4支大口径反器材狙击步枪</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10022131_1.html' title='请问普大帝还有票吗?我们也要看直播！'>请问普大帝还有票吗?我们也要看直播！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10035305_1.html' title='红旗9被毁约续：土方感谢中国承受压力却不离不弃'>红旗9被毁约续：土方感谢中国承受压力却不离不弃</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10029198_1.html' title='印度要求与中国分享新疆反恐情报'>印度要求与中国分享新疆反恐情报</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10019322_1.html' title='王师威武！台军装甲车坠湖淹死两士兵！'>王师威武！台军装甲车坠湖淹死两士兵！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10029057_1.html' title='二炮特种兵再次曝光，装备精良不输美帝'>二炮特种兵再次曝光，装备精良不输美帝</a></li>
+        </ul>
+    </div>
+    
+    <div class="hotRight border pp01">
+        <h3 class="tzTitle">
+            大区热门</h3>
+        <ul class="pp">
+            <li><a onclick="GaqPush('大区热门-焦点图')" target='_blank' title='兰德报告全文：美国空军全军齐上阵也帮不了台湾' href='http://bbs.tiexue.net/post_10046408_1.html'><img id='img1' src='http://small4.itiexue.net/2107/21071092.jpg' width='120' height='90' border=0></a><span><a onclick="GaqPush('大区热门-焦点图')" target='_blank' title='兰德报告全文：美国空军全军齐上阵也帮不了台湾' href='http://bbs.tiexue.net/post_10046408_1.html'>兰德报告全文：美国空军全军齐上阵也帮不了台湾</a></span></li>
+        </ul>
+        <ul class="textList">
+            <li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10019329_1.html' title='局座自黑预言准 嘲讽“猪队友” 疾如岛风炸队友[沙场点兵 第31期]'>局座自黑预言准 嘲讽“猪队友” 疾如岛风炸队友[沙场点兵 第31期]</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10029643_1.html' title='歼20机密遭军迷外泄 美1年花800亿也没有搞到'>歼20机密遭军迷外泄 美1年花800亿也没有搞到</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10021549_1.html' title='武汉陆上航母和055驱逐舰后视图曝光'>武汉陆上航母和055驱逐舰后视图曝光</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10021548_1.html' title='越渔船称遭数百中国船30年来最严重“攻击”！'>越渔船称遭数百中国船30年来最严重“攻击”！</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10029508_1.html' title='中国40万吨海上巨兽曝光 可起降数百架战机'>中国40万吨海上巨兽曝光 可起降数百架战机</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10035601_1.html' title='全是国宝级人物：中国军工因为他们更加强大'>全是国宝级人物：中国军工因为他们更加强大</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10037451_1.html' title='还是买了！中俄签署24架苏35合同 价值20亿美元'>还是买了！中俄签署24架苏35合同 价值20亿美元</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10029497_1.html' title='孟加拉一水的中国装备 它是中国武备强大的缩影'>孟加拉一水的中国装备 它是中国武备强大的缩影</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10019413_1.html' title='美媒：水炮成中国新杀手锏 美国巡南海很荒唐'>美媒：水炮成中国新杀手锏 美国巡南海很荒唐</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10029626_1.html' title='“狼兵突击队”反恐练兵使用拐弯枪'>“狼兵突击队”反恐练兵使用拐弯枪</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10028887_1.html' title='中国85式战车超科幻变身 美军气的直拍大腿'>中国85式战车超科幻变身 美军气的直拍大腿</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10029311_1.html' title='20张图告诉你原子弹爆炸有多恐怖（组图）'>20张图告诉你原子弹爆炸有多恐怖（组图）</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10021577_1.html' title='好科幻！！！国产倾转旋翼无人机首次亮相'>好科幻！！！国产倾转旋翼无人机首次亮相</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10018741_1.html' title='[原创]重温1998年《兵器知识》对歼十的报道'>[原创]重温1998年《兵器知识》对歼十的报道</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10019654_1.html' title='中国研制光电潜望镜：不让我参观 我自己造'>中国研制光电潜望镜：不让我参观 我自己造</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10019242_1.html' title='赚金★解放军为何喜欢长柄手榴弹？'>赚金★解放军为何喜欢长柄手榴弹？</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10019550_1.html' title='美国驱逐舰访问上海 日本网民凑啥热闹'>美国驱逐舰访问上海 日本网民凑啥热闹</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10035788_1.html' title='曾经的卫生兵讲诉我军装备的奇葩用处'>曾经的卫生兵讲诉我军装备的奇葩用处</a></li>
+        </ul>
+    </div>
+    
+</div>
+<!--热门帖 end-->
+
+<div class="advert03" id="Baidu_BBSPostNormalV3FirstFloorBottomAD">
+    <div id="Baidu_BBSPostNormalV3FirstFloorBottomAD_container"></div>
+</div>
+
+<div class="postContent border hotReply wyReply" style="display:none;">
+    <div class="postTit">
+        <h2>
+            网友回复</h2>
+        <span id="post_UserReplySort"></span>
+    </div>
+    <div id="PostReply_List">
+</div>
+</div>
+
+            <div class="mRow_1">
+                <p class="ftBtn textHide float_L">
+                    <a onclick="addPost();_gaq.push(['_trackEvent', 'bbs', 'clicked', '发帖按钮'])" href="javascript:void(0);" target="_self">我要发帖</a>
+                </p>
+                <div class="page">
+                    <p>
+                        总页数<span>1</span>第<span>1</span>页&nbsp;[共有<span>1</span>条记录]&nbsp;分页：
+                    </p>
+                    <a href="http://bbs.tiexue.net/post_10046653_1.html" class="pageHover">1</a>
+                    
+                </div>
+            </div>
+            <div class="advert03" id="Baidu_BBSPostNormalV3KuTuAD1"></div>
+            <div class="tabs">
+                <div class="tabsTop" id="replyUserMsg">
+                    &nbsp;对<span>精兵之路：人民解放军历史上的10次大裁军</span>回复
+                </div>
+                <script type="text/javascript">
+                    if (TX.BaseCookie.BBS_CurrentUserID() != 0) {
+                        $("#replyUserMsg").prepend("“" + TX.BaseCookie.TxBBS_CurrentUserName() + "”");
+                    }
+                </script>
+                <iframe id="ReplyFrame" name="ReplyFrame" frameborder="0" marginheight="0" marginwidth="0"
+                    scrolling="no" src="http://bbs.tiexue.net/reply/ReplyNew2.htm" width="970" height="630"></iframe>
+                <div class="lock-msg border hidden" id="noreplyspan">
+                    本帖已经被管理员锁定，不能回复
+                </div>
+            </div>
+            <!--*底部操作条 start-->
+            <div class="bot-operateBar border hidden" id="postbuttonadminpanel_99280462_10046653_0_0">
+            </div>
+            <!--底部操作条 end-->
+        </div>
+        <!--主要内容 end-->
+        <!--*脚注 start-->
+        
+<div class="footer" id="footer">
+    <script type="text/javascript">        CreateFooter("about");</script>
+    <span>|</span><a href="http://www.tiexue.net/map_index.htm" target="_blank">网站地图</a>
+    <script type="text/javascript">        CreateFooter("version");</script>
+    <script type="text/javascript">        CreateFooter("law");</script>
+    <script type="text/javascript">        CreateFooter("record");</script>
+</div>
+
+        <!--脚注 end-->
+
+    </div>
+    <script type="text/javascript">
+
+        try {
+            var effect = ('').split(',');
+            for (var i = 0; i < effect.length; i++) {
+                getEffect(effect[i]);
+            }
+        }
+        catch (e) { }
+
+        function getEffect(ef) {
+            if (ef.indexOf("bg") > -1) {
+                $(".signeffect-id").addClass("sign-bg");
+            }
+            else if (ef.indexOf("head") > -1) {
+                $(".signeffect-head").addClass("sign-ico").attr("title", "签到精英");
+            }
+        }
+        $(document).ready(function () {
+            try {
+                Tx_InitTopPostDigBar("contentsbelowbar", ThreadID, Subject, '0');
+            }
+            catch (e)
+            { }
+            TxBBS_AdminAndUserPanel();
+            TxBBS_PostShowAdminButtonPanel();
+        });
+    </script>
+            
+    <script type="text/javascript" src="http://s.itiexue.net/js/tiexue/statistic/bbs/bbsmonitor-u.js"></script>
+    <!--对联广告-->
+    <script type="text/javascript">
+        function adInfoShow() {
+            if (TX.BaseCookie.BBS_CurrentUserID() <= 0) {
+                var showJunphAd = false;
+                if (document.referrer != null) {
+                    var referrerInfo = document.referrer;
+                    if (referrerInfo.toLowerCase().indexOf("showpicclass_43_1.html") > 0) {
+                        showJunphAd = true;
+                    }
+                }
+                if(ForumID ==292|| ForumID ==293|| ForumID ==291|| ForumID ==294|| ForumID ==283 || ForumID == 219 ||ForumID == 79 ||ForumID == 260 || showJunphAd) {
+                    BAIDU_CLB_singleFillSlot("445637");
+                }
+                else {
+                    BAIDU_CLB_singleFillSlot("80066");
+                }
+            }
+        }      
+
+        if (islocked > 0) {
+            $("#ReplyFrame").height("0px");
+            $("#ReplyFrame").hide();
+            $("#noreplyspan").show();
+            $("#replyUserMsg").hide();
+        }
+    </script>
+    <script type="text/javascript">
+        if (TX.BaseCookie.BBS_CurrentUserID() <= 0) {
+            //            if (GetCookie()) {
+            //               // BAIDU_CLB_singleFillSlot("545690");
+            //            } else {
+            var showJunphAd = false;
+            if (document.referrer != null) {
+                var referrerInfo = document.referrer;
+                if (referrerInfo.toLowerCase().indexOf("showpicclass_43_1.html") > 0) {
+                    showJunphAd = true;
+                }
+            }
+            if (ForumID ==292|| ForumID ==293|| ForumID ==291|| ForumID ==294|| ForumID ==283 || ForumID == 219 || ForumID == 79 || ForumID == 260 || showJunphAd) {
+                BAIDU_CLB_singleFillSlot("535435");
+            }
+            else {
+                BAIDU_CLB_fillSlot("81336");
+            }
+            //            }
+        }        
+    </script>
+</body>
+</html>
+
+
+<!-- Created On 2015/11/20 11:38:27 -->
+<!-- CopyRight by TieXue -->

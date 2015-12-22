@@ -1,0 +1,508 @@
+<!--UINFO: http://www.linkshop.com.cn/club/dispbbs.aspx?rootid=685948&amp;page=1	length=42218&last_modified=0&time_saved=1450676998&charset=gb2312-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>阿里+苏宁：我们这个时代到底怎么了？_信息化管理_联商论坛</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta content="阿里 苏宁 论坛 资料" name="keywords">
+<meta name="mobile-agent" content="format=xhtml;url=http://m.linkshop.com/bbs/show.aspx?id=685948&page=1">
+<link rel="canonical" href="http://www.linkshop.com.cn/club/archives/2015/685948.shtml"/>
+<LINK href="style/ltzd.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="js/ssolforum.js"></script>
+<script type="text/javascript" src="inc/boardinfo.js"></script>
+</head>
+<body>
+<script language="javascript"> 
+            var boardid = '6'; var classid = '2';
+            var rootid = '685948';
+            var menustr = "<a href='announce.aspx?boardid=6'><img src=pic/newtopic.gif border=0> 发表主题</a><br />";
+            menustr += "<a href='announce.aspx?boardid=6&poll=1'><img src=pic/voteicon.gif border=0> 发起投票</a><br />";
+            menustr += "<a href='announce.aspx?boardid=6&offer=1'><img src=pic/offer.gif border=0> 我要求助</a>";
+	</script>
+<script type="text/javascript">
+	try
+	{
+	    if (navigator.userAgent.match(/Android/i) || (navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))
+           //|| (navigator.userAgent.match(/iPad/i))
+           ) 
+		{
+		   var matchs = window.location.toString().match(/(\/[0-9]+\.shtml)|(\??rootid=[0-9]+)/ig);
+		   var newsid=matchs[0].toString().match(/([0-9]+)/ig);
+		   if(newsid!=null)
+		   {
+		       window.location = 'http://m.linkshop.com/bbs/show.aspx?id=' + newsid + "&from=web";
+		   }
+		}
+	}
+	catch(e)
+	{
+
+	}
+</script>
+<link href="/club/style/main.css?t=2015" type="text/css" rel="stylesheet">
+<div class="mainNav">
+<div class="subMainNav">
+<div class="NavList_left"> <script>
+!window.jQuery && document.write('<script src=http://www.linkshop.com.cn/JS/jquery.js><\/script>');
+</script>
+<a href="http://www.linkshop.com.cn" target="_blank">联商首页</a>
+| <a href="http://www.linkshop.com.cn/web/index.htm" target="_blank">资讯中心</a>
+| <a href="http://www.linkshop.com.cn/web/Index_Jygl.htm" target="_blank">经营管理</a>
+| <a href="http://www.linkshop.com.cn/web/cinfo.html" target="_blank">信息化</a>
+| <a href="http://yx.linkshop.com.cn/" target="_blank">营销策划</a>
+| <a href="http://zhaopin.linkshop.com.cn/" target="_blank">零售招聘</a>
+| <a href="http://www.soupu.com" target="_blank">商业地产</a>
+| <a href="http://peixun.linkshop.com.cn/" target="_blank">知了壳</a>
+| <A href="http://join.linkshop.com.cn" target=_blank>特许加盟</a>
+| <a href="http://blog.linkshop.com.cn/" target="_blank">专栏</a>
+| <a href="http://bbs.linkshop.com.cn/" target="_blank">论坛</a>
+| <a href="http://www.linkshop.com.cn/video/" target="_blank">视频</a>
+</div>
+<div class="NavList_right"><span id="usertop"></span>
+<div class="popskin" id="pophint"></div>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="/club/loginchk.aspx?f=pop"></script>
+<script type="text/javascript" src="/js/chklogin.js"></script>
+<script type="text/javascript" src="http://www.linkshop.com.cn/js/menu.js"></script>
+<div class="width logo">
+<a href="/club/" class="logo_img"><img src="/club/images/logo.gif" alt="联商论坛" width="142" height="52" /></a>
+<div class="fL head-ico">
+<a class="sj-ico" href="/event/wap.shtml">手机联商</a>
+<br />
+<a class="wb-ico" href="http://weibo.com/linkshop">联商微博</a>
+</div>
+<div class="logo_select">
+<form name="shForm" id="shForm" method="get" action="http://s.linkshop.com.cn/" onsubmit="return startSearch()">
+<input type="hidden" name="encode" value="gb2312" />
+<input type="hidden" name="type" value="5" />
+<input class="textBox" type="text" defaultValue="请输入搜索关键词" value="请输入搜索关键词" id="keywords" name="key"/>
+<input class="submit-btn" type="submit" value="搜索" />
+</form>
+<script type="text/javascript">
+             $("#keywords").focus(function () {
+                 if ($(this).val() == $(this).attr("defaultValue")) {
+                     $(this).val("");
+                     $(this).css("color", "#000000");
+                 }
+             });
+             $("#keywords").blur(function () {
+                 if ($(this).val() == "") {
+                     $(this).val($(this).attr("defaultValue"));
+                     $(this).css("color", "#B9B9B9");
+                 }
+             });
+             function startSearch() {
+                 if ($("#keywords").val() == $("#keywords").attr("defaultValue")
+                || $("#keywords").val() == ""
+                ) {
+                     alert("请输入搜索词");
+                     return false;
+                 }
+                 else {
+                     return true;
+                 }
+             }
+         </script>
+</div>
+</div>
+<div class="width">
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">   
+          var adplace='9';
+          if (typeof (classid) != "undefined" && classid == "4") adplace = "z";
+
+     	  BAIDU_CLB_fillSlot("740896");  
+     		var baiduId="168413";  //广告代码 
+     	 </script>
+</div>
+<div class="width nav0">
+<div class="nav_L fL"><img src="/club/images/nav_L0.gif" /></div>
+<div class="nav_M0 fL">
+<div class="nav_M_t">
+<div class="nav_M_main fL">
+<a href="/club/">论坛首页</a>
+<a href="/club/offer.aspx">求助问答区</a>
+<a href="/club/down.htm">资料共享区</a>
+</div>
+<div class="nav_M_main_sub fR">
+<a href="/club/search.aspx?action=6">精华贴</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/club/listgood.aspx">骨贴</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/club/search.aspx?action=3">新帖</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/club/rule.aspx" target="_blank">论坛公约</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/club/luck/ld_award.aspx" target="_blank">联商币兑换</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/club/list.aspx?boardid=27" target="_blank">联商站务</a>
+</div>
+</div>
+</div>
+<div class="nav_R fR"><img src="/club/images/nav_R0.gif" /></div>
+</div>
+<div class="width nav" id="width_nav">
+<div class="nav_L fL"><img src="/club/images/nav_L.gif" /></div>
+<div class="nav_M fL">
+<div class="nav_M_t" id="nav_M_t">
+<div class="nav_M_Sub">
+<a href="/club/list.aspx?boardid=2">01百货店/Mall</a>
+<a href="/club/list.aspx?boardid=4">02便利店</a>
+<a href="/club/list.aspx?boardid=1">03超市</a>
+<a href="/club/list.aspx?boardid=12">04专业店</a>
+<a href="/club/list.aspx?boardid=5">05营销企划</a>
+<a href="/club/list.aspx?boardid=20">06零售图库</a>
+<a href="/club/list.aspx?boardid=6">07信息化</a>
+<a href="/club/list.aspx?boardid=7">08人力资源</a>
+<a href="/club/list.aspx?boardid=154">09特许加盟</a>
+<a href="/club/list.aspx?boardid=24">10采购供应</a>
+<a href="/club/list.aspx?boardid=25">11灌水休闲</a>
+</div>
+</div>
+</div>
+<div class="nav_R fR"><img src="/club/images/nav_R.gif" /></div>
+</div>
+<div class="width road ltzd_road">
+当前位置： <a href="./">联商论坛</a>&nbsp;-&nbsp;
+<a href="list.aspx?boardid=6">信息化管理</a>&nbsp;-&nbsp; 贴子
+</div>
+<div id="dispmain" class="width"><div class="ltzd_head"><a class="fatie fL" href="/club/announce.aspx?boardid=6"></a> <div class="menuitems"> </div>
+<div class='fR'> <span class="fL ltzd_top"><label>阅读：</label><font color="#ff5a00">471</font>&nbsp;&nbsp;|&nbsp;&nbsp;<label>跟帖：</label><font color="#ff5a00">2</font></span><span class="fL">
+<script language=javascript> 
+ ShowPagen(1, 1,'/club/dispbbs.aspx?rootid=685948&page=(d)', 0, 6); </script>
+</span> </div> </div>
+<div class="bhd_table_t ltzd_table_t"><span class="ltzd_titleimg fL"></span><h1 class="ltzd_jiaj fL">主题：阿里+苏宁：我们这个时代到底怎么了？</h1>
+<span class='fR'><span id='topicman' style='visibility: hidden;'><label>管理主题：</label>
+<a href=# onclick="javascript:if(confirm('确定要删除吗？本操作将删除本主题所有帖子！')){location.href='/club/manbbs.aspx?boardid=6&rootid=685948&action=删除';}else{return false;}">删除</a> | <a href='/club/manbbs.aspx?boardid=6&rootid=685948&action=锁定'>锁定</a> |
+<a href='/club/manbbs.aspx?boardid=6&rootid=685948&action=精华'>精华</a> | <a href='/club/manbbs.aspx?boardid=6&rootid=685948&action=固顶'>固顶</a> &nbsp; </span>
+<span id='topicman1' style='visibility: hidden;'> | <a href='/club/manbbs.aspx?boardid=6&rootid=685948&action=总固顶'>总固顶</a> | <a target=_blank href='http://tu.linkshop.cn/admin/albumAdd.aspx?rootid=685948'>图库</a> </span></span>
+</div>
+<a name="ssforum884199"></a>
+<div class="ltzd_body"> <div class="ltzd_L fL">
+<a href='/club/userinfo.aspx?uid=843910' target=_blank><h2>陈述根本</h2></a><a href='/club/userinfo.aspx?u=843910' target=_blank><img src="/club/uploadfiles/face/u-843910_20158.jpg" width="80" height="80" class="ltzd_L_main"></a>
+<div class="ltzd_L_part"> <script language=javascript> level(48,1);    
+    document.write('社区等级：'+levelname + '<br>' + levelimage  );    </script></div>
+<div class="ltzd_L_part"><span>积分:48&nbsp;</span> <span>联商币:18</span></div>
+<div class="ltzd_L_num"><label><a href='/club/twiterlist.aspx?f=look&u=陈根' target=_blank>0<br />关注</a> </label> <label><a href='/club/twiterlist.aspx?f=fan&u=陈根' target=_blank>1<br />粉丝</a></label>
+<label><a href='/club/search.aspx?action=8&keyword=%b3%c2%b8%f9' target=_blank>2<br />帖子</a></label> </div>
+<div class="ltzd_L_button"><a id='aj_884199' href='javascript:' onclick='lookuser(  this.id, "陈根");'>+ 加关注</a><a href='usersms.aspx?action=send&touser=陈根' target='sms'>发短信</a></div>
+</div>
+<div class="ltzd_R fL">
+<div class="ltzd_R_t">
+<span class="fL"> <label> 发表于 2015-08-18 11:36</label>&nbsp;&nbsp;|&nbsp;&nbsp; <a href='javascript:' onClick='window.location.href="/club/dispbbs.aspx?rootid=685948&author=陈根"'>只看他</a> </span>
+<span class="fR"> 楼主 </span>
+</div>
+<div class="ltzd_R_m"><p style="margin-left:0cm;text-indent:21.0pt;background:white;">
+<b>文<span>/</span>陈根（微信公众号：陈述根本）<span></span></b>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+8月<span>10</span>日下午，阿里巴巴集团宣布投资约<span>283</span>亿元人民币参与苏宁云商的非公开发行，占发行总股本的<span>19.99%</span>，成为苏宁云商的第二大股东；于此同时，苏宁云商将以<span>140</span>亿人民币认购不超过<span>2780</span>万股的阿里巴巴新发行股份，交易完成后，苏宁预计持有阿里巴巴<span>1.09%</span>股份。“苏宁与阿里的合作必将成为互联网<span>+</span>零售的划时代事件，我们也必将成为中国商业历史的书写者”。苏宁董事长张近东的愿景很美好，但更值得我们深思的是：这段姻缘结合对中国接下来的商业发展，到底是福还是祸？<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+<img data-original="/club/uploadFiles/2015/8/1811361355.png" src="/club/images/pic_loading.gif" class="zd_lazy"/>
+</p>
+<p align="center" style="text-align:center;background:white;">
+<span></span>
+</p>
+<h2>
+阿里<span>+</span>苏宁<span>=</span>两个世界的困境<span></span>
+</h2>
+<p style="text-indent:21.0pt;background:white;">
+根据马董（云）和张董（近东）各自在媒体前面的表述，双方经过两次会面就达成了“你中有我，我中有你”的无缝对接与合作，用时下的时髦话讲，那就是“有钱、任性”。而对于这次合作，我们可以理解为情投意合、互惠共赢；也可以理解为相互慰藉、共同取暖。无论怎么理解，经历了多年发展之后的阿里和苏宁，面对资本市场的优势显得越来越模糊。 <span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+<b>阿里的困境：<span></span></b>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+从线上走到线下，一直是阿里苦苦追寻的那个梦。就如马云所说：“阿里把大量精力投入到对线下企业的关注，因为我们相信一点，未来<span>20</span>、<span>30</span>年，像阿里巴巴这样的互联网公司如果不进入到线下，不和线下融合，是不会有未来的。”在<span>2012</span>年，淘宝在北京打造爱蜂潮项目，就有了<span>O2O</span>的想法，尽管当时叫<span>F2C</span>。但碍于两方面原因一直未能成功：一是当时的阿里尚没清晰的思路，也不愿意投入太多进行尝试；二是商家从内心来说是抵制的，没有人愿意投钱到爱蜂潮里做展示店，由此也就让这个项目成了
+“鸡肋”。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+而根据艾瑞咨询发布的<span>2014</span>年中国<span>B2C</span>购物网站交易规模市场份额数据，阿里旗下天猫凭借<span>61.4%</span>的绝对优势占据整个市场第一位，京东以<span>18.6%</span>位居其后。也就是说阿里凭借占有率在当前中国的电子商务交易领域处于“垄断”地位，而阿里要想继续保持这种优势，无非四条途径：一是继续不断放大占有率；二是拓宽线上线下的销售占比；三是吸纳线下线上大融合；四是将平台向国际推送。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+<b>继续放大占有率。</b>阿里继续将平台做大，然后形成<span>100%</span>的垄断，类似于谷歌占领着除中国与朝鲜之外的大数据搜索市场一样。但是，这对于缺乏核心、独特技术优势，仅靠商业整合模式前行的阿里来说，将是一个不可能完成的任务。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+<b>拓宽线上线下销售占比。</b>据统计，<span>2014</span>年国内消费市场实现全年消费品零售总额<span>26.2</span>万亿元，其中电子商务交易额（包括<span>B2B</span>和网络零售）达到<span>13</span>万亿元。这意味着电子商务业务已占领消费品零售业的半壁江山；而且还有继续拓宽的空间，但难度系数将会增大。尤其当电子商务送货上门的便捷服务让我们越来越懒的时候，很多人已经意识到“生命还得运动”，线下的逛街购物一来锻炼身体；二来感受买卖的乐趣。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+<b>将平台向国际推送。</b>作为一家进入世界<span>500</span>强的企业，将业务向国际推送，并赚全世界的钱，这是一种正常的企业行为。但就目前的情况来看，阿里整个平台都还缺乏核心技术的支持，平台国际化进展缓慢，致使这条路显然并不理想。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+<b>吸纳线下线上大融合。</b>剩下似乎只有这条路看起来还不错，让当前相对孤立的线上线下融合起来，同时在融合的过程中让自己也融合进去。而融合最好的办法就是找标杆进行强强联合，不仅可以给其他的“小弟”造成心理恐慌，还能制造出新的风口。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+<b>苏宁的困境：<span></span></b>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+苏宁易购，是苏宁于<span>2005</span>年组建的<span>B2C</span>部门，致力于电子商务的尝试。从<span>2005</span>年到<span>2015</span>年的这<span>10</span>个年头中，苏宁在苏宁易购项目上交了多少学费或许只有张总自己知道，可能说出来都是泪。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+而目前我们所能看到的局面是，虽然烧了这么多年的钱，苏宁易购在<span>B2C</span>的电子商务交易市场上也跻身于前三，但这第三的排位却只占了<span>3.2%</span>的市场份额；与大哥、二哥之间的差距，可谓望尘莫及。眼看靠自己的继续挣扎已然希望渺茫，倒不如抱个大腿倒点流量。<span></span>
+</p>
+<h2>
+难道这就是爱情吗？<span></span>
+</h2>
+<p style="text-indent:21.0pt;background:white;">
+阿里<span>+</span>苏宁，在发布会上就双方的合作秀了“恩爱”。但这“爱情”真的像说的那么美好吗？基于各自利益最大化的诉求，阿里和苏宁到底图的又是对方的什么呢？<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+<b>阿里入股苏宁图什么？<span></span></b>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+<b>1</b><b>、互联网金融。</b>尽管阿里旗下的蚂蚁金服发展迅猛，旗下的业务包括支付宝、支付宝钱包、余额宝、招财宝、蚂蚁小贷和网商银行等，但与苏宁的金融业务相比，两者之间还是存在着较大的差异化。苏宁于<span>2013</span>年初成立金融事业部，目前已涵盖互联网支付、供应链融资、保险代理、个人<span>/</span>对公理财、消费信贷等业务。从各自的业务版块上来看，两者之间一旦联手，几乎涵盖了当前国家各个层面允许从事的所有金融业务，而这其中所释放出来的市场将会是目前阿里市值的几百倍。<span></span>
+</p>
+<p style="text-indent:21.1pt;background:white;">
+<b>2</b><b>、物流。</b>2013年<span>5</span>月<span>28</span>日，阿里巴巴集团、银泰集团联合复星集团、富春集团、顺丰集团、三通一达（申通、圆通、中通、韵达），以及相关金融机构共同宣布，“中国智能物流骨干网”<span>(</span>简称<span>CSN)</span>项目正式启动，合作各方共同组建的“菜鸟网络科技有限公司”正式成立。“菜鸟”小名字大志向，其目标是通过<span>5</span>至<span>8</span>年的努力打造一个开放的社会化物流大平台，实现在全国任意一个地区都可以<span>24</span>小时送达的目标。从目前的实际情况来看，菜鸟并没有预想中的发展顺利，也没有解决最后一公里的问题，相反倒是京东在这方面取得了实质性的进展。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+物流不仅是关系电商最后一公里的问题，更是商业的价值潜力所在。<span>2014</span>年中国的<span>GDP</span>是<span>63.65</span>万亿，而这个数值是由千百个产业所组成，这其中最大的版块不是房地产，也不是医疗，而是物流。按照中科院的预测，<span>2015</span>年社会物流总费用将达到<span>10.4</span>万亿。这是一个什么概念？按照阿里巴巴公布的财报来看，其<span>2014</span>年平台上完成的商品成交总额为<span>1.68</span>万亿元人民币，那就相当于<span>6</span>个多阿里巴巴的年交易额总和。<span></span>
+</p>
+<p style="text-indent:21.1pt;background:white;">
+<b>3</b><b>、<span>O2O</span>。</b>根据双方合作的对外信息显示，签署战略协议后的阿里巴巴和苏宁云商，将整合双方资源，利用大数据、物联网、移动应用、金融支付等手段打造<span>O2O</span>移动应用产品和<span>O2O</span>运营模式；双方将尝试打通线上线下渠道，苏宁云商全国的<span>1600</span>多家线下门店、<span>3000</span>多家售后服务网点、<span>5000</span>个加盟服务商以及下沉到四五线城市的服务站将与阿里巴巴的线上体系对接。这对于阿里巴巴来说，是继续在国内做大市场份额的优选出路，即与线下商业进行充分融合。而且，在商品配送<span>O2O</span>环节，菜鸟物流也将和苏宁自有配送体系配合，提供上门安装、维修、退换货等售后服务。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+<b>苏宁入股阿里图什么？<span></span></b>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+<b>1</b><b>、流量。</b>苏宁选择阿里的第一因素图的就是阿里的线上流量。对于阿里来说，在国内占据着几乎处于垄断地位的电子商务交易份额，其中最核心的支撑就是流量。在这样的情况下，阿里要想进一步吸引流量，就得向传统的线下商业倒流量。而对于苏宁来说，缺的就是线上流量。所以苏宁<span>+</span>阿里，刚好可以把各自所想要的流量问题给解决了，谁也没坑谁，谁也没便宜了谁。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+<b>2</b><b>、互联网金融。</b>尽管苏宁在金融领域与阿里有着差异化的布局，但相比于蚂蚁金服来说，想象力还是小了很多。而且，苏宁金融一旦与阿里蚂蚁金服联手，其所释放出来的堪比上百个阿里巴巴市值的能量，显然用“巨大”来形容都还显得单薄了。而且我预测，苏宁和蚂蚁金服将很快展开合作。苏宁将借助于蚂蚁金服，以互联网的方式来对自己进行价值重塑。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+<b>3</b><b>、放大线下渠道价值。</b>资本市场是一个需要梦想的地方，而苏宁这么多年的互联网转型梦想已经让大部分人失去了信心，甚至对其庞大的线下重资产门店也不太看好。而按照苏宁发布的信息，截至目前，苏宁物流拥有<span>452</span>万平方米仓储面积，<span>4</span>个航空枢纽、<span>12</span>个自动化分拣中心、<span>660</span>个城市配送中心、<span>10000</span>个快递点，未来苏宁物流将成为菜鸟网络的合作伙伴，合作后的物流几乎覆盖全国所有<span>2800</span>个区县，服务阿里巴巴和苏宁，未来亦有望向第三方开放。这其中很核心的就是将本来已经在资本市场上失去价值放大点，或者说是让很多人看来是“鸡肋”的线下重资产，在找到阿里进行背书之后，瞬间秒变成为了未来商业模式，也就是<span>O2O</span>的核心资产。<span></span>
+</p>
+<h2>
+阿里<span>+</span>苏宁背后的野心<span></span>
+</h2>
+<p style="text-indent:21.0pt;background:white;">
+从阿里的布局来看，近期的投资并购并不在新兴产业或者科技领域，而更多的是将其触角伸向已经存在，并且在各自领域是第一的这些传统产业、企业，其中包括与海尔的联合。这次与苏宁的联合，尽管从表面上看是电子商务交易平台领域的第一与第三联合，但从本质上来看却是一场强强联合，也就是线上第一与线下第一的联合。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+对于<span>3C</span>家电领域来说，两者的联合几乎就是奔着垄断的野心去的。从这个层面来看，我认为这次的阿里<span>+</span>苏宁能够被记载进入历史的并不是它对于中国商业文明的贡献，而是一种破坏力，一种商业文明的倒退。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+当前被批评最多的毫无疑问就是那些处于垄断地位的国有企业，因为我们“深受”其垄断的折磨，消费者失去了话语权；由市场垄断带来的价格垄断，更是让消费者“深受其害”。着眼于市场化，尤其是互联网这种新兴开放的商业形态，我们干的事情却背离了“开放”的核心：一边批评着国有企业的垄断，一方面却寻找任何可以建立新垄断的机会；一边抨击着传统渠道的封闭性，一边却寻找一切可以进攻的机会来建立新的商业封闭性，还美其名曰打造闭环的生态圈。从目前中国互联网企业发展的路径来看，所有号称打造闭环生态圈的，其内心都是封建帝制主义的延续，希望在这个新的商业文明时代里建立一种新的垄断统治。<span></span>
+</p>
+<h2>
+我看到了一场民族浩劫<span></span>
+</h2>
+<p style="text-indent:21.0pt;background:white;">
+当前市场化的新商业垄断与国有企业垄断比起来，可以说破坏性更大。由阿里<span>+</span>苏宁所引发的新商业行为，在我看来，对于我们这个民族来说将会是一场浩劫。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+根据国家统计局社科文司高级统计师邓永旭说，<span> 2013</span>年全国共投入<span>R&amp;D</span>经费<span>11846 .6</span>亿元。而阿里<span>+</span>苏宁，为了一次商业端的合作投入了<span>423</span>亿元，达到了整个国家科研投入的<span>1/28</span>。我们造一艘航母也不过<span>30</span>亿美金，也就是<span>180</span>亿人民币左右，而为了一次商业的“垄断”却只需见两次面就豪砸了两艘多的航母进去。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+这些钱如果投向技术，哪怕是互联网技术研发，搞出个谷歌之类的新互联网技术，然后在美国资本市场再用美国人的钱来颠覆美国的市场，并开拓全球市场，这才是一个伟大的企业，才是一个具有民族脊梁的企业。作为创新标志的美国，其每年的风险投资额也就<span>200</span>到<span>300</span>亿美元的规模，而我们今天的互联网企业如果将这些钱都砸向于这些风险的科技探索领域，其对于整个中国科技进步的推动将是巨大的。但我们今天面对的更多的只是在已有商业领域买卖市场交易额，然后美其名曰叫改造，面对这种土豪秀，我有六个疑问：<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+1、为什么媒体不能报道企业在研发上投入了多少钱，他们为民族科技的创新付出了多少代价？为什么我们总是喜欢在这些“投机倒把”的商业行为，在这些烟火上这么热衷？<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+2、中国人为外国人拼命搞跨中国企业赚中国人的钱给外国人花，这是什么逻辑？难道有钱就能包养媒体，让舆论失去民族底线？<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+3、一个国家，一个企业如果没有技术创新，没有研发巨额投入，只靠出卖资源来获取生存，请问这个国家能强盛吗？<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+4、为什么不能拿这些钱去真正的帮助创业者，支持前沿技术探索者，为什么不能向谷歌一样拿这些钱去支持那些在前沿科技领域探索的高风险项目？<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+5、就算中国的互联网网企业土豪拥抱成功了，各自都建立了心目中的新商业垄断，如果没有可靠的，具有国际竞争力的产品在这些平台上出现，对于用户来说真的好吗？<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+6、如果有一天世界不再像今天这样和谐，那么请问凭借着当前我们在互联网<span>+</span>上雕花的行为，能有明天吗？<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+全世界的互联网企业与科技企业，或者是那些<span>500</span>强的巨头企业（中国的那些国有企业除外），哪家像中国的互联网企业一样<span>80%</span>以上的业务在国内，这难道就叫国际化？我写这篇文章并不是为了黑谁，或者为谁站台，只是做为民族的一员，冷静地看待这种现象。就以一家国人真正可以骄傲的企业华为来说，如今已有<span>65%</span>的营收来自于海外市场，而美国因为担心自身的国家安全而对其设置了壁垒，这才是骄傲，这才是一个民族的未来。相反，如果本国的商品缺乏国际竞争力，其结局就是我们有消费能力的国民一边在阿里巴巴的平台上买着外资品牌的商品，为外企创造效益；一边为阿里巴巴的平台创造财富以供美国投资者分红。最后剩下能够回报给那些不具备高消费能力国民的，就是低质、廉价的商品，这难道不是一场民族的浩劫吗？<span></span>
+</p>
+<h2>
+我佩服的两家美国公司<span></span>
+</h2>
+<p style="text-indent:21.0pt;background:white;">
+一家叫苹果，今天的中国企业如果能够像苹果公司一样，一边把成本的衣服脱掉站在全世界的舞台上给大家看，一边又有足够的底气告诉全世界的消费者，我就是最牛逼的技术，就要赚你这么多钱。这种依靠自身强大技术实力获得高溢价，并不断持续投入研发创造出更优秀技术的公司的一家值得尊重的公司，这是一个民族的骄傲。一家叫谷歌，如果我们今天的哪个企业也能像新谷歌给我们展示出来的项目架构一样，无底洞的投资于未知未来的技术，这种创新、前瞻、担当的精神才是民族的希望。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+回观国内，我们的阿里，有这个勇气吗？越观察，越让人失望。我们今天不少进入互联网领域，或者是鼓吹着所谓“互联网思维”的创业者或项目，基本都只停留在贸易端，然后借助于资本的力量来发起恶性“搅局”。那些所谓的生态圈，更像是一种封建帝制，想尽办法以自身的资本优势阻挡互联网向物联网演变，让互联网在中国未曾年轻就已老去。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+互联网企业，一边不断地给实体企业灌“迷魂汤”；一边不断地收编实体企业。如果是为了借助于互联网这一信息时代的技术来提升、改造实体企业，让他们变得更具有国际竞争力，这倒是一个民族的希望。但至今尚未听到哪家互联网公司收编实体企业是为了在其研发上追加投入多少钱，是为了给其注入资金研发更具有国际竞争力的产品。我们所能看到的都只是在商业方面的“虚假繁荣”，买销售额，买市场占有率，没听到在研发上，在人才引进上投了多少钱。没有技术驱动，依赖商业驱动的中国式互联网又能垄断到何时？<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+而今天的互联网企业，之所以还有在一些商业模式上获得成功的，核心关键是透支了前<span>30</span>年改革开放沉淀下来的这点微薄技术与制造家底，如果没有前<span>30</span>年的这种沉淀，今天不论是雷军，还是马云，如果让你到朝鲜去，随便鼓吹什么思维、什么理论，那都只是浮云。<span></span>
+</p>
+<h2>
+不确定时代中的迷失<span></span>
+</h2>
+<p class="MsoNormal" style="text-indent:21.0pt;background:white;">
+阿里和苏宁土豪相拥，结局是心心相印，还是同床异梦，还很难说。而我之所以会认为土豪的拥抱出现了迷失，跟最近张董（近东）的发言不无关系。张董表示，“我们今天开创的合作模式在全球范围来讲也是领先的，一旦我们在中国成功实践，也将可以进行全球复制，从而把互联网<span>+</span>的模式带向全球、助推中国品牌畅销全球。”且不论这个模式是不是领先，就拿全球复制这个事情来说，似乎过于乐观了点，因为很多商业生态是只适合在我们这样神奇的国度才能生存的，世界其他国家可能并不具备复制的土壤。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+从美国的发展来看，<span>Facebook</span>已经进入基于社交建立零售交易模式，并且正在全世界蔓延，这告诉我们，零售业的交易形态与载体正在发生着变化。未来的商业形态将不是线上，也不是线下，甚至也不是所谓的<span>O2O</span>，而是基于信息载体。可以说，未来的渠道形态，一定是围绕信息流展开的，只要有信息载体就会成为一种商业的渠道载体，一切的商业渠道都将随着信息流而化于无形之中。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+同时，在这场土豪的拥抱中，看似美好背后可能危机四伏。首先，如何平衡苏宁入驻之后，与其他已经在阿里平台上开设旗舰店的商家之间的利益关系。其次，如果天猫不能给苏宁在流量方面的倾斜和支持，那么对于苏宁来说就失去了意义；反之，那么对于天猫之前所建立的商业体系就会是一种“破坏”。而这种“破坏”很可能会逼着这些商家出走天猫平台，转向京东或其他的交易平台。<span></span>
+</p>
+<h2>
+我的呼吁<span></span>
+</h2>
+<p style="text-indent:21.0pt;background:white;">
+1、希望有关部门尽快建立互联网企业的垄断法案，并且能够有效执行。我们今天有一种不正常的现象出现，就是过去在互联网之外被认为不合规矩不合法的一些事物，只要沾上互联网的边，不能说合法，但至少没有被认定为非法。我们可以理解为对互联网创新的一种包容，但也可以理解为监管部门的不作为，不能有效引导产业的合理化发展。尤其是对于互联网企业当前这种新帝国垄断思维的强强联手，应该尽快出台相关的管理法案，以切实有效的引导资金向科技创新领域挺进，同时给予创新者一个可以生存的土壤空间。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+2、加强知识产权保护力度，对于大部分的创业者而言，或许你很辛苦地找到一个点子，费了很大的资金、心血研发了一项技术或者模式，并且获得了市场的认同，或者说引起了一定的市场反响。这些巨头就会借助于其资本的优势，直接对这些项目、领域发起“洗劫”，或者是直接砸钱抄袭，然后以资源、价格优势消灭创新者。这种知识产权保护的缺位，让创新缺乏了内在动力。<span></span>
+</p>
+<p style="text-indent:21.0pt;background:white;">
+3、引导媒体多报导企业的研发投入，不论是成功或是失败，都应该让更多的消费者知道实体企业在科技创新方面的努力，获得更多消费者的支持，这样的民族才是有希望的民族。<span></span>
+</p>
+<br /><table width=90% bgcolor=#eeeeee cellspacing=1><tr bgcolor=#F8F8F8><td style='padding:5px;'><b>附件下载区：</b> &nbsp; &nbsp;鼠标左键单击文件进行下载 <p>
+<font class=attlabel>附件：</font><img width=16 height=16 src=/club/img/filetypes/png.gif><a href=/club/downfile.aspx?nbr=141710&b=ssbbs1 target=_blank>QQ截图20150818004505.png</a> (183K) &nbsp;下载次数:2<br /></td></tr></table><span class="fR"></span>
+</div>
+<div class=textsign></div>
+<div class="ltzd_R_t ltzd_R_b"><span class=fL></span><span id=sharebbs> </span><span class=fR>
+<span class='bbsedit' name='陈根'> <a href=/club/changeAnn.aspx?boardid=6&rootid=685948&id=884199&page=1>编辑</a> | </span>
+<a href=/club/reannounce.aspx?id=884199&boardid=6&rootid=685948&act=quote>引用回复</a>
+| <a href="javascript:addFavorite('阿里+苏宁：我们这个时代到底怎么了？','http://www.linkshop.com.cn/club/archives/2015/685948.shtml')">收藏</a> | <span class='jinbi' style='display:none'></span> </span> </div>
+<div class=bbsad> <script language=javascript src=/club/js/dispadver.js></script></div>
+</div> </div>
+<a name="ssforum884238"></a>
+<div class="ltzd_body ltzd_body_dark"> <div class="ltzd_L fL">
+<a href='/club/userinfo.aspx?uid=802733' target=_blank><h2>穆pP</h2></a><a href='/club/userinfo.aspx?u=802733' target=_blank><img src="/club/uploadfiles/face/u-802733_20155.jpg" width="80" height="80" class="ltzd_L_main"></a>
+<div class="ltzd_L_part"> <script language=javascript> level(1832,1);    
+    document.write('社区等级：'+levelname + '<br>' + levelimage  );    </script></div>
+<div class="ltzd_L_part"><span>积分:1832&nbsp;</span> <span>联商币:974</span></div>
+<div class="ltzd_L_num"><label><a href='/club/twiterlist.aspx?f=look&u=穆pP' target=_blank>29<br />关注</a> </label> <label><a href='/club/twiterlist.aspx?f=fan&u=穆pP' target=_blank>5<br />粉丝</a></label>
+<label><a href='/club/search.aspx?action=8&keyword=%c4%c2%ddp%93P' target=_blank>118<br />帖子</a></label> </div>
+<div class="ltzd_L_button"><a id='aj_884238' href='javascript:' onclick='lookuser(  this.id, "穆pP");'>+ 加关注</a><a href='usersms.aspx?action=send&touser=穆pP' target='sms'>发短信</a></div>
+</div>
+<div class="ltzd_R fL">
+<div class="ltzd_R_t">
+<span class="fL"> <label> 发表于 2015-08-18 14:49</label>&nbsp;&nbsp;|&nbsp;&nbsp; <a href='javascript:' onClick='window.location.href="/club/dispbbs.aspx?rootid=685948&author=穆pP"'>只看他</a> </span>
+<span class="fR">2楼</span>
+</div>
+<div class="ltzd_R_m">前半部分还是不错的<span class="fR"></span>
+</div>
+<div class=textsign></div>
+<div class="ltzd_R_t ltzd_R_b"><span class=fL>
+<script language=javascript src=/club/js/dispadver1.js></script> </span><span class=fR>
+<span class='bbsman'><a href=/club/manbbs.aspx?id=884238&boardid=6&rootid=685948&page=1&action=设为骨贴>设为骨贴</a> | <a href=## onclick="return Delbbs(6,685948,884238,1)">删除</a> | </span>
+<span class='bbsedit' name='穆pP'> <a href=/club/changeAnn.aspx?boardid=6&rootid=685948&id=884238&page=1>编辑</a> | </span>
+<a href=/club/reannounce.aspx?id=884238&boardid=6&rootid=685948&act=quote>引用回复</a> </span> </div>
+</div> </div>
+<div class="bhd_page width ltzd_page"><a class="fatie fL" href="/club/announce.aspx?boardid=6"></a>
+<div class='fR'>
+<script language=javascript> 
+ ShowPagen(1, 1,'/club/dispbbs.aspx?rootid=685948&page=(d)', 0, 6); </script>
+<span class="huitop"><a href="#">回顶部</a></span> </div></div>
+<script language='javascript'> 
+ var isopen=1; 
+</script>
+</div>
+<br />
+<a name="bot"></a>
+<div class="width">
+<div id="fastann">
+<style>
+.fast { width:605px; height:410px; }	 
+.ke-icon-multiimage {
+   
+	background:url(/club/style/editor/themes/default/img.gif) no-repeat 0px -5px; 
+	width: 50px;  
+	height: 16px;
+} 
+.Submit { background:url(/club/images/reply.png) no-repeat; width:71px; height:32px;
+			 padding:0px;margin:6px; border:0px;  cursor:pointer;  } 
+			 
+.Submited { background:url(/club/images/reply.png) no-repeat; width:71px; height:32px;
+			 padding:0px;margin:6px; border:0px; filter:gray; cursor:wait;  } 
+</style>
+<div class="fast fL">
+<div style="maring-top:2px;margin-bottom:6px;">
+<script type="text/javascript">BAIDU_CLB_fillSlot("168413");</script>
+</div>
+<form name="Announce" id="Announce" onsubmit="return submitonce(this)" action="/club/reannounce.aspx" method="post" target="_parent">
+<INPUT type="hidden" name="boardid" value="">
+<INPUT type="hidden" name="rootid" value="">
+<INPUT type="hidden" name="action" value="quickhf">
+<script language=javascript>									 
+									  document.Announce.boardid.value=boardid;
+									  document.Announce.rootid.value=rootid;
+							 </script>
+<table width="100%" cellpadding="2" cellspacing=0>
+<TR bgcolor="#eaeaea" height="24">
+<TD> &nbsp; <b>快速回复</b> </TD>
+<td width=80><a href="javascript:location.href='/club/reannounce.aspx?boardid='+boardid+'&rootid='+rootid;">高级回复</a>
+</TR>
+<TR><TD>
+<div id="fastann_login">
+用户名：<input type="text" name="userid">
+&nbsp; 密码：<input type="password" name="userpassword">
+&nbsp; <a href="/club/reg.shtml" target=_blank><font color=#FF8A02><b>[注册]</b></a>
+</div>
+</TD>
+</TR>
+</table>
+<textarea id="Body" name="Body" style="width:600px;height:220px;"></textarea>
+<script type="text/javascript" src="/club/js/post.js"></script>
+<script charset="utf-8" src="/club/style/editor/kindeditor-min.js"></script>
+<script charset="utf-8" src="/club/style/editor/lang/zh_CN.js"></script>
+<script>
+       var editor;
+			KindEditor.ready(function(K) {
+				editor = K.create('textarea[name="Body"]', {
+					minWidth: 550, 
+					resizeType : 0,  
+					 cssData : 'body { font-size: 14px; }',
+					allowPreviewEmoticons : false,
+					allowImageUpload : true, 
+					items : [
+						'fontname', 'fontsize', '|', 'forecolor', 'bold', 'italic', 'underline',
+						'removeformat',   '|','link', 'emoticons', 'image', 'multiimage'],
+					afterCreate: function () {
+							K.ctrl(this.edit.doc, 13, function() {
+       						 ctlent();
+							 }); 
+					},
+					 uploadJson : '/club/upload.aspx',  
+					 imageSizeLimit: '2MB', 
+           allowFileManager : false
+
+				});
+			}); 
+
+	</script>
+<div class="fR">
+[Ctrl+Enter直接提交帖子] &nbsp;
+<INPUT type="submit" name="Submit" class="Submit" value="  ">
+<br /></div>
+</form> <br />
+</div>
+<div class="fR">
+<div id="gadinfo"></div>
+<script type="text/javascript">
+  setTimeout( "showgooglead()",2000); 
+  function showgooglead()
+  {
+		document.getElementById("gadinfo").innerHTML = "<iframe src='/club/adg.htm?id=" + rootid+"' width=336 height=285 frameborder=0 scrolling=no></iframe>";
+}
+</script>
+</div><br /> </div>
+<br />
+<script type="text/javascript" src="js/disp.js?t=201506031839"></script>
+<script type="text/javascript" src="js/jquery.lazyload.min.js"></script>
+<script type="text/javascript" src="js/outshare.js"></script>
+<script type="text/javascript">
+			    showshare("sharebbs", "http://m.linkshop.com/bbs/show.aspx?id=" + rootid);
+			    $("img.zd_lazy").show().lazyload({ effect: "fadeIn", threshold: 200 });
+
+	 		</script>
+<div style="clear:both"></div>
+<script type="text/javascript" src="http://static.linkshop.cn/js/sitestat.js"></script>
+<p align="center">联商网版权所有 &copy;2001-2015
+</p>
+<script language="JavaScript" src="/js/linkshopstat.js"></script>
+</div>
+</body>
+</html>

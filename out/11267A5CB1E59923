@@ -1,0 +1,369 @@
+<!--UINFO: http://guba.eastmoney.com/news,000875,231374293_1.html	length=41392&last_modified=0&time_saved=1450676874&charset=utf-8-->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>1214早间信息汇总_吉电股份(000875)股吧_东方财富网股吧</title>
+<meta content="1214早间信息汇总_吉电股份(000875)_吉电股份股吧_000875股吧_股吧_东方财富网股吧_吉电股份吧最新行情_股吧投资指南_吉电股份吧k线图分析_股吧行情分析" name="keywords">
+<meta content="1214早间信息汇总_吉电股份_股吧_东方财富网股吧_人气财经股吧_guba.eastmoney.com" name="description">
+
+<link rel="stylesheet" href="//gbfek.dfcfw.com/gubav5/css/news_c_e2e2b382cb.css" />
+<base target="_blank" />
+
+<script>
+	var barcode = "000875";
+	var stockcode = "0008752";
+	var code = "000875";
+	var topicid="231374293";
+	var zwuser = "牛强hou799";
+	var guba_type = "2";
+	var dis_wzc = false;
+	var stockname = "吉电股份";
+    var plqx=0;
+    
+	var OuterCode = "000875";
+    var Category="100";
+    var Division="1";
+    var Market="101";
+    var Type="200";
+    var QuoteCode="0008752";
+    var BarType="0";
+	var CodeWithMarket = "000875.sz";
+    var qq_code = "";var qq_code2 = "";
+    var topictype = 0;
+</script>
+</head>
+<body class="hlbody">
+<div id="header">
+	<div class="gbbody" id="headergbbody">
+		<div id="topnavindex"><a href="http://www.eastmoney.com/">东方财富网</a></div>
+		<ul id="topnav">
+			<li><a href="http://guba.eastmoney.com/">股吧首页</a></li>
+			<li><a href="//guba.eastmoney.com/jj.html">基金吧首页</a></li>
+			<li><a href="http://iguba.eastmoney.com/">我的股吧</a></li>
+			<li><a href="remenba.aspx?type=1">热门吧</a></li>
+			<li><a href="/ft_list.aspx">股吧访谈</a></li>
+			<!-- <li><a href="http://quote.eastmoney.com/favor/default.html">自选股行情</a></li> -->
+			<li><a href="http://js5.eastmoney.com/tg.aspx?ID=1698" target="_blank">手机版</a></li>
+			<!-- <li><a href="remenba.aspx?type=2">热门主题吧</a></li> -->
+		</ul>
+		<form method="GET" action="/search.aspx" id="topnavsearch">
+			<input type="text" name="t" id="topnavskey" placeholder="搜索 股票/讨论/用户" autocomplete="off" /><input type="submit" value=" " id="topnavsubmit" title="点击开始搜索" />
+			<div id="topnavsearchre">
+				<ul></ul>
+			</div>
+		</form>
+		<ul id="topnavper">
+			<li class="topbarhaslogin" id="topbarloginuserdiv" style="display:none;"><strong><span class="headerusername"></span></strong></li>
+			<li class="topbarhaslogin" style="display: none;"><span class="tnavsel">消息<em class="tnavselic"></em>
+				<div class="topnavdown">
+					<div class="topnavdownt">消息<em class="tnavselid"></em></div>
+					<ul class="topnavdownul topnavdownulmsgul">
+						<li><a href="http://iguba.eastmoney.com/replyme">&nbsp;&nbsp;查看新回复<em></em></a></li>
+						<li><a href="http://iguba.eastmoney.com/atmereply">&nbsp;&nbsp;查看新@我的<em></em></a></li>
+						<li><a href="http://iguba.eastmoney.com/myfans">&nbsp;&nbsp;查看新粉丝<em></em></a></li>
+						<li><a href="javascript:;" target="_self" class="alarm" data-type="1">&nbsp;&nbsp;股价提醒<em></em></a></li>
+						<li><a href="javascript:;" target="_self" class="alarm" data-type="2">&nbsp;&nbsp;公告提醒<em></em></a></li>
+						<li><a href="javascript:;" target="_self" class="alarm" data-type="3">&nbsp;&nbsp;研报提醒<em></em></a></li>
+						<li class="nobg"><a href="javascript:;" class="alarm" data-type="4" target="_self">&nbsp;&nbsp;数据提醒<em></em></a></li>
+					</ul>
+					</div>
+				</span>
+			</li>
+			<li class="topbarhaslogin" style="display:none;"><span class="tnavsel">设置<em class="tnavselic"></em>
+				<div class="topnavdown">
+					<div class="topnavdownt">设置<em class="tnavselid"></em></div>
+					<ul class="topnavdownul">
+						<li><a href="http://iguba.eastmoney.com/setting" target="_blank">个人设置</a></li>
+						<li><a href="http://passport.eastmoney.com/UpdatePass.EmUser" target="_blank">修改密码</a></li>
+						<li><a href="http://iguba.eastmoney.com/setting/privacy" target="_blank">隐私设置</a></li>
+						<li><a href="http://iguba.eastmoney.com/setting/message" target="_blank">消息设置</a></li>
+						<li><a href="http://iguba.eastmoney.com/jiav.aspx" target="_blank">V认证</a></li>
+						<li class="nobg"><a id="topbarlogoutlink" href="javascript:;" target="_self">退出</a></li>
+					</ul>
+					</div>
+				</span>
+			</li>
+			<li class="topbarlogin tnavselloginfix">您好，欢迎来股吧！  </li>
+			<li class="topbarlogin tnavsellogin"><a href="javascript:;" target="_self"><strong>登录/注册</strong></a>
+				<div id="headerlogin" class="topnavdown clearfix">
+					<div id="fast">
+						<div class="t">使用合作网站帐号登录</div>
+						<div class="b">
+							<a href="javascript:;" target="_self" class="headerlogintlink qqlogin"><em class="qqicon"></em>腾讯QQ帐号登录</a>
+							<a href="javascript:;" target="_self" class="headerlogintlink sinalogin"><em class="sinaicon"></em>新浪微博帐号登录</a>
+						</div>
+						
+					</div>
+					<div id="hlogin">
+						<div id="hlclose" onclick="$('#headerlogin').hide();">X</div>
+						<div class="timg"><a href="http://passport.eastmoney.com/PhoneReg.EmUser">5秒注册</a></div>
+						<div class="t">已有自选股、股吧、博客帐号，可直接登录</div>
+						<div id="hloginerror">&nbsp;</div>
+						<form method="post" action="" id="headnaviloginform" target="_self">
+							<div class="i"><label>登录名：<input type="text" class="hinput" placeholder="手机/邮箱名/用户名" id="husername" autocomplete="off" /></label></div>
+							<div class="i"><label>密　码：<input type="password" class="hinput" placeholder="请输入登录密码" id="hpassword" /></label></div>
+							<div class="i" id="hlvcodediv"><label>验证码：<input type="text" class="hinput3" placeholder="请输入验证码" id="hlvcode" /></label> <img src="" id="hlvcodeimg" title="点击更换验证码" /></div>
+							<div class="i">　　　　<input type="submit" value="登录" class="hinput2" id="hlformsubmit" /> &nbsp;　 <a href="http://passport.eastmoney.com/FindPwd.EmUser" class="hlink">忘记密码？</a></div>
+						</form>
+					</div>
+				</div>			
+			</li>
+		</ul>
+	</div>
+</div>
+
+<div class="gbbody"><div class="dh10"></div><iframe width="980" height="60" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=1048&op=1" ></iframe></div>
+
+<div id="headerban" class="gbbody">
+	<div id="headerbanlogo"><a href="/"><img src="images/gubahlogo.png" width="252" height="52" alt="股吧" /></a></div>
+	<div id="gbhsearch">
+		<form id="gbhscform">
+			<ul id="gbhsctab">
+				<li class="on">按吧名搜索</li>
+				<li>按内容搜索</li>
+				<li>按作者搜索</li>
+			</ul>
+			<input type="text" name="" id="gbhsckey" /><input type="submit" value="股吧搜索" id="gbhscsbm" />
+		</form>
+	</div>
+	<div id="gbhri">
+		热门：<a href="/list,000002.html">万科A吧</a> <a href="/list,000520.html">长航凤凰吧</a> <a href="/list,000629.html">攀钢钒钛吧</a> 
+	</div>
+</div>
+
+<div id="stockheader" class="gbbody">
+	<span id="stockif">
+		<span id="stockname" data-popstock="000875" data-poptype="1"><a href="/list,000875.html">吉电股份吧</a></span>
+	</span>
+	<span id="header_stock_btns"></span>
+	<div id="zjfw" class="zjfw"><ul><li class="zjfwdb">您最近访问的吧：</li><li><span id="baHistory"></span></li></ul></div>
+</div>
+<div class="zwheadbline gbbody"><div class="zwheadblineb"></div></div>
+<div class="gbbody">
+<div id="mainbody">
+	
+	<div class="zwheadpager">
+		<div class="zwhpager"></div>
+		<div class="zwhpagerr"><a href="list,000875.html">返回吉电股份吧&gt;&gt;</a></div>
+	</div>
+	<div id="zwmbti">
+		<div id="zwmbtili"><a href="http://js1.eastmoney.com/tg.aspx?ID=3979" target="_blank">[头条]三因素致A股变异</a></div>
+		<div id="zwmbtilr"></div>
+	</div>
+	
+	<div id="zwcontent" class="zwgudong">
+		
+		<div id="zwcontt">
+			<div id="zwconttphoto"><a href="http://iguba.eastmoney.com/7654094374876202" data-poptype="2" data-popper="7654094374876202"><img src="http://avator.eastmoney.com/qface/7654094374876202/50" width="50" height="50" class="userphoto" /></a></div>
+			<div id="zwconttb">
+				<div id="zwconttbn"><strong><a href="http://iguba.eastmoney.com/7654094374876202"  data-popper="7654094374876202" data-poptype="1">牛强hou799</a></strong>  <span class="influence" data-uid="7654094374876202"></span></div>
+                <div class="zwfbtime">发表于 2015-12-14 08:59:29 股吧网页版</div>                                                                                         
+				
+			</div>
+			<div id="zwconttbtns">
+				<a href="http://iguba.eastmoney.com/secr.aspx?code=000875&id=231374293" style="display:none;" id="dongmilink" class="graylink">董秘直通车</a>&ensp;<a href="javascript:;" target="_self" id="jubaolink" class="graylink">举报</a>
+			</div>
+		</div>
+		<div class="zwcontentmain">
+			
+			<div id="zwconttbt">1214早间信息汇总 </div>
+			<div id="zwconbody">
+			<div class="stockcodec">
+				【海外】周五道琼斯工业平均指数下跌1.77%，标准普尔500指数下跌1.94%，纳斯达克综合指数下跌2.21%；纽约商品交易所2月份交割的黄金期货价格上涨0.4%，布伦特原油期货价格下跌4.5%。<br>巴黎大会通过全球气候里程碑式协定<br>IBM将开发虚拟医生 用人工智能治疗糖尿病<br>俄能源部：俄气与中石油尚未商定西线合同<br>投行称苹果明年或进行大规模收购<br>印度连续成日企眼中最具潜力投资对象国<br>韩欧自贸协定将于13日全面生效<br>联合国下调今年全球经济增长预估至2.4%<br>安倍启程访印 欲出口日本新干线和核电站<br>美国第三季度家庭财富缩水1.23万亿美元<br>外媒：人民银行或进一步扩大黄金储备<br>美国11月联邦政府预算赤字扩大至650亿美元<br>世贸组织第十届部长级会议将于15-18日举行<br>  【国内】<br>机器视觉掀人工智能风暴 概念股望站上风口<br>美联储议息 全球金融市场将迎来最重要一天<br>中央经济工作会议和全国城市工作会议将召开<br>连维良：电力、石油等竞争性环节明年将真正放开<br>两大航运集团实施重组 央企改革进入加速期<br>巴黎气候大会达成新协议 关注环保板块<br>健康险税优明年1月1日落地 将迎来黄金发展期<br>中药国际化提速 行业将迎新增长<br>集成电路国家基金支持加码 行业国产化空间巨大<br>华龙一号又一示范项目开工在即 英国核电或将采用该技术<br>复星集团：不排除管理层增持的可能<br>梁信军：郭广昌在上海配合调查 公司没问题<br>深证成指等指数调整样本股 深市代表性突显<br>恒大世俱杯2-1逆转美洲 半决赛将战巴萨<br>京津冀三地将建大数据走廊<br>统计局：11月消费品市场继续回升 网售贡献较大<br>统计局：全国商品房销售增速小幅提高<br>统计局：解读11月份工业生产增速回升原因<br>11月份社会消费品零售总额增长11.2%<br>1-11月商品房销售额增长15.6%<br>1-11月全国固定资产投资增长10.2%<br>统计局：11月规模以上工业增加值增长6.2%<br>我国2020年将出现逾60亿人次的旅游市场。<br>【个股信息：利好】<br>股东增持: <a href="http://quote.eastmoney.com/SH600343.html">航天动力</a>600343(第二大股东发动机厂增持5000股)，<a href="http://quote.eastmoney.com/SH600620.html">天宸股份</a>600620(控股股东一致人增持100万股)，<a href="http://quote.eastmoney.com/SH600715.html">*ST松辽</a>600715(第二大股东耀莱文化累计增持246.73万股)。<br>中标: <a href="http://quote.eastmoney.com/SZ300295.html">三六五网</a>300295(获得开展互联网科技小额贷款资质)。<br>获得资格认证: 深天马Ａ000050(公司通过高新技术企业重新认定)，陕国投Ａ000563(以固有资产从事股权投资业务资格获陕西银监局核准)，<a href="http://quote.eastmoney.com/SZ002289.html">宇顺电子</a>002289(收到高新技术企业证书)，<a href="http://quote.eastmoney.com/SZ002398.html">建研集团</a>002398(子公司取得工程勘察资质证书（甲级）)，<a href="http://quote.eastmoney.com/SZ002619.html">巨龙管业</a>002619(通过高新技术企业备案)，<a href="http://quote.eastmoney.com/SZ002660.html">茂硕电源</a>002660(茂硕新能源获得高新技术企业证书)，<a href="http://quote.eastmoney.com/SZ300154.html">瑞凌股份</a>300154(通过高新技术企业重新认定)，<a href="http://quote.eastmoney.com/SZ300252.html">金信诺</a>300252(获得《高新技术企业证书》)，<a href="http://quote.eastmoney.com/SZ300358.html">楚天科技</a>300358(子公司获得高新技术企业认定)，<a href="http://quote.eastmoney.com/SZ300389.html">艾比森</a>300389(通过国家高新技术企业复审)，<a href="http://quote.eastmoney.com/SH600867.html">通化东宝</a>600867(被认定为国家技术创新示范企业)。<br>申请贷款: <a href="http://quote.eastmoney.com/SZ002416.html">爱施德</a>002416，<a href="http://quote.eastmoney.com/SZ300267.html">尔康制药</a>300267，<a href="http://quote.eastmoney.com/SZ300419.html">浩丰科技</a>300419，<a href="http://quote.eastmoney.com/SZ300452.html">山河药辅</a>300452，<a href="http://quote.eastmoney.com/SZ300467.html">迅游科技</a>300467，<a href="http://quote.eastmoney.com/SH600108.html">亚盛集团</a>600108，<a href="http://quote.eastmoney.com/SH600962.html">*ST中鲁</a>600962。<br>收到财政补贴: <a href="http://quote.eastmoney.com/SZ000875.html">吉电股份</a>000875(收到2483万专项用于环保成本投入补助资金)，<a href="http://quote.eastmoney.com/SZ002092.html">中泰化学</a>002092(子公司收到投资补贴资金474万元)，<a href="http://quote.eastmoney.com/SZ002149.html">西部材料</a>002149(子公司获得国家补助资金3672万元)，卫 士 通002268(收到2亿元国有资本经营预算资金)，<a href="http://quote.eastmoney.com/SZ002541.html">鸿路钢构</a>002541(收到扶持企业发展资金共计1451万元)，<a href="http://quote.eastmoney.com/SZ300161.html">华中数控</a>300161(收到政府补助经费450.3万元)，<a href="http://quote.eastmoney.com/SH603009.html">北特科技</a>603009(获得3112万元专项项目资金补助)。<br>签署合作协议: <a href="http://quote.eastmoney.com/SZ000566.html">海南海药</a>000566(与中日友好医院签订战略合作框架协议)，<a href="http://quote.eastmoney.com/SZ002059.html">云南旅游</a>002059(拟签署合作设立100亿元旅游产业基金)，<a href="http://quote.eastmoney.com/SZ002121.html">科陆电子</a>002121(与LG化学签署合资经营意向书)，<a href="http://quote.eastmoney.com/SH600084.html">中葡股份</a>600084(与中非信银签署了有限合伙协议)。<br>举牌: 金 融 街000402(安邦系举牌<a href="http://quote.eastmoney.com/SZ000402.html">金融街</a> 持股比例达25%)，<a href="http://quote.eastmoney.com/SH600694.html">大商股份</a>600694(获安邦系举牌 持股比例达5%)，<a href="http://quote.eastmoney.com/SH600697.html">欧亚集团</a>600697(获安邦系首度“举牌”)。<br>增持计划: <a href="http://quote.eastmoney.com/SZ300278.html">华昌达</a>300278(总裁陈泽计划3个月内增持不少于168万股)，<a href="http://quote.eastmoney.com/SH600428.html">中远航运</a>600428(控股股东中远集团计划12个月内增持不超过总股本的1%)，<a href="http://quote.eastmoney.com/SH601919.html">中国远洋</a>601919(控股股东中远集团计划12个月内增持不超过总股本的2%)。<br>产品获得认证: <a href="http://quote.eastmoney.com/SZ002407.html">多氟多</a>002407(子公司红星牌厢式运输车入选工信部推荐车型目录)，<a href="http://quote.eastmoney.com/SH600169.html">太原重工</a>600169(产品获德国铁路公司供应商资质认证)。<br>重大合同中标: <a href="http://quote.eastmoney.com/SZ002743.html">富煌钢构</a>002743(中标约8亿元宁夏生态纺织产业示范园区PPP模式项目)，<a href="http://quote.eastmoney.com/SH600284.html">浦东建设</a>600284(中标2.85亿元商品房项目工程)。<br>股权转让: <a href="http://quote.eastmoney.com/SZ002637.html">赞宇科技</a>002637(拟向子公司转让两家检测公司股权)，<a href="http://quote.eastmoney.com/SH601888.html">中国国旅</a>601888(股东华侨城转让公司5271.7万股股份)。<br>授予登记完成: <a href="http://quote.eastmoney.com/SZ002771.html">真视通</a>002771，<a href="http://quote.eastmoney.com/SZ300367.html">东方网力</a>300367。<br>聘任重要高管: <a href="http://quote.eastmoney.com/SH600462.html">石岘纸业</a>600462(聘任朱炎新为总经理)，<a href="http://quote.eastmoney.com/SH600860.html">京城股份</a>600860(聘任陈长革担任总经理)。<br>融资租赁: <a href="http://quote.eastmoney.com/SZ000158.html">常山股份</a>000158，<a href="http://quote.eastmoney.com/SH600005.html">武钢股份</a>600005。<br>收回借款: <a href="http://quote.eastmoney.com/SZ002459.html">天业通联</a>002459(收回委托贷款本金3亿元及利息收入1385.83万元)。<br>实际控制人变更: <a href="http://quote.eastmoney.com/SZ300295.html">三六五网</a>300295(邢炜不再作为公司实际控制人成员)。<br>接受控股股东财务资助: <a href="http://quote.eastmoney.com/SH600828.html">成商集团</a>600828(子公司接收控股股东深圳茂业商厦公司6亿元财务资助)。<br>承诺不减持: <a href="http://quote.eastmoney.com/SZ002617.html">露笑科技</a>002617(控股股东露笑集团等承诺六个月内不减持公司股份)。<br>公布员工持股计划: <a href="http://quote.eastmoney.com/SZ300239.html">东宝生物</a>300239(拟推第一期员工持股计划)。<br>发布新产品: <a href="http://quote.eastmoney.com/SZ002053.html">云南盐化</a>002053(研发出系列新品种食盐)。<br>对内出借资金: <a href="http://quote.eastmoney.com/SZ002449.html">国星光电</a>002449。<br>签订合同: <a href="http://quote.eastmoney.com/SZ002627.html">宜昌交运</a>002627(子公司签订项目土地一级开发合同)。<br>重要高管变更: <a href="http://quote.eastmoney.com/SH600749.html">西藏旅游</a>600749(聘任欧阳旭为总经理)。<br>对外提供资助: <a href="http://quote.eastmoney.com/SZ002305.html">南国置业</a>002305。<br>公布股权激励计划: <a href="http://quote.eastmoney.com/SH600807.html">天业股份</a>600807(拟推2800万股限制性股票激励计划)。<br>拟中标: <a href="http://quote.eastmoney.com/SH603616.html">韩建河山</a>603616(拟中标8.86亿元湖北省鄂北地区水资源配置工程)。<br>取得知识产权: <a href="http://quote.eastmoney.com/SZ002604.html">龙力生物</a>002604(取得1发明专利)。<br>贷款延期: <a href="http://quote.eastmoney.com/SH600391.html">成发科技</a>600391(子公司2100万元委托贷款到期 展期一年)。<br>签订重大合同: <a href="http://quote.eastmoney.com/SH600715.html">*ST松辽</a>600715(子公司下属公司与<a href="http://quote.eastmoney.com/SZ300027.html">华谊兄弟</a>等签订影片发行协议)。<br>高管买入: <a href="http://quote.eastmoney.com/SZ002440.html">闰土股份</a>002440(副董事长阮加春合计增持55.54万股)。<br>土地收储: <a href="http://quote.eastmoney.com/SZ000897.html">津滨发展</a>000897(子公司闲置土地被1.4亿元收回)。<br>  【个股信息：利空】<br>董事离职: <a href="http://quote.eastmoney.com/SZ000031.html">中粮地产</a>000031(独立董事李曙光辞职)，粤电力Ａ000539(独立董事丁友刚辞职)，<a href="http://quote.eastmoney.com/SZ000718.html">苏宁环球</a>000718(独立董事韩顺平辞职)，<a href="http://quote.eastmoney.com/SZ000739.html">普洛药业</a>000739(独立董事潘亚岚辞职)，<a href="http://quote.eastmoney.com/SZ000783.html">长江证券</a>000783(独立董事龙翼飞辞职)，<a href="http://quote.eastmoney.com/SZ000970.html">中科三环</a>000970(独立董事王瑞华辞职)，粤 水 电002060(独立董事张圣平辞职)，<a href="http://quote.eastmoney.com/SZ002065.html">东华软件</a>002065(独立董事耿建新辞职)，<a href="http://quote.eastmoney.com/SZ002289.html">宇顺电子</a>002289(董事魏捷等辞职)，<a href="http://quote.eastmoney.com/SZ002411.html">九九久</a>002411(独立董事贾叙东辞职)，<a href="http://quote.eastmoney.com/SZ002522.html">浙江众成</a>002522，<a href="http://quote.eastmoney.com/SZ002644.html">佛慈制药</a>002644(独立董事赵元丽辞职)，<a href="http://quote.eastmoney.com/SZ300015.html">爱尔眼科</a>300015(独立董事曾德明辞职)，<a href="http://quote.eastmoney.com/SZ300055.html">万邦达</a>300055(独立董事杨学志辞职)，<a href="http://quote.eastmoney.com/SZ300443.html">金雷风电</a>300443(独立董事赵国群辞职)，<a href="http://quote.eastmoney.com/SH600115.html">东方航空</a>600115(独立董事季卫东辞职)，<a href="http://quote.eastmoney.com/SH600120.html">浙江东方</a>600120(独立董事顾国达辞职)，<a href="http://quote.eastmoney.com/SH600506.html">香梨股份</a>600506(独立董事李晓辞职)，<a href="http://quote.eastmoney.com/SH600549.html">厦门钨业</a>600549(独立董事张深根辞职)，<a href="http://quote.eastmoney.com/SH600782.html">新钢股份</a>600782(独立董事杨天钧辞职)，<a href="http://quote.eastmoney.com/SH600837.html">海通证券</a>600837(独立董事吕长江辞职)，<a href="http://quote.eastmoney.com/SH600961.html">株冶集团</a>600961(独立董事曾德明辞职)，<a href="http://quote.eastmoney.com/SH601998.html">中信银行</a>601998(独立董事袁明辞职)，<a href="http://quote.eastmoney.com/SH603188.html">亚邦股份</a>603188(独立董事陈强辞职)，<a href="http://quote.eastmoney.com/SH603828.html">柯利达</a>603828(独立董事刘春林辞职)。<br>监事离职: <a href="http://quote.eastmoney.com/SZ300346.html">南大光电</a>300346(监事贾叙东辞职)，<a href="http://quote.eastmoney.com/SH600462.html">石岘纸业</a>600462(监事孙玉菊辞职)，<a href="http://quote.eastmoney.com/SH600805.html">悦达投资</a>600805(监事会主席陈剑明离职)。<br>经营数据小幅下滑: <a href="http://quote.eastmoney.com/SZ000951.html">中国重汽</a>000951(前11月累计销售6.07万辆 同比下降18.94%)，<a href="http://quote.eastmoney.com/SZ002714.html">牧原股份</a>002714(11月销售生猪15.6万头 环比减少7.69%)。<br>接受调查: 奥 特 迅002227(涉嫌违规接受证监会调查)。<br>处罚决定: <a href="http://quote.eastmoney.com/SZ002042.html">华孚色纺</a>002042(收到安徽证监局行政监管措施决定书)。<br>财务总监离职: <a href="http://quote.eastmoney.com/SZ002092.html">中泰化学</a>002092(财务总监张霞辞职)。<br>董事长离职: <a href="http://quote.eastmoney.com/SH600076.html">青鸟华光</a>600076(董事长王殿斌辞职)。<br>协议终止: <a href="http://quote.eastmoney.com/SZ002414.html">高德红外</a>002414(与华泰联合证券签订终止保荐协议)。<br>  【个股信息：中性】董事变更: <a href="http://quote.eastmoney.com/SZ000650.html">仁和药业</a>000650(提名张自强为董事候选人)，<a href="http://quote.eastmoney.com/SZ000999.html">华润三九</a>000999(提名张立强、温泉、翁菁雯为董事候选人)，<a href="http://quote.eastmoney.com/SZ300131.html">英唐智控</a>300131(提名甘礼清为董事候选人)，<a href="http://quote.eastmoney.com/SZ300140.html">启源装备</a>300140(提名李增福为董事候选人)，<a href="http://quote.eastmoney.com/SZ300255.html">常山药业</a>300255(提名高树华、刘彦斌等为独立董事候选人)，<a href="http://quote.eastmoney.com/SH600062.html">华润双鹤</a>600062，<a href="http://quote.eastmoney.com/SH600076.html">青鸟华光</a>600076，<a href="http://quote.eastmoney.com/SH600418.html">江淮汽车</a>600418(选举潘学模为独立董事候选人)，<a href="http://quote.eastmoney.com/SH600531.html">豫光金铅</a>600531，<a href="http://quote.eastmoney.com/SH600558.html">大西洋</a>600558(提名李欣雨等为非独立董事候选人)，<a href="http://quote.eastmoney.com/SH600601.html">方正科技</a>600601，<a href="http://quote.eastmoney.com/SH600678.html">四川金顶</a>600678，<a href="http://quote.eastmoney.com/SH603015.html">弘讯科技</a>603015(提名温学礼为独立董事)。 聘任高管: <a href="http://quote.eastmoney.com/SZ000875.html">吉电股份</a>000875(聘任赵民为董秘)，<a href="http://quote.eastmoney.com/SZ002522.html">浙江众成</a>002522(提名俞毅为独立董事候选人)，<a href="http://quote.eastmoney.com/SH600209.html">罗顿发展</a>600209(聘任宁艳华为副总经理)，<a href="http://quote.eastmoney.com/SH600378.html">天科股份</a>600378(聘任龙崇军等为副总)，<a href="http://quote.eastmoney.com/SH600805.html">悦达投资</a>600805(聘任王咏柳等为副总裁)，<a href="http://quote.eastmoney.com/SH600848.html">上海临港</a>600848(改聘邓睿宗为财务负责人)，<a href="http://quote.eastmoney.com/SH600980.html">北矿磁材</a>600980(聘任冉红想为董秘)，<a href="http://quote.eastmoney.com/SH601969.html">海南矿业</a>601969(聘任颜区涛为财务总监)。 经营活动公告: <a href="http://quote.eastmoney.com/SZ002416.html">爱施德</a>002416，<a href="http://quote.eastmoney.com/SH600546.html">山煤国际</a>600546，<a href="http://quote.eastmoney.com/SH601117.html">中国化学</a>601117，<a href="http://quote.eastmoney.com/SH601318.html">中国平安</a>601318。 员工持股计划进展: <a href="http://quote.eastmoney.com/SZ000639.html">西王食品</a>000639，<a href="http://quote.eastmoney.com/SZ002220.html">天宝股份</a>002220，<a href="http://quote.eastmoney.com/SZ002375.html">亚厦股份</a>002375，<a href="http://quote.eastmoney.com/SZ002418.html">康盛股份</a>002418。 股东权益变动: <a href="http://quote.eastmoney.com/SZ000541.html">佛山照明</a>000541，<a href="http://quote.eastmoney.com/SZ000595.html">宝塔实业</a>000595，<a href="http://quote.eastmoney.com/SZ002092.html">中泰化学</a>002092。 监事变更: <a href="http://quote.eastmoney.com/SZ300255.html">常山药业</a>300255(选举邓艳娜担任职工监事)，<a href="http://quote.eastmoney.com/SH600558.html">大西洋</a>600558(选举李雪等为职工监事)，<a href="http://quote.eastmoney.com/SH603806.html">福斯特</a>603806。 股东大会通过高管变更议案: <a href="http://quote.eastmoney.com/SZ000910.html">大亚科技</a>000910，<a href="http://quote.eastmoney.com/SH601016.html">节能风电</a>601016。 股权激励对象说明: <a href="http://quote.eastmoney.com/SZ002771.html">真视通</a>002771，<a href="http://quote.eastmoney.com/SH600807.html">天业股份</a>600807。 监事会换届选举: <a href="http://quote.eastmoney.com/SZ000777.html">中核科技</a>000777，<a href="http://quote.eastmoney.com/SZ300129.html">泰胜风能</a>300129。 股份变动通告: <a href="http://quote.eastmoney.com/SH600231.html">凌钢股份</a>600231，<a href="http://quote.eastmoney.com/SH600559.html">老白干酒</a>600559。 高管变更: <a href="http://quote.eastmoney.com/SZ002463.html">沪电股份</a>002463(聘任张建芳为内部审计负责人)，<a href="http://quote.eastmoney.com/SH600967.html">北方创业</a>600967。 董事会换届选举: <a href="http://quote.eastmoney.com/SZ000777.html">中核科技</a>000777，<a href="http://quote.eastmoney.com/SZ300129.html">泰胜风能</a>300129。 股权激励计划调整: <a href="http://quote.eastmoney.com/SZ002771.html">真视通</a>002771。 股权激励解锁: <a href="http://quote.eastmoney.com/SH601799.html">星宇股份</a>601799。 高管离职: <a href="http://quote.eastmoney.com/SH600462.html">石岘纸业</a>600462(公司董事修刚等8人离职)。 股权激励注销: <a href="http://quote.eastmoney.com/SZ300036.html">超图软件</a>300036。 股权转让进展: <a href="http://quote.eastmoney.com/SH600462.html">石岘纸业</a>600462。 业绩公告更正: <a href="http://quote.eastmoney.com/SH600169.html">太原重工</a>600169。 资产租赁: <a href="http://quote.eastmoney.com/SZ002092.html">中泰化学</a>002092。 股东经营 : <a href="http://quote.eastmoney.com/SH601126.html">四方股份</a>601126(实际控制人杨奇逊及王绪昭赠与2.78%电气集团股份)。 股东增持完成: <a href="http://quote.eastmoney.com/SZ300225.html">金力泰</a>300225。 业绩公告更新: <a href="http://quote.eastmoney.com/SH600169.html">太原重工</a>600169(2015三季度净利1087.43万 大降44.16%)。 自查报告: <a href="http://quote.eastmoney.com/SZ002344.html">海宁皮城</a>002344。<br>  【限售解禁】限售解禁公告提示日: <a href="http://quote.eastmoney.com/SZ300157.html">恒泰艾普</a>300157(限售解禁855万股12月15日上市)，<a href="http://quote.eastmoney.com/SZ300252.html">金信诺</a>300252(限售解禁15.75万股12月15日上市)，<a href="http://quote.eastmoney.com/SH600699.html">均胜电子</a>600699(限售解禁1.87亿股12月18日上市)。 
+				</div>
+			
+
+	</div>
+
+		</div>
+		<div class="zwconbtns clearfix">
+			<div class="zwconbtnsi" id="zwconbtnsi_pl" onclick="try{gudong.stat(3,null);}catch (e){};">
+				<div class="zwconbtnsii"></div>
+				<a href="javascript:;" target="_self">我要评论</a>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_zf" onclick="try{gudong.stat(4,null);}catch (e){};">
+				<div class="zwconbtnsii"></div>
+				<a href="javascript:;" target="_self">转发(<span id="zfnums" class="red">1</span>)</a>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_z">
+				<div class="zwconbtnsii"></div>
+				<span id="zwpraise"><a href="javascript:;" target="_self">赞</a></span>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_sc">
+				<div class="zwconbtnsii"></div>
+				<span id="zwconbtsc"><a href="javascript:;" target="_self">收藏本帖</a></span>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_fx">
+				<div class="zwconbtnsia">
+					<div class="zwconbtnsii"></div>
+					<span id="zwconbtsc"><a href="javascript:;" target="_self">分享</a></span>
+				</div>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_jb">
+				<div class="zwconbtnsii"></div>
+				<span id="zwpraise"><a href="javascript:;" target="_self">举报本帖</a></span>
+			</div>
+		</div>
+
+
+		<div class="gubamobilegg2014" id="zwcontentbgg" style="display:none; text-align:center;">
+			<ul><li><span class="red"><a href="http://stattg.eastmoney.com/10361" ><strong>IPO再次重启，万2.5开户打新！今年新股平均上涨4倍！！</strong></a></span>&nbsp;<span class="red"><a href="http://js5.eastmoney.com/tg.aspx?ID=2334 " ><strong>年末热炒高送转，哪些股值得布局？机构观点抢先看！</strong></a></span>&nbsp;<span class="red"><a href="http://stattg.eastmoney.com/10147" ><strong>机构私募都在用的炒股软件</strong></a></span>&nbsp;<span class="red"><a href="http://js1.eastmoney.com/tg.aspx?ID=3744" ><strong>三因素致A股变异 酿酒家电大涨</strong></a></span></li></ul>
+		</div>
+
+		<div class="clear"></div>
+
+	</div>
+	
+	<div id="zwcontab">
+		<ul>
+			<li class="on"><a href="news,000875,231374293.html" target="_self">全部评论（1）</a></li>
+			
+			<li  ><a href="news,000875,231374293,7654094374876202.html#storeply" target="_self">只看楼主发言</a></li>
+			
+		</ul>
+        
+		<div id="zwcontabsort">
+			排序<a href="news,000875,231374293.html#storeply" target="_self"><span class="on">最早</span></a><a href="news,000875,231374293,d.html#storeply" target="_self"><span >最近</span></a><a href="javascript:;" target="_self"><span id="zwshowzzbtn">最赞</span></a>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+	
+	<div id="zwlist">
+    
+		<div class="zwli clearfix" id="zwli8111971610" data-huifuid="8111971610" data-huifuuid="1780093949657184">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="8111971610">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/1780093949657184"><img src="http://avator.eastmoney.com/qface/1780093949657184/30" data-popper="1780093949657184" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/1780093949657184"  data-popper="1780093949657184" data-poptype="1">怀远卞和洞</a></span> <span class="influence" data-uid="1780093949657184"></span> </div>
+					<div class="zwlitime">发表于 2015-12-14  09:06:19</div>
+		
+                     
+					<div class="zwlitext stockcodec">吉电股份000875(收到2483万专项用于环保成本投入补助资金) </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        <script>var num=2585;var count=113971;</script>
+        <script>
+        if (typeof (num) == "undefined") {var num=2579; }var pinglun_num=1;var xgti="";if(typeof (count) != "undefined"){xgti="<span class=\"tc2\"><a href='list,000875.html'>相关帖子<span class=\"tc1\">"+count+"</span>条</a></span>";}
+        document.getElementById("zwmbtilr").innerHTML ="现有<span class=\"tc1\">"+num+"</span>人阅读过该帖，评论<span class=\"tc1\">"+pinglun_num+"</span>条。"+xgti;
+        </script>
+        
+	</div>
+	<style type="text/css">
+		#zwbtextlink {  float: left; width: 100%; height: 29px; margin-bottom: 5px; }
+		#zwbtextlink ul {  float: left; padding-top: 8px; width: 100%; }
+		#zwbtextlink ul li { float: left; font-size: 14px;  padding: 0px 0px; }
+		#zwbtextlink ul li a { text-decoration: underline; color: #333333; margin-right: 7px; }
+		#zwbtextlink ul li span.red a { color: red;  font-weight: bold; text-decoration: underline; }
+	</style>
+	<div style=" clear:both; height:29px; border:1px solid #D8E6FF; border-top:0; padding: 0 0 5px 10px; ">
+		<div id="zwbtextlink">
+			<!-- 布告栏 --><ul><li><a href="http://stattg.eastmoney.com/10524" ><strong>Level-2限时特惠！</strong></a>&nbsp;<span class="red"><a href="http://js5.eastmoney.com/tg.aspx?ID=875" ><strong>注意！主力有大动作，7股明日望爆发！</strong></a></span>&nbsp;<a href="http://fundact.eastmoney.com/information/2014025/?spm=100005001.mw" ><strong>活期宝收益3-25%</strong></a>&nbsp;<span class="red"><a href="http://js1.eastmoney.com/tg.aspx?ID=3745" ><strong>3因素致A股变异</strong></a></span></li></ul>
+		</div>
+	</div>
+
+
+    <div class="gbbox1" id="sendnewt">
+		<div class="gbboxt">评论该主题 <span class="appealspan"><a href="javascript:;" target="_self" id="appealuserlink">帖子不见了！怎么办？</a></span></div>
+		<div class="gbboxtr"><span class="topbarlogin">作者：您目前是匿名发表 &nbsp; <a href="" id="bottomlogin" class="gubaloginlink"><strong>登录</strong></a> | <a href="" class="strlink gubareglink" id="bottomreg">5秒注册</a></span> <span class="topbarhaslogin">作者：<strong><span class="headerusername"></span></strong>，欢迎留言 <a href="javascript:;" class="logoutbtn" target="_self">退出</a></span> | <a href="/list,000875.html#sendnewt"><strong>发表新主题</strong></a></div>
+		<div class="gbboxb">
+			<form method="post" action="" id="gbsform" class="gbsform">
+				<div class="mtj1" id="yzmp"><label for="" class="l tzla">内容：</label><textarea class="gbsformt1" id="gbtainput"></textarea></div>
+				<div class="mtj2">
+					<div class="editorfuns" id="editorfuns"><a href="javascript:;" id="gbtainpubtn4" data-fun="face" target="_self"><em class="iconface"></em>表情</a> <a href="javascript:;" id="gbtainpubtn7" data-fun="stockcode" target="_self"><em class="iconstock"></em>股票</a> </div>
+					<div class="gbsformbtns"><span id="gdregbtn"></span>&nbsp;<button type="submit" class="gbsformi3">发  布</button></div>
+					<div class="clear"></div>
+				</div>
+				
+			</form>
+		</div>
+	</div>
+
+	<div style="color:#888888; padding:10px 0 0 0;clear:both; line-height:120%;">
+		提示：用户在社区发表的所有资料、言论等仅代表个人观点，与本网站立场无关，不对您构成任何投资建议。用户应基于自己的独立判断，自行决定证券投资并承担相应风险。
+	</div>
+
+	
+	<div class="siderg" style="padding-top:10px; clear:both;"><iframe width="718" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=655&op=1" ></iframe></div>
+    
+
+</div>
+<div id="sider"></div>
+</div>
+<div class="clear"></div>
+<div id="footer" class="gbbody">
+    	<p class="splp"><a href="http://corp.eastmoney.com/aboutus/" target="_blank">关于我们</a>　　<a href="http://corp.eastmoney.com/Lianxi_guanggao.asp" target="_blank">广告服务</a>　　<a href="http://corp.eastmoney.com/Lianxi_lianxi.asp" target="_blank">联系我们</a>　　<a href="http://corp.eastmoney.com/zhaopin/zhaopin_1.asp" target="_blank">诚聘英才</a>　　<a href="http://corp.eastmoney.com/lianxi_mianze.asp" target="_blank">免责声明</a>　　<a href="http://corp.eastmoney.com/Lianxi_falvshengming.asp" target="_blank">法律声明</a>　　<a href="http://corp.eastmoney.com/Lianxi_zhengao.asp" target="_blank">征稿启事</a>　　<a href="http://corp.eastmoney.com/media.asp" target="_blank">友情链接</a></p>
+    	<p class="sphp"></p>
+        <p>建议及投诉热线：021-54509984　　　<a href="http://corp.eastmoney.com/Lianxi_liuyan.asp" target="_blank"><img src="http://g1.dfcfw.com/g1/comm/msg.gif" border="0" />意见与建议</a></p>
+        <p class="sphp"></p>
+        <p><img src="http://g1.dfcfw.com/g1/comm/icp.gif" />&nbsp;沪ICP证：沪B2-20070217&nbsp;&nbsp;版权所有：<a href="http://www.eastmoney.com" target="_blank">东方财富网</a></p>
+        <p><a href="http://www.cyberpolice.cn/" target="_blank"><img src="http://g1.dfcfw.com/g1/comm/police.gif" border="0" /></a> &nbsp; <a href="http://www.zx110.org/picp/?sn=310104031200" target="_blank"><img src="http://gbfek.dfcfw.com/gubav5/images/gubabba.png" /></a></p>
+</div>
+<!--114.80.173.38-->
+<div id="stockhqh" style="display:none;"></div>
+
+<script src="//gbfek.dfcfw.com/gubav5/js/gubabase_da218adfac.js"></script>
+<script src="//gbfek.dfcfw.com/gubav5/js/news_m_339c6326e1.js"></script>
+<script src="//gbfek.dfcfw.com/gubav5/js/module_43cb88e12a.js"></script>
+<script src="//gbfek.dfcfw.com/gubav5/js/news_c_bd1d75d828.js"></script>
+<script src="count.aspx"></script>
+<script type="text/javascript">  var _cpyno = "c1"</script>
+<script type="text/javascript" src="http://js4.eastmoney.com/counter.js?c=t"></script>
+<script type="text/javascript">
+var rightAd_bodywidth = 1000;
+var rightAd_fixedwidth = 150;
+var rightAd_width = 135;
+var rightAd_height = 1741;
+var rightAd_top = '48px';
+var rightAd_url = 'http://fund.eastmoney.com/trade/Hot_Em.html?spm=100005001.rw';
+var rightAd_top = '48px';
+</script>
+<script src="http://gbfek.dfcfw.com/js/tg/rightAd_v2.js"></script>
+<script type="text/javascript">
+(function(d){
+	var ioSrc = function(url){
+		var script = document.createElement("script")
+		script.type = "text/javascript";
+		script.src = url;
+		document.getElementsByTagName("head")[0].appendChild(script);
+	};
+	
+	d.fixedSoftPic = "http://g1.dfcfw.com/g2/201510/20151013092340.gif";
+	d.fixedSoftLink = ["http://stattg.eastmoney.com/10762","http://stattg.eastmoney.com/10071","http://stattg.eastmoney.com/10312","http://stattg.eastmoney.com/10214","http://js5.eastmoney.com/tg.aspx?ID=2035"];
+	d.fixedLinkPt = 0;
+	d.fixedLinkMt = [0,0,0,0];
+	d.fixedLinkHeight = [120,194,86,86,80];
+	d.fixedSoftWidth = 135;
+	d.fixedSoftHeight = 568;
+	d.fixedBodyWidth = 990;
+	d.fixedSoftTop = 48;
+
+	d.fixedAlign = "left";
+	ioSrc("http://cmsjs.eastmoney.com/js/news_fixed_leftv3.js");
+})(window);
+</script>
+
+
+<script type="text/javascript" src="http://js3.eastmoney.com/js/gb_dcmap.js?mt=gubaarticle&odds=5000"></script>
+<script src="//gbfek.dfcfw.com/tg/EMBottomSearchTG/EMBottomSearchTG-1.0.3.min.js?v=1"></script>
+
+<script type="text/javascript" >
+    var newEMBottomSearchTG = new EMBottomSearchTG({
+		main_width:1000,
+        main_img: 'http://z1.dfcfw.com/2015/6/10/201506101029321460568336.jpg', //推广图片  imgurl
+        link: 'http://stattg.eastmoney.com/10267' //推广链接  aurl
+    });
+    newEMBottomSearchTG.show();
+</script>
+<script type="text/javascript" src="http://cmsjs.eastmoney.com/analysis/emtj.min.js?v=20150401"></script>
+</body>
+</html>

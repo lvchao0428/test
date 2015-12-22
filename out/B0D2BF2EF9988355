@@ -1,0 +1,296 @@
+<!--UINFO: http://bbs.qiandao.net/forum.php?mod=viewthread&amp;tid=10214825&amp;page=1	length=17918&last_modified=0&time_saved=1450677190&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>提示信息 -  千岛热线论坛 -  Powered by Discuz!</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",千岛热线论坛" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.qiandao.net/" /><link rel="stylesheet" type="text/css" href="data/cache/style_17_common.css?vZv" /><link rel="stylesheet" type="text/css" href="data/cache/style_17_forum_viewthread.css?vZv" /><script type="text/javascript">var STYLEID = '17', STATICURL = 'static/', IMGDIR = 'template/comiis_bato/img', VERHASH = 'vZv', charset = 'gbk', discuz_uid = '0', cookiepre = 'F7iG_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|威望|点,2|银元宝|个,3|影音币|个,4|体力|点,5|宝宝值|点,6|金元宝|个', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5xaWFuZGFvLm5ldC9mb3J1bS5waHA/bW9kPXZpZXd0aHJlYWQmYW1wO3RpZD0xMDIxNDgyNSZhbXA7cGFnZT0x', SITEURL = 'http://bbs.qiandao.net/', JSPATH = 'data/cache/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?vZv" type="text/javascript"></script>
+<meta name="application-name" content="千岛热线论坛" />
+<meta name="msapplication-tooltip" content="千岛热线论坛" />
+<meta name="msapplication-task" content="name=全站首页;action-uri=http://bbs.qiandao.net/portal.php;icon-uri=http://bbs.qiandao.net/template/comiis_bato/img/portal.ico" /><meta name="msapplication-task" content="name=论坛导航;action-uri=http://bbs.qiandao.net/forum.php;icon-uri=http://bbs.qiandao.net/template/comiis_bato/img/bbs.ico" />
+<link rel="archives" title="千岛热线论坛" href="http://bbs.qiandao.net/archiver/" />
+<script src="data/cache/forum.js?vZv" type="text/javascript"></script>
+<style>.fwin .m_c {background:#fff url(template/comiis_bato/img/comiis_loginbg.gif) no-repeat right bottom;}</style><link href="template/comiis_bato/img/portal.css" rel="stylesheet" type="text/css" />
+ <link rel="stylesheet" href="template/comiis_bato/img/index.css" type="text/css" media="screen" charset="utf-8">
+ <style type="text/css" media="screen">
+.hdlist li{float:right; margin-left:20px;height:36px;line-height:36px;}	
+</style>
+</head>
+<body id="nv_forum" class="pg_viewthread oqxi" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+	
+	
+<div class="comiis_kmtops">
+<div id="toptb" class="cl comiis_toptb comiis_mintop">
+<div class="wp comiis_header">
+<div class="z kmz">
+<div class="z kmmenus">
+<A class="kmmobile" href="#" target="_blank">手机版</A>
+<A class="kmweibo" href="#" target="_blank">官方微博</A>
+<A class="kmweixin" href="javascript:;" id="kmweixin" onMouseOver="showMenu({'ctrlid':this.id,'pos':'43!','ctrlclass':'hover','duration':2});">官方微信</A>
+<A class="kmset_index" href="javascript:;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://bbs.qiandao.net/');">设为首页</A>
+</div>						
+<a id="switchblind" href="javascript:;" style="display:none;">开启辅助访问</a>
+</div>
+<div class="y"><a id="comiis_login" href="javascript:;" onMouseOver="showMenu({'ctrlid':this.id,'pos':'34!','ctrlclass':'on','duration':3});" style="text-decoration:none;">请登录</a>
+<a id="comiis_reg" href="member.php?mod=register">免费注册</a>
+<a id="comiis_qmenu" href="javascript:;" onmouseover="delayShow(this,function(){showMenu({'ctrlid':'comiis_qmenu','pos':'34!','ctrlclass':'on','duration':2});showForummenu();})">快捷导航</a>
+</div>
+</div>
+</div>
+<DIV style="DISPLAY:none" class="weixin_tip" id="kmweixin_menu">			
+<DIV class="weixin_img"></DIV>
+<P> 打开微信扫一扫 </P>
+</DIV>
+</div>	
+<div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="http://bbs.qiandao.net/" title="千岛热线论坛"><img src="template/comiis_bato/img/comiis_logo.gif" alt="千岛热线论坛" border="0" /></a></h2>
+<!--------天气代码-------->
+<div class="comiis_tianqi"><iframe width="200" scrolling="no" height="55" frameborder="0" allowtransparency="true" src="http://i.tianqi.com/index.php?c=code&amp;id=35&amp;icon=1&amp;num=3"></iframe></div>
+<!------天气代码END------>
+<div id="sckm" class="y"><div id="comiis_twtsc" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('comiis_twtsc_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="comiis_twtsc_mod" value="search" />
+<input type="hidden" name="formhash" value="256e98c9" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="comiis_twtsc_txt"><input type="text" name="srchtxt" id="comiis_twtsc_txt" onblur="if (value ==''){value='请输入搜索内容'}" onfocus="if (value =='请输入搜索内容'){value =''}" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>		
+<td class="comiis_twtsc_type"><a href="javascript:;" id="comiis_twtsc_type" class="showmenu xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="comiis_twtsc_btn"><button type="submit" name="searchsubmit" id="comiis_twtsc_btn" sc="1" class="pn pnc" value="true">&nbsp;&nbsp;</button></td>
+</tr>
+</table>
+</form>
+</div>
+</div>
+</div>
+<ul id="comiis_twtsc_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('comiis_twtsc', '');
+</script>
+<div class="svgf" style="clear:both;"></div>
+<div id="nv" class="comiis_nv">
+<ul><li id="mn_portal" ><a href="http://bbs.qiandao.net/portal.php" hidefocus="true" title="Portal"  >全站首页<span>Portal</span></a></li><li class="a" id="mn_forum" ><a href="http://bbs.qiandao.net/forum.php" hidefocus="true" title="BBS"  >论坛导航<span>BBS</span></a></li><li id="mn_Nc806" ><a href="diy.php" hidefocus="true"  >板块定制</a></li><li id="mn_N584b" ><a href="http://pk.qiandao.net" hidefocus="true" target="_blank"  >星空棋牌</a></li><li id="mn_Ncbdc" ><a href="misc.php?mod=mobile" hidefocus="true"  >掌上千岛</a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+<ul class="cl " id="snav_mn_userapp" style="display:none">
+</ul>
+</div>
+ <div class="comiis_subcd cl">
+  <dl class="comiis_subdh">
+    <dt><a href="#">城事</a></dt>
+    <dd>
+    <a href="#">舟山</a>
+    <a href="http://bbs.qiandao.net/forum-9-1.html">杂谈</a>
+    <a href="http://bbs.qiandao.net/forum-183-1.html">热线</a>
+    <a href="#">资讯</a>
+    <a href="http://bbs.qiandao.net/forum-199-1.html">情感</a>
+    <a href="http://bbs.qiandao.net/forum-209-1.html">公益</a>
+    <a href="http://bbs.qiandao.net/forum-209-1.html">警民</a>
+    <a href="#">话题<img class="new_icon" src="template/comiis_bato/img/new.gif"></a></dd>
+  </dl>
+  <dl class="comiis_subdh">
+    <dt><a href="http://bbs.qiandao.net/forum-9-1.html">生活</a></dt>
+    <dd style="width:321px;">
+    <a href="http://bbs.qiandao.net/forum-204-1.html">美食</a>
+    <a href="http://bbs.qiandao.net/forum-142-1.html">摄影<img class="new_icon" src="template/comiis_bato/img/hot.gif"></a>
+    <a href="http://bbs.qiandao.net/forum-188-1.html">房产</a>
+    <a href="http://bbs.qiandao.net/forum-200-1.html">家居</a>
+    <a href="http://bbs.qiandao.net/forum-163-1.html">汽车</a>
+    <a href="http://bbs.qiandao.net/forum-165-1.html">母婴</a>
+    <a href="http://bbs.qiandao.net/forum-113-1.html">运动</a>
+    <a href="http://bbs.qiandao.net/forum-213-1.html">婚嫁</a>
+    <a href="http://bbs.qiandao.net/forum-213-1.html">交友</a>
+    <a href="http://bbs.qiandao.net/forum-113-1.html">旅游</a>
+    <a href="http://bbs.qiandao.net/forum-75-1.html">宠物</a>
+    <a href="http://bbs.qiandao.net/forum-99-1.html">时尚</a>
+    <a href="http://bbs.qiandao.net/forum-165-1.html">教育</a>
+    <a href="http://bbs.qiandao.net/forum-114-1.html">健康</a>
+    </dd>
+  </dl>
+  <dl class="comiis_subdh">
+    <dt><a href="#">分类</a></dt>
+    <dd style="width:190px;">
+    <a href="http://bbs.qiandao.net/forum-14-1.html">二手</a>
+    <a href="http://bbs.qiandao.net/forum-68-1.html">招聘</a>
+    <a href="#">商街<img class="new_icon" src="template/comiis_bato/img/new.gif"></a>
+    <a href="http://bbs.qiandao.net/forum-163-1.html" style="color:#cc0100">拼车</a>
+    <a href="#">便民</a>
+    <a href="http://bbs.qiandao.net/forum-215-1.html">租售</a>
+    <a href="#">消费</a>
+    <a href="#">兑换</a>
+    </dd>
+  </dl>
+  <dl class="comiis_subdh">
+    <dt><a href="#">社区</a></dt>
+    <dd style="width:146px;">
+    <a href="#">论坛</a>
+    <a href="#">博客</a>
+    <a href="#">青年汇</a>
+    <a href="#">家园</a>
+    <a href="#">相册</a>
+    <a href="#">游戏<img class="new_icon" src="template/comiis_bato/img/hot.gif"></a></dd>
+  </dl>
+</div></div>
+</div>	
+	
+<div id="comiis_sousuo_menu" style="display:none;">
+<div class="comiis_dss">
+<form id="scform" method="post" autocomplete="off" action="http://bbs.qiandao.net/search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="formhash" value="256e98c9" />
+<input type="hidden" name="mod" value="forum" />
+<input type="text" name="srchtxt" id="srchtxt" class="z" autocomplete="off" onBlur="if (value ==''){value='请输入搜索关键词'}" onFocus="if (value =='请输入搜索关键词'){value =''}" value="请输入搜索关键词" />
+<button id="search_submit" name="searchsubmit" type="submit" value="true">&nbsp;&nbsp;&nbsp;&nbsp;</button>
+</form>
+</div>
+</div>
+<div id="comiis_login_menu" style="display:none;">
+<div id="comiis_xdl">
+<div class="comiis_xdl_nr">
+<table cellspacing="0" cellpadding="0">
+<form method="post" autocomplete="off" id="loginForms" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;lssubmit=yes">
+<input type="hidden" name="formhash" value="256e98c9" />
+<input type="hidden" name="referer" value="" />
+<tr><td>用户名：</td></tr>
+<tr><td><input type="text" name="username" autocomplete="off" onFocus="if (value =='请输入用户名'){value =''}" value="请输入用户名" tabindex="98" class="comiis_xdl_xk mb5"></td></tr>
+<tr><td><span><a href="javascript:;" onClick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')" style="height:20px;line-height:20px;padding:0px;background:none;">忘记密码？</a></span>密&nbsp;&nbsp;&nbsp;码：</td></tr>
+<tr><td><input type="password" name="password" autocomplete="off" onFocus="if (value =='********'){value =''}" value="********" tabindex="99" class="comiis_xdl_xk"></td></tr>
+<tr><td><button type="submit" name="lostpwsubmit" value="true" tabindex="100" class="comiis_xdl_btn y" id="loginButton">&nbsp;&nbsp;&nbsp;</button><div class="z zddl"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" checked="true">下次自动登录</div></td></tr>
+</form>
+</table>
+</div>
+<div class="comiis_xdl_qqdl">
+<ul>
+<li class="xqqdl"><a href="http://bbs.qiandao.net/connect.php?mod=login&op=init&referer=forum.php%3Fmod%3Dviewthread%26amp%3Btid%3D10214825%26amp%3Bpage%3D1&statfrom=login_simple" title="用QQ帐号登录">QQ帐号登录</a></li>
+<li class="xwbdl"><a href="#" title="用微博帐号登录">微博帐号登录</a></li></ul>
+</div>
+</div>
+</div>
+<div id="comiis_qmenu_menu" style="display:none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">免费注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div>
+<div id="wp" class="wp"><div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p>抱歉，指定的主题不存在或已被删除或正在被审核</p>
+<script type="text/javascript">
+if(history.length > (BROWSER.ie ? 0 : 1)) {
+document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ 点击这里返回上一页 ]</a></p>');
+} else {
+document.write('<p class="alert_btnleft"><a href="./">[ 千岛热线论坛 首页 ]</a></p>');
+}
+</script>
+</div>
+</div>
+</div>
+</div></div>
+
+
+<script type="text/javascript">
+_attachEvent(window, 'load', getForbiddenFormula, document);
+function getForbiddenFormula() {
+var toGetForbiddenFormulaFIds = function () {
+ajaxget('plugin.php?id=cloudsearch&formhash=256e98c9');
+};
+var a = document.body.getElementsByTagName('a');
+for(var i = 0;i < a.length;i++){
+if(a[i].getAttribute('sc')) {
+a[i].setAttribute('mid', hash(a[i].href));
+a[i].onmousedown = function() {toGetForbiddenFormulaFIds();};
+}
+}
+var btn = document.body.getElementsByTagName('button');
+for(var i = 0;i < btn.length;i++){
+if(btn[i].getAttribute('sc')) {
+btn[i].setAttribute('mid', hash(btn[i].id));
+btn[i].onmousedown = function() {toGetForbiddenFormulaFIds();};
+}
+}
+}
+</script>
+
+<div style="clear:both;"></div>
+<div id="ft" class="comiis_footer wp vwwq">
+<div class="comiis_footertop"><a href="http://bbs.qiandao.net/forum.php?mobile=yes" >手机版</a>|<a href="http://bbs.qiandao.net/archiver/" >Archiver</a>|<a href="about/index.html" >关于我们</a>|<a href="about/contact.html" >联系我们</a>|<a href="about/ads.html" >广告服务</a>|<a href="about/corp.html" >合作伙伴</a>|<a href="about/zhaopin.html" >工作机会</a>|</div>
+<div class="comiis_Copyright">
+<br>（<a href="http://www.miibeian.gov.cn/" target="_blank">浙ICP证10055号 增值电信业务经营许可证A2.B1.B2-20090001</a>)</br>
+&nbsp;&nbsp;Powered by <a href="http://www.discuz.net" target="_blank">Discuz!</a> X3.2&nbsp;&copy;1999 -2014 千岛论坛&nbsp;  广告热线：0580-2861511
+
+<!---*大越文化*--->
+  &nbsp;&nbsp;<span id="tcss"></span><script type="text/javascript" src="http://tcss.qq.com/ping.js?v=1vZv" charset="utf-8"></script><script type="text/javascript" reload="1">pgvMain({"discuzParams":{"r2":"3489928","ui":0,"rt":"forum","md":"viewthread","pn":1,"qq":"000"},"extraParams":""});</script><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_4686544'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s23.cnzz.com/stat.php%3Fid%3D4686544%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script> &nbsp;<a href="http://discuz.qq.com/service/security" target="_blank" title="防水墙保卫网站远离侵害"><img src="static/image/common/security.png"></a> <br>提醒：禁止发布任何违反国家法律、法规的言论与图片等内容；本站内容均来自个人观点与网络等信息，非本站认同之观点。<br />
+</div>
+<p>
+  <a href="#" target="_blank"><img src="template/comiis_bato/img/jin01.gif"></a>
+  <a href="#" target="_blank"><img src="template/comiis_bato/img/jin02.gif"></a>
+  <a href="#" target="_blank"><img src="template/comiis_bato/img/jin03.gif"></a>
+  <a href="#" target="_blank"><img src="template/comiis_bato/img/jin04.gif"></a>
+
+</p>
+</div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1450677163" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { new_showTopLink(); });checkBlind();</script>
+<script type="text/javascript">
+_attachEvent(document, 'click', function () {
+hidecomiismenu('comiis_login_menu');
+hidecomiismenu('comiis_sousuo_menu');
+
+});
+function hidecomiismenu(id) {
+var menuObj = $(id);
+var menu = $(menuObj.getAttribute('ctrlid'));
+if(ctrlclass = menuObj.getAttribute('ctrlclass')) {
+var reg = new RegExp(' ' + ctrlclass);
+menu.className = menu.className.replace(reg, '');
+}
+menuObj.style.display = 'none';
+}
+function new_showTopLink() {
+var ft = $('ft');
+if(ft){
+var scrolltop = $('scrolltop');
+var viewPortHeight = parseInt(document.documentElement.clientHeight);
+var scrollHeight = parseInt(document.body.getBoundingClientRect().top);
+var basew = parseInt(ft.clientWidth);
+var sw = scrolltop.clientWidth;
+if (basew < 1500) {
+var left = parseInt(fetchOffset(ft)['left']);
+left = left < sw ? left * 2 - sw : left;
+scrolltop.style.left = ( basew + left ) + 'px';
+} else {
+scrolltop.style.left = 'auto';
+scrolltop.style.right = 0;
+}
+if (BROWSER.ie && BROWSER.ie < 7) {
+scrolltop.style.top = viewPortHeight - scrollHeight - 150 + 'px';
+}
+if (scrollHeight < -100) {
+scrolltop.style.visibility = 'visible';
+} else {
+scrolltop.style.visibility = 'hidden';
+}
+}
+}
+</script>			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '3489928|X3.2|0.6||0||0|7|1450677163|5f46789b8ad75dcf0addff365d49a573|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>

@@ -1,0 +1,286 @@
+<!--UINFO: http://bbs.eliushi.com/thread-44050-1-1.html	length=17420&last_modified=0&time_saved=1450677188&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>提示信息 -  柳市论坛 -  Powered by Discuz!</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",柳市论坛" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.eliushi.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_15_common.css?P58" /><link rel="stylesheet" type="text/css" href="data/cache/style_15_forum_viewthread.css?P58" />  <script src="template/kxsdnewhlx/image/js/jquery.js" type="text/javascript"></script>
+     <script type="text/javascript">
+     var jQ = jQuery.noConflict();
+     </script>
+
+<script type="text/javascript">var STYLEID = '15', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'P58', charset = 'gbk', discuz_uid = '0', cookiepre = 'mJHV_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|威望|点,2|金币|个,3|贡献|点,4|金条|条,5|视频|个', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5lbGl1c2hpLmNvbS90aHJlYWQtNDQwNTAtMS0xLmh0bWw=', SITEURL = 'http://bbs.eliushi.com/', JSPATH = 'data/cache/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+
+<script src="data/cache/common.js?P58" type="text/javascript"></script>
+<meta name="application-name" content="柳市论坛" />
+<meta name="msapplication-tooltip" content="柳市论坛" />
+<meta name="msapplication-task" content="name=首页;action-uri=http://bbs.eliushi.com/portal.php;icon-uri=http://bbs.eliushi.com/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=论坛;action-uri=http://bbs.eliushi.com/forum.php;icon-uri=http://bbs.eliushi.com/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=圈子;action-uri=http://bbs.eliushi.com/group.php;icon-uri=http://bbs.eliushi.com/static/image/common/group.ico" /><meta name="msapplication-task" content="name=家园;action-uri=http://bbs.eliushi.com/home.php;icon-uri=http://bbs.eliushi.com/static/image/common/home.ico" /><link rel="archives" title="柳市论坛" href="http://bbs.eliushi.com/archiver/" />
+<script src="data/cache/forum.js?P58" type="text/javascript"></script>
+ 
+
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<!--top开始-->
+    	   
+<link href="template/kxsdnewhlx/image/css/fhead.css" rel="stylesheet" />
+<script src="template/kxsdnewhlx/image/js/hdsc.js" type="text/javascript" type="text/javascript"></script>
+<div class="wapper_out sitenavbg overvisible level3">
+    <div class="wapper sitenav overvisible">
+        <a href="http://www.eliushi.com" title="柳市论坛" class="sm_logo z mr10"></a>
+        <ul class="fs14 z plate_head clearfix">
+            <li class="dropmenu pr">
+                <a href="http://bbs.eliushi.com/portal.php" class="now">首页<i class="sitenavico arrowdown">&nbsp;</i></a>
+                <div class="dropdown dropdown_info_box home_page_box" style="display: none;">
+                    <ul class="dropdown_info clearfix">
+                            <li><a href="/forum.php?gid=1" target="_blank">房产</a></li>
+                                            <li class="border_no"><a href="/forum.php?mod=forumdisplay&amp;fid=57" target="_blank">健康</a></li>
+                 <li><a href="/forum.php?gid=136" target="_blank">装修</a></li>
+                 <li class="border_no"><a href="/forum.php?mod=forumdisplay&amp;fid=130" target="_blank">理财</a></li>
+                            <li><a href="/forum.php?gid=137" target="_blank">汽车</a></li>
+                            <li class="border_no"><a href="/forum.php?mod=forumdisplay&amp;fid=85" target="_blank">旅游</a></li>
+                            <li><a href="/forum.php?gid=138" target="_blank">婚嫁</a></li>
+                   <li class="border_no"><a href="/forum.php?mod=forumdisplay&amp;fid=41" target="_blank">美食</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="dropmenu pr">
+                <a href="http://bbs.eliushi.com/forum.php" class="now">社区<i class="sitenavico arrowdown">&nbsp;</i></a>
+                <div class="dropdown dropdown_info_box community_box" style="display: none;">
+                    <ul class="dropdown_info clearfix">
+                          <li><a href="http://bbs.eliushi.com/forum.php">全部版块</a></li>
+                            <li><a href="/forum.php?mod=forumdisplay&amp;fid=172">帅哥美女</a></li>
+                            <li><a href="/forum.php?mod=forumdisplay&amp;fid=85">游山玩水</a></li>
+                            <li class="border_no"><a href="/forum.php?mod=forumdisplay&amp;fid=80" style="color:#FF0000">买东西</a></li>
+                            <li><a href="/forum.php?mod=forumdisplay&amp;fid=49">柳市茶座</a></li>
+                            <li><a href="/forum.php?mod=forumdisplay&amp;fid=41">柳市美食</a></li>
+                            <li><a href="/forum.php?mod=forumdisplay&amp;fid=97">交友征婚</a></li>
+                            <li class="border_no"><a href="/forum.php?mod=forumdisplay&amp;fid=80">网购集市</a></li>
+                            <li><a href="/forum.php?mod=forumdisplay&amp;fid=53">我要买房</a></li>
+                            <li><a href="/forum.php?mod=forumdisplay&amp;fid=47">情感天空</a></li>
+                            <li><a href="/forum.php?mod=forumdisplay&amp;fid=87">影视部落</a></li>
+                            <li class="border_no"><a href="http://job.eliushi.com">上班求职</a></li>
+                            <li><a href="/forum.php?mod=forumdisplay&amp;fid=84">柳市车友</a></li>
+                            <li><a href="/forum.php?mod=forumdisplay&amp;fid=70">谈婚论嫁</a></li>
+                            <li><a href="/forum.php?gid=51">兴趣爱好</a></li>
+                            <li class="border_no"><a href="/forum.php?gid=133">手机数码</a></li>
+                            <li><a href="/forum.php?gid=136">装修家居</a></li>
+                            <li><a href="/forum.php?gid=139">妈妈宝宝</a></li>
+                            <li><a href="/forum.php?mod=forumdisplay&amp;fid=87">娱乐八卦</a></li>
+                            <li class="border_no"><a href="/forum.php?mod=forumdisplay&amp;fid=76">职场生活</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="dropmenu pr">
+                <a href="http://gq.eliushi.com" class="now" target="_blank">信息<i class="sitenavico arrowdown">&nbsp;</i></a>
+                <div class="dropdown dropdown_info_box info_box" style="display: none;">
+                    <ul class="dropdown_info clearfix">
+                            <li><a href="/forum.php?mod=forumdisplay&amp;fid=111" target="_blank">跳蚤</a></li>
+                            <li><a href="http://job.eliushi.com/searchjob.html" target="_blank">求职</a></li>
+                            <li><a href="http://fc.eliushi.com/sale.html" target="_blank">二手房</a></li>
+                            <li class="border_no"><a href="http://fc.eliushi.com/rent.html" target="_blank">租房</a></li>
+                            <li><a href="http://job.eliushi.com/" target="_blank">招聘</a></li>
+                            <li><a href="http://114.eliushi.com/phonebook.html" target="_blank">家政</a></li>
+                            <li><a href="http://gq.eliushi.com/category-65.html" target="_blank">二手车</a></li>
+                            <li class="border_no"><a href="/forum.php?mod=forumdisplay&amp;fid=127" target="_blank">教育</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="dropmenu pr">
+                <a href="/misc.php?mod=mobile" class="now" target="_blank">手机版<i class="sitenavico arrowdown">&nbsp;</i></a>
+                <div class="dropdown dropdown_info_box barcode" style="display: none;">
+                    <img src="template/kxsdnewhlx/image/weixin.png">
+                    <span>扫一扫 下载客户端</span>
+                </div>
+            </li>
+        </ul>     
+
+        <style>
+.schl {
+    float: left;
+    display: inline;
+}
+.wp{ width:1000px;}
+</style>
+    	
+<form method="post" autocomplete="off" action="search.php?searchsubmit=yes" target="_blank">
+<input id="mod" type="hidden" name="mod" value="forum">
+<input type="hidden" name="mod" id="mod" value="forum" />
+<input type="hidden" name="formhash" value="1b1c6991" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="0" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+
+<div class="small_search schl">
+
+<input type="text" name="srchtxt" id="searchtxt" value="" class="text schl"><span class="s_box y"><input type="submit" value="搜索" id="searchbut" class="searchbut sitenavico"></span>
+
+</div>
+
+</form>                     <ul class="y" id="userlogin">
+                  <li>
+                <a title="登陆"  class="nav_login_title" href="member.php?mod=logging&amp;action=login"><i class="sitenavico login">&nbsp;</i>登录</a>
+                <em class="vertical">|</em>
+                <a title="注册"  href="member.php?mod=register" >注册</a>
+        	
+        </li>
+            <li class="pr0">
+                <a title="扫一扫访问微社区"  href="plugin.php?id=wechat:login"><i class="sitenavico SinaWeibo">&nbsp;</i></a>
+                <a title="QQ"  href="http://bbs.eliushi.com/connect.php?mod=login&op=init&referer=forum.php%3Fmod%3Dviewthread%26tid%3D44050%26extra%3Dpage%253D1%26page%3D1%26&statfrom=login_simple"><i class="sitenavico qq">&nbsp;</i></a>
+            </li>
+ 		
+ </ul>
+    </div>
+</div>
+<!--top结束-->
+
+    	<!--头部结束-->   
+ 
+
+<div id="wp" class="wp">
+<div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p>抱歉，指定的主题不存在或已被删除或正在被审核</p>
+<script type="text/javascript">
+if(history.length > (BROWSER.ie ? 0 : 1)) {
+document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ 点击这里返回上一页 ]</a></p>');
+} else {
+document.write('<p class="alert_btnleft"><a href="./">[ 柳市论坛 首页 ]</a></p>');
+}
+</script>
+</div>
+</div>
+</div>
+</div>                        
+                        	</div>
+<style type="text/css">
+.foot{ width:1000px; font:12px/1.5 Tahoma,Helvetica,SimSun,sans-serif,Hei clear:both; padding-top:8px; position:relative; margin:5px auto; clear:both;}
+.foot p{ text-align:center; color:#555; height:22px; line-height:22px;}
+.foot p a{ color:#555;}
+.foot p.foot_link a{ padding:0 10px;}
+.foot p a.red{ color:red;}
+.foot .foot_pr{position:absolute; bottom:0px; right:0px;}
+.foot .foot_pr a{ padding-left:10px;}
+.foot .foot_top{ position:absolute; right:0; top:0px;}
+#ft{ padding:0; padding-top:8px;}
+#footer .police {
+    position: absolute;
+    top: 20px;
+    right: 10px;
+}
+    	#footer {
+    position: relative;
+    font-size: 12px;
+    text-align: center;
+    border-top: 1px solid #85ADD6;
+    line-height: 1.6;
+    font-family: Arial;
+    color: #999;
+    padding: 10px 0px 0px;
+}
+#ft{ border-top: 0px;}
+</style>
+
+
+    <div id="ft" class="foot">
+    <div id="footer">
+        <p>
+            <span>
+ <a href="mt_aboutus-about.html" title="关于我们" target="_blank" >关于我们</a>&nbsp;|&nbsp; <a href="http://bbs.eliushi.com/forum.php?mod=misc&action=showdarkroom" >小黑屋</a>&nbsp;|&nbsp; <a href="http://bbs.eliushi.com/forum.php?mobile=yes" >手机版</a>&nbsp;|&nbsp; <a href="http://bbs.eliushi.com/archiver/" >Archiver</a>&nbsp;|&nbsp;   <a href="http://bbs.eliushi.com/home.php?mod=spacecp&amp;ac=credit&amp;op=rule"><em style="color:#FC6D02">社区积分规则</em></a>
+            </span><br>
+            <span>广告热线:0577-27869776 | 法律顾问: 郑凯律师 南建忠律师</span><br>
+            <span>版权所有：柳市论坛 &nbsp;&nbsp;信息产业部备案/许可证编号： 浙ICP备10001089号&nbsp;技术支持：<a href="http://www.eliushi.com/" target="_blank" rel="nofollow">柳川网</a>&nbsp;<a href="http://wpa.qq.com/msgrd?v=1&amp;uin=620007889&amp;site=qq&amp;menu=yes" target="_blank" title="QQ"><img src="static/image/common/site_qq.jpg" alt="QQ" /></a>&nbsp;<a href="http://discuz.qq.com/service/security" target="_blank" title="防水墙保卫网站远离侵害"><img src="static/image/common/security.png"></a><?php if(!defined('IN_DISCUZ')) exit('Access Denied'); ?>
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=2&amp;pos=left&amp;uid=0" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+var bds_config={"bdTop":124};
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>
+<a href="http://www.looea.com" target="_blank" title="&#x4F17;&#x4E50;&#x7F51;&#x7AD9;&#x4FDD;&#x9556;&#x6B63;&#x5728;&#x4FDD;&#x62A4;&#x60A8;&#x7684;&#x7F51;&#x7AD9;"><img src="http://www.looea.com/static/image/common/looea_logo.bmp"></a><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1256150465'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1256150465' type='text/javascript'%3E%3C/script%3E"));</script>&nbsp;</span>
+                                    
+        </p><div class="police">
+<a href="http://news.eliushi.com/newsshow-11689.html" target="_blank"><img src="template/kxsdnewhlx/image/police.jpg" ></a> 
+    </div>
+        <p></p>
+    </div>
+</div>
+        <div class="foot_pr"></div>
+        <div class="foot_top"><a href="javascript:scroll(0,0)"></a></div>
+    </div>
+    <script src="home.php?mod=misc&ac=sendmail&rand=1450677122" type="text/javascript"></script>
+<div id="bbs_scrollbar">
+    <ul class="fr bbs_scrollbar_con">
+        <li>
+            <a class="go" style="display:none" href="javascript:;"></a>
+            <a class="do"  href="javascript:;"></a>
+<style type="text/css">
+#bbs_scrollbar .bbs_scrollbar_con li .do {
+    background: url("template/kxsdnewhlx/image/godown.png") no-repeat scroll 0px 0px transparent !important;
+    cursor: pointer;
+}
+#bbs_scrollbar .bbs_scrollbar_con li .do:hover {
+    background-position: -62px 0px !important;
+}</style>
+  <script>
+       (function($){ if ($('#sitefocus').length > 0) {
+            $('div.bbs_scrollbar_con').css('bottom', 222);
+            $('#sitefocus').find('.focus_colse').click(function () {
+                setTimeout(function () {
+                    $('div.bbs_scrollbar_con').css('bottom', 10);
+                }, 500);
+            })
+        }
+        $('.do').click(function () {
+            var t = $('#ft,#forum,.ft').offset().top;
+            $('html,body').animate({scrollTop:t}, 500);
+        });
+        $('.go').click(function(){
+            $('html,body').animate({scrollTop: 0},500);
+        });
+        $(window).bind('scroll resize', function () {
+            var w = $(window);
+            if (w.scrollTop() >= w.height()) {
+                $('a.go').css('display', 'block');
+                $('a.do').hide();
+            }
+            else {
+                $('a.do').css('display', 'block');
+                $('a.go').hide();
+            }
+        })
+})(jQuery)
+</script>
+  </li>
+        <li class="dropmenu ">
+            <a class="goservice suspend"  href="javascript:void(0);" class="now"></a>
+            <div class="lianxi dropdown">
+                <h2><a class="goservice" href="http://wpa.qq.com/msgrd?v=1&amp;uin=620007889&amp;site=qq&amp;menu=yes" target="_blank">&nbsp;</a></h2>                <p>电话：0577-27869776<br>工作日17:30-20:00在线</p>
+            </div>
+        </li>
+        <li class="dropmenu ">
+            <a class="weixin suspend" href="javascript:void(0);" class="now"></a>
+            <div class="weixinimg dropdown"></div>
+        </li>
+        <li class="dropmenu ">
+            <a class="kehuduanbg suspend" onmouseover="javascript:void(0);" class="now"></a>
+            <div class="kehuduan dropdown"></div>
+        </li>
+    </ul>
+</div>			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '3381660|X3.2|0.6||0||0|7|1450677122|e3cbdfff9947657362e965988b92e98a|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>

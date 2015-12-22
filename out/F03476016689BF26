@@ -1,0 +1,895 @@
+<!--UINFO: http://guba.eastmoney.com/news,000651,176484739_1.html	length=121666&last_modified=0&time_saved=1450677003&charset=utf-8-->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>格力的荣耀_格力电器(000651)股吧_东方财富网股吧</title>
+<meta content="格力的荣耀_格力电器(000651)_格力电器股吧_000651股吧_股吧_东方财富网股吧_格力电器吧最新行情_股吧投资指南_格力电器吧k线图分析_股吧行情分析" name="keywords">
+<meta content="格力的荣耀_格力电器_股吧_东方财富网股吧_人气财经股吧_guba.eastmoney.com" name="description">
+
+<link rel="stylesheet" href="//gbfek.dfcfw.com/gubav5/css/news_c_e2e2b382cb.css" />
+<base target="_blank" />
+
+<script>
+	var barcode = "000651";
+	var stockcode = "0006512";
+	var code = "000651";
+	var topicid="176484739";
+	var zwuser = "丛蓉";
+	var guba_type = "2";
+	var dis_wzc = false;
+	var stockname = "格力电器";
+    var plqx=0;
+    
+	var OuterCode = "000651";
+    var Category="100";
+    var Division="1";
+    var Market="101";
+    var Type="200";
+    var QuoteCode="0006512";
+    var BarType="0";
+	var CodeWithMarket = "000651.sz";
+    var qq_code = "";var qq_code2 = "";
+    var topictype = 7;
+</script>
+</head>
+<body class="hlbody">
+<div id="header">
+	<div class="gbbody" id="headergbbody">
+		<div id="topnavindex"><a href="http://www.eastmoney.com/">东方财富网</a></div>
+		<ul id="topnav">
+			<li><a href="http://guba.eastmoney.com/">股吧首页</a></li>
+			<li><a href="//guba.eastmoney.com/jj.html">基金吧首页</a></li>
+			<li><a href="http://iguba.eastmoney.com/">我的股吧</a></li>
+			<li><a href="remenba.aspx?type=1">热门吧</a></li>
+			<li><a href="/ft_list.aspx">股吧访谈</a></li>
+			<!-- <li><a href="http://quote.eastmoney.com/favor/default.html">自选股行情</a></li> -->
+			<li><a href="http://js5.eastmoney.com/tg.aspx?ID=1698" target="_blank">手机版</a></li>
+			<!-- <li><a href="remenba.aspx?type=2">热门主题吧</a></li> -->
+		</ul>
+		<form method="GET" action="/search.aspx" id="topnavsearch">
+			<input type="text" name="t" id="topnavskey" placeholder="搜索 股票/讨论/用户" autocomplete="off" /><input type="submit" value=" " id="topnavsubmit" title="点击开始搜索" />
+			<div id="topnavsearchre">
+				<ul></ul>
+			</div>
+		</form>
+		<ul id="topnavper">
+			<li class="topbarhaslogin" id="topbarloginuserdiv" style="display:none;"><strong><span class="headerusername"></span></strong></li>
+			<li class="topbarhaslogin" style="display: none;"><span class="tnavsel">消息<em class="tnavselic"></em>
+				<div class="topnavdown">
+					<div class="topnavdownt">消息<em class="tnavselid"></em></div>
+					<ul class="topnavdownul topnavdownulmsgul">
+						<li><a href="http://iguba.eastmoney.com/replyme">&nbsp;&nbsp;查看新回复<em></em></a></li>
+						<li><a href="http://iguba.eastmoney.com/atmereply">&nbsp;&nbsp;查看新@我的<em></em></a></li>
+						<li><a href="http://iguba.eastmoney.com/myfans">&nbsp;&nbsp;查看新粉丝<em></em></a></li>
+						<li><a href="javascript:;" target="_self" class="alarm" data-type="1">&nbsp;&nbsp;股价提醒<em></em></a></li>
+						<li><a href="javascript:;" target="_self" class="alarm" data-type="2">&nbsp;&nbsp;公告提醒<em></em></a></li>
+						<li><a href="javascript:;" target="_self" class="alarm" data-type="3">&nbsp;&nbsp;研报提醒<em></em></a></li>
+						<li class="nobg"><a href="javascript:;" class="alarm" data-type="4" target="_self">&nbsp;&nbsp;数据提醒<em></em></a></li>
+					</ul>
+					</div>
+				</span>
+			</li>
+			<li class="topbarhaslogin" style="display:none;"><span class="tnavsel">设置<em class="tnavselic"></em>
+				<div class="topnavdown">
+					<div class="topnavdownt">设置<em class="tnavselid"></em></div>
+					<ul class="topnavdownul">
+						<li><a href="http://iguba.eastmoney.com/setting" target="_blank">个人设置</a></li>
+						<li><a href="http://passport.eastmoney.com/UpdatePass.EmUser" target="_blank">修改密码</a></li>
+						<li><a href="http://iguba.eastmoney.com/setting/privacy" target="_blank">隐私设置</a></li>
+						<li><a href="http://iguba.eastmoney.com/setting/message" target="_blank">消息设置</a></li>
+						<li><a href="http://iguba.eastmoney.com/jiav.aspx" target="_blank">V认证</a></li>
+						<li class="nobg"><a id="topbarlogoutlink" href="javascript:;" target="_self">退出</a></li>
+					</ul>
+					</div>
+				</span>
+			</li>
+			<li class="topbarlogin tnavselloginfix">您好，欢迎来股吧！  </li>
+			<li class="topbarlogin tnavsellogin"><a href="javascript:;" target="_self"><strong>登录/注册</strong></a>
+				<div id="headerlogin" class="topnavdown clearfix">
+					<div id="fast">
+						<div class="t">使用合作网站帐号登录</div>
+						<div class="b">
+							<a href="javascript:;" target="_self" class="headerlogintlink qqlogin"><em class="qqicon"></em>腾讯QQ帐号登录</a>
+							<a href="javascript:;" target="_self" class="headerlogintlink sinalogin"><em class="sinaicon"></em>新浪微博帐号登录</a>
+						</div>
+						
+					</div>
+					<div id="hlogin">
+						<div id="hlclose" onclick="$('#headerlogin').hide();">X</div>
+						<div class="timg"><a href="http://passport.eastmoney.com/PhoneReg.EmUser">5秒注册</a></div>
+						<div class="t">已有自选股、股吧、博客帐号，可直接登录</div>
+						<div id="hloginerror">&nbsp;</div>
+						<form method="post" action="" id="headnaviloginform" target="_self">
+							<div class="i"><label>登录名：<input type="text" class="hinput" placeholder="手机/邮箱名/用户名" id="husername" autocomplete="off" /></label></div>
+							<div class="i"><label>密　码：<input type="password" class="hinput" placeholder="请输入登录密码" id="hpassword" /></label></div>
+							<div class="i" id="hlvcodediv"><label>验证码：<input type="text" class="hinput3" placeholder="请输入验证码" id="hlvcode" /></label> <img src="" id="hlvcodeimg" title="点击更换验证码" /></div>
+							<div class="i">　　　　<input type="submit" value="登录" class="hinput2" id="hlformsubmit" /> &nbsp;　 <a href="http://passport.eastmoney.com/FindPwd.EmUser" class="hlink">忘记密码？</a></div>
+						</form>
+					</div>
+				</div>			
+			</li>
+		</ul>
+	</div>
+</div>
+
+<div class="gbbody"><div class="dh10"></div><iframe width="980" height="60" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=1048&op=1" ></iframe></div>
+
+<div id="headerban" class="gbbody">
+	<div id="headerbanlogo"><a href="/"><img src="images/gubahlogo.png" width="252" height="52" alt="股吧" /></a></div>
+	<div id="gbhsearch">
+		<form id="gbhscform">
+			<ul id="gbhsctab">
+				<li class="on">按吧名搜索</li>
+				<li>按内容搜索</li>
+				<li>按作者搜索</li>
+			</ul>
+			<input type="text" name="" id="gbhsckey" /><input type="submit" value="股吧搜索" id="gbhscsbm" />
+		</form>
+	</div>
+	<div id="gbhri">
+		热门：<a href="/list,000002.html">万科A吧</a> <a href="/list,000520.html">长航凤凰吧</a> <a href="/list,000629.html">攀钢钒钛吧</a> 
+	</div>
+</div>
+
+<div id="stockheader" class="gbbody">
+	<span id="stockif">
+		<span id="stockname" data-popstock="000651" data-poptype="1"><a href="/list,000651.html">格力电器吧</a></span>
+	</span>
+	<span id="header_stock_btns"></span>
+	<div id="zjfw" class="zjfw"><ul><li class="zjfwdb">您最近访问的吧：</li><li><span id="baHistory"></span></li></ul></div>
+</div>
+<div class="zwheadbline gbbody"><div class="zwheadblineb"></div></div>
+<div class="gbbody">
+<div id="mainbody">
+	
+	<div class="zwheadpager">
+		<div class="zwhpager"></div>
+		<div class="zwhpagerr"><a href="list,000651.html">返回格力电器吧&gt;&gt;</a></div>
+	</div>
+	<div id="zwmbti">
+		<div id="zwmbtili"><a href="http://js1.eastmoney.com/tg.aspx?ID=3979" target="_blank">[头条]三因素致A股变异</a></div>
+		<div id="zwmbtilr"></div>
+	</div>
+	
+	<div id="zwcontent" >
+		
+		<div id="zwcontt">
+			<div id="zwconttphoto"><a href="http://iguba.eastmoney.com/8717112463810190" data-poptype="2" data-popper="8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/50" width="50" height="50" class="userphoto" /></a></div>
+			<div id="zwconttb">
+				<div id="zwconttbn"><strong><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></strong>  <span class="influence" data-uid="8717112463810190"></span></div>
+                <div class="zwfbtime">发表于 2015-06-11 23:42:15 股吧网页版</div>                                                                                         
+				
+			</div>
+			<div id="zwconttbtns">
+				<a href="http://iguba.eastmoney.com/secr.aspx?code=000651&id=176484739" style="display:none;" id="dongmilink" class="graylink">董秘直通车</a>&ensp;<a href="javascript:;" target="_self" id="jubaolink" class="graylink">举报</a>
+			</div>
+		</div>
+		<div class="zwcontentmain">
+			
+			<div id="zwconttbt">格力的荣耀 </div>
+			<div id="zwconbody">
+			<div class="stockcodec">
+				重大荣誉（按时间排序）1）世界名牌：2006年9月，“格力空调”被国家质检总局授予“世界名牌”称号，成为中国空调行业第一个也是唯一一个“世界名牌”产品。2）全国质量奖：2006年11月，格力电器荣获中国质量领域的顶级荣誉——“全国质量奖”。3）出口免验：2006年11月，格力牌窗式空调被国家质检总局授予“出口免验”证书；2009年6月，格力分体挂壁式空调又获“出口免验”证书。格力电器是中国空调行业第一家、同时也是唯一同时具有“窗式空调”和“分体挂壁式空调”出口免验资质的企业；2012年5月，格力窗式空调和分体挂壁式空调再次获得出口免验资质。4）最具市场竞争力品牌：2007年1月，“格力”被国家商务部授予“最具市场竞争力品牌”。5）全国质量工作先进集体：2007年7月，格力电器被国家人事部、国家质检总局联合授予“全国质量工作先进集体”称号，是家电行业唯一获此殊荣的企业。6）全国五一劳动奖状：2008年4月，格力电器被中华全国总工会授予“五一劳动奖状”。7）国家商标战略实施示范企业：2010年6月，格力电器被国家工商行政管理总局授予空调行业唯一的“国家商标战略实施示范企业”。8）中国商标金奖：2011年9月，格力电器摘得中国商标奖创新类金奖，成为唯一获得中国商标金奖的广东家电企业。9）永磁同步直流变频离心式冷水机组：2011年12月17日，格力直流变频离心机组被周远院士、江亿院士、陶文铨院士、王浚院士、饶芳权院士在内的专家组一致鉴定为“国际领先”水平；2013年4月，格力直流变频离心机组实现系列化量产，机组IPLV（部分负荷性能）达到11.68，引领大型中央空调进入直流变频时代。10）国家科技进步奖：2012年2月14日，在北京人民大会堂举行的国家科学技术奖励大会上，格力“变频空调关键技术的研究和应用”（即“一赫兹变频技术”）荣获国家科技进步奖，成为该奖项设立以来唯一获奖的专业化空调企业。11）双级变频压缩机：2012年12月22日，格力双级变频压缩机鉴定为“国际领先”，改写了空调百年历史，让空调行业进入新时代。应用格力双级变频压缩机的 “全能王”空调，实现零下30℃强劲制热和54℃高温快速制冷。冬季制热量最高可提升40%，夏季制冷量最高可提升35%。12）光伏直驱变频离心机系统：2013年12月21日，格力光伏直驱变频离心机系统鉴定为“全球首创、国际领先”，实现了中央空调能源自给自足、不用电费，开创了中央空调的零能耗时代。13）磁悬浮变频离心式制冷压缩机及冷水机组：2014年3月7日，格力磁悬浮变频离心式制冷压缩机及冷水机组被鉴定为“国际领先”。该产品应用了磁悬浮轴承技术，是一种更为节能、高效的中央空调产品。格力由此成为全球继丹佛斯（TURBOCOR）公司之后，第二家完全掌握磁悬浮离心压缩机核心技术的企业，且在业界首次推出1000冷吨磁悬浮变频离心机，填补了大冷量磁悬浮离心机的空白。14）联合国“城市可持续发展宣传大使”：2014年9月17日，格力电器董事长董明珠被联合国开发计划署聘为“城市可持续发展宣传大使”。这项国际荣誉的获得，源自董明珠掌舵的格力电器长期以来在技术创新、提高能源效率和缓和环境恶化方面做出的不懈努力与贡献。15）国家科技进步奖：2015年1月9日，格力电器“基于掌握核心科技的自主创新工程体系建设”项目荣获国家科学技术进步奖。格力凭创新实力第三次获得国家科学技术奖，成为获此国家级奖项最多的空调企业。16）广东省科技进步特等奖：2015年2月27日，广东省科技创新大会在深圳召开，珠海格力电器凭借其无稀土永磁辅助式同步磁阻电机的变频压缩机（简称新型高效磁阻变频压缩机）项目摘得广东省科技进步特等奖，解决了变频空调高速发展与稀土资源匮乏之间的矛盾，显著提高了我国空调行业的国际竞争力。格力电器家用空调年产能超过6000万台套，商用空调年产能 550万台套。产品种类20个大类、400个系列、12700多个品种规格，其中商用空调有10大系列、1000多个品种。2014年纳税148.07亿元，累计纳税535.22亿元，累计实现利税1,058.50亿元。连续13年位居中国家电行业纳税首位。销售业绩2010年实现营业总收入608.07亿元，净利润42.76亿元。2011年实现营业总收入835.17亿元，净利润52.37亿元。2012年实现营业总收入1001.10亿元，同比增长19.87%；净利润73.80亿元，同比增长40.92%，成为中国首家实现千亿的家电上市企业。2013年实现营业总收入1200.43亿元，同比增长19.91%；实现归属于上市公司股东的净利润108.71亿元，同比增长47.31%，成为中国首家净利润、税收双双超过百亿的家电企业。2015年1月19日晚间，格力电器发布2014年业绩快报。报告显示，公司2014年实现营业总收入1400.05亿元，同比增长16.63%；归属于上市公司股东的净利润为141.14亿元，同比增长29.84%，较上年末均有较好增长。格力产品（包括自主品牌和OEM产品）远销全球200多个国家和地区，其中“格力”品牌空调（自主品牌）远销全球160多个国家和地区；格力家用空调产销量自1995年起连续20年位居中国空调行业第一，自2005年起连续10年领跑全球。截至目前，全球格力用户超过3亿。公司拥有8000多名科研人员、2个国家级技术研究中心、1个省级企业重点实验室、6个研究院（制冷技术研究院、机电技术研究院、家电技术研究院、自动化研究院、新能源环境技术研究院、健康技术研究院）、52个研究所、570多个实验室；累计申请技术专利14000多项，其中申请发明专利近5000项。仅2014年申请专利4100多项，平均每天11项专利问世。12项“国际领先”成果：超低温数码多联机组、高效离心式冷水机组、1赫兹低频控制技术、变频空调关键技术的研究和应用、超高效定速压缩机、R290环保冷媒空调、多功能地暖户式中央空调、永磁同步变频离心式冷水机组、无稀土磁阻变频压缩机、双级变频压缩机、光伏直驱变频离心机系统、磁悬浮变频离心式制冷压缩机及冷水机组2012年、2013年科研经费均超过40亿元。转载：格力董明珠：“中国制造2025”代言人腾讯数码[微博]2015年04月02日16:03分享跻身“十三五”规划55人专家智囊团，做“中国制造2025”的代言人，董明珠实至名归。即将到来的“十三五”时期被看做是中国发展最为关键的五年。承担着全面建成小康社会、深化改革、转变经济发展方式等重大历史使命，“十三五”规划的编制工作意义重大，影响深远，同时也面临着莫大的考验。我们看到，近日国家发改委为编制好“十三五”规划，组建了一支由55人组成的豪华智囊团，来自经济、金融、科技、环保、能源、城市规划等各领域的顶尖学者和企业家名列其中。值得注意的是，在这份智囊团名单中，有3位是来自实体经济的企业“委员”。最近频频登上媒体头条的格力电器董事长董明珠就是其中之一。可能是最近有关格力和董明珠的新闻太多了，与更吸引人眼球的格力手机横空出世事件相比，董明珠成为国家“十三五”规划智囊团成员这件事似乎并未引起媒体的太大关注。而在笔者看来，这件事的新闻价值远超近期聚焦在董明珠身上的社会舆论，因为它反映出的是格力对技术创新与产品质量的极致追求，获得了国家的高度认可，其背后蕴藏着的“工业精神”也正是实现“中国制造2025”规划的基石所在。自强不息在国家发改委官网上，对于董明珠“委员”的介绍是：1990年加入格力电器，历任业务经理、经营部副部长、部长、副总经理、总经理、副董事长兼总裁、董事长兼总裁等职务。第十至十二届全国人大代表，担任民建中央常委、全国妇联第十届执委会委员、中国家电协会副理事长、中国社会经济调查研究中心理事会理事、广东省妇联执委会委员、广东省女企业家协会副会长、珠海市女企业家协会会长、珠海市红十字会荣誉会长等职务。其实，董明珠身上还有很多光环。她是全球知名杂志《财富》2014年度“中国最具影响力的25位商界女性”排行榜榜首，是联合国“城市可持续发展宣传大使”，是2013年“中国经济年度人物”……20年多年间，董明珠从一名基层业务员，成长为格力电器掌门人，将格力电器这艘年营业收入超过千亿的巨型航母行驶进了国际市场。格力电器的成功，可以说与董明珠自身所具有的脚踏实地、充满自信、勇于变革、自强不息的精神是分不开的。董明珠，属马，狮子座。若按星相解读，这类人永远都是胜利者，因为他们不畏困阻不惧敌对，做任何事情都全力以赴，在鼓励中不断超越自己。一旦他们确定了目标，就会毫不犹豫地一头钻进去，不成功是绝对不会出来的。曾经有这样一个段子，将董明珠的性格展现得淋漓尽致。2001年初，重庆一家大型外资企业伏特公司向全国公开招标购买50套“一拖四”多联式中央空调。消息公布后，包括格力在内的国内各大空调企业纷纷报名参加竞标。事实上，国内当时没有一家企业具备生产这种空调的技术和能力，格力也没有，只能做到“一拖二”。按照当时中国企业的惯常做法就是到国外买技术。2001年，格力高层到日本希望引进多联式中央空调技术，并打算出5亿元的高价。然而，一向与格力合作良好的日本企业一口回绝了格力的请求，而且连相关设备的配件都不卖给格力。日方明确表示，自己花了16年才研制出来的核心技术是绝对不会转让给任何一家中国企业的。这事对格力上下触动很深，彼时董明珠担任格力总裁，她和格力的领导层深深地意识到，买别人的技术只能是别人要淘汰的，要树立中国品牌形象，就必须走自主创新的道路。格力领导层当即决定组织攻关小组，无论花多大的代价也要掌握多联式中央空调的核心技术。他们相信别人能做到的，格力也能做到。也正是在这种精神的指引下，才有了今天的格力，成就了格力全球空调行业领军者的地位。今天的董明珠，依然时刻保持着清醒的头脑。在“互联网思维”的风口上，董明珠没有人云亦云，而是在认真思考。她坚定地认为，没有实体经济的基础作用，互联网等于零。董明珠从来不是默守陈规之人。我们看到，格力无论是做手机，还是做自动化加工设备，都融入了互联网新技术、新思维。面对“互联网 ”的风潮，促进制造业的转型升级，董明珠在进行着脚踏实地的探索。追求极致有了骨血，就有了精魂。有专家表示，“中国制造2025”更多借鉴学习了德国工业4.0战略。正如国务院总理李克强在政府工作报告中所言，实施“中国制造2025”，就要坚持创新驱动、智能转型、强化基础、绿色发展。我们看到，格力电器多年来正是在沿着这个方向在不断地前进。今年1月份，格力荣获自主创新工程体系国家科技进步奖。同时，董明珠对于技术、创新和质量的极致追求，也与“德国制造”的精髓颇为一致。众多业内人士认为，要实现“中国制造2025”任重道远。整体来看，中国制造的升级面临着很多的困境，比如产品附加值低、高端人才缺乏、创新投入短缺、贸易壁垒高筑等等。于企业而言，应加快从要素驱动向创新驱动转变，将低成本的竞争优势改变为质量效益竞争优势，改变资源消耗大、污染物排放多的粗放制造，推行绿色制造。格力，早已开启了绿色制造之路。董明珠立志将格力打造为百年品牌，为追求核心技术锲而不舍，视产品质量为企业的生命。一个业界熟知的事件是，格力曾设计了一款卧室空调，风扇叶与机体只有0.8毫米缝隙，既美观又阻挡灰尘，而一般的卧室空调缝隙是1.5毫米。研发人员本来沾沾自喜，认为公司领导肯定满意。但是董明珠依然嫌缝隙太大不好看，要求改小改小再改小。最终，产品延迟了3个月推出，做到了不可思议的0.3毫米缝隙。董明珠表示，格力一直在用挑战式的思维，追求极致，突破极限，研究并掌握核心技术。格力每年约40亿元且不设上限的研发投入、8000多人的研发队伍，是其创新驱动的根基，直接产生的结果是平均每天有11项专利问世，仅空调产品就有12700多个品种规格。从“好空调，格力造”到“格力掌握核心科技”，再到“让天空更蓝，大地更绿”，现在的“科技改变生活”，格力每一步成长都对自己提出了更高的要求。格力一直以“为消费者提供更加舒适的生活”为研发目标，无论是格力空调还是晶弘冰箱、TOSOT生活电器，都十分强调消费者的舒适性和便利性，在性能设计和外观设计上也非常人性化。在研发和生产方面，格力紧贴国家节能减排的大战略。在产品研发上，节能省电的“1赫兹低频控制技术”已应用于格力全部家用空调产品，“光伏直驱变频离心机和多联机系统”把“不用电费的中央空调”由梦想变为现实。下一步，格力的目标是，不仅仅格力空调不用电费，格力空调发的电还能用于消费者家中所有电器的能耗上。同时，鲜为人知的是，格力还先后在长沙、郑州、石家庄、芜湖、天津投资建设了五家绿色拆解基地，倾心打造循环经济，为创建资源节约型和环境友好型社会不懈努力。并且，为了适应制造业转型升级带来的用人结构变化和要求，格力工程技术学院正在筹建中。去年7月，格力与德国被誉为欧洲“优秀工程师摇篮”的达姆施塔特工业大学达成合作，共同推进格力学院建设，培养更适合格力技术要求的人才。未来，格力学院也将面向社会培养更多的制造业人才。敢说真话“我在格力干了20年，是战斗的20年，与市场斗，与人斗，与自己斗。”董明珠曾在自传《棋行天下》中如是写道。去年以来，董明珠因为“直言不讳”，甚至被有些人看做是“新时代的大炮”。对于敢说真话的董明珠，业界褒贬不一。但董明珠对此十分淡定：没有人出来讲真话，中国制造怎么办？这或许也是董明珠入选国家“十三五”规划专家智囊团原因之一。毕竟，智囊团的任务是建言献策，说真话是最基本的要求，也是弥足珍贵的。回顾去年7月14日下午，6位行业领军的企业家获邀走进中南海会议室，与总理李克强、副总理张高丽等进行了两个多小时的经济形势座谈。“很多人觉得经济形势不好，但从我自己的角度看，我觉得非常好”，“只要有公平竞争的环境，企业自己就可以做好”，“不要对节能产品进行补贴，因为目前国家对节能标准监管不力，给一些企业可趁之机”……作为获邀的唯一女性企业家，董明珠的发言得到了总理“气壮山河”、“罕见”、“敢说真话，不怕得罪人”的现场表扬。董明珠确实是个敢说真话的人，因为她具备说真话的底气。秉持实干家自强不息、勇于接受挑战、敢说真话、智慧过人的精神，董明珠带领格力在制造业的转型升级之路上不断探索。跻身“十三五”规划55人专家智囊团，做“中国制造2025”的代言人，董明珠实至名归。[责任编辑：frontzhang][点击查看博客原文] 
+				</div>
+			
+
+	</div>
+
+		</div>
+		<div class="zwconbtns clearfix">
+			<div class="zwconbtnsi" id="zwconbtnsi_pl" onclick="try{gudong.stat(3,null);}catch (e){};">
+				<div class="zwconbtnsii"></div>
+				<a href="javascript:;" target="_self">我要评论</a>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_zf" onclick="try{gudong.stat(4,null);}catch (e){};">
+				<div class="zwconbtnsii"></div>
+				<a href="javascript:;" target="_self">转发</a>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_z">
+				<div class="zwconbtnsii"></div>
+				<span id="zwpraise"><a href="javascript:;" target="_self">赞</a></span>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_sc">
+				<div class="zwconbtnsii"></div>
+				<span id="zwconbtsc"><a href="javascript:;" target="_self">收藏本帖</a></span>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_fx">
+				<div class="zwconbtnsia">
+					<div class="zwconbtnsii"></div>
+					<span id="zwconbtsc"><a href="javascript:;" target="_self">分享</a></span>
+				</div>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_jb">
+				<div class="zwconbtnsii"></div>
+				<span id="zwpraise"><a href="javascript:;" target="_self">举报本帖</a></span>
+			</div>
+		</div>
+
+
+		<div class="gubamobilegg2014" id="zwcontentbgg" style="display:none; text-align:center;">
+			<ul><li><span class="red"><a href="http://stattg.eastmoney.com/10361" ><strong>IPO再次重启，万2.5开户打新！今年新股平均上涨4倍！！</strong></a></span>&nbsp;<span class="red"><a href="http://js5.eastmoney.com/tg.aspx?ID=2334 " ><strong>年末热炒高送转，哪些股值得布局？机构观点抢先看！</strong></a></span>&nbsp;<span class="red"><a href="http://stattg.eastmoney.com/10147" ><strong>机构私募都在用的炒股软件</strong></a></span>&nbsp;<span class="red"><a href="http://js1.eastmoney.com/tg.aspx?ID=3744" ><strong>三因素致A股变异 酿酒家电大涨</strong></a></span></li></ul>
+		</div>
+
+		<div class="clear"></div>
+
+	</div>
+	
+	<div id="zwcontab">
+		<ul>
+			<li class="on"><a href="news,000651,176484739.html" target="_self">全部评论（40）</a></li>
+			
+			<li  ><a href="news,000651,176484739,8717112463810190.html#storeply" target="_self">只看楼主发言</a></li>
+			
+		</ul>
+        
+		<div id="zwcontabsort">
+			排序<a href="news,000651,176484739.html#storeply" target="_self"><span class="on">最早</span></a><a href="news,000651,176484739,d.html#storeply" target="_self"><span >最近</span></a><a href="javascript:;" target="_self"><span id="zwshowzzbtn">最赞</span></a>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+	
+	<div id="zwlist">
+    
+		<div class="zwli clearfix" id="zwli7857741530" data-huifuid="7857741530" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7857741530">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  11:56:34</div>
+		
+                     
+					<div class="zwlitext stockcodec">楼上是自动从我博客里转过来的，转的时候没有分行，一塌糊涂。 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7857744332" data-huifuid="7857744332" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7857744332">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  11:57:57</div>
+		
+                     
+					<div class="zwlitext yasuo stockcodec">（一）格力的荣耀（按时间排序）：<br><br>1）世界名牌：2006年9月，“格力空调”被国家质检总局授予“世界名牌”称号，成为中国空调行业第一个也是唯一一个“世界名牌”产品。<br><br>2）全国质量奖：2006年11月，格力电器荣获中国质量领域的顶级荣誉——“全国质量奖”。<br><br>3）出口免验：2006年11月，格力牌窗式空调被国家质检总局授予“出口免验”证书；2009年6月，格力分体挂壁式空调又获“出口免验”证书。格力电器是中国空调行业第一家、同时也是唯一同时具有“窗式空调”和“分体挂壁式空调”出口免验资质的企业；2012年5月，格力窗式空调和分体挂壁式空调再次获得出口免验资质。<br><br>4）最具市场竞争力品牌：2007年1月，“格力”被国家商务部授予“最具市场竞争力品牌”。<br><br>5）全国质量工作先进集体：2007年7月，格力电器被国家人事部、国家质检总局联合授予“全国质量工作先进集体”称号，是家电行业唯一获此殊荣的企业。<br><br>6）全国五一劳动奖状：2008年4月，格力电器被中华全国总工会授予“五一劳动奖状”。<br><br>7）国家商标战略实施示范企业：2010年6月，格力电器被国家工商行政管理总局授予空调行业唯一的“国家...</div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7857745825" data-huifuid="7857745825" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7857745825">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  11:58:44</div>
+		
+                     
+					<div class="zwlitext yasuo stockcodec">格力电器家用空调年产能超过6000万台套，商用空调年产能 550万台套。<br>产品种类20个大类、400个系列、12700多个品种规格，其中商用空调有10大系列、1000多个品种。<br>2014年纳税148.07亿元，累计纳税535.22亿元，累计实现利税1,058.50亿元。连续13年位居中国家电行业纳税首位。<br><br>销售业绩<br>2010年实现营业总收入608.07亿元，净利润42.76亿元。<br>2011年实现营业总收入835.17亿元，净利润52.37亿元。<br>2012年实现营业总收入1001.10亿元，同比增长19.87%；净利润73.80亿元，同比增长40.92%，成为中国首家实现千亿的家电上市企业。<br>2013年实现营业总收入1200.43亿元，同比增长19.91%；实现归属于上市公司股东的净利润108.71亿元，同比增长47.31%，成为中国首家净利润、税收双双超过百亿的家电企业。<br>2015年1月19日晚间，格力电器发布2014年业绩快报。报告显示，公司2014年实现营业总收入1400.05亿元，同比增长16.63%；归属于上市公司股东的净利润为141.14亿元，同比增长29.84%，较上年末...</div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7857753752" data-huifuid="7857753752" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7857753752">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  12:03:09</div>
+		
+                     
+					<div class="zwlitext yasuo stockcodec">（二）<br>转载：格力董明珠：“中国制造2025”代言人<br>腾讯数码[微博]2015年04月02日16:03<br>分享<br>跻身“十三五”规划55人专家智囊团，做“中国制造2025”的代言人，董明珠实至名归。<br><br>即将到来的“十三五”时期被看做是中国发展最为关键的五年。承担着全面建成小康社会、深化改革、转变经济发展方式等重大历史使命，“十三五”规划的编制工作意义重大，影响深远，同时也面临着莫大的考验。<br><br>我们看到，近日国家发改委为编制好“十三五”规划，组建了一支由55人组成的豪华智囊团，来自经济、金融、科技、环保、能源、城市规划等各领域的顶尖学者和企业家名列其中。<br><br>值得注意的是，在这份智囊团名单中，有3位是来自实体经济的企业“委员”。最近频频登上媒体头条的格力电器董事长董明珠就是其中之一。<br><br>可能是最近有关格力和董明珠的新闻太多了，与更吸引人眼球的格力手机横空出世事件相比，董明珠成为国家“十三五”规划智囊团成员这件事似乎并未引起媒体的太大关注。而在笔者看来，这件事的新闻价值远超近期聚焦在董明珠身上的社会舆论，因为它反映出的是格力对技术创新与产品质量的极致追求，获得了国家的高度认可，其背后蕴藏着的“工...</div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7857759928" data-huifuid="7857759928" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7857759928">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  12:06:49</div>
+		
+                     <div class="zwlitalkbox"><div class="zwlitalkboxh"><div class="zwlitalkboxph"><a href="http://iguba.eastmoney.com/8717112463810190" data-poptype="2" data-popper="8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/50" width="30" height="30" class="userphoto" /></a></div><div class="zwlitalkboxuinfo"><div class="zwlitalkboxname zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a>  <span class="influence" data-uid="8717112463810190"></span></div><div class="zwlitalkboxtime">发表于 2015-06-12 12:03:09</div></div></div><div class="zwlitalkboxtext">（二）<br>转载：格力董明珠：“中国制造2025”代言人<br>腾讯数码[微博]2015年04月02日16:03<br>分享<br>跻身“十三五”规划55人专家智囊团，做“中国制造2025”的代言人，董明珠实至名归。<br><br>即将到来的“十三五”时期被看做是中国发展最为关键的五年。承担着全面建成小康社会、深化改革、转变经济发展方式等重大历史使命，“十三五”规划的编制工作意义重大，影响深远，同时也面临着莫大的考验。<br><br>我们看到，近日国家发改委为编制好“十三五”规划，组建了一支由55人组成的豪华智囊团，来自经济、金融、科技、环保、能源、城市规划等各领域的顶尖学者和企业家名列其中。<br><br>值得注意的是，在这份智囊团名单中，有3位是来自实体经济的企业“委员”。最近频频登上媒体头条的格力电器董事长董明珠就是其中之一。<br><br>可能是最近有关格力和董明珠的新闻太多了，与更吸引人眼球的格力手机横空出世事件相比，董明珠成为国家“十三五”规划智囊团成员这件事似乎并未引起媒体的太大关注。而在笔者看来，这件事的新闻价值远超近期聚焦在董明珠身上的社会舆论，因为它反映出的是格力对技术创新与产品质量的极致追求，获得了国家的高度认可，其背后蕴藏着的“工业精神”也正是实现“中国制造2025”规划的基石所在。 </div></div>
+					<div class="zwlitext yasuo stockcodec">自强不息<br><br>在国家发改委官网上，对于董明珠“委员”的介绍是：1990年加入格力电器，历任业务经理、经营部副部长、部长、副总经理、总经理、副董事长兼总裁、董事长兼总裁等职务。第十至十二届全国人大代表，担任民建中央常委、全国妇联第十届执委会委员、中国家电协会副理事长、中国社会经济调查研究中心理事会理事、广东省妇联执委会委员、广东省女企业家协会副会长、珠海市女企业家协会会长、珠海市红十字会荣誉会长等职务。<br><br>其实，董明珠身上还有很多光环。她是全球知名杂志《财富》2014年度“中国最具影响力的25位商界女性”排行榜榜首，是联合国“城市可持续发展宣传大使”，是2013年“中国经济年度人物”……<br><br>20年多年间，董明珠从一名基层业务员，成长为格力电器掌门人，将格力电器这艘年营业收入超过千亿的巨型航母行驶进了国际市场。格力电器的成功，可以说与董明珠自身所具有的脚踏实地、充满自信、勇于变革、自强不息的精神是分不开的。<br><br>董明珠，属马，狮子座。若按星相解读，这类人永远都是胜利者，因为他们不畏困阻不惧敌对，做任何事情都全力以赴，在鼓励中不断超越自己。一旦他们确定了目标，就会毫不犹豫地一头钻进去，不成功是绝...</div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7857761017" data-huifuid="7857761017" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7857761017">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  12:07:27</div>
+		
+                     <div class="zwlitalkbox"><div class="zwlitalkboxh"><div class="zwlitalkboxph"><a href="http://iguba.eastmoney.com/8717112463810190" data-poptype="2" data-popper="8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/50" width="30" height="30" class="userphoto" /></a></div><div class="zwlitalkboxuinfo"><div class="zwlitalkboxname zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a>  <span class="influence" data-uid="8717112463810190"></span></div><div class="zwlitalkboxtime">发表于 2015-06-12 12:06:49</div></div></div><div class="zwlitalkboxtext">自强不息<br><br>在国家发改委官网上，对于董明珠“委员”的介绍是：1990年加入格力电器，历任业务经理、经营部副部长、部长、副总经理、总经理、副董事长兼总裁、董事长兼总裁等职务。第十至十二届全国人大代表，担任民建中央常委、全国妇联第十届执委会委员、中国家电协会副理事长、中国社会经济调查研究中心理事会理事、广东省妇联执委会委员、广东省女企业家协会副会长、珠海市女企业家协会会长、珠海市红十字会荣誉会长等职务。<br><br>其实，董明珠身上还有很多光环。她是全球知名杂志《财富》2014年度“中国最具影响力的25位商界女性”排行榜榜首，是联合国“城市可持续发展宣传大使”，是2013年“中国经济年度人物”……<br><br>20年多年间，董明珠从一名基层业务员，成长为格力电器掌门人，将格力电器这艘年营业收入超过千亿的巨型航母行驶进了国际市场。格力电器的成功，可以说与董明珠自身所具有的脚踏实地、充满自信、勇于变革、自强不息的精神是分不开的。<br><br>董明珠，属马，狮子座。若按星相解读，这类人永远都是胜利者，因为他们不畏困阻不惧敌对，做任何事情都全力以赴，在鼓励中不断超越自己。一旦他们确定了目标，就会毫不犹豫地一头钻进去，不成功是绝对不会出来的。<br><br>曾经有这样一个段子，将董明珠的性格展现得淋漓尽致。<br><br>2001年初，重庆一家大型外资企业伏特公司向全国公开招标购买50套“一拖四”多联式中央空调。消息公布后，包括格力在内的国内各大空调企业纷纷报名参加竞标。<br><br>事实上，国内当时没有一家企业具备生产这种空调的技术和能力，格力也没有，只能做到“一拖二”。按照当时中国企业的惯常做法就是到国外买技术。2001年，格力高层到日本希望引进多联式中央空调技术，并打算出5亿元的高价。然而，一向与格力合作良好的日本企业一口回绝了格力的请求，而且连相关设备的配件都不卖给格力。日方明确表示，自己花了16年才研制出来的核心技术是绝对不会转让给任何一家中国企业的。<br><br>这事对格力上下触动很深，彼时董明珠担任格力总裁，她和格力的领导层深深地意识到，买别人的技术只能是别人要淘汰的，要树立中国品牌形象，就必须走自主创新的道路。格力领导层当即决定组织攻关小组，无论花多大的代价也要掌握多联式中央空调的核心技术。他们相信别人能做到的，格力也能做到。<br><br>也正是在这种精神的指引下，才有了今天的格力，成就了格力全球空调行业领军者的地位。<br><br>今天的董明珠，依然时刻保持着清醒的头脑。在“互联网思维”的风口上，董明珠没有人云亦云，而是在认真思考。她坚定地认为，没有实体经济的基础作用，互联网等于零。<br><br>董明珠从来不是默守陈规之人。我们看到，格力无论是做手机，还是做自动化加工设备，都融入了互联网新技术、新思维。面对“互联网+”的风潮，促进制造业的转型升级，董明珠在进行着脚踏实地的探索。 </div></div>
+					<div class="zwlitext yasuo stockcodec">追求极致<br><br>有了骨血，就有了精魂。<br><br>有专家表示，“中国制造2025”更多借鉴学习了德国工业4.0战略。正如国务院总理李克强在政府工作报告中所言，实施“中国制造2025”，就要坚持创新驱动、智能转型、强化基础、绿色发展。<br><br>我们看到，格力电器多年来正是在沿着这个方向在不断地前进。今年1月份，格力荣获自主创新工程体系国家科技进步奖。同时，董明珠对于技术、创新和质量的极致追求，也与“德国制造”的精髓颇为一致。<br><br>众多业内人士认为，要实现“中国制造2025”任重道远。整体来看，中国制造的升级面临着很多的困境，比如产品附加值低、高端人才缺乏、创新投入短缺、贸易壁垒高筑等等。于企业而言，应加快从要素驱动向创新驱动转变，将低成本的竞争优势改变为质量效益竞争优势，改变资源消耗大、污染物排放多的粗放制造，推行绿色制造。<br><br>格力，早已开启了绿色制造之路。董明珠立志将格力打造为百年品牌，为追求核心技术锲而不舍，视产品质量为企业的生命。<br><br>一个业界熟知的事件是，格力曾设计了一款卧室空调，风扇叶与机体只有0.8毫米缝隙，既美观又阻挡灰尘，而一般的卧室空调缝隙是1.5毫米。研发人员本来沾沾自喜，认为公司领导肯定...</div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7857762941" data-huifuid="7857762941" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7857762941">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  12:08:34</div>
+		
+                     
+					<div class="zwlitext yasuo stockcodec">（一）格力的荣耀（按时间排序）：<br><br>1）世界名牌：2006年9月，“格力空调”被国家质检总局授予“世界名牌”称号，成为中国空调行业第一个也是唯一一个“世界名牌”产品。<br><br>2）全国质量奖：2006年11月，格力电器荣获中国质量领域的顶级荣誉——“全国质量奖”。<br><br>3）出口免验：2006年11月，格力牌窗式空调被国家质检总局授予“出口免验”证书；2009年6月，格力分体挂壁式空调又获“出口免验”证书。格力电器是中国空调行业第一家、同时也是唯一同时具有“窗式空调”和“分体挂壁式空调”出口免验资质的企业；2012年5月，格力窗式空调和分体挂壁式空调再次获得出口免验资质。<br><br>4）最具市场竞争力品牌：2007年1月，“格力”被国家商务部授予“最具市场竞争力品牌”。<br><br>5）全国质量工作先进集体：2007年7月，格力电器被国家人事部、国家质检总局联合授予“全国质量工作先进集体”称号，是家电行业唯一获此殊荣的企业。<br><br>6）全国五一劳动奖状：2008年4月，格力电器被中华全国总工会授予“五一劳动奖状”。<br><br>7）国家商标战略实施示范企业：2010年6月，格力电器被国家工商行政管理总局授予空调行业唯一的“国家...</div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7857767654" data-huifuid="7857767654" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7857767654">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  12:11:29</div>
+		
+                     <div class="zwlitalkbox"><div class="zwlitalkboxh"><div class="zwlitalkboxph"><a href="http://iguba.eastmoney.com/8717112463810190" data-poptype="2" data-popper="8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/50" width="30" height="30" class="userphoto" /></a></div><div class="zwlitalkboxuinfo"><div class="zwlitalkboxname zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a>  <span class="influence" data-uid="8717112463810190"></span></div><div class="zwlitalkboxtime">发表于 2015-06-12 12:08:34</div></div></div><div class="zwlitalkboxtext">（一）格力的荣耀（按时间排序）：<br><br>1）世界名牌：2006年9月，“格力空调”被国家质检总局授予“世界名牌”称号，成为中国空调行业第一个也是唯一一个“世界名牌”产品。<br><br>2）全国质量奖：2006年11月，格力电器荣获中国质量领域的顶级荣誉——“全国质量奖”。<br><br>3）出口免验：2006年11月，格力牌窗式空调被国家质检总局授予“出口免验”证书；2009年6月，格力分体挂壁式空调又获“出口免验”证书。格力电器是中国空调行业第一家、同时也是唯一同时具有“窗式空调”和“分体挂壁式空调”出口免验资质的企业；2012年5月，格力窗式空调和分体挂壁式空调再次获得出口免验资质。<br><br>4）最具市场竞争力品牌：2007年1月，“格力”被国家商务部授予“最具市场竞争力品牌”。<br><br>5）全国质量工作先进集体：2007年7月，格力电器被国家人事部、国家质检总局联合授予“全国质量工作先进集体”称号，是家电行业唯一获此殊荣的企业。<br><br>6）全国五一劳动奖状：2008年4月，格力电器被中华全国总工会授予“五一劳动奖状”。<br><br>7）国家商标战略实施示范企业：2010年6月，格力电器被国家工商行政管理总局授予空调行业唯一的“国家商标战略实施示范企业”。<br><br>8）中国商标金奖：2011年9月，格力电器摘得中国商标奖创新类金奖，成为唯一获得中国商标金奖的广东家电企业。<br><br>9）永磁同步直流变频离心式冷水机组：2011年12月17日，格力直流变频离心机组被周远院士、江亿院士、陶文铨院士、王浚院士、饶芳权院士在内的专家组一致鉴定为“国际领先”水平；2013年4月，格力直流变频离心机组实现系列化量产，机组IPLV（部分负荷性能）达到11.68，引领大型中央空调进入直流变频时代。<br><br>10）国家科技进步奖：2012年2月14日，在北京人民大会堂举行的国家科学技术奖励大会上，格力“变频空调关键技术的研究和应用”（即“一赫兹变频技术”）荣获国家科技进步奖，成为该奖项设立以来唯一获奖的专业化空调企业。<br><br>11）双级变频压缩机：2012年12月22日，格力双级变频压缩机鉴定为“国际领先”，改写了空调百年历史，让空调行业进入新时代。应用格力双级变频压缩机的 “全能王”空调，实现零下30℃强劲制热和54℃高温快速制冷。冬季制热量最高可提升40%，夏季制冷量最高可提升35%。<br><br>12）光伏直驱变频离心机系统：2013年12月21日，格力光伏直驱变频离心机系统鉴定为“全球首创、国际领先”，实现了中央空调能源自给自足、不用电费，开创了中央空调的零能耗时代。<br><br>13）磁悬浮变频离心式制冷压缩机及冷水机组：2014年3月7日，格力磁悬浮变频离心式制冷压缩机及冷水机组被鉴定为“国际领先”。该产品应用了磁悬浮轴承技术，是一种更为节能、高效的中央空调产品。格力由此成为全球继丹佛斯（TURBOCOR）公司之后，第二家完全掌握磁悬浮离心压缩机核心技术的企业，且在业界首次推出1000冷吨磁悬浮变频离心机，填补了大冷量磁悬浮离心机的空白。<br><br>14）联合国“城市可持续发展宣传大使”：2014年9月17日，格力电器董事长董明珠被联合国开发计划署聘为“城市可持续发展宣传大使”。这项国际荣誉的获得，源自董明珠掌舵的格力电器长期以来在技术创新、提高能源效率和缓和环境恶化方面做出的不懈努力与贡献。<br><br>15）国家科技进步奖：2015年1月9日，格力电器“基于掌握核心科技的自主创新工程体系建设”项目荣获国家科学技术进步奖。格力凭创新实力第三次获得国家科学技术奖，成为获此国家级奖项最多的空调企业。<br><br>16）广东省科技进步特等奖：2015年2月27日，广东省科技创新大会在深圳召开，珠海格力电器凭借其无稀土永磁辅助式同步磁阻电机的变频压缩机（简称新型高效磁阻变频压缩机）项目摘得广东省科技进步特等奖，解决了变频空调高速发展与稀土资源匮乏之间的矛盾，显著提高了我国空调行业的国际竞争力。 </div></div>
+					<div class="zwlitext yasuo stockcodec">格力电器家用空调年产能超过6000万台套，商用空调年产能 550万台套。<br>产品种类20个大类、400个系列、12700多个品种规格，其中商用空调有10大系列、1000多个品种。<br>2014年纳税148.07亿元，累计纳税535.22亿元，累计实现利税1,058.50亿元。连续13年位居中国家电行业纳税首位。<br><br>销售业绩<br>2010年实现营业总收入608.07亿元，净利润42.76亿元。<br>2011年实现营业总收入835.17亿元，净利润52.37亿元。<br>2012年实现营业总收入1001.10亿元，同比增长19.87%；净利润73.80亿元，同比增长40.92%，成为中国首家实现千亿的家电上市企业。<br>2013年实现营业总收入1200.43亿元，同比增长19.91%；实现归属于上市公司股东的净利润108.71亿元，同比增长47.31%，成为中国首家净利润、税收双双超过百亿的家电企业。<br>2015年1月19日晚间，格力电器发布2014年业绩快报。报告显示，公司2014年实现营业总收入1400.05亿元，同比增长16.63%；归属于上市公司股东的净利润为141.14亿元，同比增长29.84%，较上年末...</div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7857771900" data-huifuid="7857771900" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7857771900">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  12:14:12</div>
+		
+                     
+					<div class="zwlitext yasuo stockcodec">（二）<br>转载：格力董明珠：“中国制造2025”代言人<br>腾讯数码[微博]2015年04月02日16:03<br>分享<br>跻身“十三五”规划55人专家智囊团，做“中国制造2025”的代言人，董明珠实至名归。<br><br>即将到来的“十三五”时期被看做是中国发展最为关键的五年。承担着全面建成小康社会、深化改革、转变经济发展方式等重大历史使命，“十三五”规划的编制工作意义重大，影响深远，同时也面临着莫大的考验。<br><br>我们看到，近日国家发改委为编制好“十三五”规划，组建了一支由55人组成的豪华智囊团，来自经济、金融、科技、环保、能源、城市规划等各领域的顶尖学者和企业家名列其中。<br><br>值得注意的是，在这份智囊团名单中，有3位是来自实体经济的企业“委员”。最近频频登上媒体头条的格力电器董事长董明珠就是其中之一。<br><br>可能是最近有关格力和董明珠的新闻太多了，与更吸引人眼球的格力手机横空出世事件相比，董明珠成为国家“十三五”规划智囊团成员这件事似乎并未引起媒体的太大关注。而在笔者看来，这件事的新闻价值远超近期聚焦在董明珠身上的社会舆论，因为它反映出的是格力对技术创新与产品质量的极致追求，获得了国家的高度认可，其背后蕴藏着的“工...</div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7857772959" data-huifuid="7857772959" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7857772959">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  12:14:53</div>
+		
+                     <div class="zwlitalkbox"><div class="zwlitalkboxh"><div class="zwlitalkboxph"><a href="http://iguba.eastmoney.com/8717112463810190" data-poptype="2" data-popper="8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/50" width="30" height="30" class="userphoto" /></a></div><div class="zwlitalkboxuinfo"><div class="zwlitalkboxname zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a>  <span class="influence" data-uid="8717112463810190"></span></div><div class="zwlitalkboxtime">发表于 2015-06-12 12:14:12</div></div></div><div class="zwlitalkboxtext">（二）<br>转载：格力董明珠：“中国制造2025”代言人<br>腾讯数码[微博]2015年04月02日16:03<br>分享<br>跻身“十三五”规划55人专家智囊团，做“中国制造2025”的代言人，董明珠实至名归。<br><br>即将到来的“十三五”时期被看做是中国发展最为关键的五年。承担着全面建成小康社会、深化改革、转变经济发展方式等重大历史使命，“十三五”规划的编制工作意义重大，影响深远，同时也面临着莫大的考验。<br><br>我们看到，近日国家发改委为编制好“十三五”规划，组建了一支由55人组成的豪华智囊团，来自经济、金融、科技、环保、能源、城市规划等各领域的顶尖学者和企业家名列其中。<br><br>值得注意的是，在这份智囊团名单中，有3位是来自实体经济的企业“委员”。最近频频登上媒体头条的格力电器董事长董明珠就是其中之一。<br><br>可能是最近有关格力和董明珠的新闻太多了，与更吸引人眼球的格力手机横空出世事件相比，董明珠成为国家“十三五”规划智囊团成员这件事似乎并未引起媒体的太大关注。而在笔者看来，这件事的新闻价值远超近期聚焦在董明珠身上的社会舆论，因为它反映出的是格力对技术创新与产品质量的极致追求，获得了国家的高度认可，其背后蕴藏着的“工业精神”也正是实现“中国制造2025”规划的基石所在。<br><br>自强不息<br><br>在国家发改委官网上，对于董明珠“委员”的介绍是：1990年加入格力电器，历任业务经理、经营部副部长、部长、副总经理、总经理、副董事长兼总裁、董事长兼总裁等职务。第十至十二届全国人大代表，担任民建中央常委、全国妇联第十届执委会委员、中国家电协会副理事长、中国社会经济调查研究中心理事会理事、广东省妇联执委会委员、广东省女企业家协会副会长、珠海市女企业家协会会长、珠海市红十字会荣誉会长等职务。<br><br>其实，董明珠身上还有很多光环。她是全球知名杂志《财富》2014年度“中国最具影响力的25位商界女性”排行榜榜首，是联合国“城市可持续发展宣传大使”，是2013年“中国经济年度人物”……<br><br>20年多年间，董明珠从一名基层业务员，成长为格力电器掌门人，将格力电器这艘年营业收入超过千亿的巨型航母行驶进了国际市场。格力电器的成功，可以说与董明珠自身所具有的脚踏实地、充满自信、勇于变革、自强不息的精神是分不开的。<br><br>董明珠，属马，狮子座。若按星相解读，这类人永远都是胜利者，因为他们不畏困阻不惧敌对，做任何事情都全力以赴，在鼓励中不断超越自己。一旦他们确定了目标，就会毫不犹豫地一头钻进去，不成功是绝对不会出来的。<br><br>曾经有这样一个段子，将董明珠的性格展现得淋漓尽致。<br><br>2001年初，重庆一家大型外资企业伏特公司向全国公开招标购买50套“一拖四”多联式中央空调。消息公布后，包括格力在内的国内各大空调企业纷纷报名参加竞标。<br><br>事实上，国内当时没有一家企业具备生产这种空调的技术和能力，格力也没有，只能做到“一拖二”。按照当时中国企业的惯常做法就是到国外买技术。2001年，格力高层到日本希望引进多联式中央空调技术，并打算出5亿元的高价。然而，一向与格力合作良好的日本企业一口回绝了格力的请求，而且连相关设备的配件都不卖给格力。日方明确表示，自己花了16年才研制出来的核心技术是绝对不会转让给任何一家中国企业的。<br><br>这事对格力上下触动很深，彼时董明珠担任格力总裁，她和格力的领导层深深地意识到，买别人的技术只能是别人要淘汰的，要树立中国品牌形象，就必须走自主创新的道路。格力领导层当即决定组织攻关小组，无论花多大的代价也要掌握多联式中央空调的核心技术。他们相信别人能做到的，格力也能做到。<br><br>也正是在这种精神的指引下，才有了今天的格力，成就了格力全球空调行业领军者的地位。<br><br>今天的董明珠，依然时刻保持着清醒的头脑。在“互联网思维”的风口上，董明珠没有人云亦云，而是在认真思考。她坚定地认为，没有实体经济的基础作用，互联网等于零。<br><br>董明珠从来不是默守陈规之人。我们看到，格力无论是做手机，还是做自动化加工设备，都融入了互联网新技术、新思维。面对“互联网+”的风潮，促进制造业的转型升级，董明珠在进行着脚踏实地的探索。 </div></div>
+					<div class="zwlitext yasuo stockcodec">追求极致<br><br>有了骨血，就有了精魂。<br><br>有专家表示，“中国制造2025”更多借鉴学习了德国工业4.0战略。正如国务院总理李克强在政府工作报告中所言，实施“中国制造2025”，就要坚持创新驱动、智能转型、强化基础、绿色发展。<br><br>我们看到，格力电器多年来正是在沿着这个方向在不断地前进。今年1月份，格力荣获自主创新工程体系国家科技进步奖。同时，董明珠对于技术、创新和质量的极致追求，也与“德国制造”的精髓颇为一致。<br><br>众多业内人士认为，要实现“中国制造2025”任重道远。整体来看，中国制造的升级面临着很多的困境，比如产品附加值低、高端人才缺乏、创新投入短缺、贸易壁垒高筑等等。于企业而言，应加快从要素驱动向创新驱动转变，将低成本的竞争优势改变为质量效益竞争优势，改变资源消耗大、污染物排放多的粗放制造，推行绿色制造。<br><br>格力，早已开启了绿色制造之路。董明珠立志将格力打造为百年品牌，为追求核心技术锲而不舍，视产品质量为企业的生命。<br><br>一个业界熟知的事件是，格力曾设计了一款卧室空调，风扇叶与机体只有0.8毫米缝隙，既美观又阻挡灰尘，而一般的卧室空调缝隙是1.5毫米。研发人员本来沾沾自喜，认为公司领导肯定...</div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7857799082" data-huifuid="7857799082" data-huifuuid="">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7857799082">举报本回复</a></div>
+			<div class="zwliimg"><img src="/images/nophoto.jpg" /></div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><span class="gray">113.75.194.*网友</span></span> <span class="influence" data-uid=""></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  12:32:10</div>
+		
+                     
+					<div class="zwlitext stockcodec">写这么多有个鸟用！天天跌！ </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7857801140" data-huifuid="7857801140" data-huifuuid="9993113293232346">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7857801140">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/9993113293232346"><img src="http://avator.eastmoney.com/qface/9993113293232346/30" data-popper="9993113293232346" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/9993113293232346"  data-popper="9993113293232346" data-poptype="1">格牛牛</a></span> <span class="influence" data-uid="9993113293232346"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  12:33:34</div>
+		
+                     
+					<div class="zwlitext stockcodec">股价就不动 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7857812772" data-huifuid="7857812772" data-huifuuid="">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7857812772">举报本回复</a></div>
+			<div class="zwliimg"><img src="/images/nophoto.jpg" /></div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><span class="gray">125.123.239.*网友</span></span> <span class="influence" data-uid=""></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  12:39:52</div>
+		
+                     
+					<div class="zwlitext stockcodec">可惜QF木有老鼠仓 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7857818041" data-huifuid="7857818041" data-huifuuid="7261094270790286">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7857818041">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/7261094270790286"><img src="http://avator.eastmoney.com/qface/7261094270790286/30" data-popper="7261094270790286" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/7261094270790286"  data-popper="7261094270790286" data-poptype="1">淡秋jieyfp</a></span> <span class="influence" data-uid="7261094270790286"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  12:43:51</div>
+		
+                     
+					<div class="zwlitext stockcodec">然必卵！<br>股票就是不涨。 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7857862500" data-huifuid="7857862500" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7857862500">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  13:09:52</div>
+		
+                     
+					<div class="zwlitext stockcodec">重复发是因为反复删，现在又都放出来了。 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7857879032" data-huifuid="7857879032" data-huifuuid="7675094301042876">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7857879032">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/7675094301042876"><img src="http://avator.eastmoney.com/qface/7675094301042876/30" data-popper="7675094301042876" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/7675094301042876"  data-popper="7675094301042876" data-poptype="1">№13_天使</a></span> <span class="influence" data-uid="7675094301042876"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  13:19:11</div>
+		
+                     
+					<div class="zwlitext stockcodec">再发也没用，股价岿然不动。散户高度控盘要么。 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7858249911" data-huifuid="7858249911" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7858249911">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  15:51:50</div>
+		
+                     
+					<div class="zwlitext stockcodec">新浪财经讯 6月12日消息，据经济通报道，有“国内宜家”之称的家俱商场营运商红星美凯龙(01528)今日中午举行投资者推介会，市场消息指，招股价介乎11.18至13.28元（港元，下同），以每手200股计，不计手续费，入场费为2656元。<br><br>　　据招股文件显示，是次共发行5.54亿股，集资介乎60.82亿至72.24亿元，招股日期为本月16至19日，中金香港证券、高盛及摩根士丹利为保荐人，股份将于26日上市。<br><br>　　文件显示，公司已引入五名基础投资者，包括Bos Valen Master Fund、中国建材(7.85, 0.15, 1.95%, 实时行情)(03323)全资附属、Falcon　Edge　Global　Master　Fund，LP、格力电器(深：000651)全资附属，及山东省国有资产投资，合共认购3.3亿美元股份。<br><br>　　是次集资所得，约40%用于开发九个新的自营商场、26%用于收购或投资其他家俬零售商、14%用就现有债务进行再融资、10%用作电子商务业务及信息技术系统的开发资金，剩馀10%用作一般营运资金。 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7858260230" data-huifuid="7858260230" data-huifuuid="">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7858260230">举报本回复</a></div>
+			<div class="zwliimg"><img src="/images/nophoto.jpg" /></div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><span class="gray">14.149.195.*网友</span></span> <span class="influence" data-uid=""></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  15:56:24</div>
+		
+                     
+					<div class="zwlitext stockcodec">炒股不公司荣耀 主要庄的操盘手有吃饱饭就是 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7858261434" data-huifuid="7858261434" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7858261434">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  15:56:45</div>
+		
+                     
+					<div class="zwlitext yasuo stockcodec">李克强总理出访巴西时亲临格力电器展台视察<br><br>2015-05-22 08:52:00 来源：珠海特区报<br><br>　　5月18日至21日，国务院总理李克强率领由数十家行业龙头企业组成的“中国梦之队”出访巴西。此次随行考察的中国企业“梦之队”，既有中国工商银行、中国北车等“中字头企业”，也有奇虎360等互联网代表，格力电器则是其中唯一一家家电代表企业。格力在巴西的闪耀，正是珠海经济参与全球中高端竞争的最好诠释。<br><br>　　为期四天的访问中，格力电器成为最耀眼企业之一。被媒体亲切冠以“超级推销员”的李总理，再次为中国装备“站台”。格力电器亦不辱使命给国家“撑台”，向世界展示着中国家电业的创新精神和制造能力。<br><br>　　就在本月上旬，格力电器一步跨越116名对手，昂首挺进全球500强，排名福布斯“全球上市公司2000强”第385位，同时摘得家用电器类榜单全球第一的桂冠。<br><br>　　5月20日在里约热内卢举办的“中国装备制造业展览”上，李克强亲临格力展台视察。格力电器董事长董明珠携巴西格力员工热情迎接了总理一行。<br><br>　　事实上，巴西正是格力电器“走出去”的第一站，是格力电器国际化道路上的里程碑。早在上世纪90年...</div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7858269013" data-huifuid="7858269013" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7858269013">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  16:00:06</div>
+		
+                     <div class="zwlitalkbox"><div class="zwlitalkboxh"><div class="zwlitalkboxph"><a href="http://iguba.eastmoney.com/8717112463810190" data-poptype="2" data-popper="8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/50" width="30" height="30" class="userphoto" /></a></div><div class="zwlitalkboxuinfo"><div class="zwlitalkboxname zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a>  <span class="influence" data-uid="8717112463810190"></span></div><div class="zwlitalkboxtime">发表于 2015-06-12 15:56:45</div></div></div><div class="zwlitalkboxtext">李克强总理出访巴西时亲临格力电器展台视察<br><br>2015-05-22 08:52:00 来源：珠海特区报<br><br>　　5月18日至21日，国务院总理李克强率领由数十家行业龙头企业组成的“中国梦之队”出访巴西。此次随行考察的中国企业“梦之队”，既有中国工商银行、中国北车等“中字头企业”，也有奇虎360等互联网代表，格力电器则是其中唯一一家家电代表企业。格力在巴西的闪耀，正是珠海经济参与全球中高端竞争的最好诠释。<br><br>　　为期四天的访问中，格力电器成为最耀眼企业之一。被媒体亲切冠以“超级推销员”的李总理，再次为中国装备“站台”。格力电器亦不辱使命给国家“撑台”，向世界展示着中国家电业的创新精神和制造能力。<br><br>　　就在本月上旬，格力电器一步跨越116名对手，昂首挺进全球500强，排名福布斯“全球上市公司2000强”第385位，同时摘得家用电器类榜单全球第一的桂冠。<br><br>　　5月20日在里约热内卢举办的“中国装备制造业展览”上，李克强亲临格力展台视察。格力电器董事长董明珠携巴西格力员工热情迎接了总理一行。<br><br>　　事实上，巴西正是格力电器“走出去”的第一站，是格力电器国际化道路上的里程碑。早在上世纪90年代中期，格力便开始进入巴西市场，并于1998年成立了巴西格力销售公司。2001年，格力在巴西自由贸易区玛瑙斯设立工厂，这是中国空调企业在海外设立的第一个生产基地。<br><br>　　近20年时间过去了，如今，格力是巴西销售价格最高的空调品牌之一，市场占有率稳居前列，深受巴西高端用户的喜爱。据统计，格力在巴西累计销售自主品牌产品约25亿巴币（约合51亿元人民币），累计在巴西当地纳税和为员工提供工资福利约10亿巴币。<br><br>　　在2014年的巴西足球世界杯上，格力一举拿下阿雷格里港贝拉利奥球场工程项目、巴西利亚机场、巴西全国性电视台ReadTV的扩建项目等多个空调工程，更是使得格力成为在巴西家喻户晓的空调品牌。<br><br>　　总理为中国装备“站台”，格力亦为中国争光。在“中国装备制造业展览”这一重要国际商务平台上，格力向世界展示着中国家电业的创新精神和制造能力：<br><br>　　全球首创的“不用电费的空调”——光伏直驱变频离心机，比常规发电并网+空调系统用电模式的传统太阳能空调节电6%-8%，代表中央空调最先进的产品和技术；<br><br>　　可用来制造航空发动机的核心部件——离心机叶轮，采用国际最先进的设计平台Concepts NREC软件完全自主设计和制造，代表了中国最高加工工艺，已经达到国际一流水平；<br><br>　　此外，光伏直驱变频多联机、高效螺杆压缩机、双级增焓变频压缩机、1Hz变频技术、无稀土变频压缩机和电机、全能王系列空调、睡梦宝-II、U雅……这些代表着格力研发实力的尖端产品，吸引着众多参观者的目光。<br><br>　　董明珠表示，格力在巴西的成功经验，归纳起来就是四个坚持：坚持自主品牌优先发展战略；坚持把技术创新作为最核心的发展战略；坚持市场稳步发展战略；坚持海外经营本土化策略。从这些产品中，可以看到中国企业从落后到领先、从学习到赶超的艰辛历程。<br><br>　　5月19日，在中国—巴西工商峰会上，董明珠作为中国企业代表发言。她说，作为全球500强企业中的一员，格力致力于让中巴产能合作与责任同行。随着中巴两国在产能领域的合作逐渐深入，格力在巴西乃至整个南美洲的市场份额将进一步扩大，市场竞争力也将进一步增强。<br><br>　　董明珠表示，技术创新是格力发展最核心的战略，也是企业国际化的根本优势。中国企业要靠技术、质量和全新服务理念走向世界，这是企业责任，也是民族承诺。<br><br>　　格力不仅代表了自己，更是中国家电行业的缩影——未来中国家电、中国制造要想走出去，落脚点只有一个：创新。截至目前，格力电器自主品牌产品远销全球160多个国家和地区，家用空调产销量自1995年起连续20年位居中国空调行业第一，自2005年起连续10年世界第一。支撑格力千亿旗舰领航全球的正是其自主创新战略——格力电器累计申请技术专利14000多项，12项科技成果被鉴定为“国际领先”水平，四年内三次获得国家科学技术奖。<br><br>　　进入2015年，格力“专业化道路的多品牌”发展战略隆重启幕。一方面构建智能家电生态系统，一方面建设垂直产业链，除了享誉全球的主业空调，格力正努力把晶弘冰箱、TOSOT生活电器打造成另外两个世界名牌。<br><br>　　按照格力的布局，几年后，格力、晶弘、TOSOT三大品牌将形成矩阵效应，助推格力迈向全球化。闪耀巴西的格力，正稳步迈出新一轮国际化战略的关键步伐。（记者 廖明山）<br><br>编辑：黄欣 </div></div>
+					<div class="zwlitext stockcodec">请注意这段文字：<br><br>“可用来制造航空发动机的核心部件——离心机叶轮，采用国际最先进的设计平台Concepts NREC软件完全自主设计和制造，代表了中国最高加工工艺，已经达到国际一流水平；”<br><br>------------------------这说明格力已经完全有能力介入高端装备制造。 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7858278421" data-huifuid="7858278421" data-huifuuid="1137093952246876">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7858278421">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/1137093952246876"><img src="http://avator.eastmoney.com/qface/1137093952246876/30" data-popper="1137093952246876" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/1137093952246876"  data-popper="1137093952246876" data-poptype="1">格力大王</a></span> <span class="influence" data-uid="1137093952246876"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  16:05:52</div>
+		
+                     <div class="zwlitalkbox"><div class="zwlitalkboxh"><div class="zwlitalkboxph"><a href="http://iguba.eastmoney.com/7675094301042876" data-poptype="2" data-popper="7675094301042876"><img src="http://avator.eastmoney.com/qface/7675094301042876/50" width="30" height="30" class="userphoto" /></a></div><div class="zwlitalkboxuinfo"><div class="zwlitalkboxname zwnick"><a href="http://iguba.eastmoney.com/7675094301042876"  data-popper="7675094301042876" data-poptype="1">№13_天使</a>  <span class="influence" data-uid="7675094301042876"></span></div><div class="zwlitalkboxtime">发表于 2015-06-12 13:19:11</div></div></div><div class="zwlitalkboxtext">再发也没用，股价岿然不动。散户高度控盘要么。 </div></div>
+					<div class="zwlitext stockcodec">好饭不怕晚 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7858366565" data-huifuid="7858366565" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7858366565">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  16:45:31</div>
+		
+                     <div class="zwlitalkbox"><div class="zwlitalkboxh"><div class="zwlitalkboxph"><a href="http://iguba.eastmoney.com/7675094301042876" data-poptype="2" data-popper="7675094301042876"><img src="http://avator.eastmoney.com/qface/7675094301042876/50" width="30" height="30" class="userphoto" /></a></div><div class="zwlitalkboxuinfo"><div class="zwlitalkboxname zwnick"><a href="http://iguba.eastmoney.com/7675094301042876"  data-popper="7675094301042876" data-poptype="1">№13_天使</a>  <span class="influence" data-uid="7675094301042876"></span></div><div class="zwlitalkboxtime">发表于 2015-06-12 13:19:11</div></div></div><div class="zwlitalkboxtext">再发也没用，股价岿然不动。散户高度控盘要么。 </div></div>
+					<div class="zwlitext stockcodec">格力本来就是散户股，前十大基金大部分都不是国内的。<br>这种一直明摆着的问题，有什么好重复的呢？<br><br>但散户股也不见得就永远不涨，事实是格力从长期趋势看是涨得很好的。<br>短期看，格力涨不过小盘强庄股，长期看，就不见得了。<br><br>所以看你需要什么，如果你喜欢小盘庄股，就不要买格力，格力没有绝对控盘主力的。 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7858374765" data-huifuid="7858374765" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7858374765">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  16:49:30</div>
+		
+                     <div class="zwlitalkbox"><div class="zwlitalkboxh"><div class="zwlitalkboxph"><a href="http://iguba.eastmoney.com/8717112463810190" data-poptype="2" data-popper="8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/50" width="30" height="30" class="userphoto" /></a></div><div class="zwlitalkboxuinfo"><div class="zwlitalkboxname zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a>  <span class="influence" data-uid="8717112463810190"></span></div><div class="zwlitalkboxtime">发表于 2015-06-12 16:45:31</div></div></div><div class="zwlitalkboxtext">格力本来就是散户股，前十大基金大部分都不是国内的。<br>这种一直明摆着的问题，有什么好重复的呢？<br><br>但散户股也不见得就永远不涨，事实是格力从长期趋势看是涨得很好的。<br>短期看，格力涨不过小盘强庄股，长期看，就不见得了。<br><br>所以看你需要什么，如果你喜欢小盘庄股，就不要买格力，格力没有绝对控盘主力的。 </div></div>
+					<div class="zwlitext stockcodec">我觉得格力的主力是上帝啊，所以更加强大，这才是真的主力。<br>其他的主力很浮云的，呵呵！ </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7858378264" data-huifuid="7858378264" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7858378264">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  16:51:14</div>
+		
+                     <div class="zwlitalkbox"><div class="zwlitalkboxh"><div class="zwlitalkboxph"><a href="http://iguba.eastmoney.com/8717112463810190" data-poptype="2" data-popper="8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/50" width="30" height="30" class="userphoto" /></a></div><div class="zwlitalkboxuinfo"><div class="zwlitalkboxname zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a>  <span class="influence" data-uid="8717112463810190"></span></div><div class="zwlitalkboxtime">发表于 2015-06-12 15:56:45</div></div></div><div class="zwlitalkboxtext">李克强总理出访巴西时亲临格力电器展台视察<br><br>2015-05-22 08:52:00 来源：珠海特区报<br><br>　　5月18日至21日，国务院总理李克强率领由数十家行业龙头企业组成的“中国梦之队”出访巴西。此次随行考察的中国企业“梦之队”，既有中国工商银行、中国北车等“中字头企业”，也有奇虎360等互联网代表，格力电器则是其中唯一一家家电代表企业。格力在巴西的闪耀，正是珠海经济参与全球中高端竞争的最好诠释。<br><br>　　为期四天的访问中，格力电器成为最耀眼企业之一。被媒体亲切冠以“超级推销员”的李总理，再次为中国装备“站台”。格力电器亦不辱使命给国家“撑台”，向世界展示着中国家电业的创新精神和制造能力。<br><br>　　就在本月上旬，格力电器一步跨越116名对手，昂首挺进全球500强，排名福布斯“全球上市公司2000强”第385位，同时摘得家用电器类榜单全球第一的桂冠。<br><br>　　5月20日在里约热内卢举办的“中国装备制造业展览”上，李克强亲临格力展台视察。格力电器董事长董明珠携巴西格力员工热情迎接了总理一行。<br><br>　　事实上，巴西正是格力电器“走出去”的第一站，是格力电器国际化道路上的里程碑。早在上世纪90年代中期，格力便开始进入巴西市场，并于1998年成立了巴西格力销售公司。2001年，格力在巴西自由贸易区玛瑙斯设立工厂，这是中国空调企业在海外设立的第一个生产基地。<br><br>　　近20年时间过去了，如今，格力是巴西销售价格最高的空调品牌之一，市场占有率稳居前列，深受巴西高端用户的喜爱。据统计，格力在巴西累计销售自主品牌产品约25亿巴币（约合51亿元人民币），累计在巴西当地纳税和为员工提供工资福利约10亿巴币。<br><br>　　在2014年的巴西足球世界杯上，格力一举拿下阿雷格里港贝拉利奥球场工程项目、巴西利亚机场、巴西全国性电视台ReadTV的扩建项目等多个空调工程，更是使得格力成为在巴西家喻户晓的空调品牌。<br><br>　　总理为中国装备“站台”，格力亦为中国争光。在“中国装备制造业展览”这一重要国际商务平台上，格力向世界展示着中国家电业的创新精神和制造能力：<br><br>　　全球首创的“不用电费的空调”——光伏直驱变频离心机，比常规发电并网+空调系统用电模式的传统太阳能空调节电6%-8%，代表中央空调最先进的产品和技术；<br><br>　　可用来制造航空发动机的核心部件——离心机叶轮，采用国际最先进的设计平台Concepts NREC软件完全自主设计和制造，代表了中国最高加工工艺，已经达到国际一流水平；<br><br>　　此外，光伏直驱变频多联机、高效螺杆压缩机、双级增焓变频压缩机、1Hz变频技术、无稀土变频压缩机和电机、全能王系列空调、睡梦宝-II、U雅……这些代表着格力研发实力的尖端产品，吸引着众多参观者的目光。<br><br>　　董明珠表示，格力在巴西的成功经验，归纳起来就是四个坚持：坚持自主品牌优先发展战略；坚持把技术创新作为最核心的发展战略；坚持市场稳步发展战略；坚持海外经营本土化策略。从这些产品中，可以看到中国企业从落后到领先、从学习到赶超的艰辛历程。<br><br>　　5月19日，在中国—巴西工商峰会上，董明珠作为中国企业代表发言。她说，作为全球500强企业中的一员，格力致力于让中巴产能合作与责任同行。随着中巴两国在产能领域的合作逐渐深入，格力在巴西乃至整个南美洲的市场份额将进一步扩大，市场竞争力也将进一步增强。<br><br>　　董明珠表示，技术创新是格力发展最核心的战略，也是企业国际化的根本优势。中国企业要靠技术、质量和全新服务理念走向世界，这是企业责任，也是民族承诺。<br><br>　　格力不仅代表了自己，更是中国家电行业的缩影——未来中国家电、中国制造要想走出去，落脚点只有一个：创新。截至目前，格力电器自主品牌产品远销全球160多个国家和地区，家用空调产销量自1995年起连续20年位居中国空调行业第一，自2005年起连续10年世界第一。支撑格力千亿旗舰领航全球的正是其自主创新战略——格力电器累计申请技术专利14000多项，12项科技成果被鉴定为“国际领先”水平，四年内三次获得国家科学技术奖。<br><br>　　进入2015年，格力“专业化道路的多品牌”发展战略隆重启幕。一方面构建智能家电生态系统，一方面建设垂直产业链，除了享誉全球的主业空调，格力正努力把晶弘冰箱、TOSOT生活电器打造成另外两个世界名牌。<br><br>　　按照格力的布局，几年后，格力、晶弘、TOSOT三大品牌将形成矩阵效应，助推格力迈向全球化。闪耀巴西的格力，正稳步迈出新一轮国际化战略的关键步伐。（记者 廖明山）<br><br>编辑：黄欣 </div></div>
+					<div class="zwlitext stockcodec">“可用来制造航空发动机的核心部件——离心机叶轮，采用国际最先进的设计平台Concepts NREC软件完全自主设计和制造，代表了中国最高加工工艺，已经达到国际一流水平；”<br><br>------------这说明格力已经确确实实在干高端装备制造业了。 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7858383795" data-huifuid="7858383795" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7858383795">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  16:54:04</div>
+		
+                     <div class="zwlitalkbox"><div class="zwlitalkboxh"><div class="zwlitalkboxph"><a href="http://iguba.eastmoney.com/8717112463810190" data-poptype="2" data-popper="8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/50" width="30" height="30" class="userphoto" /></a></div><div class="zwlitalkboxuinfo"><div class="zwlitalkboxname zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a>  <span class="influence" data-uid="8717112463810190"></span></div><div class="zwlitalkboxtime">发表于 2015-06-12 16:45:31</div></div></div><div class="zwlitalkboxtext">格力本来就是散户股，前十大基金大部分都不是国内的。<br>这种一直明摆着的问题，有什么好重复的呢？<br><br>但散户股也不见得就永远不涨，事实是格力从长期趋势看是涨得很好的。<br>短期看，格力涨不过小盘强庄股，长期看，就不见得了。<br><br>所以看你需要什么，如果你喜欢小盘庄股，就不要买格力，格力没有绝对控盘主力的。 </div></div>
+					<div class="zwlitext stockcodec">我觉得格力的主力是上帝啊，所以更加强大，这才是真的主力。<br>其他的主力很浮云的，那里有大能的上帝那么值得信赖呢？呵呵！ </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7858406917" data-huifuid="7858406917" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7858406917">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  17:06:00</div>
+		
+                     <div class="zwlitalkbox"><div class="zwlitalkboxh"><div class="zwlitalkboxph"><a href="http://iguba.eastmoney.com/8717112463810190" data-poptype="2" data-popper="8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/50" width="30" height="30" class="userphoto" /></a></div><div class="zwlitalkboxuinfo"><div class="zwlitalkboxname zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a>  <span class="influence" data-uid="8717112463810190"></span></div><div class="zwlitalkboxtime">发表于 2015-06-12 16:54:04</div></div></div><div class="zwlitalkboxtext">我觉得格力的主力是上帝啊，所以更加强大，这才是真的主力。<br>其他的主力很浮云的，那里有大能的上帝那么值得信赖呢？呵呵！ </div></div>
+					<div class="zwlitext stockcodec">伊利也是散户股，前十大股东没有国内基金。<br>我30元附近买入以后，2个多月涨了50%以上啊，按照今天收盘算涨幅也有40%以上。<br>我买入的时候，心里就十分清楚伊利是散户股，和格力一样，没有绝对控盘的主力。<br>但我还是照样买了。 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7858414175" data-huifuid="7858414175" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7858414175">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  17:10:00</div>
+		
+                     <div class="zwlitalkbox"><div class="zwlitalkboxh"><div class="zwlitalkboxph"><a href="http://iguba.eastmoney.com/8717112463810190" data-poptype="2" data-popper="8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/50" width="30" height="30" class="userphoto" /></a></div><div class="zwlitalkboxuinfo"><div class="zwlitalkboxname zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a>  <span class="influence" data-uid="8717112463810190"></span></div><div class="zwlitalkboxtime">发表于 2015-06-12 17:06:00</div></div></div><div class="zwlitalkboxtext">伊利也是散户股，前十大股东没有国内基金。<br>我30元附近买入以后，2个多月涨了50%以上啊，按照今天收盘算涨幅也有40%以上。<br>我买入的时候，心里就十分清楚伊利是散户股，和格力一样，没有绝对控盘的主力。<br>但我还是照样买了。 </div></div>
+					<div class="zwlitext stockcodec">整天追逐流进流出猪力进出我觉得是十分恶心的一件事情。<br>请问，那些主力又跟着谁买卖呢？难道他们自己是超越上帝的主力吗？ </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7858420512" data-huifuid="7858420512" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7858420512">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  17:13:24</div>
+		
+                     <div class="zwlitalkbox"><div class="zwlitalkboxh"><div class="zwlitalkboxph"><a href="http://iguba.eastmoney.com/8717112463810190" data-poptype="2" data-popper="8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/50" width="30" height="30" class="userphoto" /></a></div><div class="zwlitalkboxuinfo"><div class="zwlitalkboxname zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a>  <span class="influence" data-uid="8717112463810190"></span></div><div class="zwlitalkboxtime">发表于 2015-06-12 16:45:31</div></div></div><div class="zwlitalkboxtext">格力本来就是散户股，前十大基金大部分都不是国内的。<br>这种一直明摆着的问题，有什么好重复的呢？<br><br>但散户股也不见得就永远不涨，事实是格力从长期趋势看是涨得很好的。<br>短期看，格力涨不过小盘强庄股，长期看，就不见得了。<br><br>所以看你需要什么，如果你喜欢小盘庄股，就不要买格力，格力没有绝对控盘主力的。 </div></div>
+					<div class="zwlitext stockcodec">我相信这次股东大会上披露的那个在格力上享受600倍涨幅的人，给他带来600倍涨幅的是上帝，而不是主力。<br>不相信写一个寻主力启示看看，会有哪个主力来承认是他买上去的么？没有的。 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7858427955" data-huifuid="7858427955" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7858427955">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  17:17:10</div>
+		
+                     <div class="zwlitalkbox"><div class="zwlitalkboxh"><div class="zwlitalkboxph"><a href="http://iguba.eastmoney.com/8717112463810190" data-poptype="2" data-popper="8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/50" width="30" height="30" class="userphoto" /></a></div><div class="zwlitalkboxuinfo"><div class="zwlitalkboxname zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a>  <span class="influence" data-uid="8717112463810190"></span></div><div class="zwlitalkboxtime">发表于 2015-06-12 17:06:00</div></div></div><div class="zwlitalkboxtext">伊利也是散户股，前十大股东没有国内基金。<br>我30元附近买入以后，2个多月涨了50%以上啊，按照今天收盘算涨幅也有40%以上。<br>我买入的时候，心里就十分清楚伊利是散户股，和格力一样，没有绝对控盘的主力。<br>但我还是照样买了。 </div></div>
+					<div class="zwlitext stockcodec">我30元（除权前，伊利后来实施了10送10派8元）买入伊利的当天在伊利吧发帖的。<br>不是马后炮。 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli7858435808" data-huifuid="7858435808" data-huifuuid="8717112463810190">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="7858435808">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/30" data-popper="8717112463810190" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a></span> <span class="influence" data-uid="8717112463810190"></span> </div>
+					<div class="zwlitime">发表于 2015-06-12  17:21:22</div>
+		
+                     <div class="zwlitalkbox"><div class="zwlitalkboxh"><div class="zwlitalkboxph"><a href="http://iguba.eastmoney.com/8717112463810190" data-poptype="2" data-popper="8717112463810190"><img src="http://avator.eastmoney.com/qface/8717112463810190/50" width="30" height="30" class="userphoto" /></a></div><div class="zwlitalkboxuinfo"><div class="zwlitalkboxname zwnick"><a href="http://iguba.eastmoney.com/8717112463810190"  data-popper="8717112463810190" data-poptype="1">丛蓉</a>  <span class="influence" data-uid="8717112463810190"></span></div><div class="zwlitalkboxtime">发表于 2015-06-12 17:06:00</div></div></div><div class="zwlitalkboxtext">伊利也是散户股，前十大股东没有国内基金。<br>我30元附近买入以后，2个多月涨了50%以上啊，按照今天收盘算涨幅也有40%以上。<br>我买入的时候，心里就十分清楚伊利是散户股，和格力一样，没有绝对控盘的主力。<br>但我还是照样买了。 </div></div>
+					<div class="zwlitext stockcodec">我30元附近（除权前，伊利后来实施了10送10派8元）买入伊利的当天在伊利吧发帖的。<br>不是马后炮。 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        <script>var num=6841;var count=139383;</script>
+        <script>
+        if (typeof (num) == "undefined") {var num=6839; }var pinglun_num=40;var xgti="";if(typeof (count) != "undefined"){xgti="<span class=\"tc2\"><a href='list,000651.html'>相关帖子<span class=\"tc1\">"+count+"</span>条</a></span>";}
+        document.getElementById("zwmbtilr").innerHTML ="现有<span class=\"tc1\">"+num+"</span>人阅读过该帖，评论<span class=\"tc1\">"+pinglun_num+"</span>条。"+xgti;
+        </script>
+        
+		<div class="pager talc zwpager">
+			<span class="pagernums" id="newspage" data-page="news,000651,176484739_|40|30|1"></span>
+		</div>
+        
+	</div>
+	<style type="text/css">
+		#zwbtextlink {  float: left; width: 100%; height: 29px; margin-bottom: 5px; }
+		#zwbtextlink ul {  float: left; padding-top: 8px; width: 100%; }
+		#zwbtextlink ul li { float: left; font-size: 14px;  padding: 0px 0px; }
+		#zwbtextlink ul li a { text-decoration: underline; color: #333333; margin-right: 7px; }
+		#zwbtextlink ul li span.red a { color: red;  font-weight: bold; text-decoration: underline; }
+	</style>
+	<div style=" clear:both; height:29px; border:1px solid #D8E6FF; border-top:0; padding: 0 0 5px 10px; ">
+		<div id="zwbtextlink">
+			<!-- 布告栏 --><ul><li><a href="http://stattg.eastmoney.com/10524" ><strong>Level-2限时特惠！</strong></a>&nbsp;<span class="red"><a href="http://js5.eastmoney.com/tg.aspx?ID=875" ><strong>注意！主力有大动作，7股明日望爆发！</strong></a></span>&nbsp;<a href="http://fundact.eastmoney.com/information/2014025/?spm=100005001.mw" ><strong>活期宝收益3-25%</strong></a>&nbsp;<span class="red"><a href="http://js1.eastmoney.com/tg.aspx?ID=3745" ><strong>3因素致A股变异</strong></a></span></li></ul>
+		</div>
+	</div>
+
+
+    <div class="gbbox1" id="sendnewt">
+		<div class="gbboxt">评论该主题 <span class="appealspan"><a href="javascript:;" target="_self" id="appealuserlink">帖子不见了！怎么办？</a></span></div>
+		<div class="gbboxtr"><span class="topbarlogin">作者：您目前是匿名发表 &nbsp; <a href="" id="bottomlogin" class="gubaloginlink"><strong>登录</strong></a> | <a href="" class="strlink gubareglink" id="bottomreg">5秒注册</a></span> <span class="topbarhaslogin">作者：<strong><span class="headerusername"></span></strong>，欢迎留言 <a href="javascript:;" class="logoutbtn" target="_self">退出</a></span> | <a href="/list,000651.html#sendnewt"><strong>发表新主题</strong></a></div>
+		<div class="gbboxb">
+			<form method="post" action="" id="gbsform" class="gbsform">
+				<div class="mtj1" id="yzmp"><label for="" class="l tzla">内容：</label><textarea class="gbsformt1" id="gbtainput"></textarea></div>
+				<div class="mtj2">
+					<div class="editorfuns" id="editorfuns"><a href="javascript:;" id="gbtainpubtn4" data-fun="face" target="_self"><em class="iconface"></em>表情</a> <a href="javascript:;" id="gbtainpubtn7" data-fun="stockcode" target="_self"><em class="iconstock"></em>股票</a> </div>
+					<div class="gbsformbtns"><span id="gdregbtn"></span>&nbsp;<button type="submit" class="gbsformi3">发  布</button></div>
+					<div class="clear"></div>
+				</div>
+				
+			</form>
+		</div>
+	</div>
+
+	<div style="color:#888888; padding:10px 0 0 0;clear:both; line-height:120%;">
+		提示：用户在社区发表的所有资料、言论等仅代表个人观点，与本网站立场无关，不对您构成任何投资建议。用户应基于自己的独立判断，自行决定证券投资并承担相应风险。
+	</div>
+
+	
+	<div class="siderg" style="padding-top:10px; clear:both;"><iframe width="718" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=655&op=1" ></iframe></div>
+    
+
+</div>
+<div id="sider"></div>
+</div>
+<div class="clear"></div>
+<div id="footer" class="gbbody">
+    	<p class="splp"><a href="http://corp.eastmoney.com/aboutus/" target="_blank">关于我们</a>　　<a href="http://corp.eastmoney.com/Lianxi_guanggao.asp" target="_blank">广告服务</a>　　<a href="http://corp.eastmoney.com/Lianxi_lianxi.asp" target="_blank">联系我们</a>　　<a href="http://corp.eastmoney.com/zhaopin/zhaopin_1.asp" target="_blank">诚聘英才</a>　　<a href="http://corp.eastmoney.com/lianxi_mianze.asp" target="_blank">免责声明</a>　　<a href="http://corp.eastmoney.com/Lianxi_falvshengming.asp" target="_blank">法律声明</a>　　<a href="http://corp.eastmoney.com/Lianxi_zhengao.asp" target="_blank">征稿启事</a>　　<a href="http://corp.eastmoney.com/media.asp" target="_blank">友情链接</a></p>
+    	<p class="sphp"></p>
+        <p>建议及投诉热线：021-54509984　　　<a href="http://corp.eastmoney.com/Lianxi_liuyan.asp" target="_blank"><img src="http://g1.dfcfw.com/g1/comm/msg.gif" border="0" />意见与建议</a></p>
+        <p class="sphp"></p>
+        <p><img src="http://g1.dfcfw.com/g1/comm/icp.gif" />&nbsp;沪ICP证：沪B2-20070217&nbsp;&nbsp;版权所有：<a href="http://www.eastmoney.com" target="_blank">东方财富网</a></p>
+        <p><a href="http://www.cyberpolice.cn/" target="_blank"><img src="http://g1.dfcfw.com/g1/comm/police.gif" border="0" /></a> &nbsp; <a href="http://www.zx110.org/picp/?sn=310104031200" target="_blank"><img src="http://gbfek.dfcfw.com/gubav5/images/gubabba.png" /></a></p>
+</div>
+<!--114.80.173.37-->
+<div id="stockhqh" style="display:none;"></div>
+
+<script src="//gbfek.dfcfw.com/gubav5/js/gubabase_da218adfac.js"></script>
+<script src="//gbfek.dfcfw.com/gubav5/js/news_m_339c6326e1.js"></script>
+<script src="//gbfek.dfcfw.com/gubav5/js/module_43cb88e12a.js"></script>
+<script src="//gbfek.dfcfw.com/gubav5/js/news_c_bd1d75d828.js"></script>
+<script src="count.aspx"></script>
+<script type="text/javascript">  var _cpyno = "c1"</script>
+<script type="text/javascript" src="http://js4.eastmoney.com/counter.js?c=t"></script>
+<script type="text/javascript">
+var rightAd_bodywidth = 1000;
+var rightAd_fixedwidth = 150;
+var rightAd_width = 135;
+var rightAd_height = 1741;
+var rightAd_top = '48px';
+var rightAd_url = 'http://fund.eastmoney.com/trade/Hot_Em.html?spm=100005001.rw';
+var rightAd_top = '48px';
+</script>
+<script src="http://gbfek.dfcfw.com/js/tg/rightAd_v2.js"></script>
+<script type="text/javascript">
+(function(d){
+	var ioSrc = function(url){
+		var script = document.createElement("script")
+		script.type = "text/javascript";
+		script.src = url;
+		document.getElementsByTagName("head")[0].appendChild(script);
+	};
+	
+	d.fixedSoftPic = "http://g1.dfcfw.com/g2/201510/20151013092340.gif";
+	d.fixedSoftLink = ["http://stattg.eastmoney.com/10762","http://stattg.eastmoney.com/10071","http://stattg.eastmoney.com/10312","http://stattg.eastmoney.com/10214","http://js5.eastmoney.com/tg.aspx?ID=2035"];
+	d.fixedLinkPt = 0;
+	d.fixedLinkMt = [0,0,0,0];
+	d.fixedLinkHeight = [120,194,86,86,80];
+	d.fixedSoftWidth = 135;
+	d.fixedSoftHeight = 568;
+	d.fixedBodyWidth = 990;
+	d.fixedSoftTop = 48;
+
+	d.fixedAlign = "left";
+	ioSrc("http://cmsjs.eastmoney.com/js/news_fixed_leftv3.js");
+})(window);
+</script>
+
+
+<script type="text/javascript" src="http://js3.eastmoney.com/js/gb_dcmap.js?mt=gubaarticle&odds=5000"></script>
+<script src="//gbfek.dfcfw.com/tg/EMBottomSearchTG/EMBottomSearchTG-1.0.3.min.js?v=1"></script>
+
+<script type="text/javascript" >
+    var newEMBottomSearchTG = new EMBottomSearchTG({
+		main_width:1000,
+        main_img: 'http://z1.dfcfw.com/2015/6/10/201506101029321460568336.jpg', //推广图片  imgurl
+        link: 'http://stattg.eastmoney.com/10267' //推广链接  aurl
+    });
+    newEMBottomSearchTG.show();
+</script>
+<script type="text/javascript" src="http://cmsjs.eastmoney.com/analysis/emtj.min.js?v=20150401"></script>
+</body>
+</html>

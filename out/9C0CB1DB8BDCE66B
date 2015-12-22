@@ -1,0 +1,266 @@
+<!--UINFO: http://www.cnledw.com/inter/noright.asp?err=%E5%AF%B9%E5%BA%94%E7%9A%84%E4%B8%BB%E9%A2%98%E4%B8%8D%E5%AD%98%E5%9C%A8%EF%BC%8C%E5%8F%AF%E8%83%BD%E4%BD%A0%E8%BE%93%E5%85%A5%E4%BA%86%E9%94%99%E8%AF%AF%E7%9A%84%E4%B8%BB%E9%A2%98%E5%8F%82%E6%95%B0%E3%80%82&curl=inter	length=13316&last_modified=0&time_saved=1450676873&charset=utf-8-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<HEAD>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>LED论坛，最专业、最火热的LED论坛</title>
+<meta name="keywords" content="LED论坛" />
+<meta name="description" content="LED论坛，最火热的LED论坛，最专业的LED行业技术与商务交流平台." />
+
+<script language=javascript src="/js/main.js"></script>
+<script language=javascript src="/js/dv_wnd.js"></script>
+<script language=javascript src="/js/imgdraw.js"></script>
+<script language="javascript" src="/js/xmlhttprequest.js"></script>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link href="/css/index_new1103.css" rel="stylesheet" type="text/css">
+<link href="/css/dv_wnd.css" type="text/css" rel="stylesheet">
+<link href="/css/globalTop.css" type="text/css" rel="stylesheet">
+<link href="/css/css_top_content.css" rel="stylesheet" type="text/css" />
+<style>
+#aliLogo{float:left;width:256px;}
+#aliLogo2{float:left;width:316px;margin-top:15px;}
+
+.adv1_logo{ float:left; width:168px; height:50px; margin-left:3px;}
+.adv1_i1left{ float:left; width:380px; height:60px; margin:0 10px 0 22px; margin-bottom:10px;!important;*margin-bottom:0px;}
+.adv1_i1right{ float:right; width:380px; height:60px;margin-bottom:10px;!important; *margin-bottom:0px;}
+#adv1_logobig{ margin-top:13px; width:968px; margin-bottom:10px}
+
+.nav_list{ float:left;text-align:right;}
+.nav_list a{font-size:14px; color:#092d77; font-weight:bold;}
+.nav_list a:link{font-size:14px; color:#092d77; font-weight:bold;}
+.nav_list a:visited{font-size:14px; color:#092d77; font-weight:bold;}
+.nav_list a:hover{font-size:14px; color:#092d77; font-weight:bold;}
+
+a.a_icon{font-size:14px; font-weight:normal; color:#333; background:url(/images_index/encap_21.gif) no-repeat 0px 5px; margin-left:5px; padding-left:6px;}
+a.a_icon:link{font-weight:normal; color:#333;}
+a.a_icon:visited{font-weight:normal; color:#333;}
+a.a_icon:hover{font-weight:normal; color:#333;}
+.r{width:300px;_width:285px;height:22px;text-overflow:ellipsis}
+.sz{line-height:25px;font-weight:bold; float:left; width:60px; margin-left:5px;}
+#scrollDiv ul li{ width:300px; float:left; overflow:hidden;}
+
+</style>
+<script language="javascript" src="/js/ymPrompt.js"></script>
+<script language="javascript" src="/js/vlink.js"></script>
+<link rel="stylesheet" id='skin' type="text/css" href="/skin/qq/ymPrompt.css" />
+</HEAD>
+<BODY>
+
+
+
+<div id="_topbj">
+    <div id="_topnr">
+        <div id="_top_left"><a href="#"  title="设为首页" onClick="javascript:this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cnledw.com/')">设为首页</a><a href="http://www.cnledw.com/help/">帮助</a></div>
+        <div id="_top_right">
+            <a href="http://www.cnledw.com/login.asp" target="_blank" style="color:#d10000;font-weight:bold;">登录</a>
+            <a href="http://www.cnledw.com/reg01.html" target="_blank" style="font-weight:bold;">注册</a>
+            <a href="http://www.cnledw.com/aboutled/buy.asp" target="_blank">采购商服务</a>
+            <a href="http://weibo.com/cnledw2006" target="_blank"><img src="/images/images_top/top_icon.gif" width="24" height="19" />&nbsp;LED微博</a>
+            <a href="#" onClick="top_dh_show('two-dimensionCode')"><img src="/images/images_top/top_icon2gif.gif" width="21" height="20" />&nbsp;LED微信</a>
+            <a href="http://www.21ledonline.com/" target="_blank">English</a>
+        </div>
+        <div class="_cboth"></div>
+    </div>
+</div>
+
+
+
+
+<div id="_logobanner">
+    <div id="_logo"><a href="http://www.cnledw.com/"><img src="/images/images_top/logo.gif" width="171" height="47" /></a></div>
+    <div id="_banner">
+        <span>
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="381" height="60">
+          <param name="movie" value="http://www.cnledw.com/ad_image/381_602.swf" />
+          <param name="quality" value="high" />
+          <param name="wmode" value="opaque" />
+          <embed src="http://www.cnledw.com/ad_image/381_602.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="381" height="60"></embed>
+        </object>
+        </span>
+        <span>
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="381" height="60">
+                  <param name="movie" value="http://www.cnledw.com/ad_image/381 602_right.swf" />
+                  <param name="quality" value="high" />
+                  <param name="wmode" value="opaque" />
+                  <embed src="http://www.cnledw.com/ad_image/381 602_right.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="381" height="60"></embed>
+        </object>
+        </span>
+    </div>
+    <div class="_cboth"></div>
+</div>
+
+<div id="_nav_bj">
+    <ul id="_nav" >
+        <li><a href="/"   >首页</a></li>
+        <li onMouseOver="top_dh_show('_navlist')" onMouseOut="top_dh_h('_navlist')" ><a href="/shangji.htm" >商机&nbsp;<img src="/images/images_top/nav_icon.png" width="10" height="5" /></a>
+
+            <ul id="_navlist">               
+                <li><a href="/product.htm">产品</a></li>
+                <li><a href="/supplier.htm">公司</a></li>
+                <li><a href="/buy.htm">求购</a></li>
+                <li><a href="/business/">招商合作</a></li>
+               <div class="_cboth"></div>
+           </ul> 
+        </li>
+        <li><a href="/exhibition.htm"  >会展</a></li>
+        <li onMouseOver="top_dh_show('_navlist_3')" onMouseOut="top_dh_h('_navlist_3')"><a href="/info.htm"  >资讯&nbsp;<img src="/images/images_top/nav_icon.png" width="10" height="5" /></a>
+            <ul id="_navlist_3">               
+                <li><a href="http://www.cnledw.com/tech.htm">技术</a></li>
+                <li><a href="http://www.cnledw.com/expert/">专家</a></li>
+               <div class="_cboth"></div>
+            </ul>       
+        </li>
+        <li><a href="/character.htm" >人物</a></li>
+        
+        <li><a href="/inter/"  class=current >论坛</a></li>
+        <li><a href="/blog/"  >博客</a></li>
+        <li><a href="/hr/"  >人才</a></li>
+        <li><a href="http://video.cnledw.com/" >视频</a></li>
+        <li onMouseOver="top_dh_show('_navlist_2')" onMouseOut="top_dh_h('_navlist_2')" ><a >子站&nbsp;<img src="/images/images_top/nav_icon.png" width="10" height="5" /></a>
+              <ul id="_navlist_2">
+                <li><a href="http://chip.cnledw.com/" target="_blank">LED芯片</a></li>
+				<li><a href="http://encapsulation.cnledw.com/" target="_blank">LED封装</a></li>
+				<li><a href="http://power.cnledw.com/" target="_blank">LED电源</a></li>
+				<li><a href="http://led-display.cnledw.com/" target="_blank">LED显示屏</a></li>
+				<li><a href="http://lighting.cnledw.com/" target="_blank">LED照明</a></li>
+                <div class="_cboth"></div>
+              </ul>
+        </li>
+        <div class="_cboth"></div>
+  </ul>
+</div>
+ 
+	   <div id="two-dimensionCode" >
+		<img src="http://www.cnledw.com/images_index/two-dimensionCode.jpg" border="0">
+		<div id="two-dimensionCode_close" title="关闭二维码图片" onClick="document.getElementById('two-dimensionCode').style.display='none';">×</div>
+       </div>
+<div align="center">
+	
+        <div class="div970">
+	
+	
+	<div class="searchbox_bg2">
+		<ul>
+		<li class="a"></li>
+		<li ><div class="searchbox_con2">
+		<div class="lf">
+			
+			<img src="/images/icron_searchnew03.gif"  align="absMiddle" >
+			
+			<input type="hidden" name="searchtype" id="searchtype" value="10">
+			
+			
+		    <input name="keyword" id="keyword" type="text" value="输入关键字" size="25" onBlur="if(this.value=='')this.value='输入关键字';" onFocus="if(this.value.indexOf('输入')>-1)this.value='';" onlostfocus="this.value='if(this.value.indexOf('输入')>-1)this.value='输入关键字';" onKeyUp="if(window.event.keyCode==13)checksearchform();">
+	      <img  src="/images/icron_searchnew.gif" align="absmiddle" style='cursor:pointer;padding-top:2px' onClick="checksearchform();">
+	    <a href="/inter/search.asp"><img  src="images/icron_searchnew_advan.gif" align="absmiddle" style='cursor:pointer;padding-top:2px;' border=0 /></a>
+	     </div>
+
+			
+
+	     <div class="rf tabm2" style='width:430px;height:22px;'>  
+
+<div class="bbsNotice"  style="width:430px;height:22px; float:right">
+ 
+	<div class=l style="width:130px;" ><div class="sz" ><a href="mainze.asp"><font color="#FF0000">免责声明</font></a>&nbsp;&nbsp;论坛公告:</div></div>
+	<div class=r style="width:300px;_width:285px;height:22px;text-overflow:ellipsis">
+		<div id="scrollDiv">
+		<ul >
+		<li><a href="bbslist_detail.asp?topicid=66356" class="a02" target="_blank">规范论坛发帖，营造论坛良好环境</a></li>
+		</ul>
+		</div>
+		<script type="text/javascript" src="/jquery/jquery143.js"></script>
+		<script type="text/javascript" src="/jquery/jqscorll/scorll.js"></script>
+		<script>
+			$(document).ready(function(){
+				$("#scrollDiv").Scroll({
+				line:1,
+				speed:900,
+				timer:5000
+				});
+			});
+		</script>
+	</div>
+</div>
+            
+		  </div>  
+		</div>
+		   </li>
+		  <li class="b"></li>
+	</ul>
+	</div>
+</div>
+<div class="hr_10"></div> 
+
+<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><a href="index.asp">登录</a>&nbsp; <a href="/reg.asp">注册</a>
+  	</td>
+	</tr>
+</table>
+
+<table width="94%"border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td colspan="2" align="left">&nbsp;</td>
+    </tr>
+    
+    <tr>
+      <td colspan="2" align="left"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#f0f6fc" class="bian4c">
+        <tr>
+          <td height="23"><img src="images/yy_206.gif" width="9" height="9" hspace="5" align="absmiddle" /><a href="index.asp"><b>中国LED网论坛</b></a> <b>&raquo;提示信息</b></td>
+          <td align="right">&nbsp;</td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="left">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+     <table class="tableborder" cellspacing="1" cellpadding="2" width="94%" 
+      align="center">
+       <tbody>
+         <tr>
+           <td class="header" colspan="2">中国LED网论坛 提示信息</td>
+         </tr>
+         <tr>
+           <td height="100" class="altbg2"><P align="center">对应的主题不存在，可能你输入了错误的主题参数。<br />
+             <br />
+           <a href="inter">如果您的浏览器没有自动跳转，请点击这里</a> </P></td>
+         </tr>
+       </tbody>
+</table>
+<script language=javascript>
+	setTimeout("location.href='/inter'",4000)
+</script>
+
+<div id="footer2">
+		<A href="/aboutled/about.asp">关于我们</A>  -&nbsp;	  <A href="/aboutled/service.asp">会员服务</A>  -&nbsp;	  <A href="/aboutled/ad.asp">广告服务</A> -&nbsp;	  <A href="/aboutled/buy.asp">采购商服务</A> -&nbsp;	  <A href="/aboutled/suggest.asp">投诉建议</A> -&nbsp;	  <A href="/aboutled/contribute.asp">在线投稿</A> -&nbsp;	  <A href="/weekly.asp">周刊订阅</A> -&nbsp;	  <A href="/aboutled/contact.asp">联系我们</A> -&nbsp;	  <A href="/aboutled/friendlink.asp">友情链接</A> 
+<br />LED网版权所有&nbsp;&nbsp;<a href="http://www.miibeian.gov.cn" target="_blank" style="text-decoration:none" rel="nofollow">粤ICP备07051316号</a></div>
+<div style="Z-INDEX:1;VISIBILITY:hidden;OVERFLOW:hidden;WIDTH:0px;POSITION:absolute;HEIGHT:0px">
+<script language="javascript" src="/js/ymPrompt.js"></script>
+<link rel="stylesheet" id='skin' type="text/css" href="/skin/qq/ymPrompt.css" />
+
+<script src="http://s19.cnzz.com/stat.php?id=3208331&web_id=3208331&show=pic" language="JavaScript"></script>
+
+
+<script language="javascript" type="text/javascript" src="http://js.users.51.la/17855551.js"></script>
+<noscript><a href="http://www.51.la/?17855551" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/17855551.asp" style="border:none" /></a></noscript>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-71402871-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</div>
+</div>
+
+</BODY>
+</HTML>

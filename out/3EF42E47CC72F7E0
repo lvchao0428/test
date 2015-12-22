@@ -1,0 +1,338 @@
+<!--UINFO: http://guba.eastmoney.com/news,002701,223547439_1.html	length=44314&last_modified=0&time_saved=1450677191&charset=utf-8-->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>深市上市公司公告(11月19日)_奥瑞金(002701)股吧_东方财富网股吧</title>
+<meta content="深市上市公司公告(11月19日)_奥瑞金(002701)_奥瑞金股吧_002701股吧_股吧_东方财富网股吧_奥瑞金吧最新行情_股吧投资指南_奥瑞金吧k线图分析_股吧行情分析" name="keywords">
+<meta content="深市上市公司公告(11月19日)_奥瑞金_股吧_东方财富网股吧_人气财经股吧_guba.eastmoney.com" name="description">
+
+<link rel="stylesheet" href="//gbfek.dfcfw.com/gubav5/css/news_c_e2e2b382cb.css" />
+<base target="_blank" />
+
+<script>
+	var barcode = "002701";
+	var stockcode = "0027012";
+	var code = "002701";
+	var topicid="223547439";
+	var zwuser = "奥瑞金资讯";
+	var guba_type = "2";
+	var dis_wzc = false;
+	var stockname = "奥瑞金";
+    var plqx=0;
+    
+	var OuterCode = "002701";
+    var Category="100";
+    var Division="1";
+    var Market="101";
+    var Type="201";
+    var QuoteCode="0027012";
+    var BarType="0";
+	var CodeWithMarket = "002701.sz";
+    var qq_code = "";var qq_code2 = "";
+    var topictype = 1;
+</script>
+</head>
+<body class="hlbody">
+<div id="header">
+	<div class="gbbody" id="headergbbody">
+		<div id="topnavindex"><a href="http://www.eastmoney.com/">东方财富网</a></div>
+		<ul id="topnav">
+			<li><a href="http://guba.eastmoney.com/">股吧首页</a></li>
+			<li><a href="//guba.eastmoney.com/jj.html">基金吧首页</a></li>
+			<li><a href="http://iguba.eastmoney.com/">我的股吧</a></li>
+			<li><a href="remenba.aspx?type=1">热门吧</a></li>
+			<li><a href="/ft_list.aspx">股吧访谈</a></li>
+			<!-- <li><a href="http://quote.eastmoney.com/favor/default.html">自选股行情</a></li> -->
+			<li><a href="http://js5.eastmoney.com/tg.aspx?ID=1698" target="_blank">手机版</a></li>
+			<!-- <li><a href="remenba.aspx?type=2">热门主题吧</a></li> -->
+		</ul>
+		<form method="GET" action="/search.aspx" id="topnavsearch">
+			<input type="text" name="t" id="topnavskey" placeholder="搜索 股票/讨论/用户" autocomplete="off" /><input type="submit" value=" " id="topnavsubmit" title="点击开始搜索" />
+			<div id="topnavsearchre">
+				<ul></ul>
+			</div>
+		</form>
+		<ul id="topnavper">
+			<li class="topbarhaslogin" id="topbarloginuserdiv" style="display:none;"><strong><span class="headerusername"></span></strong></li>
+			<li class="topbarhaslogin" style="display: none;"><span class="tnavsel">消息<em class="tnavselic"></em>
+				<div class="topnavdown">
+					<div class="topnavdownt">消息<em class="tnavselid"></em></div>
+					<ul class="topnavdownul topnavdownulmsgul">
+						<li><a href="http://iguba.eastmoney.com/replyme">&nbsp;&nbsp;查看新回复<em></em></a></li>
+						<li><a href="http://iguba.eastmoney.com/atmereply">&nbsp;&nbsp;查看新@我的<em></em></a></li>
+						<li><a href="http://iguba.eastmoney.com/myfans">&nbsp;&nbsp;查看新粉丝<em></em></a></li>
+						<li><a href="javascript:;" target="_self" class="alarm" data-type="1">&nbsp;&nbsp;股价提醒<em></em></a></li>
+						<li><a href="javascript:;" target="_self" class="alarm" data-type="2">&nbsp;&nbsp;公告提醒<em></em></a></li>
+						<li><a href="javascript:;" target="_self" class="alarm" data-type="3">&nbsp;&nbsp;研报提醒<em></em></a></li>
+						<li class="nobg"><a href="javascript:;" class="alarm" data-type="4" target="_self">&nbsp;&nbsp;数据提醒<em></em></a></li>
+					</ul>
+					</div>
+				</span>
+			</li>
+			<li class="topbarhaslogin" style="display:none;"><span class="tnavsel">设置<em class="tnavselic"></em>
+				<div class="topnavdown">
+					<div class="topnavdownt">设置<em class="tnavselid"></em></div>
+					<ul class="topnavdownul">
+						<li><a href="http://iguba.eastmoney.com/setting" target="_blank">个人设置</a></li>
+						<li><a href="http://passport.eastmoney.com/UpdatePass.EmUser" target="_blank">修改密码</a></li>
+						<li><a href="http://iguba.eastmoney.com/setting/privacy" target="_blank">隐私设置</a></li>
+						<li><a href="http://iguba.eastmoney.com/setting/message" target="_blank">消息设置</a></li>
+						<li><a href="http://iguba.eastmoney.com/jiav.aspx" target="_blank">V认证</a></li>
+						<li class="nobg"><a id="topbarlogoutlink" href="javascript:;" target="_self">退出</a></li>
+					</ul>
+					</div>
+				</span>
+			</li>
+			<li class="topbarlogin tnavselloginfix">您好，欢迎来股吧！  </li>
+			<li class="topbarlogin tnavsellogin"><a href="javascript:;" target="_self"><strong>登录/注册</strong></a>
+				<div id="headerlogin" class="topnavdown clearfix">
+					<div id="fast">
+						<div class="t">使用合作网站帐号登录</div>
+						<div class="b">
+							<a href="javascript:;" target="_self" class="headerlogintlink qqlogin"><em class="qqicon"></em>腾讯QQ帐号登录</a>
+							<a href="javascript:;" target="_self" class="headerlogintlink sinalogin"><em class="sinaicon"></em>新浪微博帐号登录</a>
+						</div>
+						
+					</div>
+					<div id="hlogin">
+						<div id="hlclose" onclick="$('#headerlogin').hide();">X</div>
+						<div class="timg"><a href="http://passport.eastmoney.com/PhoneReg.EmUser">5秒注册</a></div>
+						<div class="t">已有自选股、股吧、博客帐号，可直接登录</div>
+						<div id="hloginerror">&nbsp;</div>
+						<form method="post" action="" id="headnaviloginform" target="_self">
+							<div class="i"><label>登录名：<input type="text" class="hinput" placeholder="手机/邮箱名/用户名" id="husername" autocomplete="off" /></label></div>
+							<div class="i"><label>密　码：<input type="password" class="hinput" placeholder="请输入登录密码" id="hpassword" /></label></div>
+							<div class="i" id="hlvcodediv"><label>验证码：<input type="text" class="hinput3" placeholder="请输入验证码" id="hlvcode" /></label> <img src="" id="hlvcodeimg" title="点击更换验证码" /></div>
+							<div class="i">　　　　<input type="submit" value="登录" class="hinput2" id="hlformsubmit" /> &nbsp;　 <a href="http://passport.eastmoney.com/FindPwd.EmUser" class="hlink">忘记密码？</a></div>
+						</form>
+					</div>
+				</div>			
+			</li>
+		</ul>
+	</div>
+</div>
+
+<div class="gbbody"><div class="dh10"></div><iframe width="980" height="60" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=1048&op=1" ></iframe></div>
+
+<div id="headerban" class="gbbody">
+	<div id="headerbanlogo"><a href="/"><img src="images/gubahlogo.png" width="252" height="52" alt="股吧" /></a></div>
+	<div id="gbhsearch">
+		<form id="gbhscform">
+			<ul id="gbhsctab">
+				<li class="on">按吧名搜索</li>
+				<li>按内容搜索</li>
+				<li>按作者搜索</li>
+			</ul>
+			<input type="text" name="" id="gbhsckey" /><input type="submit" value="股吧搜索" id="gbhscsbm" />
+		</form>
+	</div>
+	<div id="gbhri">
+		热门：<a href="/list,000002.html">万科A吧</a> <a href="/list,000520.html">长航凤凰吧</a> <a href="/list,000629.html">攀钢钒钛吧</a> 
+	</div>
+</div>
+
+<div id="stockheader" class="gbbody">
+	<span id="stockif">
+		<span id="stockname" data-popstock="002701" data-poptype="1"><a href="/list,002701.html">奥瑞金吧</a></span>
+	</span>
+	<span id="header_stock_btns"></span>
+	<div id="zjfw" class="zjfw"><ul><li class="zjfwdb">您最近访问的吧：</li><li><span id="baHistory"></span></li></ul></div>
+</div>
+<div class="zwheadbline gbbody"><div class="zwheadblineb"></div></div>
+<div class="gbbody">
+<div id="mainbody">
+	
+	<div class="zwheadpager">
+		<div class="zwhpager"></div>
+		<div class="zwhpagerr"><a href="list,002701.html">返回奥瑞金吧&gt;&gt;</a></div>
+	</div>
+	<div id="zwmbti">
+		<div id="zwmbtili"><a href="http://js1.eastmoney.com/tg.aspx?ID=3979" target="_blank">[头条]三因素致A股变异</a></div>
+		<div id="zwmbtilr"></div>
+	</div>
+	
+	<div id="zwcontent" >
+		
+		<div id="zwcontt">
+			<div id="zwconttphoto"><a href="http://guba.eastmoney.com/list,002701.html" data-poptype="2" data-popstock="002701"><img src="http://avator.eastmoney.com/qface/5731113638432798/50" width="50" height="50" class="userphoto" /></a></div>
+			<div id="zwconttb">
+				<div id="zwconttbn"><strong><a href="http://guba.eastmoney.com/list,002701.html" data-popstock="002701" data-poptype="2">奥瑞金资讯</a></strong>  <span class="influence" data-uid="5731113638432798"></span></div>
+                <div class="zwfbtime">发表于 2015-11-18 22:43:37 股吧网页版</div>                                                                                         
+				
+			</div>
+			<div id="zwconttbtns">
+				<a href="http://iguba.eastmoney.com/secr.aspx?code=002701&id=223547439" style="display:none;" id="dongmilink" class="graylink">董秘直通车</a>&ensp;<a href="javascript:;" target="_self" id="jubaolink" class="graylink">举报</a>
+			</div>
+		</div>
+		<div class="zwcontentmain">
+			
+			<div id="zwconttbt">深市上市公司公告(11月19日) </div>
+			<div id="zwconbody">
+			<div class="stockcodec">
+				 <div id='zw_header' style='color:#949494;font-size:85%;padding-bottom:5px;'>来源：东方财富网</div> <div id='zw_body' ><p>　　<strong>众业达定增申请获证监会通过</strong></p><p>　　众业达(002441)11月18日晚间公告，中国证监会发行审核委员会对公司非公开发行股票的申请进行了审核。根据审核结果，公司本次非公开发行股票的申请获得审核通过。</p><p>　　<strong>中安消拟1.68亿收购擎天科技涉建筑智能化</strong></p><p>　　11月18日晚， 中安消公告，拟通过全资子公司中安消技术有限公司以现金1.68亿元，购买张佳捷、李笑怡持有的上海擎天电子科技有限公司100%股权。</p><p>　　公告显示，擎天科技是上海地区为数不多的同时具有建筑智能化“双甲”资质及上海市公共安全防范工程设计施工壹级资质的企业之一，主要从事安防系统集成及建筑智能化业务。擎天科技以集成创新为基础，紧紧围绕城市安全、工业安全等领域的建设与发展，依靠专业的技术研发和经营管理团队，及覆盖全国的市场布局，已发展成为以建筑智能化为基础、以安防系统集成为核心的综合系统集成解决方案的提供商。</p><p>　　<strong>共达电声6000万参设产业并购基金</strong></p><p>　　共达电声(002655)11月18日晚间公告，公司拟作为有限合伙人出资6000 万元，与喀什双子股权投资有限公司(简称 “喀什双子”)作为普通合伙人和彭小玲作为有限合伙人共同发起设立产业并购基金喀什双子文化投资合伙企业(有限合伙).</p><p>　　喀什双子文化投资合伙企业(有限合伙)目标募集规模为 10 亿元，其中首期目标募集规模为5 亿元。合伙协议签署时，有限合伙全体合伙人认缴出资的总额为 1.8 亿元，三方各认缴6000万元。</p><p>　　共达声电表示，公司参与投资设立产业并购基金，主要是为了充分利用新产业基金平台在更大范围内寻求对公司有重要意义的并购目标，把握战略性投资机会，实现多元化发展战略，优化和改善公司现有的业务结构，借助专业投资机构放大公司的投资能力，提高公司投资水平，增强公司盈利能力，推动公司健康快速发展。</p><p>　　共达电声同时公告，公司与控股股东潍坊高科电子有限公司(简称“高科电子”)签署了《股权转让协议》，公司拟以710 万元的价格向其转让控股子公司广州共达信息技术有限公司(简称“广州共达”)60%的股权。交易完成后，公司不再持有广州共达股份。</p><p>　　共达电声表示，此次交易有利于改善公司资产结构，优化资源配置，提高整体资产运营效益，预计对公司 2015 年整体业绩有正面影响。交易所剥离业务能进一步提高公司的业务质量和盈利水平，交易所得现金净额能进一步增强公司的流动性。</p><p>　　<strong>奥瑞金牵手NHL棕熊队布局冰雪运动领域</strong></p><p>　　奥瑞金(002701)11月18日晚间公告，公司与美国公司 DELAWARE NORTH COMPANIES，INC.BOSTON.(简称“DNCB”)签署了关于与北美职业冰球联赛(简称“NHL”)波士顿棕熊队(Boston Bruins，简称“棕熊队”)冰球合作项目合同。公司成为棕熊队在中国的唯一市场推广合作伙伴，即在合同期内公司作为棕熊队在中国所有公开推广冰球活动中的唯一合作伙伴，双方将共同致力于推动冰球运动及青少年冰球培训在中国的发展。</p><p>　　合同签署方DNCB位于美国波士顿。主要从事体育场馆的运营和配套食品、酒店等经营业务，为 NHL 波士顿棕熊队和美国职业篮球联赛(NBA)波士顿凯尔特人队主场球馆 TD Garden 的所有方。其控制人 Jeremy Jacobs 家族拥有棕熊队的全部权益。棕熊队是 NHL 最早期的功勋队伍，其位于美国波士顿，隶属于 NHL 联盟东大区东北分区。其成立于 1924 年，是 NHL 联盟 6 个创始球队之一，也是 NHL 商业策划和运作最为成功的冰球俱乐部之一。</p><p>　　奥瑞金和棕熊队将在NHL规则允许的前提下，一同致力于推动棕熊队、奥瑞金品牌和冰球运动以及青少年冰球培训等事宜在中国的发展。</p><p>　　合同期限为5年，在合作期内总共支出广告宣传费用合计207.1万美元。合作期限内，奥瑞金将支出相关费用，购买护栏广告、LED广告、棕熊队官网相关广告权益，用于奥瑞金及其指定方的宣传。</p><p>　　奥瑞金表示，公司已经在冰上消费项目领域实现了初期投资和合作伙伴的确定，通过和美国 NHL 球队的长期合作，有力充实了公司冰雪项目领域的战略布局，公司将借此机会，按照“竞技拉动、消费驱动、全面推广”的理念，推动公司在冰雪运动方面的投资布局，更好地分享体育产业带来的良好机遇。同时，公司也可以凭借不断拓宽的体育平台，为优质客户提供产品和业务推广宣传的平台，强化公司综合包装解决方案的服务能力，提升客户的产品和企业价值。</p><p>　　<strong>永新股份将于11月19日复牌</strong></p><p>　　永新股份(002014)11月18日晚间公告，公司与相关方及中介机构积极答复深交所问询，对相关文件进行了相应的补充和完善。经申请，公司股票将于 2015 年 11 月 19 日(星期四)开市起复牌。</p><p>　　<strong>亿纬锂能牵手天津华泰合资设立电池公司</strong></p><p>　　11月18日晚间，亿纬锂能(300014)发布公告宣布，公司与天津华泰拟合资设立一家电池公司，就“加快新能源汽车电池技术研发、PACK电池产品生产线”等领域开展长期合作。</p><p>　　据披露，新公司名称拟定为“天津华泰亿纬电源有限公司”，注册资本为1亿元，其中天津华泰现金出资7000万元，亿纬锂能以自有资金现金出资3000万元，分别持股70%、30%。新公司将专注于生产、销售电池组和电池组管理系统(BMS).</p><p>　　合作方天津华泰为华泰汽车集团子公司，主营新能源汽车及零部件制造。公司表示，此次合作有利于双方长期稳定地致力于新能源汽车电池技术和成组电池产品等领域的技术进步和生产效率的提升。</p><p>　　值得一提的是，公司在11月12日刚刚宣布完成非公开发行股票，募集资金6亿元悉数到账，将全部用于投资全自动化的高性能锂离子电池项目。申万宏源研究报告指出，公司动力锂电池业务即将进入爆发期，未来两年将成为公司主要利润增长点。</p><p>　　<strong>升达林业19日复牌重组文件已完善</strong></p><p>　　升达林业(002259)11月18日晚间公告，公司与相关各方及中介机构对深交所问询函有关问题进行了认真分析，逐项落实并认真回复，对重组相关文件进行了补充和完善，经申请，公司股票将于 2015 年 11 月 19 日(周四)开市起复牌。</p><p>　　<strong>齐心集团将于11月19日复牌</strong></p><p>　　齐心集团(002301)11月18日晚间公告，公司对重组相关文件进行了相应的补充和完善并回复了深交所问询，经申请，公司股票将于 2015 年 11 月 19 日开市起复牌。</p><p>　　<strong>秀强股份控股股东协议转让5.35%公司股份</strong></p><p>　　秀强股份(300160)11月18日晚间公告，公司控股股东宿迁市新星投资有限公司(简称“新星投资”) 以协议方式转让其持有公司的 1000万股无限售条件流通股，占公司总股本的 5.35%。</p><p>　　其中，卢秀强通过 “秀强炎昊专项投资基金 5 号”受让 565万股，占公司总股本的 3.02%；东北证券通过设立的“东北证券秀强融盈 1 号集合资产管理计划”受让 435万股，占公司总股本的 2.33%。受让价格均为每股18 元，即股份转让协议签署日前 20 个交易日公司股票均价的 77%。</p><p>　　此次转让前，新星投资持有公司股份29.51%，转让后持有公司股份24.16%。新星投资仍为公司控股股东，公司实际控制人未发生改变。</p><p>　　<strong>宜安科技牵手中科院研发非晶态合金材料</strong></p><p>　　宜安科技(300328)11月18日晚间公告，公司与中国科学院金属研究所(简称“中科院金属所”) 签署合作协议，共同成立“中国科学院金属研究所——东莞宜安科技股份有限公司非晶态合金联合实验室”。 公司提供联合实验室运行经费，中科院金属所提供研究人员和常规研究设备。</p><p>　　宜安科技介绍，联合实验室分为共建基础实验室和应用实验室。共建基础实验室设立在中国科学院金属研究所，由中国科学院金属研究所提供必要的实验室用房。应用实验室设在公司，由公司提供必要的实验室用房和产业化设备。中国科学院金属研究所与公司同时对外挂牌“中国科学院金属研究所—东莞宜安科技股份有限公司非晶态合金联合实验室”。联合实验室研发经费共计约 6000 万人民币，由公司按每年的实际工作需求支付给中国科学院金属研究所，具体额度以年度合同为准。</p><p>　　据了解，非晶态合金无论是性能、成型方法和技术工艺都能够满足复杂形状消费电子产品的制备，很好实现消费电子产品所追求的更小、更薄、更轻的目标，是国内少数具备全球领先水平、符合“中国制造 2025”方向的新材料品种。宜安科技掌握了非晶态合金产品在材料、工艺、设备等方面的核心技术，具有小件产品、大件成型产品的生产能力，是行业内极少数实现非晶态合金精密结构件在消费电子领域商用的供应商之一。而中科院金属所是国内最早开展非晶态材料研究的单位之一，具有雄厚的研究基础和资源，其块状非晶及其复合材料制备研究代表全球最高水平。</p><p>　　宜安科技表示，此次合作事项，有利于充分发挥公司和中科院金属所在非晶态合金技术领域各自优势，联合开展非晶态合金材料、生产设备、制品、新型制备技术研发等业务，提高公司科研水平，加速成果转化，加快公司新产品的推出进度，增强公司产品科技含量和附加值，进一步巩固公司在非晶态合金领域的领先地位。</p><p>　　<strong>万邦达定增1.3亿股新股获证监会核准</strong></p><p>　　万邦达(300055)11月18日晚间公告，中国证监会核准公司非公开发行不超过 1.3亿股新股，6 个月内有效。</p><p>　　<strong>道氏技术定增申请获证监会通过</strong></p><p>　　道氏技术(300409)11月18日晚间公告，中国证监会创业板发行审核委员会对公司非公开发行股票的申请进行了审核。根据审核结果，公司本次非公开发行股票的申请获得通过。</p><p>　　<strong>华伍股份合资设航空科技公司涉足航空航天新领域</strong></p><p>　　华伍股份(300095)11月18日晚间公告，公司拟使用自有资金 2750万元与武汉华中科技大产业集团有限公司、自然人李仁府(代表技术团队)及江西华伍科技投资有限责任公司共同发起设立武汉华伍航空科技有限公司， 从事航空航天产品的研发、生产、加工、销售及相关技术咨询服务、商务信息咨询。</p><p>　　合资公司拟定注册资本 11000 万元，其中华伍科技以货币出资 5500 万元，占注册资本的 50%，华伍科技为合资公司控股股东；华伍股份以货币出资 2750万元，占注册资本的 25%；华科大产业集团以技术专利等无形资产出资 1050 万元，占注册资本的 9.55%；自然人李仁府以技术专利等无形资产出资 1700 万元，占注册资本的 15.45%。</p><p>　　航空航天产业为高端装备制造业，是国家规划的七大战略新兴产业之一，属于技术密集、附加值高、成长性强的行业，是提高我国整体制造业竞争力的关键。随着国家不断加大对该领域的投入，以及航空航天领域近年来的快速发展，未来航空产业的前景将更加广阔。华伍股份表示，公司参股投资领域为航空航天领域，与主业关联度不高，是培育发展的新领域，有利于培育公司新的利润增长点，增强公司综合盈利能力。</p><p>　　<strong>深天地A联合乾坤合德发起设立10亿元产业基金</strong></p><p>　　深天地A(000023)11月18日晚间公告，为充分利用目前资本市场积极推动并购重组的有利时机，切实加强公司对外投资能力，积极稳健的推动公司并购整合及外延式扩张，公司拟与北京乾坤合德资产管理有限公司签署《关于共同发起设立基金管理公司的框架协议》，双方约定共同出资设立一家有限责任公司形式的产业投资基金管理公司。</p><p>　　管理公司拟在西藏注册，注册资本为1,000万元，其中公司认缴300万元，“乾坤合德”认缴700万元，全部以货币方式出资。管理公司负责募集设立投资基金，该投资基金的目标规模(即全体合伙人对天地合德基金的出资总额)为10亿元(首期规模为5亿元)，管理公司作为该投资基金的普通合伙人出资500万元。</p><p>　　公司表示，此举能有效发挥合作双方各自的优势，充分利用乾坤合德的专业投资团队和融资渠道，通过各种金融工具和手段放大投资能力，为公司未来发展储备更多并购标的，从而紧抓市场发展机遇，进一步提高公司可持续发展能力和盈利能力，给全体股东以更好的回报。</p><p>　　<strong>软控股份子公司工厂发生燃爆事故未造成人员伤亡</strong></p><p>　　软控股份(002073)11月18日晚间公告，11 月 17 日晚 18:20 许，公司全资子公司抚顺伊科思新材料有限公司(简称“抚顺伊科思”)工厂的碳五分离装置发生燃爆事故，现场救援人员立即启动应急预案，抚顺市政府相关领导、化工救援专家、公司总裁及抚顺伊科思管理层和相关部门第一时间赶往现场应急处置，火势在 21:30 许得到有效控制住，余火随后悉数扑灭，事故未造成人员伤亡。</p><p>　　据现场化工方面的专家初步评测，抚顺伊科思工厂生产方面遭受的损失不大，且事故涉及的资产在保险公司承保范围内，公司已向中国平安财产保险股份有限公司青岛分公司报案并启动出险程序。事故原因后续还将组织权威化工专家进一步认真核查。公司将派工作组参与事故调查，并对伊科思工厂在安全生产方面进行全面排查。</p><p>　　<strong>景峰医药两种产品获临床试验批件</strong></p><p>　　景峰医药(000908)11月18日晚间公告，公司之控股子公司海南锦瑞制药有限公司研发的瑞格列奈片(规格：1mg、2mg)、厄贝沙坦氢氯噻嗪片(规格：每片含厄贝沙坦150mg和氢氯噻嗪12.5mg、每片含厄贝沙坦300mg和氢氯噻嗪12.5mg)分别于2011年9月15日、2011年9月22日申请临床试验研究获得受理。近日，公司收到国家食品药品监督管理总局“药物临床试验批件”(临床批件号：2015L03423、2015L03424、2015L03399、2015L03400)的临床试验批件。</p><p>　　公司表示，上述两种产品获得临床批件后将进行生物等效性试验，完成临床实验后申请生产批件，在获得生产批件并且通过GMP认证后可投入生产。因此上述产品获得临床批件对公司近期业绩不会产生影响。</p><p>　　上述临床批件的有效期为3年，逾期未实施，批件自行废止。公司将按照《药品注册管理办法》及《药品临床试验质量管理办法》规定，积极开展临床实验研究。该研究预计需要一年时间，其进度及结果均具有一定的不确定性。</p><p>　　<strong>浪潮信息非公开发行获证监会通过</strong></p><p>　　浪潮信息(000977)11月18日晚间公告，中国证监会于今日对公司2015年非公开发行股票申请进行了审核。根据会议审核结果，公司本次非公开发行股票申请获得无条件审核通过。</p><p>　　公司表示，将在收到中国证监会正式核准文件后另行公告。</p><p>　　<strong>二六三定增7693万股新股获证监会核准</strong></p><p>　　二六三(002467)11月18日晚间公告，中国证监会核准公司非公开发行不超过76,938,200股新股，6个月内有效。</p><p>　　<strong>海欣食品参股公司猫诚电商获准挂牌新三板</strong></p><p>　　海欣食品(002702)11月18日晚间公告，公司参股公司上海猫诚电子商务股份有限公司(简称“猫诚电商”)收到全国中小企业股份转让系统有限责任公司通知，经全国中小企业股份转让系统有限责任公司审查，同意猫诚电商股票在全国中小企业股份转让系统挂牌。</p><p>　　猫诚电商定位于休闲食品电商渠道平台，在天猫、京东商城、1号店、当当网、苏宁易购等主流的电子商务平台设有旗舰店或专营店并自建B2C网站，主要经销“海欣”牌手撕蟹柳、鱼豆腐、鳕鱼脆等休闲鱼制品，以及饼干、糕点、糖果、坚果、饮品、进口零食等近千款商品，拥有300多万个以办公白领和学生为主的年轻消费粉丝，是休闲食品网络渠道知名品牌。</p><p>　　<strong>顺荣三七非公开发行股票获证监会通过</strong></p><p>　　顺荣三七(002555)11月18日晚间公告，中国证监会发行审核委员会对公司非公开发行A股股票的申请进行了审核。根据会议审核结果，公司本次非公开发行A股股票的申请获得无条件审核通过。</p><p>　　<strong>克明面业定增申请获证监会放行</strong></p><p>　　克明面业(002661)11月18日晚间公告，中国证监会发行审核委员会对公司 2015 年度非公开发行 A 股股票申请进行了审核。根据会议审核结果，公司本次非公开发行 A 股股票申请获得通过。</p><p>　　<strong>兴民钢圈斥资1.9亿参与设立民营银行</strong></p><p>　　兴民钢圈(002355)11月18日晚间公告，公司参与发起设立山东蓝海银行股份有限公司(暂定名，简称“山东蓝海银行”)。山东蓝海银行拟定注册资本为 20 亿元，公司作为一般发起人以自有资金 1.9亿元入股，占其注册资本的 9.5%。</p><p>　　兴民钢圈表示，公司在确保主业稳健的前提下，利用国家金融改革为契机积极拓展金融业务，不断丰富公司的经营结构。此次参与设立民营银行，有利于增强公司的盈利能力，可进一步扩大公司的盈利规模，确保公司持续、稳定发展，有利于提升公司综合竞争力。</p><p>　　兴民钢圈提示，此次发起设立山东蓝海银行需上报中国银监会核准，在设立申报、审批、最终核准的过程中仍可能进行调整，并存在不确定性和相关风险。</p><p>　　<strong>东华软件新设两家合资公司切入能源互联网领域</strong></p><p>　　东华软件(002065)11月18日晚间公告，公司与北京智中能源互联网研究院有限公司(简称“智中能源”) 共同出资2000 万元组建合资公司东华智中能源互联网技术有限公司。其中，公司以自筹资金出资1020 万元，占注册资本的 51%；智中能源出资980 万元，占注册资本的49%。</p><p>　　合资公司的业务范围为电力系统自动化和信息化、微电网规划和运行控制、电力物联网和云计算、数据中心、能源大数据分析等等。</p><p>　　智中能源专注于电力电子、新能源、储能系统及电池材料、电力系统自动化和信息化、微电网规划和运行控制、电力物联网和云计算、数据中心、能源大数据分析、电力信息网络、智能电网设备制造相关的技术开发，在上述领域中有深厚的技术积累。</p><p>　　东华软件表示，此次合作充分发挥了双方的优势和长处，有力的实现了资源的共享与互补，极大的助力公司切入能源互联网领域，抢占市场先机，为公司未来发展探索新的利润增长点。</p><p>　　东华软件同时公告，公司与北京东华合创科技有限公司共同出资2000万元，设立“吉林省东华软件信息工程有限公司”(简称新公司)，其中公司以自筹资金出资1200万元，占注册资本的60%；北京东华合创科技有限公司以自筹资金出资800万元，占注册资本的40%。</p><p>　　东华软件介绍，经过深入调研东北地区的城市信息化建设现状及发展需求，整合本地高校学府的地缘优势，公司及其全资子公司北京东华合创科技有限公司决定在东北三省成立软件服务及开发总部基地。新公司着重培养本地研发和服务人才，成立本地软件外包及开发的技术团队，打造东北区域项目集中交付和运营平台。新公司能够有效的节约公司人力资源成本，提升项目高质量交付效率，增强客户服务满意度，有利于公司进一步推进全国战略布局。</p><p>　　<strong>高德红外获5千万元中央预算内投资计划补助资金</strong></p><p>　　高德红外(002414)11月18日晚间公告，公司收到 2015 年中央预算内投资计划补助资金 5000 万元。</p><p>　　根据国家发改委及工信部关于下达 2015 年中央预算内投资计划的通知，公司的红外探测器应用批产项目总投资预算 44277 万元，其中中央预算内投资为 5000 万元，公司自有投资39277 万元。</p><p>　　高德红外表示，上述项目获得国家发改委及工信部的肯定和扶持，将进一步提升公司核心元器件——红外探测器产品的技术含量和附加值，加速研制多款大面阵、高灵敏度的红外探测器，助力公司“军民并进发展”战略目标的推进。</p><p>　　<strong>科陆电子子公司上海东自获批挂牌新三板</strong></p><p>　　科陆电子(002121)11月18日晚间公告，公司控股子公司上海东自电气股份有限公司(简称“上海东自”)收到全国中小企业股份转让系统有限责任公司《关于同意上海东自电气股份有限公司股票在全国中小企业股份转让系统挂牌的函》，同意上海东自股票在全国中小企业股份转让系统挂牌，转让方式为协议转让。</p><p>　　<strong>长盈精密推出员工持股计划</strong></p><p>　　长盈精密(300115)11月18日晚间推出员工持股计划(草案)。根据方案，员工持股计划参加对象总人数为 9 人，员工自筹资金不超过3000万元，全额认购银华基金-长盈 1 号资产管理计划次级份额。银华基金-长盈 1 号资产管理计划规模不超过1亿元，按照不高于 2.33:1 的比例设立优先份额和次级份额。</p><p>　　员工持股计划股票来源为购买公司回购的公司股票、二级市场购买等法律法规允许的方式，存续期限为 24 个月，锁定期为 12 个月。</p><p>　　此外，员工持股计划设预留份额，预留份额数量不超过 1999 万份，预留份额由董事长陈奇星代为持有。</p><p>　　<strong>潜能恒信美国设子公司加码国际油气资源开发投资</strong></p><p>　　潜能恒信(300191)11月18日晚间公告，公司全资子公司金司南能源有限公司拟以自有资金在美国投资设立全资子公司智慧石油美洲投资公司(暂定名，英文名称：Golden Smart Oil LLC).</p><p>　　智慧石油美洲投资公司注册资本1万美元，经营范围为能源领域投资、咨询、贸易。潜能恒信表示，公司设立海外公司是战略转型的进一步深化，智慧石油美洲投资公司的设立旨在进一步发挥其代表公司参与国际油气资源勘探开发投资的功能，自2014年开始的本轮国际油价下探迎来了全球油气并购的机遇，智慧石油美洲投资公司将充分利用公司技术优势以更低成本获取油气资源，面向全球特别是国际新区块勘探开发以及美国老油田二次滚动勘探开发。目前智慧石油美洲投资公司尚未确定具体投资对象。</p></div><div id='zw_footer'>（来源：东方财富网  2015-11-18 22:40） <a href='http://stock.eastmoney.com/news/1391,20151118567186018.html' target='_blank' style='color:Red'><b>[点击查看原文]</b></a></div>  
+				</div>
+			
+
+	</div>
+
+		</div>
+		<div class="zwconbtns clearfix">
+			<div class="zwconbtnsi" id="zwconbtnsi_pl" onclick="try{gudong.stat(3,null);}catch (e){};">
+				<div class="zwconbtnsii"></div>
+				<a href="javascript:;" target="_self">我要评论</a>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_zf" onclick="try{gudong.stat(4,null);}catch (e){};">
+				<div class="zwconbtnsii"></div>
+				<a href="javascript:;" target="_self">转发</a>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_z">
+				<div class="zwconbtnsii"></div>
+				<span id="zwpraise"><a href="javascript:;" target="_self">赞</a></span>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_sc">
+				<div class="zwconbtnsii"></div>
+				<span id="zwconbtsc"><a href="javascript:;" target="_self">收藏本帖</a></span>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_fx">
+				<div class="zwconbtnsia">
+					<div class="zwconbtnsii"></div>
+					<span id="zwconbtsc"><a href="javascript:;" target="_self">分享</a></span>
+				</div>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_jb">
+				<div class="zwconbtnsii"></div>
+				<span id="zwpraise"><a href="javascript:;" target="_self">举报本帖</a></span>
+			</div>
+		</div>
+
+
+		<div class="gubamobilegg2014" id="zwcontentbgg" style="display:none; text-align:center;">
+			<ul><li><span class="red"><a href="http://stattg.eastmoney.com/10361" ><strong>IPO再次重启，万2.5开户打新！今年新股平均上涨4倍！！</strong></a></span>&nbsp;<span class="red"><a href="http://js5.eastmoney.com/tg.aspx?ID=2334 " ><strong>年末热炒高送转，哪些股值得布局？机构观点抢先看！</strong></a></span>&nbsp;<span class="red"><a href="http://stattg.eastmoney.com/10147" ><strong>机构私募都在用的炒股软件</strong></a></span>&nbsp;<span class="red"><a href="http://js1.eastmoney.com/tg.aspx?ID=3744" ><strong>三因素致A股变异 酿酒家电大涨</strong></a></span></li></ul>
+		</div>
+
+		<div class="clear"></div>
+
+	</div>
+	
+		<div class="zwbb1"></div>
+	
+	<div id="zwlist">
+    <script>var num=9447;var count=31712;</script>
+        <script>
+        if (typeof (num) == "undefined") {var num=9442; }var pinglun_num=0;var xgti="";if(typeof (count) != "undefined"){xgti="<span class=\"tc2\"><a href='list,002701.html'>相关帖子<span class=\"tc1\">"+count+"</span>条</a></span>";}
+        document.getElementById("zwmbtilr").innerHTML ="现有<span class=\"tc1\">"+num+"</span>人阅读过该帖，评论<span class=\"tc1\">"+pinglun_num+"</span>条。"+xgti;
+        </script>
+        
+	</div>
+	<style type="text/css">
+		#zwbtextlink {  float: left; width: 100%; height: 29px; margin-bottom: 5px; }
+		#zwbtextlink ul {  float: left; padding-top: 8px; width: 100%; }
+		#zwbtextlink ul li { float: left; font-size: 14px;  padding: 0px 0px; }
+		#zwbtextlink ul li a { text-decoration: underline; color: #333333; margin-right: 7px; }
+		#zwbtextlink ul li span.red a { color: red;  font-weight: bold; text-decoration: underline; }
+	</style>
+	<div style=" clear:both; height:29px; border:1px solid #D8E6FF; border-top:0; padding: 0 0 5px 10px; ">
+		<div id="zwbtextlink">
+			<!-- 布告栏 --><ul><li><a href="http://stattg.eastmoney.com/10524" ><strong>Level-2限时特惠！</strong></a>&nbsp;<span class="red"><a href="http://js5.eastmoney.com/tg.aspx?ID=875" ><strong>注意！主力有大动作，7股明日望爆发！</strong></a></span>&nbsp;<a href="http://fundact.eastmoney.com/information/2014025/?spm=100005001.mw" ><strong>活期宝收益3-25%</strong></a>&nbsp;<span class="red"><a href="http://js1.eastmoney.com/tg.aspx?ID=3745" ><strong>3因素致A股变异</strong></a></span></li></ul>
+		</div>
+	</div>
+
+
+    <div class="gbbox1" id="sendnewt">
+		<div class="gbboxt">评论该主题 <span class="appealspan"><a href="javascript:;" target="_self" id="appealuserlink">帖子不见了！怎么办？</a></span></div>
+		<div class="gbboxtr"><span class="topbarlogin">作者：您目前是匿名发表 &nbsp; <a href="" id="bottomlogin" class="gubaloginlink"><strong>登录</strong></a> | <a href="" class="strlink gubareglink" id="bottomreg">5秒注册</a></span> <span class="topbarhaslogin">作者：<strong><span class="headerusername"></span></strong>，欢迎留言 <a href="javascript:;" class="logoutbtn" target="_self">退出</a></span> | <a href="/list,002701.html#sendnewt"><strong>发表新主题</strong></a></div>
+		<div class="gbboxb">
+			<form method="post" action="" id="gbsform" class="gbsform">
+				<div class="mtj1" id="yzmp"><label for="" class="l tzla">内容：</label><textarea class="gbsformt1" id="gbtainput"></textarea></div>
+				<div class="mtj2">
+					<div class="editorfuns" id="editorfuns"><a href="javascript:;" id="gbtainpubtn4" data-fun="face" target="_self"><em class="iconface"></em>表情</a> <a href="javascript:;" id="gbtainpubtn7" data-fun="stockcode" target="_self"><em class="iconstock"></em>股票</a> </div>
+					<div class="gbsformbtns"><span id="gdregbtn"></span>&nbsp;<button type="submit" class="gbsformi3">发  布</button></div>
+					<div class="clear"></div>
+				</div>
+				
+			</form>
+		</div>
+	</div>
+
+	<div style="color:#888888; padding:10px 0 0 0;clear:both; line-height:120%;">
+		提示：用户在社区发表的所有资料、言论等仅代表个人观点，与本网站立场无关，不对您构成任何投资建议。用户应基于自己的独立判断，自行决定证券投资并承担相应风险。
+	</div>
+
+	
+	<div class="siderg" style="padding-top:10px; clear:both;"><iframe width="718" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=655&op=1" ></iframe></div>
+    
+
+</div>
+<div id="sider"></div>
+</div>
+<div class="clear"></div>
+<div id="footer" class="gbbody">
+    	<p class="splp"><a href="http://corp.eastmoney.com/aboutus/" target="_blank">关于我们</a>　　<a href="http://corp.eastmoney.com/Lianxi_guanggao.asp" target="_blank">广告服务</a>　　<a href="http://corp.eastmoney.com/Lianxi_lianxi.asp" target="_blank">联系我们</a>　　<a href="http://corp.eastmoney.com/zhaopin/zhaopin_1.asp" target="_blank">诚聘英才</a>　　<a href="http://corp.eastmoney.com/lianxi_mianze.asp" target="_blank">免责声明</a>　　<a href="http://corp.eastmoney.com/Lianxi_falvshengming.asp" target="_blank">法律声明</a>　　<a href="http://corp.eastmoney.com/Lianxi_zhengao.asp" target="_blank">征稿启事</a>　　<a href="http://corp.eastmoney.com/media.asp" target="_blank">友情链接</a></p>
+    	<p class="sphp"></p>
+        <p>建议及投诉热线：021-54509984　　　<a href="http://corp.eastmoney.com/Lianxi_liuyan.asp" target="_blank"><img src="http://g1.dfcfw.com/g1/comm/msg.gif" border="0" />意见与建议</a></p>
+        <p class="sphp"></p>
+        <p><img src="http://g1.dfcfw.com/g1/comm/icp.gif" />&nbsp;沪ICP证：沪B2-20070217&nbsp;&nbsp;版权所有：<a href="http://www.eastmoney.com" target="_blank">东方财富网</a></p>
+        <p><a href="http://www.cyberpolice.cn/" target="_blank"><img src="http://g1.dfcfw.com/g1/comm/police.gif" border="0" /></a> &nbsp; <a href="http://www.zx110.org/picp/?sn=310104031200" target="_blank"><img src="http://gbfek.dfcfw.com/gubav5/images/gubabba.png" /></a></p>
+</div>
+<!--114.80.173.61-->
+<div id="stockhqh" style="display:none;"></div>
+
+<script src="//gbfek.dfcfw.com/gubav5/js/gubabase_da218adfac.js"></script>
+<script src="//gbfek.dfcfw.com/gubav5/js/news_m_339c6326e1.js"></script>
+<script src="//gbfek.dfcfw.com/gubav5/js/module_43cb88e12a.js"></script>
+<script src="//gbfek.dfcfw.com/gubav5/js/news_c_bd1d75d828.js"></script>
+<script src="count.aspx"></script>
+<script type="text/javascript">  var _cpyno = "c1"</script>
+<script type="text/javascript" src="http://js4.eastmoney.com/counter.js?c=t"></script>
+<script type="text/javascript">
+var rightAd_bodywidth = 1000;
+var rightAd_fixedwidth = 150;
+var rightAd_width = 135;
+var rightAd_height = 1741;
+var rightAd_top = '48px';
+var rightAd_url = 'http://fund.eastmoney.com/trade/Hot_Em.html?spm=100005001.rw';
+var rightAd_top = '48px';
+</script>
+<script src="http://gbfek.dfcfw.com/js/tg/rightAd_v2.js"></script>
+<script type="text/javascript">
+(function(d){
+	var ioSrc = function(url){
+		var script = document.createElement("script")
+		script.type = "text/javascript";
+		script.src = url;
+		document.getElementsByTagName("head")[0].appendChild(script);
+	};
+	
+	d.fixedSoftPic = "http://g1.dfcfw.com/g2/201510/20151013092340.gif";
+	d.fixedSoftLink = ["http://stattg.eastmoney.com/10762","http://stattg.eastmoney.com/10071","http://stattg.eastmoney.com/10312","http://stattg.eastmoney.com/10214","http://js5.eastmoney.com/tg.aspx?ID=2035"];
+	d.fixedLinkPt = 0;
+	d.fixedLinkMt = [0,0,0,0];
+	d.fixedLinkHeight = [120,194,86,86,80];
+	d.fixedSoftWidth = 135;
+	d.fixedSoftHeight = 568;
+	d.fixedBodyWidth = 990;
+	d.fixedSoftTop = 48;
+
+	d.fixedAlign = "left";
+	ioSrc("http://cmsjs.eastmoney.com/js/news_fixed_leftv3.js");
+})(window);
+</script>
+
+
+<script type="text/javascript" src="http://js3.eastmoney.com/js/gb_dcmap.js?mt=gubaarticle&odds=5000"></script>
+<script src="//gbfek.dfcfw.com/tg/EMBottomSearchTG/EMBottomSearchTG-1.0.3.min.js?v=1"></script>
+
+<script type="text/javascript" >
+    var newEMBottomSearchTG = new EMBottomSearchTG({
+		main_width:1000,
+        main_img: 'http://z1.dfcfw.com/2015/6/10/201506101029321460568336.jpg', //推广图片  imgurl
+        link: 'http://stattg.eastmoney.com/10267' //推广链接  aurl
+    });
+    newEMBottomSearchTG.show();
+</script>
+<script type="text/javascript" src="http://cmsjs.eastmoney.com/analysis/emtj.min.js?v=20150401"></script>
+</body>
+</html>

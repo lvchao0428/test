@@ -1,0 +1,338 @@
+<!--UINFO: http://www.xici.net/u32218611/p9.htm	length=29120&last_modified=0&time_saved=1450677198&charset=gb2312-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="alternate" type="application/rss+xml" title="订阅冨祢的角落"  href="rss.asp">
+<meta http-equiv="content-type" content="text/html; charset=gb2312" />
+<meta http-equiv="content-language" content="gb2312" />
+<meta name="robots" content="all" />
+<meta name="author" content="http://www.xici.net/" />
+<meta name="copyright" content="xici.net 版权所有，未经授权禁止链接、复制或建立镜像。" />
+<meta name="description" content=" 冨祢的角落 西祠胡同 xici.net"/>
+<meta name="keywords" content=" 冨祢的角落 西祠胡同 xici.net"/>
+<title>冨祢 - 西祠胡同</title>
+
+<link rel="icon" href="http://imgs.xici.net/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://imgs.xici.net/favicon.ico" type="image/x-icon" />
+<script language=javascript src="http://imgs.xici.net/_js/pub.js?t=20140915"></script>
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://imgs.xici.net/_common/styles/person.css?t=201301161" />
+
+<style type="text/css">
+
+	/*空间背景区*/
+    body{
+	    color:#666; /*文本字体*/
+	    background-color:#fff; /*背景明度值*/
+	  /*background-image:url("/_img/blog/s01/bg_body.jpg");*/
+	    background-repeat:no-repeat;
+		background-attachment : scroll;/* scroll | fixed */
+    }
+    body a{color:#069;} /*链接字体*/
+
+    .tit{color:#09c;} /*标题字体*/
+
+	/*空间主题区*/
+    .title{
+		color:#09c;/*空间简介明度值*/
+		background-color:transparent;background-image:url("http://www.xici.net/blog/files/blogimg.asp?f=t2&color=6699EE");background-repeat:no-repeat;
+	}
+	.title h2{color:#09c;} /*空间名称明度值*/
+
+	/*导航区*/
+
+    .bgn{background-color:transparent;background-image:url("http://www.xici.net/blog/files/blogimg.asp?f=n2&color=6699EE");}
+    .nor{color:#fff;} /*其他*/
+    .nor:hover{color:#06c;} /*当前TAB字体*/
+    .here{color:#06c;} /*当前TAB字体*/
+
+	/*Widget*/
+    .bor{
+		color:#666;/*文本字体*/
+		background-color:#fff;/*背景*/
+		border-width:1px;
+		border-color:#9cf;/*边框明度值*/
+		border-style:solid;
+	}
+    .bor .tit{color:#09c}/*标题字体*/
+    .bor a{color:#069}/*链接字体*/
+	.midd .dl .pb{color:#666}
+	.midd .dl .pb samp{color:#9cf}
+
+     #slideA{width:770px;position:absolute;top:0px;left:190px}
+     #slideB{width:180px;position:absolute;top:0px;left:0px}
+
+	.doc_sign {display:none}
+</style>
+
+</head>
+<body>
+<script src="http://imgs.xici.net/_js/doc.js?t=20120905"></script>
+<script language=javascript>
+function RePage(url,key){
+    if(key == 1){
+        document.location = url + "1.htm";
+    }else{
+        if ( key < 1 || key.toString == "" ){
+            key = 1;
+        }
+        document.location = url + key.toString() + ".htm";
+    }
+    return false;
+}
+</script>
+<script language="javascript" type="text/javascript" src="http://imgs.xici.net/_js/pub.js?t=20120906"></script>
+<script language="javascript">{var d = new Date();d.setTime((new Date()).getTime() + 108000000);document.cookie = "desktop=1; domain=xici.net; path=/; expires=" + d.toGMTString();}</script>
+<script language="javascript">var strPageUrl = '/u32218611/p9.htm';</script>
+<link href="http://imgs.xici.net/_common/styles/base.css?t=201301151" rel="stylesheet" />
+<link href="http://imgs.xici.net/_common/styles/style.css?t=201404281" rel="stylesheet" />
+<script src="http://imgs.xici.net/_js/GA.js?t=201401011"></script>
+
+<!--global_header:begin-->
+<div id="global_header">
+	<!--header_bar:begin-->
+	<div class="header_bar" id="header_bar">
+       <div class="header_logo" node-type="LOGO{$$}topnav" data-type="ga"><a class="logo_top" href="/" title="胡同口"></a></div>
+       <!--top_nav:begin-->
+       <ul class="top_nav">
+        <li node-type="胡同口{$$}topnav" data-type="ga"><a href="/" class="link">胡同口</a></li>
+        <li node-type="menu_list">
+        	
+            <!--chanel_box:begin-->
+             
+            <a href="javascript:;" class="link" id="cityname">广州<em></em></a>
+            <div class="tip_box o_city_box">
+            	<ul class="tip_list clear" id="hot_list">
+                </ul>
+            </div>
+        </li>
+        <!-- <li node-type="menu_list">
+        	<a href="javascript:;" class="link">游戏<em></em></a>
+			<div class="tip_box o_city_box" node-type="优惠频道{$$}topnav" data-type="ga">
+            	<ul class="tip_list">
+                <li><a href="http://huajia.xici.net/" target="_blank">结婚省米</a></li>
+                <li><a href="http://youxi.xici.net" target="_blank">游戏频道</a></li>
+                <li><a href="http://qipai.xici.6998.com/" target="_blank">网页棋牌</a></li>
+                <li><a href="http://www.xici.net/b1449976/" target="_blank">安卓游戏</a></li>
+                </ul>
+            </div>
+        </li> -->
+        <li node-type="手机版{$$}topnav" data-type="ga"><a href="/app.asp" class="link">手机版</a></li>
+    </ul>
+    <!--top_nav:end-->
+    <div class="top_search">
+       <input type="text" class="txt_search" id="search" node-type="公共头搜索{$$}topnav" data-type="ga" value="搜索版名、版号、关键词" />
+       <input type="button" value=" " node-type="公共头搜索{$$}topnav" data-type="ga" class="btn_search" onclick="doSearch();" />
+   </div>
+   <!--判断是否登录用户-->  
+           
+   <ul class="user_login">
+     <li class="mr-10" node-type="居委会{$$}topnav" data-type="ga"><a href="/b2488/" class="link">居委会</a></li>
+     <li class="mr-10" node-type="登录{$$}topnav" data-type="ga"><a title="登录" href="http://account.xici.net/login?refer=http://www.xici.net/u32218611/p9.htm" class="link">登录</a></li>
+     <li node-type="注册{$$}topnav" data-type="ga"><a href="http://account.xici.net/register?refer=http://www.xici.net/u32218611/p9.htm" title="注册" class="link">注册</a></li>
+ </ul>
+ 
+<!--飞语提示，默认先隐藏掉-->
+<div class="top_showtip" style="display:none" node-type="提示气泡{$$}topnav" data-type="ga"><p></p><a href="javascript:;" class="close_top_showtip" id = "notice_close"></a></div>
+<div id="global_notice" node-type="global_showtip"  style="display:none">
+    <span>尊敬的IE6/7/8浏览器的用户，胡同大妈教你在新版西祠玩的更舒服</span>
+    <a href="http://www.xici.net/d174003348.htm" class="blue">点击查看这里&gt;&gt;</a>
+    <a href="javascript:;" class="close_top_showtip"></a>
+</div>
+
+</div>
+<!--header_bar:end-->
+<div class="head_shadow"></div>
+</div>
+<!--global_header:end-->
+
+<script src="http://imgs.xici.net/_js/jquery-1.7.2.min.js"></script>
+<script src="http://imgs.xici.net/_js/jquery.plugins.js?t=201312061"></script>
+<script src="http://imgs.xici.net/_js/comm.js?t=20140912"></script>
+<div id="warp" class="warp">
+
+    <iframe width=1 height=1 marginwidth=0 marginheight=0 frameborder=0 scrolling=no src="/xiciservice/verify.asp"></iframe>
+
+<script language=javascript>
+
+    function PointCity(baseurl,url,setcityid,setlat,setlng,setrange) {
+        var Cfrm = document.citychangeform;
+        Cfrm.action = baseurl;
+        Cfrm.setcityid.value = setcityid;
+        Cfrm.setlat.value = setlat;
+        Cfrm.setlng.value = setlng;
+        Cfrm.setrange.value = setrange;
+        Cfrm.url.value = url;
+        
+        if(top != window){
+            parent.parent.notcity = setcityid;
+        }
+        
+        document.getElementById("submitcity").click();
+        parent.parent.updateFavs();
+    }
+</script>
+<form action="" method="post" name="citychangeform" style="display:none">
+    <input type="hidden" name="t" value="c" />
+    <input type="hidden" name="url" value="" />
+    <input type="hidden" name="setcityid" value="" />
+    <input type="hidden" name="setlat" value="" />
+    <input type="hidden" name="setlng" value="" />
+    <input type="hidden" name="setrange" value="" />
+    <input type="submit" name="submitcity" id="submitcity" value="确定" />
+</form>
+<script language="javascript">var xici_hotcity = new Array('南京;\/asia\/china\/huadong\/jiangsu\/nanjing','北京;\/asia\/china\/huabei\/beijing','上海;\/asia\/china\/huadong\/shanghai','苏州;\/asia\/china\/huadong\/jiangsu\/suzhou','深圳;\/asia\/china\/zhongnan\/guangdong\/shenzhen','南通;\/asia\/china\/huadong\/jiangsu\/nantong','扬州;\/asia\/china\/huadong\/jiangsu\/yangzhou','广州;\/asia\/china\/zhongnan\/guangdong\/guangzhou','无锡;\/asia\/china\/huadong\/jiangsu\/wuxi','成都;\/asia\/china\/xinan\/sichuan\/chengdu','徐州;\/asia\/china\/huadong\/jiangsu\/xuzhou','济南;\/asia\/china\/huadong\/shandong\/jinan','杭州;\/asia\/china\/huadong\/zhejiang\/hangzhou','芜湖;\/asia\/china\/huadong\/anhui\/wuhu','武汉;\/asia\/china\/zhongnan\/hubei\/wuhan','郑州;\/asia\/china\/zhongnan\/henan\/zhengzhou','盐城;\/asia\/china\/huadong\/jiangsu\/yancheng','常州;\/asia\/china\/huadong\/jiangsu\/changzhou','合肥;\/asia\/china\/huadong\/anhui\/hefei','青岛;\/asia\/china\/huadong\/shandong\/qingdao','沈阳;\/asia\/china\/dongbei\/liaoning\/shenyang','西安;\/asia\/china\/xibei\/shannxi\/xian','泰州;\/asia\/china\/huadong\/jiangsu\/taizhou','石家庄;\/asia\/china\/huabei\/hebei\/shijiazhuang','镇江;\/asia\/china\/huadong\/jiangsu\/zhenjiang','福州;\/asia\/china\/huadong\/fujian\/fuzhou','昆明;\/asia\/china\/xinan\/yunnan\/kunming','广东;\/asia\/china\/zhongnan\/guangdong','重庆;\/asia\/china\/xinan\/chongqing','兰州;\/asia\/china\/xibei\/gansu\/lanzhou','天津;\/asia\/china\/huabei\/tianjin','哈尔滨;\/asia\/china\/dongbei\/heilongjiang\/haerbin','贵阳;\/asia\/china\/xinan\/guizhou\/guiyang','长沙;\/asia\/china\/zhongnan\/hunan\/changsha','淮安;\/asia\/china\/huadong\/jiangsu\/huaian','南宁;\/asia\/china\/zhongnan\/guangxi\/nanning','长春;\/asia\/china\/dongbei\/jilin\/changchun','太原;\/asia\/china\/huabei\/shanxi\/taiyuan','宿迁;\/asia\/china\/huadong\/jiangsu\/suqian','保定;\/asia\/china\/huabei\/hebei\/baoding','佛山;\/asia\/china\/zhongnan\/guangdong\/foshan','连云港;\/asia\/china\/huadong\/jiangsu\/lianyungang','大连;\/asia\/china\/dongbei\/liaoning\/dalian','厦门;\/asia\/china\/huadong\/fujian\/xiamen','泉州;\/asia\/china\/huadong\/fujian\/quanzhou','南昌;\/asia\/china\/huadong\/jiangxi\/nanchang','温州;\/asia\/china\/huadong\/zhejiang\/wenzhou','宁波;\/asia\/china\/huadong\/zhejiang\/ningbo','烟台;\/asia\/china\/huadong\/shandong\/yantai','临沂;\/asia\/china\/huadong\/shandong\/linyi'
+);</script>
+
+<div id="adTop" class="w">
+
+<!--	<IFRAME MARGINHEIGHT=0 MARGINWIDTH=0 FRAMEBORDER=0 WIDTH=960 HEIGHT=90 SCROLLING=NO SRC="http://xiciafp.allyes.com/main/adfshow?user=XiciAFP|8zz|10tlkj11&db=xiciafp&border=0&local=yes"></IFRAME>-->
+</div>
+
+<div id="spT" class="w title">
+
+	<h2>
+	<a href="http://u32218611.xici.net" title="冨祢的角落" class="tit">
+
+	冨祢的角落</a>
+	<A href="http://u32218611.xici.net" onclick="window.external.AddFavorite('http://u32218611.xici.net','冨祢 - 西祠胡同');return false;" class=fav>http://u32218611.xici.net</A>
+    </h2>
+	<p></p>
+</div>
+
+
+<script language="javascript">
+function checksInput(key)
+{
+    if(document.getElementById("s").value == "" &&key==1)
+    {
+        document.getElementById("s").value = '请输入关键词';
+    }
+
+    if (document.getElementById("s").value == "请输入关键词")
+    {
+        return false;
+    }
+    if (key==3)
+    {
+        window.open("/s/?k=" + escape(document.getElementById("s").value));
+        return false;
+    }
+    return true;
+}
+</script>
+<div id="nav" class="w bgn">
+	<span class="l">
+		<a href="/u32218611/" title="首页" class="bgn nor ">首页</a>
+		<a href="p1.htm" title="文章" class="bgn nor here">文章</a>
+		<a href="t1.htm" title="相册" class="bgn nor ">相册</a>
+		<a href="m1.htm" title="彩信" class="bgn nor ">彩信</a>
+	    <a href="/u32218611/addFriend.asp" title="加好友" class="bgn nor " >加好友</a>
+		<a href="javascript:;" onclick="sendMessage.sendDivShow({},true,'冨祢')" title="留言" class="bgn nor ">留言</a>
+		<!--<a href="blogpre.asp?t=5" title="预订" class="bgn nor ">预订</a>-->
+		
+	</span>
+	<form method="get" action="article.asp" name="" class="r">
+
+		<input type="text" value='请输入关键词' class="txt" id="s" name="s" title="西祠胡同搜索" onclick="if (document.getElementById('s').value=='请输入关键词')document.getElementById('s').value=''"/> <input type="submit" onclick="return checksInput(2);" value="搜角落" class="hand" /><input type="button" onclick="return checksInput(3);" value="搜全站" class="hand" />
+	</form>
+</div>
+
+<div id="spCont">
+	<div id="slideA"><div class="midd bor" id="TDocText">
+		<dl class="dl"><dt><a href="/d225767337.htm" target="_blank">2016普洱市烟草专卖局招聘负责利源分析及..</a></dt><dd class="bor"><p class="pd">聘信息 &gt; 正文广发银行2016年校园招聘公告发布时间：2015-09-17 11:29:30 作者: 点击:754 打印 关闭 广发银行成立于1988年，是我国首批组建的股份制银行之一。本行围绕“打造一流商业银行”的愿景目标，将“只争朝夕，臻于至善”的企业精神贯彻于经营管理全程，</p><p class="pb"><span class="l"><samp>[</samp><a href="/d225767337.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_0></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：15-12-11 00:35</span></p></dd></dl><dl class="dl"><dt><a href="/d225767328.htm" target="_blank">2016红塔集团招聘将通过网站站内信和手机..</a></dt><dd class="bor"><p class="pd">中国农业银行总行科技部门2016年校园招聘启事发布时间：2015-09-17 11:33:41 作者: 点击:673 打印 关闭 中国农业银行是一家同时在上海证券交易所、香港联合交易所挂牌的国有大型上市银行，资金实力雄厚，服务功能齐全，秉承“诚信立业 稳健行远”的核心价值观，坚持审慎……</p><p class="pb"><span class="l"><samp>[</samp><a href="/d225767328.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_1></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：15-12-11 00:35</span></p></dd></dl><dl class="dl"><dt><a href="/d225767318.htm" target="_blank">2016普洱市烟草专卖局招聘精算师负责从事..</a></dt><dd class="bor"><p class="pd">山东省科学院激光研究所研究生、博士生、团队招聘信息发布时间：2015-09-17 15:29:59 作者: 点击:169 打印 关闭 自动控制团队招聘博士提供待遇：1、事业编制，工作、户口地点济南，年收入不低于8万元；2、提供必要的实验室和科研基础条件，不少于20万元课题启动经费；</p><p class="pb"><span class="l"><samp>[</samp><a href="/d225767318.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_2></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：15-12-11 00:34</span></p></dd></dl><dl class="dl"><dt><a href="/d225767310.htm" target="_blank">2016红塔集团招聘昭通卷烟厂招聘工伤保险..</a></dt><dd class="bor"><p class="pd">IBM 2016校园招聘信息发布时间：2015-09-18 16:51:19 作者: 点击:542 打印 关闭点亮你的未来“蓝”图！想要与全球顶尖高手过招吗？想要参与改变世界的不凡之举吗？快来加入我们，携手IBM，一起点亮你的未来“蓝”图，成就最好版本的你！IBM中国有限公司2016应届生招聘火……</p><p class="pb"><span class="l"><samp>[</samp><a href="/d225767310.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_3></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：15-12-11 00:33</span></p></dd></dl><dl class="dl"><dt><a href="/d225767302.htm" target="_blank">2016红塔集团招聘考试之人力资源和社会保..</a></dt><dd class="bor"><p class="pd">泰州职业技术学院引进高层次人才招聘公告发布时间：2015-09-18 10:39:00 作者: 点击:155 打印 关闭 泰州职业技术学院坐落在泰州市风景秀丽的凤城河畔，是1998年3月经原国家教委批准建立的公办普通高校，也是江苏省第一所冠以“职业技术学院”名称的院校。办学历史近60年，</p><p class="pb"><span class="l"><samp>[</samp><a href="/d225767302.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_4></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：15-12-11 00:33</span></p></dd></dl><dl class="dl"><dt><a href="/d225767294.htm" target="_blank">2016红塔集团招聘考试官网网申为准招商银..</a></dt><dd class="bor"><p class="pd">“梦想靠岸”招商银行2016校园招聘信息发布时间：2015-09-21 11:05:32 作者: 点击:310 打印 关闭 二十八年的创新与成长，二十八年的激情与绽放，二十八年的成就与梦想。二十八年来，招商银行作为一家具有一定规模与实力的境内、外上市银行，已稳步实现规模与效益的同步快……</p><p class="pb"><span class="l"><samp>[</samp><a href="/d225767294.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_5></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：15-12-11 00:32</span></p></dd></dl><dl class="dl"><dt><a href="/d225767283.htm" target="_blank">2016红塔集团招聘员工互助基金用以帮助生..</a></dt><dd class="bor"><p class="pd">金佰利2016培训生校园招聘信息发布时间：2015-09-21 11:12:17 作者: 点击:350 打印 关闭释放您的潜能，金佰利给你无限可能！我们正寻找立志在快速消费品行业-销售、市场、供应链、财务、工程方向大展拳脚的你！如果你实事求是，想做正确的事！如果你喜欢挑战常规，</p><p class="pb"><span class="l"><samp>[</samp><a href="/d225767283.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_6></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：15-12-11 00:32</span></p></dd></dl><dl class="dl"><dt><a href="/d225767272.htm" target="_blank">2016红塔集团招聘考试界面用户体验测试兼..</a></dt><dd class="bor"><p class="pd">招聘信息 &gt; 正文思必驰科技2016年校园招聘信息发布时间：2015-09-21 11:17:32 作者: 点击:248 打印 关闭——专注智能硬件的语音交思必驰科技（AI Speech—Artificial Intelligent Speech）是剑桥大学团队创立、中国领先的智能语音公司，是国内唯一拥有人机对话技术，</p><p class="pb"><span class="l"><samp>[</samp><a href="/d225767272.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_7></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：15-12-11 00:31</span></p></dd></dl><dl class="dl"><dt><a href="/d225767261.htm" target="_blank">2016红塔集团招聘考试之针对骨干员工适时..</a></dt><dd class="bor"><p class="pd">烟台正海磁性材料股份有限公司2016年招聘简章发布时间：2015-10-10 10:06:16 作者: 点击:150 打印 关闭  一、公司简介烟台正海磁性材料股份有限公司位于美丽的海滨城市——烟台，地处烟台经济技术开发区，毗邻碧海蓝天、风景优美的金沙滩海水浴场。公司成立于2000年，</p><p class="pb"><span class="l"><samp>[</samp><a href="/d225767261.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_8></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：15-12-11 00:30</span></p></dd></dl><dl class="dl"><dt><a href="/d225767252.htm" target="_blank">2016红塔集团招聘考试法定福利五险一金带..</a></dt><dd class="bor"><p class="pd">烟台正海磁性材料股份有限公司2016年招聘简章发布时间：2015-10-10 10:06:16 作者: 点击:150 打印 关闭  一、公司简介烟台正海磁性材料股份有限公司位于美丽的海滨城市——烟台，地处烟台经济技术开发区，毗邻碧海蓝天、风景优美的金沙滩海水浴场。公司成立于2000年，</p><p class="pb"><span class="l"><samp>[</samp><a href="/d225767252.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_9></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：15-12-11 00:30</span></p></dd></dl><script language=javascript>function SetValue(sValues) {var arrvs = sValues.split(',');for (var i = 0; i < arrvs.length; i++) {document.getElementById("c_" + i).innerHTML = arrvs[i];};};SetValue('162,105,54,51,18,310,12,139,118,34');</script>
+	    <div class="alg_r">
+		    <a href="/u32218611/p8.htm">上一页</a> <a href="/u32218611/p1.htm">1</a> <a href="/u32218611/p2.htm">2</a> <a href="/u32218611/p3.htm">3</a> <a href="/u32218611/p4.htm">4</a> <a href="/u32218611/p5.htm">5</a> <a href="/u32218611/p6.htm">6</a> <a href="/u32218611/p7.htm">7</a> <a href="/u32218611/p8.htm">8</a> <b>9</b> <a href="/u32218611/p10.htm">10</a> <a href="/u32218611/p10.htm">下一页</a> <a href="/u32218611/p11.htm">后十页</a> <a href="/u32218611/p143.htm">尾页</a> <input style="border:solid 1px #333333;font-size:12px;" id="pnBox" type="text" size="1"> <a href=# onClick="RePage('/u32218611/p',pnBox.value);">翻页</a> 共 143 页
+	    </div>
+		</div>
+
+		
+	</div>	
+	<div id="slideB"><div class="widget bor"><h2 class="tit bgn" title="我的名片">我的名片</h2><div class="cul"><a href="/u32218611"><img src="http://icons.xici.net/u32218611/files/photo_l.pic" alt=冨祢 /></a><p class="name">冨祢</p><ul class="ul"><li>ID　　号：32218611</li><li>注册时间：15-11-06</li><li>上次登陆：15-12-11</li><!--li>今日人气：12345</li--><!--li>今日排名：12345</li--></ul></div></div><div class="widget bor"><h2 class="tit bgn" title="个人资料">个人资料</h2><ul class="iul"></ul></div><script src='http://api.map.baidu.com/api?key=&v=1.1&services=true'></script><script src='http://imgs.xici.net/_controls/maps/baiduMap.js'></script><div class='widget bor'><h2 class='bgn tit' title='我的位置'>这里是哪呢？</h2><div class='map' id='dituContent' style='width:180px;height:150px'><script>baiduMap.createMap(116.391322,39.908063,11);</script></div></div><div class='widget bor'><h2 class='bgn tit' title='最新发表的文章'>最新发表文章</h2><ul class='iul'><li><a href='/d225786245.htm' title="昆明市烟草专卖局招聘2016大理州烟草专卖局公司2016年招聘公告" target='_blank'>昆明市烟草专卖局招聘2016..</a></li><li><a href='/d225786106.htm' title="2016保山市烟草专卖局公司2016年招聘公司2016年毕业生公开招聘方案" target='_blank'>2016保山市烟草专卖局公司..</a></li><li><a href='/d225786071.htm' title="2016云南烟叶复烤有限责任公司2016年招录考试相关公告" target='_blank'>2016云南烟叶复烤有限责任..</a></li><li><a href='/d225786032.htm' title="2016云南省烟草烟叶公司2016年招聘公告公司2016年毕业生公开招聘方案" target='_blank'>2016云南省烟草烟叶公司20..</a></li><li><a href='/d225785999.htm' title="2016玉溪卷烟厂2016年新员工招聘体检通知红河卷烟厂2016年毕业生招聘计划" target='_blank'>2016玉溪卷烟厂2016年新员..</a></li><li><a href='/d225785963.htm' title="2016云南烟叶复烤有限责任公司关于2016年招录用毕业生考试相关事宜的公告" target='_blank'>2016云南烟叶复烤有限责任..</a></li><li><a href='/d225785932.htm' title="2016红云红河集团招聘考试2016红塔集团笔试14章滑动轴承的自由度和速度分析" target='_blank'>2016红云红河集团招聘考试..</a></li><li><a href='/d225785904.htm' title="2016红塔集团报考红河州烟草专卖局招聘考试时间及流程备考请联系我们" target='_blank'>2016红塔集团报考红河州烟..</a></li><li><a href='/d225785864.htm' title="2016临沧市烟草专卖局（公司）2016公开招聘尧舜烟草培训尧舜烟草" target='_blank'>2016临沧市烟草专卖局（公..</a></li><li><a href='/d225785816.htm' title="考试2016红塔集团笔试笔试2016红塔集团笔试辅导2016红塔集团笔" target='_blank'>考试2016红塔集团笔试笔试..</a></li></ul></div><div class="widget bor"><h2 class="tit bgn" title="标题">文章归档</h2><ul class="ul pul"><li><samp>·</samp><a href="a201512.htm">2015年12月</a> (1422)</li></ul></div></div><div id="slideC"></div>
+	
+</div>
+<script language=javascript>
+localStorage.removeItem("noticeNum" + G_UID);
+try{
+ImgsFix();
+}catch(e){}
+jQuery(function (){
+	jQuery("#blog_bottom").show();
+	var a_h,b_h,c_h;
+	var typeA = jQuery("#slideA").css("display");
+	var typeB = jQuery("#slideB").css("display");
+	var typeC = jQuery("#slideC").css("display");
+	if(typeA == "block"){
+		a_h = jQuery('#slideA').height();
+	}else{
+		a_h = 0;
+	}
+
+	if(typeB == "block"){
+		b_h = jQuery('#slideB').height();
+	}else{
+		b_h = 0;
+	}
+
+	if(typeC == "block"){
+		c_h = jQuery('#slideC').height();
+	}else{
+		c_h = 0;
+	}
+	jQuery('#spCont').css("height", Math.max(a_h,b_h,c_h));
+})
+</script>
+
+<span id="blog_bottom" style="display:none;">
+</div>
+<script type="text/javascript">var lCityId=142440100;var lClubId=1;var lATimes=1;var strRefer='';var refer='';if(refer=='fav') {strRefer='menu.asp';} var strFirstRefer='';var maintag = (typeof(StatMainTag)=='undefined')?'':StatMainTag;var sbookDate = (typeof(bookDate)=='undefined')?'4':bookDate;var sLogondays = (typeof(Logondays)=='undefined')?'0':Logondays;var screenResolution = screen.width+'*'+screen.height;var str_img={rnd:"2015-12-21|13:53:18",runtime:{pub_1:"0.000",pub_2:"0.000",d_bconn:"0.000",d_bvsql:"0.016",d_besql:"0.000",HttpTimer_Raw1:"0.000",ATime:"0.172",DTime:"0.016",FTime:"0.000",AppSvr:"",AppRun:""},stat:{dn:"www.xici.net",uname:"",uid:"0",s:"DB53CD536577F7FA",h:"",ct:"142440100",ch:"1",ats:"1",fr:"",frurl:"",cus:"http://www.xici.net/u32218611/p9.htm",rf:escape(strRefer),mt:escape(maintag),bdt:sbookDate,lds:sLogondays,scr:screenResolution}};str_img="<img src='http://data.xici.net/1x1.gif?"+JSON.stringify(str_img)+"' style='display:none;' />";if(typeof(lBdId)=="undefined") {document.write(str_img);}else{document.write(str_img.replace(/(\/d([^/]+)\.htm)/,'/b'+lBdId+'$1'));}</script>
+	<script type="text/javascript">
+	window.onload = function () {
+			var SessionID = 'DB53CD536577F7FA';
+			if (SessionID != "" && window.localStorage){
+				var key = localStorage.getItem("key");
+				if (key!=SessionID){
+					localStorage.setItem("key",SessionID);
+					localStorage.setItem("count",1);
+				}else{
+					var value = Number(localStorage.getItem("count"));
+					localStorage.setItem("count",value+1);
+					if ((value % 6)==0){
+						bdAccessLogon(location.href.substring(location.host.length + 8),'_self');
+					}
+				}
+			}
+		}
+	</script>
+<img alt="" src="" width="0" height="0" />
+<div id="ofooter" class="w">
+	<span><a href="/" target="_blank" title="西祠首页">胡同口</a>|<a href="/help/law.asp" target="_blank" title="网民法规提示">法规</a>|<a href="http://service.xici.net/" target="_blank" title="广告服务">广告服务</a>|<a href="/help/partner.asp" target="_blank" title="合作伙伴">合作伙伴</a>|<a href="/help/contact.asp" target="_blank" title="联系我们">联系我们</a>|<a href="/b566135/" target="_blank" title="加入我们">加入我们</a>|<a title="收费删帖警示" target="_blank" href="http://labs.xici.net/help/help_del.html">收费删帖警示</a>
+    
+	</span>
+</div>
+
+<script type="text/javascript">    
+//google代码统计
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+jQuery(function (){
+	if (typeof gastatic !== "undefined") {
+		gastatic();
+	}
+});
+</script>
+<!--[if IE 6]>
+<script src="http://imgs.xici.net/_js/DD_belatedPNG.js"></script>
+<script type="text/javascript">
+   DD_belatedPNG.fix('.logo_top, .logo a');
+</script>
+<![endif]-->
+
+</span>
+<script src="http://imgs.xici.net/_js/xici.common.analysis-baidu.js" type="text/javascript"></script>
+</body>
+</html>

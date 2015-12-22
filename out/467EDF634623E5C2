@@ -1,0 +1,148 @@
+<!--UINFO: http://bbs.auto.ifeng.com/thread-2060621-1-1.html	length=8575&last_modified=0&time_saved=1450677184&charset=utf-8-->
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>提示信息 汽车论坛大全 </title>
+<meta name="360-site-verification" content="155851ce5000ec0c83858404ee6eba5a" />
+<meta name="baidu-site-verification" content="nAdYuU85Tk" />
+<meta name="keywords" content="" />
+<meta name="description" content=",汽车论坛大全" />
+<base href="http://bbs.auto.ifeng.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_common.css?YO4" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_forum_viewthread.css?YO4" /><link rel="stylesheet" id="css_extstyle" type="text/css" href="./template/ifeng/style/t1/style.css" /><script type="text/javascript">var STYLEID = '2', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'YO4', charset = 'utf-8', discuz_uid = '0', cookiepre = '8EWX_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread|reply', creditnotice = '1|金币|个', defaultstyle = './template/ifeng/style/t1', REPORTURL = 'aHR0cDovL2Jicy5hdXRvLmlmZW5nLmNvbS90aHJlYWQtMjA2MDYyMS0xLTEuaHRtbA==', SITEURL = 'http://bbs.auto.ifeng.com/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src="data/cache/common.js" type="text/javascript"></script>
+    <script src="static/ifeng/js/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript">jQuery.noConflict();</script>
+    <script src="static/ifeng/js/cookie.js" type="text/javascript"></script>
+<meta name="msapplication-task" content="name=论坛首页;action-uri=http://bbs.auto.ifeng.com/portal.php;icon-uri=http://bbs.auto.ifeng.com/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=论坛大全;action-uri=http://bbs.auto.ifeng.com/forum.php;icon-uri=http://bbs.auto.ifeng.com/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=个人中心;action-uri=http://bbs.auto.ifeng.com/home.php;icon-uri=http://bbs.auto.ifeng.com/static/image/common/home.ico" /><link rel="archives" title="汽车论坛大全" href="http://bbs.auto.ifeng.com/archiver/" />
+<script src="data/cache/forum.js" type="text/javascript"></script>
+    <script src="http://h0.ifengimg.com/20150625/fa.min.js" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div class="ifengnav">
+  <div class="ifengnav_1">
+        <div class="ifengnav_1_1">
+            <div class="bbsindex"><a href="http://bbs.auto.ifeng.com/">论坛首页</a></div>
+            <div class="autoifeng"><a href="http://auto.ifeng.com/" target="_blank">汽车首页</a></div>
+            <div class="bbsforum"><a href="http://bbs.auto.ifeng.com/forum.php">论坛导航模式</a><span id="loginjs"></span></div>
+            <form method="post"  onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+        		<input type="hidden" name="mod" id="scbar_mod" value="search" />
+                <input type="hidden" name="formhash" value="72e038ac" />
+                <input type="hidden" name="srchtype" value="title" />
+                <input type="hidden" name="srhfid" value="0" />
+                <input type="hidden" name="srhlocality" value="forum::viewthread" />
+                                  <input type="text" class="input_text" name="srchtxt" id="srchtxt" autocomplete="off"/>
+                  <input type="submit" id="searchsubmit" name="searchsubmit" value="搜索">
+                  </form>
+        </div>
+           
+        <div id="logindiv">
+            <div class="navSet" id="login_common">
+            <div class="login" id="login">
+                <span class="reg cGray"><a href="https://id.ifeng.com/user/register" target="_blank" rel="nofollow">注册</a></span>
+                <span class="btn03 cWhite"><a id="btnSwapLogin" class="" rel="nofollow">登录</a></span>
+                <a id="nickName" class="" href="javascript:void(0);" style="display:none">昵称</a>
+            </div>
+        </div>
+        </div>
+        <script type="text/javascript">
+var usid = jQuery.cookie('sid');
+if(usid){
+jQuery.getScript("https://id.ifeng.com/api/checklogin?sid="+usid+"&callback=vlogin");
+}else{
+jQuery("#logindiv").show();
+jQuery("#umenu").hide();
+}
+function vlogin(data){
+if(data.code){
+jQuery.getScript("https://id.ifeng.com/api/getuserinfo?sid="+usid+"&callback=ulogin");
+}else{
+addCookie('sid','');
+document.getElementById('btnSwapLogin').onclick = function() {
+if ('undefined' !== typeof window['GLOBAL_LOGIN']) {
+window['GLOBAL_LOGIN']();
+}
+window['REG_LOGIN_CALLBACK'](1, function (optionsORname) {
+dologin();
+});
+};
+}
+}
+function ulogin(data){
+if(data.data.username || data.data.nickname){
+jQuery("#logindiv").hide();
+jQuery("#umenu").show();
+var uname=data.data.username==null?data.data.nickname:data.data.username;
+jQuery("#btnSwapLogin").html(uname);
+window.location.href = "api/uc_ifeng_user.php?m=login&amp;refer="+window.location.href;
+}else{
+alert("用户名只能输入一次哦，本次提交后将无法修改O(∩_∩)O");
+jQuery("#nickName").click();
+}
+}
+function addCookie(objName, objValue) {//添加cookie
+var the_cookie =objName + "=" + escape(objValue)+ ";" ;
+var the_cookie = the_cookie+ "path=/;";
+var the_cookie = the_cookie + "domain=ifeng.com;";
+document.cookie =the_cookie;
+}
+</script>
+                     </div>
+</div>
+<script src="http://m0.ifengimg.com/p/login/20140819/public_login.min.js" type="text/javascript"></script>
+     <script type="text/javascript">
+ 		function dologin(){
+window.location.href =window.location.href ;
+}
+            document.getElementById('btnSwapLogin').onclick = function() {
+                if ('undefined' !== typeof window['GLOBAL_LOGIN']) {
+                    window['GLOBAL_LOGIN']();
+                }
+window['REG_LOGIN_CALLBACK'](1, function (optionsORname) {
+dologin();
+});
+            };
+var nickName = document.getElementById('nickName');
+nickName.onclick = function(e) {
+e.preventDefault();
+window['NICK_NAME'](true);
+};
+window['NICK_NAME_CALLBACK'](function() {
+ 	 dologin();
+});
+    </script>
+    <!-- 登陆所需代码 结束 --><div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <strong>登录</strong> 后使用快捷导航<br />没有帐号？<a href="http://my.ifeng.com/?_c=register&amp;_a=new-account" class="xi2 xw1">注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div><div class="wp a_h"><a href="http://bbs.auto.ifeng.com/thread-1317351-1-1.html" target="_blank" rel="nofollow" ><img src="http://y1.ifengimg.com/auto/image/2014/0704/9-3.jpg" height="100" width="1000" alt="凤凰定制车标免费申领" border="0"></a></div><div id="hd">
+<div class="wp">
+            	<div class="hdc cl"><h2><a href="http://bbs.auto.ifeng.com/" title="汽车论坛大全"><img src="static/image/common/logo.png" alt="汽车论坛大全" border="0" /></a></h2></div>
+<div id="nv">
+<a href="javascript:;" id="qmenu" onMouseOver="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(0);})">快捷导航</a>
+<ul><li id="mn_N1c27" ><a href="http://auto.ifeng.com" hidefocus="true"  >汽车首页</a></li><li id="mn_N217c" ><a href="http://bbs.auto.ifeng.com" hidefocus="true"  >论坛首页</a></li><li id="mn_N2760" ><a href="http://bbs.auto.ifeng.com/forum.html" hidefocus="true"  >论坛大全</a></li><li id="mn_N0d91" ><a href="http://bbs.auto.ifeng.com/forum-guide.html" hidefocus="true"  >热点导读</a></li><li id="mn_N6fef" ><a href="http://bbs.auto.ifeng.com/home.html" hidefocus="true"  >个人中心</a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div></div>
+</div>
+
+
+<div id="wp" class="wp">
+<div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p>抱歉，指定的主题不存在或已被删除或正在被审核</p>
+<script type="text/javascript">
+if(history.length > (BROWSER.ie ? 0 : 1)) {
+document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ 点击这里返回上一页 ]</a></p>');
+} else {
+document.write('<p class="alert_btnleft"><a href="./">[ 汽车论坛大全 首页 ]</a></p>');
+}
+</script>
+</div>
+</div>
+</div>
+</div>	</div

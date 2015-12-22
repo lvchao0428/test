@@ -1,0 +1,195 @@
+<!--UINFO: http://bbs.rednet.cn/forum.php?mod=viewthread&tid=44511849	length=13003&last_modified=0&time_saved=1450677304&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>提示信息  红网论坛  </title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",红网论坛" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+    <meta name="uctk" content="enabled"><!--热力图-->
+<base href="http://bbs.rednet.cn/" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_common.css?ZI5" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_forum_viewthread.css?ZI5" /><script type="text/javascript">var STYLEID = '2', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'ZI5', charset = 'gbk', discuz_uid = '0', cookiepre = 'FKPl_27d4_', cookiedomain = '.rednet.cn', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'login|newthread|reply', creditnotice = '1|红网币|,3|帖子数|,5|魅力|,6|威望|,7|经验|,8|等级|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5yZWRuZXQuY24vZm9ydW0ucGhwP21vZD12aWV3dGhyZWFkJnRpZD00NDUxMTg0OQ==', SITEURL = 'http://bbs.rednet.cn/', JSPATH = 'data/cache/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?ZI5" type="text/javascript"></script>
+    <!--HW匹配forum和portal两类页面流量分析-->
+    <META name="filetype" content="0">
+    <META name="publishedtype" content="2">
+    <META name="pagetype" content="1">
+    <META name="catalogs" content="dzf_">
+    <META name="contentid" content="">
+    
+    <!--HW-->
+    <meta name="uctk" content="enabled"><!--热力图-->
+<meta name="application-name" content="红网论坛" />
+<meta name="msapplication-tooltip" content="红网论坛" />
+<meta name="msapplication-task" content="name=论坛首页;action-uri=http://bbs.rednet.cn/portal.php;icon-uri=http://bbs.rednet.cn/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=红网论坛;action-uri=http://bbs.rednet.cn/forum.php;icon-uri=http://bbs.rednet.cn/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=红网博客;action-uri=http://blog.rednet.cn;icon-uri=http://bbs.rednet.cn/static/image/common/home.ico" /><link rel="archives" title="红网论坛" href="http://bbs.rednet.cn/archiver/" />
+<link rel="stylesheet" id="css_widthauto" type="text/css" href='data/cache/style_2_widthauto.css?ZI5' />
+<script type="text/javascript">HTMLNODE.className += ' widthauto'</script>
+<script src="data/cache/forum.js?ZI5" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="http://www.rednet.cn" target="_blank" >红网首页</a><a href="javascript:;"  onclick="setHomepage('http://bbs.rednet.cn/');">设为首页</a><a href="http://bbs.rednet.cn/"  onclick="addFavorite(this.href, '红网论坛');return false;">收藏本站</a><script type="text/javascript">var _speedMark = new Date();</script></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到窄版" class="switchwidth">切换到窄版</a>
+</div>
+</div>
+</div>
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div><div class="wp a_h"><div align="center"><script src="http://ad.rednet.cn/code/739.htm"></script>&nbsp;<script src="http://ad.rednet.cn/code/740.htm"></script></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="http://bbs.rednet.cn/" title="红网论坛"><img src="template/bbs/images//logo.png" alt="红网论坛" border="0" /></a></h2><script src="data/cache/logging.js?ZI5" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<span class="ftid">
+<select name="fastloginfield" id="ls_fastloginfield" width="40" tabindex="900">
+<option value="username">用户名</option>
+<option value="email">Email</option>
+</select>
+</span>
+<script type="text/javascript">simulateSelect('ls_fastloginfield')</script>
+</td>
+<td><input type="text" name="username" id="ls_username" autocomplete="off" class="px vm" tabindex="901" /></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />自动登录</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password" class="z psw_w">密码</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;"><em>登录</em></button></td>
+<td>&nbsp;<a href="member.php?mod=register" class="xi2 xw1">注册</a></td>
+</tr>
+</table>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</div>
+</div>
+</form>
+
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(0);})">快捷导航</a>
+<ul><li class="a" id="mn_forum" ><a href="http://bbs.rednet.cn/forum.php" hidefocus="true" title="BBS"  >红网论坛<span>BBS</span></a></li><li id="mn_home" ><a href="http://blog.rednet.cn" hidefocus="true" title="Space"  >红网博客<span>Space</span></a></li><li id="mn_forum_10" ><a href="http://bbs.rednet.cn/forum.php?mod=guide" hidefocus="true" title="Guide"  >导读<span>Guide</span></a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+<ul class="cl " id="snav_mn_userapp" style="display:none">
+</ul>
+</div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="b2c2b79b" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="0" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+<div style="margin-top:10px"><table><tr><td><div><SCRIPT language="JavaScript1.2" type="text/javascript" src="http://ad.rednet.cn/code/1013.htm"></SCRIPT></div></td><td><div><SCRIPT language="JavaScript1.2" type="text/javascript" src="http://ad.rednet.cn/code/1014.htm"></SCRIPT></div></td></tr></table></div>
+<div style="clear:both">
+<ul class="blocknav" >
+<li><a  href="forum.php?gid=507">红辣椒</a><span class="pipe">|</span></li>
+<!--<li><a href="http://bbs.rednet.cn/forum.php?gid=508">财经</a><span class="pipe">|</span></li>-->
+<li><a href="http://hncity.rednet.cn/">城市</a><span class="pipe">|</span></li>
+<li><a href="http://bbs.rednet.cn/forum.php?gid=521">高校</a><span class="pipe">|</span></li>
+<li><a href="http://bbs.rednet.cn/forum.php?gid=2694">女性</a><span class="pipe">|</span></li>
+<li><a href="http://bbs.rednet.cn/forum.php?gid=511">文化</a><span class="pipe">|</span></li>
+<li><a href="http://bbs.rednet.cn/forum.php?gid=2643">生活</a><span class="pipe">|</span></li>
+<li><a href="http://bbs.rednet.cn/forum.php?gid=510">情感</a><span class="pipe">|</span></li>
+<li><a href="http://bbs.rednet.cn/forum.php?gid=2651">车友会</a><span class="pipe">|</span></li>
+<li><a href="http://bbs.rednet.cn/forum.php?gid=1709">交通</a><span class="pipe">|</span></li>
+<li><a href="http://bbs.rednet.cn/forum.php?gid=513">图片摄影</a><span class="pipe">|</span></li>
+<li><a href="http://love.rednet.cn/" target=_blank>爱心家园</a><span class="pipe">|</span></li>
+<li><a href="http://bbs.rednet.cn/forum.php?gid=2653">休闲娱乐</a><span class="pipe">|</span></li>
+<!--<li><a href="http://bbs.rednet.cn/forum.php?gid=516">数字时代</a><span class="pipe">|</span></li>
+<li><a href="http://bbs.zjjzx.cn/">张家界在线</a><span class="pipe">|</span></li>-->
+<li><a href="http://bbs.rednet.cn/thread-26947197-1-1.html">常见问题答疑</a></li>
+</ul>
+</div>
+<div style="clear:both">
+</div>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p>抱歉，指定的主题不存在或已被删除或正在被审核</p>
+<script type="text/javascript">
+if(history.length > (BROWSER.ie ? 0 : 1)) {
+document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ 点击这里返回上一页 ]</a></p>');
+} else {
+document.write('<p class="alert_btnleft"><a href="./">[ 红网论坛 首页 ]</a></p>');
+}
+</script>
+</div>
+</div>
+</div>
+</div>	</div>
+<div class="wp a_f"><div align="center"><script src="http://ad.rednet.cn/code/741.htm"></script>&nbsp;<script src="http://ad.rednet.cn/code/742.htm"></script></div>
+</div><div align="center"> 
+<script src="http://www.rednet.cn/js/foot.js" type="text/javascript" type="text/javascript"></script>
+</div>
+<div id="ft" class="wp cl" style="border:0">
+<div id="flk" class="y" style="display:none">
+<p>
+<a href="http://bbs.rednet.cn/forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><a href="http://bbs.rednet.cn/archiver/" >Archiver</a><span class="pipe">|</span><strong><a href="http://bbs.rednet.cn/" target="_blank">红网</a></strong>
+&nbsp;&nbsp;<span id="tcss"></span><script type="text/javascript" src="http://tcss.qq.com/ping.js?v=1ZI5" charset="utf-8"></script><script type="text/javascript" reload="1">pgvMain({"discuzParams":{"r2":"11783291","ui":0,"rt":"forum","md":"viewthread","pn":1,"qq":"000","logo":14},"extraParams":""});</script></p>
+<p class="xs0">
+GMT+8, 2015-12-21 13:55<span id="debuginfo">
+, Processed in 0.556247 second(s), 3 queries
+, Gzip On, Redis On.
+</span>
+</p>
+</div>
+<div id="frt" style="display:none">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.2</em></p>
+<p class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1450677303" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '11783291|X3.2|0.6||0||0|7|1450677303|665ddbb546dfd1aff4f167e92c46f4d3|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>

@@ -1,0 +1,730 @@
+<!--UINFO: http://bbs.hexun.com/post_153_8475593_1_d.html	length=49648&last_modified=0&time_saved=1450676998&charset=gb2312-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>
+	教育信息化的发展成效与推进思路-社会杂谈-社会生活-品质生活-和讯论坛
+</title>
+	<link href="/s/p/a.css?0915" type="text/css" rel="stylesheet"/>
+<link href="/css/bbs2013.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/s/p/h.js?a"></script>
+<style type="text/css">
+.admA,.ipedit{display:none;}
+</style>
+<script type="text/javascript" language="javascript">
+var boardUrl = 'http://bbs.hexun.com/board_153_all_1_d.html';
+var post = {id:8475593,boardId:153,title:'教育信息化的发展成效与推进思路',isTop:false,
+    isEssence:false,
+    isValid:true,isRecomment:false,isLock:false,
+    isMark:false,av:0};
+
+
+function $(id) { return document.getElementById(id); }
+
+var hasCopyMsg = '已复制帖子信息，请按Ctrl+V粘贴到MSN,QQ或Email分享给朋友吧！';
+function getShareText(){
+    var t = post.title;
+    var url = location.href;
+    var txt = (t + '\r\n' + url);
+    return txt;
+}
+
+function fixImg(oimg){
+    if(oimg.processError)return;   
+    var src = oimg.src;
+    oimg.processError = true;                
+    oimg.src = 'http://f200-9.bbs.hexun.com/service/externalImg.aspx?t='+new Date().getTime()+'&src=' + src.encodeURI();
+}
+</script>
+</head>
+<body>
+
+<div id="wrap">
+<?xml version="1.0" encoding="gb2312"?>
+<style type="text/css">
+#zt_head2011{ width: 100%; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 0; height: 34px; font-size: 12px; overflow: hidden; }
+#zt_head2011 a{ text-decoration: none; }
+#zt_head2011 a:hover{ text-decoration:underline; }
+#zt_head2011 *{ padding: 0; margin: 0; font-size: 12px; }
+#zt_head2011 img{ border: 0;}
+#zt_head2011 .ztlogo{ float: left; background: url(http://img.hexun.com/2010/zt/nztbg.gif) repeat-x 0 -83px; height: 34px; padding: 0 22px 0 22px; }
+#zt_head2011 .ztlink{ float: left; padding: 10px 0 0 12px; line-height: 14px;color: #c7e0ff; }
+#zt_head2011 .ztlink a{ color: #c7e0ff; }
+
+#zt_head2011 .loginT{ color:#c7e1fc; width:320px; float:right; text-align:right;height:27px; padding-top:7px; padding-right:10px;color: #c7e0ff;}
+#zt_head2011 .loginT span.news{ display:inline-block; height:19px; line-height:19px; background:#cccccc; padding:0px 5px; color:#000}
+#zt_head2011 .loginT span.news a{color:#000!important}
+#zt_head2011 .loginT a{color: #c7e0ff;}
+#zt_head2011 .loginT .input1{ background:url(/index/root/images/input1.jpg); width:120px; padding-left:3px; height:19px; line-height:19px; border:none}
+#zt_head2011 .loginT .input2{ background:url(/index/root/images/psw.jpg); width:66px; height:19px;border:none}
+#zt_head2011 .loginT .btn1{ background:url(/index/root/images/login.jpg); width:39px; height:19px; border:none; vertical-align:middle}
+
+</style>
+<div id="zt_head2011">
+ <div class="ztlogo"><a href="http://www.hexun.com" target="_blank"><img src="http://img.hexun.com/2010/logo/zt_logo.gif" alt="和讯" border="0" /></a><a href="http://bbs.hexun.com/" target="_blank" ><img src="/index/root/images/bbs.jpg" alt="" border="0" /></a></div>
+	<div class="ztlink"><a href="http://www.hexun.com" target="_blank">和讯首页</a> <a href="http://blog.hexun.com/" target="_blank">博客</a> <a href="http://t.hexun.com/default.html" target="_blank">微博</a> <a href="http://kd.hexun.com/" target="_blank">看点</a> <a href="http://wenda.hexun.com/" target="_blank">问达</a> <a href="http://bbs.hexun.com/" target="_blank" >论坛</a> <a href="http://guba.hexun.com/" target="_blank">股吧</a> <a href="http://jijinba.hexun.com/" target="_blank">基金吧</a> <a href="http://pic.bbs.hexun.com/pic/index.html" target="_blank">组图</a> <a href="http://mail.hexun.com/" target="_blank">邮箱</a> <a href="http://game.hexun.com/" target="_blank">游戏</a>
+	</div>
+
+ <div class="loginT" id="divHRight">
+  </div>
+ </div>
+<div class="clear"></div>
+<script type="text/javascript">
+if(top.location != location)top.location.href = location.href;
+$debug = false;
+</script>
+
+	<table class="banner" style="width: 100%;display:none" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td id="adTopLeft" width="784"><a href="http://bbs.hexun.com/" target="_blank"><img src="http://f200-9.bbs.hexun.com/e/100318/150926.jpg" alt="好风光"/></a></td><td id="adTopRight"><ul><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯解和论坛吗</a></li><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯论坛吗解和</a></li><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯论坛吗解和</a></li><li><a href="http://bbs.hexun.com/" target="_blank">你你你你你你了解和讯论坛吗解和</a></li></ul></td></tr></tbody></table>
+<div id="roadlink">
+<div class="road"><a href="http://bbs.hexun.com/board_1_all_1_d.html" target="_top">和讯论坛</a> &gt; <a href="http://bbs.hexun.com/board_3_all_1_d.html" target="_top">品质生活</a> &gt; <a href="http://bbs.hexun.com/board_152_all_1_d.html" target="_top">社会生活</a> &gt; <a href="http://bbs.hexun.com/board_153_all_1_d.html" target="_top">社会杂谈</a></div>
+<div class="rigser"><form method="get" action="/search" style="display:inline" target="_blank">
+<p><input name="q" style="padding-bottom: 0px; line-height: 16px; padding-left: 2px; width: 150px; padding-right: 2px; height: 16px; color: #8b8b8b; padding-top: 0px;"  type="text" value="输入关键词" onfocus="if(this.value=='输入关键词')this.value='';" /> 
+<label><select style="color: #8b8b8b;" name="type">
+<option value="1">标题</option>
+<option value="16">作者</option>
+<option value="2">正文</option>
+</select>
+</label>  
+<input type="image" src="/clientfiles/post/img/btn_ser.gif" alt="搜索" align="absMiddle" />
+</p>
+</form></div>
+</div>
+<div id="content">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" style="padding-right:10px;" id="tdContent"><a name="top"></a>
+<div style="height:28px;clear:both">
+<div style="float:left;width:200px;">
+<a href="/newpost.aspx?bid=153" target="_blank"><img src="/clientfiles/post/img/btn_fb.gif" /></a>
+<a href="/newreply.aspx?bid=153&postId=8475593" target="_top"><img src="/clientfiles/post/img/btn_hf2.gif" /></a>
+</div>
+
+
+</div>
+<div class="artcont" style="overflow-x:hidden;width:766px" id="divPosts">
+<div class="arttitle" id="divTitle"> <b>点击：<span id="pv" class="fc00">...</span>   回复：<span class="fc00">0</span></b>
+主题：<strong>教育信息化的发展成效与推进思路</strong> 
+<img src="/icons/default.gif"align="absmiddle" alt='默认' title='默认' /></div>
+<!--发帖人信息-->
+
+<dl class="ftrmod">
+<dt style="width:65px;"><a href="/u_25559029/_d.html" target="_blank"><img width="46" height="46" src="http://logo1.tool.hexun.com/1f5ff85-40.jpg" /></a></dt>
+<dd>
+<h3><span> 发表于： [2015-07-29 17:03:27]</span>
+<strong class="f06c0">楼主：<a target="_blank" href="/u_25559029/_d.html" class="f06c0">蜗牛倒立</a></strong> [<a target="_blank" href="/u_25559029/_d.html"  class="f666">查看资料</a>] [<a href="javascript:MessageBox.show('qqh2r7crms');"  class="f666">发送纸条</a>] [<a href="http://blog.hexun.com/25559029/" class="f666" target="_blank">博客</a>] [<a href="http://t.hexun.com/25559029/" class="f666" target="_blank">微博</a>]</h3>
+<p>等级：<span id="dvGradeName">...</span>&nbsp;&nbsp;积分：<span id="dvuserpoint">...</span></p>
+</dd>
+</dl>
+
+<div class="clear"></div>
+
+<div class="txtmain">
+　　<font color="rgb(0, 112, 192)"><strong><font style="font-size:16px">教育信息化的战略地位得以确立</font></strong></font></p><p>　　第一，党中央、国务院高度重视。十八届三中全会首次把教育信息化写入中央全会决议，提出“构建利用信息化手段，扩大优质教育资源覆盖面的有效机制，逐步缩小区域、城乡、校际差距”，这为我们指明了工作方向。</p><p>　　第二，教育信息化的部际协调机制发挥了重要作用。财政部与教育部共同实施了“教学点数字教育资源全覆盖”项目，发改委在信息惠民工程中对教育予以支持。工信部在实施“宽带中国”计划和贫困村信息化工作中，都把学校的网络接入作为优先保障，<a href="http://bbs.hexun.com/search/?q=%BF%C6%BC%BC&type=1&Submit=" target="_blank">科技</a>部对教育云规模化应用示范给予了支持。</p><p>　　第三，教育信息化已经成为各地推进教育现代化的重要抓手。全国31个省份和兵团都成立了教育信息化领导小组，18个省份建立了厅际协调机制，29个省份制定了教育信息化规划或行动计划，14个省份成立了专家咨询机构。据不完全统计，两年来各省级财政投入的教育信息化经费超过50亿元。</p><p>　　第四，社会各界对教育信息化都给予充分肯定。各大主流媒体纷纷报道，国际社会也高度关注中国教育信息化的发展。</p><p>　　<font style="font-size:16px"><font color="rgb(0, 112, 192)"><strong>“三通两平台”取得突破性进展</strong></font></font></p><p>　　一、“宽带网络校校通”取得了重大进展，截至2015年3月底，全国中小学(除去教学点外)已经有81%的学校实现网络接入，这两年的接入量达到了过去多年接入量的两倍，76.5%的农村学校实现互联网接入;配备多媒体教室227万间，占普通教室的60%，43%的学校已经实现多媒体教室全覆盖，有73%的学校已拥有多媒体教室。全国已有13个省份的学校互联网接入比例达到90%以上，有12个省份多媒体教室的覆盖比率达到90%以上。2015年年初，教育部也印发了《职业院校数字校园建设规范》，规范和推动职业院校的数字校园建设。</p><p>　　二、“优质资源班班通”取得了显著成效。2012年底，教育部和财政部共同实施了“教学点数字教育资源全覆盖”项目，到2014年底，随着西藏的全面完成，全国6.4万个教学点已经实现了<a href="http://bbs.hexun.com/search/?q=%C9%E8%B1%B8&type=1" target="_blank">设备</a>配备、资源配送和教学应用的三到位，开设了以往不能开出的音乐、美术、英语等课程，有效满足了400 多万教学点学生就近接受良好教育的愿望。2014年9月，教育部又启动了“一师一优课、一课一名师”活动，到目前为止，已经有336万的教师报名参与。职业教育方面已经建设了56个教学资源库，并且通过“国家示范性职业学校数字化资源共建共享计划”，开发了52个中职专业的400多门精品课程和215个视频课程。</p><p>　　三、“网络学习空间人人通”实现了跨越式发展。现在已有30%的学校开设了网络学习空间，师生空间开通数量从2012年的60万，到2013年的600万，再上升到2014年的3600万，实现了三级跳，也超额完成了2014年要达到1800万网络学习空间的目标。现在已经有407万名教师应用空间开展网络教研，有300多万的教师应用空间开展教学，网络学习空间应用领域由职业教育逐步扩展到基础教育、高等教育以及继续教育。</p><p>　　四、教育资源公共服务平台初具规模。到目前为止，国家教育资源公共服务平台已经实现了与14个省级和5个市县级平台的互联互通和资源共享，上线基础教育资源1.78万条，职业教育的教材34种，虚拟仿真系统47套，网络课程93门，专题资源1400条，同时也建设了108个专题教育社区。2014年，国家教育资源公共服务平台的总页面访问数近10亿次，访问用户5400多万人，总资源下载数也达到了3000多万次，现在已经有三分之二的省份建设了省级资源平台，国家教育资源云服务体系正在初步形成。</p><p>　　五、教育管理公共服务平台全面应用。教育管理信息化建立起“两级建设、五级应用”的格局，实现全国学校“一校一码”，学生“一人一号”。全国中小学生学籍信息管理系统率先在教育管理信息化的大规模应用中取得了突破，实现了1.78亿中小学生的信息入库。</p><p>　　六、教育信息化培训工作扎实推进。2013年10月，教育部启动实施了全国中小学教师信息技术应用能力提升工程，各地通过骨干培训与全员培训、网络培训与面授培训，集中培训与日常学习，专项培训与学科渗透培训相结合，全方位、多途径地提升了教师信息技术应用能力和水平。目前，通过国培计划和各种企业的培训项目，全国已有600多万名中小学教师、5万多名中小学校长、20多万名职业学校教师参加了教育信息化的专题培训。</p><p>　　<font style="font-size:16px"><font color="rgb(0, 112, 192)"><strong>以教育信息化来带动教育现代化</strong></font></font></p><p>　　随着教育改革发展的不断深入，教育部党组把教育信息化放在教育工作重中之重的位置来大力推进。教育信息化要不断取得阶段性突破，不断形成新的亮点，要推动我国教育信息化整体上接近国际先进水平，使这项工作成为当前最出彩的教育工作之一，成为教育事业发展历程中的光辉里程碑。</p><p>　　第一，从国际和国内的发展情况来看，对教育信息化现在的要求是目标更高、速度更快、效果更好。一方面，要贯彻落实十八大提出的任务，教育信息化刻不容缓。中央领导非常关心教育信息化，今年要召开第二次全国教育信息化工作会，系统地总结第一次会后的工作进展，提出“十三五”教育信息化发展的基本思路，部署各地进一步加快教育信息化的进程，促进信息技术与教育教学的深度融合，为基本实现教育现代化提供有力支撑。</p><p>　　另一方面，顺应国际教育发展的趋势，教育信息化时不我待。主要发达国家竞相出台教育信息化发展政策，不断加大教育信息化投入，平板电脑、在线学习逐渐走入发展中国家的课堂。国际经验表明，信息化对教育的影响，已经从工具、产品的应用层次，演化到教育模式甚至教育制度的革新。未来的国际竞争说到底是人才的竞争，要清醒地认识和深刻地理解教育信息化面临的紧迫形势和竞争态势。总体来说，我国教育信息化基础还比较薄弱，与发达国家相比还有一定的差距，不仅要更新观念，更需要广泛普及和推广应用，使之能够真正的推动教育改革和发展。</p><p>　　第二，全面完成“十二五”教育信息化工作目标，为“十三五”加快发展奠定坚实的基础。下一步，我们将以党的十八大和十八届三中、四中全会精神为指引，深入贯彻习总书记系列重要讲话精神，认真落实《构建利用信息化手段扩大优质教育资源覆盖面有效机制的实施方案》，围绕解决教育改革发展的重大问题，以支撑教育改革、促进教育公平、提高教育质量为重点，以有效机制的构建为引领，以“三通两平台”为重要抓手，全面深化信息技术在教学、管理等方面的应用，为实现教育现代化和构建学习型社会提供有力支撑。</p><p>　　今年年初，教育部已经印发了教育信息化的工作要点，明确了8项核心目标，要力争实现学校互联网的全覆盖，全面完成“十二五”的目标任务。在部署的23项工作当中，今年重点做好以下9方面工作：第一，补足中西部农村学校信息化基础设施的短板;第二，深入推进“一师一优课，一课一名师”活动;第三，加强优质数字教育资源的开发与应用;第四，开展教育信息化应用的典型示范，2015年重点在基础教育领域来试点;第五，构建完善的教育资源云服务体系;第六是加快重要信息系统的建设与应用;第七，扩大实施教师信息技术应用能力提升工程;第八，召开国际教育信息化大会;第九，进一步加强教育系统网络安全工作，今年要与公安部联合部署信息系统安全等级保护工作，要建立部署单位的安全通报机制，指导各单位建立完善安全事件应急预案和安全事件的监测体制，开展网络安全培训，为教育信息化的健康发展营造一个安全稳定的网络环境。今年3月底，教育部印发了《关于进一步加强信息技术安全工作的通知》，对部直属单位和部属高校提出了10条建议，要求建立党政一把手负责的网络安全与信息化的领导机构，健全信息技术安全责任制度，加强信息系统统筹管理，落实信息系统安全等级保护制度，完善信息技术安全报告与处置制度，加强数据统筹管理，加强办公计算机统筹管理，加强信息技术安全队伍的建设和培训，提高信息技术安全防护能力和加强信息技术安全检查工作。</p><p>　　<font style="font-size:16px"><font color="rgb(0, 112, 192)"><strong>加快推进教育信息化创新和发展</strong></font></font></p><p>　　高等教育充分利用优势条件能够加快推进教育信息化的创新发展，教育信息化是一项极其复杂的系统工程，是信息时代立德树人，加强社会主义核心价值观教育的有效途径，是落实现代教育理念，变革教育模式，培养创新人才的重要手段，也是推动教育治理体系和治理能力现代化的强大动力，需要集合各方的力量来大力推进。同时，教育信息化也是一个新生事物，没有现成的经验可以照搬，是一项极其富有创新精神的工作。当前，就需要我们按照十八届三中全会全面深化改革的要求，解放思想，与时俱进，大胆地探索，勇于实践、改革创新。杜部长在2014年第一期教育厅局长教育信息化专题培训班上强调，高校推进教育信息化要着重在四个方面下工夫。</p><p>　　第一，积极推进高校自己的应用，在教学、科研和管理等方面深入普遍应用，高校要带头推动信息技术与教育教学的深度融合，把信息技术应用在教育教学的主战场上，创新教学模式和学习方式，改进课堂教学、实践实验教学的质量和效果，推动人才培养模式变革，提高人才培养质量和办学水平。科研方面要利用信息化手段推动资源、信息共享，促进跨时空的合作和交流，加强项目实施过程管理和经费监管与服务。管理方面要利用信息化手段，提高管理与服务的效率，降低办学成本和能耗，实现教学、科研、人事、学生、财务等方面管理服务的现代化、后勤服务的精细化以及决策的科学化。</p><p>　　第二，做好教育信息化相关技术的研发，这不仅为学校自身改进教学、科学管理提供支撑，同时也为进一步丰富教育信息化的理念、理论和技术提供支撑，促进教育信息化发展和教育变革。</p><p>　　第三，要求高校能够为社会重点行业提供高水平的信息化服务，牵头推进重大应用，比如<a href="http://bbs.hexun.com/search/?q=%C5%A9%D2%B5&type=1&Submit=" target="_blank">农业</a>院校可以为三农的信息化提供服务，医学院校也可以对医疗信息化提供支撑，服务行业和区域的信息化都是高校能够做的。</p><p>　　第四，推进高素质信息化人才的培养，李克强总理在2015年政府工作报告中明确提出了“互联网+”行动计划，旨在推动新一代信息技术与各个传统行业的深度融合，创造新的发展生态。“互联网+”行动计划对教育最大的一个诉求，就是能够提供更强大的人才支撑保障，培养大量互联网相关领域的紧缺人才。同时，高校要重视“人人通”的工作，探索“人人通”的功能和应用模式，尤其在教学改革和人才培养方面，能够深度结合，在教师用得上、用得好这方面多下工夫。今年是“十二五”的收官之年，对于教育信息化阶段性目标的顺利完成和“十三五”目标的快速推进具有承前启后的决定性意义。希望信息化工作者能够以改革创新的精神，用真功夫、下大力气，共同为推进教育信息化工作，为教育的改革发展贡献自己的力量。
+<div style=" width:100%; text-align:center;"><a style="font-size:large; color:Red; font-weight:bold;" href="http://bbs.hexun.com/" target="_blank">查看更多精彩内容请进论坛首页</a></div>
+</div>
+
+<div class="bqdiv">
+
+</div>
+
+<style type="text/css">
+ .fl{ float:left; display:inline;}
+ .fr{ float:right; display:inline;}
+ .clearfix:after{
+     content:'.';
+     display:block;
+     width:0;
+     height:0;
+     overflow:hidden;
+     visibility:hidden;
+     clear:both;
+ }
+ .mb15{ margin-bottom:15px; *margin-bottom:10px;}
+ .clearfix{ zoom:100% }
+.shareBox{ width:354px; float:left; display:inline; margin-left:35px; overflow:visible;height:20px; padding-top:0px; line-height:18px;font-size:12px; text-align:right; color:#d9d9d9}
+.shareBox span{color:#666; vertical-align:middle}
+.shareBox span.word_desc{color:#666; display:inline-block; padding-top:1px;}
+.ssina_btn,.sqq_btn,.skx_btn,.srr_btn,.sdb_btn,.shxwb_btn,.ssohu_btn,.sqqz_btn{display:inline-block; margin:0px 8px; width:0px; height:20px; padding-left:16px;background:url(http://img.hexun.com/home/icons-share.gif) no-repeat 0 2px; vertical-align:middle; position:relative;}
+.ssina_btn{background-position:0px -198px;}
+.sqq_btn{background-position:0px -162px;}
+.skx_btn{background-position:0px -37px;}
+.srr_btn{background-position:0px -77px;}
+.sdb_btn{background-position:0px -117px;}
+.ssohu_btn{background-position:0px -234px;}
+.sqqz_btn{ background-position:0px -269px;}
+.shareBox a div{ position:absolute; overflow:hidden; width:0px;background:url(http://img.hexun.com/home/sharetip.gif) no-repeat 0 0px;height:20px; padding-top:2px; color:#666; text-align:center;text-decoration:none; line-height:18px; }
+.shareBox a:hover{ text-decoration:none}
+.shareBox a:hover div,.shareBox a .on{ top:-20px; width:91px; left:-38px}
+#douban div{ background-position:0px -22px;}
+#douban a:hover div,#douban .on{ top:-20px; width:91px; left:-64px}
+    /*cwb*/
+    .shareBox_longweibo{ margin-right:105px;}
+    .shareBox_longweibo span{ height:26px; line-height:26px; color:#666666;}
+    .pt5{ padding-top:5px;}
+</style>
+<div class="cwbShare clearfix pt5 mb15">
+    <div class="shareBox" id="share"><span class="word_desc">将本文分享至：</span><a name="和讯微博" href="javascript:void((function(s,d,e,t,z){var f='http://t.hexun.com/channel/shareweb.aspx?',u=z||d.location,p=['title=',e(t||d.title),'&amp;url=',e(u)].join('');function a(){if(!window.open([f,p].join(''),'wb'))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else a();})(screen,document,encodeURIComponent,'',''));" class="shxwb_btn"><div class="">分享到和讯微博</div></a>|<a class="ssina_btn" href="#" target=_blank id=sina><div>分享到新浪微博</div></a>|<a href="#" target=_blank id=sohu name="分享到搜狐微博" class="ssohu_btn"><div>分享到搜狐微博</div></a>|<a href="#" target=_blank id=qq class="sqq_btn"><div>分享到腾讯微博</div></a>|<a class="skx_btn" id=kaixin target=_blank href="#"><div>分享到开心网</div></a>|<a href="#" target=_blank id=renren class="srr_btn"><div>分享到人人网</div></a>|<a href="#" id=douban class="sdb_btn"  target=_blank><div>分享到豆瓣网</div></a></div>
+
+        <div class="fr">
+					<div class="shareBox_longweibo">
+						<span class="fl">将文本：</span>
+						<a class="fl" id="CreateCWB" href="javascript:void(0);" onclick="goCwb();"><img alt="生成长微博" src="/img/cwb_btn.png" /></a>
+						<a class="fl" id="createCWB2" href="http://hexuncom.blog.hexun.com/81128788_d.html" target="_blank"><img alt="" src="/img/cwb_help.png" /></a>
+					</div>
+    </div>
+</div>
+<script type="text/javascript">
+function shareHexunAll(){
+	var db=document.getElementById("douban");
+	if(db!=null){
+		db.href='http://www.douban.com/recommend/?url='+encodeURIComponent(document.location.href)+'&title='+encodeURIComponent(document.title);
+	}
+	
+	var qq=document.getElementById("qq");
+	if(qq!=null){
+		qq.href='http://v.t.qq.com/share/share.php?url='+encodeURIComponent(document.location.href)+'&title='+encodeURIComponent(document.title);
+	}
+	
+	var rr=document.getElementById("renren");
+	if(rr!=null){
+		rr.href='http://share.renren.com/share/buttonshare.do?link='+encodeURIComponent(document.location.href)+'&title='+encodeURIComponent(document.title);
+	}
+	
+	var kx=document.getElementById("kaixin");
+	if(kx!=null){
+		kx.href='http://www.kaixin001.com/repaste/share.php?rtitle='+escape(document.title)+'&rurl='+encodeURIComponent(document.location.href)+'&rcontent=';
+	}
+	
+	var sohu=document.getElementById("sohu");
+	if(sohu!=null){
+		sohu.href='http://t.sohu.com/third/post.jsp?&url='+escape(window.location.href)+'&title='+escape(document.title);
+	}
+	
+	var sina=document.getElementById("sina");
+	if(sina!=null){
+		sina.href='http://v.t.sina.com.cn/share/share.php?title='+encodeURIComponent(document.title)+'&url='+encodeURIComponent(location.href)+'&source=bookmark';
+	}
+
+//	var cwb = document.getElementById("CreateCWB");
+//	if (cwb != null) {
+//		cwb.href = 'http://cwb.tool.hexun.com/?tcode='+ 8475593 +'&mt=2&title=' + encodeURIComponent('教育信息化的发展成效与推进思路') + '&url=' + encodeURIComponent(location.href) + '&t=' + new Date().getTime();
+//	}
+}
+shareHexunAll();
+
+function goCwb() {
+	//alert('ok');
+  window.open('http://cwb.tool.hexun.com/?tcode='+ 8475593 +'&mt=2&title=' + encodeURIComponent('教育信息化的发展成效与推进思路') + '&url=' + encodeURIComponent(location.href) + '&t=' + new Date().getTime());
+}
+
+var btnList = document.getElementById('share').getElementsByTagName("a")
+var btndiv = document.getElementById('share').getElementsByTagName("div")
+for(var i=0;i<btnList.length;i++){
+   (function(i){
+btnList[i].onmouseover = function(){
+btndiv[i].className='on'
+}
+btnList[i].onmouseout = function(){
+btndiv[i].className=''
+}
+})(i)
+}
+</script>
+   
+ <div class="ipedit" id="divIPEdit">
+    <span class="right">用户IP:<span id="ip"></span>  来自：<span id="address"></span></span>
+    <a href="javascript:void(0)" target="_self" onclick="setTop(event)" id="cmdTop">置顶</a>  
+    <a href="javascript:void(0)" target="_self" onclick="setEssence(event)" id="cmdEssence">精华</a>  
+    <a href="javascript:void(0)" target="_self" onclick="setRecomment(event)" id="cmdRecommend">推荐</a>  
+    <a href="javascript:void(0)" target="_self" onclick="setMark(event)" id="cmdMark">标记</a>  
+    <a href="javascript:void(0)" target="_self" onclick="movePost()" id="cmdMove">转移</a>  
+    <a href="javascript:void(0)" target="_self" onclick="copyPost()" id="cmdCopy">转帖</a>  
+    <a href="javascript:void(0)" target="_self" onclick="setLock(event)" id="cmdLock">锁定</a>
+    <a href="javascript:void(0)" target="_self" onclick="setIsValid(event,1)" id="cmdDelete">删除</a>  
+    调整A值： <label>
+ <select name="AValue" id="avalue" onchange="setAValue(this)">
+ <option value="-5" >-5</option><option value="-4" >-4</option><option value="-3" >-3</option><option value="-2" >-2</option><option value="-1" >-1</option><option value="0"  selected>&nbsp;0</option><option value="1" >&nbsp;1</option><option value="2" >&nbsp;2</option><option value="3" >&nbsp;3</option><option value="4" >&nbsp;4</option><option value="5" >&nbsp;5</option>
+ </select>
+ </label>
+ </div>
+ 
+
+   <div class=" btnli"> 
+   
+   <a href="/newreply.aspx?bid=153&postId=8475593">回复</a>  | 
+    <a href="/newreply.aspx?bid=153&postId=8475593&quote=true">引用</a>  | 
+
+<a href="javascript:void(0)" onclick="addBookmark(location.href,document.title)" target="_self">收藏</a> | 
+
+    <span class="admA"> <a href="/editpost.aspx?postId=8475593">编辑</a>  | </span>
+      <a href="javascript:copy(top.location.href)" target="_self">复制链接</a>  |
+        <a href="javascript:;" target="_self" onclick="informPost()">举报</a> <span class="admA">| 
+         <a href="javascript:void(0)" target="_self" onclick="setIsValid(event,1)">删除</a> 
+         </span>
+         <a href="#top"><img src="/clientfiles/post/img/back.gif" align="absmiddle" /></a>
+         
+</div>
+   
+
+<script type="text/javascript" src="/s/p/b.js?a"></script>
+
+
+
+<script type="text/javascript">
+var editor = new punymce.Editor({
+	id : 'txtContent',
+	toolbar:'insertimage,insertlink,inserttable,insertchar,removeformat',
+    plugins : 'Protect,TextColor,EditSource,Entities,Hexun,BBCode',
+	min_width : 500,
+	max_width:500,
+	customSetup:replySetupMce,
+    styles : [
+	    { title : 'Code', cls : 'pre', cmd : 'FormatBlock', val : '<pre>' },
+	    { title : 'Quote', cls : 'quote', cmd : 'mceSetClass', val : 'quote'},
+	    { title : 'Unquote', cls : 'quote', cmd : 'mceSetClass', val : ''}
+    ],
+    image:{skip_css:true},
+    link:{skip_css:true},
+    textcolor:{skip_css:true},
+    fonts:['Arial','宋体','新宋体','黑体','幼圆','隶书','华文彩云','华文琥珀','微软雅黑'],
+    fontsizes:['8pt','10pt','12pt','14pt','18pt','24pt','36pt'],
+    resize:false,
+    enableCustomSetup:true
+});
+//被禁用的工具栏
+function updateDisableTools(disabledTools){
+    editor.disabled = disabledTools;
+}
+</script>
+<script src="/BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getPostPageDisabledTools&bid=153" type="text/javascript"></script>
+
+<!--快速回复 b-->
+<div class="kshfmod"><a name="reply"></a>
+<h3>快速回复</h3>
+<div class="cont">
+<table width="680" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="520">
+<form method="post" name="formLogin" action="https://reg.hexun.com/login.aspx"><input name="gourl" value="http://bbs.hexun.com/post.aspx?bid=153&postId=8475593&pageNumber=1" type="hidden">
+<p class="yhxx"><span id="spnLoginStatus">未登录用户请在此登录：</span>
+    <input value="用户名" type="text" name="username" id="txtUserName" class="btn01"  style=" width:95px" onfocus="if(this.value=='用户名') this.value='';this.style.color='000000'" />　 
+    <input value="密码" type="password" name="password" id="txtPassword" class="btn01"  style=" width:95px" onfocus="if(this.value=='密码') {this.value='';this.style.color='000000';}" />
+    <input type="image" src="/s/p/img/login.jpg" class="lg"/>
+    <a href="http://reg.hexun.com/Register.aspx?fromhost=HX_BBS" class="f06c0" id="aReg"><u>新用户注册</u></a>
+</p>
+</form>
+<form method="post" action="post_153_8475593_1_d.html?bid=153&amp;postId=8475593&amp;pageNumber=1" id="f" target="_self">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA3NTAxOTIyMGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFFGN0bDAwJGMkYnV0dG9uU3VibWl0" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['f'];
+if (!theForm) {
+    theForm = document.f;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=Ne7l-Dx_3kv7uYbv0Mahnip_JgSu6mSwk436LbQj7wVCg_Ki6tmWEAqfYXc1&amp;t=635829225153178777" type="text/javascript"></script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+	<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+</div>
+<textarea name="content" id="txtContent" rows="12" cols="60"></textarea>
+<!--[if IE]>
+<br/><font color="gray">Ctrl + 回车可以快速提交</font>
+<![endif]-->
+<div style="display:none" id="plVc"></div>
+
+
+<div class="post_reply"><span id="c_labelMsg" style="color:Red;"></span> 
+<p><input type="image" name="ctl00$c$buttonSubmit" id="c_buttonSubmit" src="/clientfiles/post/img/btn_fb.gif" onclick="return checkForm(this);" /></p>
+</div>
+
+<script src="/js/md5.js" type="text/javascript"></script><script>var police={address:'f42479c9c3d0040ba3cef19788fd3b59',ip:'304884780c3e4624b9dd69eec9c99d89'};addLoadEvent(function(){setPoliceCode(document.aspnetForm||theForm);});</script>
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form></td>
+    <td valign="top" class="contrig">   
+    <p><button  class="editbtn" type="button"  style="width:115px;" onclick="editor.onBeforePopup();dialog.open({title:'插入股票行情图',src:'/service/quotechart.aspx?type=stock',width:'500px',height:'240px'});">插入股票行情图</button></p>
+     <p><button  class="editbtn" type="button" style="width:115px;" onclick="editor.onBeforePopup();dialog.open({title:'插入基金行情图',src:'/service/quotechart.aspx?type=funds',width:'500px',height:'240px'});">插入基金行情图</button></p>
+<div style="font-size:1px;height:1px">&nbsp;</div>
+     <div>表情：<a class="emtSelected" id="aEmNew" href="javascript:Emotion.turn(0)" target="_self">新版</a>
+      | <a class="emtUnselected" id="aEmOld" href="javascript:Emotion.turn(1)" target="_self">老版</a>
+      </div>
+     <div id="divEmotions"></div></td>
+  </tr>
+</table>
+
+
+
+</div>
+</div>
+</div>
+
+<!--快速回复 e-->
+
+</td>
+    <td width="215" valign="top">
+<?xml version="1.0" encoding="gb2312"?>
+
+
+<!--include virtual="/inc/ads/180x150.inc"-->
+
+<div id="sidebar">
+
+<div class="sidemod">
+<ul class=li02>
+<li><a href="http://licaike.hexun.com/subject/sub_regular.html?knownChannel=dqy-lt" target=_blank><img alt=短期理财就选它 src="http://i4.hexunimg.cn/2014-05-13/164743323.jpg"></a><a href="http://licaike.hexun.com/subject/sub_regular.html?knownChannel=dqy-lt" target=_blank>短期理财就选它</a></li>
+
+<li><a href="http://dai.licaike.hexun.com/?knownChannel=p2p-lt" target=_blank><img alt=和讯P2P进场 src="http://i1.hexunimg.cn/2014-09-15/168478802.jpg"></a><a href="http://dai.licaike.hexun.com/?knownChannel=p2p-lt" target=_blank>和讯P2P进场</a></li>
+</ul>
+
+</div>
+
+<div class="sidemod">
+	<h3 class="tit01">
+		<strong>热点</strong>
+	</h3>
+	<ul class="li01" id="R_listAD_1"></ul>
+</div>
+	
+<div class="sidemod"><h3 class="tit01"><strong>精彩内容推荐</strong></h3><ul class="li02"><li><a href="http://bbs.hexun.com/post_615_9208357_1_d.html" target="_blank"><img src="http://f200-9.bbs.hexun.com/e/151218/101908.jpg" alt="高送转名单大全"/></a><a href="http://bbs.hexun.com/post_615_9208357_1_d.html" target="_blank">高送转名单大全</a></li><li><a href="http://bbs.hexun.com/stock/post_5_9208263_1_d.html" target="_blank"><img src="http://f200-9.bbs.hexun.com/e/151218/102009.jpg" alt="股市十大关键词"/></a><a href="http://bbs.hexun.com/stock/post_5_9208263_1_d.html" target="_blank">股市十大关键词</a></li></ul><ul class="li01"><li><a href="http://bbs.hexun.com/stock/post_5_9216760_1_d.html" target="_blank">波澜不惊迎接2016年</a></li><li><a href="http://bbs.hexun.com/post_385_9216463_1_d.html" target="_blank">市场虽有近忧但无远虑</a></li><li><a href="http://bbs.hexun.com/stock/post_5_9216395_1_d.html" target="_blank">本周股市三大猜想及应对策略</a></li><li><a href="http://bbs.hexun.com/post_488_9216372_1_d.html" target="_blank">几大值得关注的主题性板块</a></li><li><a href="http://bbs.hexun.com/post_615_9216596_1_d.html" target="_blank">“双降预期”继续为A股保驾护航</a></li><li><a href="http://bbs.hexun.com/post_598_9216267_1_d.html" target="_blank">中概股回归A股的最大动力是什么</a></li><li><a href="http://bbs.hexun.com/post_823_6605989_1_d.html" target="_blank">美元的走向左右金银后市方向</a></li><li><a href="http://bbs.hexun.com/post_769_6605968_1_d.html" target="_blank">金银可能出现超跌反弹的走势</a></li><li><a href="http://bbs.hexun.com/money/post_75_6606044_1_d.html" target="_blank">金银回调看涨 高空后继续低多</a></li><li><a href="http://bbs.hexun.com/money/post_75_6605977_1_d.html" target="_blank">继续等待更完美的空头信号</a></li></ul></div>
+<!--include virtual="/inc/fragments/post_right_search.inc"-->
+<!--include virtual="/inc/fragments/post_right_hotbars.inc"-->
+ 
+<div class="sidemod">
+<h3 class="tit01"><strong>本版最新精华</strong></h3>
+<ul class="li01" id="ulEssence">
+</ul>
+</div>
+
+<div class="sidemod">
+<h3 class="tit01"><strong>本版最新推荐</strong></h3>
+<ul class="li01" id="ulRecomment">
+</ul>
+</div>
+
+<!--20120419取消组图/inc/pics.inc-->
+
+
+
+</div>
+    </td>
+  </tr>
+</table>
+</div>
+
+<script type="text/javascript">
+needVc = true;
+getAttachmentDownloadTimes();
+addLoadEvent(loadFooterHtml);
+var bid = 153;
+resizeTooWide();
+
+//判断是否可以回复该帖子
+
+(new Image()).src = '/img/processing.gif';
+function checkForm(o){
+    if(typeof theForm == 'undefined') {
+			//alert("=t=!");
+			theForm = o.form;
+		}
+    //if(typeof theForm.hasSetPoliceCode != 'undefined' && theForm.hasSetPoliceCode === true){
+        var ou = $id('txtUserName');
+        var opwd = $id('txtPassword');
+        if(ou.value == '用户名')ou.value = '';
+        var c = editor.getContent().replace('<html/>','');
+        
+        if(c .isEmpty()){
+            dialog.alert('提示','请输入回复内容');
+            return false;
+        }
+        processing(o);
+        return true;
+    //}else{
+    //    alert('请等待页面载入完毕后提交表单!');
+    //    return false;
+    //}
+}
+
+addLoadEvent(Emotion.init);
+
+function doSubmit(){
+    var btn = $id('c_buttonSubmit');
+    if(checkForm(btn)){
+        btn.click();
+    }
+}
+addLoadEvent(function(){
+    setTimeout(function(){setQuickSubmit([editor.getWin().document.body],doSubmit);},2000);    
+});
+
+//脚印
+function initialFootprint(data){
+    var oc = $id('ulVisitors');
+    
+    if(data && data.length){
+        for(var i=0;i<data.length;i++){
+            var u = data[i];
+            var li = crt('LI',{},oc);
+            crt('IMG',{src:u.logo},crt('A',{href:u.url},li));
+            crt('A',{href:u.url,innerHTML:u.name},li);
+        }
+    }
+}
+function onGotUser(u){
+    if(!post.isLock && typeof theForm != 'undefined')setPoliceCode(theForm);
+    
+    if(u.id > 0){
+        var oS = $id('spnLoginStatus');
+        if(oS){
+            oS.innerHTML = '已登录用户可在此更换帐号：';
+        }
+        if($id('aReg'))$id('aReg').style.display = 'none';
+    }
+    
+    if(typeof u.needVerifyCode != 'undefined' && u.needVerifyCode === true){
+        //显示验证码
+        $id('plVc').style.display = 'block';
+        if(!$id('ctl00_c_vc'))
+        $id('plVc').innerHTML = '<style>.verifyCodeInput{width:60px;height:16px;line-height:16px;margin-right:4px;}</style>'
+        + '<p style="margin:10px 0 5px 0;line-height:20px;">'
+        + '请输入验证码：<span id="ctl00_c_vc"><input onfocus="onVcInputFocus(this,\'vc__img\',\'/vc.asmx?\');" maxlength="4" type="text" name="vc_code" id="vc_code" class="verifyCodeInput"/><img src="/vc.asmx" align="absmiddle" id="vc__img" class="verifyCodeImg"/><a class="verifyCodeAnchor" href="javascript:void(0);" target="_self" onclick="replaceCode(\'vc_code\',\'vc__img\',\'/vc.asmx?\')"/>看不清?</a></span>'
+        +'</p>';
+    }
+    
+    if(u.isAdmin){
+        
+        var as = $tags('SPAN',$id('content'));
+        for(var i=0;i<as.length;i++){
+            var a = as[i];
+            if(a.className.indexOf('admA')>-1)a.style.display = 'inline';
+        }
+        var oc = $id('divAbc');
+        var d1 = oc.firstChild.innerHTML;
+        var d2 = oc.lastChild.innerHTML;
+        new Ajax({url:'BBS.WebUI.Ajax.IPParser,BBS.WebUI.ajax.asmx?bid=153&k=8475593',postBody:'i=' + d1+'&l='+d2,onComplete:function(trans){
+            setIL(eval(trans.responseText));
+        }});
+        
+        var odivs = $tags('div');
+        for(var i=0;i<odivs.length;i++){
+            if(odivs[i].className.indexOf('ipedit')>-1){
+                odivs[i].style.display =  'block';
+            }
+        }
+    }
+}
+function setIL(d){
+    if(!d)return;
+    var id = d[0];
+    var ld = d[1];
+    var odivs = $tags('div');
+    var rI = 0;
+    for(var i=0;i<odivs.length;i++){
+        if(odivs[i].className.indexOf('ipedit')>-1){
+            var od = odivs[i];
+            var spn = $tag('SPAN',od);
+            if(spn){
+                var oi = $tag('SPAN',spn,0);
+                var ol = $tag('SPAN',spn,1);
+                if(oi && ol){
+                    oi.innerHTML = id[rI];
+                    ol.innerHTML = ld[rI];
+                }
+            }
+            rI ++;
+        }
+    }
+}
+
+
+function getPostCn(){
+    var oposts = $id('ulCreatorPosts');
+    var getPosts = oposts?1:0;
+    new Ajax({showLoading:false,method:'get',
+        url:'BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getUserIsOnlineAndPostCn&uid=25559029&getPosts='+getPosts+'&t=' + new Date().getTime(),
+        onComplete:function(trans){
+            var r ;eval('r=' + trans.responseText);
+            if(r){
+                //$id('postCount').innerHTML = r.postCount;
+                //$id('essentialCount').innerHTML = r.essentialCount;
+                
+                var oOnline=$id('imgIsOnline');
+                if(oOnline){
+                    oOnline.src = '/clientfiles/post/img/' + (r.joidOnline?'online.gif':'unline.gif');
+                    oOnline.title = oOnline.alt = (r.joidOnline?'在线':'未在线');
+                }
+                if(getPosts == 1){
+                    if(r.posts && r.posts.length > 0){
+                        while(oposts.firstChild)remove(oposts.firstChild);
+                        
+                        for(var i=0;i<r.posts.length;i++){
+                            var iP = r.posts[i];
+                            crt('A',{href:iP.url,innerHTML:iP.title,title:iP.title},crt('LI',{},oposts));
+                        }
+                    }
+                }
+            }
+        }});
+}
+addLoadEvent(getPostCn);
+
+function updatePostPv(pv){var o = $id('pv');if(o){o.innerHTML = pv;}}
+addLoadEvent(function(){loadPosts(153,'Essence');loadPosts(153,'Recomment');});
+
+var judgeOnline = 25559029;
+
+
+</script>
+
+<style type="text/css">
+.hilite0,.hilite1,.hilite2{color:red!important;background:#ee0!important}
+</style>
+<script language="vbscript">
+Function URLDecode(input) 
+    Dim str,code,a(3),b(1) 
+    str="" 
+    code=input 
+    code=Replace(code,"+"," ") 
+    Const hexstr = "0123456789ABCDEF" 
+    While len(code)>0 
+        If InStr(code,"%")>0 Then 
+            str = str & Mid(code,1,InStr(code,"%")-1) 
+            code = Mid(code,InStr(code,"%")) 
+            a(0) = UCase(Mid(code,2,1)) 
+            a(1) = UCase(Mid(code,3,1)) 
+            If a(1)<>"" And InStr(hexstr,a(0))>0 And InStr(hexstr,a(1))>0 Then 
+                b(0) = Eval("&H" & a(0) & a(1)) 
+                If b(0)>127 And Mid(code,4,1)="%" And len(code)>=6 Then 
+                    a(2) = UCase(Mid(code,5,1)) 
+                    a(3) = UCase(Mid(code,6,1)) 
+                    If a(3)<>"" And InStr(hexstr,a(2))>0 And InStr(hexstr,a(3))>0 Then 
+                        b(1) = Eval("&H" & a(2) & a(3)) 
+                        str = str & chr(b(0)*256+b(1)) 
+                        code = Mid(code,7) 
+                    Else 
+                        str = str & "%" 
+                        code = Mid(code,2) 
+                    End If 
+                Else 
+                    str = str & chr(b(0)) 
+                    code = Mid(code,4) 
+                End If 
+            Else 
+                str = str & "%" 
+                code = Mid(code,2) 
+            End If 
+        Else 
+            str = str & code 
+            code = "" 
+        End If 
+    Wend 
+    URLDecode = str 
+End Function 
+</script> 
+<script src="http://img.hexun.com/hx_bbs/hx_bbs_finalpage.js"></script>
+
+<script type="text/javascript">
+Hilite.autoForSeachEngine($id('tdContent'));
+
+</script>
+
+<script src="/service/visitlog.aspx?pid=8475593&bid=153" type="text/javascript">
+</script>
+<noscript>
+<img src="/service/visitlog.aspx?pid=8475593&bid=153" 
+    width="1" height="1" border="0"/>
+</noscript>
+<script src="http://point.tool.hexun.com/pointLicai.aspx?userid=25559029&show=1"></script>
+<div id="divAbc" style="display:none"><span>C56F3EF402762A9DB1AACD18F8BA80AE</span><span>6910A06615E6C22A5650F36551B1F0567C88A89DDD19203B</span></div>
+
+
+<div class="clear"></div>
+<div class="clear"></div>
+ <div id="foot2010">
+    <style type="text/css">
+#foot2010{ width: 100%; margin: 0 auto; color: #000; text-align: center; clear:both;}
+#foot2010 *{ padding: 0; margin: 0; font-size: 12px; }
+#foot2010 a{ color: #000; text-decoration: none; }
+#foot2010 a:hover{ text-decoration: underline; }
+#foot2010 .link{ background: url(http://img.hexun.com/news/2010/img/head2010.gif) repeat-x 0 -637px; height:30px; line-height: 30px; padding: 8px 10px 0 10px; }
+#foot2010 .copyright{ padding-top: 6px; font-family: Arial, Helvetica, sans-serif; line-height: 1.7em;  }
+</style>
+    <div class="link"> <a target="_blank" href="http://cvs.hexun.com/feedback/support.htm" id="hexunUserSuggest">和讯论坛恭候您的意见</a> - <a target="_blank" href="http://corp.hexun.com/contact/index.html">联系我们</a> - <a target="_blank" href="http://corp.hexun.com/default/index.html">关于我们</a> - <a target="_blank" href="http://corp.hexun.com/adcenter/index.html">广告服务</a> </div>
+    <div class="copyright"> 本站郑重声明：和讯公司系政府批准的证券投资咨询机构[ZX0005]。所载文章、数据仅供参考，使用前请核实，风险自负。<br />
+      Copyright&copy; 和讯网 和讯信息科技有限公司 All Rights Reserved 版权所有 复制必究 </div>
+  </div>
+</div>
+<script type="text/javascript">
+	function setUser() {
+		new Ajax({ url: 'BBS.WebUI.Ajax.UserAjax,BBS.WebUI.ajax.asmx?a=getInfo' + (typeof bid != 'undefined' && bid ? '&bid=' + bid : '') + (typeof (judgeOnline) == 'undefined' ? '' : '&joid=' + judgeOnline) + (typeof (needVc) != 'undefined' && needVc ? "&judgeVc=1" : "") + '&t=' + (new Date().getTime()), method: 'get', onComplete: function (trans) {
+			var u; eval('u=' + trans.responseText);
+			var oinfo = crt('SPAN', { id: 'uInfo' }, $id('divHRight'));
+			var h;
+			u.homeUrl = '/u_' + u.id + '/_d.aspx';
+			window.hexunUser = u;
+			var url = escape(location.href);
+			if (u.id) {
+				h = '<span class="f39c"><a hr' + 'ef="' + u.homeUrl + '" target="_top" class="f39c">' + u.name + '</a>，您好！</span>'
+
+				h += ' <span class="news"><a href="/message/" target="_blank">您有新纸条（<span  class="fc00" id="aPaperCn">' + u.paper + '</span>）</a></span>';
+
+				h += '  [<a href="http://utility.tool.hexun.com/quit.aspx?gourl=' + url + '" onclick="logout()" target="_top">退出</a>]';
+
+				if (u.police) {
+					window.police = u.police;
+				}
+			}
+			else {
+				h = '游客您好，请<a target="_top" href="https://reg.hexun.com/login.aspx?gourl=' + url + '">登录</a>或<a target="_top" href="http://reg.hexun.com/Register.aspx?fromhost=HX_BBS">注册</a>';
+			}
+			oinfo.innerHTML = h;
+			if (typeof onGotUser == 'function') {
+				onGotUser(u);
+			}
+		}, showLoading: false
+		});
+	}
+	addLoadEvent(function () { setTimeout(setUser, 20); });
+</script>
+<!--时间标记被禁用-->
+<!--未记录时间标记-->
+<script src="http://utrack.hexun.com/track/track.js"></script>
+<script type="text/javascript">
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'UA-2167933-69', 'hexun.com');
+	ga('send', 'pageview');
+</script>
+<div id="pageTail" ></div>
+<script language="javascript" src="http://hxjs.tool.hexun.com/bbs/pageMediaControl1.js "></script>
+</body>
+</html>

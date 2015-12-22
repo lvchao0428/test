@@ -1,0 +1,938 @@
+<!--UINFO: http://bbs.c114.net/thread-838085-1-1.html	length=76383&last_modified=0&time_saved=1450676759&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>怨天尤人还是化危为机？ 提速降费对电信业的启示 - 运营商·运营人 -  通信人家园 -  Powered by C114</title>
+<link href="http://bbs.c114.net/thread-838085-1-1.html" rel="canonical" />
+<meta name="keywords" content="怨天尤人还是化危为机？ 提速降费对电信业的启示" />
+<meta name="description" content="国务院常务会议近日提出的“提速降费”的要求，在通信行业内外引起了强烈反响，进而也出现了两种截然相反的观点。一种观点来自业内有关人士，他们认为行业经过多年的改革发 ... 怨天尤人还是化危为机？ 提速降费对电信业的启示 ,通信人家园" />
+<meta name="generator" content="Discuz! X2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2011 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.c114.net/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?9PP" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_viewthread.css?9PP" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = '9PP', charset = 'gbk', discuz_uid = '0', cookiepre = 'a70c_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|经验|,2|分贝|,3|家园币|,6|技术积分|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5jMTE0Lm5ldC9mb3J1bS5waHA/bW9kPXZpZXd0aHJlYWQmdGlkPTgzODA4NSZleHRyYT1wYWdlJTNEMSZwYWdlPTEm', SITEURL = 'http://bbs.c114.net/', JSPATH = 'static/js/';</script>
+<script src="static/js/common.js?9PP" type="text/javascript"></script><meta name="application-name" content="通信人家园" />
+<meta name="msapplication-tooltip" content="通信人家园" />
+<meta name="msapplication-task" content="name=论坛;action-uri=http://bbs.c114.net/forum.php;icon-uri=http://bbs.c114.net/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=群组;action-uri=http://bbs.c114.net/group.php;icon-uri=http://bbs.c114.net/static/image/common/group.ico" /><meta name="msapplication-task" content="name=日志/相册;action-uri=http://bbs.c114.net/home.php;icon-uri=http://bbs.c114.net/static/image/common/home.ico" /><link rel="archives" title="通信人家园" href="http://bbs.c114.net/archiver/" />
+<script src="static/js/forum.js?9PP" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div class="body_s2">
+
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z" id="z"><!--<a href="./" title="通信人家园"><img src="static/image/common/c114/top_logo.gif"></a>--></div>
+<div class="y"><a href="http://www.c114.net/" title="C114中国通信网" target="_blank" >C114门户</a><a href="http://bbs.c114.net/" title="通信人家园" target="_blank" >论坛</a><a href="http://hr.c114.net/" title="通信人才网" target="_blank" >人才</a><a href="http://baike.c114.net/" title="通信百科" target="_blank" >百科</a><a href="http://search.c114.net/" title="C114搜索" target="_blank" >搜索</a><a href="http://www.idcun.com/" title="IDC产业联盟" target="_blank" >IDC</a><a href="http://www.c114.net.cn/" title="C114大数据" target="_blank" >与风网</a><a href="http://www.cn-c114.net/" title="C114英文版" target="_blank" >EN</a><a>|</a>
+<script type="text/javascript">var _speedMark = new Date();</script><a href="javascript:;" onclick="widthauto(this)">切换到宽版</a>
+</div>
+</div>
+</div>
+
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register.php" class="xi2 xw1">注册</a>
+</div>
+</div>
+<div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2 id="h2"><a href="./" title="通信人家园"><img src="static/image/common/logo.gif" alt="通信人家园" border="0" /></a></h2>
+
+<script src="static/js/logging.js?9PP" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="return lsSubmit()">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<span class="ftid">
+<select name="fastloginfield" id="ls_fastloginfield" width="40" tabindex="900">
+<option value="username">用户名</option>
+<option value="uid">UID</option>
+<option value="email">Email</option>
+</select>
+</span>
+<script type="text/javascript">simulateSelect('ls_fastloginfield')</script>
+</td>
+<td><input type="text" name="username" id="ls_username" autocomplete="off" class="px vm" tabindex="901"   style="width:110px;"/></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />自动登录</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password" class="z psw_w">密码</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902"   style="width:110px;" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;"><em>登录</em></button></td>
+<td>&nbsp;<a href="member.php?mod=register.php" class="xi2 xw1">注册</a></td>
+</tr>
+</table>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</div>
+</div>
+</form>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});">快捷导航</a>
+<ul><li class="a" id="mn_forum" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li><li id="mn_Nc25a" ><a href="http://app.c114.net/" hidefocus="true" target="_blank"  >手机客户端</a></li><li id="mn_group" ><a href="group.php" hidefocus="true" title="Group"  >群组<span>Group</span></a></li><li id="mn_home" ><a href="home.php" hidefocus="true" title="Space"  >日志/相册<span>Space</span></a></li><li id="mn_Nd521" ><a href="library" hidefocus="true"  >图书馆</a></li><li id="mn_N16be" ><a href="asktech" hidefocus="true" target="_blank"  >技术问答</a></li><li id="mn_N1daa" ><a href="askjob" hidefocus="true" target="_blank"  >职场问答</a></li></ul>
+</div>
+<ul class="p_pop h_pop" id="mn_forum_menu" style="display: none"><li><a href="forum.php" onmouseover="showWindow('forumlist', 'source/plugin/c114_furumlist/forumlist.php?mod=forumlist', 'get', 0);return false;">家园版块快捷导航</a></li></ul>
+<div id="mu" class="cl">
+</div><div id="scbar" class="cl">
+<div style="float:right;padding:5px 5px;"><a href="c114-darkroom.php" target="_blank"><img src="images/c114/darkroom.gif" /></a></div><form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="6678e851" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="45" id="dzsearchforumid" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="showmenu xg1 xs2" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" class="pn pnc" value="true"><strong class="xi2 xs2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%BC%D2%D4%B0%20%BB%EE%B6%AF&amp;formhash=6678e851&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2">家园 活动</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="curforum" class="curtype">本版</a></li><li><a href="javascript:;" rel="forum">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+
+
+<script type="text/javascript">var fid = parseInt('45'), tid = parseInt('838085');</script>
+
+<script src="static/js/forum_viewthread.js?9PP" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(1);var imagemaxwidth = '600';var aimgcount = new Array();</script>
+
+<style id="diy_style" type="text/css"></style>
+<!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]-->
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页" id="c114_forumlist" onmouseover="showMenu(this.id,1)">通信人家园</a> <em>&rsaquo;</em> <a href="forum.php">论坛</a> <em>&rsaquo;</em> <a href="forum.php?gid=209">通信产业·企业</a> <em>&rsaquo;</em> <a href="forum.php?mod=forumdisplay&fid=45&page=1">运营商·运营人</a> <em>&rsaquo;</em> <a href="thread-838085-1-1.html">怨天尤人还是化危为机？ 提速降费对电信业的启示</a>
+</div>
+</div>
+
+
+<div class="wp a_t"><table cellpadding="0" cellspacing="1"><tr><td width="33%"><a href="http://www.meeteasy.com.cn/ " target="_blank" >好会通会议电话</a></td><td width="33%"><a href="http://www.semptian.com" target="_blank" >恒扬科技大数据采集与分析专家</a></td><td width="33%"><a href="http://www.cioe.cn/cioec/luntan/gtx2015/index.html " target="_blank" >2015光通信技术和发展论坛</a></td><td width="1%" align="right"><a href="http://app.c114.net/" target="_blank"><img src="images/c114/app.gif" alt="C114客户端" border="0"></a></td></tr>
+</table></div>
+<style id="diy_style" type="text/css"></style>
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="ct" class="wp cl">
+<div id="pgt" class="pgs mbm cl ">
+<div class="pgt"></div>
+<span class="y pgb"><a href="forum.php?mod=forumdisplay&fid=45&page=1">返回列表</a></span>
+<a id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=45')" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a></div>
+
+<div class="a_cu_1"> <div><embed width="203" height="80" src="data/attachment/common/cf/102012029ahhcj93r5ahsh.swf" type="application/x-shockwave-flash" wmode="transparent"></embed></div><div class="c2"><div><embed width="570" height="80" src="data/attachment/common/cf/101024jwatggu5t4duo2f7.swf" type="application/x-shockwave-flash" wmode="transparent"></embed></div></div><div><a href="http://www.semptian.com/" target="_blank"><img src="data/attachment/common/cf/170147i8x2opipflid228l.gif" height="80" width="190" alt="恒扬科技" border="0"></a></div></div>
+
+<div id="postlist" class="pl bm" style="border:none;background:none;">
+<div class="c_table_t">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls ptm pbm">
+<div class="hm">
+<span class="xg1">查看:</span> <span class="xi1">1514</span><span class="pipe">|</span><span class="xg1">回复:</span> <span class="xi1">4</span>
+</div>
+</td>
+<td class="plc ptm pbn">
+<div class="y">
+<a href="forum.php?mod=viewthread&amp;action=printable&amp;tid=838085" title="打印" target="_blank"><img src="static/image/common/print.png" alt="打印" class="vm" /></a>
+</div>
+<h1 class="ts">
+<a href="forum.php?mod=forumdisplay&amp;fid=45&amp;filter=typeid&amp;typeid=90">[运营政策与战略]</a>
+<a href="thread-838085-1-1.html" id="thread_subject">怨天尤人还是化危为机？ 提速降费对电信业的启示</a>
+<span class="xw0 xs1 xg1">
+<a href="thread-838085-1-1.html" onclick="return copyThreadUrl(this)" title="您的朋友访问此链接后，您将获得相应的积分奖励">[复制链接]</a>
+</span>
+</h1>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+<!--<table cellspacing="0" cellpadding="0" class="ad"><tr><td class="pls"></td><td class="plc"></td></tr></table>-->
+
+<style>.c_table{border:1px solid #C2D5E3;margin-bottom:10px;}.c_table_t{border:1px solid #C2D5E3; border-bottom:0px solid #C2D5E3;}</style><div id="post_8848311" class="c_table"><table id="pid8848311" summary="pid8848311" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+ <div class="pi">
+<div class="authi">
+<div class="c114_v1">
+<img src="images/c114/o_offemale.gif" alt="FeMale不在线" />
+</div>
+<a href="space-uid-1130974.html" target="_blank" class="xw1">cqbbszjg</a>
+
+</div>
+</div>
+<div class="p_pop blk bui" id="userinfo8848311" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo8848311_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-1130974.html" target="_blank" class="xi2">cqbbszjg</a></strong>
+<em>当前离线</em>
+</div>
+<dl class="cl"><dt>经验</dt><dd>80 </dd><dt>分贝</dt><dd>0 </dd><dt>家园币</dt><dd>301 </dd><dt>在线时间：</dt><dd>184 小时</dd><dt>最后登录：</dt><dd>2015-12-21</dd><dt>帖子：</dt><dd><a href="home.php?mod=space&uid=1130974&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">61</a></dd><dt>精华：</dt><dd>0</dd><dt>注册时间：</dt><dd>2015-6-25</dd><dt>UID：</dt><dd>1130974</dd></dl>
+<div class="imicn">
+<a href="home.php?mod=space&amp;uid=1130974&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo8848311')"><a href="space-uid-1130974.html" target="_blank"><img src="http://bbs.c114.net/uc_server/data/avatar/001/13/09/74_avatar_middle.jpg" onerror="this.onerror=null;this.src='http://bbs.c114.net/uc_server/images/noavatar_middle.gif'" /></a></div>
+<p class="xg2">军衔等级：</p>
+<p style="margin-top:2px;" id="g_up8848311" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"><img src="data/attachment/common/c114/star/level3.gif" alt="" class="vm" />&nbsp;&nbsp;<em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=12" target="_blank">上等兵</a></em></p>			
+</div>
+<div id="g_up8848311_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c">上等兵, 积分 80, 距离下一级还需 20 积分</div>
+</div>
+<dl class="pil cl xg2"><dt>注册时间：</dt><dd>2015-6-25</dd></dl><ul class="xl xl2 o cl">
+<li class="callon"><a href="space-uid-1130974.html" target="_blank" title="串个门" class="xi2">串个门</a></li>
+<li class="buddy"><a href="home.php?mod=spacecp&amp;ac=friend&amp;op=add&amp;uid=1130974&amp;handlekey=addfriendhk_1130974" id="a_friend_li_8848311" onclick="showWindow(this.id, this.href, 'get', 1, {'ctrlid':this.id,'pos':'00'});" title="加好友" class="xi2">加好友</a></li>
+<li class="poke2"><a href="home.php?mod=spacecp&amp;ac=poke&amp;op=send&amp;uid=1130974" id="a_poke_li_8848311" onclick="showWindow(this.id, this.href, 'get', 0);" title="打招呼" class="xi2">打招呼</a></li>
+<li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_1130974&amp;touid=1130974&amp;pmid=0&amp;daterange=2&amp;pid=8848311&amp;tid=838085" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2">发消息</a></li>
+</ul>
+</td>
+<td class="plc">
+<div class="pi">
+<div id="fj" class="y">
+<label class="z">电梯直达</label>
+<input type="text" class="px p_fre z" size="2" onkeyup="$('fj_btn').href='forum.php?mod=redirect&ptid=838085&authorid=0&postno='+this.value" onkeydown="if(event.keyCode==13) {window.location=$('fj_btn').href;return false;}" title="跳转到指定楼层" />
+<a href="javascript:;" id="fj_btn" class="z" title="跳转到指定楼层"><img src="static/image/common/fj_btn.png" alt="跳转到指定楼层" class="vm" /></a>
+</div>
+<strong>
+<a href="thread-838085-1-1.html" title="您的朋友访问此链接后，您将获得相应的积分奖励" id="postnum8848311" onclick="setCopy(this.href, '帖子地址复制成功');return false;"><em>1</em><sup>#</sup></a>
+</strong>
+<span>
+<em onclick="$('postmessage_8848311').className='t_bigfont'">大</em>
+<em onclick="$('postmessage_8848311').className='t_msgfont'">中</em>
+<em onclick="$('postmessage_8848311').className='t_smallfont'">小</em>
+<em onclick="$('pid8848311').style.background='#CCE8CF'" class="col col_1"></em>
+<em onclick="$('pid8848311').style.background='#FFFFFF'" class="col"></em>
+</span>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon8848311" src="static/image/common/online_member.gif" />
+<em id="authorposton8848311">发表于 2015-6-26 12:36:44</em>
+<span class="xg1"><a href='http://app.c114.net/'><font color=red><img src=http://bbs.c114.net/static/image/common/m.png align="absmiddle">来自手机</img></font></a></span>
+<span class="pipe">|</span><a href="forum.php?mod=viewthread&amp;tid=838085&amp;page=1&amp;authorid=1130974" rel="nofollow">只看该作者</a>
+<span class="pipe">|</span><a href="forum.php?mod=viewthread&amp;tid=838085&amp;extra=page%3D1&amp;ordertype=1">倒序浏览</a>
+</div>
+</div>
+</div><div class="pct"><style type="text/css">.pcb{margin-right:0}</style><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_8848311">
+国务院常务会议近日提出的“提速降费”的要求，在通信行业内外引起了强烈反响，进而也出现了两种截然相反的观点。一种观点来自业内有关人士，他们认为行业经过多年的改革发展，网络技术和服务水平基本与世界发达国家同步，无论是资费的连年下降还是业务的推陈出新，与其他传统行业相比都进步良多，不应一味承受社会压力和社会责任。另一种观点则来自更广泛的社会群体，以OTT为代表的互联网企业希望通过降低流量门槛来为用户提供更多的业务和应用；广大用户也随着信息消费的增多而不断发出降价诉求；政府层面更是期望通信和互联网的普及降价能带动全社会信息化应用并助力实体经济转型发展。那么，电信业应如何化解这些矛盾？<br />
+<br />
+<strong>居功自满&amp;正视问题</strong><br />
+<br />
+·近3年来，手机流量资费下降了60%，固定宽带资费下降了30%，境外漫游资费更是指数级下降，我国网络总体发展水平适度超前于经济发展水平。<br />
+<br />
+·在全球范围内，我国居民信息通信消费占居民可支配收入的比重处于中等水平之上。<br />
+<br />
+·降价需考虑到其背后的复杂因素，如用户规模、网络利用率、市场竞争格局、国企考核指标、民众消费能力、普遍服务、社会责任等，资费下降难以一蹴而就，政府不能强压，用户不能强求。<br />
+<br />
+近日，一些关于“我国网络整体水平落后于大多数国家和地区”、“我国的信息化指数全球排名比较靠后”的报道频见报端，实际上，这样的说法是不客观的。目前，我国光纤网络覆盖近3亿用户，移动宽带用户超过6亿户，中国移动大规模部署和发展TD-LTE，今年内将建成基站超过100万个，新发展用户将超过2.5亿户，网络覆盖和用户规模将跃居全球第一，我国宽带的普及率和速率均高于全球平均水平，与发达国家的差距连年缩小，总体发展水平适度超前于经济发展水平。随着电信业打破垄断，整个ICT行业发生创新变革，固话宽带飞入千万家，手机终端惠及寻常百姓，通信服务价格也不断降低，特别是近3年来，手机流量资费下降了60%，固定宽带资费下降了30%，境外漫游资费更是指数级下降。<br />
+<br />
+尽管电信业取得了辉煌成绩，但我们不能居功自满，更不能因为受到指责而怨天尤人，而应当冷静分析和正确面对提速降费的要求：我们提供的信息通信服务是否能够满足用户和社会需求？我们制定的通信资费是否超出了用户和社会的承受能力？<br />
+<br />
+我国电信业发展起步晚、起点低，固话和宽带的普及应用水平仍落后于发达国家和一些中等收入国家，尤其是固网的主导运营商在新兴的移动业务上效益欠佳，影响了整体投资和创新能力，再加上受城市市政规划建设等制约，光进铜退的改造和光纤宽带的接入进展缓慢，固定宽带市场总体呈现出供给不足的局面；广大农村等欠发达地区受到传输、接入等成本因素和居民消费能力的影响，数字鸿沟依然存在。移动通信方面，我国3G/4G牌照发放均比较滞后，移动宽带在覆盖偏远地区和室内人群等方面还有不少问题。<br />
+<br />
+用户多了，业务广了，自然会有这样那样的服务问题，通信资费首当其冲，信息通信服务日益成为像水、电、燃气等一样的公用事业，而通信费用占日常家庭的开支却远远高于其他公用事业，在全球范围内，我国居民信息通信消费占居民可支配收入的比重也处于中等水平之上，这就给广大用户和社会各界造成我国电信资费比很多国家高的印象。作为国有企业，运营商是否应当降低资费，降低利润，普惠大众，让利于民？作为关系国计民生的公用事业，是否应当由政府定价或接受居民听证，以不激烈的竞争方式保持微利？调整电信资费价格应当认真思考其背后的复杂因素，如用户规模、网络利用率、市场竞争格局、国企考核指标、民众消费能力、普遍服务、社会责任等，资费下降难以一蹴而就，政府不能强压，用户不能强求。<br />
+<br />
+<strong>看得见的手&amp;看不见的手</strong><br />
+<br />
+·必须完善相关支持政策，国资监管部门在优化央企EVA考核的同时，进一步完善考评体系，增加对社会效益的综合评价。<br />
+<br />
+·调整电信资费的价格应当在遵循市场规律的基础上，协调电信企业分阶段、分步骤、分层次、分用户进行。<br />
+<br />
+·如果将网络看作信息高速公路，只是一味要求提高标准、降低收费，没有持续投钱修路，那么再好的车也跑不快。<br />
+<br />
+我国政府对电信行业和企业的监管职能主要集中在两方面：一是代表国家履行出资人职责的国资委的国有资产监督管理职能；二是代表政府、产业以及消费者利益的工信部的行业发展与监管职能，二者在贯彻国家政策和产业战略等层面具有相同的履职责任。但由于两个部门在设计初衷上有所侧重，在现实管理中就会产生一定的冲突和矛盾，工信部希望保持一定数量的电信竞争者，确保市场竞争的公正有序和充分有效，国资委则希望某一领域或行业适度集中，避免过度竞争和重复建设；工信部倡导电信企业通过技术升级和业务创新不断降低资费让利于民，国资委则要求企业通过管理提升和开源节流来创造更多收益和利润；工信部要兼顾行业、企业和消费者利益平衡，而国资委则主要顾及所属企业利益。<br />
+<br />
+从政府角度来看，对电信业发展和监管的终极目标就是谋求全社会的效率最优、效益最大，首先考量的是国家意志和战略，如通过发放TD牌照培育和打造一条完整的移动通信产业链；其次是行业的改革发展、竞争格局、安全保障、普遍服务等；再次是电信企业自身的改革发展，关系到国有资产的保值增值、企业效益的提升和企业职工的福利待遇；最后是消费者的权益保护，狭义上讲是能享受物美价廉的产品和服务，广义上讲是这些产品和服务用得上、用得好、用得持久。<br />
+<br />
+因此要落实国家战略举措和促进电信业可持续发展，就必须完善相关支持政策，国资监管部门在优化央企EVA考核的同时，应进一步完善考评体系，增加对社会效益的综合评价，放手让电信企业加大网络建设投入，推动新技术的创新和应用；电信监管部门在维护市场竞争秩序的同时，要更加综合平衡产业政策和监管政策，从引入民营资本开展移动转售业务到全面开放宽带接入市场，从网络共建共享到组建铁塔公司，从“宽带中国”战略到“互联网+”，既有利于行业的健康长远发展，又能间接带动经济的转型和调整。<br />
+<br />
+电信体制改革由破除垄断、鼓励竞争逐步向均衡市场、开放多元转变，以政府这只看得见的手为主导，通过另一只看不见的手——市场来推动，形成了现有“一大两小”的市场格局，再加上运营商的国企性质，逐渐形成了具有中国特色的电信竞争市场，中央骨干通信企业建设和运营全国基础电信网络，既保持了网络的统一性、完整性，又保证了网络的安全性、可靠性，还兼顾了普遍服务、战备应急等社会责任。<br />
+<br />
+本届政府推行以简政放权为主导的行政体制改革，让看不见的手在更大范围、更深层次发挥作用，调整电信资费价格应当在遵循市场规律的基础上，协调电信企业分阶段、分步骤、分层次、分用户降低流量资费，既能满足提速降费的要求和诉求，又能维护市场秩序，如果将网络看作信息高速公路，只是一味要求提高标准、降低收费，没有持续投钱修路，那么再好的车也跑不快。<br />
+<br />
+<strong>国家战略意志&amp;服从服务大局</strong><br />
+<br />
+·ICT领域首次被纳入国家经济的顶层设计。<br />
+<br />
+·信息通信基础设施仍不能适应经济社会快速发展的需求，网络和信息化的监管与立法滞后。<br />
+<br />
+世纪之交的政企分开、邮电分营、移动剥离、南北分拆等电信体制改革给电信业注入了活力，满足了经济社会发展和广大人民群众的通信和信息化需求，也催生了通信设备制造、信息系统集成、软件开发应用等产业的发展，我国逐步从信息通信大国向信息通信强国迈进。然而信息通信业此前并未被列入国家的顶层战略。<br />
+<br />
+相比之下，美国早在上世纪90年代就提出了信息高速公路计划，并陆续颁布实施了新一代互联网计划、智慧地球、网络空间战略等，不断加强网络和信息化战略布局；日本和韩国在完成工业化之后，都将ICT立国作为国家战略，陆续提出一系列脉络清晰的信息化发展战略；欧洲各国通过增加ICT研究经费、部署快速互联网接入等，最大限度地发挥信息通信技术在经济和社会发展中的积极作用。<br />
+<br />
+本世纪以来，信息通信业在国民经济中的战略性、基础性和先导性作用备受关注，从推进国民经济信息化到推进国民经济和社会信息化，从信息化带动工业化到信息化与工业化深度融合，再到“互联网+”行动计划，ICT领域首次被纳入国家经济的顶层设计，这对于互联网行业、信息通信行业的创新发展而言意义重大。<br />
+<br />
+然而，我国的信息化水平与世界一流水平相比仍有很大差距，一是信息通信基础设施仍不能适应经济社会快速发展的需求，网络构造复杂、开放性不足；二是国家整体科技实力还有待进一步提升，核心芯片、基础软件和高端服务器等智能技术基本依赖国外；三是信息化应用水平仍较为落后，国民经济信息化水平落后于社会信息化水平，社会管理信息化水平落后于社会生活信息化水平；四是网络和信息化的监管与立法滞后，有关信息化和互联网的法律法规不健全，电信和互联网监管力量仍显薄弱。<br />
+随着实体经济与基础设施投资放缓和外贸进出口持续疲软，消费这驾拉动国民经济的马车备受关注，信息消费在居民消费中的比例不断提高：一方面，网络和信息化在国民经济中的作用日益显现，信息通信服务既有利于壮大信息消费、拉动有效投资，又可降低社会成本，为大众创业、万众创新提供环境；另一方面，网络和信息化的战略先导作用不断凸显，我国正在将网络创新成果应用于经济社会各领域，移动互联网、云计算、物联网、大数据等新一代信息技术与现代制造业、生产性服务业不断融合，这对于提升国家核心竞争实力和占据全球竞争制高点具有深远意义。<br />
+<br />
+<strong>发展困境&amp;创新窘境</strong><br />
+<br />
+·移动流量平均单价已从最初的几块钱降到现在的几分钱，虽然流量呈爆炸式增长，但是流量收入的增幅却呈现逐年逐月递减态势。<br />
+<br />
+·长期以劳动密集型和资产密集型为主的电信公司，很难与技术密集型和资本密集型的互联网公司抗衡。<br />
+<br />
+·电信企业如何走出发展困境，唯一的出路就是要加快改革创新和转型步伐。<br />
+<br />
+今年前5个月，移动电话通话量连续同比下降，移动短信业务量持续下滑，其中点对点短信量下降20%以上，与之形成鲜明对比的是手机上网流量连续5个月翻倍增长，这印证了我国正处于由移动语音向移动流量转型的发展阶段。目前国内4G发展已进入全面竞争阶段，再加上去年电信资费管制放开，这使得4G业务在推广之初，资费套餐和流量单价就步入快速下降通道，以中国移动为例，短短一年时间，4G消费门槛就下调了40%，4G流量套餐内单价下调了50%，套餐外单价下调了70%，普遍低于国际主流运营商的资费标准。<br />
+<br />
+流量价格的快速走低给运营商转型作出了警示，移动流量平均单价已从最初的几块钱降到现在的几分钱，与流量爆炸式增长相比，流量收入的增幅却呈现逐年逐月递减态势，移动流量业务的量收剪刀差越发严重。此外，固定宽带接入市场也不容乐观，固话及宽带业务具有投入大、周期长、盈利少等特点，需要用户有稳定的使用周期，然而情况却由于新进者的竞争而变得恶化，在很多地方，有线宽带从固网运营商的高盈利业务变成亏损业务。去年以来，宏观经济增长放缓，电信业又受“营改增”、成本压降、巡视、降薪等政策影响，国资监管部门加强了对电信企业的业绩考核，运营商面临“利润降，工资降”的局面。<br />
+<br />
+面对外部环境和行业发展呈现出的新常态，电信企业如何走出发展困境，唯一的出路就是加快改革创新和转型的步伐。电信业改革发展始终围绕着创新这个主题，中国移动创立初期，由于企业小、业务新、人员精，在创新中求发展，以发展促创新，正努力成为移动互联网专家；中国电信历经多次拆分之后，背负了沉重的负担，又长期得不到移动牌照，反而较为成功地走出了一条去电信化和多元化创新发展的转型之路；中国联通作为电信业改革的一面旗帜，历经兼并重组的磨难，始终未能摆脱市场的弱势地位，转而以更加开放合作的姿态谋求出路。<br />
+<br />
+但是受体制所限，国企的运营商机制僵化、效率低下、人才流失、创新匮乏，正逐渐从电信大发展时代的先进成为互联网时代的后进，三大运营商对研发的投入以及研发人员的占比远落后于大多数制造业企业，更不用说近年崛起的信息技术企业和互联网公司；而反观互联网企业，他们通过平台业务的迭代和资本市场的融资，积蓄了雄厚的实力，足以进军硬件市场并蚕食传统电信市场；随着虚拟运营商进入通信市场，尽管价格、网络等核心资源仍然掌握在运营商手中，但其移动互联网的基因完全有可能探索出颠覆市场的新模式。长期以劳动密集型和资产密集型为主的电信公司，很难与技术密集型和资本密集型的互联网公司抗衡，运营商的传统经营模式和前景也难以被资本市场认可，短短几年的时间里，国内互联网企业的市值就已经超过5万亿元，相当于三大运营商市值总和的两倍。<br />
+<br />
+<strong>正确定位 化危为机</strong><br />
+<br />
+·自然垄断性和行业高门槛都会随着互联网的冲击和信息技术的创新而不断降低，充分竞争、以盈利为目的才是包括电信企业在内的大部分国企走向市场化的终极目标。<br />
+<br />
+·运营商需要完善监督制约机制、合理的利益分配机制和科学的选人用人机制，在激烈的市场竞争与艰难的转型发展中吸引和留住关键人才。<br />
+<br />
+<strong>正确定位电信业在国家战略中的地位和作用</strong><br />
+<br />
+一是要自觉服从、服务改革大局。加快网络基础设施建设和普及变得日益紧迫，物美价廉的信息通信服务既可改善人民生产生活，又能降低创新创业成本，有效拉动投资和消费，助力实体经济发展，从而反哺电信业做大做强。二是要认真贯彻国家战略，自觉将电信业的改革发展纳入国家整体的发展战略当中，运营商要扮演国家队的角色，充分发挥信息技术进步的作用来提升国家的核心竞争力，努力推进信息化与工业化深度融合。三是要积极争取政策倾斜，在加快推进行业法制建设的同时，积极推动中央和地方出台更多支持网络基础设施和信息化应用的政策措施，如普遍服务基金、宽带发展基金、700MHz频率重新规划、三网融合实质性推进等。<br />
+<br />
+<strong>正确定位电信业的行业和企业属性</strong><br />
+<br />
+我国电信运营商的特别之处，无非就是党领导下的国有企业，公益性、垄断性和竞争性兼而有之，然而自然垄断性和行业高门槛都随着互联网的冲击和信息技术的创新而不断降低，充分竞争、以盈利为目的才是包括电信企业在内的大部分国企走向市场化的终极目标，国家也积极鼓励国有企业建立和完善现代企业制度，改制成产权明晰、权责明确、管理科学、竞争充分的市场主体。由此可见，电信业还是市场竞争性行业，电信企业也主要还是竞争性国企，三家运营商争相提供多层次、多种类的优质服务，再通过引入民营资本和互联网，可以让国内电信市场更加开放并充满活力，既让利于民，又做大做强，进一步促进信息消费，拉动经济增长，提速降费问题也会迎刃而解。<br />
+<br />
+<strong>正确定位电信业自身的转型发展</strong><br />
+<br />
+电信业只有不断转型发展才有出路，中国电信秉承“一去两化新三者”的战略，沿着国企改革道路前行；中国移动依靠4G翻身仗正加速从语音经营向流量经营转型，积极探索第三条曲线的发展路径；中国联通提出了移动宽带领先与一体化创新战略。三家公司都不约而同地把转型方向定位为互联网，探索发展模式的转变与扩展，一方面重新定义服务与消费过程的同一性，以用户体验为业务发展的出发点和根本点；另一方面又要积极拓展业务领域，引进资本、机制、管理、技术等，走出去寻找更多的蓝海，实现业务和收入的多元化。尽管运营商描绘出向互联网转型的战略愿景，但由于机制体制等原因，电信业互联网化的转型路径依然漫长，今后，运营商需要完善监督制约机制、合理的利益分配机制和科学的选人用人机制，在激烈的市场竞争与艰难的转型发展中吸引和留住关键人才。<br />
+<br />
+正确定位电信业在“互联网+”中的位置<br />
+<br />
+与电信业相关的“互联网+”大致可以概括为基础设施、内容与应用、用户和数据、商业模式这四个层面。第一个层面是基础设施，是由管道+平台组成的，眼下运营商的营收主要还依赖于基础设施的建维和运营，从收电话费到收流量费，做好管道依然是第一要务，要依靠4G真正把移动宽带互联网的智能管道打造好；第二个层面是内容与应用，这是电信业梦寐以求的转型目标，要在积极探寻和打造平台级入口的基础上，整合和承载更超值的内容与应用，在整个信息通信和互联网的竞争中掌握主动权；第三个层面是用户和用户数据，这是电信业仅存不多的机会，运营商手中数以亿计的用户就像巨大的金矿，需要进一步完善云计算解决方案，加快大数据采集、存储、管理、挖掘和应用等管控能力建设；第四个层面是商业模式或盈利模式，三大运营商目前的收入来源主要是依托语音、流量等基础业务，多元化、公司化和资本化运作的成效有限，如果能够利用其庞大的资金、人员和渠道优势，与互联网公司等各类企业进行资本和战略层面的合资合作，并进一步延伸到医疗、教育、物流、金融、产业互联网等蓝海，一定能够培育和拓展更多的新产品、新业务、新模式。<br />
+
+<br><br>
+<div class="upBoxM">
+<div class="upBox upBox_a">
+<p class="count"><span id="recommendv_add">0</span></p>
+<a class="link" id="recommend_add" href="forum.php?mod=misc&amp;action=recommend&amp;do=add&amp;tid=838085"  onclick="showWindow('login', this.href)" onmouseover="this.title = $('recommendv_add').innerHTML + ' 人顶'"><img src="static/image/common/rec_add.gif" alt="顶" /> 顶</a>
+</div>
+<div class="upBox upBox_d">
+<p class="count"><span id="recommendv_subtract">0</span></p>
+<a class="link" id="recommend_subtract" href="forum.php?mod=misc&amp;action=recommend&amp;do=subtract&amp;tid=838085"  onclick="showWindow('login', this.href)" onmouseover="this.title = $('recommendv_subtract').innerHTML + ' 人踩'"><img src="static/image/common/rec_subtract.gif" alt="踩" /> 踩</a>
+</div>
+</div>
+
+<br><br>
+<div class="bdsharebuttonbox c114_v2" style="float:left;"><a href="#" class="bds_more" data-cmd="more">分享到：</a><a title="分享到微信" href="#" class="bds_weixin" data-cmd="weixin" style="color:red;">微信</a><a title="分享到QQ空间" href="#" class="bds_qzone" data-cmd="qzone">QQ空间</a><a title="分享到新浪微博" href="#" class="bds_tsina" data-cmd="tsina">新浪微博</a><a title="分享到腾讯微博" href="#" class="bds_tqq" data-cmd="tqq">腾讯微博</a><a title="分享到人人网" href="#" class="bds_renren" data-cmd="renren">人人网</a><a title="分享到搜狐微博" href="#" class="bds_tsohu" data-cmd="tsohu">搜狐微博</a></div>
+</td></tr></table>
+</div>
+<div id="comment_8848311" class="cm">
+</div>
+<link type="text/css" rel="stylesheet" href="source/plugin/cr180_viewthread_module/template/images/style.css"><div id="cr180_digestbox"></div><script type="text/javascript">var auc_list_tmp = $('auc_list_tmp');if(auc_list_tmp !== null){document.write(auc_list_tmp.innerHTML);auc_list_tmp.innerHTML='';}
+function lalala(){
+	ajaxget('plugin.php?id=auction:involve&operation=view&tid=838085&page=1', 'list_ajax');
+	$('list_ajax').style.display = 'block';
+}
+if($('list_ajax')){setTimeout('lalala()', 1000);}
+</script><div id="post_rate_div_8848311"></div>
+</div></div>
+</td></tr>
+<tr><td class="plc plm">
+<div id="usertopic"></div>
+<script src="c114-usertopic.php?t_uid=1130974&t_tid=838085" type="text/javascript"></script>
+<div class="modact"><a href="forum.php?mod=misc&amp;action=viewthreadmod&amp;tid=838085" title="帖子模式" onclick="showWindow('viewthreadmod', this.href)">本主题由 家园副管07 于 2015-6-26 13:01 审核通过</a></div><div id="p_btn" class="mtw mbm cl">
+<a href="home.php?mod=spacecp&amp;ac=share&amp;type=thread&amp;id=838085" id="k_share" onclick="showWindow(this.id, this.href, 'get', 0);" onmouseover="this.title = $('sharenumber').innerHTML + ' 人分享'"><i><img src="static/image/common/oshr.png" alt="分享" />分享<span id="sharenumber">0</span></i></a>
+<a href="home.php?mod=spacecp&amp;ac=favorite&amp;type=thread&amp;id=838085" id="k_favorite" onclick="showWindow(this.id, this.href, 'get', 0);" onmouseover="this.title = $('favoritenumber').innerHTML + ' 人收藏'"><i><img src="static/image/common/fav.gif" alt="收藏" />收藏<span id="favoritenumber">0</span></i></a>
+
+</div>
+</td>
+</tr>
+<tr>
+<td class="pls"></td>
+<td class="plc">
+<div class="po">
+<div class="pob cl">
+<em>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_8848311" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport8848311', 'misc.php?mod=report&rtype=post&rid=8848311&tid=838085&fid=45', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_8848311_menu" class="p_pop mgcmn" style="display: none;">
+<li><a href="home.php?mod=magic&amp;mid=bump&amp;idtype=tid&amp;id=838085" id="a_bump" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/bump.small.gif" />提升卡</a></li>
+<li><a href="home.php?mod=magic&amp;mid=jack&amp;idtype=tid&amp;id=838085" id="a_jack" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/jack.small.gif" />千斤顶</a></li>
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_8848311')</script>
+</div>
+</div>
+
+</td>
+</tr>
+</table>
+</div><div class="a_cu_2"><div><div style="position:relative;width:988px;height:82px;"><div style="position:absolute;z-index:101;"><embed width="988" height="82" src="http://bbs.c114.net/data/attachment/common/cf/165522w2q448748t6m982t.swf" type="application/x-shockwave-flash" wmode="transparent"></embed></div><div style="position:absolute;z-index:102;top:0;left:0;"><a href="http://bbs.c114.net/plugins/adlink/?s=intel" onmousedown="hit('143','BBS-YD-AD1')" target="_blank"><img src="images/c114/clarity.gif" width="988" height="82"/></a></div></div></div></div><div id="post_8848426" class="c_table"><table id="pid8848426" summary="pid8848426" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+ <div class="pi">
+<div class="authi">
+<div class="c114_v1">
+<img src="images/c114/o_male.gif" alt="Male在线" />
+</div>
+<a href="space-uid-234533.html" target="_blank" class="xw1">adolf</a>
+
+</div>
+</div>
+<div class="p_pop blk bui" id="userinfo8848426" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo8848426_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-234533.html" target="_blank" class="xi2">adolf</a></strong>
+<em>当前在线</em>
+</div>
+<dl class="cl"><dt>经验</dt><dd>2583 </dd><dt>分贝</dt><dd>0 </dd><dt>家园币</dt><dd>3785 </dd><dt>在线时间：</dt><dd>1292 小时</dd><dt>最后登录：</dt><dd>2015-12-21</dd><dt>帖子：</dt><dd><a href="home.php?mod=space&uid=234533&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">1774</a></dd><dt>精华：</dt><dd>0</dd><dt>注册时间：</dt><dd>2008-5-18</dd><dt>UID：</dt><dd>234533</dd></dl>
+<div class="imicn">
+<a href="home.php?mod=space&amp;uid=234533&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo8848426')"><a href="space-uid-234533.html" target="_blank"><img src="http://bbs.c114.net/uc_server/data/avatar/000/23/45/33_avatar_middle.jpg" onerror="this.onerror=null;this.src='http://bbs.c114.net/uc_server/images/noavatar_middle.gif'" /></a></div>
+<p class="xg2">军衔等级：</p>
+<p style="margin-top:2px;" id="g_up8848426" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"><img src="data/attachment/common/c114/star/level19.gif" alt="" class="vm" />&nbsp;&nbsp;<em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=163" target="_blank">中校</a></em></p>			
+</div>
+<div id="g_up8848426_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c">中校, 积分 2583, 距离下一级还需 417 积分</div>
+</div>
+<dl class="pil cl xg2"><dt>注册时间：</dt><dd>2008-5-18</dd></dl><ul class="xl xl2 o cl">
+<li class="callon"><a href="space-uid-234533.html" target="_blank" title="串个门" class="xi2">串个门</a></li>
+<li class="buddy"><a href="home.php?mod=spacecp&amp;ac=friend&amp;op=add&amp;uid=234533&amp;handlekey=addfriendhk_234533" id="a_friend_li_8848426" onclick="showWindow(this.id, this.href, 'get', 1, {'ctrlid':this.id,'pos':'00'});" title="加好友" class="xi2">加好友</a></li>
+<li class="poke2"><a href="home.php?mod=spacecp&amp;ac=poke&amp;op=send&amp;uid=234533" id="a_poke_li_8848426" onclick="showWindow(this.id, this.href, 'get', 0);" title="打招呼" class="xi2">打招呼</a></li>
+<li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_234533&amp;touid=234533&amp;pmid=0&amp;daterange=2&amp;pid=8848426&amp;tid=838085" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2">发消息</a></li>
+</ul>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=838085&pid=8848426" title="您的朋友访问此链接后，您将获得相应的积分奖励" id="postnum8848426" onclick="setCopy(this.href, '帖子地址复制成功');return false;"><em>2</em><sup>#</sup></a>
+</strong>
+<span>
+<em onclick="$('postmessage_8848426').className='t_bigfont'">大</em>
+<em onclick="$('postmessage_8848426').className='t_msgfont'">中</em>
+<em onclick="$('postmessage_8848426').className='t_smallfont'">小</em>
+<em onclick="$('pid8848426').style.background='#CCE8CF'" class="col col_1"></em>
+<em onclick="$('pid8848426').style.background='#FFFFFF'" class="col"></em>
+</span>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon8848426" src="static/image/common/online_member.gif" />
+<em id="authorposton8848426">发表于 2015-6-26 13:41:56</em>
+<span class="pipe">|</span><a href="forum.php?mod=viewthread&amp;tid=838085&amp;page=1&amp;authorid=234533" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_8848426">
+<div class="a_pr"style="margin-left:10px;width:260px"><style>.c114_ask{border:1px solid #cccccc;padding:6px 6px 8px 6px;background:#FFF8C5;line-height:20px;font-size:12px;}.c114_ask div{padding:5px 0px;text-align:center;}.c114_ask a{color:#000;text-decoration:none;font-size:12px;}</style><div class="c114_ask"><div><b><a href="askjob/" target="_blank" style="color:blue;font-size:14px;">通信职场你问我答</a></b></div><script type="text/javascript" src="api.php?mod=js&bid=35"></script><script type="text/javascript" src="api.php?mod=js&bid=45"></script></div></div>太长了，</td></tr></table>
+</div>
+<div id="comment_8848426" class="cm">
+</div>
+<div id="post_rate_div_8848426"></div>
+</div></div>
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr>
+<td class="pls"></td>
+<td class="plc">
+<div class="po">
+<div class="pob cl">
+<em>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_8848426" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport8848426', 'misc.php?mod=report&rtype=post&rid=8848426&tid=838085&fid=45', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_8848426_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_8848426')</script>
+</div>
+</div>
+
+</td>
+</tr>
+</table>
+</div><div id="post_8849300" class="c_table"><table id="pid8849300" summary="pid8849300" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+ <div class="pi">
+<div class="authi">
+<div class="c114_v1">
+<img src="images/c114/o_offemale.gif" alt="FeMale不在线" />
+</div>
+<a href="space-uid-1130974.html" target="_blank" class="xw1">cqbbszjg</a>
+
+</div>
+</div>
+<div class="p_pop blk bui" id="userinfo8849300" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo8849300_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-1130974.html" target="_blank" class="xi2">cqbbszjg</a></strong>
+<em>当前离线</em>
+</div>
+<dl class="cl"><dt>经验</dt><dd>80 </dd><dt>分贝</dt><dd>0 </dd><dt>家园币</dt><dd>301 </dd><dt>在线时间：</dt><dd>184 小时</dd><dt>最后登录：</dt><dd>2015-12-21</dd><dt>帖子：</dt><dd><a href="home.php?mod=space&uid=1130974&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">61</a></dd><dt>精华：</dt><dd>0</dd><dt>注册时间：</dt><dd>2015-6-25</dd><dt>UID：</dt><dd>1130974</dd></dl>
+<div class="imicn">
+<a href="home.php?mod=space&amp;uid=1130974&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo8849300')"><a href="space-uid-1130974.html" target="_blank"><img src="http://bbs.c114.net/uc_server/data/avatar/001/13/09/74_avatar_middle.jpg" onerror="this.onerror=null;this.src='http://bbs.c114.net/uc_server/images/noavatar_middle.gif'" /></a></div>
+<p class="xg2">军衔等级：</p>
+<p style="margin-top:2px;" id="g_up8849300" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"><img src="data/attachment/common/c114/star/level3.gif" alt="" class="vm" />&nbsp;&nbsp;<em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=12" target="_blank">上等兵</a></em></p>			
+</div>
+<div id="g_up8849300_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c">上等兵, 积分 80, 距离下一级还需 20 积分</div>
+</div>
+<dl class="pil cl xg2"><dt>注册时间：</dt><dd>2015-6-25</dd></dl><ul class="xl xl2 o cl">
+<li class="callon"><a href="space-uid-1130974.html" target="_blank" title="串个门" class="xi2">串个门</a></li>
+<li class="buddy"><a href="home.php?mod=spacecp&amp;ac=friend&amp;op=add&amp;uid=1130974&amp;handlekey=addfriendhk_1130974" id="a_friend_li_8849300" onclick="showWindow(this.id, this.href, 'get', 1, {'ctrlid':this.id,'pos':'00'});" title="加好友" class="xi2">加好友</a></li>
+<li class="poke2"><a href="home.php?mod=spacecp&amp;ac=poke&amp;op=send&amp;uid=1130974" id="a_poke_li_8849300" onclick="showWindow(this.id, this.href, 'get', 0);" title="打招呼" class="xi2">打招呼</a></li>
+<li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_1130974&amp;touid=1130974&amp;pmid=0&amp;daterange=2&amp;pid=8849300&amp;tid=838085" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2">发消息</a></li>
+</ul>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=838085&pid=8849300" title="您的朋友访问此链接后，您将获得相应的积分奖励" id="postnum8849300" onclick="setCopy(this.href, '帖子地址复制成功');return false;"><em>3</em><sup>#</sup></a>
+</strong>
+<span>
+<em onclick="$('postmessage_8849300').className='t_bigfont'">大</em>
+<em onclick="$('postmessage_8849300').className='t_msgfont'">中</em>
+<em onclick="$('postmessage_8849300').className='t_smallfont'">小</em>
+<em onclick="$('pid8849300').style.background='#CCE8CF'" class="col col_1"></em>
+<em onclick="$('pid8849300').style.background='#FFFFFF'" class="col"></em>
+</span>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon8849300" src="static/image/common/online_member.gif" />
+<em id="authorposton8849300">发表于 2015-6-26 23:07:14</em>
+<span class="xg1"><a href='http://app.c114.net/'><font color=red><img src=http://bbs.c114.net/static/image/common/m.png align="absmiddle">来自手机</img></font></a></span>
+<span class="pipe">|</span><a href="forum.php?mod=viewthread&amp;tid=838085&amp;page=1&amp;authorid=1130974" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_8849300">
+<div class="a_pr"style="margin-left:10px;width:260px"><script type="text/javascript">var cpro_id = "u1451902";</script><script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>人民邮电报，今后运行商定位还是竞争性企业</td></tr></table>
+</div>
+<div id="comment_8849300" class="cm">
+</div>
+<div id="post_rate_div_8849300"></div>
+</div></div>
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr>
+<td class="pls"></td>
+<td class="plc">
+<div class="po">
+<div class="pob cl">
+<em>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_8849300" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport8849300', 'misc.php?mod=report&rtype=post&rid=8849300&tid=838085&fid=45', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_8849300_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_8849300')</script>
+</div>
+</div>
+
+</td>
+</tr>
+</table>
+</div><div id="post_8849315" class="c_table"><table id="pid8849315" summary="pid8849315" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+ <div class="pi">
+<div class="authi">
+<div class="c114_v1">
+<img src="images/c114/o_offemale.gif" alt="FeMale不在线" />
+</div>
+<a href="space-uid-1130974.html" target="_blank" class="xw1">cqbbszjg</a>
+
+</div>
+</div>
+<div class="p_pop blk bui" id="userinfo8849315" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo8849315_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-1130974.html" target="_blank" class="xi2">cqbbszjg</a></strong>
+<em>当前离线</em>
+</div>
+<dl class="cl"><dt>经验</dt><dd>80 </dd><dt>分贝</dt><dd>0 </dd><dt>家园币</dt><dd>301 </dd><dt>在线时间：</dt><dd>184 小时</dd><dt>最后登录：</dt><dd>2015-12-21</dd><dt>帖子：</dt><dd><a href="home.php?mod=space&uid=1130974&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">61</a></dd><dt>精华：</dt><dd>0</dd><dt>注册时间：</dt><dd>2015-6-25</dd><dt>UID：</dt><dd>1130974</dd></dl>
+<div class="imicn">
+<a href="home.php?mod=space&amp;uid=1130974&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo8849315')"><a href="space-uid-1130974.html" target="_blank"><img src="http://bbs.c114.net/uc_server/data/avatar/001/13/09/74_avatar_middle.jpg" onerror="this.onerror=null;this.src='http://bbs.c114.net/uc_server/images/noavatar_middle.gif'" /></a></div>
+<p class="xg2">军衔等级：</p>
+<p style="margin-top:2px;" id="g_up8849315" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"><img src="data/attachment/common/c114/star/level3.gif" alt="" class="vm" />&nbsp;&nbsp;<em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=12" target="_blank">上等兵</a></em></p>			
+</div>
+<div id="g_up8849315_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c">上等兵, 积分 80, 距离下一级还需 20 积分</div>
+</div>
+<dl class="pil cl xg2"><dt>注册时间：</dt><dd>2015-6-25</dd></dl><ul class="xl xl2 o cl">
+<li class="callon"><a href="space-uid-1130974.html" target="_blank" title="串个门" class="xi2">串个门</a></li>
+<li class="buddy"><a href="home.php?mod=spacecp&amp;ac=friend&amp;op=add&amp;uid=1130974&amp;handlekey=addfriendhk_1130974" id="a_friend_li_8849315" onclick="showWindow(this.id, this.href, 'get', 1, {'ctrlid':this.id,'pos':'00'});" title="加好友" class="xi2">加好友</a></li>
+<li class="poke2"><a href="home.php?mod=spacecp&amp;ac=poke&amp;op=send&amp;uid=1130974" id="a_poke_li_8849315" onclick="showWindow(this.id, this.href, 'get', 0);" title="打招呼" class="xi2">打招呼</a></li>
+<li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_1130974&amp;touid=1130974&amp;pmid=0&amp;daterange=2&amp;pid=8849315&amp;tid=838085" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2">发消息</a></li>
+</ul>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=838085&pid=8849315" title="您的朋友访问此链接后，您将获得相应的积分奖励" id="postnum8849315" onclick="setCopy(this.href, '帖子地址复制成功');return false;"><em>4</em><sup>#</sup></a>
+</strong>
+<span>
+<em onclick="$('postmessage_8849315').className='t_bigfont'">大</em>
+<em onclick="$('postmessage_8849315').className='t_msgfont'">中</em>
+<em onclick="$('postmessage_8849315').className='t_smallfont'">小</em>
+<em onclick="$('pid8849315').style.background='#CCE8CF'" class="col col_1"></em>
+<em onclick="$('pid8849315').style.background='#FFFFFF'" class="col"></em>
+</span>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon8849315" src="static/image/common/online_member.gif" />
+<em id="authorposton8849315">发表于 2015-6-26 23:18:26</em>
+<span class="xg1"><a href='http://app.c114.net/'><font color=red><img src=http://bbs.c114.net/static/image/common/m.png align="absmiddle">来自手机</img></font></a></span>
+<span class="pipe">|</span><a href="forum.php?mod=viewthread&amp;tid=838085&amp;page=1&amp;authorid=1130974" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_8849315">
+运行商的苦日子依旧哦</td></tr></table>
+</div>
+<div id="comment_8849315" class="cm">
+</div>
+<div id="post_rate_div_8849315"></div>
+</div></div>
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr>
+<td class="pls"></td>
+<td class="plc">
+<div class="po">
+<div class="pob cl">
+<em>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_8849315" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport8849315', 'misc.php?mod=report&rtype=post&rid=8849315&tid=838085&fid=45', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_8849315_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_8849315')</script>
+</div>
+</div>
+
+</td>
+</tr>
+</table>
+</div><div id="post_8849316" class="c_table"><table id="pid8849316" summary="pid8849316" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+ <a name="lastpost"></a><div class="pi">
+<div class="authi">
+<div class="c114_v1">
+<img src="images/c114/o_offemale.gif" alt="FeMale不在线" />
+</div>
+<a href="space-uid-1130974.html" target="_blank" class="xw1">cqbbszjg</a>
+
+</div>
+</div>
+<div class="p_pop blk bui" id="userinfo8849316" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo8849316_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-1130974.html" target="_blank" class="xi2">cqbbszjg</a></strong>
+<em>当前离线</em>
+</div>
+<dl class="cl"><dt>经验</dt><dd>80 </dd><dt>分贝</dt><dd>0 </dd><dt>家园币</dt><dd>301 </dd><dt>在线时间：</dt><dd>184 小时</dd><dt>最后登录：</dt><dd>2015-12-21</dd><dt>帖子：</dt><dd><a href="home.php?mod=space&uid=1130974&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">61</a></dd><dt>精华：</dt><dd>0</dd><dt>注册时间：</dt><dd>2015-6-25</dd><dt>UID：</dt><dd>1130974</dd></dl>
+<div class="imicn">
+<a href="home.php?mod=space&amp;uid=1130974&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo8849316')"><a href="space-uid-1130974.html" target="_blank"><img src="http://bbs.c114.net/uc_server/data/avatar/001/13/09/74_avatar_middle.jpg" onerror="this.onerror=null;this.src='http://bbs.c114.net/uc_server/images/noavatar_middle.gif'" /></a></div>
+<p class="xg2">军衔等级：</p>
+<p style="margin-top:2px;" id="g_up8849316" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"><img src="data/attachment/common/c114/star/level3.gif" alt="" class="vm" />&nbsp;&nbsp;<em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=12" target="_blank">上等兵</a></em></p>			
+</div>
+<div id="g_up8849316_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c">上等兵, 积分 80, 距离下一级还需 20 积分</div>
+</div>
+<dl class="pil cl xg2"><dt>注册时间：</dt><dd>2015-6-25</dd></dl><ul class="xl xl2 o cl">
+<li class="callon"><a href="space-uid-1130974.html" target="_blank" title="串个门" class="xi2">串个门</a></li>
+<li class="buddy"><a href="home.php?mod=spacecp&amp;ac=friend&amp;op=add&amp;uid=1130974&amp;handlekey=addfriendhk_1130974" id="a_friend_li_8849316" onclick="showWindow(this.id, this.href, 'get', 1, {'ctrlid':this.id,'pos':'00'});" title="加好友" class="xi2">加好友</a></li>
+<li class="poke2"><a href="home.php?mod=spacecp&amp;ac=poke&amp;op=send&amp;uid=1130974" id="a_poke_li_8849316" onclick="showWindow(this.id, this.href, 'get', 0);" title="打招呼" class="xi2">打招呼</a></li>
+<li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_1130974&amp;touid=1130974&amp;pmid=0&amp;daterange=2&amp;pid=8849316&amp;tid=838085" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2">发消息</a></li>
+</ul>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=838085&pid=8849316" title="您的朋友访问此链接后，您将获得相应的积分奖励" id="postnum8849316" onclick="setCopy(this.href, '帖子地址复制成功');return false;"><em>5</em><sup>#</sup></a>
+</strong>
+<span>
+<em onclick="$('postmessage_8849316').className='t_bigfont'">大</em>
+<em onclick="$('postmessage_8849316').className='t_msgfont'">中</em>
+<em onclick="$('postmessage_8849316').className='t_smallfont'">小</em>
+<em onclick="$('pid8849316').style.background='#CCE8CF'" class="col col_1"></em>
+<em onclick="$('pid8849316').style.background='#FFFFFF'" class="col"></em>
+</span>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon8849316" src="static/image/common/online_member.gif" />
+<em id="authorposton8849316">发表于 2015-6-26 23:18:30</em>
+<span class="xg1"><a href='http://app.c114.net/'><font color=red><img src=http://bbs.c114.net/static/image/common/m.png align="absmiddle">来自手机</img></font></a></span>
+<span class="pipe">|</span><a href="forum.php?mod=viewthread&amp;tid=838085&amp;page=1&amp;authorid=1130974" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_8849316">
+运行商的苦日子依旧哦</td></tr></table>
+</div>
+<div id="comment_8849316" class="cm">
+</div>
+<div id="post_rate_div_8849316"></div>
+</div></div>
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr>
+<td class="pls"></td>
+<td class="plc">
+<div class="po">
+<div class="pob cl">
+<em>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_8849316" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport8849316', 'misc.php?mod=report&rtype=post&rid=8849316&tid=838085&fid=45', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_8849316_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_8849316')</script>
+</div>
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+<div id="postlistreply" class="pl"><div id="post_new" class="viewthread_table" style="display: none"></div></div>
+</div>
+
+
+<form method="post" autocomplete="off" name="modactions" id="modactions">
+<input type="hidden" name="formhash" value="6678e851" />
+<input type="hidden" name="optgroup" />
+<input type="hidden" name="operation" />
+<input type="hidden" name="listextra" value="page%3D1" />
+<input type="hidden" name="page" value="1" />
+</form>
+
+
+<div class="pgs mtm mbm cl">
+<span class="pgb y"><a href="forum.php?mod=forumdisplay&fid=45&page=1">返回列表</a></span>
+<a id="newspecialtmp" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=45')" href="javascript:;" title ="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a>
+</div>
+
+<!--[diy=diyfastposttop]--><div id="diyfastposttop" class="area"></div><!--[/diy]-->
+<script type="text/javascript">
+var postminchars = parseInt('0');
+var postmaxchars = parseInt('30720');
+var disablepostctrl = parseInt('0');
+</script>
+
+<div id="f_pst" class="pl bm bmw">
+<form method="post" autocomplete="off" id="fastpostform" action="forum.php?mod=post&amp;action=reply&amp;fid=45&amp;tid=838085&amp;extra=page%3D1&amp;replysubmit=yes&amp;infloat=yes&amp;handlekey=fastpost" onSubmit="return fastpostvalidate(this)">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls">
+</td>
+<td class="plc">
+
+<span id="fastpostreturn"></span>
+
+
+<div class="cl">
+<div id="fastsmiliesdiv" class="y"><div id="fastsmiliesdiv_data"><div id="fastsmilies"></div></div></div><div class="hasfsl" id="fastposteditor">
+<div class="tedt mtn">
+<div class="bar">
+<span class="y">
+<a href="forum.php?mod=post&amp;action=reply&amp;fid=45&amp;tid=838085" onclick="return switchAdvanceMode(this.href)">高级模式</a>
+</span><script src="static/js/seditor.js?9PP" type="text/javascript"></script>
+<div class="fpd">
+<a href="javascript:;" title="文字加粗" class="fbld">B</a>
+<a href="javascript:;" title="设置文字颜色" class="fclr" id="fastpostforecolor">Color</a>
+<a id="fastpostimg" href="javascript:;" title="图片" class="fmg">Image</a>
+<a id="fastposturl" href="javascript:;" title="添加链接" class="flnk">Link</a>
+<a id="fastpostquote" href="javascript:;" title="引用" class="fqt">Quote</a>
+<a id="fastpostcode" href="javascript:;" title="代码" class="fcd">Code</a>
+<a href="javascript:;" class="fsml" id="fastpostsml">Smilies</a>
+</div></div>
+<div class="area">
+<div class="pt hm">您需要登录后才可以回帖 <a href="member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href)" class="xi2">登录</a> | <a href="member.php?mod=register.php" class="xi2">注册</a> </div>
+</div>
+</div>
+</div>
+</div>
+
+<input type="hidden" name="formhash" value="6678e851" />
+<input type="hidden" name="subject" value="" />
+<p class="ptm pnpost">
+<button type="button" onclick="showWindow('login', 'member.php?mod=logging&action=login&guestmessage=yes')" name="replysubmit" id="fastpostsubmit" class="pn pnc vm" value="replysubmit" tabindex="5"><strong>发表回复</strong></button>
+<label for="fastpostrefresh"><input id="fastpostrefresh" type="checkbox" class="pc" />回帖后跳转到最后一页</label>
+<script type="text/javascript">if(getcookie('fastpostrefresh') == 1) {$('fastpostrefresh').checked=true;}</script>
+</p>
+</td>
+</tr>
+</table>
+</form>
+</div>
+
+<!--120529-->	<link rel="stylesheet" type="text/css" href="template/default/common/c114_forumlist_menu.css" />
+<div class="c114_popupmenu_popup" id="c114_forumlist_menu" style="display:none;">
+<dl><dt><a href="forum.php?dz=1"><b>怀旧版首页</b></a></dt></dl><dl><dt><a href="forum-209-1.html">通信产业·企业</a></dt>
+<dd><ul><li class="current"><a href="forum-45-1.html">运营商·运营人</a></li><li><a href="forum-46-1.html">设备商讨论区</a></li><li><a href="forum-440-1.html">终端与移动互联网</a></li><li><a href="forum-552-1.html">虚拟运营商</a></li></ul></dd></dl>
+<dl><dt><a href="forum-212-1.html">通信技术·业务</a></dt>
+<dd><ul><li><a href="forum-542-1.html">爱立信技术区</a></li><li><a href="forum-11-1.html">技术综合版块</a></li><li><a href="forum-12-1.html">核心网</a></li><li><a href="forum-13-1.html">无线移动</a></li><li class="sub"><a href="forum-445-1.html">4G/LTE</a></li><li class="sub"><a href="forum-449-1.html">微波通信</a></li><li><a href="forum-340-1.html">通信工程设计与建设</a></li><li><a href="forum-375-1.html">运营支撑与网络优化</a></li><li><a href="forum-411-1.html">固定接入</a></li><li><a href="forum-72-1.html">终端与内容服务</a></li><li><a href="forum-373-1.html">通信原理与基础</a></li><li><a href="forum-414-1.html">技术问答专区</a></li><li><a href="forum-435-1.html">通信人读书</a></li><li class="sub"><a href="forum-503-1.html">博览群书</a></li><li class="sub"><a href="forum-492-1.html">考级考证</a></li><li><a href="forum-420-1.html">通信专业贴图</a></li><li><a href="forum-17-1.html">通信资料下载</a></li><li><a href="forum-415-1.html">通信标准下载</a></li></ul></dd></dl>
+<dl><dt><a href="forum-220-1.html">通信人生</a></dt>
+<dd><ul><li><a href="forum-14-1.html">职场·人生</a></li><li><a href="forum-370-1.html">招聘·求职</a></li><li><a href="forum-25-1.html">学子·就业</a></li><li class="sub"><a href="forum-491-1.html">通信校友录</a></li></ul></dd></dl>
+<dl><dt><a href="forum-230-1.html">家园休闲站</a></dt>
+<dd><ul><li><a href="forum-3-1.html">通信·女人</a></li><li><a href="forum-461-1.html">爱体育</a></li><li><a href="forum-495-1.html">爱电影</a></li><li><a href="forum-508-1.html">爱汽车</a></li><li><a href="forum-59-1.html">公众贴图区</a></li></ul></dd></dl>
+<dl><dt><a href="forum-200-1.html">家园总务处</a></dt>
+<dd><ul><li><a href="forum-7-1.html">事务管理</a></li><li><a href="forum-372-1.html">新手专区</a></li><li><a href="forum-44-1.html">家园活动</a></li><li><a href="forum-489-1.html">家园杂志社</a></li><li><a href="forum-342-1.html">希望之路</a></li></ul></dd></dl>
+<dl><dt><a href="forum-563-1.html">学习园地</a></dt>
+<dd><ul><li><a href="forum-564-1.html">专业讨论</a></li><li><a href="forum-565-1.html">技术问答</a></li><li class="sub"><a href="forum-569-1.html">华为技术问答集锦</a></li><li class="sub"><a href="forum-570-1.html">中兴技术问答集锦</a></li><li class="sub"><a href="forum-571-1.html">上贝技术问答集锦</a></li><li class="sub"><a href="forum-573-1.html">烽火技术问答集锦</a></li><li class="sub"><a href="forum-574-1.html">诺基亚技术问答集锦</a></li><li class="sub"><a href="forum-575-1.html">爱立信技术问答集锦</a></li><li><a href="forum-566-1.html">实际案例</a></li><li><a href="forum-567-1.html">学习资料</a></li></ul></dd></dl>
+</div><script type="text/javascript">
+new lazyload();
+</script>
+</div>
+
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+
+
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{"bdSize":16}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=86835285.js?cdnversion='+~(-new Date()/36e5)];</script>
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p><a href="archiver/" >Archiver</a><span class="pipe">|</span><a href="forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><strong><a href="http://www.c114.net/" target="_blank">C114</a></strong>
+( <a href="http://www.miitbeian.gov.cn/" target="_blank">沪ICP备12002291号</a> )<span class="pipe">|</span><a href="mailto:qqx@c114.net">联系我们</a><span class="pipe">|</span>合作伙伴：<a href="http://www.ruixindai.cn" onmousedown="hit('127','BBS-YD-AD9')" target="_blank">睿信贷</a>
+<span class="pipe">|</span><a href="sitemap.xml" target="_blank" title="网站地图">网站地图</a>&nbsp;&nbsp;<span id="tcss"></span><script type="text/javascript" src="http://tcss.qq.com/ping.js?v=19PP" charset="utf-8"></script><script type="text/javascript" reload="1">pgvMain({"discuzParams":{"r2":"15324546","ui":0,"rt":"forum","md":"viewthread","fi":"45","ti":"838085","pn":1,"qq":"000","logo":11},"extraParams":""});</script></p>
+<p class="xs0">
+GMT+8, 2015-12-21 13:42<span id="debuginfo">
+, Processed in 0.041454 second(s), 13 queries
+, Gzip On.
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Copyright &copy; 1999-2015 <strong><a href="http://www.c114.net" target="_blank">C114</a></strong> All Rights Reserved</p>
+<p class="xs0"> <a href="http://license.comsenz.com/?pid=1&amp;host=bbs.c114.net" target="_blank">Discuz Licensed</a></p>
+</div></div>
+
+<div id="g_upmine_menu" class="tip tip_3" style="display:none;">
+<div class="tip_c">
+积分 0, 距离下一级还需  积分
+</div>
+<div class="tip_horn"></div>
+</div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1450676525" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="source/plugin/c114_furumlist/style.css"><span id="scrolltop" onclick="window.scrollTo('0','0')">回顶部</span>
+<script type="text/javascript">_attachEvent(window, 'scroll', function(){showTopLink();});</script>
+</div>
+<iframe src="" id="fhit" name="fhit" width="0" height="0" style="display:none;"></iframe>
+<script src="static/js/c114_bbs-hit.js" type="text/javascript"></script>
+</body>
+</html>

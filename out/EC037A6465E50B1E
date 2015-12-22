@@ -1,0 +1,737 @@
+<!--UINFO: http://bbs.jrj.com.cn/msg,98274610,1.html	length=46893&last_modified=0&time_saved=1450676756&charset=gbk-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+		<title>财政部：调整完善农业三项补贴政策-期货论坛-金融界理财论坛</title>
+		<meta name="keywords" content="财政部：调整完善农业三项补贴政策,理财论坛,股市分析,预测明日大盘走势,个股分析">
+		<meta name="description" content="财政部：调整完善农业三项补贴政策关于调整完善农业三项补贴政策的指导意见"/>
+		<script type="text/javascript" src="http://js.jrj.com.cn/myjrj/js/jquery.js"></script>
+		<script src="http://js.jrj.com.cn/bbsnew/bbs120626.js" type="text/javascript"></script>
+		<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/LoginDialog-min.js"></script>
+		<link rel="stylesheet" id="skin" type="text/css" href="http://js.jrj.com.cn/bbsnew/css/essay120605.css" />
+		<script type="text/javascript" src="http://js.jrj.com.cn/myjrj/js/api/myjrj_api_1.js"></script>
+		<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/dialogs-2.js"></script>
+		<script src="http://js.jrj.com.cn/bbsnew/article/staticpage140102.js" type="text/javascript"></script>
+		<link rel="stylesheet" type="text/css" href="http://js.jrj.com.cn/lib/ui/dialog-cool.css" />
+		<link href="http://js.jrjimg.cn/common/bottombar.css" rel="stylesheet" /><!-- 底部通用导航新加样式 -->
+		<style type="text/css">
+	    	.jbtext{background:url(http://i0.jrjimg.cn/istock/igjb.png) no-repeat 0 center;padding:0 20px 0 20px;cursor:pointer;}
+	    	.fcfcnew{z-index:9999;display:none;background:url(http://i0.jrjimg.cn/bbsnew/img/fcfcnew.png) no-repeat 0 0;width:490px;height:350px;position:fixed;top:50%;left:50%;margin-left:-245px;_position:absolude;margin-top:-175px;}
+			.fcfcnew .hd{height:104px;position:relative;}
+			.fcfcnew .hd a.clear{position:absolute;top:8px;right:14px;width:15px;height:15px;display:block;}
+			.fcfcnew .hd i{font-family:"微软雅黑","宋体";font-sizE:24px;position:absolute;top:53px;left:245px;color:#fff;}
+			.text-new1{padding:25px 60px 0;}
+			.text-new1 p{line-height:21px;}
+			.text-new1 p.cur{padding:0 0 20px;}
+			.fhbox{position:fixed;margin-left:480px;left:50%;top:40%;_position:absolute;}
+			.fhbox a{display:block;background:url(http://i0.jrjimg.cn/istock/fhtopnew.jpg) no-repeat;width:66px;height:68px;}
+			.fhbox a.fh02{background-position:0 -68px;margin-top:9px;}
+			.fhbox a.fh01:hover{background-position:-66px 0;}
+			.fhbox a.fh02:hover{background-position:-66px -68px;}
+			.sharetos {
+			    background: none repeat scroll 0 0 transparent;
+			    cursor: pointer;
+			    display: inline-block;
+			    font-size: 12px;
+			    height: 25px;
+			    margin-right: 5px;
+			    padding-left: 2px;
+			    vertical-align: middle;
+			}
+			.mpll {
+			    margin: 38px 0 5px;
+			    overflow: hidden;
+			    text-align: center;
+			}
+	    </style>
+	    <script type="text/javascript" src="http://js.jrjimg.cn/js.do?f=/lib/jrjbase-min.js,/lib/util/ie6fixed-nojq-min.js,/lib/ui/ScrollLeft-min.js,/lib/ui/PopupMsgBox-nojq-1.0.min.js"></script>
+	    
+<script>
+$(document).ready(function(){
+	var ie6Fixed = JRJ.util.ie6Fixed;
+	ie6Fixed.fixed($(".fcfcnew"), "cc");
+	//$(".jbtext").click(function(){
+	//		$(".fcfcnew").show();
+	//		return false;
+	//});
+	$(".clear").click(function(){
+			$(".fcfcnew").hide();
+			return false;
+	});
+  $("#helpbutton").css("right",($(window).width()-$("#topIndex").width())/2-$("#helpbutton").width()-2);
+  if(jQuery.browser.msie && jQuery.browser.version == 6) {
+    Followmod.follow();
+  }
+  $("#helpbutton").show();
+});
+Followmod = {
+  follow : function(){
+    $("#helpbutton").css("position","absolute");
+    $(window).scroll(function(){
+      var mtop = $(window).scrollTop() + $(window).height() - $("#helpbutton").outerHeight()-260;
+      var mleft = ($(window).width()-$("#topIndex").width())/2-$("#helpbutton").width()-2;
+      $("#helpbutton").css({"top":mtop,"right":mleft});
+    });
+  }
+}
+function imgsize(img){
+	img.width=Math.min(img.width,900);
+	if(img.width==900){
+		img.style.cursor="pointer";
+		img.title="点击查看原图";
+	}
+}
+
+function imggo(img){
+	if(img.width>=900){
+		window.open(img.src);
+	}
+}
+</script>
+	</head>
+	<body>
+	<script type="text/javascript" src="http://js.jrjimg.cn/home/click.js"></script>
+	<div class="fcfcnew" id="fcfcnew">
+    	<div class="hd"><a href="javascript:void(0);" class="clear"></a><i>金融界论坛</i></div>
+        <div class="bd">
+        	<div class="text-new1">
+        		<strong>尊敬的用户：</strong>
+                <p class="cur">如您在使用金融界网站论坛的过程中发现色情，反动言论，伪造他人言论，广告欺诈等帖子，为便于网友反馈问题，特将金融界论坛管理员联系方式公布如下，欢迎大家有问题或者建议随时联系。</p>
+                <p>金融界客户服务中心邮箱：jrjhudong@jrj.com.cn</p>
+                <p>论坛客服电话010-58325388-1532</p>
+                <p>金融界论坛官方账户：管理员01</p>
+                <p>金融界论坛客服QQ:2632547546</p>
+                
+            </div>
+        </div>
+    </div>
+	<p class="cnav bbs">
+	<a href="http://www.jrj.com/" target="_blank">首页</a>|
+	<a href="http://i.jrj.com.cn/" target="_blank">我的金融界</a>|
+	<a href="http://blog.jrj.com.cn/" target="_blank">博客</a>|
+	<a href="http://bbs.jrj.com.cn/" target="_blank">论坛</a>|
+	<a href="http://istock.jrj.com.cn/" target="_blank">爱股</a>|
+	<a href="http://itougu.jrj.com.cn?from=itougu-20141227-rc-bbs-sydh-wzl-051" target="_blank">爱投顾</a>|
+	<a href="http://zhibo.jrj.com.cn/" target="_blank">实盘直播</a>|
+	<a href="http://v.jrj.com.cn/" target="_blank">微视频</a>|
+	<a href="http://pic.jrj.com.cn/" target="_blank">图片</a>
+
+			<span>[<a href="http://www.m.jrj.com.cn/" target="_blank">手机金融界</a>]
+			[<a href="http://bbs.jrj.com.cn/bbsmap.html" target="_blank">网站地图</a>]
+			[<a href="javascript:void(0);" onclick="javascript:addFav();">收藏本页</a>]</span>
+		</p>
+		<div class="ban bbs">
+			<a href="http://bbs.jrj.com.cn" class="logo"><a href="http://bbs.jrj.com.cn"></a></a>
+			<div class="fr" id="adDiv"></div>
+      <script>
+             window.onload=function(){
+             var div = document.getElementById("adDiv");
+             div.innerHTML = '<div class="ad1"><iframe width="547" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=27&op=1" ></iframe></div>'
++'<div class="ad2"><iframe width="195" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=28&op=1" ></iframe></div>';
+         }               
+     </script>                       
+	</div>
+	<div class="Bbs_Thread bdnav fw1">
+			<select class="fr" name="history" onchange="windowOPENTO(this)">
+				<option>
+					最近访问版区
+				</option>
+			</select>
+						<!-- a href="http://www.jrj.com.cn">金融界</a><i>&gt;</i --><a href="http://bbs.jrj.com.cn">金融界论坛</a><i>&gt;</i><a href="/money">理财论坛</a><i>&gt;</i><a href="/futures">期货论坛</a>		</div>
+	<div class="Bbs_Thread bbs flist">
+			<div id="login">
+			</div>	
+<form action="/article/searchArticle.jspa" class="search" method="get" onsubmit="return checkData(this)">
+<select id="searchtype" name="searchtype">
+	<option value="author">
+		作者
+	</option>
+	<option value="title">
+		标题
+	</option>
+	<option value="tag">
+		标签
+	</option>
+</select>
+<input class="text" value="请输入搜索内容" name="typeValue" onfocus="onSelected(this)" onblur="onLeave(this)" id="typeValue" type="text"/>
+<input type="hidden" name="from" value="search"/>
+<input type="hidden" name="cid" value="2" />
+<input class="btn" value="搜索" type="submit"/>
+</form>
+</div>
+<div class="navlist" id="loginlist" onmouseover="showloginlist()" onmouseout="outMenuDiv(this, event)" style="display:none">
+<ul><li><a href="/author,2," target="_blank" id="mymsg">我的帖子</a></li><li><a href="/jiangu" target="_blank">我的荐股</a></li></ul>
+</div>
+
+<script>
+	setValue('2','904','0','98274610','090331010013261537','/article/getMsgReply.jspa?msgid=98274610&itemid=0&forumid=904&cid=2&status=0&count=$totalCount');
+	showLogin('thread');
+</script>
+		<div class="Bbs_Thread fun button1">
+			<span class="fl">
+			<!-- a href="javascript:void(0);" onclick="goToReplyDiv('replyDiv')" class="reply" target="_top">回复</a -->
+			<a href="#" onclick="return newthread('/article/sendPreStock.jsp');" class="reply">荐股</a>
+			<a href="#" onclick="return newthread('/article/sendMsgMain.jsp?cid=2&forumid=904&itemid=0');" class="pub">发新帖</a>
+			<a href="javascript:void(0);" onclick="javascript:window.location.reload();" class="break">刷新</a>
+			<a href="/doldmsg/2_98274610.html" class="acol" target="_blank">以旧版方式浏览</a>
+			<a href="http://www.m.jrj.com.cn" class="acol" target="_blank" style="background:url(http://i0.jrjimg.cn/bbsnew/img/phone.gif) no-repeat;padding:5px 0 0 25px;margin:0 0 0 10px">手机上论坛</a>
+			</span>
+			<span class="fr" id="adReplySpan">
+				<!--	<a href="#">预留广告位预留广告位</a>-->
+			</span>
+		</div>
+
+		<div class="Bbs_Thread lcd zhengwen" id="topIndex">
+			<div class="ltit">
+				<h1><b>『普通』主题： 财政部：调整完善农业三项补贴政策</b></h1>
+				<span>
+					<a class="jbtext" id="jubao" onclick="javascript:$('.fcfcnew').show();">举报</a>
+					<a href="javascript:void(0);" onclick="javascript:addFav();">收藏本页</a><!-- a href="javascript:void(0)" onclick="doFavorite('98274610','0','904','2')">收藏</a--> 
+				</span>
+			</div>
+			<div class="author">
+			<!-- a href="http://i.jrj.com.cn/app/trace/traceforum.jspa?user=090331010013261537" target=_blank -->
+			<a href="/author,2,iforeveryoung" target=_blank>
+						<img src="http://i5.jrjimg.cn/sys/default_xs.jpg" alt="" />
+						</a>
+			<p class="name"><b><a href="/author,2,iforeveryoung" name="users" id="1-090331010013261537" onmouseover="showUserinfo('090331010013261537','topIndex','2','25','904')" target="_blank" ref="090331010013261537">iforeveryoung</a></b><!--a href="#">查看他的牛股池</a--><a href="/author,2,iforeveryoung" id="track1-090331010013261537" target="_blank">查看TA的论坛文集</a><span class="fr">发表日期：2015-05-22 16:18:00</span></p>
+			<p>头衔：社区侯爵<em id="jifen">积分：654205</em>
+			<a href="#" id="attentionBut" onclick="checkLogin('090331010013261537','iforeveryoung',1);">关注</a><a href="#" id="frientBut" onclick="checkLogin('090331010013261537','iforeveryoung',2);">加为好友</a>
+			<span class="fr">
+			<a href="#" name="admin" id="admin-98274610" onmouseover='getOperation("98274610",1,0,0,0)' style="display:none">管理</a>
+			<a href="javascript:void(0)" target="_top" onclick="return quoto('iforeveryoung','msgMainContent','2015-05-22 16:18:00');">引用</a>
+			<span class="pingfen">
+			<a href="javascript:void(0)" onclick='msgScoreShow("98274610","0","2")'>评分</a>
+			<span class="pop" style="display:none"><strong id="pingfenClose" title="关闭"></strong>点击这里可对本文评分<em></em></span>
+			</span>
+			<script type="text/javascript">
+			$(function() {
+				var pingfenVal = getCookie('threadMsgMain_pingfen');
+				if(pingfenVal != null && pingfenVal != ''){
+					$(".pop").css('display','none');
+				}else {
+					$(".pop").css('display','inline');
+				}
+				$("#pingfenClose").click(function(){
+					addCookie('threadMsgMain_pingfen',1,241000);
+					$(".pop").css('display','none');
+				});
+			});
+			</script>  
+			<a href="#" onclick='return onlyViewUserThread("98274610","2","090331010013261537")'>只看该作者</a>			<ul class='admin' id='only98274610' style="display:none"></ul>
+			</span></p>
+			</div>
+			<!--帖子内容-->
+			
+			<div id="msgcoin_98274610" class="pf_result"> </div>
+			
+			<div class="content" id="msgMainContent">
+				<p align="center"><strong>关于调整完善农业三项补贴政策的指导意见</strong></p>
+<p align="center"><strong>财农[2015]31号</strong></p>
+<p>　　各省、自治区、直辖市、计划单列市人民政府：</p>
+<p>
+　　近年来，党中央、国务院高度重视农业补贴政策的有效实施，明确要求在稳定加大农业补贴力度的同时，逐步完善农业补贴政策，改进农业补贴办法，提高农业补贴政策效能。遵照党的十八届三中全会和近年来中央1号文件关于完善农业补贴政策、改革农业补贴制度的要求和党中央、国务院统一决策部署，财政部、农业部针对农业补贴政策实施过程中出现的突出问题，深入开展调查研究，在充分征求和广泛听取各方面意见的基础上，提出了调整完善农业补贴政策的建议，经国务院同意，决定从2015年调整完善农作物良种补贴、种粮农民直接补贴和农资综合补贴等三项补贴政策（以下简称农业“三项补贴”）。为积极稳妥推进调整完善农业“三项补贴”政策工作，现提出如下指导意见：</p>
+<p><strong>　　一、在全国范围内调整20％的农资综合补贴资金用于支持粮食适度规模经营</strong></p>
+<p>
+　　（一）必要性。自2004年起，国家先后实施了农业“三项补贴”，对于促进粮食生产和农民增收、推动农业农村发展发挥了积极的作用，但随着农业农村发展形势发生深刻变化，农业“三项补贴”政策效应递减，政策效能逐步降低，迫切需要调整完善。</p>
+<p>
+　　一是转变农业发展方式迫切需要调整完善农业“三项补贴”政策。我国农业生产成本较高，种粮比较效益低，主要原因就是农业发展方式粗放，经营规模小。受制于小规模经营，无论是先进科技成果的推广应用、金融服务的提供、与市场的有效对接，还是农业标准化生产的推进、农产品（25.22，
+-0.44，
+-1.71％）质量的提高、生产效益的增加、市场竞争力的提升，都遇到很大困难。因此，加快转变农业发展方式，强化粮食安全保障能力，建设国家粮食安全、农业生态安全保障体系，迫切需要调整完善农业“三项补贴”政策，加大对粮食适度规模经营的支持力度，促进农业可持续发展。</p>
+<p>
+　　二是提高政策效能迫切需要调整完善农业“三项补贴”政策。在多数地方，农业“三项补贴”已经演变成为农民的收入补贴，一些农民即使不种粮或者不种地，也能得到补贴。而真正从事粮食生产的种粮大户、家庭农场、农民合作社等新型经营主体，却很难得到除自己承包耕地之外的补贴支持。农业“三项补贴”政策对调动种粮积极性、促进粮食生产的作用大大降低。因此，增强农业“三项补贴”的指向性、精准性和实效性，加大对粮食适度规模经营支持力度，提高农业“三项补贴”政策效能，迫切需要调整完善农业“三项补贴”政策。</p>
+<p>
+　　（二）基本内容。根据当前化肥和柴油等农业生产资料价格下降的情况，各省、自治区、直辖市、计划单列市要从中央财政提前下达的农资综合补贴中调整20％的资金，加上种粮大户补贴试点资金和农业“三项补贴”增量资金，统筹用于支持粮食适度规模经营。支持对象为主要粮食作物的适度规模生产经营者，重点向种粮大户、家庭农场、农民合作社、农业社会化服务组织等新型经营主体倾斜，体现“谁多种粮食，就优先支持谁”。</p>
+<p>
+　　支持发展多种形式的粮食适度规模经营，既可以支持以土地有序流转形成的土地适度规模经营，也可以支持土地股份合作和联合或土地托管方式、龙头企业与农民或合作社签订订单实现规模经营的方式、农业社会化服务组织提供专业的生产服务实现区域规模经营等其他形式的粮食适度规模经营。</p>
+<p>
+　　各地要坚持因地制宜、简便易行、效率与公平兼顾的原则，采取积极有效的支持方式，促进粮食适度规模经营。重点支持建立完善农业信贷担保体系。通过农业信贷担保的方式为粮食适度规模经营主体贷款提供信用担保和风险补偿，着力解决新型经营主体在粮食适度规模经营中的“融资难”、“融资贵”问题。支持粮食适度规模经营补贴资金，主要用于支持各地尤其是粮食主产省建立农业信贷担保体系，推动形成全国性的农业信用担保体系，逐步建成覆盖粮食主产区及主要农业大县的农业信贷担保网络，强化银担合作机制，支持粮食适度规模经营。也可以采取贷款贴息、现金直补、重大技术推广与服务补助等方式支持粮食适度规模经营。对粮食适度规模经营主体贷款利息给予适当补助（不超过贷款利息的50％）。现金直补要与主要粮食作物的种植面积或技术推广服务面积挂钩，单户补贴要设置合理的补贴规模上限，防止“垒大户”。对重大技术推广与服务补助，可以采取“先服务后补助”、提供物化补助等方式。</p>
+<p><strong>　　二、选择部分地区开展农业“三项补贴”改革试点</strong></p>
+<p>
+　　（一）必要性。我国作为世界贸易组织[微博]成员，对农业的补贴受到世界贸易组织规则的约束。继续增加现有补贴种类的总量，将使我国在世界贸易组织规则总体范围内的支持空间进一步缩小，不利于我国充分利用规则调动种粮农民积极性、进一步提高种粮农民收入水平。因此，需要改革现有农业“三项补贴”制度，将一部分农业补贴转为在世界贸易组织规则中使用不受限制的补贴，如对耕地资源的保护等。同时，加大对粮食适度规模经营的支持力度。为积极稳妥推进改革，有必要选择一部分地区开展试点。</p>
+<p>
+　　（二）试点内容。2015年，财政部、农业部选择安徽、山东、湖南、四川和浙江等5个省，由省里选择一部分县市开展农业“三项补贴”改革试点。试点的主要内容是将农业“三项补贴”合并为“农业支持保护补贴”，政策目标调整为支持耕地地力保护和粮食适度规模经营。一是将80％的农资综合补贴存量资金，加上种粮农民直接补贴和农作物良种补贴资金，用于耕地地力保护。补贴对象为所有拥有耕地承包权的种地农民，享受补贴的农民要做到耕地不撂荒，地力不降低。补贴资金要与耕地面积或播种面积挂钩，并严格掌握补贴政策界限。对已作为畜牧养殖场使用的耕地、林地、成片粮田转为设施农业用地、非农业征（占）用耕地等已改变用途的耕地，以及长年抛荒地、占补平衡中“补”的面积和质量达不到耕种条件的耕地等不再给予补贴。同时，要调动农民加强农业生态资源保护意识，主动保护地力，鼓励秸秆还田，不露天焚烧。用于耕地地力保护的补贴资金直接现金补贴到户。二是20％的农资综合补贴存量资金，加上种粮大户补贴试点资金和农业“三项补贴”增量资金，按照全国统一调整完善政策的要求支持粮食适度规模经营。</p>
+<p>
+　　其他地区也可根据本地实际，比照试点地区的政策和要求自主选择一部分县市开展试点，但试点范围要适当控制。2016年，农业“三项补贴”改革将在总结试点经验、进一步完善政策措施的基础上在全国范围推开。</p>
+<p><strong>　　三、切实做好调整完善农业“三项补贴”政策的各项工作</strong></p>
+<p>
+　　调整完善农业“三项补贴”政策事关广大农民群众利益和农业农村发展大局，事关国家粮食安全和农业可持续发展大局。地方各级人民政府及财政部门、农业部门要充分认识调整完善农业“三项补贴”政策的重要意义，统一思想，高度重视，精心组织，明确责任，加强配合，扎实工作，确保完成调整完善农业“三项补贴”政策的各项任务。</p>
+<p>
+　　（一）切实加强组织领导。调整完善农业“三项补贴”政策由省级人民政府负总责。地方各级财政部门、农业部门要在人民政府的统一领导下，加强对具体实施工作的组织领导，建立健全工作机制，明确工作责任，密切部门合作，确保工作任务和具体责任落实到位，确保调整完善农业“三项补贴”政策的各项工作落实到位。地方各级财政部门要安排相应的组织管理经费，保障各项工作的有序推进。</p>
+<p>
+　　（二）认真制定具体实施方案。各省级财政部门、农业部门要结合本地实际，在充分听取各方面意见的基础上，认真制定调整完善农业“三项补贴”政策实施方案，因地制宜研究支持粮食适度规模经营的范围、支持方式，明确时间节点、任务分工和责任主体，明确政策实施的具体要求和组织保障措施。确定的具体实施方案要报请省级人民政府审定同意。各省在研究粮食适度规模经营支持方式过程中要与财政部、农业部进行沟通，省级人民政府审定的实施方案要报财政部、农业部备案。</p>
+<p>
+　　（三）抓紧落实农业“三项补贴”政策。各地要抓紧制定2015年农业“三项补贴”政策落实方案，调整优化补贴方式，抓紧拨付80％的农资综合补贴资金和全部种粮农民直接补贴、农作物良种补贴资金，及时安全发放到农户，尽快兑付到农民手中。用于支持粮食适度规模经营的资金要抓紧研究制定具体措施，尽快落实到位。试点地区农作物良种推广可以根据需要从上级财政和本级财政安排的农业技术推广与服务补助资金中解决。</p>
+<p>
+　　（四）切实加强农业“三项补贴”资金分配使用监管。明确部门管理职责，逐步建立管理责任体系。中央财政农业“三项补贴”资金按照耕地面积、粮食产量等因素测算切块到各省，由各省确定补贴方式和补贴标准。省级财政部门、农业部门负责项目的组织管理、任务落实、资金拨付和监督考核等管理工作，督促市县级财政部门、农业部门要做好相关基础数据采集审核、补贴资金发放等工作。对骗取、套取、贪污、挤占、挪用农业“三项补贴”资金的，或违规发放农业“三项补贴”资金的行为，将依法依规严肃处理。</p>
+<p>
+　　（五）密切跟踪工作进展动态。中央和省级财政部门、农业部门要密切跟踪农业“三项补贴”政策调整完善工作进展动态，加强信息沟通交流，建立健全考核制度，对实施情况进行监督检查。财政部、农业部将深入有关省开展调查研究，及时了解情况，总结经验，解决问题。同时，财政部、农业部将研究制定相关制度，适时对各地农业“三项补贴”政策落实情况进行绩效考核，考核结果将作为以后年度农业补贴资金及补贴工作经费分配的重要因素。</p>
+<p>
+　　（六）做好政策宣传解释工作。各地要切实做好舆论宣传工作，主动与社会各方面特别是基层干部群众进行沟通交流，赢得理解和支持，为政策调整完善和改革试点工作有序推进创造良好的舆论氛围和社会环境。</p>
+<br>
+
+　　原文链接：http://futures.jrj.com.cn/2015/05/22161719258198.shtml
+
+							</div>
+			<div class="content">
+							
+			<div style="height:10px">&nbsp;</div>
+						</div>
+			
+				<div class="mpll" style="width:625px;margin:0 auto;margin-top:38px;">
+			<span style="float:left;margin-right:5px;" class="digg1" onclick="doDingorCaiAction(0,98274610,2)">文章不错(<i>0</i>)</span>
+			<span style="float:left;" class="digg4" onclick="copyShareUrl()">复制链接</span>
+			<div style="float:left;" class="sharetos">
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+				<span class="bds_more">分享到：</span>
+				<a class="bds_qzone"></a>
+				<a class="bds_tsina"></a>
+				<a class="bds_tqq"></a>
+				<a class="bds_renren"></a>
+				<a class="bds_t163"></a>
+				<a class="shareCount"></a>
+				</div>
+				<span class="refreshs" style="float:left;line-height:25px;">&nbsp;&nbsp;帖子刷新<select id="autoRefreshConfSelect" name="autoRefreshConfSelect" onchange="javascript:refreshConfSet()" >
+					<option value="1" >1分钟</option>
+					<option value="2" >2分钟</option>
+					<option value="3" >3分钟</option>
+					<option value="5" >5分钟</option>
+					<option value="0" >不刷新</option>
+				</select></span>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=6470526" ></script>
+				<script type="text/javascript" id="bdshell_js"></script>
+				<script type="text/javascript">
+				document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+				</script>
+				<!-- Baidu Button END -->
+			</div>
+<script>
+	var inter_variable;
+	function refreshConfSet(){
+		var time = parseFloat($('#autoRefreshConfSelect').val());
+		var date = new Date();
+		date.setTime(date.getTime()+365*24*3600*1000);
+		document.cookie = 'Ref_Msg_Conf=' + time + ';expires=' + date.toGMTString();
+		clearInterval(inter_variable);
+		if(time != 0){
+			inter_variable = setInterval(function(){
+					window.location.href = window.location.href;
+				},time*60*1000);
+		}
+	}
+	function getDefaultRefreshTime(){
+		var cook = document.cookie;
+		var start = cook.indexOf('Ref_Msg_Conf');
+		var time = parseFloat('0');
+		if(start != -1){
+			start += 'Ref_Msg_Conf'.length + 1;
+			var end = cook.indexOf(';',start);
+			if(end == -1){
+				time = parseFloat(cook.substring(start));
+			}else{
+				time = parseFloat(cook.substring(start,end));
+			}
+		}
+		clearInterval(inter_variable);		
+		$('#autoRefreshConfSelect').val(time);
+		if(time != 0){
+			inter_variable = setInterval(function(){
+					window.location.href = window.location.href;
+				},time*60*1000);
+		}
+	}
+	
+	getDefaultRefreshTime();
+</script>
+			</div>
+			<br>
+		</div>
+<div class="floats" id="popdiv" style="display:none">
+<div class="float float1" id="favoriteDiv" style="display:none"> <a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>收藏帖子</span></strong></p>
+    <p class="right" id="favoriteAlert">已经成功收藏本帖！请到<a href="#">我的收藏</a>中查看所有收藏贴</p>
+    <p class="txr">窗口5秒自动关闭</p>
+</div>
+<div id="sharediv" class="float float1" style="display:none"> <a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>复制链接给好友</span></strong></p>
+    <p>本帖连接：<input id="shareurl" type="text" value="http://bbs.jrj.com.cn/msg,98274610.html" class="tex" readonly="readonly"/></p>
+    <p class="p1"><input type="button" value="复制并发送给我的好友" onclick="copyShareUrl()"/></p>
+    <p>分享到：<a href="javascript:void(0)" onclick="javascript:createShare()" class="ic1">我的金融界</a></p>
+</div>
+<div id="shareokdiv" class="float float1" style="display:none" ><a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>复制链接给好友</span></strong></p>
+    <p id="sharemsg" class="right p2">帖子地址已经复制，您可以粘贴到QQ，MSN或者邮件发给好友了！每次点击你将获得一个威望。</p>
+    <p class="txr">窗口5秒自动关闭</p>
+</div>
+</div>
+<div style="margin-bottom:10px;"><center><a href="http://i.jrj.com.cn/app/vstock/index.jspa" target="_blank"><img src="http://ufile.jrj.com.cn/200912/17/bbs_attach_img/bbs_attach_img_12610207826881.gif" alt=""></a></center></div>
+
+		<!--楼主更多贴，论坛精粹-->
+		<div class="Bbs_Thread about">
+			<div class="lcd s1">
+			<p class="ltit">
+				<strong><a href="/author,2,iforeveryoung" target="_blank">楼主更多贴</a></strong>
+				<ul class="ull" id="louzhumoremsg"></ul>	
+			</p>
+			</div>
+									<div class="lcd bbsjp s1">
+										   	<p class="ltit"><strong>论坛精粹</strong>
+			   					<div id="injection">
+								   <a href="http://bbs.jrj.com.cn/msg,73302967.html"><img						src="http://img.jrjimg.cn/2011/05/20110520151932921.jpg" class="imgb"						alt="富人的50个理财习惯" /> </a>				<ul class="ull">					<li>						<A href="http://bbs.jrj.com.cn/msg,73510041.html" target="_blank">吃透三句话人人都能成富翁</A><A href="http://bbs.jrj.com.cn/msg,73289221.html" target="_blank"></A><A href="http://bbs.jrj.com.cn/msg,72917018.html" target="_blank"></A><a href="http://bbs.jrj.com.cn/msg,71744207.html"></a>					</li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73508474.html" target="_blank">经济适用男PK白领愁嫁女！！</A><a href="http://bbs.jrj.com.cn/msg,72916645.html"></a>					</li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73507900.html" target="_blank">高薪不是白领唯一追求</A><a href="http://bbs.jrj.com.cn/msg,73286590.html"></a>					</li>					<li><A href="http://bbs.jrj.com.cn/msg,73504857.html" target="_blank">全球最火辣十大亿万富家女</A><A href="http://bbs.jrj.com.cn/msg,73309651.html" target="_blank"></A><a href="http://bbs.jrj.com.cn/msg,72882577.html"></a>											</li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73502482.html" target="_blank">私奔投资人王功权回家</A><a href="http://bbs.jrj.com.cn/msg,73309641.html"></a>					</li>				</ul>				<ul class="ull">					<li>						<a href="http://bbs.jrj.com.cn/msg,73499076.html"> 全球最理想工作盘点</a></li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73487695.html" target="_blank">揭秘美国人理财十大秘诀</A><a href="http://bbs.jrj.com.cn/msg,72880887.html"></a>					</li>						
+<li>						<A href="http://bbs.jrj.com.cn/msg,73484026.html" target="_blank">闲暇时该做的28件聪明事</A><A href="http://bbs.jrj.com.cn/msg,73262409.html" target="_blank"></A><a href="http://bbs.jrj.com.cn/msg,72880299.html"></a>					</li>					<li><A href="http://bbs.jrj.com.cn/msg,73467912.html" target="_blank">工薪族三步攒出个百万富翁</A><a href="http://bbs.jrj.com.cn/msg,72861475.html"></a>											</li>		  	<li>						<a href="http://bbs.jrj.com.cn/msg,73480310.html"> 如何让所有人都快乐消费</a>					</li>				</ul>
+								</div>
+			   </p>
+			</div>
+					</div>
+		
+		<!--zhibo
+		<div class="Bbs_Thread about" style="height:75px;margin:10px auto 9px;overflow: hidden;width: 953px;">
+			<iframe width="950" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=472&op=1" ></iframe>
+		</div>-->
+		
+		<!--回帖信息列表-->
+				<div class="Bbs_Thread fun button2">
+			<span class="fl">
+				<!-- a href="javascript:void(0);" onclick="goToReplyDiv('replyDiv')" target="_top"  class="reply">回复</a -->
+				<a href="#" onclick="return newthread('/article/sendPreStock.jsp');" class="reply">荐股</a>
+				<a href="#" onclick="return newthread('/article/sendMsgMain.jsp?cid=2&forumid=904&itemid=0');" class="pub">发新帖</a>
+				<a href="javascript:window.location.reload();" class="break">刷新</a>
+				<a href="/doldmsg/2_98274610.html" class="acol" target="_blank">以旧版方式浏览</a> 
+		       	</span>
+			<p class="pn pn2"><a href="/msg,98274610,1.html">首页</a><a href="#" class="next">&lt;&lt;上一页</a><a href="#" class="cur">1</a><a href="#" class="next">下一页&gt;&gt;</a><a href="/msg,98274610,1.html">末页</a>共1页&nbsp;到<input id="gopage2" type="text" size=2>页<input type="button" value="提交" onclick="javascript:goPage(2);"></p>
+		</div>
+		<div class="Bbs_Thread blue2">
+		<p class="abor">
+				<a href="/">返回论坛首页</a><a href="/904" id="_backTOfirst">返回本版首页</a>
+			</p>
+			<p id="previous">
+				<b>论坛上一帖：</b><a href="javascript:void(0)" id="previousthread" target="_blank">&nbsp;&nbsp;</a>
+			</p>
+			<p id="next">
+				<b>论坛下一帖：</b><a href="javascript:void(0)" id="nextthread" target="_blank">&nbsp;&nbsp;</a>
+			</p>
+		</div>
+
+		<div class="Bbs_Thread lcd tjian" id="S1_R">
+			<p class="ltit"><strong>近期热门话题推荐</strong></p>
+				
+				<ul><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95188719.html"><img src="http://i5.jrjimg.cn/201404/29/bbs_attach_img/bbs_attach_img_13987437656041.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95188719.html">政府关系最硬的民营企业</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95115050.html"><img src="http://i5.jrjimg.cn/201404/24/bbs_attach_img/bbs_attach_img_13983079197391.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95115050.html">盘点年入几十万的小生意</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95007640.html"><img src="http://i5.jrjimg.cn/201404/16/bbs_attach_img/bbs_attach_img_13976176535951.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95007640.html">中国社会七大灰色产业链</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,94971037.html"><img src="http://i5.jrjimg.cn/201404/14/bbs_attach_img/bbs_attach_img_13974442464991.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,94971037.html">中国九大最好赚钱的产业</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,94922538.html"><img src="http://i5.jrjimg.cn/201404/10/bbs_attach_img/bbs_attach_img_13971002679111.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,94922538.html">中国人变穷的四大真相</a></p></li></ul><ul class="ull"><li><a target="_blank" href="http://bbs.jrj.com.cn/picshow">更多劲爆图片</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbmsg">论坛热帖</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbzqt">精准高手</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/tag">热门股票</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbps_5">人气高手</a></li></ul>
+		</div>
+
+		<div class="Bbs_Thread cc">
+			<div id="ReplyIframeDiv" class="fl" >
+			<iframe id="replyPostDetal" name="replyPostDetal" width="100%" height="368px;" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes" src="/article/getMsgReply.jspa?msgid=98274610&itemid=0&forumid=904&cid=2&status=0&count=$totalCount"> 
+			</iframe>
+			<script type="text/javascript">
+				var attachNum=0;
+				var delIndex=null;
+				var sourcetext = "";
+				 
+				 function insertAttach(fileName,fileUrl){
+				 	 attachNum++;
+				 	 
+				 	var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+				 	 var atts = editdoc.getElementById("fileAttach");
+				 	 
+				 	 if (attachNum==1){
+				 	 	sourcetext = atts.innerHTML;
+				 	 }
+				 	 
+				 	 atts.innerHTML += '<li id="attach_'+attachNum+'">附件：<a href="'+fileUrl+'"><img src="http://js.jrj.com.cn/bbsnew/fckeditor/editor/skins/default/toolbar/uploadfile.gif" width="15px" height="15px"></img>'
+				 	   +'&nbsp;'+fileName+'</a>&nbsp;&nbsp;<a href="javascript:void(0)" name="delete" onclick="parent.delAttach('+attachNum+')">删除附件</a>&nbsp;&nbsp;&nbsp;&nbsp;售价（铜板）：<input name="filecoin_'+attachNum+'" id="filecoin_'+attachNum+'" type="text" style="width:30px" /> 最高1000</li>';
+				 	 atts.innerHTML = atts.innerHTML.replace(sourcetext,"") + sourcetext;
+				 	   
+				 	   var sAnnex = editdoc.getElementById("annxe");
+				 	   if(!sAnnex){
+					 	   var form1 = editdoc.getElementById("form1");
+							var textHidden = editdoc.createElement("input");
+							textHidden.type = "hidden";
+							textHidden.name ="annxe";
+							textHidden.id = "annxe";
+							textHidden.value = "";
+							form1.appendChild(textHidden);
+							sAnnex = textHidden;
+					   }
+				 	  var value = sAnnex.value;
+				 	  if(value!="") {
+							value += "|";
+					  }
+				 	  value += attachNum+","+fileUrl+","+ fileName + "," + "http://js.jrj.com.cn/bbsnew/fckeditor/editor/skins/default/toolbar/uploadfile.gif";
+				 	  sAnnex.value = value;
+				 	  
+						var pTar = document.getElementById("replyPostDetal");
+					    if (pTar.contentDocument && pTar.contentDocument.body.offsetHeight){  
+					      pTar.height = pTar.contentDocument.body.offsetHeight;   
+					    }else if (pTar.Document && pTar.Document.body.scrollHeight){  
+					      pTar.height = pTar.Document.body.scrollHeight;
+					    }
+				 }
+				 function delAttach(index){           
+         			 delIndex=index;
+         			 var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+         			 var sAnnex = editdoc.getElementById("annxe");
+         			 if(sAnnex) {
+						var sValue = sAnnex.value;
+						var iIndex = sValue.indexOf("|"+index);
+						if (index==1) iIndex = 0;
+						var iEndIndex = sValue.indexOf("|",iIndex+1);
+						if(iEndIndex==-1) {
+							iEndIndex = sValue.length;
+							}
+						var firstStr = sValue.substring(0,iIndex);
+						var endStr = sValue.substring(iEndIndex+1);
+						if (index!=1){
+							sAnnex.value = firstStr +"|"+ endStr;
+						}else{
+							sAnnex.value = firstStr + endStr;
+						}
+						
+						var pTar = document.getElementById("replyPostDetal");
+					    if (pTar.contentDocument && pTar.contentDocument.body.offsetHeight){  
+					      pTar.height = pTar.contentDocument.body.offsetHeight;   
+					    }else if (pTar.Document && pTar.Document.body.scrollHeight){  
+					      pTar.height = pTar.Document.body.scrollHeight;  
+					    }
+             		 }
+         			 delCallBack();
+				 }
+				 function delCallBack(){
+					 var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+				   	var atts = editdoc.getElementById("fileAttach");
+				 	 var att = editdoc.getElementById("attach_"+delIndex);
+				 	 atts.removeChild(att);
+				 }
+				 function goPage(pagename){
+				 	var gopage = document.getElementById("gopage"+pagename).value;
+				 	if(gopage!=null && gopage!=""){
+        				var r,re;
+        				re = /\d*/i;
+        				r = gopage.match(re);
+        				if (r!=gopage){
+        					alert("请输入数字页码");
+        					return;
+        				}
+    				}else{
+    					alert("请输入数字页码");
+    					return;
+    				}
+    				//window.location.href= "/dmsg/2_98274610_"+gopage+".html";
+				 	window.location.href= "/msg,98274610,"+gopage+".html";
+				 }
+				</script>
+			</div>
+	<div class="fr">
+				<ul class="ltit">
+			<li class="hover" id="jh1" onmouseover="setTab('jh',1,2)" onclick="window.open('/gupiao_celite');"><strong>最新精华帖</strong></li>
+			<li id="jh2" onmouseover="ajax_getNiurenList(904)"><strong>版区牛人榜</strong></li>
+		</ul>
+		<ul class="ull" id="con_jh_1">
+		<li><img src="http://i0.jrjimg.cn/myjrj/loading2.gif"/></li>
+		</ul>
+		<div id="con_jh_2" style="height:339px;display:none">
+			<table class="jhtab" id="niuren">
+			<tr><th width="32"><span>排名</span></th><th width="85"><span>ID</span></th><th width="61"><span>精华帖数</span></th><th width="55"><span class="end">积分</span></th></tr>
+			<tr id="niurenload"><td colspan=4><img src="http://i0.jrjimg.cn/myjrj/loading2.gif"/></td></tr>
+			</table>
+			<br><center><a href="/msg,64498799.html" target="_blank"><img src="http://i0.jrjimg.cn/bbsnew/img/joinniuren.gif"/></a></center>
+		</div>
+			</div>
+		</div>
+		
+				
+		<div class="Bbs_Thread bdnav fw2">
+			<select class="fr" name="history" onchange="windowOPENTO(this)">
+				<option>
+
+					最近访问版区
+				</option>
+			</select>
+		<a href="http://www.jrj.com.cn">金融界</a><i>&gt;</i><a href="/money">理财论坛</a><i>&gt;</i><a href="/futures">期货论坛</a>		</div>
+
+<!-- 回到顶部&刷新 start 
+<div class="helpbutton" id="helpbutton" style="display:none">
+  <div class="gotop"><a href="javascript:void(0);" alt="回到顶部" onclick="javascript:window.scrollTo(0,0);">回到顶部</a></div>
+  <div class="refresh"><a href="javascript:void(0);" alt="刷新" onclick="javascript:window.location.reload();">刷新</a></div>
+</div>-->
+<!--
+<div class="fhbox" id="helpbutton"><a href="javascript:void(0);" class="fh01" alt="回到顶部" onclick="javascript:window.scrollTo(0,0);"></a><a href="http://survey.jrj.com.cn/channel/pub/q1832m2w0h0.html" class="fh02" target="_blank"></a></div>
+-->
+<!-- 回到顶部&刷新 end -->
+
+		<!-- 不能删除的div模板-->
+		<div class="infor" style="display:none">
+		</div>
+<script type="text/javascript">
+	goToFirstPage(window.location+"");
+        var _globalImgPath = "http://i0.jrjimg.cn/bbsnew/";
+	var _messageshow="thread";
+	var itemid=_itemid;
+	var forumid=_forumid;
+	var cid=_cid;
+	var divid = "history";
+	var forumname="期货论坛";
+
+	getMainMsgInfo(_msgid,_cid);
+	ajax_getEssList(0,_cid);
+</script>
+<script>
+	var ads={"list":[{"title":"","link":"http://www.jrj.com.cn"},{"title":"","link":"http://www.jrj.com.cn"}]}
+
+fixUpRecommendReply();
+</script>
+	<script src="/editorInc/finacing/floater_fd.js" type="text/javascript"></script>
+<script type="text/javascript">
+	showFloater(2);
+	function newthread(url){
+		if(typeof(flag)=='undefined' || flag=='notlogin'){
+			loginDlg.show();
+			return true;
+		}
+		window.location.href=url;
+	}
+	function checkLogin(uid,username,type) {
+		if(uid&&username&&uid.length>0&&username.length>0) {
+			if(typeof(flag)=='undefined' || flag=='notlogin'){
+				loginDlg.show();
+			}else {
+				ajax_getLoginUser(uid,username,type,loginDlg);
+			}
+		}else{
+			loginDlg.show();
+		}
+	}
+	var toDiv = document.getElementById('toooo');
+	if(toDiv) {
+		var div = getAbsPoint(toDiv);
+		if(div) {
+			window.scrollTo(0,div['y']);
+		}
+	}
+	ajax_JustLoginUser('090331010013261537');
+	dealIMG();
+	Popularize();
+	
+</script>
+
+		<div class="f">
+			<script src="http://js.jrjimg.cn/common/foot/v2.js" type="text/javascript"></script>
+		</div>
+
+		<img width="1" height="1" src="http://i0.jrjimg.cn/bbsnew/img/null.gif" id="countimg" alt=""/>
+<script src="http://js.jrj.com.cn/bbsnew/tongji_bbs.js" type="text/javascript"></script>
+
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛左浮标 Begin -->
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=29" ></script>
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛左浮标 End -->
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛右浮标 Begin -->
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=30" ></script>
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛右浮标 End -->
+
+<input type="hidden" id="ms_msgid" value="">
+<input type="hidden" id="ms_parentid" value="">
+<input type="hidden" id="fsfileid" value="">
+
+<!---------------------底部通用导航html-------------------------->
+<!--
+<div class="bottom_nav">
+
+    <div id="BBar_Main" class="open" style="display:none">
+
+    <iframe frameborder="0" scrolling="no" style="position:absolute; visibility:inherit; top:0px; left:0px; width:100%; height:31px;background:none;border:none;display:none;_display:block; z-index:-1; filter:alpha(opacity=0);-moz-opacity:0;-khtml-opacity:0;opacity:0;background:none;"></iframe>
+
+    <div class="left-box">
+
+    	<strong>实盘直播</strong>  
+
+    </div>
+
+	<div class="right-box">
+
+    	<a id="BBar_Open_Btn" href="javascript:;" class="develop"></a>
+
+    	<p class="btn"><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/main" target="_blank">我的金融界</a><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/stock/group/index.jspa" target="_blank">我的自选股</a><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/myfund/index.jspa" target="_blank">自选基金</a><a href="http://pay.jrj.com.cn/coin/rechage.jspa" target="_blank">金币充值</a></p>
+
+        <b id="BBar_Msg_Tip" class="off"></b>
+
+    </div>
+
+    <div class="center-box">
+
+    	<div class="pab01">
+
+    		<div id="stock_scroll" class="scroll">
+
+              	<table>
+
+                    <tbody>
+
+	  	  				<tr>
+
+	  	  					<td id="stock_scroll_content1">
+
+	  	  					</td>
+
+	  	  					<td id="stock_scroll_content2"></td>
+
+	  	  				</tr>
+
+	  				</tbody>
+
+  				</table>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    </div>
+
+    <div id="BBar_Close_Cont" class="close" style="display:none"><input id="BBar_Close_Btn" type="button" /></div>
+
+</div>
+-->
+	<div id="popMsgBox" class="mb" style="display:none;right:20px;">
+
+	   <div id="popMsgBox_Titlebar" class="mbhd">
+
+		   <span id="popMsgBox_Title" class="title">系统消息</span>
+
+		   <b id="popMsgBox_Close" class="option"></b>
+
+	   </div>
+
+	   <div id="popMsgBox_Content" class="mnbd">
+
+	   	  <div class="tit-mb">
+
+            <p></p>
+
+            <p class="pr"><a href="http://i.jrj.com.cn/main/systemMessages.jspa" target="_blank">查看</a></p>
+
+          </div>
+
+	   </div>
+
+	</div>
+
+<!---------------------------END 底部通用导航html--------------------------->
+
+    
+
+<!---------------------------   底部通用导航页面js   ---------------------------> 
+
+
+<!--<script type="text/javascript" src="http://js.jrjimg.cn/lib/bottom-bar/BottomBar-min.1.7.js"></script>-->
+
+
+<!---------------------------  END 底部通用导航页面js   ------------------------> 
+
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=484" ></script>
+	</body>
+</html>
+
+

@@ -1,0 +1,1869 @@
+<!--UINFO: http://club.autohome.com.cn/bbs/thread-c-3413-46934283-1.html	length=130144&last_modified=0&time_saved=1450677190&charset=gb2312-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    
+    <meta http-equiv="X-UA-Compatible" content="ie=emulateie7" />
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+        <title>【图】美国道路交通安全管理经验借鉴_陆风X7论坛_汽车之家论坛</title>
+    <script>var tz = { domBeginLoad: new Date() }, _browserTitle = document.title;</script>
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="expires" content="Wed, 26 Feb 1990 01:01:01 GMT" />
+    <meta http-equiv="expires" content="0" />
+
+        <meta http-equiv="mobile-agent" content="format=html5; url=http://club.m.autohome.com.cn/bbs/thread-c-3413-46934283-1.html" />
+        <meta http-equiv="mobile-agent" content="format=wml; url=http://club.m.autohome.com.cn/bbs/thread-c-3413-46934283-1.html" />
+        <meta http-equiv="mobile-agent" content="format=xhtml; url=http://club.m.autohome.com.cn/bbs/thread-c-3413-46934283-1.html" />
+    <meta name="keywords" content="陆风X7论坛,陆风X7论坛车友会,陆风X7论坛论坛,陆风X7论坛俱乐部,会员服务、汽车资讯、试车评车、车价车险、买车卖车、维修保养、自驾游尽在第一汽车垂直互动媒体：汽车之家" />
+        <meta name="description" content="美国道路交通安全管理经验借鉴" />
+    <link rel="shortcut icon" href="http://x.autoimg.cn/club/v1Content/images/favicon.ico?v2099" />
+    <link href="http://x.autoimg.cn/club/v1Content/css/detail-merge-all.min.css?201512181112" rel="stylesheet" type="text/css" />
+    
+    <script type="text/javascript">(function (N) { var _ = this.os = {}, M = this.browser = {}, C = N.match(/Web[kK]it[\/]{0,1}([\d.]+)/), B = N.match(/(Android);?[\s\/]+([\d.]+)?/), $ = !!N.match(/\(Macintosh\; Intel /), D = N.match(/(iPad).*OS\s([\d_]+)/), L = N.match(/(iPod)(.*OS\s([\d_]+))?/), G = !D && N.match(/(iPhone\sOS)\s([\d_]+)/), E = N.match(/Chrome\/([\d.]+)/) || N.match(/CriOS\/([\d.]+)/), A = N.match(/Firefox\/([\d.]+)/), K = N.match(/MSIE\s([\d.]+)/) || N.match(/Trident\/[\d](?=[^\?]+).*rv:([0-9.].)/), F = !E && N.match(/(iPhone|iPod|iPad).*AppleWebKit(?!.*Safari)/), J = F || N.match(/Version\/([\d.]+)([^S](Safari)|[^M]*(Mobile)[^S]*(Safari))/); if (M.webkit = !!C) M.version = C[1]; if (B) _.android = true, _.version = B[2]; if (G && !L) _.ios = _.iphone = true, _.version = G[2].replace(/_/g, "."); if (D) _.ios = _.ipad = true, _.version = D[2].replace(/_/g, "."); if (L) _.ios = _.ipod = true, _.version = L[3] ? L[3].replace(/_/g, ".") : null; if (E) M.chrome = true, M.version = E[1]; if (A) M.firefox = true, M.version = A[1]; if (K) M.ie = true, M.version = K[1]; if (J && ($ || _.ios)) { M.safari = true; if ($) M.version = J[1] } if (F) M.webview = true; _.tablet = !!(D || (B && !N.match(/Mobile/)) || (A && N.match(/Tablet/)) || (K && !N.match(/Phone/) && N.match(/Touch/))); _.phone = !!(!_.tablet && !_.ipod && (B || G || (E && N.match(/Android/)) || (E && N.match(/CriOS\/([\d.]+)/)) || (A && N.match(/Mobile/)) || (K && N.match(/Touch/)))); if (H("desirePC") != 1 && (_.phone || _.tablet)) { var I = location.href.replace("//ajax.club.", "//club.").replace("//club.", "//club.m."); if (location.href.toString() != I) location.href = I } function H(_) { var A, $ = new RegExp("(?:^| )" + _ + "=([^;]*)(?:;|$)", "gi"); return (A = $.exec(document.cookie)) ? (unescape(A[1])) : 0 } })(navigator.userAgent)</script>
+<style type="text/css">*:focus { outline: none} .prohibited,.prohibited:hover{color:#999;text-decoration:none;cursor:text;}</style>
+<script type="text/javascript">
+    var tz = {}; function fn_userImg120Error($) { $.onerror = null; $.width = $.height = 120; $.src = "http://x.autoimg.cn/club/v1Content/images/Detail/user120_default.gif" } function fn_userImg50Error($) { $.onerror = null; $.src = "http://x.autoimg.cn/club/v1Content/images/Detail/user50_default.gif" } tz.initAutoLoadImg = function () { $("#wrapAutoLoadImg").show(); var A = "AutoLoadImg", _ = Z.LocalStore.get(A); if (_ == "y") { $("#spanAutoLoadImg").className = "on"; $("#chkAutoLoadImg")[0].checked = true; tz.autoLoadImg() } }; tz.autoLoadImg = function () { if (tz.autoLoadImg_LOADED) return; tz.autoLoadImg_LOADED = true; var $ = function () { var A = document.getElementsByName("lazypic"), D = 0, _ = A.length, $ = new Date().getTime(), B = 33; tz.isDebug && Z.write("auto load image enabled ,image count " + _ + ", and start loading..."); var C = window.setInterval(function () { if (D >= _) { window.clearInterval(C); if (tz.isDebug) { var F = new Date().getTime() - $, I = Math.round(1000 / B), H = Math.round(_ * 1000 / F); Z.write("auto load image finish! usedtime {0}ms ,setting speed is {1}Hz ,but real speed is {2}Hz".format(F, I, H)) } } else { var E = A[D++]; if (E) { var G = E.getAttribute("src9"); G && (E.src != G) && (E.src = G) } } }, B) }; setTimeout($, 1500) }; (function () { tz.autoLoadImg_LOADED = false; tz.RCDT = ""; tz.imgError = "<span class=\"promptcons\">\u63d0\u793a\uff1a\u56fe\u7247\u52a0\u8f7d\u5931\u8d25\uff0c\u8bf7\u7a0d\u540e\u518d\u8bd5\u3002</span>"; tz.yyhfAllJs = "http://x.autoimg.cn/club/v1Content/js/Detail/yyhf.all.min.js?20150624"; var _ = function () { }; tz.$ = function ($) { return document.getElementById($) }; tz.isDebug = location.href.indexOf("debug") > -1; tz.goFloor = _; tz.goPage = _; tz.checkLoginA = _; tz.copyTopicURL = _; tz.clickAutoLoadImg = _; tz.collectTopic = _; tz.quoteReply = _; tz.sendYY = _; tz.showBadge = _; tz.hideBadge = _; tz.foldBadge = _; tz.picNotFind = function (B) { if (B.name == "yyimg") { B.outerHTML = tz.imgError; return } var A = null, C = 0, _ = false; while (A = B.parentNode) { C++; if (C > 20) return; var $ = A.tagName.toLowerCase(); if (($ == "span" || $ == "div") && (A.className == "pic" || A.className == "x-loaded")) { A.outerHTML = tz.imgError; _ = true; break } } if (!_) B.outerHTML = tz.imgError }; tz.picLoaded = function (B) { var I = B.src.toLowerCase(); if (I == "" || I.indexOf("lazyload") != -1) return; var F = B.width; if (!F) { B.style.width = "auto"; try { B.width = "auto" } catch (_) { } return } var C = 700; if (F > C) { var A = C / B.width; B.height = Math.ceil(B.height * (A)); B.width = F = C } var G = function () { var C = B.parentNode, D = 0, A = []; while (C) { D++; if (D > 20) return A; var $ = (C.tagName || "").toLowerCase(), _ = (C.className || "").toLowerCase(); if (($ == "span" || $ == "div") && (_ == "pic" || _ == "x-loaded")) A.push(C); C = C.parentNode } return A }, J = G(); if (J.length == 0) return; var $ = J[0], D = $.style.width.toLowerCase().replace(/\s+|px/ig, ""); for (var E = 0; E < J.length; E++) { var H = J[E]; H.className = ""; H.setAttribute("style", "") } $.className = "x-loaded"; $.style.minHeight = ""; if (F >= 700) { if (!D || D.indexOf("auto") > -1 || parseInt(D) < 700) $.style.width = "700px" } else if (F < 80) $.className = "x-mini"; $.style.width = B.width + "px" }; tz.userprofileimgLoaded = function (A) { try { $(A).attr("width", A.width + "px"); $(A).attr("height", A.height + "px") } catch (_) { } } })()
+</script>
+</head>
+<body>
+    <div id="_brand_show" class="brand-enter" style="display:none">
+        <div class="brand-pic"><a target="_blank" href="javascript:void(0)"><img src="http://car1.autoimg.cn/logo/brand/100/130104794018000798.jpg" width="100" height="100" /></a></div>
+        <div class="brand-name"><a target="_blank" href="javascript:void(0)">陆风X7<i class="icon16-blue-v" title="官方认证账号"></i></a></div>
+        <div class="brand-p" data-type="0">对我感兴趣？<br />那就关注我吧！</div>
+        <div class="brand-p" data-type="1" style="display:none">对我感兴趣，<br />快来和我互动吧！</div>
+        <div class="brand-btn"><a target="_blank" href="javascript:void(0)">关注我</a></div>
+    </div>
+    
+                <div id="consnav-root" class="consnav-fix-area" style="left: 50%; margin-left: -494px;display: none;">
+                    <iframe width="100%" height="40" frameborder="0" scrolling="0" marginheight="0" marginwidth="0" style=" position:absolute; top:0; left:0;"></iframe>
+                    <div class="consnav-fix">
+                        <a href="javascript:void(0);" class="close" onclick="tz.navBarClose();"></a>
+                        <div class="mod-menu-area mt2">
+                            <div class="mod-menu">
+                                <ul class="mod-menu-m">
+                                    <li class="mod-menu-li"><a id="xid-ownerNav" class="mod-menu-a" href="/bbs/threadowner-c-3413-46934283-1.html#pvareaid=101435">只看楼主</a></li>
+                                    <li class="mod-menu-li"><a href="javascript:void(0)" class="mod-menu-a red" id="scBtn" onclick="tz.collectTopic(this);return false;">收藏</a>
+                                        <div style="position:relative">
+                                            <div class="pop pop02" id="applyDescSC2" style="display: none;">
+                                                <div class="pop-content">
+                                                    <div class="pop-content-info">收藏并订阅，楼主有更新第一时间通知您。<a href="http://club.autohome.com.cn/bbs/thread-o-200054-25564856-1.html " target="_blank">查看详情&gt;&gt;</a></div>
+                                                </div>
+                                                <span class="pop-bottom pop-arrow"></span>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li id="floatsharebtn" class="mod-menu-li share-width"><a href="javascript:void(0);" id="Button1" class="mod-menu-a" value="分享" data-trigger="hover" data-toggle="overlay" data-target="#share_pop">分享</a>
+                                        <div id="share_pop" class="share share02" style="display:none" style="overflow:hidden;">
+                                            <div class="share-content">
+                                                <ul>
+                                                    <li class="share-weixin"><a href="javascript:void(0)" title="分享到微信好友" onclick="_trackEvent.push({'eid':'1|3|48|0|200123|300161','val':1,'a1':'','a2':''});"><i class="icon icon20 icon20-weixin1"></i>微信好友</a></li>
+                                                    <li class="share-weibo"><a href="javascript:void(0)" title="分享到新浪微博"><i class="icon icon20 icon20-weibo1"></i>新浪微博</a></li>
+                                                    <li class="share-friend"><a href="javascript:void(0)" title="分享到朋友圈" onclick="_trackEvent.push({'eid':'1|3|47|0|200122|300160','val':1,'a1':'','a2':''});"><i class="icon icon20 icon20-friend1"></i>朋友圈</a></li>
+                                                    <li class="share-qzone"><a href="javascript:void(0)" title="分享到QQ空间"><i class="icon icon20 icon20-qzone1"></i>QQ空间</a></li>
+                                                    <li class="share-qq"><a href="javascript:void(0)" title="分享到QQ好友"><i class="icon icon20 icon20-qq1"></i>QQ好友</a></li>
+                                                </ul>
+                                            </div>
+                                        </div> 
+                                    </li>
+                                   
+                                    <li id="xnavmodify" class="mod-menu-li"><a href="#" class="mod-menu-a amend" id="xnavmodifybtn">修改帖子</a></li>
+                                </ul>
+                            </div>
+                            <span class="mod-span fl"><a href="#quickReply" onclick="editor.focus();" id="xnavreplybtn"
+                                                         class="mod-buth">快速回复</a></span>
+                        </div>
+                        <span><a href="forum-c-3413-1.html" id="a_bbsname">陆风X7论坛</a></span>
+                        <span class="gt">&nbsp;&gt;&nbsp;</span><span>美国道路交通安全管理经验借鉴</span>
+                    </div>
+                </div>
+            
+
+<div class="public_top" id="headDiv">
+    <div class="t_inner">
+        <h1 class="t_logo">
+            <a target="_blank" href="http://i.autohome.com.cn" title="前往我的汽车之家"></a>
+        </h1>
+        <ul class="t_left">
+            <li class="open" lang="headwzsy"><a href="#">网站<em class="ico_v"></em></a>
+                <!--浮层-->
+                <div style="display: none;" lang="t_layer" class="t_layer t_skip">
+                    <p>
+                        <a href="http://www.autohome.com.cn" target="_blank"><span>网站首页</span></a>
+                    </p>
+                    <p>
+                        <a href="http://zhidao.autohome.com.cn/" target="_blank"><span>知道</span></a>
+                    </p>
+                    <p>
+                        <a href="http://car.autohome.com.cn" target="_blank"><span>报价</span></a>
+                    </p>
+                    <p>
+                        <a href="http://club.autohome.com.cn" target="_blank"><span>论坛</span></a>
+                    </p>
+                    <p>
+                        <a href="http://k.autohome.com.cn" target="_blank"><span>口碑</span></a>
+                    </p>
+                    <p>
+                        <a href="http://v.autohome.com.cn" target="_blank"><span>视频</span></a>
+                    </p>
+                    <p>
+                        <a href="http://shuoke.autohome.com.cn" target="_blank"><span>说客</span></a>
+                    </p>
+                    <p>
+                        <a href="http://dealer.autohome.com.cn" target="_blank"><span>经销商</span></a>
+                    </p>
+                    <p>
+                        <a href="http://y.autohome.com.cn" target="_blank"><span>用车服务</span></a>
+                    </p>
+                    
+                    
+                    <p>
+                        <a href="http://www.che168.com" target="_blank"><span>二手车</span></a>
+                    </p>
+                </div>
+                <!--end浮层-->
+            </li>
+            <li class="open" lang="headgc"><a id="headgc" href="#">广场<em class="ico_v"></em></a>
+                <div style="display: none;" class="t_layer t_squ">
+                    <p>
+                        <a href="http://club.autohome.com.cn/jingxuan" target="_blank"><em class="ico_tb tb01"></em><span>精选日报</span></a>
+                    </p>
+                    
+                    <p>
+                        <a href="http://k.autohome.com.cn/" target="_blank"><em class="ico_tb tb02"></em><span>口碑</span></a>
+                    </p>
+                    
+                    
+                </div>
+            </li>
+            <li class="open" lang="headyy"><a id="headyy" href="#">应用<em class="ico_v"></em></a>
+                <div style="display: none;" class="t_layer t_app">
+                    <p>
+                        <a href="http://i.autohome.com.cn/apps/club/receivereply" target="_blank"><em class="ico_tb tb01"></em><span>我的论坛</span></a>
+                    </p>
+                    <p>
+                        <a href="http://i.autohome.com.cn/apps/zhidao" target="_blank"><em class="ico_tb tb06"></em><span>我的知道</span></a>
+                    </p>
+                    <p>
+                        <a href="http://i.autohome.com.cn/apps/koubei" target="_blank"><em class="ico_tb tb02"></em><span>我的口碑</span></a>
+                    </p>
+                    <p>
+                        <a href="http://i.autohome.com.cn/apps/oil" target="_blank"><em class="ico_tb tb03"></em><span>我的油耗</span></a>
+                    </p>
+                   
+                    <p>
+                        <a href="http://i.autohome.com.cn/apps/uploadpic" target="_blank"><em class="ico_tb tb05"></em><span>上传车型图</span></a>
+                    </p>
+                </div>
+            </li>
+        </ul>
+        <div class="t_search">
+            <input type="hidden" value="3413" name="clubSeriesId" />
+            <form action="http://sou.autohome.com.cn/luntan?startDate=&endDate=" target="_blank" id="headQueryForm">
+                <input id="headsearch" autocomplete="off" name="q" class="s_tx" type="text" lang="" value="" />
+                <a id="headbtn" class="s_btn" href="javascript:;" lang="3413">论坛搜索</a>
+                <input type="hidden" name="entry" id="souEntry" value="40">
+                <input type="hidden" name="class" id="souClass" value="3413">
+                <input type="hidden" name="ClassId" id="souClassId" value="0">
+                <input type="hidden" name="order" id="souOrder" value="score">
+                <input type="hidden" name="time" id="souTime" value="">
+            </form>
+            <div class="search-pop" id="autocomplateTip" style="display: none;"></div>
+        </div>
+        <ul class="t_right" id="islogin">
+            <li class="loginli"><a target="_blank" href="http://i.autohome.com.cn/home.html"
+                class="loginUserUrl"><b></b><em class="ico_omit"></em></a></li>
+            <li class="open loginli" lang="headxx"><a href="#">消息<em class="ico_z"><em id="xi" style="display: none"></em></em><em class="ico_v"></em></a>
+                
+                <div id="msgDiv2" class="t_layer t_info" lang="t_layer" style="display: none;">
+                      <h2 style="display: none">
+                        <a href="http://i.autohome.com.cn/receivereply#pvareaid=101298" id="hf" target="_blank">查看论坛回复</a><span></span>条新论坛回复</h2>
+                     <h2 style="display: none">
+                        <a href="http://i.autohome.com.cn/inbox#pvareaid=101482" id="cr" target="_blank">查看评论回复</a><span></span>条新评论回复</h2>
+                      
+                     <h2 style="display: none">
+                        <a href="http://i.autohome.com.cn/club/message#pvareaid=101300" target="_blank" id="sx">查看私信</a><span></span>条新私信</h2> 
+                     <h2 style="display: none">
+                        <a href="http://i.autohome.com.cn/club/notice#pvareaid=101301" id="tz" target="_blank">查看通知</a><span></span>条新通知</h2>
+                     <h2 style="display: none">
+                        <a href="http://i.autohome.com.cn/club/follower#pvareaid=101297" id="fs" target="_blank">查看粉丝</a><span></span>个新粉丝</h2> 
+                     <h2 style="display: none">
+                        <a href="http://i.autohome.com.cn/orderlist#pvareaid=101548" id="dd" target="_blank">查看订单</a><span></span>个新订单</h2>
+                    <ins></ins>
+                    <p style="display: none">
+                        <a href="http://i.autohome.com.cn/receivereply#pvareaid=101606" id="hf0" target="_blank"><span>查看论坛回复</span></a>
+                    </p>
+                    <p style="display: none">
+                        <a href="http://i.autohome.com.cn/inbox#pvareaid=101607" target="_blank" id="cr0"><span>查看评论回复</span></a>
+                    </p>
+                    
+                    <p style="display: none">
+                        <a href="http://i.autohome.com.cn/club/message#pvareaid=101609" target="_blank" id="sx0"><span>查看私信</span></a>
+                    </p>
+                    <p style="display: none">
+                        <a href="http://i.autohome.com.cn/club/notice#pvareaid=101610" id="tz0" target="_blank"><span>查看通知</span></a>
+                    </p>
+                    <p style="display: none">
+                        <a href="http://i.autohome.com.cn/club/follower#pvareaid=101611" id="fs0" target="_blank"><span>查看粉丝</span></a>
+                    </p>
+                    <p style="display: none">
+                        <a href="http://i.autohome.com.cn/orderlist#pvareaid=101612" id="dd0" target="_blank"><span>查看订单</span></a>
+                    </p>
+                </div>
+            </li>
+            <li class="open loginli" lang="headsz"><a href="#">设置<em class="ico_v"></em></a>
+                <div class="t_layer t_set" lang="t_layer" style="display: none;">
+                    <p id="gwh" style="display: none;">
+                        <a href="http://club.autohome.com.cn/bbs/forum-o-2015624-1.html" onclick="this.href = '/bbs/forum-o-2015624-1.html?r=' + Math.random().toString().replace('.', '')" target="_blank"><span>管委会论坛</span></a>
+                    </p>
+                    <p id="banwu" style="display: none;">
+                        <a href="http://club.autohome.com.cn/bbs/forum-o-200053-1.html" onclick="this.href = '/bbs/forum-o-200053-1.html?r=' + Math.random().toString().replace('.', '')" target="_blank"><span>版务办公室</span></a>
+                    </p>
+                    <p id="banzhuxinxi" style="display: none;">
+                        <a href="http://club.autohome.com.cn/reg/masterinfo.html" onclick="this.href = '/reg/masterinfo.html?r=' + Math.random().toString().replace('.', '')" target="_blank"><span>版主资料</span></a>
+                    </p>
+                    <p id="banzhuqingjia" style="display: none;">
+                        <a href="http://club.autohome.com.cn/ClubOperation/MasterQingjia" target="_blank"><span>请假系统</span></a>
+                    </p>
+                    <p id="guanlihoutai" style="display: none;">
+                        <a href="http://iclub.autohome.com.cn/admin/newUserManage.html" target="_blank"><span>管理后台</span></a>
+                    </p>
+                    <p id="zhongguanhoutai" style="display: none;">
+                        <a href="http://club.autohome.com.cn/ClubOperation/GetMasterOpList" target="_blank"><span>中管后台</span></a>
+                    </p>
+                    <p id="qasteam" style="display: none;">
+                        <a href="http://zhidao.autohome.com.cn/steam/ulist" target="_blank"><span>解答团队</span></a>
+                    </p>
+                    <p>
+                        <a href="http://i.autohome.com.cn/setting/index" target="_blank"><span>个人资料</span></a>
+                    </p>
+                    <p>
+                        <a href="http://i.autohome.com.cn/setting/mobile" target="_blank"><span>手机绑定</span></a>
+                    </p>
+                    <p>
+                        <a href="http://i.autohome.com.cn/setting/password" target="_blank"><span>修改密码</span></a>
+                    </p>
+                    <p>
+                        <a href="http://i.autohome.com.cn/setting/privacy" target="_blank"><span>隐私设定</span></a>
+                    </p>
+                    <p>
+                        <a href="http://i.autohome.com.cn/setting/headmessage?pvareaid=102562" target="_blank"><span>消息设置</span></a>
+                    </p>
+                    <ins>分割线</ins>
+                    <p>
+                        <a href="http://account.autohome.com.cn/login/logout"><span>退出</span></a>
+                    </p>
+                </div>
+            </li>
+        </ul>
+
+        <ul id="nologin" class="t_right t_login" style="display: none">
+            <li><a id="headlogin" href="#">登录</a></li>
+            <li><a lang="headRegA" target="_blank" href="">注册</a></li>
+        </ul>
+        <div class="t_other"><a id="btn_otherclub" href="javascript:void(0)" class="s_btn">找论坛</a></div>
+        
+    </div>
+</div>
+<iframe style="display: none; background-color: #e3e3e3; position: absolute; z-index: 10000; left: 0; top: 0; display: none; width: 100%; height: 1000px; opacity: 0.5; filter: alpha(opacity=50); -moz-opacity: 0.5;"
+    id="back"></iframe>
+<div class="pop_forum" style="display: none;">
+    <div class="pf_inner">
+        <div class="pf_tt">
+            <h2 class="pf_tab">
+                <a class="cur" href="#" alink="/ajax/AllBBS">找论坛</a> <a href="#" alink="/ajax/SeariesBBS">全部车系</a> <a href="#" alink="/ajax/areaBBS">全部地区</a> <a href="#" alink="/ajax/ThemeBBS?201405081130">全部主题</a> <a href="#" alink="/ajax/motorBBS?201405131342">摩托车论坛</a>
+            </h2>
+            <a class="ico_close" href="javascript:void(0);">关闭</a>
+        </div>
+        <div class="pf_cont">
+        </div>
+    </div>
+</div>
+<div class="pop_login" style="display: none; text-align: left;">
+    <div class="pl_inner">
+        <div class="pl_tt">
+            <h2>用户登录</h2>
+            <a class="ico_close" href="javascript:void(0);">关闭</a>
+        </div>
+        <div class="pl_cont">
+            <dl class="pl_from pl_id">
+                <dt>账户：</dt>
+                <dd>
+                    <input type="text" id="loginName" lang="手机号/邮箱/用户名" style="color: #999;" /></dd>
+            </dl>
+            <dl class="pl_from pl_pw">
+                <dt>密码：</dt>
+                <dd>
+                    <input maxlength="25" type="password" id="loginPwd" /></dd>
+            </dl>
+            <dl class="pl_from pl_tv">
+                <dt>验证码：<span>输入右侧的字母和数字</span></dt>
+                <dd>
+                    <input type="text" id="loginValidateCode" /><img style="margin: 3 0 0 0; width: 100px; height: 22px; display: none;"
+                        id="loginValidateCodeimg" />
+                    <a id="vagueCodeA" href="javascript:void(0);">显示验证码</a>
+                </dd>
+            </dl>
+            <div class="pl_auto">
+                <input type="checkbox" id="loginIsSave" checked="checked" /><label for="auto" style="cursor: pointer">下次自动登录</label>
+                <a target="_blank" href="http://account.autohome.com.cn/password/find">忘记密码？</a>
+                <div id="loginErr" class="pl_auto" style="color: #fe6600">
+                </div>
+            </div>
+            <div class="pl_submit">
+                <a href="#" id="loginSubmit">登录</a>
+            </div>
+        </div>
+        <div class="pl_bb">
+            还未注册用户？&nbsp;&nbsp;&nbsp;<a lang="headRegA" target="_blank" href="http://account.autohome.com.cn/register">免费注册&gt;&gt;</a>
+        </div>
+    </div>
+</div>    <div id="topic_detail_main">
+        <!--start中间-->
+<div id="content" class="clear">
+    <div class="gotop02" id="gotop1">
+        <a href="#" class="gotop02-con car-enter menu-list">了解此车</a>
+        <div class="car-enter-pop" style="display: none;">
+            <div class="car-enter-wrap">
+                <div class="car-enter-top">去车系频道</div>
+                <div class="car-enter-list">
+                    <ul>
+                            <li><a href="http://www.autohome.com.cn/3413#pvareaid=103251" target="_blank">陆风X7 频道</a></li>
+                    </ul>
+                </div>
+                <div class="car-enter-bottom"></div>
+            </div>
+        </div>
+        <a href="http://www.autohome.com.cn/bug/default.aspx" class="gotop02-con" target="_blank"><i class="icon16-book3"></i><span>意见反馈</span></a>
+        <a href="#" id="gotop" class="gotop02-con" onclick="window.scrollTo(0, 0);return false;" style="display: none;"><i class="icon16-top"></i><span>返回顶部</span></a>
+    </div>
+    <!--主贴上方广告holder-->
+        <div class="advbox" style="height: 90px;" id="ad_960_1">
+        </div>
+    <!--start分页-->
+        <div class="pagearea">
+            <div class="pages fs">
+                <a href="forum-c-3413-1.html">返回列表</a>
+            </div>
+<div class="pages" id="x-pages1" maxindex="1"><span class="cur">1</span><span class="gopage"><input type="text" value="1" title="输入页码，按回车快速跳转" onkeydown="if(event.keyCode==13){tz.goPage(this)}" /><span class="fs" title="共 1 页"> / 1 页</span></span></div>            <div class="jfwen">
+                到第<span><input type="text" value="" class="topinp txtcenter" id="txtGoFloor1" maxlength="7"
+                    title="输入楼层数，按回车快速定位" onkeydown="if(event.keyCode==13){tz.goFloor(null,'txtGoFloor1')}" /></span>楼
+            </div>
+            <div class="fr mt-2 menuxt">
+                <a target="_blank" id="btnReply" href="http://ajax.club.autohome.com.cn/NewPost/Reply?bbs=c&bbsid=3413&topicId=46934283&fake_bbsid=3413#pvareaid=101759" class="fl topbuth ml10 cfff cursor  compatibleBj" onclick="return tz.checkLoginA(this,null,event)">
+                    回复</a>
+            </div>
+            <div class="fr mt-2 menuxt" id="divNewTopic">
+                <!--新增pv签101466-->
+                <a target="_blank" class="fl topbutx txtcenter c01439a compatibleBj" href="http://ajax.club.autohome.com.cn/NewPost/Post?bbs=c&bbsid=3413#pvareaid=101466" onclick="return tz.checkLoginA(this)" data-type="newpost">
+                    发新帖<i class="icon10 icon10-sjb"></i></a>
+                <div id="listNewTopic" class="menucon" style="display: none">
+                    <div>
+                        <a class="compatibleBj" target="_blank" href="http://ajax.club.autohome.com.cn/NewPost/Post?bbs=c&bbsid=3413#pvareaid=101466" onclick="return tz.checkLoginA(this)" data-type="newpost">
+                            发表新帖</a>
+                    </div>
+                    <div>
+                        <a class="compatibleBj" target="_blank" href="http://ajax.club.autohome.com.cn/trip/triptopic?bbs=c&bbsid=3413#pvareaid=103132" onclick="return tz.checkLoginA(this)">发游记</a>
+                    </div>
+                    <div>
+                        <a class="compatibleBj" target="_blank" href="http://ajax.club.autohome.com.cn/NewPost/Poll?bbs=c&bbsid=3413&urlbbsid=3413#pvareaid=101466" onclick="return tz.checkLoginA(this)">
+                            发起投票</a>
+                    </div>
+                    <div id="x-btn-NewParty" style="display: none">
+                        <a class="compatibleBj" target="_blank" href="http://ajax.club.autohome.com.cn/NewPost/Party?bbs=c&bbsId=3413&urlbbsId=3413#pvareaid=101466" onclick="return tz.checkLoginA(this)">
+                            发起活动</a>
+                    </div>
+                        <div>
+                            <a class="compatibleBj" id="btnNewQa" target="_blank" href="http://zhidao.autohome.com.cn/new.html?bbsid=3413&sid=3413#pvareaid=101466" onclick="return tz.checkLoginA(this)">
+                                提问
+                            </a>
+                            
+                        </div>
+                    <div>
+                        <a id="_icar" class="compatibleBj" target="_blank" title="出售爱车" href="http://i.che168.com/car/add/?isfree=1#pvareaid=101681">出售爱车</a>
+                        <div id="tip-_icar_c" class="club-tip" style="display:none">
+                            <div class="club-tip-content"><p>发布后可在<a href="http://www.che168.com/#pvareaid=101701" target="_blank" style="float:none;">二手车之家</a>查看并管理车源</p><p><a id="tip-_icar" href="javascript:void(0);" onclick="_icarHide()">我知道了</a></p></div>
+                            <span class="club-tip-left club-tip-arrow"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!--end分页-->
+    <div class="conopera" id="x-operate" style="display: none">
+    </div>
+    <!--start中间主体-->
+    <div class="conmain" id="cont_main">
+        <!--start楼主-->
+        <div id="maxwrap-maintopic">
+            <div class="consnav" id="consnav">
+                <span class="fr fon12">点击：<font id="x-views">133</font>&nbsp;|&nbsp;回复：<font
+                    id="x-replys">0</font></span> <span><a href="forum-c-3413-1.html" id="a_bbsname">陆风X7论坛</a></span><span
+                        class="gt">&nbsp;&gt;&nbsp;</span>
+                <span>美国道路交通安全管理经验借鉴</span>
+            </div>
+            <style type="text/css">
+
+            </style>
+            
+            <style type="text/css">
+                span.pic{min-height: 100px;}
+            </style>
+
+<script>tz.ownerType=0;</script>
+<a name="0"></a><a name="pid46934283"></a>
+<div class="clearfix contstxt outer-section" pk="46934283" uid="15361508" id="F0" data-time="20151111165135">
+    <!--start conleft-->
+    
+<div class="conleft fl">
+    <ul class="maxw">
+        <li class="txtcenter fw">
+            <a href="http://i.autohome.com.cn/15361508/home.html" target="_blank" class="c01439a" title="kamg888" xname="uname" style="vertical-align:middle;">kamg888</a><a href="/bbs/CarOwnercamp.html" class="crade" title="认证车主" onclick="return tz.checkLoginA(this,null,event)">&nbsp;</a>        </li>
+            <li class="txtcenter" style="position:relative; z-index:9;"><span>
+            <div class="lv-icon lv-stage1 lv-posi">
+		        <span class="lv-txt">LV 4</span>
+		        <div class="clear"></div>
+		        <div class="lv-tips" style="display:none">
+			        <div class="lv-tips-content">
+				        <div class="lv-progress-tit"><p class="fl">LV 4</p><p class="fr">LV 5</p></div>
+				        <div class="lv-progress-box">
+					        <div class="lv-progress">
+						        <div class="lv-progress-when" style="width:59.00%"></div>
+					        </div>
+				        </div>
+				        <div class="lv-curr"><span>4级</span>当前积分：377</div>
+			        </div>
+			        <span class="lv-tips-arrow"></span>
+		        </div>
+	        </div></span></li>
+            <li data-type="_title" class="txtcenter" style="position:relative; z-index:9;"></li>
+</ul>
+    <ul class="leftlist">
+        <li style="padding-top: 5px;">
+            <p class="imguser">
+<span class="news-icon"></span>                <a target="_blank" href="http://i.autohome.com.cn/15361508/home.html" class="c01439a">
+                    <img id="userprofileimg" onload="tz.userprofileimgLoaded(this)" src="http://www.autoimg.cn/album/userheaders/2015/10/30/6ff7d0dd-7bdd-44d0-b221-864766239caf_120X120.jpg" title="kamg888" alt="kamg888" onerror="fn_userImg120Error(this)" />
+                </a>
+            </p>
+        </li>
+        
+        <li class="overflow">
+                    <p class="leftgz fl" id="wrap_addfollower"></p>
+            <p id="wrap_sendmessage" class="leftxx fl ml10">
+                    <a href="http://i.autohome.com.cn/ajax/club/sendprivatemessages?userName=kamg888" target="_blank" class="c01439a">发信息</a>
+            </p>
+        </li>
+            <li>
+                精华：0帖
+            </li>
+        <li>帖子：<a target="_blank" title="查看" href='http://i.autohome.com.cn/15361508/bbs.html' class="c01439a">170帖</a><span>&nbsp;|&nbsp;</span><a title="查看" target="_blank" href='http://i.autohome.com.cn/15361508/bbs/reply.html' class="c01439a">394回</a></li>
+            
+                <li>注册：2015年2月20日</li>
+                <li>来自：<a title="查看该地区论坛" href="/bbs/forum-a-100006-1.html" target="_blank" class="c01439a">广东 广州</a></li>
+            
+
+                <li>所属：<a href="/bbs/carclub-c-3413-45749-1.html#pvareaid=103430" target="_blank" title="汽车之家陆风X7车友会">汽车之家陆风X7车...</a></li><li >爱车：<a class="craderz" href="/bbs/carOwnerCamp.html" target="_blank" onclick="return tz.checkLoginA(this,null,event)" title='我要申请成为认证车主'></a><a  target="_blank" title="陆风X7 2015款 2.0T 全景尊享版" href="/bbs/forum-c-3413-1.html#pvareaid=103121">陆风X7</a></li>
+    <li class="leftimgs clearfix" rowIndex="0" style="z-index:1;display:">
+        <div class="imgcon" data-xzid="205" data-xzname="家de报价员">
+                <a target="_blank" href="http://jiage.autohome.com.cn/topic/2015" onclick="">
+                    <img src="http://x.autoimg.cn/club/v1Content/images/Detail/badge/small/205.png?v=3" onerror="this.src='http://x.autoimg.cn/club/v1Content/images/Detail/badge/small/0.png?v=3'" style="cursor: pointer; width: 24px; height: 24px;"/>
+                </a>
+                <div class="contc" style="display: none;">
+                    <div class="contcjt">
+                        &nbsp;</div>
+                    <div class="contcmain">
+                        <div class="fl contcimg">
+                            <img src="http://x.autoimg.cn/club/v1Content/images/Detail/badge/big/205.png?v=3" onerror="this.src='http://x.autoimg.cn/club/v1Content/images/Detail/badge/big/0.png?v=3'" title="家de报价员" alt="家de报价员" /></div>
+                        <div class="fl userrycon">
+                            <a target="_blank" href="http://jiage.autohome.com.cn/topic/2015" onclick="">
+                                <h2>家de报价员</h2>
+                            </a>
+                            <p class="mt10">分享购车价格，点评购车服务感受，通过工作人员审核，特授予【家de报价员】专属勋章。</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div class="imgcon" data-xzid="158" data-xzname="解答达人一级勋章">
+                <a target="_blank" href="http://club.autohome.com.cn/bbs/thread-o-200054-32592021-1.html" onclick="">
+                    <img src="http://x.autoimg.cn/club/v1Content/images/Detail/badge/small/158.png?v=3" onerror="this.src='http://x.autoimg.cn/club/v1Content/images/Detail/badge/small/0.png?v=3'" style="cursor: pointer; width: 24px; height: 24px;"/>
+                </a>
+                <div class="contc" style="display: none;">
+                    <div class="contcjt">
+                        &nbsp;</div>
+                    <div class="contcmain">
+                        <div class="fl contcimg">
+                            <img src="http://x.autoimg.cn/club/v1Content/images/Detail/badge/big/158.png?v=3" onerror="this.src='http://x.autoimg.cn/club/v1Content/images/Detail/badge/big/0.png?v=3'" title="解答达人一级勋章" alt="解答达人一级勋章" /></div>
+                        <div class="fl userrycon">
+                            <a target="_blank" href="http://club.autohome.com.cn/bbs/thread-o-200054-32592021-1.html" onclick="">
+                                <h2>解答达人一级勋章</h2>
+                            </a>
+                            <p class="mt10">完成汽车之家&#183;知道升级任务，解答问答，并被提问者采纳为满意回答，可得解答达人一级勋章</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </li>
+
+            <li>
+                <div style="height:105px;width:120px;margin-top:10px;" class="wc-att-team" uid="15361508">
+                    <a href="http://i.autohome.com.cn/TenAnniversary/#pvareaid=104775" target="_blank">
+                        <img src="http://x.autoimg.cn/club/v1Content/images/10th_dim.png" width="120" height="105" />
+                    </a>
+                </div>
+            </li>
+        <li class="force-out"></li>
+    </ul>
+</div>
+
+    <!--end conleft and start conright-->
+    <div class="conright fr">
+        <div class="plr26 rtopcon">
+                <a class="rightbutlz fr" data-type="_copy" title="复制帖子链接到剪贴板" href="#" rel="0">楼主</a>
+                <div class="fr right-fun">
+                        <div id="wrapAutoLoadImg" style="display: none" title="开启/关闭 自动加载帖子全部图片的功能（网速给力的网友推荐开启，看图更爽哦～）">
+                            <div id="divAutoLoadImg">
+                                <input type="checkbox" id="chkAutoLoadImg" onclick="tz.clickAutoLoadImg(this.checked)" />
+                            </div>
+                            <span id="spanAutoLoadImg">自动加载图片</span>
+                        </div>
+                    <a id="xid-owner" href="/bbs/threadowner-c-3413-46934283-1.html#pvareaid=101435" class="c01439a fl">
+                        只看楼主
+                    </a><a href="#" class="c01439a fl" onclick="tz.collectTopic(this);return false;"
+                        id="x-collectTopic" style="color: Red">收藏本帖</a>
+                            <span class="position fl">
+                                <a href="javascript:void(0)" url="http://ajax.club.autohome.com.cn/ClubOperation/MasterRecommend?topicid=46934283&title=%c3%c0%b9%fa%b5%c0%c2%b7%bd%bb%cd%a8%b0%b2%c8%ab%b9%dc%c0%ed%be%ad%d1%e9%bd%e8%bc%f8&backurl=/bbs/thread-c-3413-46934283-1.html"
+                                   class="c01439a" onmousemove="javascript:document.getElementById('applyDesc').style.display='block';" onmouseout="javascript:setTimeout(divDispear,3000);" id="applyJingHua">申请精华</a>
+                                <div style="display:none;" id="applyDesc" class="pop pop02" onmousemove="javascript:document.getElementById('applyDesc').style.display='block';">
+                                    <div class="pop-content">
+                                        <div class="pop-content-info"><font style="font-size:12px;">申请精华并推荐给编辑，有上首页/精选日报的可能呦！</font><p><a target="_blank" href="http://club.autohome.com.cn/bbs/thread-o-200054-16397384-1.html">查看详情 &gt;&gt;</a></p></div>
+                                    </div>
+                                    <span class="pop-bottom pop-arrow"></span>
+                                </div>
+                            </span>
+                    <script>
+
+                        function divDispear()
+                        { document.getElementById('applyDesc').style.display = 'none'; }
+                    </script>
+                </div>
+            <span>发表于 </span><span xname="date">2015-11-11 16:51:35</span>        </div>
+        <div class="rconten">
+                <h1 class="rtitle">
+                    <div class="maxtitle">美国道路交通安全管理经验借鉴</div>
+                </h1>
+                <h3 class="rtitbq font12">
+                    &nbsp;
+                </h3>
+
+
+
+ 
+<div class="conttxt" xname="content">    
+    <div class="w740">
+    <div layer1="text-s"></div>海南省道路规划建设与交通安全管理赴美培训班，期间，先后到美国新泽西州、佛罗里达州及迈阿密市、伊利诺伊州及芝加哥市交通部门、教育培训部门和警察局等单位学习和考察，主要了解美国道路规划建设、日常维护、交通部门绩效管理、桥梁工程新趋势、智能交通系统、交通安全管理、交通事故调查及处理、公共交通规划、智能公交技术应用等。通过培训和考察，进一步开拓了视野，对美国道路交通管理有了亲身认识和体会，感受到美国交通管理先进管理理念和做法值得我们学习借鉴。<br />&nbsp;&nbsp;&nbsp;&nbsp;一、美国道路交通的主要特点<br />&nbsp;&nbsp;&nbsp;&nbsp;通过听取有关专家、学者及政府工作人员对美国及新泽西、芝加哥、迈阿密等地区道路交通管理的讲解介绍和考察，笔者对美国道路交通安全管理主要有以下几个方面的深刻印象：<br />&nbsp;&nbsp;&nbsp;&nbsp;（一）机动车保有量大，道路通行效率高。目前，美国机动车保有量超过2.85亿辆，机动车驾驶人数量约2.4亿，有“车轮上的国家”之称。高速公路交通流量很大，特别是上下班高峰期，车流如龙，望不到首尾。但车辆行驶有序，而且行驶速度都非常快，普通道路平均时速在50至70公里/小时，高速公路时速不低于100公里/小时，保持了较高的通行效率。<br />&nbsp;&nbsp;&nbsp;&nbsp;（二）通行秩序好，行车文明守法。在美国高速公路上，驾驶人自觉根据车型和行驶速度选择相应的车道行驶，很少来回变换车道超车。即使发生交通拥堵，车辆都自觉在本车道内排队等候，井然有序。在美国城市道路上，很多道路两侧都施划有停车位，使车辆有效通行宽度缩小，但很少出现拥堵。车辆在行驶中遇有行人横过道路时，都会主动减速停车，并示意行人先行。在芝加哥、迈阿密市区，有许多没有交通信号灯控制的小型交叉路口，车辆通过时都会停车t望，确认安全后方才通行。如果遇到其他方向有来车时，自觉按照先到先行、交替通行的原则，依次通过，表现出良好的交通守法意识和交通文明素质。<br />&nbsp;&nbsp;&nbsp;&nbsp;（三）路网结构合理，交通设施完善。美国公路十分发达，不仅路网纵横交错，路面宽阔，而且交通安全设施、管理设施完善，特别是道路上的交通标志、标线科学、充足，各种管理设施互相衔接、匹配性好。主要有以下几个特点：一是数量充足，有路便有标志标线，特别是限速、单行、指路等标志十分常见；二是设置合理，例如，高速公路出入匝道上的限速标志值是递进式设置，使高速行驶的车辆有时间逐步减速，符合车辆行驶的规律；三是内容简洁，信息量适中，易于辨识。在美国，无论城市道路或公路，指路标志设置规范、清晰、连续设置，只要按指路标志就可到达目的地；四是道路作业施工标志统一用橘红色，颜色鲜艳、明显，常与可变标志、警示灯具等配合使用，效果较好。在交通安全设施的设置上，注重实用、有效，并没有简单地全部加装护栏，有些公路双向并无隔离，仅在公路中央设置震动带，避免车辆驶入对向车道；有的高速公路两侧路缘还筑有凹槽带，用以提醒驾驶人，防止驶出路面。<br />&nbsp;&nbsp;&nbsp;&nbsp;（四）加强对未成年人的宣传教育，提高公民的安全意识。美国十分重视未成年人的交通安全教育，家长和学校从小就教育孩子驾车是一种危险行为，应对他人的生命负责，潜移默化地提高未成年人的安全意识、树立守法观念。据介绍，美国中小学校每学期第一周都要进行专门的安全教育，其中交通安全是重点内容。几乎所有的警察部门都与辖区中小学校合作，从一年级就开始进行交通安全教育，除在教室教育外，还采取派员教授驾驶知识、提倡中学生鼓励父母参加安全驾驶项目等多种形式，开展宣传教育。<br />&nbsp;&nbsp;&nbsp;&nbsp;二、美国道路交通管理成功经验<br />&nbsp;&nbsp;&nbsp;&nbsp;（一）具有健全高效的协调机制。美国联邦及各个州、郡县、城市的交通管理协调机制十分健全，各级政府都依法设有交通安全委员会，负责制定中长期交通规划，向州、郡县、市议会申请资金并分配到各部门和协调各有关部门的关系，组织研究通过立法、执法、工程教育等手段，解决突出的交通问题。交通安全委员会主要由警察、交通运输、法院、交通工程公司、保险公司、各类行业协会和志愿者组织等相关部门人员组成。各部门在政府交通安全委员会的强力主导和统筹协调下，依法履行各自的职责，相互协作配合十分到位。各级政府还会定期召集交通安全委员会各部门负责人召开专门会议，研究解决交通管理中遇到的各类具体问题。<br />&nbsp;&nbsp;&nbsp;&nbsp;（二）道路交通管理职责非常明确。在美国，道路交通管理各项工作有明确的职能部门负责，从法律层面上避免职能交叉、模糊或管理空白。运输部交通局负责道路建设，设置各类交通标志、标线等交通安全设施，管理所有交通信号设施，运用智能交通技术改善道路交通通行状况，公路交通监控信息系统全部由交通部门建设、管理，提供接口给警察部门使用；停车管理局负责制定所有占道停车规范，雇佣执法人员对违法停车开具罚单；车辆管理局负责机动车驾驶执照和号牌核发；警察局负责现场执法，先期处置交通事故现场；交通法庭负责当事人交通违法行为或交通事故的民事或刑事处罚。<br />&nbsp;&nbsp;&nbsp;&nbsp;（三）交通设施建设和管理资金来源法定，投入大。联邦及各级政府用于支出高昂的交通设施建设管理费用的主要渠道是燃油税，其中包括法定和地方非强制性燃油税。如2014年，佛罗里达州交通局获得用于改善交通设施和管理的预算是88亿美元，其中就包括公共交通发展补助金和交通安全项目经费。<br />&nbsp;&nbsp;&nbsp;&nbsp;（四）道路路网规划超前合理。美国的道路规划与建设主要集中在上世纪60年代，而且道路路网规划科学合理，建设设计标准高、至今都不显得落后。考察期间，笔者发现：一是高速公路连接各个城市，路幅宽，设施全，乘载城市间近90%的流量，城市都有绕城高速公路，车辆过境和进城可以从就近或方便的路口绕行和进入城区，有效分流交通，避免车辆集中在少数一两条道路；二是高速公路建设路基坚固。高速公路路基都铺有钢筋，非常坚固，极少大修，路面损坏维修简便；三是城市道路成网，主干道、次干道、支路配置合理，支路多，路网密度大，这为实施单向交通、交通组织及路边停车提供了良好的基础条件。在芝加哥、迈阿密等多数城市市区，道路大量采用单向行驶，效果很好；四是针对市民多数居住在城区外，工作场所在市内的特点，一些进出城道路在早晚高峰期采用可变车道；五是针对购物消费对市内交通的影响，大型购物超市一般都分散分布，设置在城市边缘，而且紧邻高速公路、快速路进出路口附近，交通便利；六是美国即便是出行以机动车为主（美国平均每100人拥有近80辆机动车），政府在城市道路上也会根据需求设有自行车专用道；七是城市停车管理规范合理。美国通过立法规定建筑物必须建有与之相匹配的停车场或其他停车设施，由于执行严格到位，一方面城市停车场很多，有的停车场相当大，大型停车场建在交通枢纽、城郊结合部，鼓励换乘公共交通进入城区，另一方面限制中心城区停车位配置，严格路边停车收费管理。美国各个城市根据具体情况普遍利用不同停车收费费率、时间限制等措施进行停车管理，通过经济手段减少中心城区交通量和占用停车位时间。<br />&nbsp;&nbsp;&nbsp;&nbsp;（五）道路交通安全设施齐全实用。美国道路交通安全设施设置主要有以下特点：一是不论是公路还是城市道路，标志数量很多，连续性好，指路、提示性、单行线、限速标志较为常见，警告性标志较少。路口、事故多发、上下坡、弯道、行人、动物穿行等需要特别提醒注意的路段，必然设置相关标志；通过标志明确，路口内不论绿灯还是红灯禁止停车，因此即使是路段上车辆很多或拥堵，路口始终都保持畅通；由于路面铺装质量好，路面交通标线很清晰，而且划线精确、合理，路口使用标线渠化，车辆安全行驶轨迹明了。据介绍，美国交通安全法律规定很具体、详细，对交通参与者来讲，具有很强的操作性和约束力，因此必须依靠规范、清晰、醒目的交通标志标线告知驾驶人。二是标志内容简洁，文字图形没有附带广告色彩，真正发挥交通语言的作用。特别是指路标志，与欧洲国家类似，使用一块一块的条形板，即可标明。三是由于路网密度高，支路多，支路进入主干道都设置了让行标志标线。由于单行路多，出口两侧都会设有警告标志，而且路边停车使用不同的颜色标线标明限制停车的时间。<br />&nbsp;&nbsp;&nbsp;&nbsp;（六）重视重点车辆交通安全管理。美国对营运车辆的管理较之普通车辆更加严格。主要表现在：一是通过号牌区别于其他车辆；二是获得驾驶营运车驾驶资格的商业车驾驶证的考试难度较大，准入门槛高；三是警察局一般都设有专业执法队伍，专门查处营运车辆违法行为，而且营运车驾驶人驾驶营运车时，每天都要填写交通运输部统一印制的驾驶日志，供执法人员检查。<br />&nbsp;&nbsp;&nbsp;&nbsp;（七）重视严重交通违法行为的查处。美国对交通违法的罚款并不高，轻微违法行为或初犯，警察可以进行教育后放行，但对严重交通违法行为，采取严格的管理措施。一是实行保险费率、个人信用与交通违法行为挂钩，保险公司根据驾驶人安全驾驶记录，每年调整保险费率；警察局将驾驶人违法行为及处罚情况信息记入个人信誉档案后，驾驶人在贷款、就业等方面会受到一定影响；二是对严重交通违法行为处罚力度很大。高速公路24小时巡逻执勤，至少每10公里左右部署1名警察一辆警车（夜间2名警察），城市街道设置检查点，严查超速、酒驾、不系安全带、占道行驶等行为。美国酒驾也很多，查处量也很大，目前对醉酒驾驶处罚比我国相对轻些。三是推行交通违法行为处罚累进制，同一类的违法行为处罚后再次违法的，加大罚款额，大幅提高违法成本。四是实行类似我国违法记分的交通违法记点制度，驾驶人在三年内不能超过9个点的违法记录，超过9个点，驾驶证将被扣留。同时，驾驶人也可以花钱到驾校上8个小时的交通安全课，学完课时可以消点，但8个月内只允许1次。五是美国警察局在一些节假日（如感恩节）等时间节点也开展专项行动，与交通局、汽车联合会等组织开展交通安全宣传教育活动，通过媒体广泛报道。<br />&nbsp;&nbsp;&nbsp;&nbsp;三、对我省道路交通安全管理工作的启示<br />&nbsp;&nbsp;&nbsp;&nbsp;尽管我国与美国在社会制度、经济发展、历史文化、地理环境、管理水平等方面存在差异，尤其是我省道路交通基础条件差，低等级公路占比大，安全设施设置不齐全、不规范，城市道路、公路混合交通，交通工具复杂多样，驾驶人、行人交通安全意识、法律意识参差不齐，短期内难以改变。要达到美国的先进管理水平，还需要长期不懈的努力。党的十八届四中全会通过了《中共中央关于全面推进依法治国若干重大问题的决定》，提出了依法治国的新观点、新举措，结合新形势、新要求，笔者认为，美国的成功经验、先进理念、管理方法，在我们依法推进道路交通管理，提高海南国际旅游岛交通安全管理水平上有许多值得我们认真思考、学习和借鉴的地方。<br />&nbsp;&nbsp;&nbsp;&nbsp;（一）切实提高依法实施交通规划的意识。美国之行给我们深刻印象的是建成于上世纪40年代至60年代的城市道路、高速公路，仍然有效发挥正常交通功能，城市路网结构、高速公路规划，延续至今不落后，道路基础设施不需要大规模反复维修；美国联邦、各州都要制定并实施交通安全规划，持续推进法规、教育、工程的“三E”工程为重点的道路交通安全措施，取得良好效果。我省各级政府，应当切实重视依法制定和实施交通规划，这是当前预防道路交通事故、治理日益严重的城市交通拥堵的短板，要在科学规划路网结构、道路设计，切实提高道路基础设施建设技术标准和质量，增强交通管理队伍专业素质，提高交通科技管理水平，提高交通参与者素质，推进社会化管理程度等各个方面，制定省、县市交通管理中长期规划，经过审核并分步骤、分阶段组织实施，切实解决“头痛医头、脚痛医脚”，偏重短期、不顾长效的行为。当前最紧要的就是根据市县发展规划，编制制定交通安全规划、城市停车规划、公共交通规划、慢行交通规划，加强源头、基础性建设，推动道路交通可持续发展。<br />&nbsp;&nbsp;&nbsp;&nbsp;（二）依法建立道路交通管理委员会。美国交通管理委员会是法定的，各部门不履行职责就违法。我省虽然建立了省级道路交通安全联席会议，个别市县政府建立了道路交通安全联席会议或委员会，但在牵头运作、成员组成、协调配合、发挥效果等方面远远不够，特别是部门的职责和协调配合办法、方式没有细化，还可以将相关的协会、科研机构等社会组织接纳进来，扩大影响面。应当在省、县市、乡镇三级政府中依法建立道路交通管理委员会，明确职责，明确组成形式，形成决策机构，定期研究解决实际问题。在定期报告，督导问责等方面有所创新，并在法律层面上加以固化，以增强依法履职意识和工作主动性。<br />&nbsp;&nbsp;&nbsp;&nbsp;（三）增强科学管理意识和服务意识。近年来，我省道路交通科技化管理水平有了长足发展，交通指挥中心建设、交通监控设备等硬件设备的安装使用进一步扩展，但是从整体管理理念、管理方法的科学性、服务性等软件方面仍存在很大差距。一是道路交通科技化建设各自为政，公安、公安交警部门、交通公路部门、交通运输管理部门、信息管理部门、运输企业等，从各自部门的角度出发建立的监控设备，不能有效整合管理资源，收集的信息无法实现资源共享，重复建设、资源浪费，社会效果不理想。二是由于职能部门管理职责不同，建立的监控设备采集的信息一般都是从自身部门管理的需要，而真正将收集的信息进行整理、分析后提供和服务大众做得不够。笔者认为，我们应当更多地学习美国统一采集交通信息并及时权威发布，政府及社会高度共享的管理模式。如美国的“511”交通旅游资讯服务系统、建在公路上的LED可变信息屏、互联网、交通电台等都可以及时向公众发布道路信息，而且这些信息都是实时、准确和直观的。比如佛罗里达州交通局实行的绩效管理对交通管理中心绩效指标要求：公路发生交通事故、交通堵塞等紧急情况，2分钟内做出反应、3分钟内在公路可变交通信息显示屏显示信息、3分钟内派遣服务巡逻、3分钟内发布到“511”、5分钟内发布公路路况广播，“511”每30分钟更新一次信息，这点我们的差距和发展空间都很大。我们应当通过科技手段整合各部门在高速公路、主要国省道、旅游公路以及旅游景区道路的动态、静态交通信息，建立常态的信息发布机制，为公众提供动态、实时、准确的交通信息服务。<br />&nbsp;&nbsp;&nbsp;（四）建立交通专业救援服务队伍。美国警察除了执法，还要为公众提供救助服务，而且对求助有求必应，遇到困难还会主动询问是否需要帮助。同时，还有专业救援队伍，救援队伍车上都会配备各种救援工具、修理工具、急救包、药品等等，救援人员业务熟练，熟悉急救常识、技能。我省现有高速公路973公里，规划的高速公路全部建成后将达到1400多公里，但是没有专业救援队伍，发生重大交通事故，往往因为救援不及时、道路不能及时清理、人员不能及时抢救，造成人员伤害加重、公路长时间堵塞等问题。因此，可以借鉴美国经验，走紧急救援工作社会化的路子，成立专业救援公司进行运作，培训专业救援人员，政府提供一定的资金补贴，向社会购买服务，填补我省高速公路甚至普通公路紧急专业救援缺失的空白。<br />&nbsp;&nbsp;&nbsp;（五）严格高速公路施工管理。近年来，我省高速公路施工不规范造成的伤亡交通事故时有发生，施工单位施工人员、车辆驾驶人安全保障不到位，施工路段管理不到位，车辆逆行、行人随意上路，事故隐患大。因高速公路施工安全防护设施设置不规范造成交通事故死伤时有发生。考察期间，笔者发现，美国在高速公路上的养护施工安全保障非常到位：一是机械化程度高，使用先进技术，减少施工时间，且单次施工路段短，面积小；二是施工时间尽量在交通流量少的夜间，天亮后即可恢复交通；三是保障安全的标志、标牌、隔离设施数量多、密度大，使用橘红色灯具和可变电子显示屏，非常醒目。佛罗里达州对道路基础设施日常维护实行“养护工程评估”，提供可以用于优化日常养护的信息，满足部门工作目标的统一标准。我省公路路政部门、交警应当依法强化公路施工的监督管理，督促施工单位严格规范设置安全防护设施，科学安排施工时间，避开节假日和流量大的时间段，施工不得围而不动和无故拖延，施工完毕立即撤离相关设施，发现问题应当及时整改，整改不到位应当实施处罚。<br />&nbsp;&nbsp;&nbsp;（六）强化道路交通安全隐患治理。美国非常重视交通事故发生的原因、特点、规律的分析研究，每一起交通事故发生，都要求写出详细的报告，从相同类型的事故中寻找预防事故的对策，属于机动车驾驶人原因的，将对策措施通过媒体公布，起警示教育作用；属于道路安全隐患的，警察局将在定期召开的交通委员会会议上提出，研究达成一致意见，安排资金，交通部门将会立即进行整改。我省公安交警部门历年来排查的一些公路交通安全隐患，向政府报告，通报给交通、安监部门，往往得不到有效及时治理，隐患长期存在，一些路段类似的事故经常发生。笔者认为，依法建立道路交通管理委员会，是治理交通安全隐患的关键环节之一。只有依法建立和完善长效管理机制，才能充分发挥政府主导，各部门依法联动，依法履行管理职责，落实监督管理的作用。<br /><br />作者：海南省公安厅交警总队总队长&nbsp;陈鸿飞<div layer1="text-e"></div><br />
+    </div>
+</div>                <div id="_ec_item" class="forum-EC-wrap-2" style="display:none"></div>
+                <ul class="contxtul louzoulog" style="display:none" cnt="0">
+                    <li class="ultitb">
+                        <p>
+                            用户名
+                        </p>
+                        <p>
+                            操作
+                        </p>
+                        <p>
+                            操作时间
+                        </p>
+                        <p class="conulqb" style="display:none">
+                            <a href="#" onclick="tz.showTopicOpLog(this);return false;">查看全部</a>
+                        </p>
+                    </li>
+                </ul>
+            
+        </div>
+    </div>
+    <!--end conright-->
+    <div class="clear" style="_height: 1px">
+        &nbsp;
+    </div>
+    <div class="conbottoms-main">
+        <div id="__recom" class="list-recommend list-recommend_b-test" style="display:none">
+            <div class="list-recommend-tt"><a class="fr" href="http://club.autohome.com.cn/jingxuan#pvareaid=2059102" target="_blank" title="查看更多精选帖子">查看更多精选帖子>></a><h4 class="list-recommend-tit">推荐阅读</h4></div>
+            <div class="list-recommend-con"><ul></ul></div>
+        </div>
+
+            <div class="plr37 mb5">
+                签名：
+汽车之家 我的旅途            </div>
+            <div class="conbfx">
+                分享到：
+                <span class="share share01 fn-clear" id="share1">
+                    <a class="share-weixin share-item" href="javascript:void(0)" title="分享到微信好友" onclick="_trackEvent.push({'eid':'1|3|48|0|200123|300161','val':1,'a1':'','a2':''});"><i class="icon icon20 icon20-weixin1"></i></a><a class="share-weibo share-item" href="javascript:void(0)" title="分享到新浪微博"><i class="icon icon20 icon20-weibo1"></i></a><a class="share-friend share-item" href="javascript:void(0)" title="分享到朋友圈" onclick="_trackEvent.push({'eid':'1|3|47|0|200122|300160','val':1,'a1':'','a2':''});"><i class="icon icon20 icon20-friend1"></i></a><a class="share-qzone share-item" href="javascript:void(0)" title="分享到QQ空间"><i class="icon icon20 icon20-qzone1"></i></a><a class="share-qq share-item share-item-last" href="javascript:void(0)" title="分享到QQ好友"><i class="icon icon20 icon20-qq1"></i></a>
+                </span>
+            </div>
+
+        <div class="conbomhf">
+            <div>
+                <p class="fr" style="">
+                    <a id="rf0" title="回复并短消息通知楼主" showtitle="回复并短消息通知楼主" hidetitle="收起回复"
+                                        href="#" onclick="tz.quoteReply(this);return false;">回复楼主</a>
+                </p>
+                <p class="fr">
+                    <span id="x-TopicOpt"></span>
+                </p>
+                <p class="fl ad-topic0-items">
+                    <span class="ad-topic0-item" id="ad_word_11"></span><span class="ad-topic0-item" id="ad_word_12"></span><span class="ad-topic0-item" id="ad_word_13"></span>
+                </p>
+                <a>&nbsp;</a>
+            </div>
+            <div class="replycon mt15" style="display: none">
+                <p class="replyjt">
+                    &nbsp;
+                </p>
+                <div class="qt">
+                    引用 kamg888 2015-11-11 16:51:35 发表于 主楼 的内容：
+                </div>
+                <div class="replydiv">
+                    <textarea class="replytext c999"></textarea>
+                </div>
+                
+                <div class="replbut">
+                    <div>
+                        <input name="yyhf" type="button" value="发表回复" class="cursor repbuthf cfff fr" onclick="tz.sendYY(this)" /><span class="fr">禁止发布色情、反动及广告内容！</span>
+                        <p class="repbut forpic fl">
+                            <a href="http://ajax.club.autohome.com.cn/NewPost/Reply?bbs=c&bbsid=3413&topicId=46934283&kshf=y" class="compatibleBj c595759" target="_blank" title="打开高级回复页面(可上传多图、插入相册图片)" onclick="return _club.ar(this);">
+                                高级模式
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+        <!--end楼主-->
+        <script type="text/javascript">
+            //tz.clickAutoLoadImg = function (checked) {
+            //    if (arguments.callee.caller.arguments[0] && arguments.callee.caller.arguments[0].currentTarget.id == "spanAutoLoadImg") { $("#chkAutoLoadImg")[0].checked = !checked; checked = !checked; }
+            //    $("#spanAutoLoadImg").className = checked ? 'on' : 'off';
+            //    Z.LocalStore.set("AutoLoadImg", checked ? "y" : "n");
+            //    setTimeout(function () {
+            //        checked && tz.autoLoadImg();
+            //    }, 200);
+            //    Z.showMsg(checked ? "开启图片自动加载功能 [设置已保存]" : "关闭图片自动加载功能 [设置已保存]");
+            //};
+            var micro_v_multiple_w=1.2,micro_v_multiple_h=1.2;
+            tz.source="PC.CARD";
+        </script>
+        <script src="http://x.autoimg.cn/club/v1Content/js/Detail/merge-all-v117.js?201512181041" type="text/javascript"></script>
+        
+        <script src="http://x.autoimg.cn/club/v1Content/js/showwindow.min.js?201410291703" type="text/javascript"></script>
+
+        <script type="text/javascript">
+            
+            tz.loadXCacheData= {"ip":"120.236.164.109","topicClose":0,"bbsState":0,"masterList":[9161051],"tRefine":0,"CU_MureState":0,"deled":false,"isFanKui":false,"isZJYMaster_ZJY3":false};
+            tz.topicId=46934283;
+            tz.topicTitle = "美国道路交通安全管理经验借鉴";
+            tz.bbs="c";
+            tz.bbsid=3413;
+            tz.bbsName="陆风X7论坛";
+            tz.pageIndex=1;
+            tz.pageSize=20;
+            tz.maxPageIndex=1;
+            tz.recordCount=0;
+            tz.UID=-2;
+            tz.topTopicOwnerId=15361508;
+            tz.topicType=0;
+            tz.lookMaster=location.href.indexOf("threadowner")!=-1;
+            tz.replys=-1;
+            tz.ownerName="kamg888";
+            $("#divNewTopic").hover(function () {$("#listNewTopic", this).show()}, function () {$("#listNewTopic", this).hide()});
+            tz.isDeleted = 0;
+            tz.uniquePageId = "pcHKSfygorENFXn9UgR2r0wyEKOJTHEXkg4WSNgs2IE=";
+            $(function ($) {_club.brandShow(3413); });
+        </script>
+        <script type="text/javascript"> try {$('div[data-vid]').each(function (i, k) { $(this).html('<p>' + $(this).attr('data-ref') + '</p>') });$('embed').each(function () { this.outerHTML = '<p>' + $(this).attr('src') + '</p>' });}catch(e){}</script>
+        <!--start回复-->
+            <div id="maxwrap-reply">
+            </div>
+        <!--end回复-->
+    </div>
+    <a name="quickReply"></a>
+    <!--start分页-->
+    
+        <a id="gotoKSRelpy"></a>
+        <div class="pagearea fr" style="padding-bottom: 5px">
+            <div class="pages fs">
+                <a href="forum-c-3413-1.html">返回列表</a>
+            </div>
+            <div class="pages" id="x-pages2" maxindex="1"><span class="cur">1</span><span class="gopage"><input type="text" value="1" title="输入页码，按回车快速跳转" onkeydown="if(event.keyCode==13){tz.goPage(this)}" /><span class="fs" title="共 1 页"> / 1 页</span></span></div>
+            <div class="jfwen">
+                到第<span><input type="text" value="" class="topinp txtcenter" id="txtGoFloor2" maxlength="7"
+                    title="输入楼层数，按回车快速定位" onkeydown="if(event.keyCode==13){tz.goFloor(null,'txtGoFloor2')}" /></span>楼
+            </div>
+        </div>
+            <div class="clear">
+            </div>
+            <div>
+                    <div id="ad_960_3" style="height: 90px;" class="advbox">
+                    </div>
+                <div style="clear: both; height: 10px;" id="ad_960_1_Dis">
+                </div>
+            </div>
+    <!--end分页-->
+    <!--start快速回复-->
+    <div class="clear" style="height: 13px;">
+        &nbsp;
+    </div>
+    <div class="reply" id="ks-reply-wrap">
+        <table class="ks-reply">
+            <tr>
+                <td class="l">
+                    <div class="replyleft">
+                        <ul class="leftlist" style="margin: 0; margin-top: 8px; padding: 0">
+                            <li class="txtcenter"><a xname="aCurrUser" target="_self" href="javascript:autohome.login()" class="c01439a">
+                                                      <span id="CurrUserName-Last"></span></a></li>
+                        </ul>
+                        <ul class="leftlist">
+                            <li>
+                                <p class="imguser">
+                                    <a xname="aCurrUser" target="_self" href="javascript:autohome.login()" class="c01439a">
+                                        <img src="http://x.autoimg.cn/club/v1Content/images/Detail/user120_default.gif"
+                                             width="120px" alt="您的用户头像" title="您的用户头像" id="CurrUserHeadPic-Last" onerror="fn_userImg120Error(this)" /></a>
+                                </p>
+                            </li>
+                        </ul>
+                    </div>
+                </td>
+                <td class="r">
+                    <div class="replytdiv">
+                        <div class="suspend-reply" id="suspend-replys" style="display:none">系统维护中， 回复暂不可用，预计04:00恢复，给您带来的不便敬请谅解~</div>
+                        <textarea class="replytextb" id="ks_reply_txt" style="display: none"></textarea>
+                    </div>
+                    <script>                        tz.$("ks_reply_txt").value = tz.RCDT</script>
+                    <div class="replbut">
+                        <p class="repbut mr5">
+                            <a href="http://ajax.club.autohome.com.cn/NewPost/Reply?bbs=c&bbsid=3413&topicId=46934283&kshf=y" class="compatibleBj c595759" target="_blank" title="打开高级回复页面(可上传多图、插入相册图片)" onclick="return tz.checkLoginA(this,null,event)" id="replyAdvanced">
+                                高级模式</a>
+                        </p>
+                        <p class="fl c595759 ml10" id="word_count">
+                            0/5000字
+                        </p>
+                        <div class="fl ajax_loader1" style="color: green; padding-top: 2px; margin-left: 10px;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             display: none" id="KsReplyLoading">
+                            正在提交回复,请稍候...
+                        </div>
+                        <div class="fr mr5">
+                            <p class="fl c01439a lineh27">
+                                <a target="_blank" href="http://club.autohome.com.cn/Help/UserHelpRlue#rule">
+                                    汽车之家论坛规范公示&nbsp;</a>
+                            </p>
+                            <input type="button" value="发表回复" class="cursor repbuthf cfff fl" onclick="tz.sendKS(this)"
+                                   id="btnSendKS" />
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+<script type="text/javascript">
+    $(".compatibleBj").each(function(){
+        var href = $(this).attr("href");
+        if (href.indexOf("#pvareaid") == -1) {
+            $(this).attr("href", href + tz.getfromBjParam());
+        } else {
+            $(this).attr("href", href.replace(/#pvareaid=\d/i,
+                function(matchTarget) { return tz.getfromBjParam() + matchTarget; }
+            ));
+        }
+    });
+
+    var zdtip = Z.getCookie('tip-detail-iknow');
+    if (zdtip != 1) {
+        $("#tip-btniknow").on("click", function() {
+            $("#tip-iknow").hide();
+            Z.setCookie("tip-detail-iknow", 1, 999);
+        });
+        $("#tip-iknow").show();
+    }
+    var $btnNewQa = $("#btnNewQa");
+    $btnNewQa.click(function() {
+        $btnNewQa.attr('href', $btnNewQa.attr('href').replace('&from_bj=0', ''));
+    });
+</script>
+    <script type="text/javascript">
+        $(function($){$("div.imgcon").on("mouseover",function(){$(this).find("div.contc").stop().show(10)}).on("mouseout",function(){$(this).find("div.contc").hide()})})
+    </script>
+    <script>
+        jQuery("#floatsharebtn").hover(
+            function () {
+                $("#consnav-share-plane").show();
+                if(null != scbtn_settimeout) clearTimeout(scbtn_settimeout);
+                $('#applyDescSC2').hide();}
+            , function () {scbtn_settimeout = setTimeout(function(){jQuery('#consnav-share-plane').hide()},1000);});
+        var scbtn_settimeout = null;
+        jQuery('#scBtn').hover(
+            function(){if(this.innerHTML=='收藏'){jQuery('#applyDescSC2').show();}}
+            ,function(){scbtn_settimeout = setTimeout(function(){jQuery('#applyDescSC2').hide()},3000);}
+        );
+    </script>
+    <!--bshare js-->
+    <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=9f409079-1c51-4924-b4d4-b330a4af81dc&amp;pophcol=1&amp;lang=zh"></script>
+    <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+
+    <script type="text/javascript">
+        function shareInit(e){var t=function(t,r){this.elem=e(t),this.options=r};t.prototype={constructor:t,toggle:function(){return this[this.isShown?"hide":"show"]()},show:function(){var t=this,r=e.Event("show");t.elem.trigger(r),t.isShown||r.isDefaultPrevented()||(t.isShown=!0,t.elem.show().trigger("shown"),"click"==t.options.trigger&&setTimeout(function(){e(document).on("click.overlay.d",function(r){var a=e(r.target).closest(t.elem);0==a.length&&a!=t.elem&&(t.hide(),e(document).off("click.overlay.d"))})},0))},hide:function(t){t&&t.preventDefault();var r=this;t=e.Event("hide"),r.elem.trigger(t),r.isShown=!1,r.elem.hide().trigger("hidden"),e(document).off("click.overlay.d")}},e.fn.overlay=function(r){return this.each(function(){var a=e(this),n=a.data("overlay"),o=e.extend({},e.fn.overlay.defaults,a.data(),"object"==typeof r&&r);n||a.data("overlay",n=new t(this,o)),"string"==typeof r?n[r]():o.show&&n.show()})},e.fn.overlay.Constructor=t,e.fn.overlay.defaults={show:!0},e(function(){e(document).on("click.overlay.data-api",'[data-trigger="click"][data-toggle="overlay"]',function(){var t,r=e(this),a=e(r.attr("data-target")||(t=r.attr("href"))&&t.replace(/.*(?=#[^\s]+$)/,"")),n=a.data("overlay")?"toggle":e.extend({},a.data(),r.data());a.overlay(n)}),e(document).on("hover.overlay.data-api",'[data-trigger="hover"][data-toggle="overlay"]',function(t){var r,a,n=e(this),o=e(n.attr("data-target")||(r=n.attr("href"))&&r.replace(/.*(?=#[^\s]+$)/,"")),i=function(){a=o.data("overlay"),a&&(a._hoverTimer=setTimeout(function(){o.overlay("hide")},50))};switch(t.type){case"mouseenter":n.data("timer",setTimeout(function(){o.overlay("show"),a=o.data("overlay"),a.hasHoverEvent||(o.hover(function(){a._hoverTimer&&clearTimeout(a._hoverTimer)},i),a.hasHoverEvent=!0)},n.attr("data-delay")||1));break;case"mouseleave":clearTimeout(n.data("timer")),i()}})});var r=function(t,r){var a=this;a.$elem=e(t),a.$weixin=e(".share-weixin",a.$elem),a.$weibo=e(".share-weibo",a.$elem),a.$qzone=e(".share-qzone",a.$elem),a.$friend=e(".share-friend",a.$elem),a.$qq=e(".share-qq",a.$elem),a.options=r,a.init()};r.prototype={constructor:r,init:function(){var t=this;t.$weixin.click(function(t){bShare.share(t.originalEvent,"weixin",0);var r=e("#bsWXBox"),a=e(".bsTop span",r);return a.eq(0).html("扫描分享到微信好友或微信朋友圈"),a.eq(0).css("marginLeft",8),a.eq(1).html(""),!1}),t.$weibo.click(function(e){return bShare.share(e.originalEvent,"sinaminiblog",0),!1}),t.$qzone.click(function(e){return bShare.share(e.originalEvent,"qzone",0),!1}),t.$friend.click(function(t){bShare.share(t.originalEvent,"weixin",0);var r=e("#bsWXBox"),a=e(".bsTop span",r);return a.eq(0).html("扫描分享到微信好友或微信朋友圈"),a.eq(0).css("marginLeft",8),a.eq(1).html(""),!1}),t.$qq.click(function(e){return bShare.share(e.originalEvent,"qqim",0),!1}),e(document).click(function(t){0==e(t.target).closest("#bsWXBox").length&&e("#bsWXBox").hide()})}},e.fn.share=function(t){return this.each(function(){var a=e(this),n=a.data("share"),o=e.extend({},e.fn.share.defaults,a.data(),"object"==typeof t&&t);n||a.data("share",n=new r(this,o)),"string"==typeof t?n[t]():o.show&&n.show()})},e.fn.share.Constructor=r};shareInit($);$("#share_pop").share();$("#share1").share();
+    </script>
+
+    <script>
+        $(function() {
+            //修正引用定位楼层问题 zouxh add at 20140224
+            $('.relyhfcon').find("p:first>a:last").live('click',function() {
+                var href = $(this).attr('href');
+                var m = href.match(/(\d+).html#(\d+)/i);
+                var floor = parseFloat(m[2]);
+                var p = parseInt(m[1]);
+                var val = Math.ceil(floor / 20);
+                if (val == p)
+                    return true;
+                else {
+                    $(this).attr('href', href.replace(p + ".html", val + ".html"));
+                    return true;
+                }
+            });
+
+            //最终页内容中除楼层锚点链接在本窗口打开，其他链接均在新窗口中打开 zouxh add at 20140228
+            $('div[xname] a').live('click', function() {
+                var href = $(this).attr('href')||'';
+                href = href.replace("http://club.autohome.com.cn","");
+                if (href.length == 0 || /javascript:/i.test(href)) return false;
+                if (/^(?:\/bbs\/thread-\w-\d+-\d+-\d+\.html)?#(?:\d+)?$/i.test(href)) {
+                    window.location.href=href; //当前页楼层跳转后，触发tz.autoLift();
+                    tz.autoLift();
+                    return false;
+                }
+                $(this).attr('target', '_blank');
+                return true;
+            });
+        });
+
+        //返回顶部悬浮框js
+        $(function () {
+            var gotop = $("#gotop");
+            if (gotop.length == 0) return;
+            var ie6 = $.browser.msie && (parseFloat($.browser.version || 6) < 7);
+            var $window = $(window);
+            if (ie6) {
+                var $gotop1 = $('#gotop1').css({ position: "absolute" });
+                gotop.css("visibility", "hidden").css("display", "");
+                $window.bind("scroll touchend", function () {
+                    var st = $window.scrollTop();
+                    if (st > 200) gotop.css("visibility", "visible");
+                    else { gotop.css("visibility", "hidden").css("display", ""); }
+                    $gotop1.css({ 'bottom': '', 'top': st + $window.height() - $gotop1.outerHeight() - 10 });
+                });
+            }
+            else {
+                $window.bind("scroll touchend", function () {
+                    $window.scrollTop() > 300 ? gotop.fadeIn(300) : gotop.fadeOut(200);
+                });
+            }
+
+            $('#gotop1 a.menu-list').live('mouseover', function () {
+                $(this).next().show().one('mouseover', function () {
+                    $(this).data('overin', 1).one('mouseleave', function () {
+                        $(this).hide().removeData('overin');
+                    });
+                });
+            }).live('mouseleave', function () {
+                var $pop = $(this).next();
+                setTimeout(function () {
+                    $pop.toggle($pop.data('overin') == 1);
+                }, 100);
+            });
+        });
+
+
+        (function(){
+            var _tm=null;
+            $('div.lv-icon').mouseover(function(){ var k=$(this);window.clearTimeout(_tm); _tm=window.setTimeout(function(){k.find('.lv-tips').show(150);},500)}).mouseout(function(){
+                var k=$(this); window.clearTimeout(_tm);_tm=window.setTimeout(function(){k.find('.lv-tips').hide(300);},300)});
+        })();
+
+
+        if(document.getElementsByName("clubvideo").length>0){
+            window.__pv_video = new Image().src="http://pv.alert.autohome.com.cn/click_count.php?val=1&eid=1|3|47|0|0|300022";
+        }
+
+        var _icar = Z.getCookie('tip-_icar');
+        if (_icar != 1) {$("#tip-_icar_c").show();}
+        function _icarHide() {
+            $("#tip-_icar_c").hide();
+            Z.setCookie("tip-_icar", 1, 999);
+        }
+    </script>
+    <style>
+        .ke-icon-forecolor {
+            background-position: 0 -400px;
+            width: 23px;
+            height: 16px;
+        }
+
+        #custom #bshare-shareto {
+            color: #3b5998;
+            color: #3b5998 !important;
+            font-family: 微软雅黑;
+            font-size: 12px;
+            font-weight: normal;
+            line-height: 26px;
+            margin-left: 15px;
+            margin-right: 0;
+        }
+    </style>
+    <style>
+        .public-layer-close i, .icon-maxexc, .icon-maxok {
+            background: url(http://x.autoimg.cn/club/v1Content/images/public-icon.png?20141029) no-repeat;
+        }
+
+        .public-layer {
+            width: 380px;
+            border: 5px solid #3b5998;
+            background-color: #fff;
+            font-size: 12px;
+            font-size: 12px;
+            box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+            position: absolute;
+            top: 0;
+            left: 50%;
+            margin-left: -190px;
+            z-index: 100000;
+        }
+
+            .public-layer h3, .public-layer .public-layer-bottom {
+                height: 29px;
+                line-height: 29px;
+                position: relative;
+                padding: 0 10px;
+                background: #f2f5f8;
+                color: #333;
+                overflow: hidden;
+            }
+
+            .public-layer h3 {
+                border-bottom: 1px solid #ccd3e4;
+                font-weight: bold;
+                font-size: 14px;
+            }
+
+            .public-layer .public-layer-bottom {
+                border-top: 1px solid #ccd3e4;
+                text-align: center;
+            }
+
+            .public-layer .public-layer-close {
+                width: 16px;
+                height: 16px;
+                padding: 7px 6px 6px 7px;
+                overflow: hidden;
+                position: absolute;
+                top: 0;
+                right: 0;
+                line-height: 0;
+                font-size: 0;
+                border-left: 1px solid #ccd3e4;
+                background-color: #f2f5f8;
+            }
+
+            .public-layer a.public-layer-close:hover {
+                background-color: #3b5998;
+            }
+
+            .public-layer a.public-layer-close i {
+                display: inline-block;
+                width: 16px;
+                height: 16px;
+                background-position: -78px 1px;
+            }
+
+            .public-layer a.public-layer-close:hover i {
+                background-position: -95px 1px;
+            }
+
+            .public-layer .public-layer-content {
+                padding: 10px 15px;
+                font-size: 12px;
+                color: #666;
+            }
+
+        .public-btn {
+            display: inline-block;
+            width: 86px;
+            height: 24px;
+            line-height: 24px;
+            margin-top: 2px;
+            text-align: center;
+            text-decoration: none;
+            color: #fff;
+            background: #f70;
+        }
+
+            .public-btn:visited {
+                color: #fff;
+            }
+
+            .public-btn:hover {
+                color: #fff;
+                text-decoration: none;
+                background: #f90;
+            }
+
+        .public-box01 {
+            text-align: center;
+            color: #f90;
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .icon-maxexc, .icon-maxok {
+            display: inline-block;
+            width: 34px;
+            height: 34px;
+        }
+
+        .public-box01 i, .public-box04 i {
+            position: relative;
+            top: 10px;
+            *top: 7px;
+            margin-right: 10px;
+        }
+
+        .public-box02 {
+            text-align: center;
+            padding: 0 0 15px 42px;
+            margin-bottom: 10px;
+            border-bottom: dotted 1px #c4c4c4;
+        }
+
+        .public-box03 {
+            line-height: 22px;
+        }
+
+            .public-box03 span {
+                font-weight: bold;
+            }
+
+        .public-text {
+            width: 338px;
+            height: 30px;
+            line-height: 30px;
+            padding: 0 5px;
+            margin: 10px 0 8px;
+            font-size: 12px;
+            color: #666;
+            border: solid 1px #ccd3e4;
+        }
+
+        .public-textarea {
+            width: 338px;
+            height: 50px;
+            padding: 5px;
+            font-size: 12px;
+            color: #666;
+            border: solid 1px #ccd3e4;
+            resize: none;
+        }
+
+        .textarea-h {
+            height: 80px;
+        }
+
+        .public-box04 {
+            padding: 100px 0;
+            text-align: center;
+            color: #008000;
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .icon-maxok {
+            background-position: -40px 0;
+        }
+    </style>
+</div>
+
+
+
+
+    </div>
+    <script type="text/javascript">
+        $("#headDiv").css("position", "relative");
+        //tz.initAutoLoadImg();
+        //tz.autoLoadImg();
+        //tz.lazyloadPic();
+        tz.loadX('15361508');
+        tz.autoLift();
+        tz.bindEvent();
+        tz.pageIndex == 1 && tz.floatUserProfile();
+        if (location.href.indexOf("threadowner") != -1) {
+            var url = "/bbs/thread-{0}-{1}-{2}-1.html".format(tz.bbs, tz.bbsid, tz.topicId);
+            var el = tz.$("xid-owner"); el.innerHTML = "查看全部"; el.href = url;
+            var elNav = tz.$("xid-ownerNav"); elNav.innerHTML = "查看全部"; elNav.href = url;
+        }
+    </script>
+<!-- footer -->
+<style type="text/css">
+    .footer_auto { width: 990px; margin: 10px auto 0 auto; padding: 7px 0 10px 0; border-top: 3px solid #3b5998; text-align: center; color: #7c7c7c; font-size: 12px; }
+    .footer_auto p { line-height: 24px; margin: 0; padding: 0; }
+    .footer_auto p a { display: inline-block; margin: 0 9px; }
+    .footer_auto p a.footimg { border: 1px solid #c2c2c2; margin: 5px 5px 0 5px; }
+    .footer_auto p a.footimg img { border: 0; }
+    .footer_auto p .fline { color: #bfbfbf; margin: 0 3px; }
+    .footer_auto p .footarial { font-family: Arial, Helvetica, sans-serif; }
+    
+    .footer_auto .footios, .footer_auto .footand, .footer_auto .footwp, .footer_auto .footphone, .footer_auto .footauto { display: inline-block; padding-left: 19px; background: url(http://x.autoimg.cn/club/v1Content/images_1/footicon.png) no-repeat; }
+    .footer_auto .footios { background-position: 0 3px; }
+    .footer_auto .footand { background-position: 0 -27px; }
+    .footer_auto .footwp { background-position: 0 -57px; }
+    .footer_auto .footphone { background-position: 0 -87px; }
+    .footer_auto .footauto { padding: 0 22px 0 21px; background-position: 0 -117px; }
+    
+    .footer_auto p a:link, .footer_auto p a:visited { color: #7c7c7c; text-decoration: none; }
+    .footer_auto p a:hover { color: #d60000; text-decoration: none; }
+    .baidu_cpro{ margin-top:10px;}
+</style>
+<!-- PageFooter START-->
+<!-- autohome统计签 -->
+<script language="javascript" type="text/javascript">
+    setTimeout(function () { document.getElementById('PageView_stats').src = url_stats; tz.pvTime = new Date() }, 3000);
+    var url_stats = "http://stats.autohome.com.cn/pv_count.php?SiteId=3&CategoryId=47&SubCategoryId=0&objectid=46934283&seriesid=3413&type=1&typeid=3413&specid=0&jbid=17&dealerid=0&ref={0}&cur={1}&rnd={2}".format(escape(document.referrer), escape(document.URL), Math.random());
+    document.write('<iframe id="PageView_stats" src="" style="display:none"></iframe>');
+    !(function (doc) { var _as = doc.createElement('script'); _as.type = 'text/javascript'; _as.async = true; _as.src = 'http://s.autoimg.cn/hf/master.js?d=' + (new Date()).toLocaleDateString().replace(/\//g, ""); var s = doc.getElementsByTagName('script')[0]; s.parentNode.insertBefore(_as, s); })(document);
+</script>
+<!--增加ga统计代码js引用-->
+<script language="javascript" type="text/javascript" src="http://x.autoimg.cn/pv/js/ga-count.js"></script>
+<!--baidu统计签-->
+<script type="text/javascript">
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fa14e5f772a500c6bc3f506e86c3567c2' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!--baidu广告(阻塞)-->
+<div class="baidu_cpro">
+<script type="text/javascript">
+       var cpro_id = "u207633";
+       (window["cproStyleApi"] = window["cproStyleApi"] || {})[cpro_id] = {
+           tn: 'template_inlay_all_normal',
+           conH: 90,
+           conW: 990,
+           adn: 4
+       };
+</script>
+<script src=" http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+
+<div class="footer_auto">
+    <p>
+        <a href="http://www.autohome.com.cn/about/index.htm" target="_blank">关于我们</a><a href="http://www.autohome.com.cn/about/lianxi.htm"
+            target="_blank">联系我们</a><a href="http://special.zhaopin.com/bf/2014/czj041009/sz.html"
+   target="_blank">招贤纳士</a><span class="fline">|</span><a class="footios" href="http://www.autohome.com.cn/apps/1.html"
+                    target="_blank">iPhone客户端</a>/<a href="http://www.autohome.com.cn/apps/2.html" target="_blank">iPad客户端</a><a
+                        class="footand" href="http://www.autohome.com.cn/apps/3.html" target="_blank">Android客户端</a><a
+                            class="footwp" href="http://www.autohome.com.cn/apps/8.html" target="_blank">WP客户端</a><a
+                                class="footphone" href="http://www.autohome.com.cn/apps/m/" target="_blank">手机版</a><span
+                                    class="fline">|</span><a class="footauto" href="http://e.weibo.com/qichezhijia" target="_blank">汽车之家</a><span
+                                        class="fline">|</span><a href="http://www.autohome.com.cn/bug/default.aspx" target="_blank">意见反馈</a></p>
+    <p>
+        <span class="footarial">&copy; 2004-2015 www.autohome.com.cn All Rights Reserved.</span>
+        汽车之家 版权所有</p>
+</div>
+<!-- PageFooter END-->
+<script type="text/javascript">    /*title hack*/(function (B) { var A = (typeof (_browserTitle) == 'undefined' ? 0 : _browserTitle) || document.title.split('#')[0], $ = setInterval("hackTitle()", 800), _ = 25; function C() { if (_ === 0) { clearInterval($); return; } if (document.title !== A) { document.title = A; } _--; } B.hackTitle = C; })(window); (function () { if ((/ipad/i).test(navigator.userAgent) && !autohome.cookie.get("touch_tips")) { var B = $("<div id=\"js_touch-entry\" class=\"touch-entry\"><p>\u8bba\u575b\u89e6\u5c4f\u7248 \u5c1d\u9c9c\u4e0a\u7ebf\uff0c\u66f4\u6d41\u7545\u7684\u9605\u8bfb\u4f53\u9a8c\uff0c<a href=\"#\" class=\"js-taste\">\u9a6c\u4e0a\u4f53\u9a8c</a>\u5427\uff01</p><a href=\"#\" id=\"js_entrybtn-close\" class=\"icon-tipclose\"></a></div>"); $("body").append(B); var _ = window.location.href, A = _.substring(0, _.indexOf("autohome")) + "m." + _.substring(_.indexOf("autohome")); $("#js_touch-entry .js-taste").attr("href", A); $("#js_touch-entry").show(); $("#js_entrybtn-close").click(function () { $(this).parent("#js_touch-entry").remove(); autohome.cookie.set("touch_tips", "1", { expires: 31536000000, domain: "club.autohome.com.cn", path: "/" }); }) } })();
+</script>    
+    <!--加载编辑器-->
+    
+    
+
+    <script charset="utf-8" src="http://x.autoimg.cn/club/v1Content/js/plug-in/kindeditorv2/kindeditor-min.js?ver=1"></script>
+    <script charset="utf-8" src="http://x.autoimg.cn/club/v1Content/js/plug-in/kindeditorv2/lang/zh_CN.js?ver=1"></script>
+    <script charset="utf-8" src="http://x.autoimg.cn/club/v1Content/js/plug-in/kindeditorv2/kindeditor-patch.js?ver=1"></script>
+
+    <script type="text/javascript">        var editor; tz.ksReplyInit(); </script>
+
+    <!-- 注入广告(异步、低优先级) -->
+    <script type="text/javascript">
+    var map_bbs_province = { 100002: 110000, 100026: 120000, 100010: 130000, 100022: 140000, 100015: 150000, 100019: 210000, 100018: 220000, 100011: 230000, 100024: 310000, 100016: 320000, 100030: 330000, 100001: 340000, 100004: 350000, 100017: 360000, 100023: 370000, 100012: 410000, 100013: 420000, 100014: 430000, 100006: 440000, 100007: 450000, 100009: 460000, 100003: 500000, 100025: 510000, 100008: 520000, 100029: 530000, 100027: 540000, 100031: 610000, 100005: 620000, 100021: 630000, 100020: 640000, 100028: 650000, 100032: 710000, 100033: 810000, 100034: 820000 };
+    var ad_BBS_AreaId = '3413';
+    var ad_Province = map_bbs_province[ad_BBS_AreaId] || '';
+    var ad_City = 0;
+</script>
+    <script type="text/javascript">
+        var ad_CarlevelID = [17];
+    var SeriesId = '3413';
+        var BrandId = '88';
+        var cityCode = parseInt(autohome.cookie.get('area'));
+    </script>
+    <script type="text/javascript" src="http://x.autoimg.cn/engine/root/fggxl.js?2015v1"></script>
+    <script type="text/javascript"> _aad.Loader('1143,1144,1145,1146', '177');</script>
+
+    <script type="text/javascript" src='http://33.autohome.com.cn/njs/10262.js?timestamp=2015122113'></script>
+
+    
+    
+    
+    <!--【看看其它/热门视屏】广告(local缓存)-->
+    <script type="text/javascript">
+        (function () {
+            var C = function () {
+                var A = "ad-detail-bottom-count", _ = Z.LocalStore.get(A); if (_ === null || _ == "2147483647") Z.LocalStore.set(A, _ = 1); else {
+                    _ = parseInt(_) + 1; Z.LocalStore.set(A, _);
+                } _ % 4 == 0 && $("#ad_other_menu li[index=2]").mouseover();
+            }, _ = "ADDetailBottomJSON", B = Z.LocalStore.get(_); if (!Z.isEmpty(B)) {
+                var D = Z.decode(B), A = (D.date + (50 * 60 * 1000)).toDate(); if (new Date() < A) {
+                    $("#content").append(D.html); C(); return;
+                }
+            } $.ajax("/ajax/ADDetailBottom?v=1", {
+                cache: true, success: function (E, A, B) {
+                    var F = B.responseText, D = { date: new Date().getTime(), html: F }; Z.LocalStore.set(_, Z.encode(D)); $("#content").append(F); C();
+
+                    //获取日报渲染内容,放在ajax请求成功后.避免加载速度快导致日报第一次未加载出来
+                    //zouxh at 20140114
+                    //try {
+                    //    var ptci = Z.GetPushToClubImgObjString;
+                    //    eval("var ptci = " + ptci);
+                    //    if (ptci != "") {
+                    //        $(".conblook").html(ptci.html);
+                    //        var split = '<div class="ribao">';
+                    //        $("body").data(beforeDay, split + ptci.html.split(split));
+                    //    }
+                    //} catch (e) {
+                    //}
+                }
+            });
+        })(); $("#ad_960_1").text().replace(/\s*/, "") == "" && $("#ad_960_1_Dis").hide();
+    </script>
+        <!-- Baidu Button BEGIN -->
+            <script type="text/javascript">
+                (function () {
+                    setTimeout(function () {
+                        var picArr = [], imgs = $("div.conttxt", "#F0").find("img");
+                        imgs.each(function (i) {
+                            var src = this.src.toLowerCase();
+                            if (src.indexOf("/smiles/") == -1 && src.indexOf("/club/common/") == -1) {
+                                picArr.push(src.replace("www.autoimg.cn", "img.autohome.com.cn"));
+                            }
+                        });
+                        window.bds_config = {
+                            'bdTop': '201',
+                            'wbUid': '1761731257',
+                            'bdDes': "海南省道路规划建设与交通安全管理赴美培训班，期间，先后到美国新泽西州、佛罗里达州及迈阿密市、伊利诺伊州及芝加哥市交通部门、教育培训部门和警察局等单位学习和考察，主要了解美国道路规划建设、日常维护、交通",
+                            'bdText': tz.topicTitle,
+                            'snsKey': { 'tsina': '1035238687', 'tqq': 'b7da43417b234bfbb21c01162b77b684' },
+                            'searchPic': '0',
+                            'bdPic': picArr[0]
+                        };
+                        //$E("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+                        //$("#bdshareSpan").removeClass("bds_more");
+                        //$('#bdshareSpan').css("line-height", "16px");
+                    }, 1500);
+                })();
+            </script>
+        <!-- Baidu Button END -->
+    <!--dom log-->
+    <input type="hidden" id="x-log" />
+    <input type="hidden" id="hidHostUrl" value="club.autohome.com.cn" />
+    <div id="x-debug" style="display: none">
+            <p>
+                mainTopic.xRender=YES
+            </p>
+    </div>
+    <script type="text/javascript">
+        tz.isDebug && (function () {
+            var time = new Date().getTime();
+            var fdt = tz.domBeginLoad.getTime();
+            var fst = tz.fst.getTime();
+            var arr = [];
+            arr.push("First screen render usedtime {0}ms".format(fst - fdt));
+            arr.push("All dom render usedtime {0}ms".format(time - fdt));
+            Z.write(arr.join("<br/>"));
+            setTimeout(function () {
+                var s = "autohome pv request send time at {0}ms".format(tz.pvTime.getTime() - fdt);
+                Z.write(s);
+            }, 3000);
+        })();
+    </script>
+    <script>
+        setTimeout(function () {
+            var roleid = autohome.loginUser.roleId;
+            if (autohome.loginUser.isLogin && (roleid == 1 || roleid == 2 || roleid == 3 || roleid == 30)) {
+                $(document.getElementsByName("deletedReply")).show();
+                $(document.getElementsByName("CheckOpLog")).show();
+            }
+            //当前处于登陆状态时才显示投诉
+            if (autohome.loginUser.isLogin) {
+                //$(document.getElementsByName("complaints")).show();
+                $("a[name=complaints]").each(function () {
+                    var replyUID = $(this).parents(".clearfix").attr("UID");
+                    if (replyUID == autohome.loginUser.UID) {
+                        $(this).show();
+                    }
+                })
+            }
+        }, 1000);
+        if ($("#wrap_addfollower").length > 0) {
+            if (autohome.loginUser.UID <= 0) {
+                $("#wrap_addfollower").html('<a href="#" onclick="addFriend();return false;" class="c01439a">加关注</a>');
+                $("#wrap_addfollower").addClass("leftgz fl");
+            } else if (tz.topTopicOwnerId > 0 && autohome.loginUser.UID != tz.topTopicOwnerId) {
+                $.ajax({
+                    type: "get",
+                    cache: false,
+                    url: "http://ms.i.autohome.com.cn/ajax/user_relation/get_single_user_relation_by_accountId?originalAccountId=" + autohome.loginUser.UID + "&targetAccountId=" + tz.topTopicOwnerId,
+                    dataType: "jsonp",
+                    jsonp: "callback",
+                    //jsonpCallback: "jsonpCallback",
+                    success: function (data) {
+                        //console.log(data);
+                        if (data && data == 1) {
+                            $("#wrap_addfollower").html('已关注');
+                            $("#wrap_addfollower").addClass("leftgray2 fl gray");
+                        } else if (data && data == 3) {
+                            $("#wrap_addfollower").html('相互关注');
+                            $("#wrap_addfollower").addClass("leftgray fl gray");
+                        } else {
+                            $("#wrap_addfollower").addClass("leftgz fl");
+                            $("#wrap_addfollower").html('<a href="#" onclick="addFriend();return false;" class="c01439a">加关注</a>');
+                        }
+                    },
+                    error: function (XMLHttpRequest, textStatus, errorThrown) {
+                        //alert("err:" + textStatus);
+                        console.log("关注err:" + textStatus);
+                    }
+                });
+            } else {
+                $("#wrap_sendmessage").removeClass("ml10");
+            }
+        }
+        function addFriend() {
+            if (!autohome.UserValidate()) return;
+            if (tz.topTopicOwnerId > 0) {
+                setTimeout(function () {
+                    $.ajax({
+                        type: "post",
+                        cache: false,
+                        url: "/ajax/addFriend",
+                        data: { otherMemberId: tz.topTopicOwnerId },
+                        dataType: "jsonp",
+                        jsonp: "callback",
+                        jsonpCallback: "jsonpCallback",
+                        success: function (data) {
+                            //console.log(data);
+                            if (data && data.sucess == -1) {
+                                alert("您的部分权限已被禁止，暂时无法关注他人。如有疑问请咨询客服4000-111-168。");
+                            } else if (data && data.sucess == 1 || data.sucess == 500) {
+                                $("#wrap_addfollower").html('已关注'); $("#wrap_addfollower").addClass("leftgray2 fl gray");
+                            } else if (data && data.sucess == 3) {
+                                $("#wrap_addfollower").html('相互关注'); $("#wrap_addfollower").addClass("leftgray fl gray");
+                            } else {
+                                $("#wrap_addfollower").html('<a href="#" onclick="addFriend()" class="c01439a">加关注</a>');
+                                $("#wrap_addfollower").addClass("leftgz fl");
+                            }
+                        },
+                        error: function (err) {
+                            //alert("err:" + err);
+                        }
+                    });
+                }, 500);
+            }
+        }
+    </script>
+
+
+    
+    
+    
+
+    <script type="text/javascript">
+        var topicIsCollect = false;
+        var isLoginCollectFlag = false;
+        if (autohome.loginUser.UID > 0) {
+            setTimeout(function () {
+                $.ajax({
+                    type: "get",
+                    cache: false,
+                    url: "http://ms.i.autohome.com.cn/ajax/collection/exist_by_accountId",
+                    data: { accountId: autohome.loginUser.UID, objId: tz.topicId, collectionTypeString: 1 },
+                    dataType: "jsonp",
+                    jsonp: "callback",
+                    //jsonpCallback: "jsonpCallback",
+                    success: function (data) {
+                        //console.log(data);
+                        topicIsCollect = data;
+                        $("#x-collectTopic").text(topicIsCollect ? "取消收藏" : "收藏本帖"); //收藏or取消收藏
+                        $("#scBtn").text(topicIsCollect ? "取消收藏" : "收藏");
+                    }
+                });
+            }, 500);
+        }
+        tz.loginSucEx = function loginSuc(msg) {
+            $("#divlogin").hide();
+            tz.doAjaxEx();
+        };
+        //收藏管理
+        tz.collectTopic = function (a) {
+            $("#scTX").attr("checked", false);
+            isLoginCollectFlag = false;
+            if (topicIsCollect === null) {
+                alert("未能加载到用户状态，请刷新页面后再试");
+                return;
+            }
+            if (tz.UID <= 0) {
+                //// autohome.login();
+                //alert("用户未登录，弹出用户登录框,等用户完成登录后再继续操作!");
+                isLoginCollectFlag = true;
+                autohome.UserValidate(0, function () {
+                    tz.doAjaxEx();
+                });
+                //seajsGlob.use(['popLogin', 'jquery', 'md5', 'dialog'], function (pop, $) {
+                //    var callBackFun = "tz.loginSucEx('sd');";
+                //    pop.ShowPopLogin(callBackFun);
+                //});
+                return;
+            }
+            else {
+                tz.doAjaxEx();
+            }
+        };
+        tz.doAjaxEx = function doAjax() {
+            if (!topicIsCollect) { //添加收藏
+
+                var imgurl = "";
+                for (var i = 4; i >= 1; i--) {
+                    var picurl = $("#img-0-" + i).attr('src');
+                    if (picurl != undefined) {
+                        imgurl = picurl;
+                        break;
+                    }
+                }
+                //$("#scTX").attr("checked", false);
+                //立即添加收藏，不订阅
+                $.ajax({
+                    url: "http://ajax.club.autohome.com.cn/Detail/CollectTopic",
+                    data: { "topicId": tz.topicId, "isAdd": true, "scrollTop": $(document).scrollTop(), "isNotice": false, imgurl: imgurl },
+                    dataType: "jsonp",
+                    jsonp: "callback",
+                    jsonpCallback: "jsonpCallback",
+                    success: function (d) { }
+                })
+                $("#x-collectTopic").text("取消收藏");
+                $("#scBtn").text("取消收藏");
+                topicIsCollect = true;
+
+                $("#scBoxTitle").html("收藏成功");
+                showSCBox();
+                _club.clickStatis('1|3|47|0|200031|300026');
+            } else { //取消收藏
+                $.ajax({
+                    url: "http://ajax.club.autohome.com.cn/Detail/CollectTopic",
+                    data: { "topicId": tz.topicId, "isAdd": false, "scrollTop": $(document).scrollTop(), "isNotice": false },
+                    dataType: "jsonp",
+                    jsonp: "callback",
+                    jsonpCallback: "jsonpCallback",
+                    success: function (d) { }
+                })
+                showSCBox2();
+                $("#x-collectTopic").text("收藏本帖");
+                $("#scBtn").text("收藏");
+                topicIsCollect = false;
+
+                $("#scBoxTitle").html("取消收藏");
+                $("#scBox i:eq(2)").removeClass("mark1");
+                setTimeout(closeSCBox, 3000); //3秒关闭
+                _club.clickStatis('1|3|47|0|200031|300026');
+            }
+        };
+
+        //定位到收藏位置
+        var scScrollTop = 0;
+        var scScollTopTemp = /#pos=[0-9]*[1-9][0-9]*/.exec(location.hash);
+        if (scScollTopTemp && scScollTopTemp.length > 0) {
+            scScrollTop = scScollTopTemp[0].replace("#pos=", "")
+            $(document).scrollTop(scScrollTop);
+        }
+        var scIsIE6 = $.browser.msie && (parseFloat($.browser.version || 6) < 7);
+        function showSCBox() {
+            $("#scBg").css({ width: $(document).width() + "px", height: $(document).height() + "px", opacity: 0.5 }).show();
+            var scrollTop = scIsIE6 ? $(document).scrollTop() : 0;
+            $("#scBox").css({ top: (($(window).height() - $("#scBox").height()) / 2 + scrollTop) + "px" }).show();
+        }
+        function showSCBox2() {
+            $("#scBg").css({ width: $(document).width() + "px", height: $(document).height() + "px", opacity: 0.5 }).show();
+            var scrollTop = scIsIE6 ? $(document).scrollTop() : 0;
+            $("#scBox2").css({ top: (($(window).height() - $("#scBox2").height()) / 2 + scrollTop) + "px" }).show();
+        }
+        function closeSCBox() { $("#scBox,#scBg,#scBox2").hide(); }
+
+        $(function () {
+            //$("#scBtn,#x-collectTopic").click(function () { showSCBox(); })
+            $("#scBox .layer-close").click(function () { closeSCBox(); })
+            if (scIsIE6) {
+                $("#scBox").css({ position: "absolute" });
+                $(window).scroll(function () {
+                    var divTop = ($(window).height() - $("#scBox").height()) / 2 + $(document).scrollTop();
+                    $("#scBox").css({ top: divTop + "px" });
+                });
+            }
+            //收藏
+            $("#scOk").click(function () {
+                var tiXing = $("#scTX").is(":checked");
+
+                //已取消收藏，或没有订阅
+                if ($("#scBox .scnomsg").is(":visible") || !tiXing) {
+                    closeSCBox();
+                    if (isLoginCollectFlag) {
+                        //更新未订阅状态
+                        $.getScript("http://ajax.club.autohome.com.cn/Detail/UpdateNotice?typeid=1&isnotice=0&objid=" + tz.topicId, function (d) {
+                            console.log(d);
+                            window.location.reload();
+                        });
+                    }
+                    return false;
+                }
+                //更新订阅状态
+                $.getScript("http://ajax.club.autohome.com.cn/Detail/UpdateNotice?typeid=1&isnotice=1&objid=" + tz.topicId, function (d) {
+                    console.log(d);
+                    if (isLoginCollectFlag) {
+                        window.location.reload();
+                    }
+                });
+
+                $("#x-collectTopic").text("取消收藏");
+                $("#scBtn").text("取消收藏");
+                topicIsCollect = true;
+                closeSCBox();
+            });
+        });
+
+        Date.prototype.format = function (format) {
+            var o = {
+                "M+": this.getMonth() + 1, //month
+                "d+": this.getDate(),    //day
+                "h+": this.getHours(),   //hour
+                "m+": this.getMinutes(), //minute
+                "s+": this.getSeconds(), //second
+                "q+": Math.floor((this.getMonth() + 3) / 3),  //quarter
+                "S": this.getMilliseconds() //millisecond
+            };
+            if (/(y+)/.test(format)) format = format.replace(RegExp.$1,
+                (this.getFullYear() + "").substr(4 - RegExp.$1.length));
+            for (var k in o) if (new RegExp("(" + k + ")").test(format))
+                format = format.replace(RegExp.$1,
+                    RegExp.$1.length == 1 ? o[k] :
+                        ("00" + o[k]).substr(("" + o[k]).length));
+            return format;
+        };
+        //顶操作
+        tz.objTopType = 0;
+        if (tz.topicType == 18) {
+            tz.objTopType = 1;
+        }
+
+        //$.getScript("http://ajax.club.autohome.com.cn/ajax/GetPushToClubImg", function () {
+        //    try {
+        //        if (ptci != "") {
+        //            $(".conblook").html(ptci.html);
+        //            var split = '<div class="ribao">';
+        //            $("body").data(beforeDay, split + ptci.html.split(split));
+        //        }
+        //    } catch (e) { }
+        //});
+        $(function () {
+            var setJinxunRiboContent = function (ptci) {
+                // $(".conblook").html(ptci.html);
+                var blookEle = $(".conblook");
+                //由于LoadMini返回结果比异步dom元素加载快，所以做了2秒延时处理
+                if (blookEle.length > 1) {
+                    blookEle.html(ptci.html);
+                } else {
+                    setTimeout(function () {
+                        $(".conblook").html(ptci.html);
+                    }, 2000);
+                }
+            };
+            try {
+                var ptci = Z.GetPushToClubImgObjString;
+                eval("var ptci=" + ptci);
+                if (ptci.html != '') {
+                    setJinxunRiboContent(ptci);
+                } else {
+                    setTimeout(function () {
+                        var ptci = Z.GetPushToClubImgObjString;
+                        eval("var ptci=" + ptci);
+                        setJinxunRiboContent(ptci);
+                    }, 2000);
+                }
+            } catch (e) {
+            }
+        });
+        //故障公告信息
+        $(function () {
+            try {
+                var gzgg = Z.GetFaultMonitoringInfo;
+                eval("var gzgg=" + gzgg);
+                if (gzgg != null && gzgg[2] != undefined) {
+                    var ele = $("#suspend-replys");
+                    ele.html(gzgg[2]);
+                    ele.show();
+                }
+            } catch (e) {
+            }
+        });
+
+        function getRiBoBefore(beforeDay) {
+            var cacheData = $("body").data(beforeDay);
+            if (cacheData != undefined) {
+                $("#tab-nav").nextAll().remove().end().after(cacheData);
+                return;
+            }
+            $.getScript("http://ajax.club.autohome.com.cn/ajax/GetPushToClubImgBefore?beforeDay=" + beforeDay, function () {
+                if (ptci != "") {
+                    $("#tab-nav").nextAll().remove().end().after(ptci.html);
+                    $("body").data(beforeDay, ptci.html);
+                }
+            });
+        }
+        $("#tab-nav .more").live("mouseover", function () {
+            $(".more-pop", this).show();
+        }).live("mouseout", function () {
+            $(".more-pop", this).hide();
+        })
+        $("#tab-nav ul:first li").live("click", function () {
+            if ($(this).hasClass("current"))
+                return false;
+
+            $(this).addClass("current").siblings().removeClass("current");
+            var beforeDay = $(this).attr("data-day");
+            getRiBoBefore(beforeDay);
+
+            return false;
+        })
+
+        $("#tab-nav .more-pop a").live("click", function () {
+            $("#tab-nav ul:first li").removeClass("current");
+            var beforeDay = $(this).attr("data-day");
+            getRiBoBefore(beforeDay);
+            return false;
+        })
+        if (tz.topicType != 18) {
+            if (parseInt($(".louzoulog").attr("cnt")) > 0) $(".louzoulog").css("display", "");
+        }
+        if ($('#img-0-1')[0]) {
+            bShare.params.pic = $('#img-0-1')[0].src.replace(/(?:www|x|club\d)\.autoimg\.cn/ig, 'img.autohome.com.cn');
+        }
+
+        //消息点击之后，再回来,浮层自动消失
+        $("#msgDiv2").click(function () { $(this).hide(); $(this).prev().removeClass("cur"); })
+        $("#applyJingHua").click(function () {
+            if (!autohome.UserValidate(0)) return false;
+            //申请精华图片判断,排除问答贴，投票贴，活动贴
+            if (tz.topicType != 18 && tz.topicType != 1 && tz.topicType != 2 && tz.topicType != 11) {
+                var applyLink = $(this).attr("url");
+                var url = "http://ajax.club.autohome.com.cn/ajax/GetTopicImagesCount?topicid=" + tz.topicId + "&memberid=" + tz.topTopicOwnerId;
+                $.getScript(url, function () {
+                    if (topicImageCount == -2) {
+                        autohome.login(function () { location.href = location.href; });
+                    } else if (topicImageCount < 15) {
+                        var defaultText = $("#applyDesc font").html();
+                        var newText = "很抱歉，该主贴尚未满足精华帖15张图片要求，不能予以精华，感谢您对我们的支持。";
+                        $("#applyDesc font").html(newText);
+                        $("#applyDesc").show().delay(3000).hide();
+                    } else {
+                        $.getScript(applyLink);
+                    }
+                });
+                return false;
+            } else {
+                return true;
+            }
+        });
+
+    </script>
+
+    
+
+    <!---收藏浮层--->
+    <iframe id="scBg" style="background-color: rgb(227, 227, 227); position: absolute; z-index: 10000; left: 0px; top: 0px; width: 100%; height: 1000px; opacity: 0.5; display:none"></iframe>
+    <div class="layer" id="scBox" style="position:fixed;top:230px;left:50%;margin-left:-190px;z-index:10011;display:none">
+        <h3><span id="scBoxTitle">取消收藏</span><a class="layer-close" href="javascript:void(0)"><i class="icon16 icon16-close"></i></a></h3>
+        <div class="layer-content">
+            <div class="collect scokmsg"><i></i>已成功添加到<a href="http://i.autohome.com.cn/favor" target="_blank" class="col-fotw">我的收藏</a></div>
+            <div class="lab-w scokmsg" style="width:140px;"><label for="scTX"><input name="" type="checkbox" value="" id="scTX" class="inpt-lab" checked="checked" />楼主有更新时通知我</label></div>
+        </div>
+        <div class="layer-bottom"><a href="javascript:void(0)" class="btn-orange" id="scOk">确定</a></div>
+    </div>
+
+    <div class="layer" id="scBox2" style="position:fixed;top:230px;left:50%;margin-left:-190px;z-index:10011;display:none">
+        <div class="layer-content">
+            <div class="collect scnomsg" style="color:#008102;font-family:微软雅黑"><div style="margin-top:15px;"></div><i></i>已取消此帖的收藏</div>
+        </div>
+    </div>
+    <div id="_fc" style="display:none"></div>
+    <!---收藏浮层--->
+
+    <!-- 回复优先展示 弹窗 -->
+    <div id="_onTopReply" class="layer" style="position:fixed;top:230px;left:50%;margin-left:-190px;z-index:10011;display:none	">
+        <h3>提示<a href="javascript:void(0);" onclick="$('#_onTopReply').hide(); $('#scBg').hide();" class="layer-close"><i class="icon16 icon16-close"></i></a></h3>
+        <div class="layer-content"><p id="_onTopReply_tips" style="font-size:14px; margin-top:20px;">您是否确认将回复优先展示，扣除300积分？</p></div>
+        <div class="layer-bottom">
+            <div class="layer-btnwrap">
+                <a id="_onTopReply_yes" href="javascript:void(0);" class="btn btn-mini btn-orange">确认</a>
+                <a id="_onTopReply_no" href="javascript:void(0);" onclick="$('#_onTopReply').hide();$('#scBg').hide();" class="btn btn-mini ml20">取消</a>
+            </div>
+        </div>
+    </div>
+    <div id="_shieldonLayer" class="layer fn-hide">
+        <div class="layer-content layer-con-jinbi">
+            <i class="icon-exc-max"></i>
+            <div class="maintain-chara">
+                <p class="maintain-color01"></p>
+            </div>
+        </div>
+        <div class="layer-bottom">
+            <div class="layer-btnwrap">
+                <a id="_onShieldon_yes" href="javascript:void(0);" class="btn btn-mini btn-orange">确认</a>
+                <a href="javascript:void(0);" onclick="_club.shieldon.command(this,0);" class="btn btn-mini ml20">取消</a>
+            </div>
+        </div>
+    </div>
+    <div id="_replyLayer" class="layer fn-hide">
+        <div class="layer-content layer-con-jinbi">
+            <i class="icon-exc-max"></i>
+            <div class="maintain-chara">
+                <p class="maintain-text02">您已被楼主屏蔽，不能回复该帖子</p>
+            </div>
+        </div>
+        <div class="layer-bottom">
+            <div class="layer-btnwrap">
+                <a href="javascript:void(0)" class="btn btn-mini" onclick="_club._layer('_replyLayer',!1)">我知道了</a>
+            </div>
+        </div>
+    </div>
+    
+    <script type="text/javascript">var _club = _club || {}; (function (o) { function advancedReply(id) { if (tz.checkLoginA(id, null, event)) { var p = $(id).parents('.replycon:first'), c = p.find('textarea:first'), i = p.find('#yyhf_img_uploaded:first'), d = '<div>{0}</div>'.format(c.val()) + (i.attr('src') && i.attr('src') != '' ? i.prop('outerHTML') : ''), cp = $(p).parents('div[pk]:first'), t = tz.getQuote(cp, cp.attr('pk')), o = '&refReplyId={0}'.format(cp.attr('pk')), tmpls = ['<form id="{3}" method="post" action="{0}" enctype="application/x-www-form-urlencoded"><textarea name="ksContent">{1}</textarea><textarea name="refContent">{2}</textarea></form>'], h = $(id).attr('href') + o, fid = 'ar_' + cp.attr('pk'); Z.LocalStore.set("ksReplyContent", d); $('#_fc').html(tmpls[0].format(h, d, t, fid)); $('#' + fid).submit(); }; return false; }; o.ar = advancedReply; })(_club);</script>
+
+
+    <!--初始化剪贴板功能-->
+    <script type="text/javascript" src="http://x.autoimg.cn/club/v1Content/js/jquery.zclip.min.js"></script>
+    <script type="text/javascript">
+        $(function ($) {
+            var ua = navigator.userAgent.toLowerCase();
+            if (ua.match(/msie ([\d.]+)/)) {
+                $("a[data-type='_copy']").click(function () {
+                    tz.copyTopicURL(this.getAttribute('rel'));
+                    return false;
+                });
+            }
+            else {
+                $("a[data-type='_copy']").zclip({
+                    path: 'http://x.autoimg.cn/club/v1Content/js/ZeroClipboard.swf',
+                    copy: function () {
+                        var floor = this.getAttribute('rel');
+                        var domain = window.location.href.toLowerCase().split("/bbs/")[0];
+                        var param = tz.getUrlParam();
+                        param.pageIndex = floor == 0 ? 1 : Math.ceil(floor / 20);
+                        param.f = floor;
+                        param.fake_bbsid = location.toString().indexOf("-200099-") > -1 ? 200099 : param.bbsid;
+                        var url = domain + "/bbs/thread-{bbs}-{fake_bbsid}-{topicId}-{pageIndex}.html#{f}".format(param);
+                        if (url.endWith("#0")) {
+                            url = url.split("#")[0];
+                        }
+                        var text = url + "\r\n" + tz.topicTitle.replace(/&quot;/g, "\"").replace(/&#39;/g, "\'") + " - " + (tz.ownerName || "");
+                        return text;
+                    },
+                    afterCopy: function () {
+                        Z.showMsg("已经复制到剪贴版");
+                    }
+                });
+            }
+        });
+        var gotoCardPost = !0;// [1, 2, 3].indexOf(parseInt(autohome.loginUser.roleId)) != -1;
+        if (gotoCardPost) {
+            $("a[data-type='newpost']").attr("href", "http://ajax.club.autohome.com.cn/NewPost/CardPost?bbs=c&bbsId=3413&urlbbsId=3413");
+        }
+    </script>
+
+<script type="text/javascript">
+// 缓存图片位置信息，减少每次计算消耗
+// 滚动时，用 setTimeout 控制加载频次，降低计算消耗
+// 仅仅加载当前屏幕上下一定范围内的图片，控制加载数量
+var lazyloadPic = function() {
+
+//debugger;
+var picArr = document.getElementsByName("lazypic");
+
+var screenH = screen.height;
+
+var getTop = function(e) {
+    var t = e.offsetTop;
+    if (e.offsetParent != null) t += getTop(e.offsetParent);
+    return t;
+}
+
+var n = picArr.length, d = $(document);
+var timer = null;
+var call = function () {
+    if (n == 0) {
+        return;
+    }
+
+    var st = d.scrollTop();
+
+    for (var i = 0; i < picArr.length; i++) {
+        var img = picArr[i];
+        if (img.ok) continue;
+        var src9 = img.getAttribute("src9");
+        if (!src9) continue;
+
+        var imgTop = img.xTop || getTop(img);
+        img.xTop = imgTop;
+        if ((imgTop < st + screenH * 5) && (imgTop > st - screenH*3)) {
+            if (img.src.toLowerCase() != src9.toLowerCase()) {
+                img.removeAttribute("src9");
+                img.ok = true;
+                img.src = src9;
+                n--;
+            }
+        }
+    }
+};
+
+call();
+$(window).bind("scroll touchend", function() {
+    timer && clearTimeout(timer);
+    timer = setTimeout(call, 250);
+});
+};
+
+if (document.getElementsByName("lazypic").length > 50) {
+    lazyloadPic();
+}
+else {
+    tz.initAutoLoadImg();
+    tz.autoLoadImg();
+    tz.lazyloadPic();
+}
+
+_club.shieldon.showtime();
+
+</script>
+<script type="text/javascript" src="http://x.autoimg.cn/stats/ahpv/pvevent_all.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+

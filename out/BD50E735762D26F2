@@ -1,0 +1,812 @@
+<!--UINFO: http://bbs.jrj.com.cn/msg,98706027,1.html	length=55057&last_modified=0&time_saved=1450676758&charset=gbk-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+		<title>商业银行“投贷联动”新机遇-银行论坛-金融界理财论坛</title>
+		<meta name="keywords" content="商业银行“投贷联动”新机遇,理财论坛,股市分析,预测明日大盘走势,个股分析">
+		<meta name="description" content="商业银行“投贷联动”新机遇　　在我国社会融资股权化日趋明显的背景下，银行传统的存贷汇服务模式已无法满足"/>
+		<script type="text/javascript" src="http://js.jrj.com.cn/myjrj/js/jquery.js"></script>
+		<script src="http://js.jrj.com.cn/bbsnew/bbs120626.js" type="text/javascript"></script>
+		<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/LoginDialog-min.js"></script>
+		<link rel="stylesheet" id="skin" type="text/css" href="http://js.jrj.com.cn/bbsnew/css/essay120605.css" />
+		<script type="text/javascript" src="http://js.jrj.com.cn/myjrj/js/api/myjrj_api_1.js"></script>
+		<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/dialogs-2.js"></script>
+		<script src="http://js.jrj.com.cn/bbsnew/article/staticpage140102.js" type="text/javascript"></script>
+		<link rel="stylesheet" type="text/css" href="http://js.jrj.com.cn/lib/ui/dialog-cool.css" />
+		<link href="http://js.jrjimg.cn/common/bottombar.css" rel="stylesheet" /><!-- 底部通用导航新加样式 -->
+		<style type="text/css">
+	    	.jbtext{background:url(http://i0.jrjimg.cn/istock/igjb.png) no-repeat 0 center;padding:0 20px 0 20px;cursor:pointer;}
+	    	.fcfcnew{z-index:9999;display:none;background:url(http://i0.jrjimg.cn/bbsnew/img/fcfcnew.png) no-repeat 0 0;width:490px;height:350px;position:fixed;top:50%;left:50%;margin-left:-245px;_position:absolude;margin-top:-175px;}
+			.fcfcnew .hd{height:104px;position:relative;}
+			.fcfcnew .hd a.clear{position:absolute;top:8px;right:14px;width:15px;height:15px;display:block;}
+			.fcfcnew .hd i{font-family:"微软雅黑","宋体";font-sizE:24px;position:absolute;top:53px;left:245px;color:#fff;}
+			.text-new1{padding:25px 60px 0;}
+			.text-new1 p{line-height:21px;}
+			.text-new1 p.cur{padding:0 0 20px;}
+			.fhbox{position:fixed;margin-left:480px;left:50%;top:40%;_position:absolute;}
+			.fhbox a{display:block;background:url(http://i0.jrjimg.cn/istock/fhtopnew.jpg) no-repeat;width:66px;height:68px;}
+			.fhbox a.fh02{background-position:0 -68px;margin-top:9px;}
+			.fhbox a.fh01:hover{background-position:-66px 0;}
+			.fhbox a.fh02:hover{background-position:-66px -68px;}
+			.sharetos {
+			    background: none repeat scroll 0 0 transparent;
+			    cursor: pointer;
+			    display: inline-block;
+			    font-size: 12px;
+			    height: 25px;
+			    margin-right: 5px;
+			    padding-left: 2px;
+			    vertical-align: middle;
+			}
+			.mpll {
+			    margin: 38px 0 5px;
+			    overflow: hidden;
+			    text-align: center;
+			}
+	    </style>
+	    <script type="text/javascript" src="http://js.jrjimg.cn/js.do?f=/lib/jrjbase-min.js,/lib/util/ie6fixed-nojq-min.js,/lib/ui/ScrollLeft-min.js,/lib/ui/PopupMsgBox-nojq-1.0.min.js"></script>
+	    
+<script>
+$(document).ready(function(){
+	var ie6Fixed = JRJ.util.ie6Fixed;
+	ie6Fixed.fixed($(".fcfcnew"), "cc");
+	//$(".jbtext").click(function(){
+	//		$(".fcfcnew").show();
+	//		return false;
+	//});
+	$(".clear").click(function(){
+			$(".fcfcnew").hide();
+			return false;
+	});
+  $("#helpbutton").css("right",($(window).width()-$("#topIndex").width())/2-$("#helpbutton").width()-2);
+  if(jQuery.browser.msie && jQuery.browser.version == 6) {
+    Followmod.follow();
+  }
+  $("#helpbutton").show();
+});
+Followmod = {
+  follow : function(){
+    $("#helpbutton").css("position","absolute");
+    $(window).scroll(function(){
+      var mtop = $(window).scrollTop() + $(window).height() - $("#helpbutton").outerHeight()-260;
+      var mleft = ($(window).width()-$("#topIndex").width())/2-$("#helpbutton").width()-2;
+      $("#helpbutton").css({"top":mtop,"right":mleft});
+    });
+  }
+}
+function imgsize(img){
+	img.width=Math.min(img.width,900);
+	if(img.width==900){
+		img.style.cursor="pointer";
+		img.title="点击查看原图";
+	}
+}
+
+function imggo(img){
+	if(img.width>=900){
+		window.open(img.src);
+	}
+}
+</script>
+	</head>
+	<body>
+	<script type="text/javascript" src="http://js.jrjimg.cn/home/click.js"></script>
+	<div class="fcfcnew" id="fcfcnew">
+    	<div class="hd"><a href="javascript:void(0);" class="clear"></a><i>金融界论坛</i></div>
+        <div class="bd">
+        	<div class="text-new1">
+        		<strong>尊敬的用户：</strong>
+                <p class="cur">如您在使用金融界网站论坛的过程中发现色情，反动言论，伪造他人言论，广告欺诈等帖子，为便于网友反馈问题，特将金融界论坛管理员联系方式公布如下，欢迎大家有问题或者建议随时联系。</p>
+                <p>金融界客户服务中心邮箱：jrjhudong@jrj.com.cn</p>
+                <p>论坛客服电话010-58325388-1532</p>
+                <p>金融界论坛官方账户：管理员01</p>
+                <p>金融界论坛客服QQ:2632547546</p>
+                
+            </div>
+        </div>
+    </div>
+	<p class="cnav bbs">
+	<a href="http://www.jrj.com/" target="_blank">首页</a>|
+	<a href="http://i.jrj.com.cn/" target="_blank">我的金融界</a>|
+	<a href="http://blog.jrj.com.cn/" target="_blank">博客</a>|
+	<a href="http://bbs.jrj.com.cn/" target="_blank">论坛</a>|
+	<a href="http://istock.jrj.com.cn/" target="_blank">爱股</a>|
+	<a href="http://itougu.jrj.com.cn?from=itougu-20141227-rc-bbs-sydh-wzl-051" target="_blank">爱投顾</a>|
+	<a href="http://zhibo.jrj.com.cn/" target="_blank">实盘直播</a>|
+	<a href="http://v.jrj.com.cn/" target="_blank">微视频</a>|
+	<a href="http://pic.jrj.com.cn/" target="_blank">图片</a>
+
+			<span>[<a href="http://www.m.jrj.com.cn/" target="_blank">手机金融界</a>]
+			[<a href="http://bbs.jrj.com.cn/bbsmap.html" target="_blank">网站地图</a>]
+			[<a href="javascript:void(0);" onclick="javascript:addFav();">收藏本页</a>]</span>
+		</p>
+		<div class="ban bbs">
+			<a href="http://bbs.jrj.com.cn" class="logo"><a href="http://bbs.jrj.com.cn"></a></a>
+			<div class="fr" id="adDiv"></div>
+      <script>
+             window.onload=function(){
+             var div = document.getElementById("adDiv");
+             div.innerHTML = '<div class="ad1"><iframe width="547" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=27&op=1" ></iframe></div>'
++'<div class="ad2"><iframe width="195" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=28&op=1" ></iframe></div>';
+         }               
+     </script>                       
+	</div>
+	<div class="Bbs_Thread bdnav fw1">
+			<select class="fr" name="history" onchange="windowOPENTO(this)">
+				<option>
+					最近访问版区
+				</option>
+			</select>
+						<!-- a href="http://www.jrj.com.cn">金融界</a><i>&gt;</i --><a href="http://bbs.jrj.com.cn">金融界论坛</a><i>&gt;</i><a href="/money">理财论坛</a><i>&gt;</i><a href="/bank">银行论坛</a>		</div>
+	<div class="Bbs_Thread bbs flist">
+			<div id="login">
+			</div>	
+<form action="/article/searchArticle.jspa" class="search" method="get" onsubmit="return checkData(this)">
+<select id="searchtype" name="searchtype">
+	<option value="author">
+		作者
+	</option>
+	<option value="title">
+		标题
+	</option>
+	<option value="tag">
+		标签
+	</option>
+</select>
+<input class="text" value="请输入搜索内容" name="typeValue" onfocus="onSelected(this)" onblur="onLeave(this)" id="typeValue" type="text"/>
+<input type="hidden" name="from" value="search"/>
+<input type="hidden" name="cid" value="2" />
+<input class="btn" value="搜索" type="submit"/>
+</form>
+</div>
+<div class="navlist" id="loginlist" onmouseover="showloginlist()" onmouseout="outMenuDiv(this, event)" style="display:none">
+<ul><li><a href="/author,2," target="_blank" id="mymsg">我的帖子</a></li><li><a href="/jiangu" target="_blank">我的荐股</a></li></ul>
+</div>
+
+<script>
+	setValue('2','902','0','98706027','090908010050340325','/article/getMsgReply.jspa?msgid=98706027&itemid=0&forumid=902&cid=2&status=0&count=$totalCount');
+	showLogin('thread');
+</script>
+		<div class="Bbs_Thread fun button1">
+			<span class="fl">
+			<!-- a href="javascript:void(0);" onclick="goToReplyDiv('replyDiv')" class="reply" target="_top">回复</a -->
+			<a href="#" onclick="return newthread('/article/sendPreStock.jsp');" class="reply">荐股</a>
+			<a href="#" onclick="return newthread('/article/sendMsgMain.jsp?cid=2&forumid=902&itemid=0');" class="pub">发新帖</a>
+			<a href="javascript:void(0);" onclick="javascript:window.location.reload();" class="break">刷新</a>
+			<a href="/doldmsg/2_98706027.html" class="acol" target="_blank">以旧版方式浏览</a>
+			<a href="http://www.m.jrj.com.cn" class="acol" target="_blank" style="background:url(http://i0.jrjimg.cn/bbsnew/img/phone.gif) no-repeat;padding:5px 0 0 25px;margin:0 0 0 10px">手机上论坛</a>
+			</span>
+			<span class="fr" id="adReplySpan">
+				<!--	<a href="#">预留广告位预留广告位</a>-->
+			</span>
+		</div>
+
+		<div class="Bbs_Thread lcd zhengwen" id="topIndex">
+			<div class="ltit">
+				<h1><b>『普通』主题： 商业银行“投贷联动”新机遇</b></h1>
+				<span>
+					<a class="jbtext" id="jubao" onclick="javascript:$('.fcfcnew').show();">举报</a>
+					<a href="javascript:void(0);" onclick="javascript:addFav();">收藏本页</a><!-- a href="javascript:void(0)" onclick="doFavorite('98706027','0','902','2')">收藏</a--> 
+				</span>
+			</div>
+			<div class="author">
+			<!-- a href="http://i.jrj.com.cn/app/trace/traceforum.jspa?user=090908010050340325" target=_blank -->
+			<a href="/author,2,亏100我也心疼" target=_blank>
+						<img src="http://i5.jrjimg.cn/sys/default_xs.jpg" alt="" />
+						</a>
+			<p class="name"><b><a href="/author,2,亏100我也心疼" name="users" id="1-090908010050340325" onmouseover="showUserinfo('090908010050340325','topIndex','2','25','902')" target="_blank" ref="090908010050340325">亏100我也心疼</a></b><!--a href="#">查看他的牛股池</a--><a href="/author,2,亏100我也心疼" id="track1-090908010050340325" target="_blank">查看TA的论坛文集</a><span class="fr">发表日期：2015-08-13 11:00:09</span></p>
+			<p>头衔：社区侯爵<em id="jifen">积分：620960</em>
+			<a href="#" id="attentionBut" onclick="checkLogin('090908010050340325','亏100我也心疼',1);">关注</a><a href="#" id="frientBut" onclick="checkLogin('090908010050340325','亏100我也心疼',2);">加为好友</a>
+			<span class="fr">
+			<a href="#" name="admin" id="admin-98706027" onmouseover='getOperation("98706027",1,0,0,0)' style="display:none">管理</a>
+			<a href="javascript:void(0)" target="_top" onclick="return quoto('亏100我也心疼','msgMainContent','2015-08-13 11:00:09');">引用</a>
+			<span class="pingfen">
+			<a href="javascript:void(0)" onclick='msgScoreShow("98706027","0","2")'>评分</a>
+			<span class="pop" style="display:none"><strong id="pingfenClose" title="关闭"></strong>点击这里可对本文评分<em></em></span>
+			</span>
+			<script type="text/javascript">
+			$(function() {
+				var pingfenVal = getCookie('threadMsgMain_pingfen');
+				if(pingfenVal != null && pingfenVal != ''){
+					$(".pop").css('display','none');
+				}else {
+					$(".pop").css('display','inline');
+				}
+				$("#pingfenClose").click(function(){
+					addCookie('threadMsgMain_pingfen',1,241000);
+					$(".pop").css('display','none');
+				});
+			});
+			</script>  
+			<a href="#" onclick='return onlyViewUserThread("98706027","2","090908010050340325")'>只看该作者</a>			<ul class='admin' id='only98706027' style="display:none"></ul>
+			</span></p>
+			</div>
+			<!--帖子内容-->
+			
+			<div id="msgcoin_98706027" class="pf_result"> </div>
+			
+			<div class="content" id="msgMainContent">
+				<p>
+　　在我国社会融资股权化日趋明显的背景下，银行传统的存贷汇服务模式已无法满足客户需要，围绕资本市场升级传统业务，已成为越来越多商业银行的选择，兼具传统信贷与股权投资属性的投贷联动业务渐受青睐。</p>
+<p>
+　　这些天，网络科技公司CEO黄立为公司的资金问题忙得焦头烂额，为了能帮公司找到后续资金，他不断辗转于银行、创投公司与朋友之间。“我们已经从VC融到了一笔资金，但还不够，现在正在想办法从银行贷款，不过目前来看比较难，因为我们是初创期的IT企业，没有靓丽的报表，也没有什么抵押物。”黄立颇为无奈。</p>
+<p>
+　　在告别旧有经济增长模式后，中国迎来了以“互联网+”为代表的“新经济”时代，科技创新型企业如雨后春笋般出现，但在这些科技公司企业主中与黄立拥有相同遭遇的却不在少数，他们常常面临融资无门的困境，难以成为银行的“座上宾”。</p>
+<p>
+　　“由于传统金融制度安排与科技创新性企业在资产结构、发展模式方面并不匹配，因此商业银行迫切需要创新金融机制和产品”，中国科技战略发展研究院副院长房汉廷在接受记者采访时分析说。</p>
+<p>
+　　今年3月，国务院发布了《关于深化体制机制改革加快实施创新驱动发展战略的若干意见》（以下简称《意见》），提出了选择符合条件的银行业金融机构，探索试点投贷联动业务。</p>
+<p>
+　　“投贷联动”是指商业银行为客户提供信贷支持，PE或VC企业提供股权融资服务，以“股权+债权”的模式，给创业期的小微企业，特别是科技型企业提供融资的一种金融创新方式。</p>
+<p>
+　　中国银监会副主席周慕冰不久前在国新办新闻发布会上透露，银监会正在推动商业银行投贷联动机制的研究，鼓励条件成熟的银行探索建立科技金融事业部。这意味着商业银行的投贷联动业务迎来新机遇。</p>
+<p>
+　　此外，在我国社会融资股权化日趋明显的背景下，银行传统的存贷汇服务模式已无法满足客户需要，围绕资本市场升级传统业务，已成为越来越多商业银行的选择，兼具传统信贷与股权投资属性的投贷联动业务渐受青睐。</p>
+<p>　　目前，多家银行已经开始了对投贷联动业务的尝试。上海华瑞银行普惠金融部总经理刘汛在接受《
+<span kwname="skwl_keyword" kwid="stock_601988">中国银行</span>(
+<span style="DISPLAY: none">行情</span>
+<span id="hq601988" class="hqspan">601988</span>,
+<font
+color="#000000">咨询</font>)业》杂志采访时表示，“上海华瑞银行正在推动与硅谷银行的战略合作，我们希望通过对硅谷银行的学习逐步掌握投贷联动业务的开展方法与技术，并在合作中发挥各自优势，实现更为适用中国的本土化的投贷联动模式，并达到战略共赢与利益分享的目的。</p>
+<p>　　据了解，包括
+<span kwname="skwl_keyword" kwid="stock_601169">北京银行</span>(
+<span style="DISPLAY: none">行情</span>
+<span id="hq601169" class="hqspan">601169</span>,
+<font color="#000000">咨询</font>)、上海银行、上海农商行、
+<span kwname="skwl_keyword" kwid="stock_600000">浦发银行</span>(
+<span style="DISPLAY: none">行情</span>
+<span id="hq600000" class="hqspan">600000</span>,
+<font color="#000000">咨询</font>)、
+<span kwname="skwl_keyword" kwid="stock_600036">招商银行</span>(
+<span style="DISPLAY: none">行情</span>
+<span id="hq600036" class="hqspan">600036</span>,
+<font color="#000000">咨询</font>)等在内的商业银行也在积极探路投贷联动业务，旨在日趋激烈的行业竞争中寻求更加差异化的发展，提升盈利能力。</p>
+<p>　　但囿于《商业银行法》中
+“商业银行不得向非自用不动产投资或者向非银行金融机构和企业投资”的规定，商业银行只能“曲线试水”相关业务。“随着利率市场化的加速推进，金融综合化经营是大势所趋，国家层面也将对《商业银行法》进行一定修订，其中对商业银行股权投资的相关规定或有松动，这对于投贷联动业务开展来说无疑具有重要意义。”业内人士表示。</p>
+<p>　　
+<strong>融资难题掣肘“新经济”</strong></p>
+<p>
+　　当前，中国经济加速进入了依靠科技创新发展的“新经济”，“大众创业，万众创新”将成为推动我国经济继续前行的重要引擎之一，而富有活力的科技型创新性企业毋庸置疑是此轮经济增长的主角。</p>
+<p>　　然而，在我国孕育“新经济”萌芽的科技型企业却一直饱受融资难题的困扰。有资料显示，北京
+<span kwname="skwl_keyword" kwid="stock_000931">中关村</span>(
+<span style="DISPLAY: none">行情</span>
+<span id="hq000931" class="hqspan">000931</span>,
+<font color="#000000">咨询</font>)示范区企业科技活动资金的80%来自于企业自有资金等内源融资渠道，金融机构贷款占比不足总经费的2%。</p>
+<p>
+　　一位银行业内人士表示，按照银行传统的信贷文化，出于控制风险的考虑，信贷人员更偏好现金流良好、有抵押物、短期盈利能力良好的成熟企业。而对具有轻资产、高投入、高风险特征的科技型企业特别是处于初创期的科技型企业，出于风险控制的考虑，商业银行会比较谨慎。</p>
+<p>
+　　这折射出传统金融制度与科技型企业融资需求之间存在的结构性矛盾。房汉廷对记者分析说，企业成长期包括创业期（初创期和成长期）、成熟期和过熟期三个阶段。成熟期企业具有稳定的现金流、风险低，可依靠传统金融制度进行融资；过熟期企业具有一些投资特征，可依靠现代金融制度安排融资；而处于创业期的企业在我国却缺乏应有的金融制度安排。</p>
+<p>
+　　在我国金融市场层次单一，间接融资比例高达80%以上，其中银行业资产占金融资产的比重又超过了90%，加之直接融资渠道狭窄，信贷资源多倾向于成熟期和过熟期企业，从而导致了结构性融资难题。</p>
+<p>　　从宏观经济层面看，过去依靠
+“三驾马车”（投资、消费、出口）拉动的粗放型经济，在一定程度上也影响了金融服务的重点。“过去很多项目由投资拉动，GDP的增长多由政府或大企业来主导。在这样的背景下，小微企业确实受重视程度不够，这是客观事实。”刘汛表示。</p>
+<p>　　随后，他指出随着“大众创业、万众创新”成为中国经济的重点，我国进入了
+“微观时代”。“其背后体现了去中心化的思维，这也意味着&lsquo;大企业时代&rsquo;将告一段落，小微企业特别是小微科创型企业将成为重点，对这些轻资产企业，商业银行亟待转变金融服务方式和思维。”</p>
+<p>　　
+<strong>投贷联动新机遇</strong></p>
+<p>
+　　《意见》第十二条指出，“完善商业银行相关法律。选择符合条件的银行业金融机构，探索试点为企业创新活动提供股权和债权相结合的融资服务方式，与创业投资、股权投资机构实现投贷联动。”</p>
+<p>
+　　“投贷联动是基于风险与收益之间关系而产生的一种金融创新，它打破了债权式投资与股权式投资的限制，通过&lsquo;债权%2B股权&rsquo;的组合，能有效覆盖企业现在与未来的投资风险”，
+房汉廷介绍。简单来说，投贷联动的核心就是以企业高成长所带来的投资收益抵补银行贷款投放所产生的风险。</p>
+<p>
+　　在投贷联动模式下，一方面，商业银行在与PE/VC等机构的合作中，可以有效识别和控制风险；另一方面，商业银行在支持企业发展的同时，能分享企业成长的收益，有利于平衡风险与收益，提升商业银行积极性；此外，目前对于传统融资业务过于单一的商业银行来说，围绕资本市场直接融资渠道，升级相关业务显得尤为迫切，而投贷联动在一定程度上改善了商业银行投资渠道狭窄，投资品单一的现状。</p>
+<p>
+　　实际上早在2009年，国家开发银行特批获得了国内首张人民币股权投资牌照，并成立了国开金融有限责任公司（以下简称“国开金融”）开展投贷联动业务。而后，包括浦发银行、招商银行、上海银行、上海农商行等商业银行渐次跟进，探索投贷联动模式。</p>
+<p>
+　　一位银行业内人士指出，较之6年前，如今商业银行开展投贷联动业务迎来了全新发展期。“今天的中国经济与30多年前美国经济十分相似，当前中国也正在掀起一轮高新科技浪潮，特别是BAT（百度、阿里巴巴、腾讯）的成功使得产业界看到了希望，加之国家层面和监管层对投贷联动业务模式的认同，其发展前景广阔。”</p>
+<p>
+　　此前，华瑞银行董事长凌涛曾公开表示，定位于服务科技创新企业的上海华瑞银行，将积极探索“投贷联动”模式。刘汛向《中国银行业》杂志的记者透露，目前华瑞银行正在积极推进与硅谷银行的战略合作。“我们将向硅谷银行学习相关的技术与经验，同时也将发挥华瑞银行本土化的优势，通过双方的合作，实现更为适用中国的本土化的投贷联动模式。”</p>
+<p>
+　　北京银行也于近期成立了“中关村小巨人创客中心”，成为国内银行业首家推出“创客中心”的银行。据了解，北京银行创客中心将实施会员制，以投贷联动创新为主线，通过联动企业、机构、银行、政府等多方资源，围绕股权投资、债权融资、创业孵化开展工作，搭建一个股权投资和债券融资联动的平台。</p>
+<p>
+　　“在这个平台上，北京银行为会员提供丰富的行业信息和咨询服务，为他们提供创业中宝贵的经验和教训，让他们少走弯路。同时，我们也为他们提供包括投贷联动在内的全周期金融服务，从各个方面提升会员的忠诚度，最大限度地提升客户粘性。”北京银行有关人士表示。</p>
+<p>
+　　该人士认为，在北上广深等创业活动和投资活动比较活跃的地区，投贷联动业务将取得较好的发展。未来3年内，北京银行将发展10000家会员，通过创客中心大力推动投贷联动运营模式，预计3年内实现投贷规模达1000亿元。</p>
+<p>　　
+<strong>中国投贷联动业务寻路</strong></p>
+<p>　　目前，囿于《商业银行法》第四十三条
+“商业银行不得向非自用不动产投资或者向非银行金融机构和企业投资”的规定，我国银行开展投贷联动业务主要有以下两种模式：一是国开行的股权直投模式；二是“曲线试水”模式，主要包括两种，一种是借助海外全资控股直投子公司进行投资，另外一种是与外部VC/PE合作，按照“债权+认购股权”的模式进行。</p>
+<p>
+　　具体来说，在第一种模式下，由于国家开发银行获取了人民币股权投资牌照，其依托投资机构&mdash;&mdash;国开金融，即可开展股权直投业务。国开行首席经济学家刘勇在接受《中国银行业》杂志的采访时表示，当前国开金融开展的投贷联动业务主要包括两部分：夹层融资以及与国家集成电路产业投资基金的合作。</p>
+<p>
+　　以夹层融资为例，在国开金融的夹层融资业务模式中，与其达成夹层融资合作意向的企业，将获得国开金融的直接投资，且有优先向国开行申请贷款的权利。之后企业每年按出资比例向国开金融进行分红。此外，国开金融还将从各方面协助企业发展，比如改善公司治理，协助公司境内外上市意见咨询、战略制定、行业研究等。</p>
+<p>
+　　对于其他商业银行来说，由于受限于法律与政策，只能曲线操作投贷联动业务。具体来说，一种是借助境外投资子公司，进行直投业务，并与境内银行各个分支机构进行业务联动。以招商银行与SLARZOOM光伏亿家的战略合作为例，通过SLARZOOM资质审核的项目将获得招商银行一定期限的无抵押贷款，同时招商银行旗下全资子公司招银国际金融有限公司将获得SLARZOOM光伏亿家一定比例股权，该企业亦可通过上述股权质押再次获得额外贷款。商业银行若无海外全资子公司合作，则会选择另一种模式，与外部VC/PE合作，一般做法为风投先筛选合作企业，银行再跟进，以便降低风险。</p>
+<p>
+　　不过，从2009年起商业银行试水投贷联动业务，相关业务开展情况差强人意，其中一个重要原因在于“贷”与“投”之间的风险冲突。商业银行秉持的是审慎经营的原则，而风投机构则较为激进，这种风险观的巨大差异化导致了诸多投贷联动项目难以落地。</p>
+<p>
+　　“投贷联动并非一个简单产品、一个技术或者一种创新服务，而是一种崭新的信贷文化。”刘汛认为，要想真正做好投贷联动业务，需要保持投贷联动业务条线的高度独立性，乃至自成体系。</p>
+<p>
+　　“比如说从盈利指标来看，按照传统银行的考核标准，要想贷款，企业必须先要盈利。但是对投贷联动的目标企业来说，企业的持续经营能力更加重要，盈利反而是一种退而求其次的指标，这就需要银行对原来的评价体系的指标权重进行更新，更重要的是观念上的更新。”一位从事投贷联动业务的业内人士表示。</p>
+<p>
+　　为了实现真正意义上的投贷联动，上海华瑞银行在与君联资本合作的投贷联动项目中，首次尝试改变传统银行的“静态评估”投资理念为评估企业未来的“动态投资”理念，并为轻资产的成长期互联网某公司提供了5000万元的无抵押信贷支持，同时该公司为华瑞银行提供了一定比例的认股期权，作为对未来风险的补抵。</p>
+<p>
+　　刘汛表示，因为上海华瑞银行以科技创新金融为发展战略，所以，在普惠金融部也将更多聚焦投贷联动业务，并尝试根据相关业务特点，从组织架构、考核和绩效等方面进行创新。“比如，由于投贷联动单笔业务风险较高，为了减少员工的压力，我们不做单笔业务的考核，而会按照某个投资板块进行考核，这样成功的项目就能抵补失败的项目。同时，从企业未来成长考虑，项目运作肯定会跨年度，甚至用三年或者五年时间，因此考核时我们也尝试将考核期拉长为三年。”</p>
+<p>
+　　不过，对国内所有希望从事投贷联动业务的银行而言，挑战依然不小，主要体现在两个方面：一是如何从原来已经习惯的信贷文化和评判模式中走出来，学习一种全新的价值投资文化；二是由于目前我国还没有经历一个完整的经济周期，加之投贷联动业务操作周期比较长，在资本市场有较大变动的情况下，商业银行是否做好准备去应对？</p>
+<p>　　
+<strong>投贷联动国外经验镜鉴</strong></p>
+<p>　　从国际上看，有很多探索投贷联动业务的实践经验值得我国商业银行学习和借鉴，其中硅谷银行就是重要的样本之一。</p>
+<p>
+　　成立于1983年的硅谷银行，注册资本只有500万美元，在最初运作的十年间，金融产品只有贷款和储蓄，与一般商业无异。20世纪90年代初，美国硅谷高科技产业风雨际会，硅谷银行独辟蹊径开创了投贷联动模式，由传统银行成功转型为科技银行。从1993年以来，硅谷银行的平均资产回报率高达17.5%，远高于美国银行业12.5%的回报率，并且贷款损失率不到1%。</p>
+<p>　　房汉廷认为，硅谷银行之所能够蜕变为世界著名的科技银行主要得益于三个方面：一是准确的服务定位。硅谷银行时任CEO John
+Dean将客户目标锁定在了三类中小企业上，分别是处于初创期和扩张期的中小企业；必须是创业投资支持的中小企业，并与创业投资公司合作；特定行业的中小企业。</p>
+<p>
+　　二是进行了业务模式的创新。硅谷银行率先打破了债权与股权投资的边界，开创了投贷联动业务的先河，在提高收益的同时降低了风险；同时，硅谷银行还模糊了直接投资和间接投资的界限，即硅谷银行不经过创投公司，直接为科技企业投入资金；以及硅谷银行不接触科技公司，将资金投入创投公司，由创投公司回报给银行。</p>
+<p>
+　　三是对风险控制方式进行了创新。在风险隔离操作中，硅谷银行将创业投资与一般业务分割开来，其成立了两家专门公司管理创业投资基金，进一步保证了风险的隔离。同时，为了分散风险，硅谷银行对项目进行了投资组合，主要包括四种组合方式：不同行业的项目投资组合；不同阶段的项目投资组合；不同风险程度的项目投资组合以及不同地域空间的项目投资组合。</p>
+<p>　　除了硅谷银行，以商业银行为主要投资者的新型私募股权基金&mdash;&mdash;英国“中小企业成长基金”（Business Growth
+Fund，BGF）的经验为我国投贷联动的开展提供了另外一个思路。</p>
+<p>
+　　据了解，不同于硅谷银行，BGF由英国银行家协会和主要银行银行发起设立，其整合了包括政府部门、商业银行、社会团体及个人投资者等多方资源。BGF设有董事会、风险、审计、薪酬和投资委员会等部门，且独立于控股股东运作，其投资项目大部分来自于商业银行的推介，并主要由投资委员会对每一个投资项目作出决定。在投资模式上，BGF只投少数股权（约占普通股的10%-40%），当被投资项目进入盈利阶段后就会派发股息。或等待时机成熟，出售早期投资项目，从而获得更多利润。自2011年成立以来，BGF已经向超过100家公司投资了逾5亿英镑，成为英国最活跃的成长资本投资机构。</p>
+<p>
+　　业内专家表示，该模式最大的特点是能够迅速整合多方投资能力，将政府部门引导基金和商业银行投资资金直接引导至成长型的小微企业中来，为其提供直接融资。“在充分借鉴BGF经验的基础上，我国也可以尝试发起成立一支由相关政府部门投入引导基金，由商业银行投入资金，专门用于支持我国小微企业成长发展的股权投资基金，简单来说就是具有政府背景的银行系中国式私募股权投资基金。”</p>
+<p>
+　　“国际上投贷联动的一些成功做法有很多可以借鉴，也受到了政府和监管部门的认可，但由于法律法规上的一些限制，致使相关经验难以真正复制和推广，我们期待着未来法律和政策上能有所突破。”上述从事投贷联动业务的业内人士认为，目前，可以适度放开商业银行对企业股权的直投业务。比如，对《商业银行法》第四十三条进行修订，允许商业银行在建立隔火墙的情况下，以适当方式投资于企业股权；同时，在北上广深等创业和投融资较好的地方可进行先行先试。本文原载于《中国银行业》杂志2015年第7期。</p>
+<br />
+　　原文链接：http://bank.jrj.com.cn/2015/08/13105919644612.shtml
+
+							</div>
+			<div class="content">
+							
+			<div style="height:10px">&nbsp;</div>
+						</div>
+			
+				<div class="mpll" style="width:625px;margin:0 auto;margin-top:38px;">
+			<span style="float:left;margin-right:5px;" class="digg1" onclick="doDingorCaiAction(0,98706027,2)">文章不错(<i>0</i>)</span>
+			<span style="float:left;" class="digg4" onclick="copyShareUrl()">复制链接</span>
+			<div style="float:left;" class="sharetos">
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+				<span class="bds_more">分享到：</span>
+				<a class="bds_qzone"></a>
+				<a class="bds_tsina"></a>
+				<a class="bds_tqq"></a>
+				<a class="bds_renren"></a>
+				<a class="bds_t163"></a>
+				<a class="shareCount"></a>
+				</div>
+				<span class="refreshs" style="float:left;line-height:25px;">&nbsp;&nbsp;帖子刷新<select id="autoRefreshConfSelect" name="autoRefreshConfSelect" onchange="javascript:refreshConfSet()" >
+					<option value="1" >1分钟</option>
+					<option value="2" >2分钟</option>
+					<option value="3" >3分钟</option>
+					<option value="5" >5分钟</option>
+					<option value="0" >不刷新</option>
+				</select></span>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=6470526" ></script>
+				<script type="text/javascript" id="bdshell_js"></script>
+				<script type="text/javascript">
+				document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+				</script>
+				<!-- Baidu Button END -->
+			</div>
+<script>
+	var inter_variable;
+	function refreshConfSet(){
+		var time = parseFloat($('#autoRefreshConfSelect').val());
+		var date = new Date();
+		date.setTime(date.getTime()+365*24*3600*1000);
+		document.cookie = 'Ref_Msg_Conf=' + time + ';expires=' + date.toGMTString();
+		clearInterval(inter_variable);
+		if(time != 0){
+			inter_variable = setInterval(function(){
+					window.location.href = window.location.href;
+				},time*60*1000);
+		}
+	}
+	function getDefaultRefreshTime(){
+		var cook = document.cookie;
+		var start = cook.indexOf('Ref_Msg_Conf');
+		var time = parseFloat('0');
+		if(start != -1){
+			start += 'Ref_Msg_Conf'.length + 1;
+			var end = cook.indexOf(';',start);
+			if(end == -1){
+				time = parseFloat(cook.substring(start));
+			}else{
+				time = parseFloat(cook.substring(start,end));
+			}
+		}
+		clearInterval(inter_variable);		
+		$('#autoRefreshConfSelect').val(time);
+		if(time != 0){
+			inter_variable = setInterval(function(){
+					window.location.href = window.location.href;
+				},time*60*1000);
+		}
+	}
+	
+	getDefaultRefreshTime();
+</script>
+			</div>
+			<br>
+		</div>
+<div class="floats" id="popdiv" style="display:none">
+<div class="float float1" id="favoriteDiv" style="display:none"> <a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>收藏帖子</span></strong></p>
+    <p class="right" id="favoriteAlert">已经成功收藏本帖！请到<a href="#">我的收藏</a>中查看所有收藏贴</p>
+    <p class="txr">窗口5秒自动关闭</p>
+</div>
+<div id="sharediv" class="float float1" style="display:none"> <a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>复制链接给好友</span></strong></p>
+    <p>本帖连接：<input id="shareurl" type="text" value="http://bbs.jrj.com.cn/msg,98706027.html" class="tex" readonly="readonly"/></p>
+    <p class="p1"><input type="button" value="复制并发送给我的好友" onclick="copyShareUrl()"/></p>
+    <p>分享到：<a href="javascript:void(0)" onclick="javascript:createShare()" class="ic1">我的金融界</a></p>
+</div>
+<div id="shareokdiv" class="float float1" style="display:none" ><a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>复制链接给好友</span></strong></p>
+    <p id="sharemsg" class="right p2">帖子地址已经复制，您可以粘贴到QQ，MSN或者邮件发给好友了！每次点击你将获得一个威望。</p>
+    <p class="txr">窗口5秒自动关闭</p>
+</div>
+</div>
+<div style="margin-bottom:10px;"><center><a href="http://i.jrj.com.cn/app/vstock/index.jspa" target="_blank"><img src="http://ufile.jrj.com.cn/200912/17/bbs_attach_img/bbs_attach_img_12610207826881.gif" alt=""></a></center></div>
+
+		<!--楼主更多贴，论坛精粹-->
+		<div class="Bbs_Thread about">
+			<div class="lcd s1">
+			<p class="ltit">
+				<strong><a href="/author,2,亏100我也心疼" target="_blank">楼主更多贴</a></strong>
+				<ul class="ull" id="louzhumoremsg"></ul>	
+			</p>
+			</div>
+									<div class="lcd bbsjp s1">
+										   	<p class="ltit"><strong>论坛精粹</strong>
+			   					<div id="injection">
+								   <a href="http://bbs.jrj.com.cn/msg,73302967.html"><img						src="http://img.jrjimg.cn/2011/05/20110520151932921.jpg" class="imgb"						alt="富人的50个理财习惯" /> </a>				<ul class="ull">					<li>						<A href="http://bbs.jrj.com.cn/msg,73510041.html" target="_blank">吃透三句话人人都能成富翁</A><A href="http://bbs.jrj.com.cn/msg,73289221.html" target="_blank"></A><A href="http://bbs.jrj.com.cn/msg,72917018.html" target="_blank"></A><a href="http://bbs.jrj.com.cn/msg,71744207.html"></a>					</li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73508474.html" target="_blank">经济适用男PK白领愁嫁女！！</A><a href="http://bbs.jrj.com.cn/msg,72916645.html"></a>					</li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73507900.html" target="_blank">高薪不是白领唯一追求</A><a href="http://bbs.jrj.com.cn/msg,73286590.html"></a>					</li>					<li><A href="http://bbs.jrj.com.cn/msg,73504857.html" target="_blank">全球最火辣十大亿万富家女</A><A href="http://bbs.jrj.com.cn/msg,73309651.html" target="_blank"></A><a href="http://bbs.jrj.com.cn/msg,72882577.html"></a>											</li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73502482.html" target="_blank">私奔投资人王功权回家</A><a href="http://bbs.jrj.com.cn/msg,73309641.html"></a>					</li>				</ul>				<ul class="ull">					<li>						<a href="http://bbs.jrj.com.cn/msg,73499076.html"> 全球最理想工作盘点</a></li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73487695.html" target="_blank">揭秘美国人理财十大秘诀</A><a href="http://bbs.jrj.com.cn/msg,72880887.html"></a>					</li>						
+<li>						<A href="http://bbs.jrj.com.cn/msg,73484026.html" target="_blank">闲暇时该做的28件聪明事</A><A href="http://bbs.jrj.com.cn/msg,73262409.html" target="_blank"></A><a href="http://bbs.jrj.com.cn/msg,72880299.html"></a>					</li>					<li><A href="http://bbs.jrj.com.cn/msg,73467912.html" target="_blank">工薪族三步攒出个百万富翁</A><a href="http://bbs.jrj.com.cn/msg,72861475.html"></a>											</li>		  	<li>						<a href="http://bbs.jrj.com.cn/msg,73480310.html"> 如何让所有人都快乐消费</a>					</li>				</ul>
+								</div>
+			   </p>
+			</div>
+					</div>
+		
+		<!--zhibo
+		<div class="Bbs_Thread about" style="height:75px;margin:10px auto 9px;overflow: hidden;width: 953px;">
+			<iframe width="950" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=472&op=1" ></iframe>
+		</div>-->
+		
+		<!--回帖信息列表-->
+				<div class="Bbs_Thread fun button2">
+			<span class="fl">
+				<!-- a href="javascript:void(0);" onclick="goToReplyDiv('replyDiv')" target="_top"  class="reply">回复</a -->
+				<a href="#" onclick="return newthread('/article/sendPreStock.jsp');" class="reply">荐股</a>
+				<a href="#" onclick="return newthread('/article/sendMsgMain.jsp?cid=2&forumid=902&itemid=0');" class="pub">发新帖</a>
+				<a href="javascript:window.location.reload();" class="break">刷新</a>
+				<a href="/doldmsg/2_98706027.html" class="acol" target="_blank">以旧版方式浏览</a> 
+		       	</span>
+			<p class="pn pn2"><a href="/msg,98706027,1.html">首页</a><a href="#" class="next">&lt;&lt;上一页</a><a href="#" class="cur">1</a><a href="#" class="next">下一页&gt;&gt;</a><a href="/msg,98706027,1.html">末页</a>共1页&nbsp;到<input id="gopage2" type="text" size=2>页<input type="button" value="提交" onclick="javascript:goPage(2);"></p>
+		</div>
+		<div class="Bbs_Thread blue2">
+		<p class="abor">
+				<a href="/">返回论坛首页</a><a href="/902" id="_backTOfirst">返回本版首页</a>
+			</p>
+			<p id="previous">
+				<b>论坛上一帖：</b><a href="javascript:void(0)" id="previousthread" target="_blank">&nbsp;&nbsp;</a>
+			</p>
+			<p id="next">
+				<b>论坛下一帖：</b><a href="javascript:void(0)" id="nextthread" target="_blank">&nbsp;&nbsp;</a>
+			</p>
+		</div>
+
+		<div class="Bbs_Thread lcd tjian" id="S1_R">
+			<p class="ltit"><strong>近期热门话题推荐</strong></p>
+				
+				<ul><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95188719.html"><img src="http://i5.jrjimg.cn/201404/29/bbs_attach_img/bbs_attach_img_13987437656041.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95188719.html">政府关系最硬的民营企业</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95115050.html"><img src="http://i5.jrjimg.cn/201404/24/bbs_attach_img/bbs_attach_img_13983079197391.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95115050.html">盘点年入几十万的小生意</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95007640.html"><img src="http://i5.jrjimg.cn/201404/16/bbs_attach_img/bbs_attach_img_13976176535951.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95007640.html">中国社会七大灰色产业链</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,94971037.html"><img src="http://i5.jrjimg.cn/201404/14/bbs_attach_img/bbs_attach_img_13974442464991.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,94971037.html">中国九大最好赚钱的产业</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,94922538.html"><img src="http://i5.jrjimg.cn/201404/10/bbs_attach_img/bbs_attach_img_13971002679111.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,94922538.html">中国人变穷的四大真相</a></p></li></ul><ul class="ull"><li><a target="_blank" href="http://bbs.jrj.com.cn/picshow">更多劲爆图片</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbmsg">论坛热帖</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbzqt">精准高手</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/tag">热门股票</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbps_5">人气高手</a></li></ul>
+		</div>
+
+		<div class="Bbs_Thread cc">
+			<div id="ReplyIframeDiv" class="fl" >
+			<iframe id="replyPostDetal" name="replyPostDetal" width="100%" height="368px;" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes" src="/article/getMsgReply.jspa?msgid=98706027&itemid=0&forumid=902&cid=2&status=0&count=$totalCount"> 
+			</iframe>
+			<script type="text/javascript">
+				var attachNum=0;
+				var delIndex=null;
+				var sourcetext = "";
+				 
+				 function insertAttach(fileName,fileUrl){
+				 	 attachNum++;
+				 	 
+				 	var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+				 	 var atts = editdoc.getElementById("fileAttach");
+				 	 
+				 	 if (attachNum==1){
+				 	 	sourcetext = atts.innerHTML;
+				 	 }
+				 	 
+				 	 atts.innerHTML += '<li id="attach_'+attachNum+'">附件：<a href="'+fileUrl+'"><img src="http://js.jrj.com.cn/bbsnew/fckeditor/editor/skins/default/toolbar/uploadfile.gif" width="15px" height="15px"></img>'
+				 	   +'&nbsp;'+fileName+'</a>&nbsp;&nbsp;<a href="javascript:void(0)" name="delete" onclick="parent.delAttach('+attachNum+')">删除附件</a>&nbsp;&nbsp;&nbsp;&nbsp;售价（铜板）：<input name="filecoin_'+attachNum+'" id="filecoin_'+attachNum+'" type="text" style="width:30px" /> 最高1000</li>';
+				 	 atts.innerHTML = atts.innerHTML.replace(sourcetext,"") + sourcetext;
+				 	   
+				 	   var sAnnex = editdoc.getElementById("annxe");
+				 	   if(!sAnnex){
+					 	   var form1 = editdoc.getElementById("form1");
+							var textHidden = editdoc.createElement("input");
+							textHidden.type = "hidden";
+							textHidden.name ="annxe";
+							textHidden.id = "annxe";
+							textHidden.value = "";
+							form1.appendChild(textHidden);
+							sAnnex = textHidden;
+					   }
+				 	  var value = sAnnex.value;
+				 	  if(value!="") {
+							value += "|";
+					  }
+				 	  value += attachNum+","+fileUrl+","+ fileName + "," + "http://js.jrj.com.cn/bbsnew/fckeditor/editor/skins/default/toolbar/uploadfile.gif";
+				 	  sAnnex.value = value;
+				 	  
+						var pTar = document.getElementById("replyPostDetal");
+					    if (pTar.contentDocument && pTar.contentDocument.body.offsetHeight){  
+					      pTar.height = pTar.contentDocument.body.offsetHeight;   
+					    }else if (pTar.Document && pTar.Document.body.scrollHeight){  
+					      pTar.height = pTar.Document.body.scrollHeight;
+					    }
+				 }
+				 function delAttach(index){           
+         			 delIndex=index;
+         			 var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+         			 var sAnnex = editdoc.getElementById("annxe");
+         			 if(sAnnex) {
+						var sValue = sAnnex.value;
+						var iIndex = sValue.indexOf("|"+index);
+						if (index==1) iIndex = 0;
+						var iEndIndex = sValue.indexOf("|",iIndex+1);
+						if(iEndIndex==-1) {
+							iEndIndex = sValue.length;
+							}
+						var firstStr = sValue.substring(0,iIndex);
+						var endStr = sValue.substring(iEndIndex+1);
+						if (index!=1){
+							sAnnex.value = firstStr +"|"+ endStr;
+						}else{
+							sAnnex.value = firstStr + endStr;
+						}
+						
+						var pTar = document.getElementById("replyPostDetal");
+					    if (pTar.contentDocument && pTar.contentDocument.body.offsetHeight){  
+					      pTar.height = pTar.contentDocument.body.offsetHeight;   
+					    }else if (pTar.Document && pTar.Document.body.scrollHeight){  
+					      pTar.height = pTar.Document.body.scrollHeight;  
+					    }
+             		 }
+         			 delCallBack();
+				 }
+				 function delCallBack(){
+					 var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+				   	var atts = editdoc.getElementById("fileAttach");
+				 	 var att = editdoc.getElementById("attach_"+delIndex);
+				 	 atts.removeChild(att);
+				 }
+				 function goPage(pagename){
+				 	var gopage = document.getElementById("gopage"+pagename).value;
+				 	if(gopage!=null && gopage!=""){
+        				var r,re;
+        				re = /\d*/i;
+        				r = gopage.match(re);
+        				if (r!=gopage){
+        					alert("请输入数字页码");
+        					return;
+        				}
+    				}else{
+    					alert("请输入数字页码");
+    					return;
+    				}
+    				//window.location.href= "/dmsg/2_98706027_"+gopage+".html";
+				 	window.location.href= "/msg,98706027,"+gopage+".html";
+				 }
+				</script>
+			</div>
+	<div class="fr">
+				<ul class="ltit">
+			<li class="hover" id="jh1" onmouseover="setTab('jh',1,2)" onclick="window.open('/gupiao_celite');"><strong>最新精华帖</strong></li>
+			<li id="jh2" onmouseover="ajax_getNiurenList(902)"><strong>版区牛人榜</strong></li>
+		</ul>
+		<ul class="ull" id="con_jh_1">
+		<li><img src="http://i0.jrjimg.cn/myjrj/loading2.gif"/></li>
+		</ul>
+		<div id="con_jh_2" style="height:339px;display:none">
+			<table class="jhtab" id="niuren">
+			<tr><th width="32"><span>排名</span></th><th width="85"><span>ID</span></th><th width="61"><span>精华帖数</span></th><th width="55"><span class="end">积分</span></th></tr>
+			<tr id="niurenload"><td colspan=4><img src="http://i0.jrjimg.cn/myjrj/loading2.gif"/></td></tr>
+			</table>
+			<br><center><a href="/msg,64498799.html" target="_blank"><img src="http://i0.jrjimg.cn/bbsnew/img/joinniuren.gif"/></a></center>
+		</div>
+			</div>
+		</div>
+		
+				
+		<div class="Bbs_Thread bdnav fw2">
+			<select class="fr" name="history" onchange="windowOPENTO(this)">
+				<option>
+
+					最近访问版区
+				</option>
+			</select>
+		<a href="http://www.jrj.com.cn">金融界</a><i>&gt;</i><a href="/money">理财论坛</a><i>&gt;</i><a href="/bank">银行论坛</a>		</div>
+
+<!-- 回到顶部&刷新 start 
+<div class="helpbutton" id="helpbutton" style="display:none">
+  <div class="gotop"><a href="javascript:void(0);" alt="回到顶部" onclick="javascript:window.scrollTo(0,0);">回到顶部</a></div>
+  <div class="refresh"><a href="javascript:void(0);" alt="刷新" onclick="javascript:window.location.reload();">刷新</a></div>
+</div>-->
+<!--
+<div class="fhbox" id="helpbutton"><a href="javascript:void(0);" class="fh01" alt="回到顶部" onclick="javascript:window.scrollTo(0,0);"></a><a href="http://survey.jrj.com.cn/channel/pub/q1832m2w0h0.html" class="fh02" target="_blank"></a></div>
+-->
+<!-- 回到顶部&刷新 end -->
+
+		<!-- 不能删除的div模板-->
+		<div class="infor" style="display:none">
+		</div>
+<script type="text/javascript">
+	goToFirstPage(window.location+"");
+        var _globalImgPath = "http://i0.jrjimg.cn/bbsnew/";
+	var _messageshow="thread";
+	var itemid=_itemid;
+	var forumid=_forumid;
+	var cid=_cid;
+	var divid = "history";
+	var forumname="银行论坛";
+
+	getMainMsgInfo(_msgid,_cid);
+	ajax_getEssList(0,_cid);
+</script>
+<script>
+	var ads={"list":[{"title":"","link":"http://www.jrj.com.cn"},{"title":"","link":"http://www.jrj.com.cn"}]}
+
+fixUpRecommendReply();
+</script>
+	<script src="/editorInc/finacing/floater_fd.js" type="text/javascript"></script>
+<script type="text/javascript">
+	showFloater(2);
+	function newthread(url){
+		if(typeof(flag)=='undefined' || flag=='notlogin'){
+			loginDlg.show();
+			return true;
+		}
+		window.location.href=url;
+	}
+	function checkLogin(uid,username,type) {
+		if(uid&&username&&uid.length>0&&username.length>0) {
+			if(typeof(flag)=='undefined' || flag=='notlogin'){
+				loginDlg.show();
+			}else {
+				ajax_getLoginUser(uid,username,type,loginDlg);
+			}
+		}else{
+			loginDlg.show();
+		}
+	}
+	var toDiv = document.getElementById('toooo');
+	if(toDiv) {
+		var div = getAbsPoint(toDiv);
+		if(div) {
+			window.scrollTo(0,div['y']);
+		}
+	}
+	ajax_JustLoginUser('090908010050340325');
+	dealIMG();
+	Popularize();
+	
+</script>
+
+		<div class="f">
+			<script src="http://js.jrjimg.cn/common/foot/v2.js" type="text/javascript"></script>
+		</div>
+
+		<img width="1" height="1" src="http://i0.jrjimg.cn/bbsnew/img/null.gif" id="countimg" alt=""/>
+<script src="http://js.jrj.com.cn/bbsnew/tongji_bbs.js" type="text/javascript"></script>
+
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛左浮标 Begin -->
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=29" ></script>
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛左浮标 End -->
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛右浮标 Begin -->
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=30" ></script>
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛右浮标 End -->
+
+<input type="hidden" id="ms_msgid" value="">
+<input type="hidden" id="ms_parentid" value="">
+<input type="hidden" id="fsfileid" value="">
+
+<!---------------------底部通用导航html-------------------------->
+<!--
+<div class="bottom_nav">
+
+    <div id="BBar_Main" class="open" style="display:none">
+
+    <iframe frameborder="0" scrolling="no" style="position:absolute; visibility:inherit; top:0px; left:0px; width:100%; height:31px;background:none;border:none;display:none;_display:block; z-index:-1; filter:alpha(opacity=0);-moz-opacity:0;-khtml-opacity:0;opacity:0;background:none;"></iframe>
+
+    <div class="left-box">
+
+    	<strong>实盘直播</strong>  
+
+    </div>
+
+	<div class="right-box">
+
+    	<a id="BBar_Open_Btn" href="javascript:;" class="develop"></a>
+
+    	<p class="btn"><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/main" target="_blank">我的金融界</a><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/stock/group/index.jspa" target="_blank">我的自选股</a><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/myfund/index.jspa" target="_blank">自选基金</a><a href="http://pay.jrj.com.cn/coin/rechage.jspa" target="_blank">金币充值</a></p>
+
+        <b id="BBar_Msg_Tip" class="off"></b>
+
+    </div>
+
+    <div class="center-box">
+
+    	<div class="pab01">
+
+    		<div id="stock_scroll" class="scroll">
+
+              	<table>
+
+                    <tbody>
+
+	  	  				<tr>
+
+	  	  					<td id="stock_scroll_content1">
+
+	  	  					</td>
+
+	  	  					<td id="stock_scroll_content2"></td>
+
+	  	  				</tr>
+
+	  				</tbody>
+
+  				</table>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    </div>
+
+    <div id="BBar_Close_Cont" class="close" style="display:none"><input id="BBar_Close_Btn" type="button" /></div>
+
+</div>
+-->
+	<div id="popMsgBox" class="mb" style="display:none;right:20px;">
+
+	   <div id="popMsgBox_Titlebar" class="mbhd">
+
+		   <span id="popMsgBox_Title" class="title">系统消息</span>
+
+		   <b id="popMsgBox_Close" class="option"></b>
+
+	   </div>
+
+	   <div id="popMsgBox_Content" class="mnbd">
+
+	   	  <div class="tit-mb">
+
+            <p></p>
+
+            <p class="pr"><a href="http://i.jrj.com.cn/main/systemMessages.jspa" target="_blank">查看</a></p>
+
+          </div>
+
+	   </div>
+
+	</div>
+
+<!---------------------------END 底部通用导航html--------------------------->
+
+    
+
+<!---------------------------   底部通用导航页面js   ---------------------------> 
+
+
+<script type="text/javascript" src="http://js.jrjimg.cn/lib/bottom-bar/BottomBar-min.1.7.js"></script>
+
+
+<!---------------------------  END 底部通用导航页面js   ------------------------> 
+
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=484" ></script>
+	</body>
+</html>
+
+

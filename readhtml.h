@@ -16,4 +16,7 @@ int read_urls_to_UrlBuf(UrlBuf** urls, char* urlfilename);
 
 void read_url_with_siss(UrlBuf** urls, char* urlsissfilename);
 
+char* get_siss(char* url);
+
+
 #endif

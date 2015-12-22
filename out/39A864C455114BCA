@@ -1,0 +1,204 @@
+<!--UINFO: http://www.jmbbs.com/forum.php?mod=viewthread&amp;tid=3656469&amp;page=1	length=15048&last_modified=1450677185&time_saved=1450677186&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>提示信息 -  荆门社区 -  强势媒体 荆门门户 </title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",荆门社区" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://www.jmbbs.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_7_common.css?fgU" /><link rel="stylesheet" type="text/css" href="data/cache/style_7_forum_viewthread.css?fgU" /><script type="text/javascript">var STYLEID = '7', STATICURL = 'static/', IMGDIR = 'template/comiis_km25lshlxsi/comiis_hlx', VERHASH = 'fgU', charset = 'gbk', discuz_uid = '0', cookiepre = 'RZV4_53ff_', cookiedomain = '.jmbbs.com', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'login|newthread|reply', creditnotice = '1|威望|,2|象山币|', defaultstyle = '', REPORTURL = 'aHR0cDovL3d3dy5qbWJicy5jb20vZm9ydW0ucGhwP21vZD12aWV3dGhyZWFkJmFtcDt0aWQ9MzY1NjQ2OSZhbXA7cGFnZT0x', SITEURL = 'http://www.jmbbs.com/', JSPATH = 'static/js/', DYNAMICURL = '';</script>
+
+    <script src="template/comiis_km25lshlxsi/comiis_hlx/jquery-1.4.3.min.js" type="text/javascript"></script>
+        <script src="static/js/common.js?fgU" type="text/javascript"></script>
+<meta http-equiv=“X-UA-Compatible” content=“IE=8″>
+<meta name="application-name" content="荆门社区" />
+<meta name="msapplication-tooltip" content="荆门社区" />
+<meta name="msapplication-task" content="name=门户;action-uri=http://www.jmbbs.com/portal.php;icon-uri=http://www.jmbbs.com/template/comiis_km25lshlxsi/comiis_hlx/portal.ico" /><meta name="msapplication-task" content="name=论坛;action-uri=http://www.jmbbs.com/forum.php;icon-uri=http://www.jmbbs.com/template/comiis_km25lshlxsi/comiis_hlx/bbs.ico" />
+<meta name="msapplication-task" content="name=群组;action-uri=http://www.jmbbs.com/group.php;icon-uri=http://www.jmbbs.com/template/comiis_km25lshlxsi/comiis_hlx/group.ico" /><meta name="msapplication-task" content="name=窝窝;action-uri=http://www.jmbbs.com/home.php;icon-uri=http://www.jmbbs.com/template/comiis_km25lshlxsi/comiis_hlx/home.ico" /><link rel="archives" title="荆门社区" href="http://www.jmbbs.com/archiver/" />
+<script src="static/js/forum.js?fgU" type="text/javascript"></script>
+</head>
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<script>
+var closetimer=new Array();
+function kmmenu(id,op){
+if(op){
+clearTimeout(closetimer[id]);
+$("menu"+id).className="hover";
+$("menu"+id+"_1").style.display="block";
+}else{
+closetimer[id] = setTimeout(function(){kmhmenu(id,op);},500);
+}
+}
+function kmhmenu(id,op){
+$("menu"+id).className="";
+$("menu"+id+"_1").style.display="none";
+}
+</script>        <div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">加入荆门社区</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div><div class="comiis_kmtop">
+<div class="comiis_kmftop">
+<div class="comiis_kmtop960">
+<h2 class="z"><a href="./index.php"><img src="template/comiis_km25lshlxsi/comiis_hlx/comiis_toplogo.jpg"></a></h2>
+<a href="./index.php" class="meti">全站首页</a>
+<div class="comiis_kmtopnav">
+<a href="forum.php" id="menu1" onMouseOver="kmmenu(1,1);" onMouseOut="kmmenu(1,0);">入城口</a>
+<div class="kmmenus" id="menu1_1" onMouseOver="kmmenu(1,1);" onMouseOut="kmmenu(1,0);" style="display: none;"><div class="wp">
+<div class="comiis_topdh">
+  <div class="talk">
+    <div class="talk_l board_l"><span style="background:url(http://jmbbs.com/template/comiis_km25lshlxsi/comiis_hlx/index2014_03.jpg) no-repeat; width:36px; height:54px"></span></div>
+    <div class="talk_r board_r"><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=5" target="_blank">城市</a> <a href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=533" target="_blank">房产</a> <a href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=6" target="_blank">装修</a> <a href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=48" target="_blank">汽车</a> <a href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=990" target="_blank">健康</a> <a href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=14" target="_blank">数码</a> <a href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=75" target="_blank">美食</a> <a href="http://www.jmbbs.com/portal.php?mod=list&amp;catid=22" target="_blank">婚嫁</a> <a href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=24" target="_blank">亲子</a> <a href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=71" target="_blank">教育</a> <a href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=55" target="_blank">购物</a> <a href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=27" target="_blank">旅游</a></div>
+  </div>
+  <div class="life">
+    <div class="life_l board_l"><span style="background:url(http://jmbbs.com/template/comiis_km25lshlxsi/comiis_hlx/index2014_05.jpg) no-repeat; width:36px; height:54px"></span></div>
+    <div class="life_r board_r"><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=51" target="_blank">二手</a><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=50" target="_blank">二手房</a><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=50&amp;filter=typeid&amp;typeid=121" target="_blank">租房</a><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=52" target="_blank">招聘</a><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=538" target="_blank">二手车</a><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=69" target="_blank">便民</a></div>
+  </div>
+  <div class="women">
+    <div class="women_l board_l"><span style="background:url(http://jmbbs.com/template/comiis_km25lshlxsi/comiis_hlx/index2014_07.jpg) no-repeat; width:36px; height:54px"></span></div>
+    <div class="women_r board_r">
+    <a href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=4" target="_blank">灌水</a>
+    <a href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=29" target="_blank">交友</a>
+    <a href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=10" target="_blank">相册</a>
+    <a href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=7" target="_blank">心情</a><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=559" target="_blank">婚姻</a><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=719" target="_blank">单车</a><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=811" target="_blank">摩旅</a><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=9" target="_blank">拍客</a><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=537" target="_blank">车友</a><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=93" target="_blank">鱼群</a><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=85" target="_blank">宠物</a><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=562" target="_blank">收藏</a><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=677" target="_blank">体育</a><a 
+    href="http://www.jmbbs.com/forum.php?mod=forumdisplay&amp;fid=714" target="_blank">花卉</a></div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+<a href="forum.php" class="meti">论坛</a>
+<!--<a href="home.php" class="meti">窝窝</a>-->
+<a href="http://rc.jmbbs.com/" target="_blank" class="meti">人才网</a>
+<a href="misc.php?mod=mobile" class="meti">手机版</a>
+<div class="comiis_topss z">
+  <div id="comiis_scbar" class="comiis_scbar_narrow cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('comiis_scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="comiis_scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="2da05b6a" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="comiis_scbar_icon_td"></td>
+<td class="comiis_scbar_txt_td"><input type="text" name="srchtxt" id="comiis_scbar_txt" onblur="if (value ==''){value='请输入搜索内容'}" onfocus="if (value =='请输入搜索内容'){value =''}" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="comiis_scbar_type_td"><a href="javascript:;" id="comiis_scbar_type" class="showmenu xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="comiis_scbar_btn_td"><button type="submit" name="searchsubmit" id="comiis_scbar_btn" sc="1" class="pn pnc" value="true">&nbsp;&nbsp;</button></td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="comiis_scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('comiis_scbar', '');
+</script>
+</div>
+<div class="dl">
+<a href="member.php?mod=logging&amp;action=login" id="menu5" onMouseOver="kmmenu(5,1);" onMouseOut="kmmenu(5,0);">请登陆</a>	
+<a href="member.php?mod=register">免费注册</a>					
+<div class="dldiv" id="menu5_1" onMouseOver="kmmenu(5,1);" onMouseOut="kmmenu(5,0);" style="display: none;">
+<span class="dltop"></span>
+<div class="dlbottom">
+<div id="comiis_xdl">
+<div class="comiis_xdl_nr">
+<table cellspacing="0" cellpadding="0">
+<form method="post" autocomplete="off" id="loginForms" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;lssubmit=yes">
+<input type="hidden" name="formhash" value="2da05b6a" />
+<input type="hidden" name="referer" value="" />
+<tr><td>用户名：</td></tr>
+<tr><td><input type="text" name="username" autocomplete="off" onFocus="if (value =='请输入用户名'){value =''}" value="请输入用户名" tabindex="98" class="comiis_xdl_xk mb5"></td></tr>
+<tr><td><span>忘记密码？</span>密&nbsp;&nbsp;&nbsp;码：</td></tr>
+<tr><td><input type="password" name="password" autocomplete="off" onFocus="if (value =='********'){value =''}" value="********" tabindex="99" class="comiis_xdl_xk"></td></tr>
+<tr><td><button type="submit" name="lostpwsubmit" value="true" tabindex="100" class="comiis_xdl_btn y" id="loginButton">&nbsp;&nbsp;&nbsp;</button><div class="z zddl"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" checked="true"/>下次自动登录</div></td></tr>
+</form>
+</table>
+</div>
+<div class="comiis_xdl_qqdl">
+<ul>
+<li class="xqqdl"><a href="connect.php?mod=login&amp;op=init&amp;referer=portal.php&amp;statfrom=login_simple" title="用QQ帐号登录">QQ帐号登录</a></li>
+<li class="xwbdl"><a href="xwb.php?m=xwbAuth.login" title="用微博帐号登录">微博帐号登录</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>		
+</div>
+</div>
+</div>
+<div id="switchblind" style="display:none;"></div>
+<div id="comiis_topbg">
+<div id="wp" class="wp"><div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p>抱歉，指定的主题不存在或已被删除或正在被审核</p>
+<script type="text/javascript">
+if(history.length > (BROWSER.ie ? 0 : 1)) {
+document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ 点击这里返回上一页 ]</a></p>');
+} else {
+document.write('<p class="alert_btnleft"><a href="./">[ 荆门社区 首页 ]</a></p>');
+}
+</script>
+</div>
+</div>
+</div>
+</div>	</div></div>
+<link href="source/plugin/sanree_brand/tpl/default/blockstyle.css" rel="stylesheet" type="text/css" /><div style="clear:both;"></div>
+<div id="ft" class="comiis_footer wp">
+<div class="comiis_footertop"><a href="misc.php?mod=faq" target="_blank" >新手帮助</a>|<a href="http://ad.jmbbs.com/images/ad/" target="_blank" >广告服务</a>|<a href="forum.php?mobile=yes" >手机版</a>|<a href="archiver/" >Archiver</a>|</div>
+<div class="comiis_Copyright">
+Copyright &copy; 2002-2013 <a href="http://www.jmbbs.com/" target="_blank">荆门社区网</a>(http://www.jmbbs.com/) 版权所有 All Rights Reserved.<br />
+法律声明：本站所有图片、贴文、栏目风格等，未经许可，不得转载或镜像，违者将追究其法律责任。<br />
+Powered by <a href="http://www.discuz.net" target="_blank">Discuz!</a> X3.2&nbsp;<a href="http://www.miibeian.gov.cn/" target="_blank">鄂ICP备11020250号-1</a> &nbsp;&nbsp;<span id="tcss"></span><script type="text/javascript" src="http://tcss.qq.com/ping.js?v=1fgU" charset="utf-8"></script><script type="text/javascript" reload="1">pgvMain({"discuzParams":{"r2":"1018508","ui":0,"rt":"forum","md":"viewthread","pn":1,"qq":"000"},"extraParams":""});</script>  </div>
+<p>
+  <a href="#" target=_blank><img src="template/comiis_km25lshlxsi/comiis_hlx/jin02.gif"></a>
+  <a href="#" target=_blank><img src="template/comiis_km25lshlxsi/comiis_hlx/jin03.gif"></a>
+  <a href="#" target=_blank><img src="template/comiis_km25lshlxsi/comiis_hlx/jin04.gif"></a>
+  <a href="#" target=_blank><img src="template/comiis_km25lshlxsi/comiis_hlx/jin05.gif"></a>
+</p>
+</div>		
+<div id="g_upmine_menu" class="tip tip_3" style="display:none;">
+<div class="tip_c">
+积分 0, 距离下一级还需  积分
+</div>
+<div class="tip_horn"></div>
+</div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1450677185" type="text/javascript"></script>
+<div id="scrolltop">
+<div class="comiis_qutop">
+    <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1874945423&amp;site=qq&amp;menu=yes" class="comiis_dkf" target="_blank"><span class="kmicon"></span><p>找客服</p></a>
+    <a href="javascript:window.scrollTo('0','0');" class="comiis_qutop-btn"><span class="kmicon"></span><p>回顶部</p></a>
+</div>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function(){showTopLink();});</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '1018508|X3.2|0.6||0||0|7|1450677185|8ab31dd09d6c68627ae2fb8534caf18d|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>

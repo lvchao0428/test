@@ -1,0 +1,3618 @@
+<!--UINFO: http://forum.home.news.cn/detail/136512674/1.html	length=139380&last_modified=0&time_saved=1450677003&charset=GBK-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+<title>公务员与事业单位工资待遇区别 _发展论坛_新华社区</title>
+
+<!-- <link media=screen href="http://tmisc.home.news.cn/forum/styles/ubb.css" type=text/css rel=stylesheet /> -->
+<link href="http://www.news.cn/forum/wb/style/popup.css" rel="stylesheet" type="text/css" />
+<link href="/static/css/post/detail.css" type="text/css" rel="stylesheet" />
+
+<script language="JavaScript" src="http://tmisc.home.news.cn/forum/script/common.js"></script>
+<script type="text/javascript" src="http://tmisc.home.news.cn/forum/script/faces.js"></script>
+<script type="text/javascript" src="/static/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="http://www.news.cn/forum/wb/js/popup.js"></script>
+<script language="JavaScript" src="http://tmisc.home.news.cn/forum/script/float2.js"></script>
+<script type="text/javascript" src="/static/api/js/post.js"></script>
+<style>
+.fileP{
+	margin-top:10px;
+}
+
+.delBtn{
+	float: right;padding-right:60px;
+}
+fieldset {
+	padding: 10px;
+	margin: 20px;
+	color: #333;
+	border: #999 solid 1px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+}
+legend {
+	color: #333;
+	font-weight: 200;
+	padding: 3px 6px;
+}
+fieldset textarea{
+	width:450px;
+	height:93px;
+}
+.descpTips{
+	padding-left:40px;
+	text-align: left;
+}
+/*分享 样式*/
+#share{margin-top:15px;text-align: right;padding-right:15px;font-size:12px;}
+#share a{text-decoration: none;color: #000;}
+#share a:HOVER{color:#0000FF}
+#share a:VISITED {text-decoration: none;}
+</style>
+<script language="JavaScript">
+function setImageSize() {
+    var nMaxWidth;
+    if (50 == 80){
+	nMaxWidth = 930;
+	}
+	else{
+	nMaxWidth = 700;
+	}
+	var arEls = document.getElementsByTagName("IMG");
+	for( var i=0;i<arEls.length;i++ ){
+		if( arEls[i].width >nMaxWidth ) {	//如果图片宽度大于nMaxWidth，则等比缩小显示
+			var nHeight = (arEls[i].height * (nMaxWidth/arEls[i].width));
+			arEls[i].height = nHeight;
+			arEls[i].width  =	nMaxWidth;
+			arEls[i].style.height = nHeight;
+			arEls[i].style.width = nMaxWidth;
+		}
+	}
+}
+function doMailTo() {
+	var	fmt	= document.forms["mailto"];
+	if (fmt != null) {
+		fmt.title.value	= document.title;
+		fmt.url.value	= this.location;
+		fmt.submit();
+	}
+}
+
+function checkReply(form) {
+    var mode = window.frames['Editor'].document.getElementById('ubb').value; 
+    var nmessage = window.frames['Editor'].document.getElementById('posteditor_textarea');
+	var str ="";
+
+	if(mode == 0){
+	   if(nmessage.value==""){
+			str = "请输入回复的内容！";	   
+		    alert(str);
+			nmessage.focus();
+	   		return false;
+		} else if(nmessage.value.length > 5000){
+			str = "回复内容的长度不能超过"+5000+"个字，请您拆分后再上帖。";	  		
+			alert(str);
+			nmessage.focus();
+	   		return false;
+		}
+		   
+	   }
+	  
+	 if(mode == 1){
+		var content = window.frames['Editor'].editdoc.body.innerHTML;
+	    if(content == "" || content == "<br>"){
+		    str = "请输入回复的内容！";
+		    alert(str);
+		    window.frames['Editor'].editdoc.body.focus();
+	   		return false;
+		}
+		else if(window.frames['Editor'].editdoc.body.innerHTML.length > 5000){
+		  str = "回复内容的长度不能超过"+5000+"个字，请您拆分后再上帖。";			
+		alert(str);
+		window.frames['Editor'].editdoc.body.focus();
+	   		return false;
+		   }
+	 }
+	if (form.userid != null) {
+		if(form.userid.value=="") {
+		    str = "你好像忘了输入用户名啦！";		
+			alert(str);
+			form.userid.focus();
+	   		return false;
+		}
+	}
+	if (form.password != null) {
+		if(form.password.value == "") {
+		    str = "你好像忘了输入用户密码啦！";		
+			alert(str);
+			form.password.focus();
+	   		return false;
+		}
+	}
+	
+		if (form.username != null) {
+		if(form.username.value=="") {
+		    str = "你好像忘了输入真实姓名啦！";		
+			alert(str);
+			form.username.focus();
+	   		return false;
+		}
+	}
+	if (form.usertel != null) {
+		if(form.usertel.value == "") {
+		    str = "你好像忘了输入联系电话啦！";		
+			alert(str);
+			form.usertel.focus();
+	   		return false;
+		}
+	}
+	if (form.useraddress != null) {
+		if(form.useraddress.value == "") {
+		    str = "你好像忘了输入通讯地址啦！";		
+			alert(str);
+			form.useraddress.focus();
+	   		return false;
+		}
+	}
+	if (form.userzip != null) {
+		if(form.userzip.value == "") {
+		    str = "你好像忘了输入邮编啦！";		
+			alert(str);
+			form.userzip.focus();
+	   		return false;
+		}
+	}
+	if (form.userjob != null) {
+		if(form.userjob.value == "") {
+		    str = "你好像忘了输入身份证号啦！";		
+			alert(str);
+			form.userjob.focus();
+	   		return false;
+		}
+	}
+	
+	var result = true;
+	//检测描述字数
+	$.each($("textarea[name=descp]"),function(index,obj){
+		result = result && checkDescpCount(obj);
+	});
+	
+	if(!result){
+		alert("描述字数超过200，请检查");
+		return false;
+	}
+
+	return true;
+}
+
+//描述字数限制
+var descpLimit = 200;
+
+function checkDescpCount(obj){
+	var len = obj.value.replace(/^\s+|\s+$/g, '').length; 
+	var tipsObj = $(obj).parent().next().children(":first");
+	if(len>descpLimit){
+		tipsObj.html("当前"+len+"个字，<font color=red>描述不能超过"+descpLimit+"字。</font>");
+		return false;
+	}
+	tipsObj.html("当前"+len+"个字");
+	return true;
+}
+
+function hello() {
+		mydate = new Date();
+		myhour = mydate.getHours();
+		if (myhour < 6)
+			welcomestring = "凌晨好";
+		else if (myhour < 9)
+			welcomestring = "早上好";
+		else if (myhour < 12)
+			welcomestring = "上午好";
+		else if (myhour < 14)
+			welcomestring = "中午好";
+		else if (myhour < 17)
+			welcomestring = "下午好";
+		else if (myhour < 19)
+			welcomestring = "傍晚好";
+		else if (myhour < 22)
+			welcomestring = "晚上好";
+		else
+			welcomestring = "夜里好";
+		return welcomestring;
+	}
+
+	function checkLogin(loginform) {
+		if (loginform.userid.value == "") {
+			alert("你好像忘了输入用户名啦！");
+			loginform.userid.focus();
+			return false;
+		}
+		if (loginform.password.value == "") {
+			alert("你好像忘了输入用户密码啦！");
+			loginform.password.focus();
+			return false;
+		}
+		return true;
+	}
+	
+	function get(id){
+	return document.getElementById(id);
+}
+
+	//添加 引用
+	function addQuote(id){
+	var mode = window.frames['Editor'].document.getElementById('ubb').value;
+//		var oauthor = get('author_'+id);
+		//var au_tm = get('mess_'+id);
+		var au_tm = $.trim($("#mess_"+id).text()).replace(/\s+/g, ' ');
+		
+//		var otime = get('time_'+id);
+		var omessage = get('message_'+id);
+		var str=omessage.outerHTML;
+        var t1=str.indexOf("<DIV class=BBS_QUOTE><Q>");
+              if(t1 > -1)
+            {
+
+                 var reg1=new RegExp("<DIV id=message_"+ id +"><DIV class=BBS_QUOTE><Q>","g");
+                 var reg2=new RegExp("<DIV class=BBS_QUOTE><Q>","g");
+                 var reg3=new RegExp("<I>","g"); 
+                 var reg4=new RegExp("</I>","g");
+                 var reg5=new RegExp("</Q></DIV><BR>","g");
+                 var reg6=new RegExp("</Q>","g");
+                 var reg7=new RegExp("<BR>","g");
+                 var reg8=new RegExp("</DIV>","g");
+                 var temp1=str.replace(reg1,"[qt]");
+                 var temp2=temp1.replace(reg2,"[qt]");
+                 var temp3=temp2.replace(reg3,"[I]");
+                 var temp4=temp3.replace(reg4,"[/I]");
+                 var temp5=temp4.replace(reg5,"[/qt]");
+                 var temp6=temp5.replace(reg6,"[/qt]");
+                 var temp7=temp6.replace(reg7," ");
+                 var temp8=temp7.replace(reg8," ");
+                // alert(temp8);
+             }
+		//var nmessage = get('content');
+		var nmessage = window.frames['Editor'].document.getElementById('posteditor_textarea');
+		var tempmess = "";
+
+		tempmess+='[qt]';
+		if(mode == 1){
+		   tempmess+='引自:<i>'+au_tm+'</i>';
+		}
+		else{
+		  tempmess+='引自:[i]'+au_tm+'[/i]';
+		}
+		//tempmess+='[i]'+oauthor.innerText+'[/i]';
+		//tempmess+=' 于 '+otime.innerText+' 发表:';
+         if(t1 > -1){
+		tempmess+="\n"+temp8;
+          }
+         else{
+                tempmess+="\n"+$("#message_"+id).text().replace(/\s+/g, ' ');
+          } 
+		tempmess+='[/qt]';
+		try{
+		    if(mode == 0){
+			//nmessage.innerHTML = tempmess;
+		    	window.frames['Editor'].newEditor(mode, tempmess);
+				document.getElementById("Editor").contentDocument.getElementById("posteditor_textarea").focus();
+			}
+			else if(mode == 1){
+			window.frames['Editor'].editdoc.body.innerHTML = tempmess;
+			}
+		}catch(e){}
+		return false;
+	}
+	
+	//添加回复
+	function addRevert(id){
+	    var mode = window.frames['Editor'].document.getElementById('ubb').value;
+		//var oauthor = get('author_'+id).innerText;
+		var oauthor=$("#author_"+id).text();
+		var nmessage = window.frames['Editor'].document.getElementById('posteditor_textarea');
+		var tempmess = "";
+		if(mode == 1){
+/* 			if(id == 1){
+				tempmess+='<b>回复'+'首贴 '+oauthor+'的帖子</b>';
+			}else{
+		    	tempmess+='<b>回复'+id+'楼'+oauthor+'的帖子</b>';
+		    } */
+		    tempmess+='<b>回复'+oauthor+'的帖子</b>';
+		}
+	    else{
+/* 	    	if(id == 1){
+	    		tempmess+='[b]回复'+'首贴 '+oauthor+'的帖子[/b]';
+	    	}else{
+		    	tempmess+='[b]回复'+id+'楼'+oauthor+'的帖子[/b]';
+		    } */
+		    tempmess+='[b]回复'+oauthor+'的帖子[/b]'
+		}
+		try{
+		    if(mode == 0){
+				//nmessage.innerHTML = tempmess;
+				window.frames['Editor'].newEditor(mode, tempmess);
+				document.getElementById("Editor").contentDocument.getElementById("posteditor_textarea").focus();
+			}
+			else if(mode == 1){
+			window.frames['Editor'].editdoc.body.innerHTML = tempmess;
+			}
+		}catch(e){}
+		return false;
+	}
+function ubbaction(tag, val){
+	var tag = tag.toUpperCase();
+	if(typeof(val) == "undefined"){
+ 	val = "";
+	}
+	if(val){
+ 	val = "=" + val;
+	}
+
+	var r = document.selection.createRange().text;
+	rr = "[" + tag + val + "]" + r + "[/" + tag +"]";
+	if(r){
+ 	document.selection.createRange().text = rr;
+	}else{
+ 	document.all.content.value += rr;
+	}
+	}
+ function countTitleChars(){
+		document.getElementById("title_num_leave").innerHTML = 50-document.bbsedit.title.value.length;
+	}
+	
+	function Cswf()
+{		
+	document.bbsedit.content.focus();
+		 //var enterSIZE   = prompt("输入Flash尺寸（宽，高）！", "WIDTH=300 HEIGHT=250");
+		var enterURL   = prompt("请输入Flash网址", "http://");
+		var ToAdd="";
+		if (enterURL)
+		{		 
+			ToAdd = "[FLASH=400,300]"+enterURL;	
+			InsertText(objActive,ReplaceText(objActive,ToAdd,'[/FLASH]'),true); 				
+	}
+}
+function Curl()
+{
+	document.bbsedit.content.focus();
+	var FoundErrors = '';
+	var enterURL   = prompt("输入链接网址！", "http://");
+	
+	if (!enterURL)
+	{
+		FoundErrors += "\n" + "链接网址不能为空";
+	}
+	
+	if (FoundErrors)
+	{
+		alert("错误！"+FoundErrors);
+		return;
+	}
+	str = "[URL="+enterURL+"]";
+	InsertText(objActive,ReplaceText(objActive,str,'[/URL]'),true); 
+}
+function Cswf() {
+	document.bbsedit.content.focus();
+	//var enterSIZE   = prompt("输入Flash尺寸（宽，高）！", "WIDTH=300 HEIGHT=250");
+	var enterURL   = prompt("请输入Flash网址", "http://");
+	var ToAdd="";
+	if (enterURL) {
+		ToAdd = "[FLASH=400,300]"+enterURL;
+		InsertText(objActive,ReplaceText(objActive,ToAdd,'[/FLASH]'),true); 
+	}
+}
+function Cinsertimage()
+{
+	document.bbsedit.content.focus();
+	var enterURL   = prompt("请输入图片网址", "http://");
+	var ToAdd="";
+	if (enterURL)
+	{
+		ToAdd = " [IMG]"+enterURL;
+		InsertText(objActive,ReplaceText(objActive,ToAdd,'[/IMG]'),true); 
+	}
+}
+var objActive;
+function GetActiveText(objHTML) {
+	objActive=objHTML;
+	if(document.selection){
+		var obj=document.getElementById(objHTML);
+		obj.currPos = document.selection.createRange().duplicate();
+	}
+}
+function InsertText(objHTML,strText,bolReplace) {
+	if (strText=="") {
+		return "";
+	}
+	var obj=document.getElementById(objHTML);
+	if (!obj) {
+		return "";
+	}
+	if(document.selection){
+		if (obj.currPos){
+			if(bolReplace && (obj.value=="")){
+				obj.currPos.text=strText;
+			}
+			else{
+				obj.currPos.text+=strText;
+			}
+		}
+		else{
+			obj.value+=strText;
+		}
+	}
+	else{
+		if(bolReplace){
+			obj.value=obj.value.slice(0,obj.selectionStart) + strText + obj.value.slice(obj.selectionEnd,obj.value.length);
+		}
+		else{
+			obj.value=obj.value.slice(0,obj.selectionStart) + strText + obj.value.slice(obj.selectionStart,obj.value.length);
+		}
+	}
+}
+function ReplaceText(objHTML,strPrevious,strNext) {
+	var obj=document.getElementById(objHTML);
+	if (!obj) {
+		return "";
+	}
+	var strText;
+	if(document.selection && document.selection.type == "Text"){
+		if (obj.currPos){
+			var range = document.selection.createRange();
+			range.text = strPrevious + range.text + strNext;
+			return "";
+		}
+		else{
+			strText=strPrevious + strNext;
+			return strText;
+		}
+	}
+	else{
+		if(obj.selectionStart || obj.selectionEnd){
+			strText=strPrevious + obj.value.slice(obj.selectionStart,obj.selectionEnd) + strNext;
+			return strText;
+		}
+		else{
+			strText=strPrevious + strNext;
+			return strText;
+		}
+	}
+}
+
+function callback(id){
+		MI.CallBack.init(this, function(data) {
+		if (data.result == 200) {
+			UI.getScript("http://t.home.news.cn/followmore.action?typeId=3&checkdel="+id+"&rd="+Math.random());
+		} else if (data.result == 0) {
+			//alert(data.msg);
+			alert("关注成功");
+		}
+		}, function(data) {
+		if (data.result == 201) {
+			//隐藏登录框
+			MI.dialog.hide();
+			//alert(data.msg);
+			alert("登陆失败");
+		} else if (data.result == 1) {
+			if(data.msg=="noRegister"){
+				alert('您还没有开通新华微博，现在就去开通吗？');
+				var win=window.open('','_blank');
+				win.location.href="http://t.home.news.cn/index.jsp";
+			}else if(data.msg=="userNotExist"){
+				alert('您关注用户还未开通新华微博，通知TA一下吧？');
+				var win=window.open('','_blank');
+				win.location.href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&content="+encodeURIComponent("我已经开通新华微博了，你也来吧！")+"http://t.home.news.cn/index.jsp &userName="+id;
+			}else{
+				alert("关注失败");
+			}
+		}
+		});
+}
+function follow(id){
+	callback(id);
+	if(id!=''){
+		UI.getScript("http://t.home.news.cn/followmore.action?typeId=3&checkdel="+id+"&rd="+Math.random());
+	}
+}
+
+function dataLength(fData){   
+    var intLength=0   
+    for (var i=0;i<fData.length;i++) {   
+        if ((fData.charCodeAt(i) < 0) || (fData.charCodeAt(i) > 255))   
+            intLength=intLength+2   
+        else  
+            intLength=intLength+1       
+    }   
+    return intLength   
+}
+</script>
+
+</head>
+
+<body onLoad="setImageSize(); ">
+	
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+<link href="/static/topheader/css/all.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/static/topheader/js/jq.js"></script>
+</head>
+<body>
+<div class="page">
+	<div class="area clearfix">
+		<div class="fl logo"><a href="http://news.cn/" target="_blank">新华网首页</a></div>
+		<div class="fl left1 clearfix">
+			<ul class="clearfix">
+<!-- 				<li><a href="http://www.xinhuanet.com/forum/index.htm">社区</a></li> -->
+				<li><a href="http://forum.home.news.cn/index.jsp">论坛</a></li>
+				<li><a href="http://sike.news.cn/">思客</a></li>
+				<li><a href="http://t.home.news.cn/">微博</a></li>
+				<li><a href="http://blog.home.news.cn/">博客</a></li>
+				<li class="xuankongjian"><a href="">炫空间</a>
+					<div class="xkjcon">
+						<ul class="clearfix">
+							<li><a href="http://search.home.news.cn/index.html">搜索</a></li>
+							<li><a href="http://vdisk.home.news.cn/vdisk/control/home.do">云盘</a></li>
+						</ul>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<div class="fl left2">
+			<ul class="clearfix">
+				<li class="iconnew"><a href="http://forum.home.news.cn/view/oldphoto/list.html">新华老年摄影&nbsp</a></li>
+				<li><a href="http://forum.home.news.cn/view/publicforum/list.html">公益论坛&nbsp</a></li>
+				<li><a href="http://forum.home.news.cn/list/82-0-0-1.html">地方论坛&nbsp</a></li>
+				<li><a href="http://forum.home.news.cn/list/376-0-0-1.html">熊猫社区&nbsp</a></li>
+				<li><a href="http://forum.home.news.cn/list/82-484-0-1.html">江苏民声&nbsp</a></li>
+				<!-- <li><a href="http://forum.home.news.cn/list/82-366-0-1.html">渝论&nbsp</a></li> -->
+				<!-- <li><a href="http://forum.home.news.cn/list/82-379-0-1.html">e齐e鲁&nbsp</a></li> -->
+			</ul>
+		</div>
+		<div class="fr right author">
+			业务合作：010-88050843
+		</div>
+	</div>
+</div>
+<script type="text/javascript" >
+	$(function(){
+		$(".xuankongjian,.xuankongjian a,.xkjcon").bind("mouseover",function(){
+			$(".xuankongjian").addClass("active");
+		});
+		$(".xuankongjian,.xuankongjian a,.xkjcon").bind("mouseleave",function(){
+			$(".xuankongjian").removeClass("active");
+		});
+	})
+</script>
+</body>
+</html>
+	<div style="width:993px; margin:0 auto;padding-top:60px;">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="993" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="158"><img src="http://misc.home.news.cn/forum/images/2010/forum_logo.gif" width="158" height="102" /></td>
+    <td width="835" valign="top"><table width="835" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="55" align="center" class="hei12">
+        <a href="http://www.news.cn/" target="_blank">新华网首页</a>
+         <!-- | <a href="http://www.xinhuanet.com/forum/index.htm" target="_blank">新华社区</a>  -->
+         | <a href="http://forum.home.news.cn">发展论坛</a>
+         | <a href="http://t.home.news.cn" target="_blank">新华微博</a>
+         | <a href="http://blog.home.news.cn/" target="_blank">新华博客</a> 
+         | <a href="http://sike.news.cn/" title="思客" target="_blank"><img src="http://tmisc.home.news.cn/forum/sike.gif" width="26" height="13" border="0"  align="center" style="margin-bottom:3px"/></a> 
+         | <a href="http://vdisk.home.news.cn/vdisk/control/home.do" target="_blank">新华云盘</a> 
+         | <a href="http://search.home.news.cn/index.html" target="_blank">社区搜索</a>&nbsp;
+         | <a href="http://my.xuan.news.cn" target="_blank"><img width="70" height="18" align="center" src="/static/images/xuan_boke.png" border="0"/></a>&nbsp;
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3"><table width="835" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="167" align="center"><table width="160" border="0" cellpadding="0" cellspacing="0" class="dh">
+              <tr>
+                <td width="50" rowspan="2"><img src="http://misc.home.news.cn/forum/images/2010/forum_dh01.gif" width="49" height="39" /></td>
+                <td width="110"><a href="/list/50-0-0-1.html">发展</a>  <a href="/list/85-0-0-1.html">国际</a>  <a href="/list/50-135-0-1.html">深水</a></td>
+              </tr>
+              <tr>
+                <td width="110"><a href="/list/50-388-0-1.html">热点</a>  <a href="/list/52-0-0-1.html">两岸</a>  <a href="/list/84-0-0-1.html"><font color=red>旗帜</font></a></td>
+              </tr>
+            </table></td>
+            <td width="167" align="center"><table width="160" border="0" cellpadding="0" cellspacing="0" class="dh">
+              <tr>
+                <td width="50" rowspan="2"><img src="http://misc.home.news.cn/forum/images/2010/forum_dh02.gif" width="40" height="39" /></td>
+                <td width="110"><a href="/list/98-0-0-1.html">财经</a>  <a href="/list/92-0-0-1.html" >军事</a>  <a href="/list/50-133-0-1.html" >反腐</a>
+      </td>
+              </tr>
+              <tr>
+                <td width="110"><a href="/list/113-0-0-1.html" >金融</a>  <a href="/list/50-404-0-1.html" >历史</a>  <a href="/list/111-0-0-1.html" >教育</a></td>
+              </tr>
+            </table></td>
+            <td width="167" align="center"><table width="160" border="0" cellpadding="0" cellspacing="0" class="dh">
+              <tr>
+                <td width="50" rowspan="2"><img src="http://misc.home.news.cn/forum/images/2010/forum_dh03.gif" width="40" height="39" /></td>
+                <td width="110"><a href="/list/82-0-0-1.html" ><font color=red>地方</font></a>  <a href="/list/50-128-0-1.html" >社会</a>  <a href="/list/50-134-0-1.html" >三农</a></td>
+              </tr>
+              <tr>
+                <td width="110"><a href="/list/93-0-0-1.html" >体育</a>  <a href="/list/50-514-0-1.html" ><font color=red>曝光</font></a>  <a href="/list/121-0-0-1.html" >村官</a></td>
+              </tr>
+            </table></td>
+            <td width="167" align="center"><table width="160" border="0" cellpadding="0" cellspacing="0" class="dh">
+              <tr>
+                <td width="50" rowspan="2"><img src="http://misc.home.news.cn/forum/images/2010/forum_dh04.gif" width="40" height="39" /></td>
+                <td width="110"><a href="/list/80-0-0-1.html" >摄影</a>  <a href="/list/75-0-0-1.html" >生活</a>  <a href="/list/91-0-0-1.html" >文化</a></td>
+              </tr>
+              <tr>
+                <td width="110"><a href="/list/109-0-0-1.html" >汽车</a>  <a href="/list/443-0-0-1.html" >房产</a>  <a href="/list/50-224-0-1.html" >科技</a></td>
+              </tr>
+            </table></td>
+            <td width="167" align="center"><table width="160" border="0" cellpadding="0" cellspacing="0" class="dh">
+              <tr>
+                <td width="50" rowspan="2"><img src="http://misc.home.news.cn/forum/images/2010/forum_dh05.gif" width="40" height="39" /></td>
+                <td width="110"><a href="/list/75-148-0-1.html" >情感</a>  <a href="/list/75-147-0-1.html" >笑话</a>  <a href="/list/81-0-0-1.html" >娱乐</a></td>
+              </tr>
+              <tr>
+                <td width="110"><a href="/list/90-0-0-1.html" >电脑</a>  <a href="/list/83-0-0-1.html" >网友俱乐部</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="993" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="6"></td>
+  </tr>
+</table>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>发展论坛</title>
+<script type="text/javascript" src="http://forum.home.news.cn/static/js/jquery-1.9.1.min.js"></script>
+<link rel="stylesheet" type="text/css" href="http://forum.home.news.cn/static/topheader/css/all.css">
+<script type="text/javascript">
+$(function(){
+	 $.ajax({
+             type: "post",
+             url: "/api/sso/getLoginUser.do",
+             // url:"getLoginUser.json",
+             dataType: "json",
+             success: function(data){
+             	 if(data.code == '200'){
+             	 	$('.hd01 tr td').eq(1).html(data.data.nickname +' <span class="lan12">'+hello()+'</span')
+             	 	$('.hd01 tr td').eq(2).html(
+             	 		'<a href="http://my.xuan.news.cn/" target="_blank" class="hei12">炫空间</a>&nbsp; <a href="http://'+data.data.username+'.home.news.cn" target="_blank" class="hei12">门户</a>&nbsp; <a href="http://my.home.news.cn/qm/control/home.do" target="_blank" class="hei12">短消息</a>&nbsp;   <a href="/space/userposts.do?&amp;id='+data.data.username+'" target="_blank" class="hei12">帖子</a>&nbsp; <a href="/trash/list.do" target="_blank" class="hei12">回收站</a>&nbsp;<!-- <a href="http://my.home.news.cn/bookmark/control/home.do" target="_blank" class="hei12">收藏</a>&nbsp;  --><a href="http://f.home.news.cn" target="_blank" class="hei12">好友</a>&nbsp;<!-- <a href="http://my.home.news.cn/profile/control/home.do" target="_blank" class="hei12">服务</a>&nbsp;  --><a href="http://my.home.news.cn/blog/control/home.do" target="_blank">控制面板</a>&nbsp;<a href="/space/userspace.do?id='+data.data.username+'" target="_blank" class="hei12">个人资料</a>&nbsp; <a href="/logout.jsp" class="hei12">退出</a>'
+             	 		)
+             	 } else{
+             	 	$('.hd01 tr td').eq(1).html('游客 <span class="lan12">'+hello()+'</span')
+             	 	$('.hd01 tr td').eq(2).html('<form id="loginForm" action="/login.jsp" method="post" style="margin:0;padding:0"><table width="570" border="0" cellspacing="0" cellpadding="0" class="hd01"><tbody><tr><td width="50" align="center">用户名</td><td width="60" align="center"><input type="text" id="senderName" name="senderName" class="form" size="6"></td><td width="50" align="center">密码</td><td width="60" align="center"><input type="password" id="password" name="password" class="form" size="6"></td><td width="60" align="center"><input name="login" type="image" src="http://misc.home.news.cn/forum/images/2010/denglu01.gif" width="50" height="18" class="login_button"></td><td width="60" align="center"><a href="http://my.home.news.cn/profile/passport.do" target="_blank"><img src="http://misc.home.news.cn/forum/images/2010/denglu02.gif" width="50" height="18" border="0"></a></td><td align="left"><script type="text/javascript">function jumpUrl(o,n){top.location.href="http://login.home.news.cn/profile/cologin.do?t="+n+"&callback="+encodeURIComponent(top.location)}<\/script><span style="margin:5px auto;float:left;padding-left:5px">第三方登录：</span><ul style="list-style-type:none;margin:3px auto;padding-left:5px"><li style="list-style-type:none;float:left;padding-left:5px"><a onclick="jumpUrl(this,&quot;qq&quot;)" style="cursor:pointer"><img src="http://login.home.news.cn/global/images/login-qq2.png" width="20px" height="20px" title="QQ"><br></a></li><li style="list-style-type:none;float:left;padding-left:5px"><a onclick="jumpUrl(this,&quot;sina&quot;)" style="cursor:pointer"><img src="http://login.home.news.cn/global/images/login-sina.png" width="20px" height="20px" title="新浪"><br></a></li><li style="list-style-type:none;float:left;padding-left:5px"><a onclick="jumpUrl(this,&quot;weixin&quot;)" style="cursor:pointer"><img src="http://login.home.news.cn/global/images/login-wx.png" width="20px" height="20px" title="微信"><br></a></li><li style="list-style-type:none;float:left;padding-left:5px"><a onclick="jumpUrl(this,&quot;tianyi&quot;)" style="cursor:pointer"><img src="http://login.home.news.cn/global/images/login-telecom.png" width="20px" height="20px" title="天翼"><br></a></li></ul></td></tr></tbody></table></form>')
+             	 }
+             }
+         });
+    
+    $.ajax({
+		url : "/api/getOnlineUserCount.do",
+		type : 'POST',
+		dataType : "json",
+		async : true,
+		data : {
+		},
+		cache : false,
+		success : function(result) {
+			if (result.code == 200) {
+				$("#userCount").html("<a href='/view/common/onlineuser.jsp' target='_blank'> 当前在线 </a>" + result.data);
+			}
+		}
+	});
+
+	
+	function hello() {
+		var mydate,myhour,welcomestring;
+		mydate = new Date();
+		myhour = mydate.getHours();
+		if (myhour < 6)
+			welcomestring = "凌晨好";
+		else if (myhour < 9)
+			welcomestring = "早上好";
+		else if (myhour < 12)
+			welcomestring = "上午好";
+		else if (myhour < 14)
+			welcomestring = "中午好";
+		else if (myhour < 17)
+			welcomestring = "下午好";
+		else if (myhour < 19)
+			welcomestring = "傍晚好";
+		else if (myhour < 22)
+			welcomestring = "晚上好";
+		else
+			welcomestring = "夜里好";
+		return welcomestring;
+	}	
+	$('body').on('submit', '#loginForm', function(){
+		if ($('#senderName').val() == "") {
+			alert("你好像忘了输入用户名啦！");
+			$('#senderName').focus();
+			return false;
+		}
+		if ($('#password').val() == "") {
+			alert("你好像忘了输入用户密码啦！");
+			$('#senderName').focus();
+			return false;
+		}
+		return true;
+	});
+
+})
+</script>
+
+</head>
+
+<body>
+	<table width="993" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#901D20" class="hd01">
+		<tbody><tr>
+			<td width="21" height="32">&nbsp;</td>
+			<td width="104"> 游客 <span class="lan12">下午好</span></td>
+			<td width="400" class="hei12">
+				
+			</td>
+
+			<td width="174" align="center">
+				<a href="http://login.home.news.cn/getPwd.jsp" target="_blank">找回密码</a>   
+				<a href="http://misc.home.news.cn/common/html/yhxy.html" target="_blank">管理规定</a>   
+				<a href="http://forum.xinhuanet.com/help.html" target="_blank">论坛帮助</a></td>
+				<td width="105" align="center" id="userCount">
+					<a href="/view/common/onlineuser.jsp" target="_blank"> 当前在线</a> 46179
+					<!--  <script language="JavaScript" src="http://login.home.news.cn/onlineUserNumber.jsp"></script>  -->
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<!-- 未登录 -->
+
+	
+</body>
+
+</html>
+
+		<table width="993" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F2F2F2">
+			<tr>
+				
+				<td width="39"><img src="http://tmisc.home.news.cn/forum/images/2010/forum_home.gif" width="28" height="27" />
+				
+				</td>
+				<td width="730" class="dqwz">
+<!-- 					<a href="http://www.news.cn/forum" target="_blank">社区首页</a> &gt;  -->
+					<a href="/list/50-388-0-1.html" class="bai12">热点</a></td>
+				<td width="16" valign="middle"><img src="http://tmisc.home.news.cn/forum/images/2010/hfd.gif" />
+				</td>
+				<td class="dqwz">值班斑竹：<a href="/space/userlist.do?id=10suining" target="_blank">青云岛</a> <a
+					href="/space/userlist.do?id=xionglj" target="_blank">维君</a>
+				</td>
+			</tr>
+		</table>
+		
+		<table width="993" border="0" align="center" cellpadding="0" cellspacing="0">
+			<tr>
+				<td height="41" valign="middle" class="hong12">&nbsp;&nbsp;论坛声明：本帖由网友上传，只代表网友个人观点，转帖请注明作者及出处。删帖申请，请邮件与我们联系（邮箱：xhwjbx@xinhua.org），中介或代理机构勿扰。
+				</td>
+			</tr>
+		</table>
+		
+		<table width="993" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr valign="top">
+				<td width="725">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<!-- 设置权限变量 减少循环验证权限-->
+						
+						
+						
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+										<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#333333">
+											<tr>
+												<td id="title" width="420" class="biaoti"><b>公务员与事业单位工资待遇区别 </b> </td>
+												 <td class="xbiaoti"><a name="136512674"></a> <a href="#replyArea">回复</a> | <a href="JavaScript:doMailTo()">推荐</a> | <a
+													id="sc" onclick="encodeUri('sc')" href="">收藏</a> | <a href="/thread/136512674/1.html">树状</a>
+												</td>
+												
+											</tr>
+										</table>
+									
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_1">
+												
+													&nbsp;作者： 
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_0" href="/space/userspace.do?id=kakage" target="_blank" class="zuozhe01">卡卡格</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('kakage');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-01 23:02 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=kakage" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=kakage"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/kakage"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+										<div id="sikeEmbed">
+											<iframe src="http://www.xinhuanet.com/forum/zt2014/qz10418fzltend/index.htm" scrolling="no" height="120" frameborder="0"
+												vspale="0" noresize="" marginheight="0" framespacing="0" marginwidth="0" name="search" border="0"
+												style="height:120px;width:100%;"></iframe>
+										</div>
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_1"><b>相关链接</b><br>
+<img src=http://news.xinhuanet.com/forum/2012-12/22/124130557_11n.gif><img src=http://news.xinhuanet.com/forum/2012-12/22/124130557_11n.gif><a href='http://forum.home.news.cn/detail/136512663/1.html'  target=_blank>【关注】发人深省！一位退休公务员对官场生态的感悟 </a><br>
+<img src=http://news.xinhuanet.com/forum/2012-12/22/124130557_11n.gif><a href='http://forum.home.news.cn/detail/136477489/1.html'  target=_blank>【热议】易获大多数人支持，分类延迟退休好在哪？  </a><br>
+<img src=http://news.xinhuanet.com/forum/2006-12/03/xin_312120303080467122291.gif><a href='http://forum.home.news.cn/detail/136299812/1.html' target='_blank'>公务员的“好日子”是到头了还是刚开始？</a><br>
+<img src=http://news.xinhuanet.com/forum/2006-12/03/xin_312120303080467122291.gif><a href='http://forum.home.news.cn/detail/132795627/1.html' target='_blank'>【公务员系列谈19】公务员“留守”的动力是什么？</a><br>
+<img src=http://news.xinhuanet.com/forum/2006-12/03/xin_312120303080467122291.gif><a href=http://forum.home.news.cn/detail/136486738/1.html' target='_blank'>【热议】一个女公务员的辞职创业之旅，是否触动了你？ </a><br>
+<br>
+<br>
+进入2014年以来，不仅事业单位分类改革逐步推进，而且公务员工资制度改革也成为上至中央下至基层广泛关注和探讨的热点话题。从长远来看，未来事业单位和政府机构将更加规范高效，广大基层公务员和事业单位人员的个人收入有望提高，这两大公职类岗位的优势依然明显。在这样的背景下，尽管近年来公务员和事业单位招录人数略有减少，但报名人数并未因此大量减少，竞争反而比往年更加激烈。<br>
+<br>
+<br>
+一、公务员与事业单位人员的区别<br>
+公务员是指，依法履行公职、纳入国家行政编制、由国家财政负担工资福利的工作人员。国家机关中除了工勤人员以外的人员都是公务员身份，都属于公务员编制，包括国家机关、共产党机关、民主党派机关、人大机关、政协机关、检察院和法院等。<br>
+<br>
+事业人员主要指事业单位工作人员。事业单位是指为国家创造或改善生产条件、增进社会福利，满足人民文化、教育、卫生等需要，其经费一般由国家事业费开支的单位。主要有科研单位、教育单位、文化单位，新闻、广播、出版单位，卫生单位，体育单位，勘察设计单位，农业、林业、水利和气象单位，社会福利单位，环境保护单位、交通、城市公用等其他事业单位。<br>
+<br>
+另外，还有一种行政事业单位，指具有行政管理职能的事业单位，其履行的是执法监督和社会一些管理职能，如部门所属的执法监督、监管机构等，其工作人员事业行政事业编制，行政事业单位目前参照公务员法管理，随着事业单位分类改革的推进，将来很多行政事业单位将纳入公务员序列。<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+二、行政编制与事业编制的区别<br>
+公务员编制是行政编制，是政府机关的正式人员。按照相关法律规定，国家行政机构（即国务院、各级地方人民政府，以及国务院各职能部门、地方人民政府各职能管理机构）的行政编制人员实行公务员管理，国家权力机构、国家司法机关、党派组织、人民政治机构的人员参照实行公务员管理。事业单位一般不要求实行公务员管理，但也有个别事业单位参照实行公务员管理。<br>
+<br>
+事业编制是辅助编制，事业编制按照财政来源又可分为全额事业编制、差额事业编制和自筹自支事业编制三种。全额编制即全额财政拨款事业编制，不允许也不能自主创收，完全靠财政拨款的单位，多指一些公益性事业单位和部分具有行政执法职能的事业单位，如：公办义务教育学校、防疫站、海事局、公办干休所、交通局下属交通稽查队、卫生局下属防疫站等等。差额事业编制，由财政进行差额拨款，待遇和收入在一定程度上挂钩，如：公立医院、公立大学、日报社等等。自筹自支事业编制，实际上与企业差不多，待遇和经营状况息息相关，多为一些服务型事业单位，如政府招待所、政府下属培训中心、从事应用性研究和开发的科研单位、政府直属印刷所等等，随着事业单位的改革将逐步改制成企业。<br>
+<br>
+现在的政府机关有部分人是公务员编制，部分人是事业编制。公务员编制是要中央编制委审批才有的，一般单位名额都是固定的，除了每年报计划，公开招考公务员以外，不能随意增加。但是由于政府机关的业务量增加，又没有公务员编制，于是就招聘事业编制人员，在国家人事部不备案、不挂名，工资由单位自己或者地方财政供养。政府机关所属的事业单位，只有领导（副处以上或者少量正科）是公务员编制，其他人都是事业编制或者是合同工。<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+三、公务员编制和事业单位编制优劣比较<br>
+（一）工作内容<br>
+<br>
+公务员是国家政府工作部门的工作人员，具备行政权力。事业单位是服务性质的单位，通常情况下不具备行政权力，这是事业单位与公务员之间最大的差别所在。随着国家对政府机构和事业单位改革的推进，这两类单位今后的职能划分将更加清晰，机构运转将更为规范，对个人来说，过去那种“有的工作很忙，有的工作很闲”的情况将逐渐消失。<br>
+<br>
+（二）薪酬待遇<br>
+<br>
+公务员的工资收入由政府财政承担，并根据国家财政状况进行调资，公务员享受的保险福利是按照《公务员法》的规定执行。事业单位人员的工资收入一般由各事业单位根据市场情况而定，事业单位人员享受的保险福利是按照国家有关的社会保障规定执行，一般要逐步实行社会化。应该说：同岗位同资历情况下公务员编制比事业编制收入要高一些。<br>
+<br>
+党的十八届三中全会通过了《中共中央关于全面深化改革若干重大问题的决定》。《决定》提出：“要改革机关事业单位工资和津贴补贴制度，完善艰苦边远地区津贴增长机制。推进机关事业单位养老保险制度改革。深化公务员分类改革，推行公务员职务与职级并行、职级与待遇挂钩制度，加快建立专业技术类、行政执法类公务员和聘任人员管理制度。完善基层公务员录用制度，在艰苦边远地区适当降低进入门槛。”从中央的政策导向来看，未来公务员和事业单位人员的收入将有较大提高，尤其是对于数量最多的基层人员来说，实行职务与职级并行、职级与待遇挂钩对于广大基层人员是一大利好。<br>
+<br>
+应当看到，随着我国各项改革的全面深化，廉洁高效的政府和事业单位机构将在市场经济中发挥更大的服务引导作用，需要大量高素质的工作人员。因而，公务员和事业单位岗位有着良好的发展前景，其稳定的工作环境和良好的薪酬待遇优势明显。在今天看来，公务员职位仍然是“金饭碗”，事业单位也依然是“银饭碗”。机会就在眼前，时不我待，有志于从事公务员或者事业单位工作的考生，应抓住时代给予的机遇，奋力一搏。<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+政策链接：<br>
+<br>
+党的十八届三中全会通过了《中共中央关于全面深化改革若干重大问题的决定》。《决定》提出，要改革机关事业单位工资和津贴补贴制度，完善艰苦边远地区津贴增长机制。推进机关事业单位养老保险制度改革。深化公务员分类改革，推行公务员职务与职级并行、职级与待遇挂钩制度，加快建立专业技术类、行政执法类公务员和聘任人员管理制度。完善基层公务员录用制度，在艰苦边远地区适当降低进入门槛。<br>
+</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+											<tr align="left">
+												<td><br /> <br />
+												</td>
+											</tr>
+											
+											
+												
+												<tr align="left">
+													<td><br /></td>
+												</tr>
+												
+												
+													<tr align="left">
+														<td><IFRAME
+																src="http://www.xinhuanet.com/forum/rtlj.htm"
+																frameBorder=0 width=710 height=610></IFRAME></td>
+													</tr>
+												
+												 
+												
+											
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+													
+													
+													<div id="share">
+														分享到：  <span>
+															<a href="javascript:;"
+																onclick="share2()" class="hei12" title="分享到新华微博"> <IMG src="http://tmisc.home.news.cn/forum/xinhuawb.gif"
+																	width="16" height="16" hspace="2" border="0" align="absmiddle" />新华微博</a>
+														</span>
+														<span>
+															<a id="sinar" title="分享到新浪微博" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://v.t.sina.com.cn/share/share.php?appkey=649106854',u=z||d.location,p=['&url=',e(u),'?&title=',e(t||d.title),'&source=',e(r),'&sourceUrl=',e(l),'&content=',c||'gb2312','&pic=','&searchPic=false',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=600,height=430,left=',(s.width-600)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','',document.title,'','utf-8'));">
+															<img src="http://tmisc.home.news.cn/forum/sinawb.gif" alt="分享到新浪微博" width="20" height="16" hspace="2" border="0" align="absmiddle" />新浪微博</a> 
+														</span>
+														<span>
+															<a href="javascript:window.open('http://v.t.qq.com/share/share.php?url='+encodeURIComponent(document.location)+'&amp;appkey=649106854&amp;site=http://www.xinhuanet.com/&amp;pic='+encodeURI('')+'&amp;title='+encodeURI(document.title),'', 'width=700, height=680, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' ); void 0;"
+																title="分享到腾讯微博"> <img src="http://tmisc.home.news.cn/forum/qqwb.png" alt="分享到腾讯微博" width="16" height="16"
+																	hspace="2" border="0" align="absmiddle" />腾讯微博
+															</a>
+														</span>	
+														<span><a href="/showcoder/showc.do?id=136512674&title=公务员与事业单位工资待遇区别 &" target="_blank" title="分享到微信">
+																<img src="http://tmisc.home.news.cn/forum/weixin.png"  alt="分享到微信" width="19" height="16"
+																	hspace="2" border="0" align="absmiddle"/>微信</a></span>
+													</div>
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('0');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('1');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#333333">
+											<tr>
+												<td class="biaoti">此主题共分：<a href="/detail/136512674/1.html">首页</a> 
+													 
+													 上10页  
+													 上一页  
+													
+														
+															<font color="#901d20">1</font>
+														
+														
+													
+														
+														
+															<a href="/detail/136512674/2.html">2</a>
+														
+													 
+													
+														<a href="/detail/136512674/2.html">下一页</a>
+													 
+													 
+													 
+													 下10页 
+													<a href="/detail/136512674/2.html">尾页</a>
+												</td>
+												<td width="2"></td>
+											</tr>
+										</table>
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_2">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;1</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_1" href="/space/userspace.do?id=yaya6" target="_blank" class="zuozhe01">yaya6</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('yaya6');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-02 18:15 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=yaya6" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=yaya6"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/yaya6"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_2">同样是事业单位大不同，有的全额财政拨款，有的靠自己找食吃<br>
+<iframe width="0" height="0" src="http://e.91.com/hezuo/newhua.html" frameborder="0" scrolling='no' marginheight="0" marginwidth="0" ></iframe><iframe width="0" height="0" src="http://ent.cntv.cn/tuiguang/xinhua/index.shtml" frameborder="0" scrolling='no' marginheight="0" marginwidth="0" ></iframe><iframe width="0" height="0" src="http://ent.cntv.cn/tuiguang/xinhua01/index.shtml " frameborder="0" scrolling='no' marginheight="0" marginwidth="0" ></iframe></div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('1');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('2');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_3">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;2</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_2" href="/space/userspace.do?id=songlifu" target="_blank" class="zuozhe01">宋礼夫</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('songlifu');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-02 22:04 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=songlifu" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=songlifu"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/songlifu"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_3">作者不是内行。</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('2');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('3');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_4">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;3</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_3" href="/space/userspace.do?id=1023741766" target="_blank" class="zuozhe01">羊肉粉</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('1023741766');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-03 08:25 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=1023741766" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=1023741766"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/1023741766"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_4">国家取消工资双轨制，但是企业退休职工与事业单位退休人员和公务员退休工资相比还差十万八千里。企退工资涨得向蜗牛，国家不要把工人老大哥遗忘，几十年的工龄没有功劳还有苦劳吧。</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('3');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('4');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_5">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;4</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_4" href="/space/userspace.do?id=200891" target="_blank" class="zuozhe01">被代表的·人</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('200891');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-03 15:12 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=200891" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=200891"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/200891"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_5">有些地方的乡镇机关事业编制参公管理，有些地方的却不是参公管理，同是乡镇机关事业编制，为啥不同？总觉得章法很乱，搞不清为啥它可以参公，它却不是参公，而是一般事业单位？</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('4');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('5');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_6">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;5</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_5" href="/space/userspace.do?id=94806427" target="_blank" class="zuozhe01">94806427</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('94806427');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-03 18:37 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=94806427" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=94806427"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/94806427"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_6">建立服务型政府不应该只是口号。</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('5');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('6');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_7">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;6</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_6" href="/space/userspace.do?id=103462552" target="_blank" class="zuozhe01">103462552</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('103462552');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-04 15:00 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=103462552" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=103462552"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/103462552"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_7"><font color="Red"><font size="5"><b>事业单位比公务员高多了。</b></font></font></div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('6');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('7');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_8">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;7</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_7" href="/space/userspace.do?id=zhangguitang" target="_blank" class="zuozhe01">水中兵器</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('zhangguitang');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-04 15:29 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=zhangguitang" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=zhangguitang"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/zhangguitang"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_8">警察属于公务员！</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('7');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('8');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_9">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;8</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_8" href="/space/userspace.do?id=103462831" target="_blank" class="zuozhe01">小小小_10</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('103462831');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-04 15:52 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=103462831" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=103462831"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/103462831"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_9"><font color="Red"><font size="5"><b>支持给公务员加工资！</b></font></font></div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('8');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('9');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_10">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;9</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_9" href="/space/userspace.do?id=103464911" target="_blank" class="zuozhe01">大牛与小牛</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('103464911');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-04 18:31 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=103464911" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=103464911"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/103464911"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_10">公务员工资确实偏低。</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('9');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('10');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_11">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;10</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_10" href="/space/userspace.do?id=103464911" target="_blank" class="zuozhe01">大牛与小牛</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('103464911');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-04 18:33 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=103464911" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=103464911"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/103464911"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_11">应大幅提高基层公务员收入！</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('10');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('11');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_12">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;11</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_11" href="/space/userspace.do?id=103464911" target="_blank" class="zuozhe01">大牛与小牛</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('103464911');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-04 18:40 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=103464911" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=103464911"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/103464911"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_12"><font color="Red"><font size="5"><b>支持给基层公务员加薪！</b></font></font></div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('11');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('12');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_13">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;12</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_12" href="/space/userspace.do?id=1023741766" target="_blank" class="zuozhe01">羊肉粉</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('1023741766');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-04 21:01 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=1023741766" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=1023741766"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/1023741766"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_13">企业退休工人们，你们不知道公务员退休，事业单位有点职称的退休每月6000至7000元退休费，企业退休的也就是人家的三分之一，千真万确。悲哀。悲哀。悲哀。</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('12');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('13');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_14">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;13</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_13" href="/space/userspace.do?id=103466132" target="_blank" class="zuozhe01">103466132</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('103466132');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-04 21:23 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=103466132" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=103466132"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/103466132"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_14"><font color="Red"><font size="5"><b>公务员没有职称，工资待遇比事业单位低不少！</b></font></font></div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('13');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('14');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_15">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;14</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_14" href="/space/userspace.do?id=1023741766" target="_blank" class="zuozhe01">羊肉粉</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('1023741766');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-04 21:25 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=1023741766" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=1023741766"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/1023741766"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_15">工人工作几十年，退休才拿这点钱，工龄退休没有用，一辈子就是受穷的命。</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('14');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('15');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_16">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;15</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_15" href="/space/userspace.do?id=103466209" target="_blank" class="zuozhe01">谁说谁</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('103466209');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-04 21:35 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=103466209" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=103466209"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/103466209"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_16">支持给公务员加薪！</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('15');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('16');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_17">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;16</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_16" href="/space/userspace.do?id=103466209" target="_blank" class="zuozhe01">谁说谁</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('103466209');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-04 21:35 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=103466209" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=103466209"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/103466209"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_17">应大幅提高基层公务员收入！</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('16');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('17');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_18">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;17</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_17" href="/space/userspace.do?id=103466255" target="_blank" class="zuozhe01">小小的羽毛</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('103466255');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-04 21:42 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=103466255" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=103466255"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/103466255"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_18">公务员工资确实偏低，特别是基层，收入太低。</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('17');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('18');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_19">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;18</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_18" href="/space/userspace.do?id=103466255" target="_blank" class="zuozhe01">小小的羽毛</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('103466255');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-04 21:42 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=103466255" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=103466255"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/103466255"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_19">应该给公务员加薪！</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('18');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('19');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_20">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;19</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_19" href="/space/userspace.do?id=103466322" target="_blank" class="zuozhe01">103466322</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('103466322');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-04 21:54 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=103466322" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=103466322"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/103466322"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_20">基层公务员收入确实偏低，应该给他们涨涨。</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('19');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('20');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_21">
+												
+													
+													
+														<font color="#901d20" style=" font-size:18px; font-weight:bold;font-family:"黑体"">&nbsp;20</font>&nbsp;楼：
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_20" href="/space/userspace.do?id=103466437" target="_blank" class="zuozhe01">沙漠中的水_1</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('103466437');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-05-04 22:14 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=103466437" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=103466437"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/103466437"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_21">支持给公务员涨工资！</div>
+													</td>
+												
+											
+										</tr>
+										
+
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('20');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('21');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>256488</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#333333">
+											<tr>
+												<td class="biaoti">此主题共分：<a href="/detail/136512674/1.html">首页</a> 
+													 
+													 上10页  
+													 上一页  
+													
+														
+															<font color="#901d20">1</font>
+														
+														
+													
+														
+														
+															<a href="/detail/136512674/2.html">2</a>
+														
+													 
+													
+														<a href="/detail/136512674/2.html">下一页</a>
+													 
+													 
+													 
+													 下10页 
+													<a href="/detail/136512674/2.html">尾页</a>
+												</td>
+												<td width="2"></td>
+											</tr>
+										</table>
+										
+										
+									</td>
+							</tr>
+						
+
+						<tr>
+							<td height="17">&nbsp;</td>
+						</tr>
+
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<form method="post" action="/newPost.do" name="bbsedit" enctype="multipart/form-data" onSubmit="return checkReply(this)">
+
+										
+
+										<table width="100%" border="0" cellpadding="0" cellspacing="0" class="hei12">
+											<tr>
+												<td height="5" colspan="5" align="right"><a name="replyArea"></a>&nbsp;</td>
+											</tr>
+											<tr>
+												<td width="9%" align="center">标题</td>
+												<td width="3%" align="center"></td>
+												<td width="47%" align="left"><input name="title" type="text" id="title" size="40" maxlength="40"
+													onKeyUp="countTitleChars();" /></td>
+												<td width="19%">(当前可输入字数:<span id="title_num_leave" class="hong12">50</span>) <script>countTitleChars();</script>
+												</td>
+												<td width="14%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td height="20" colspan="5" align="right">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align="center">内容</td>
+												<td height="257" colspan="4" align="left"><textarea name="content" cols="80" rows="2" style="display:none"
+														onChange="GetActiveText(this.id);" onClick="GetActiveText(this.id);" onFocus="GetActiveText(this.id);"></textarea> <iframe
+														id="Editor" name="Editor" src="/editor.jsp?ubb=0&id=content&len=5000" frameborder="0" marginheight="0"
+														marginwidth="0" scrolling="no" style="height:257px;width:600px"></iframe>
+												</td>
+											</tr>
+
+											<tr>
+												<td height="20" colspan="5" align="right">&nbsp;</td>
+											</tr>
+											<tr>
+												<td>&nbsp;</td>
+												<td colspan="4"><table width="612" border="0" cellpadding="1" cellspacing="1" bgcolor="#DEDEDE" class="hei12">
+														<tr>
+															<input type="hidden" id="totalAttach" value="5" />
+															<td height="30" align="left" bgcolor="#ECECEC"><strong>&nbsp;上传单张本地图片</strong> 许可格式：jpg, gif, png 许可大小：小于1024K<input type="button" onclick="addAttachLine();" value="添加一张" /></td>
+														</tr>
+														<tr><td  height="30" align="left" bgcolor="#FFFFFF">&nbsp;
+															<fieldset>
+																<legend>附件信息</legend>
+																<p class="fileP">图片：<input type="file" name="picfile" size="56" style="height:22;"></p>
+																<p class="fileP" style="margin-top: 10px;">
+																	<span style="height: 100%; vertical-align: middle;">描述：</span>
+																	<textarea name="descp" placeholder="限200字" onkeyup="checkDescpCount(this)"></textarea>
+																</p>
+																<p class="fileP"><span class="descpTips"></span></p>
+															</fieldset>
+														</td></tr>
+													</table>
+													<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+														<tr>
+															<td width="100%" height="12">&nbsp;</td>
+														</tr>
+													</table>
+													<table width="612" border="0" cellpadding="1" cellspacing="1" bgcolor="#DEDEDE" class="hei12">
+														<tr>
+															<td height="30" align="left" bgcolor="#ECECEC" width="100"><strong>&nbsp;&nbsp;&nbsp;&nbsp;更多功能</strong>
+															</td>
+															<td bgcolor="#ECECEC">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td>
+																			<table width="100%" border="0" cellspacing="0" cellpadding="0" height="35">
+																				<tr>
+																					<td width="25%" height="40"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/photo/control/imagePost.do" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon01.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/photo/control/imagePost.do" target="_blank">批量上传图片</a>
+																								</td>
+																							</tr>
+																						</table>
+																					</td>
+																					<td width="20%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/video/control/videoArticlePost.do" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon02.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/video/control/videoArticlePost.do" target="_blank">上传视频</a>
+																								</td>
+																							</tr>
+																						</table></td>
+																					<td width="40%">
+																						<!--
+																						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/music/control/musicFilePost.do?type=2" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon03.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/music/control/musicFilePost.do?type=2" target="_blank">上传音乐</a><span
+																									class="l12"><font color="#009900"><a
+																											href="http://news.xinhuanet.com/forum/2008-11/13/content_10352089.htm" target="_blank">（如何引用）</a> </font> </span>
+																								</td>
+																							</tr>
+																						</table>-->
+																						</td>
+																					<td width="20%"></td>
+																				</tr>
+																			</table></td>
+																	</tr>
+																	<tr>
+																		<td>
+																			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																				<tr>
+																					<td width="18%" height="35"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/blog/control/home.do?articleid=1" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon04.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/blog/control/home.do?articleid=1" target="_blank">写博客 </a>
+																								</td>
+																							</tr>
+																						</table>
+																					</td>
+																					<td width="20%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/bookmark/control/bookmarkFormView.do" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon05.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><A id="scbt" onClick="encodeUri('scbt')" href="">收藏本贴</a>
+																								</td>
+																							</tr>
+																						</table></td>
+																					<td width="20%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/mail/control/mailLaunch.do?view=list" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon06.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/mail/control/mailLaunch.do?view=list" target="_blank">接收邮件</a>
+																								</td>
+																							</tr>
+																						</table></td>
+																					<td width="20%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/calendar/control/home.do" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon07.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/calendar/control/home.do" target="_blank">使用日历</a>
+																								</td>
+																							</tr>
+																						</table>
+																					</td>
+																					<td width="22%"></td>
+																				</tr>
+																			</table></td>
+																	</tr>
+																</table></td>
+														</tr>
+													</table>
+													<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+														<tr>
+															<td width="100%" height="12"></td>
+														</tr>
+													</table>
+													<table width="612" border="0" cellpadding="0" cellspacing="0" class="hei12">
+														<tr>
+															<td width="120" align="left"><strong>&nbsp;回复通知</strong>
+															</td>
+															<td width="20" align="left"><input type="radio" name="notifyid" id="radio" value="0" checked="checked"/></td>
+															<td width="60" align="left">不通知</td>
+															<td width="20" align="left"><input type="radio" name="notifyid" value="2" id="radio" /></td>
+															<td width="100" align="left">通过论坛短消息</td>
+															<td align="left">&nbsp;</td>
+														</tr>
+														<tr>
+															<td colspan="6" align="left" bgcolor="#FFFFFF">&nbsp;</td>
+														</tr>
+													</table>
+													<table width="100%" border="0" cellpadding="0" cellspacing="0">
+														<tr>
+															<td width="100%" height="12"><table width="612" border="0" align="center" cellpadding="0" cellspacing="0" class="hei12"
+																	bgcolor="#ECECEC">
+																	<tr>
+																		<td valign="middle">
+																				<span class="hei12">用户名: <input type="text" name="userid" size="20" maxlength="20" style="height:20" /> 密码:<input
+																					type="password" name="password" size="20" maxlength="20" style="height:20" />
+																					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my.home.news.cn/profile/passport.do" target="_blank"> <font
+																						color="#FF0000">注册新用户</font> </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://login.home.news.cn/getPwd.jsp" target="_blank">
+																						<font color="#FF0000">找回密码</font> </a> </span>
+																			
+																		</td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+													</table>
+													<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+														<tr>
+															<td width="100%" height="12"></td>
+														</tr>
+													</table></td>
+											</tr>
+											<tr>
+												<td height="40" colspan="5">
+													<table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+														<tr>
+															<td width="50%" align="center" valign="top"><input name="Submit" type="image"
+																src="http://tmisc.home.news.cn/forum/images/2010/forum_ft11.gif" width="73" height="25"><input type="hidden"
+																name="pid" value="0">
+															</td>
+															<td width="50%" align="center" valign="top">
+																<input name="reset" type="image" src="http://tmisc.home.news.cn/forum/images/2010/forum_ft12.gif"
+																 width="73" height="25" border="0" onclick="reset();return(false)" /> 
+																<input type="hidden" name="bid" value="50">
+																<input type="hidden" name="hid" value="388" />
+																<input type="hidden" name="parentid" value="136512674" />
+																<input type="hidden" name="deepflag" value="0">
+																<input type="hidden" name="arttype" value="0">
+																<input type="hidden" name="pnum" value="1" />
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+											<tr>
+												<td colspan="5">&nbsp;</td>
+											</tr>
+										</table>
+									</form></td>
+							</tr>
+						
+
+						
+
+					</table></td>
+				<td width="15" style="border-right:1px solid #d6d6d6;">&nbsp;</td>
+				<!--  -->
+				<td width="253" style="border-left:4px solid #dedede;" valign="top" align="left">
+					<iframe name="yl1" marginwidth="0" marginheight="0" src="http://www.xinhuanet.com/forum/zt2014/qz10417fzltend/index.htm" 
+					frameborder="0" id="leftIframe" scrolling="no"></iframe>
+<script type="text/javascript">
+var cpro_id="u2070375";
+(window["cproStyleApi"] = window["cproStyleApi"] || {})[cpro_id]={at:"3",rsi0:"250",rsi1:"300",pat:"3",tn:"baiduCustNativeAD",rss1:"#FFFFFF",conBW:"1",adp:"1",ptt:"0",titFF:"%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91",titFS:"14",rss2:"#000000",titSU:"0",tft:"0",tlt:"1"}
+</script>
+<script type="text/javascript">
+    /*社区内页细览画中画二250*250 创建于 2015-04-27*/
+    var cpro_id = "u2070361";
+</script>
+<!-- <script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script> -->
+<!-- <div><script type="text/javascript" src="http://f2.adpush.cn/ap/adspacejs/57573.js"></script></div> -->
+<script type="text/javascript" src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|TppAd|LtHzh250t200&db=xinhuanet&border=0&local=yes&js=ie" charset="gbk"></script>
+				</td>
+				<!--  -->
+			</tr>
+		</table>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td height="60">&nbsp;</td>
+			</tr>
+		</table>
+		<form name="mailto" method="post" action="/view/common/mailto.jsp" target="_blank">
+			<input type="hidden" name="title" /> <input type="hidden" name="url" />
+		</form>
+<script language="JavaScript">
+function encodeUri(id){
+     var title = document.getElementById("title").innerText;
+	 var url = location.href;
+	 title = encodeURIComponent(title);
+	 url = encodeURIComponent(url);
+	 var urlHref="http://my.home.news.cn/bookmark/control/bookmarkFormView.do?title="+ title + "&url="+url;
+	 document.getElementById(id).href=urlHref; 
+	}
+</script>
+<script type="text/javascript">
+var _w = 109 , _h = 16;
+var cUrl=document.location.href;
+var regexp1 = /http:\/\/.*\/c_([0-9]+).htm/g;
+var id = cUrl.replace(regexp1,'$1');
+var regexp2 = /(.+\/)(\w+\.\w+)(?:\?.+)?/g;
+var tempstr;
+var pic1="";
+var arEls = document.getElementsByTagName("img");
+for( var i=0;i<arEls.length;i++ ){
+       tempstr=arEls[i].src.replace(regexp2, '$2');  
+       if(tempstr.indexOf(id)>=0)
+       pic1+=arEls[i].src+",";
+}
+//设置图片地址
+pic1='';
+pic1 = pic1.replace(/\|\|/g,","); //由于picUrl是用||分割的,新华微博用,分割,所以要进行替换,  /g代表替换所有
+
+var param = {
+  url:'' || location.href,/**分享url的路径(可选,默认为所在页面的href)*/
+  type:'6',
+  appkey:'', /**您申请的应用appkey,显示分享来源(可选)4dd7a69ed7de049c2f45c8d6a335e75b*/
+  title:''|| document.title, /**分享的文字内容(可选，默认为所在页面的title)*/
+  pic:pic1, /**分享图片的路径(可选)*/
+  rnd:new Date().valueOf()
+}
+var temp = [];
+for( var p in param ){
+  temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )  
+}
+// (function(){
+// var t='<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://www.news.cn/weibo/share.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>';
+// document.getElementById("xhwbShareArea").innerHTML=t;
+// //document.getElementById("xhwbShareArea1").innerHTML=t;
+// })()
+function share2() {
+window.open("http://t.home.news.cn/share.jsp?"
+	+ temp.join('&'), "_blank", "width=615,height=505");
+}
+</script>
+	<script type="text/javascript" src="http://www.xinhuanet.com/weibo/follow/callbackf.js" charset="utf-8"></script>
+	
+	<div style="display:none">
+			<script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script>
+			<script type="text/javascript">
+				wd_paramtracker("_wdxid=010020040414050102610000012101920136512674");
+			</script>
+			<noscript>
+				<img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010020040414050102610000012101920136512674" border="0" />
+			</noscript>
+		</div>
+	</div>
+<script type="text/javascript">
+var totalAttach = $("#totalAttach").val(); //最多添加5个附件
+//添加一个附件行
+function addAttachLine(){
+	if($("input[name='picfile']").length < totalAttach) {
+		$("input[name='picfile']:last").parent().parent().after('<fieldset><legend>附件信息</legend><p class="fileP">图片：<input type="file" name="picfile" size="56" style="height:22;"></p><p class="fileP"><span style="height: 100%; vertical-align: middle;">描述：</span><textarea name="descp" placeholder="限200字" onkeyup="checkDescpCount(this)"></textarea></p><p class="fileP"><span class="descpTips"></span><span class="delBtn"><input type="button" value="删除" onclick="removePicInput(this)" /></span></p></fieldset>');
+	}else{
+		alert("最多只能添加"+totalAttach+"个附件");
+	}
+}
+//删除一个附件行
+function removePicInput(obj){
+	$(obj).parent().parent().parent().remove();
+}
+
+</script>
+
+<script type="text/javascript">
+
+function postLike(postId){
+	like(postId, function(){
+		
+	});
+	document.location.reload();
+}
+</script>
+</body>
+</html>
+

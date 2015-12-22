@@ -1,0 +1,220 @@
+<!--UINFO: http://www.pzzc.net/forum.php?mod=viewthread&amp;tid=7728862&amp;page=1	length=12486&last_modified=0&time_saved=1450676766&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>提示信息 -  邳州论坛 -  Powered by Discuz!</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",邳州论坛" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://www.pzzc.net/" /><link rel="stylesheet" type="text/css" href="data/cache/style_11_common.css?DEp" /><link rel="stylesheet" type="text/css" href="data/cache/style_11_forum_viewthread.css?DEp" /><script type="text/javascript">var STYLEID = '11', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'DEp', charset = 'gbk', discuz_uid = '0', cookiepre = '5ePa_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '5|好评度|点,1|威望|点,2|金钱|RMB,3|贡献值|点,4|银元|个', defaultstyle = '', REPORTURL = 'aHR0cDovL3d3dy5wenpjLm5ldC9mb3J1bS5waHA/bW9kPXZpZXd0aHJlYWQmYW1wO3RpZD03NzI4ODYyJmFtcDtwYWdlPTE=', SITEURL = 'http://www.pzzc.net/', JSPATH = 'static/js/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="static/js/common.js?DEp" type="text/javascript"></script>
+<meta name="application-name" content="邳州论坛" />
+<meta name="msapplication-tooltip" content="邳州论坛" />
+<meta name="msapplication-task" content="name=首页;action-uri=http://www.pzzc.net/portal.php;icon-uri=http://www.pzzc.net/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=论坛模式;action-uri=http://www.pzzc.net/forum.php;icon-uri=http://www.pzzc.net/static/image/common/bbs.ico" />
+<link rel="archives" title="邳州论坛" href="http://www.pzzc.net/archiver/" />
+<link rel="stylesheet" id="css_widthauto" type="text/css" href="data/cache/style_11_widthauto.css?DEp" />
+<script type="text/javascript">HTMLNODE.className += ' widthauto'</script>
+<script src="static/js/forum.js?DEp" type="text/javascript"></script>
+ 
+<script src="./template/pzzc/style/jquery.js" type="text/javascript"></script>
+  <script type="text/javascript">var jQ = jQuery.noConflict();</script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<!--top开始-->
+
+   
+<link href="./template/pzzc/style/fhead.css" rel="stylesheet" />
+<script src="./template/pzzc/style/js/hdsc.js" type="text/javascript" type="text/javascript"></script>
+<div class="wapper_out sitenavbg overvisible level3">
+<div class="wapper sitenav overvisible">
+<a href="#" title="邳州论坛" class="sm_logo z mr10"></a>
+<ul class="fs14 z plate_head clearfix">
+<li class="dropmenu pr">
+<a href="portal.php" class="now">首页<i class="sitenavico arrowdown">&nbsp;</i></a>
+<div class="dropdown dropdown_info_box home_page_box" style="display: none;">
+<ul class="dropdown_info clearfix">
+<li><a href="http://www.pzzc.net/thread-htm-fid-175.html" target="_blank">房产</a></li>
+<li class="border_no"><a href="http://www.pzzc.net/thread-htm-fid-326.html" target="_blank">健康</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-193.html" target="_blank">装修</a></li>
+<li class="border_no"><a href="http://www.pzzc.net/thread-htm-fid-161.html" target="_blank">理财</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-306.html" target="_blank">汽车</a></li>
+<li class="border_no"><a href="http://www.pzzc.net/thread-htm-fid-85.html" target="_blank">旅游</a></li>
+<li><a href="http://www.pzzc.net/forum.php?gid=858" target="_blank">婚嫁</a></li>
+<li class="border_no"><a href="http://www.pzzc.net/thread-htm-fid-136.html" target="_blank">美食</a></li>
+</ul>
+</div>
+</li>
+<li class="dropmenu pr">
+<a href="forum.php" class="now">社区<i class="sitenavico arrowdown">&nbsp;</i></a>
+<div class="dropdown dropdown_info_box community_box" style="display: none;">
+<ul class="dropdown_info clearfix">
+<li><a href="forum.php">全部版块</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-317.html">邳州商家</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-85.html">旅游休闲</a></li>
+<li class="border_no"><a href="http://www.pzzc.net/thread-htm-fid-33.html" style="color:#FF0000">同城交易</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-129.html">邳州杂谈</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-136.html">邳州美食</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-142.html">交友征婚</a></li>
+<li class="border_no"><a href="http://www.pzzc.net/thread-htm-fid-159.html">网络商店</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-175.html">房产楼市</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-296.html">情感驿站</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-377.html">邳州微电影</a></li>
+<li class="border_no"><a href="http://www.pzzc.net/thread-htm-fid-37.html">求职招聘</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-120.html">邳州车友</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-861.html">我要结婚</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-41.html">风光摄影</a></li>
+<li class="border_no"><a href="http://www.pzzc.net/thread-htm-fid-168.html">电脑数码</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-193.html">家居装修</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-137.html">亲子乐园</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-214.html">宠物情缘</a></li>
+<li class="border_no"><a href="http://www.pzzc.net/thread-htm-fid-109.html">开心乐园</a></li>
+</ul>
+</div>
+</li>
+<li class="dropmenu pr">
+<a href="#" class="now" target="_blank">信息<i class="sitenavico arrowdown">&nbsp;</i></a>
+<div class="dropdown dropdown_info_box info_box" style="display: none;">
+<ul class="dropdown_info clearfix">
+<li><a href="http://www.pzzc.net/thread-htm-fid-33.html" target="_blank">同城交易</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-37.html" target="_blank">求职</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-173.html" target="_blank">房产买卖</a></li>
+<li class="border_no"><a href="http://www.pzzc.net/thread-htm-fid-312.html" target="_blank">出租求租</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-37.html" target="_blank">招聘</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-305.html" target="_blank">车辆租赁</a></li>
+<li><a href="http://www.pzzc.net/thread-htm-fid-222.html" target="_blank">邳州二手车</a></li>
+<li class="border_no"><a href="http://www.pzzc.net/thread-htm-fid-88.html" target="_blank">邳州教育</a></li>
+</ul>
+</div>
+</li>
+<li class="dropmenu pr">
+<a href="#" class="now" target="_blank">手机版<i class="sitenavico arrowdown">&nbsp;</i></a>
+<div class="dropdown dropdown_info_box barcode" style="display: none;">
+<img src="./template/pzzc/style/weixin.png">
+<span>扫一扫 下载客户端</span>
+</div>
+</li>
+</ul>     
+<style>
+.schl { float: left; display: inline;}
+.wp{ width:1000px;}
+</style>
+
+<form method="post" autocomplete="off" action="search.php?searchsubmit=yes" target="_blank">
+<input id="mod" type="hidden" name="mod" value="forum">
+<input type="hidden" name="mod" id="mod" value="forum" />
+<input type="hidden" name="formhash" value="fb362d1d" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+
+</form>
+
+<div class="y">
+<ul id="userlogin">
+      <li>
+<a title="登陆"  class="nav_login_title" href="member.php?mod=logging&amp;action=login"><i class="sitenavico login">&nbsp;</i>登录</a>&nbsp; <em class="vertical">|</em>&nbsp;<a title="注册"  href="member.php?mod=register" >注册</a>
+        	
+      </li>
+<li class="pr0">
+<a title="扫一扫访问微社区"  href="plugin.php?id=wechat:login"><i class="sitenavico SinaWeibo">&nbsp;</i></a>
+<a title="QQ"  href="http://www.pzzc.net/connect.php?mod=login&op=init&referer=forum.php%3Fmod%3Dviewthread%26amp%3Btid%3D7728862%26amp%3Bpage%3D1&statfrom=login_simple"><i class="sitenavico qq">&nbsp;</i></a>
+</li>
+ 			
+</ul>
+</div>
+
+   </div>
+</div>
+<!--top结束-->
+
+<!--头部结束-->   
+
+<div id="wp" class="wp"><div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p>抱歉，指定的主题不存在或已被删除或正在被审核</p>
+<script type="text/javascript">
+if(history.length > (BROWSER.ie ? 0 : 1)) {
+document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ 点击这里返回上一页 ]</a></p>');
+} else {
+document.write('<p class="alert_btnleft"><a href="./">[ 邳州论坛 首页 ]</a></p>');
+}
+</script>
+</div>
+</div>
+</div>
+</div></div>
+
+
+<script type="text/javascript">
+_attachEvent(window, 'load', getForbiddenFormula, document);
+function getForbiddenFormula() {
+var toGetForbiddenFormulaFIds = function () {
+ajaxget('plugin.php?id=cloudsearch&formhash=fb362d1d');
+};
+var a = document.body.getElementsByTagName('a');
+for(var i = 0;i < a.length;i++){
+if(a[i].getAttribute('sc')) {
+a[i].setAttribute('mid', hash(a[i].href));
+a[i].onmousedown = function() {toGetForbiddenFormulaFIds();};
+}
+}
+var btn = document.body.getElementsByTagName('button');
+for(var i = 0;i < btn.length;i++){
+if(btn[i].getAttribute('sc')) {
+btn[i].setAttribute('mid', hash(btn[i].id));
+btn[i].onmousedown = function() {toGetForbiddenFormulaFIds();};
+}
+}
+}
+</script>
+
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p align="center">
+<span class="ft_legal">公告站务/广告：0516-86238929/86006008 投诉受理邮箱：2933975472@qq.com 法律顾问:江苏景来律师事务所 尚振云 律师
+                                <a href="http://www.miitbeian.gov.cn/" target="_blank">苏公网安备 32038202000107号</a>
+                                <br>
+版权所有:邳州九洲文化传媒有限公司 信息产业部备案/许可证编号:苏ICP备09074357号 苏B2-20140211号<a href='http://fuyun.safedog.cn' name='c471f6e20ae2f95fae947725a2879e58'  target='_blank'>安全狗网站安全检测</a>
+<script src="http://s81.cnzz.com/stat.php?id=300890&web_id=300890" type="text/javascript" language="JavaScript" charset="gb2312"></script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F2d31bec7edd93afa54c171c08f808775' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+<script src="http://tajs.qq.com/stats?sId=23969751" type="text/javascript" charset="UTF-8"></script>
+                </span><span id="debuginfo"></span>			</p>
+  </div>
+<div id="frt">
+<p></p>
+  </div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1450676766" type="text/javascript"></script>
+
+<div id="bbs_scrollbar">
+<ul class="y bbs_scrollbar_con">
+<li><a class="gotop go"></a></li>
+<li><a target="_blank" href="#" class="goservice suspend"></a>
+<div style="display: none;" class="lianxi">
+<p>电话：0516-86238929<br>工作日 8:30-17:30在线</p>
+</div>
+</li>
+<!--<li><a class="weixin suspend"></a><div style="display: none;" class="weixinimg"></div></li>-->
+<li><a class="kehuduanbg suspend"></a><div class="kehuduan" style="display: none;"></div></li>
+</ul>
+</div>
+<script src="./template/pzzc/style/bbs_scrollbar.js?DEp" type="text/javascript"></script><div id="scrolltop"></div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '23969751|X3.2|0.6||0||0|7|1450676766|81c6ab41107996e1e8e443746769e502|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>

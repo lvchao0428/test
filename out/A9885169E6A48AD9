@@ -1,0 +1,595 @@
+<!--UINFO: http://bbs.wst.cn/thread-7763074-1-1.html	length=47661&last_modified=0&time_saved=1450676869&charset=gbk-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>高职教育改革创新：国际理念与实践趋势-无锡论坛-无锡门户网-二泉网 -  Powered by Discuz!</title>
+<link href="http://bbs.wst.cn/thread-7763074-1-1.html" rel="canonical" />
+<meta name="keywords" content="高职教育改革创新：国际理念与实践趋势" />
+<meta name="description" content=" 高职教育改革创新：国际理念与实践趋势 " />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.wst.cn/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?O4H" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_viewthread.css?O4H" /><link rel="stylesheet" id="css_extstyle" type="text/css" href="./template/default/style/t3/style.css" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'O4H', charset = 'gbk', discuz_uid = '0', cookiepre = 'RiQH_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'login|newthread', creditnotice = '1|威望|点,2|金币|枚,7|零食|个,8|钻石|颗', defaultstyle = './template/default/style/t3', REPORTURL = 'aHR0cDovL2Jicy53c3QuY24vdGhyZWFkLTc3NjMwNzQtMS0xLmh0bWw=', SITEURL = 'http://bbs.wst.cn/', JSPATH = 'data/cache/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?O4H" type="text/javascript"></script>
+
+<script src="http://cbjs.baidu.com/js/m.js" type="text/javascript"></script>
+<meta name="application-name" content="无锡论坛二泉网" />
+<meta name="msapplication-tooltip" content="无锡论坛二泉网" />
+<meta name="msapplication-task" content="name=无锡论坛首页;action-uri=http://bbs.wst.cn/forum.php;icon-uri=http://bbs.wst.cn/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=;action-uri=http://bbs.wst.cn/group.php;icon-uri=http://bbs.wst.cn/static/image/common/group.ico" /><link rel="archives" title="无锡论坛二泉网" href="http://bbs.wst.cn/archiver/" />
+<script src="data/cache/forum.js?O4H" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://bbs.wst.cn/');">设为首页</a><a href="http://bbs.wst.cn/"  onclick="addFavorite(this.href, '无锡论坛二泉网');return false;">收藏本站</a></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+</div>
+</div>
+</div>
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">立即注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="无锡论坛二泉网"><img src="static/image/common/logo.png" alt="无锡论坛二泉网" border="0" /></a></h2><script src="data/cache/logging.js?O4H" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="pwmd5('ls_password');return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<span class="ftid">
+<select name="fastloginfield" id="ls_fastloginfield" width="40" tabindex="900">
+<option value="username">用户名</option>
+<option value="uid">UID</option>
+<option value="email">Email</option>
+</select>
+</span>
+<script type="text/javascript">simulateSelect('ls_fastloginfield')</script>
+</td>
+<td><input type="text" name="username" id="ls_username" autocomplete="off" class="px vm" tabindex="901" /></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />自动登录</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password" class="z psw_w">密码</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;"><em>登录</em></button></td>
+<td>&nbsp;<a href="member.php?mod=register" class="xi2 xw1">立即注册</a></td>
+</tr>
+</table>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</div>
+
+<div class="fastlg_fm y" style="margin-right: 10px; padding-right: 10px">
+<p><a href="wechat-login.html"><img src="source/plugin/wechat/image/wechat_login.png" class="vm" /></a></p>
+<p class="hm xg1" style="padding-top: 2px;">扫一扫，访问微社区</p>
+</div>
+</div>
+</form>
+
+<script src="data/cache/md5.js?O4H" type="text/javascript" reload="1"></script>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(837);})">快捷导航</a>
+<ul><li id="mn_N8b78" ><a href="http://www.wst.cn" hidefocus="true"  >二泉网首页</a></li><li class="a" id="mn_forum_2" ><a href="forum.php" hidefocus="true" title="BBS"  >无锡论坛首页<span>BBS</span></a></li><li id="mn_home" ><a href="home.php?mod=space&do=album" hidefocus="true" title="Album"  >相册<span>Album</span></a></li><li id="mn_Nce80" ><a href="http://www.taihujiaoyou.com" hidefocus="true" target="_blank"  >我要征婚</a></li><li id="mn_N4d0c" ><a href="http://bbs.wst.cn/home.php?mod=magic" hidefocus="true"  >道具</a></li><li id="mn_Nb948" ><a href="http://bbs.wst.cn/home.php?mod=spacecp&ac=credit" hidefocus="true"  >金币</a></li><li id="mn_Nc6c4" ><a href="http://bbs.wst.cn/home.php?mod=medal" hidefocus="true"  >勋章</a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div><div class="a_mu"><!-- 广告位：聚合顶 -->
+<div style="margin:5px 0 1px 0;"><script type="text/javascript">BAIDU_CLB_fillSlot("778502");</script></div>
+<div style="margin:1px 0 1px 0;"><script type="text/javascript">BAIDU_CLB_fillSlot("411618");</script></div>
+<!-- 广告位：导航页通栏 -->
+<div style="margin:1px 0 1px 0;"><script type="text/javascript">BAIDU_CLB_fillSlot("540892");</script></div>
+<!-- 广告位：论坛独通_宜家 -->
+<div style="margin:1px 0 1px 0;"><script type="text/javascript">BAIDU_CLB_fillSlot("450247");</script></div>
+<!-- 广告位：导航页2 -->
+<div style="margin:1px 0 1px 0;"><script type="text/javascript">BAIDU_CLB_fillSlot("543765");</script></div>
+<div style="margin:1px 0 1px 0;"><iframe width="100%" scrolling="no" height="200" frameborder="0" src="service/topad.html"></iframe></div></div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="d7081345" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="837" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="curforum" fid="837" >本版</a></li><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<script type="text/javascript">var fid = parseInt('837'), tid = parseInt('7763074');</script>
+
+<script src="data/cache/forum_viewthread.js?O4H" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(1);var imagemaxwidth = '750';var aimgcount = new Array();</script>
+
+<style id="diy_style" type="text/css"></style>
+<!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]-->
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">无锡论坛二泉网</a><em>&raquo;</em><a href="forum.php">无锡论坛首页</a> <em>&rsaquo;</em> <a href="forum.php?gid=807">无锡房市</a> <em>&rsaquo;</em> <a href="forum-812-1.html">新区房产</a> <em>&rsaquo;</em> <a href="forum-837-1.html">太湖花园</a> <em>&rsaquo;</em> <a href="thread-7763074-1-1.html">高职教育改革创新：国际理念与实践趋势</a>
+</div>
+</div>
+
+<style id="diy_style" type="text/css"></style>
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="ct" class="wp cl">
+<div id="pgt" class="pgs mbm cl ">
+<div class="pgt"></div>
+<span class="y pgb"><a href="forum-837-1.html">返回列表</a></span>
+<a id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=837')" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a></div>
+
+
+
+<div id="postlist" class="pl bm">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls ptn pbn">
+<div class="hm ptn">
+<span class="xg1">查看:</span> <span class="xi1">87</span><span class="pipe">|</span><span class="xg1">回复:</span> <span class="xi1">0</span>
+</div>
+</td>
+<td class="plc ptm pbn vwthd">
+<div class="y">
+<a href="forum.php?mod=viewthread&amp;action=printable&amp;tid=7763074" title="打印" target="_blank"><img src="static/image/common/print.png" alt="打印" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextoldset&amp;tid=7763074" title="上一主题"><img src="static/image/common/thread-prev.png" alt="上一主题" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextnewset&amp;tid=7763074" title="下一主题"><img src="static/image/common/thread-next.png" alt="下一主题" class="vm" /></a>
+</div>
+<h1 class="ts">
+<a href="forum.php?mod=forumdisplay&amp;fid=837&amp;filter=typeid&amp;typeid=1471">[周边商家]</a>
+<span id="thread_subject">高职教育改革创新：国际理念与实践趋势</span>
+</h1>
+<span class="xg1">
+<a href="thread-7763074-1-1.html" onclick="return copyThreadUrl(this, '无锡论坛二泉网')" >[复制链接]</a>
+</span>
+</td>
+</tr>
+</table>
+
+
+<table cellspacing="0" cellpadding="0" class="ad">
+<tr>
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table><div id="post_76142675" ><table id="pid76142675" class="plhin" summary="pid76142675" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar76142675" class="pls favatar">
+ <a name="lastpost"></a><div class="pi">
+<div class="authi"><a href="space-uid-1146888.html" target="_blank" class="xw1">daamo</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_0" id="userinfo76142675" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo76142675_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="space-uid-1146888.html" target="_blank" class="xi2">daamo</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>用户组：</dt><dd><em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=21" target="_blank">手头略松</a></em></dd>
+<dt>积分</dt><dd><a href="home.php?mod=space&uid=1146888&do=profile" target="_blank" class="xi2">247</a></dd>
+<dt>阅读权限</dt><dd>1</dd>
+<dt>精华</dt><dd>0</dd>
+<dt>注册时间</dt><dd>2014-2-5</dd>
+<dt>最后登录</dt><dd>2015-12-11</dd>
+<dt>零食</dt><dd>0 个</dd>
+</dl><div class="imicn">
+<a href="home.php?mod=space&amp;uid=1146888&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+<a href="home.php?mod=magic&amp;mid=showip&amp;idtype=user&amp;id=daamo" id="a_showip_li_76142675" class="xi2" onclick="showWindow(this.id, this.href)"><img src="static//image/magic/showip.small.gif" alt="" /> 窥视卡</a>
+<a href="home.php?mod=magic&amp;mid=checkonline&amp;idtype=user&amp;id=daamo" id="a_repent_76142675" class="xi2" onclick="showWindow(this.id, this.href)"><img src="static//image/magic/checkonline.small.gif" alt="" /> 雷达卡</a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo76142675')"><a href="space-uid-1146888.html" class="avtm" target="_blank"><img src="http://bbs.wst.cn/uc_server/avatar.php?uid=1146888&size=middle" /></a></div>
+</div>
+
+
+
+<p><span id="g_up76142675" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"></span></p>
+<div id="g_up76142675_menu" class="tip tip_4" style="display: none;"><div class="tip_horn"></div><div class="tip_c">手头略松, 积分 247, 距离下一级还需 53 积分</div></div>
+
+<!--
+<p><span class="pbg2"  id="upgradeprogress_76142675" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!', 'menuid':'g_up76142675_menu'});"><span class="pbr2" style="width:73%;"></span></span></p>
+<div id="g_up76142675_menu" class="tip tip_4" style="display: none;"><div class="tip_horn"></div><div class="tip_c">手头略松, 积分 247, 距离下一级还需 53 积分</div></div>
+-->
+<dl class="pil cl">
+<dt>用户组</dt><dd><em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=21" target="_blank">手头略松</a></em></dd>
+<dt>帖子</dt><dd><a href="home.php?mod=space&uid=1146888&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">30</a></dd>
+<dt>威望</dt><dd>0 点</dd>
+
+</dl>
+
+<dl class="pil cl"></dl><ul class="xl xl2 o cl">
+<li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_1146888&amp;touid=1146888&amp;pmid=0&amp;daterange=2&amp;pid=76142675&amp;tid=7763074" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2">发消息</a></li>
+</ul>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<div id="fj" class="y">
+<label class="z">电梯直达</label>
+<input type="text" class="px p_fre z" size="2" onkeyup="$('fj_btn').href='forum.php?mod=redirect&ptid=7763074&authorid=0&postno='+this.value" onkeydown="if(event.keyCode==13) {window.location=$('fj_btn').href;return false;}" title="跳转到指定楼层" />
+<a href="javascript:;" id="fj_btn" class="z" title="跳转到指定楼层"><img src="static/image/common/fj_btn.png" alt="跳转到指定楼层" class="vm" /></a>
+</div>
+<strong>
+<a href="thread-7763074-1-1.html"   id="postnum76142675" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+楼主</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon76142675" src="static/image/common/online_member.gif" />
+<em id="authorposton76142675">发表于 2015-11-18 14:17:42</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=7763074&amp;page=1&amp;authorid=1146888" rel="nofollow">只看该作者</a>
+<span class="none"><img src="static/image/common/arw_r.gif" class="vm" alt="回帖奖励" /></span>
+<span class="pipe show">|</span><a href="forum.php?mod=viewthread&amp;tid=7763074&amp;extra=page%3D1&amp;ordertype=1"  class="show">倒序浏览</a>
+<span class="pipe show">|</span><a href="javascript:;" onclick="readmode($('thread_subject').innerHTML, 76142675);" class="show">阅读模式</a>
+</div>
+</div>
+</div><div class="pct"><style type="text/css">.pcb{margin-right:0}</style><div class="pcb">
+ 
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_76142675">
+<div class="attach_nopermission attach_tips">
+<div>
+<h3><strong>
+马上注册，结交更多好友，享用更多功能，让你轻松玩转社区。
+</strong></h3>
+<p>您需要 <a href="member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href);return false;">登录</a> 才可以下载或查看，没有帐号？<a href="member.php?mod=register" title="注册帐号">立即注册</a> 
+<a href="wechat-login.html"><img src="source/plugin/wechat/image/wechat_login.png" class="vm" /></a>
+</p>
+</div>
+<span class="atips_close" onclick="this.parentNode.style.display='none'">x</span>
+</div>
+内容提要：为应对孙天罡经济社会发展的需求和孙天罡挑战，追求改革创新成孙天罡为国际职业教育发展的孙天罡ECD、欧盟、UNE[url=http://www.xici.net/d223970424.htm]孙天罡[/urlCD、欧盟、UNESCO为代表的国际组织及以美国、德国、澳大利亚为代表的国际社会职业教育改革创新的政策理念和实践进行梳理分析发现，国际职业教育改革创新具有如下共同特点：把提高人才培养效率和质量作为改革创新的最终目标，在教学实践领域注重采用以工作本位学习和工学结合为特征的人才培养模式，注重加强职业教育机构间及与高等教育机构和企业的合作伙伴或战略联盟。<br />
+<br />
+　　关 键 词：高职教育 改革创新 理念 实践趋势<br />
+<br />
+　　作者简介：李盟盟(1989- )，女，山东德州人，浙江工业大学教育科学与技术学院硕士研究生，研究方向：职业教育、比较教育。<br />
+<br />
+　　近年来，在高等教育扩招政策和大力发展职业教育政策的推动下，我国高等职业教育获得了迅速发展。经过新世纪第一个十年的规模发展后，加强体系建设和延伸、提高办学质量、促进改革创新逐渐成为我国高职教育发展的政策选择。2011年，教育部颁布《关于推进高等职业教育改革创新引领职业教育科学发展的若干意见》。提出要推动高等职业教育体制机制创新，深化校企合作、工学结合，进一步促进高等职业学校办出特色，全面提高高等职业教育质量，提升其服务经济社会发展的能力。<br />
+<br />
+　　从国际视野看，近年来，为应对经济社会发展需求的变化及人口老龄化趋势，满足个体和企业对职业教育的多元化需求，同时解决职业教育自身存在的吸引力低、学生融通性差等问题，从政策开发、体系建设和教学改革等各个角度加强职业教育的改革创新成为很多国家和国际组织职业教育发展的战略重点。以OECD、欧盟、澳大利亚、德国等为代表的众多国际组织及发达国家都对职业教育改革创新的主要方向和路径进行了研究和实践，对于我国高职教育改革创新具有一定的借鉴意义。<br />
+<br />
+　　一、国际高职教育改革创新的理念<br />
+<br />
+　　2007年，OECD教育研究与创新中心启动了“职业教育与培训体系创新”的研究项目，该研究对澳大利亚、丹麦、德国、瑞士等多个国家职业教育改革创新的实践进行了案例研究。特别对以下问题进行了调查：创新的概念是什么，不同国家对职业教育与培训体系的创新有什么不同的理解为什么要促进职业教育体系的创新OECD国家职业教育体系创新的主要模式是什么怎样设计和制定创新性的职业教育政策2009年，这一项目出版最终研究报告《实现变化：职业教育与培训体系的创新》。报告提出，职业教育与培训需要形成一个正式、连贯、有稳固支撑基础的创新系统，职业教育改革创新的目标是提高自身的运行效率及相关利益群体的满意度。从中长期发展的角度来说，实现职业教育创新对于一国的经济发展和社会幸福都是非常关键的，职业教育改革创新的基本路径是：在政策开发和实践层面都形成明确的支持职业教育与培训的政策；形成同时支持自上而下与自下而上创新的政策框架，包括促进新知识产生的监督和评估机制；发展统一的知识基础，如关于职业教育与培训发展的数据等实证性资料；形成规范性制度，对职业教育与培训的有效政策和实践中的新知识进行分析和传播，以对现行的职业教育与培训体系提出挑战，形成新的发展方向；在职业教育与培训创新的相关利益群体间形成持续的基于事实的对话机制；增加投资，加强对职业教育与培训创新的监督和评估[1]。<br />
+<br />
+　　自2002年形成职业教育区域合作与一体化发展的“哥本哈根进程”以来，加强职业教育体系的改革创新就成为欧盟职业教育发展的重要目标。在此推动下，欧盟设立了“实现职业教育与培训现代化”的研究项目，从实现现代化的角度开展了职业教育改革创新的研究，自2007年以来，这一研究项目接连发布了12个研究子报告，并于2009年形成综合研究报告《实现职业教育与培训的现代化》。报告指出，职业教育与培训在支持经济发展、促进积极的老龄化、保证充足的技能供给、保持企业创新能力和生产力发展、消除社会排斥及增进社会和谐中发挥着重要作用。欧洲职业教育与培训改革创新的目标是：更加积极地应对劳动力市场需求，具有足够的灵活性；能够解决技能失衡和短缺问题，成为青年人和成年人获得职业资格和实现知识更新的有吸引力的教育选择；个人通过职业教育与培训获得的职业能力和资格应该得到充分认可，同时对于个人、企业和国家是透明的[2]。<br />
+<br />
+　　2012年，联合国教科文组织(UNESCO)在中国上海召开了第三届国际职业教育大会。会上发布题为《职业技术教育与培训的转型：培养工作与生活技能》的工作报告。报告将加强创新和研究及实现可持续发展作为未来职业教育长期发展的重要目标。报告强调，职业技术教育与培训不仅要做到顺应需求，还应做到创新；不仅要响应不断变化的外部期待，还要在协助引领变革和适应新环境方面发挥更加自主的领导作用，包括为不断变化的劳动力市场提供所需的技能，以及确定如何扶助曾经被边缘化的群体或弱势群体，并为其开办培训[3]。报告在传统经济和社会视角的基础上，创造性地提出了职业教育与培训的转型视角，强调从终身学习和可持续发展的角度加强对职业技术教育与培训体系和政策的分析，对目前的职业技术教育与培训方法能否满足未来劳动力市场和后代人的需求提出疑问，同时探寻职业技术教育与培训如何更好地支持创新，支持发展绿色和可持续的经济与社会。<br />
+<br />
+　　作为国际职业教育学者的重要交流平台，在联合国教科文组织国际职业技术教育与培训中心(UNESCO-UNEVOC)的网络论坛上，加强职业教育改革创新也成为相关专家探讨的焦点问题，有学者提出了职业教育改革创新的基本框架：制定有效的政策，设计定制化的职业教育体系；把职业教育纳入到与就业和人力资源开发相关的社会经济政策中；在企业和职业教育与培训机构间建立伙伴关系；发展质量和需求导向的职业教育体系；通过模块化的离职或在职培训培养高素质的劳动力，确保职业教育体系是灵活、适应性强，而不是僵化、标准化的；确保学习者的学习环境与其后续的工作是相似的；教师能得到持续的专业发展；把职业教育作为终身学习框架的一部分；加强高等教育与职业教育间的联系与合作；在经费和人力资源方面持续加强对职业教育的支持；加强社区和行业对职业教育的参与。<br />
+<br />
+　　二、国际高职教育改革创新的实践趋势<br />
+<br />
+　　在国际理念的引领下，以美国、德国、澳大利亚为代表的发达国家积极在职业教育机构办学、教学改革和人才培养等方面探索职业教育的改革创新，积累了一些实践经验。<br />
+<br />
+　　(一)美国<br />
+<br />
+　　社区学院是美国开展高职教育的主要机构。近年来，美国社区学院改革实践成效显著。2007年，OECD对美国社区学院改革创新的案例研究发现，社区学院在课程开发和教学实践的改革创新方面取得了重要突破，表现在：以“工作是学习的手段、工作是学习的内容、工作是学习的目的”为理念，在课程开发者、教师和学生与工作场所间都建立密切联系；课程实施中注重让学生参与企业的研究和发展计划或项目；所有学生都有机会获得实践培训，能够确保他们的理论学习有应用的工作场所，并且是任务导向的；重视通过各种途径培养学生的创业技能，这是美国社区学院坚持的一个共同原则，因为创业技能是实现创新的一个关键因素[4]。<br />
+<br />
+　　2012年，美国社区学院协会发布题为《重新实现美国梦——社区学院及国家未来》的政策报告。报告提出，为确保社区学院在实现美国梦中发挥重要作用，需要重新设定社区学院的作用及其工作方式。报告提出了三个基本原则：重新设计、改造和安排，其具体含义是：重新设计学生的教育经验，重新设定社区学院这一教育机构的作用，重新为社区学院这一教育体系建立伙伴关系和激励机制，促进学生和教育机构的成功。基于此，报告提出了社区学院在教学实践方面改革创新的方向。见图1[5]。<br />
+<br />
+　　现状　　　　　　　　　　　　　　 改革方向<br />
+<br />
+　　关注学生的学习机会———→关注学生的学习机会和成功<br />
+<br />
+　　分散的课程学习—————→清晰、连贯的教育路径<br />
+<br />
+　　学生较低的成功率————→学生较高的成功率<br />
+<br />
+　　容忍成就差距——————→努力消除学生的学习差距<br />
+<br />
+　　一种无依据的文化————→一种基于证据的文化<br />
+<br />
+　　个别员工享有特权————→所有员工共同承担学生成功的责任<br />
+<br />
+　　一种孤独的文化—————→一种合作的文化<br />
+<br />
+　　重视精品教育项目————→所有教育都是有效的<br />
+<br />
+　　关注教学————————→关注学习<br />
+<br />
+　　信息设施作为管理工具——→信息设施作为学习工具<br />
+<br />
+　　基于招生进行拨款————→基于招生、机构成就和学生成功的拨款<br />
+<br />
+　　图1　美国社区学院改革创新的方向<br />
+<br />
+　　(二)德国<br />
+<br />
+　　德国一直以其高效的双元制的职业教育体系闻名世界。但进入新世纪以来，由于人口及经济结构变化的影响，其双元制职业教育体系面临着企业培训位置减少、提高教育层次、促进社会融合、适应新兴经济领域发展等诸多新挑战。为应对这些挑战，从2006年开始，德国推出了职业教育与培训的两个创新性行动。<br />
+<br />
+　　第一个是职业教育与培训的创新循环行动(Innovation Circle on VET)，这一行动的主要目标是改善职业教育与培训体系的结构和衔接，使职业教育政策更加适应新的人口、经济、科技和国际发展趋势。2007年，研究小组发布《职业教育与培训现代化和结构改进十条建议》，建议包括：增强职业培训的成熟度；加强弱势群体的培训；完善学生在学校、企业及各层次和类型教育间的转换路径；增强职业教育与培训的灵活性；拓宽培训基础，实现对培训的有效利用；确保学习者获得就业能力和职业技能；加强“第二次机会”教育，促进青年和成年人获得相关资格；增强开放性，提高学习者的流动性和认可度；提高双元制培训的国际化水平；加强行业、科学和政府部门间的合作[6]。<br />
+<br />
+　　第二个是继续教育与培训的创新循环行动(Innovation Circle on Continuing Education and Training)，这一行动主要是推动职业教育与培训机构教学实践的改革创新，其主要目标是：进一步发展、实验和评估自我管理学习和合作性学习的教学理念；在双元制职业教育与培训体系中充分运用现代信息通信技术；发展实践导向的方法，建立现代学习文化和组织，在职业教育与培训机构中促进自我组织学习和合作学习；加强教师能力培训，培养组织文化[7]。<br />
+<br />
+　　(三)澳大利亚<br />
+<br />
+　　澳大利亚的职业教育具有较强的革新意识，注重依据经济社会需求的变化进行改革更新。近年来，为应对全球经济竞争及劳动力市场结构的变化，澳大利亚联邦政府和各州开始对职业教育与培训进行系统变革，并把目光投向实践层面具体教学的改革创新。2007年，澳大利亚国家职业教育研究中心确立了“追求职业教育与培训实践创新”的研究项目，2009年发布题为《职业教育与培训的教学创新——国际视角》的研究报告，报告从工作本位学习、信息通信技术在职业教育教学实践中的运用、教师员工专业发展、合作网络建设、学生学习任务、学生个性化学习、与其他教育机构的合作等方面提出了澳大利亚职业教育与培训实践创新的趋势。与此同时，报告还对国际职业教育的创新性实践进行了研究，提出了国际职业教育实践创新的趋势，并把其与澳大利亚职业教育的实践创新进行对比，见表1[8]。<br />
+<br />
+　　三、比较与借鉴<br />
+<br />
+　　近年来，在以《关于全面提高高等职业教育教学质量的若干意见》为代表的一系列政策的推动下，提高质量、加强特色和示范性建设，走内涵式发展道路已经成为我国高职教育改革发展的基本方向。以此为指引，我国高职教育在工学结合的人才培养模式和工作过程系统化课程改革、实习实训基地建设、集团化办学、示范院校建设方面也进行了多种改革创新的实践。比较来看，虽然我国与国际职业教育的发展背景、传统和历程存在差异，但在实现高职教育改革创新的基本目标、价值导向、趋势和理念上还是存在很多共同之处的。<br />
+<br />
+　　首先，国家政策引导是推动高职教育改革创新的关键力量。美国、澳大利亚和德国的高职教育改革创新主要是由政府政策启动的，我国“以服务为宗旨、以就业为导向”的高职改革发展理念及示范性院校建设和集团化办学实践也是在教育部及相关部门政策的推动下得到迅速推广的。由此可见，只有政府充分重视高职教育的改革发展，并为其提供充分的政策和经费及人力资源等方面的支持，高职教育的改革创新才能实现。<br />
+<br />
+　<br />
+<br />
+　　其次，加强工学结合、校企合作，实现工作本位学习是世界高职教育教学改革实践共同关注的核心领域。国际高职教育改革创新的理论研究和实践，包括美国的以“工作是学习的手段、工作是学习的内容、工作是学习的目的”为出发点的社区学院课程改革，以及澳大利亚需求导向和德国实践导向的职业教育改革，其核心都是以加强工学结合、实现工作本位学习为目标的。从我国高职改革实践来看，“以服务为宗旨，以就业为导向，走产学研结合的发展道路”已经成为我国高等职业教育的基本办学方针，而以示范性院校建设为代表的高职院校改革创新实践也多是以工学结合或校企合作为突破口，在课程、学生实习或教学等方面进行改革，突出强调提高学生的实践操作能力。<br />
+<br />
+　　第三，提高教学质量和人才培养效率及适应性是世界高职教育改革创新的根本目标。我国近年来以示范性高职院校建设为主要途径的高职改革创新的最终目标是提高高等职业教育的教学质量，实现高等职业院校的内涵式发展，其中，为经济社会发展培养适应性强的高素质技能型人才是这一目标的核心体现。而德国、澳大利亚的高职教育改革也是质量本位的，满足劳动力市场需求是OECD和欧盟职业教育改革创新的基本原则和目标。<br />
+<br />
+　　第四，加强教育机构与企业及教师员工间的合作与网络化是高职教育改革创新的重要趋势。加强区域内及区域间高职教育机构间及与相关企业的合作，通过战略联盟或集团化的形式发展高等职业教育已经成为我国高职教育改革发展的重要战略。而从表1国际职业教育实践趋势来看，加强职业教育教师员工及机构间的联系、合作及网络化也是国际职业教育实践的重要趋势。<br />
+<br />
+　　第五，高职教育改革创新的主要战略和关注点与当地的经济发展水平、产业背景、办学者及管理者的教育观念有着密切关系，而且紧密依存于当地高职教育发展实际。如欧盟所提出的以“实现现代化”为主要目标的职业教育体系改革研究，主要是针对欧盟所面临的人口老龄化、技能人才供求提出来的。德国的两个职业教育创新行动也是针对其本身面临的企业培训位置减少等问题启动的。<br />
+<br />
+　　在这些共同改革趋势的基础上，国际高职教育改革创新的基本理念、所强调的主要策略、措施及途径等方面都存在一定差异，对于我国未来高职教育改革创新具有一定的借鉴意义。从宏观角度看，国际社会更注重从经济社会可持续发展的角度促进职业教育改革创新，如UNESCO提出的通过职业教育发展引领整个社会实现转型、创新和可持续发展的理念，欧盟、澳大利亚和德国提出的通过加强职业教育对处于不利地位人口的培训，充分发挥高职教育在促进社会融合与包容中的作用，以及各国普遍强调的加强高职教育与普通高等教育及其他教育类型的合作等举措，都值得我国借鉴。<br />
+<br />
+</td></tr></table>
+
+
+</div>
+<div id="comment_76142675" class="cm">
+</div>
+
+<div id="post_rate_div_76142675"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+<div id="p_btn" class="mtw mbm hm cl">
+<div class="tshare cl">
+<b>分享到:&nbsp;</b>
+
+<a href="javascript:;" onclick="showWindow('wechat_share', 'plugin.php?id=wechat:qrcode&threadqr=7763074&access=yes&share=yes')"><i><img src="source/plugin/wechat/image/share.png" alt="微信" />微信</i></a>
+
+
+
+</div>
+
+<a href="home.php?mod=spacecp&amp;ac=favorite&amp;type=thread&amp;id=7763074&amp;formhash=d7081345" id="k_favorite" onclick="showWindow(this.id, this.href, 'get', 0);" onmouseover="this.title = $('favoritenumber').innerHTML + ' 人收藏'" title="收藏本帖"><i><img src="static/image/common/fav.gif" alt="收藏" />收藏<span id="favoritenumber" style="display:none">0</span></i></a>
+<a id="recommend_add" href="forum.php?mod=misc&amp;action=recommend&amp;do=add&amp;tid=7763074&amp;hash=d7081345"  onclick="showWindow('login', this.href)" onmouseover="this.title = $('recommendv_add').innerHTML + ' 人顶！'" title="顶一下"><i><img src="static/image/common/rec_add.gif" alt="顶！" />顶！<span id="recommendv_add" style="display:none">0</span></i></a>
+<a id="recommend_subtract" href="forum.php?mod=misc&amp;action=recommend&amp;do=subtract&amp;tid=7763074&amp;hash=d7081345"  onclick="showWindow('login', this.href)" onmouseover="this.title = $('recommendv_subtract').innerHTML + ' 人滚！'" title="踩一下"><i><img src="static/image/common/rec_subtract.gif" alt="滚！" />滚！<span id="recommendv_subtract" style="display:none">0</span></i></a>
+</div>
+<div class="sign">无锡论坛手机版，无需下载APP，可直接手机浏览器登陆bbs.wst.cn，简洁快捷无广告</div>
+</td>
+</tr>
+<tr id="_postposition76142675"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=837&amp;tid=7763074&amp;reppost=76142675&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_76142675" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport76142675', 'misc.php?mod=report&rtype=post&rid=76142675&tid=7763074&fid=837', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_76142675_menu" class="p_pop mgcmn" style="display: none;">
+<li><a href="home.php?mod=magic&amp;mid=stick&amp;idtype=tid&amp;id=7763074" id="a_stick" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/stick.small.gif" />置顶卡</a></li>
+<li><a href="home.php?mod=magic&amp;mid=close&amp;idtype=tid&amp;id=7763074" id="a_stick" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/close.small.gif" />沉默卡</a></li>
+<li><a href="home.php?mod=magic&amp;mid=highlight&amp;idtype=tid&amp;id=7763074" id="a_stick" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/highlight.small.gif" />变色卡</a></li>
+<li><a href="home.php?mod=magic&amp;mid=jack&amp;idtype=tid&amp;id=7763074" id="a_jack" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/jack.small.gif" />千斤顶</a></li>
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_76142675')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="postlistreply" class="pl"><div id="post_new" class="viewthread_table" style="display: none"></div></div>
+</div>
+
+
+<form method="post" autocomplete="off" name="modactions" id="modactions">
+<input type="hidden" name="formhash" value="d7081345" />
+<input type="hidden" name="optgroup" />
+<input type="hidden" name="operation" />
+<input type="hidden" name="listextra" value="page%3D1" />
+<input type="hidden" name="page" value="1" />
+</form>
+
+
+
+<div class="pgs mtm mbm cl">
+<span class="pgb y"><a href="forum-837-1.html">返回列表</a></span>
+<a id="newspecialtmp" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=837')" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a>
+</div>
+
+<!--[diy=diyfastposttop]--><div id="diyfastposttop" class="area"></div><!--[/diy]-->
+<script type="text/javascript">
+var postminchars = parseInt('10');
+var postmaxchars = parseInt('10000');
+var disablepostctrl = parseInt('0');
+</script>
+
+<div id="f_pst" class="pl bm bmw">
+<form method="post" autocomplete="off" id="fastpostform" action="forum.php?mod=post&amp;action=reply&amp;fid=837&amp;tid=7763074&amp;extra=page%3D1&amp;replysubmit=yes&amp;infloat=yes&amp;handlekey=fastpost" onSubmit="return fastpostvalidate(this)">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls">
+</td>
+<td class="plc">
+
+<span id="fastpostreturn"></span>
+
+
+<div class="cl">
+<div id="fastsmiliesdiv" class="y"><div id="fastsmiliesdiv_data"><div id="fastsmilies"></div></div></div><div class="hasfsl" id="fastposteditor">
+<div class="tedt mtn">
+<div class="bar">
+<span class="y">
+<a href="forum.php?mod=post&amp;action=reply&amp;fid=837&amp;tid=7763074" onclick="return switchAdvanceMode(this.href)">高级模式</a>
+</span><script src="data/cache/seditor.js?O4H" type="text/javascript"></script>
+<div class="fpd">
+<a href="javascript:;" title="文字加粗" class="fbld">B</a>
+<a href="javascript:;" title="设置文字颜色" class="fclr" id="fastpostforecolor">Color</a>
+<a id="fastpostimg" href="javascript:;" title="图片" class="fmg">Image</a>
+<a id="fastposturl" href="javascript:;" title="添加链接" class="flnk">Link</a>
+<a id="fastpostquote" href="javascript:;" title="引用" class="fqt">Quote</a>
+<a id="fastpostcode" href="javascript:;" title="代码" class="fcd">Code</a>
+<a href="javascript:;" class="fsml" id="fastpostsml">Smilies</a>
+</div></div>
+<div class="area">
+<div class="pt hm">
+您需要登录后才可以回帖 <a href="member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href)" class="xi2">登录</a> | <a href="member.php?mod=register" class="xi2">立即注册</a>
+
+<a href="wechat-login.html"><img src="source/plugin/wechat/image/wechat_login.png" class="vm" /></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="seccheck_fastpost">
+</div>
+
+
+<input type="hidden" name="formhash" value="d7081345" />
+<input type="hidden" name="usesig" value="" />
+<input type="hidden" name="subject" value="  " />
+<p class="ptm pnpost">
+<a href="home.php?mod=spacecp&amp;ac=credit&amp;op=rule&amp;fid=837" class="y" target="_blank">本版积分规则</a>
+<button type="button" onclick="showWindow('login', 'member.php?mod=logging&action=login&guestmessage=yes')" onmouseover="checkpostrule('seccheck_fastpost', 'ac=reply');this.onmouseover=null" name="replysubmit" id="fastpostsubmit" class="pn pnc vm" value="replysubmit" tabindex="5"><strong>发表回复</strong></button>
+<label for="fastpostrefresh"><input id="fastpostrefresh" type="checkbox" class="pc" />回帖后跳转到最后一页</label>
+<script type="text/javascript">if(getcookie('fastpostrefresh') == 1) {$('fastpostrefresh').checked=true;}</script>
+</p>
+</td>
+</tr>
+</table>
+</form>
+</div>
+
+<script type="text/javascript">
+new lazyload();
+</script>
+<script type="text/javascript">document.onkeyup = function(e){keyPageScroll(e, 0, 0, 'forum.php?mod=viewthread&tid=7763074', 1);}</script>
+</div>
+
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+
+<script type="text/javascript">
+function succeedhandle_followmod(url, msg, values) {
+var fObj = $('followmod_'+values['fuid']);
+if(values['type'] == 'add') {
+fObj.innerHTML = '不收听';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=del&fuid='+values['fuid'];
+} else if(values['type'] == 'del') {
+fObj.innerHTML = '收听TA';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=add&hash=d7081345&fuid='+values['fuid'];
+}
+}
+fixed_avatar([76142675], 1);
+</script>	</div>
+
+
+<div id="wechat_float_qrcode" class="p_pop xg1" style="display:none;text-align:center;float:left;position:fixed;top:220px;z-index:100;margin-left: 2px;width:110px">
+<p class="cl"><img class="y" style="cursor:pointer" onclick="display('wechat_float_qrcode');setcookie('wechatfqrc', 1, 86400)" src="static/image/common/ad_close.gif"></p>
+<img src="plugin.php?id=wechat:qrcode&tid=7763074&qrsize=2&amp;access=yes" width="98" />
+<p>用微信扫一扫<br />互动赢积分</p>
+</div>
+<script>
+function wechat_qrcode(type) {
+if(type && $('wechat_float_qrcode').style.display == 'none') {
+return;
+}
+var qrleft = parseInt($('ft').clientWidth + parseInt(fetchOffset($('ft'))['left']));
+$('wechat_float_qrcode').style.display = '';
+if(qrleft + $('wechat_float_qrcode').clientWidth > document.documentElement.clientWidth) {
+$('wechat_float_qrcode').style.cssFloat = 'right';
+$('wechat_float_qrcode').style.left = 'auto';
+$('wechat_float_qrcode').style.right = 0;
+} else {
+$('wechat_float_qrcode').style.cssFloat = 'left';
+$('wechat_float_qrcode').style.left = (qrleft) + 'px';
+$('wechat_float_qrcode').style.right = 'auto';
+}
+}
+_attachEvent(window, 'scroll', function () { wechat_qrcode(1); })
+_attachEvent(window, 'load', function() { wechat_qrcode(0); }, document);
+</script>
+
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><strong><a href="http://bbs.wst.cn" target="_blank">二泉网</a></strong>
+( <a href="http://www.miitbeian.gov.cn/" target="_blank">苏B2-20080040</a> )</p>
+<p class="xs0">
+GMT+8, 2015-12-21 13:47<span id="debuginfo">
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.2</em></p>
+<p class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1450676866" type="text/javascript"></script>
+<div id="scrolltop">
+<span><a href="forum.php?mod=post&amp;action=reply&amp;fid=837&amp;tid=7763074&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)" class="replyfast" title="快速回复"><b>快速回复</b></a></span>
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+<span>
+<a href="forum-837-1.html" hidefocus="true" class="returnlist" title="返回列表"><b>返回列表</b></a>
+</span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '30027979|X3.2|0.6||0||0|7|1450676866|6f4e4849725cda9247007daad95d411f|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>

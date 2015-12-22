@@ -1,0 +1,281 @@
+<!--UINFO: http://bbs.auto.ifeng.com/thread-2065842-1-1.html	length=17080&last_modified=0&time_saved=1450676868&charset=utf-8-->
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>谷歌团购不给力，被指没特色-马自达CX-7论坛-凤凰汽车论坛</title>
+<meta name="360-site-verification" content="155851ce5000ec0c83858404ee6eba5a" />
+<meta name="baidu-site-verification" content="nAdYuU85Tk" /><link href="http://bbs.auto.ifeng.com/thread-2065842-1-1.html" rel="canonical" />
+<meta name="keywords" content="汽车论坛,车吧,车主,买车,新车,酷车,用车,购车,车友,活动,凤凰网" />
+<meta name="description" content="马自达CX-7论坛汽车论坛 " />
+<base href="http://bbs.auto.ifeng.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_common.css?YO4" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_forum_viewthread.css?YO4" /><link rel="stylesheet" id="css_extstyle" type="text/css" href="./template/ifeng/style/t1/style.css" /><script type="text/javascript">var STYLEID = '2', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'YO4', charset = 'utf-8', discuz_uid = '0', cookiepre = '8EWX_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread|reply', creditnotice = '1|金币|个', defaultstyle = './template/ifeng/style/t1', REPORTURL = 'aHR0cDovL2Jicy5hdXRvLmlmZW5nLmNvbS90aHJlYWQtMjA2NTg0Mi0xLTEuaHRtbA==', SITEURL = 'http://bbs.auto.ifeng.com/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src="data/cache/common.js" type="text/javascript"></script>
+    <script src="static/ifeng/js/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript">jQuery.noConflict();</script>
+    <script src="static/ifeng/js/cookie.js" type="text/javascript"></script>
+<meta name="msapplication-task" content="name=论坛首页;action-uri=http://bbs.auto.ifeng.com/portal.php;icon-uri=http://bbs.auto.ifeng.com/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=论坛大全;action-uri=http://bbs.auto.ifeng.com/forum.php;icon-uri=http://bbs.auto.ifeng.com/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=个人中心;action-uri=http://bbs.auto.ifeng.com/home.php;icon-uri=http://bbs.auto.ifeng.com/static/image/common/home.ico" /><link rel="archives" title="汽车论坛大全" href="http://bbs.auto.ifeng.com/archiver/" />
+<script src="data/cache/forum.js" type="text/javascript"></script>
+    <script src="http://h0.ifengimg.com/20150625/fa.min.js" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div class="ifengnav">
+  <div class="ifengnav_1">
+        <div class="ifengnav_1_1">
+            <div class="bbsindex"><a href="http://bbs.auto.ifeng.com/">论坛首页</a></div>
+            <div class="autoifeng"><a href="http://auto.ifeng.com/" target="_blank">汽车首页</a></div>
+            <div class="bbsforum"><a href="http://bbs.auto.ifeng.com/forum.php">论坛导航模式</a><span id="loginjs"></span></div>
+            <form method="post"  onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+        		<input type="hidden" name="mod" id="scbar_mod" value="search" />
+                <input type="hidden" name="formhash" value="b40b77fa" />
+                <input type="hidden" name="srchtype" value="title" />
+                <input type="hidden" name="srhfid" value="1020574" />
+                <input type="hidden" name="srhlocality" value="forum::viewthread" />
+                                  <input type="text" class="input_text" name="srchtxt" id="srchtxt" autocomplete="off"/>
+                  <input type="submit" id="searchsubmit" name="searchsubmit" value="搜索">
+                  </form>
+        </div>
+           
+        <div id="logindiv">
+            <div class="navSet" id="login_common">
+            <div class="login" id="login">
+                <span class="reg cGray"><a href="https://id.ifeng.com/user/register" target="_blank" rel="nofollow">注册</a></span>
+                <span class="btn03 cWhite"><a id="btnSwapLogin" class="" rel="nofollow">登录</a></span>
+                <a id="nickName" class="" href="javascript:void(0);" style="display:none">昵称</a>
+            </div>
+        </div>
+        </div>
+        <script type="text/javascript">
+var usid = jQuery.cookie('sid');
+if(usid){
+jQuery.getScript("https://id.ifeng.com/api/checklogin?sid="+usid+"&callback=vlogin");
+}else{
+jQuery("#logindiv").show();
+jQuery("#umenu").hide();
+}
+function vlogin(data){
+if(data.code){
+jQuery.getScript("https://id.ifeng.com/api/getuserinfo?sid="+usid+"&callback=ulogin");
+}else{
+addCookie('sid','');
+document.getElementById('btnSwapLogin').onclick = function() {
+if ('undefined' !== typeof window['GLOBAL_LOGIN']) {
+window['GLOBAL_LOGIN']();
+}
+window['REG_LOGIN_CALLBACK'](1, function (optionsORname) {
+dologin();
+});
+};
+}
+}
+function ulogin(data){
+if(data.data.username || data.data.nickname){
+jQuery("#logindiv").hide();
+jQuery("#umenu").show();
+var uname=data.data.username==null?data.data.nickname:data.data.username;
+jQuery("#btnSwapLogin").html(uname);
+window.location.href = "api/uc_ifeng_user.php?m=login&amp;refer="+window.location.href;
+}else{
+alert("用户名只能输入一次哦，本次提交后将无法修改O(∩_∩)O");
+jQuery("#nickName").click();
+}
+}
+function addCookie(objName, objValue) {//添加cookie
+var the_cookie =objName + "=" + escape(objValue)+ ";" ;
+var the_cookie = the_cookie+ "path=/;";
+var the_cookie = the_cookie + "domain=ifeng.com;";
+document.cookie =the_cookie;
+}
+</script>
+                     </div>
+</div>
+<script src="http://m0.ifengimg.com/p/login/20140819/public_login.min.js" type="text/javascript"></script>
+     <script type="text/javascript">
+ 		function dologin(){
+window.location.href =window.location.href ;
+}
+            document.getElementById('btnSwapLogin').onclick = function() {
+                if ('undefined' !== typeof window['GLOBAL_LOGIN']) {
+                    window['GLOBAL_LOGIN']();
+                }
+window['REG_LOGIN_CALLBACK'](1, function (optionsORname) {
+dologin();
+});
+            };
+var nickName = document.getElementById('nickName');
+nickName.onclick = function(e) {
+e.preventDefault();
+window['NICK_NAME'](true);
+};
+window['NICK_NAME_CALLBACK'](function() {
+ 	 dologin();
+});
+    </script>
+    <!-- 登陆所需代码 结束 --><div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <strong>登录</strong> 后使用快捷导航<br />没有帐号？<a href="http://my.ifeng.com/?_c=register&amp;_a=new-account" class="xi2 xw1">注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div><div class="wp a_h"><a href="http://bbs.auto.ifeng.com/thread-1317351-1-1.html" target="_blank" rel="nofollow" ><img src="http://y1.ifengimg.com/auto/image/2014/0704/9-3.jpg" height="100" width="1000" alt="凤凰定制车标免费申领" border="0"></a></div><div id="hd">
+<div class="wp">
+            	<div class="hdc cl"><h2><a href="http://bbs.auto.ifeng.com/" title="汽车论坛大全"><img src="static/image/common/logo.png" alt="汽车论坛大全" border="0" /></a></h2></div>
+<div id="nv">
+<a href="javascript:;" id="qmenu" onMouseOver="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(1020574);})">快捷导航</a>
+<ul><li id="mn_N1c27" ><a href="http://auto.ifeng.com" hidefocus="true"  >汽车首页</a></li><li id="mn_N217c" ><a href="http://bbs.auto.ifeng.com" hidefocus="true"  >论坛首页</a></li><li id="mn_N2760" ><a href="http://bbs.auto.ifeng.com/forum.html" hidefocus="true"  >论坛大全</a></li><li id="mn_N0d91" ><a href="http://bbs.auto.ifeng.com/forum-guide.html" hidefocus="true"  >热点导读</a></li><li id="mn_N6fef" ><a href="http://bbs.auto.ifeng.com/home.html" hidefocus="true"  >个人中心</a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div></div>
+</div>
+
+
+<div id="wp" class="wp">
+<script type="text/javascript">var fid = parseInt('1020574'), tid = parseInt('2065842');</script>
+
+<script src="data/cache/forum_viewthread.js?YO4" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(0);var imagemaxwidth = '800';var aimgcount = new Array();</script>
+
+<style id="diy_style" type="text/css"></style>
+<!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]-->
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页" rel="nofollow">汽车论坛大全</a><em>&raquo;</em><a href="forum.html" rel="nofollow">论坛大全</a> <em>&rsaquo;</em> <a href="http://bbs.auto.ifeng.com/forum.php?gid=1020187">车型论坛</a> <em>&rsaquo;</em> <a href="http://bbs.auto.ifeng.com/forum-1020284-1.html">马自达论坛</a> <em>&rsaquo;</em> <a href="http://bbs.auto.ifeng.com/forum-1020574-1.html">马自达CX-7论坛</a> <em>&rsaquo;</em> <a href="thread-2065842-1-1.html" rel="nofollow">谷歌团购不给力，被指没特色</a>
+</div>
+</div>
+
+<style id="diy_style" type="text/css"></style>
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="ct" class="wp cl">
+<div id="pgt" class="pgs mbm cl ">
+<div class="pgt"></div>
+<span class="y pgb"><a href="http://bbs.auto.ifeng.com/forum-1020574-1.html" rel="nofollow">返回列表</a></span>
+<a id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=1020574')" href="javascript:;" title="发新帖" rel="nofollow"><img src="static/image/common/pn_post.png" alt="发新帖" /></a></div>
+
+
+
+<div id="postlist" class="pl bm">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls ptn pbn">
+<div class="hm ptn">
+<span class="xg1">查看:</span> <span class="xi1">119</span><span class="pipe">|</span><span class="xg1">回复:</span> <span class="xi1">0</span>
+</div>
+</td>
+<td class="plc ptm pbn vwthd">
+<div class="y">
+<a href="http://bbs.auto.ifeng.com/forum.php?mod=viewthread&amp;action=printable&amp;tid=2065842" title="打印" target="_blank" rel="nofollow"><img src="static/image/common/print.png" alt="打印" class="vm" /></a>
+<a href="http://bbs.auto.ifeng.com/forum.php?mod=redirect&amp;goto=nextoldset&amp;tid=2065842" title="上一主题" rel="nofollow"><img src="static/image/common/thread-prev.png" alt="上一主题" class="vm" /></a>
+<a href="http://bbs.auto.ifeng.com/forum.php?mod=redirect&amp;goto=nextnewset&amp;tid=2065842" title="下一主题" rel="nofollow"><img src="static/image/common/thread-next.png" alt="下一主题" class="vm" /></a>
+</div>
+<h1 class="ts">
+<span id="thread_subject">谷歌团购不给力，被指没特色</span>
+</h1>
+<span class="xg1">
+<a href="http://bbs.auto.ifeng.com/thread-2065842-1-1.html" onclick="return copyThreadUrl(this, '汽车论坛大全')"  rel="nofollow">[复制链接]</a>
+</span>
+                &nbsp;&nbsp;<span class="xg1">[<img src="static/image/common/agree.gif"><a href="javascript:;" id="k_ifeng_tui" onclick="ifeng_tui();">推荐给管理</a>]</span>
+                <script type="text/javascript" language="javascript">
+                	function ifeng_tui(){
+var tid = parseInt('2065842');
+var uid = parseInt('0');
+var uname = '';
+var title="谷歌团购不给力，被指没特色";
+jQuery.getScript("/api/ifeng_tui.php?m=tui"+"&uid="+uid+"&uname="+uname+"&tid="+tid+"&title="+title+"&callback=addtui");
+}
+function addtui(data){
+if(data==1){
+alert('推荐成功\n管理员审核中，感谢您的推荐');
+}else if(data==-1){
+alert('推荐失败\n该贴已经被推荐过拉');
+}else{
+alert('推荐失败\n请刷新页面后再次尝试');
+}
+}
+                </script>
+</td>
+</tr>
+</table>
+
+
+<table cellspacing="0" cellpadding="0" class="ad">
+<tr>
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table><div id="post_6290209" ><table id="pid6290209" class="plhin" summary="pid6290209" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar6290209" class="pls favatar">
+ <a name="lastpost"></a><div class="pi">
+<div class="authi"><a href="http://bbs.auto.ifeng.com/space-uid-86225.html" target="_blank" class="xw1" rel="nofollow">插尼亚</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_0" id="userinfo6290209" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo6290209_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://bbs.auto.ifeng.com/space-uid-86225.html" target="_blank" class="xi2" rel="nofollow">插尼亚</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>积分</dt><dd><a href="http://bbs.auto.ifeng.com/home.php?mod=space&uid=86225&do=profile" target="_blank" class="xi" rel="nofollow">149</a></dd>
+</dl><div class="imicn">
+<a href="http://bbs.auto.ifeng.com/home.php?mod=space&amp;uid=86225&amp;do=profile" target="_blank" title="查看详细资料" rel="nofollow"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo6290209')"><a href="http://bbs.auto.ifeng.com/space-uid-86225.html" class="avtm" target="_blank" rel="nofollow"><img src="http://bbs.auto.ifeng.com/uc_server/avatar.php?uid=86225&size=middle" /></a></div>
+</div>
+<div class="tns xg2"><table cellspacing="0" cellpadding="0"><th><p><a href="http://bbs.auto.ifeng.com/home.php?mod=space&uid=86225&do=thread&type=thread&view=me&from=space" class="xi2" rel="nofollow">14</a></p>主题</th><th><p><a href="http://bbs.auto.ifeng.com/home.php?mod=space&uid=86225&do=thread&type=reply&view=me&from=space" class="xi2" rel="nofollow">50</a></p>帖子</th><td><p><a href="http://bbs.auto.ifeng.com/home.php?mod=space&uid=86225&do=profile" class="xi2" rel="nofollow">149</a></p>积分</td></table></div>
+
+<p><em><a href="http://bbs.auto.ifeng.com/home.php?mod=spacecp&amp;ac=usergroup&amp;gid=11" target="_blank" rel="nofollow">注册会员</a></em></p>
+
+
+<p><span id="g_up6290209" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"><img src="static/image/common/star_level2.gif" alt="Rank: 2" /></span></p>
+<div id="g_up6290209_menu" class="tip tip_4" style="display: none;"><div class="tip_horn"></div><div class="tip_c">注册会员, 积分 149, 距离下一级还需 51 积分</div></div>
+
+
+<dl class="pil cl"></dl><ul class="xl xl2 o cl">
+<li class="pm2"><a href="http://bbs.auto.ifeng.com/home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_86225&amp;touid=86225&amp;pmid=0&amp;daterange=2&amp;pid=6290209&amp;tid=2065842" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2" rel="nofollow">发消息</a></li>
+</ul>
+</div>
+</td>
+	
+<td class="plc">
+<div class="pi">
+<div id="fj" class="y">
+<label class="z">电梯直达</label>
+<input type="text" class="px p_fre z" size="2" onkeyup="$('fj_btn').href='forum.php?mod=redirect&ptid=2065842&authorid=0&postno='+this.value" onkeydown="if(event.keyCode==13) {window.location=$('fj_btn').href;return false;}" title="跳转到指定楼层" />
+<a href="javascript:;" id="fj_btn" class="z" title="跳转到指定楼层"><img src="static/image/common/fj_btn.png" alt="跳转到指定楼层" class="vm" /></a>
+</div>
+<strong>
+<a href="http://bbs.auto.ifeng.com/thread-2065842-1-1.html"   id="postnum6290209" onclick="setCopy(this.href, '帖子地址复制成功');return false;" rel="nofollow">
+<em>1</em>楼</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon6290209" src="static/image/common/online_member.gif" />
+<em id="authorposton6290209">发表于 2015-11-5 09:56:43</em>
+<span class="pipe">|</span>
+<a href="http://bbs.auto.ifeng.com/forum.php?mod=viewthread&amp;tid=2065842&amp;page=1&amp;authorid=86225" rel="nofollow">只看该作者</a>
+<span class="none"><img src="static/image/common/arw_r.gif" class="vm" alt="回帖奖励" /></span>
+<span class="pipe show">|</span><a href="http://bbs.auto.ifeng.com/forum.php?mod=viewthread&amp;tid=2065842&amp;extra=page%3D1&amp;ordertype=1"  class="show" rel="nofollow">倒序浏览</a>
+<span class="pipe show">|</span><a href="javascript:;" onclick="readmode($('thread_subject').innerHTML, 6290209);" class="show">阅读模式</a>
+</div>
+</div>
+</div><div class="pct"><style type="text/css">.pcb{margin-right:0}</style><div class="pcb">
+ 
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_6290209">
+谷歌近日推出了谷和道国际歌Offers的团购隆基泰和上市产�

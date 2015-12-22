@@ -1,0 +1,421 @@
+<!--UINFO: http://bbs.kuaiji.com/thread-701932-1-1.html	length=24132&last_modified=0&time_saved=1450677191&charset=utf-8-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />
+<title>高校新旧会计制度的比较分析_行业会计_财会实务_会计科普论坛 </title>
+<link href="http://bbs.kuaiji.com/thread-701932-1-1.html" rel="canonical" />
+<meta name="keywords" content="高校新旧会计制度的比较分析" />
+<meta name="description" content=" 高校新旧会计制度的比较分析 " />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.kuaiji.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_5_common.css?WUT" /><link rel="stylesheet" type="text/css" href="data/cache/style_5_forum_viewthread.css?WUT" /><script type="text/javascript">var STYLEID = '5', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'WUT', charset = 'utf-8', discuz_uid = '0', cookiepre = 'KJ_ce17_', cookiedomain = '.kuaiji.com', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|威望|,2|金币|,3|贡献|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5rdWFpamkuY29tL3RocmVhZC03MDE5MzItMS0xLmh0bWw=', SITEURL = 'http://bbs.kuaiji.com/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?WUT" type="text/javascript"></script>
+<!--DNA统计 开始，以下代码请放于头部闭合标签</head>前面-->
+<script type="text/javascript">
+(function() {
+window._CiQ10070 = window._CiQ10070 || [];
+window._CiQ10070.push(['_cookieUseRootDomain', true]);
+var c = document.createElement('script');
+c.type = 'text/javascript';
+c.async = true;
+c.charset = 'utf-8';
+c.src = '//dna.biddingx.com/ca/10070';
+var h = document.getElementsByTagName('script')[0];
+h.parentNode.insertBefore(c, h);
+})();
+</script>
+<noscript>
+<link href="//dna.biddingx.com/refer/collect?i=10070&amp;v=13922245942&amp;pu=http%3A//%28NoScriptPageviews%29&amp;pt=NoScriptPageviews&amp;ru=http%3A//%28NoScriptClients%29&amp;csh=1000&amp;csw=1000&amp;css=10" rel="stylesheet" type="text/css" />
+</noscript>
+<!--DNA统计 结束-->
+<meta name="360-site-verification" content="d84ce2244c6cee0e8ff2b70874bae2fe" />
+<meta name="application-name" content="会计科普论坛" />
+<meta name="msapplication-tooltip" content="会计科普论坛" />
+<meta name="msapplication-task" content="name=社区首页;action-uri=http://bbs.kuaiji.com/portal.php;icon-uri=http://bbs.kuaiji.com/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=会计论坛;action-uri=http://bbs.kuaiji.com/forum.php;icon-uri=http://bbs.kuaiji.com/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=;action-uri=http://bbs.kuaiji.com/home.php;icon-uri=http://bbs.kuaiji.com/static/image/common/home.ico" /><link rel="archives" title="会计科普论坛" href="http://bbs.kuaiji.com/archiver/" />
+
+<script src="./template/kuaiji2013_v2/images/jquery.js?WUT" type="text/javascript"></script>
+<script type="text/javascript">var jq = jQuery.noConflict();</script>
+
+<script src="./template/kuaiji2013_v2/images/comm.js?WUT" type="text/javascript"></script>
+
+<script type="text/javascript">
+jq(document).ready(function(){
+//幻灯片插件
+jq("#slider_01").fadeSlider({
+controlsShow : true, //是否显示数字导航
+effect : 2, //1表示浮现,2表示滑动
+speed : 500, //滑动速度
+auto : true, //是否自定滑动
+pause : 3000, //两次滑动暂停时间持
+height : 0, //容器高度，不设置自动获取图片高度
+width : 0//容器宽度，不设置自动获取图片宽度						 
+});
+potMove("mod_dropMenu");
+potMove("MoreCity");
+potMove("line");
+potMove("cat_mod");
+potMove("tl_gril_mod");
+potMove("mod_city");
+potNumeList.eachLi("mod_menu_li");
+potMove("mod_menu_list");
+
+//鼠标移过切换
+jq(".tab_fab").tabs({				
+mouseEvent : "mouseover"
+});
+//资讯滚动列表效果
+//ticker();
+//eveClick();
+//水平方向轮播
+jq("#rowli").rotatelist({
+speed : 2, //移动速率
+rate : 1, //图片每次移动的距离
+par : 325, //一个条目的距离
+direction : 1 //1为水平轮播
+});
+});	
+</script>
+<script src="data/cache/forum.js?WUT" type="text/javascript"></script>
+
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<!-- start:最顶端导航 -->
+<div class="topbar bbs-top">
+  <div class="wrap">
+    <div class="topLeft">
+                <a href="http://www.kuaiji.com/" >会计网首页</a>                                <a href="http://bbs.kuaiji.com/thread-679515-1-1.html" target="_blank" >商务合作</a>                <a href="http://vip.kuaiji.com" target="_blank"  style="color: red">VIP会员</a>                            </div>
+    <div class="topRight">
+      <ul>
+                              <li><a href="http://bbs.kuaiji.com/misc.php?mod=mobile" >手机版</a></li>                    <li><a href="javascript:;"  onclick="setHomepage('http://bbs.kuaiji.com/');">设为首页</a></li>                    <li><a href="http://bbs.kuaiji.com/"  onclick="addFavorite(this.href, '会计科普论坛');return false;">收藏本站</a></li>                                    </ul>
+    </div>
+  </div>
+</div>
+<!-- end:最顶端导航 -->
+    <!--全局 页头通栏广告 start-->
+        <!--全局 页头通栏广告 end-->
+
+<!-- start:logo、城市切换、搜索购物车 -->
+<div class="sl_head">
+  <div class="wrap clearfix">
+  <!--start:logo-->
+  	<h1 class="mod_logo">
+                <a href="http://bbs.kuaiji.com/" title="会计科普论坛">
+        	<img src="./template/kuaiji2013/images/logo.png" alt="会计网" />
+        </a>
+            </h1>
+    <!--end:logo-->
+    <!--start:城市切换-->
+    <div class="mod_city">
+    	<div class="city_drop_hd">
+    		<h3 class="CurCcity">广东</h3>
+            <p class="city_drop_p">
+                <em>切换地区&nbsp;</em>
+                <i class="mod_city_arrow"></i>
+            </p>
+        </div>
+        <div class="city_drop_bd">
+        	<div class="Ctitle">
+            	<h3>选择你的地区</h3>
+            </div>
+        	<div class="Ccont">
+                <dl class="CinnerBox">
+                    <dd id="hots_list">
+                    <a href="javascript:sel_city(211);">北京</a>
+                    <a href="javascript:sel_city(212);">天津</a>
+                    <a href="javascript:sel_city(231);">上海</a>
+                    <a href="javascript:sel_city(250);">重庆</a>
+                    <a href="javascript:sel_city(213);">河北</a>
+                    <a href="javascript:sel_city(214);">山西</a>
+                    <a href="javascript:sel_city(215);">内蒙古</a>
+                    <a href="javascript:sel_city(221);">辽宁</a>
+                    <a href="javascript:sel_city(222);">吉林</a>
+                    <a href="javascript:sel_city(223);">黑龙江</a>
+                    <a href="javascript:sel_city(232);">江苏</a>
+                    <a href="javascript:sel_city(233);">浙江</a>
+                    <a href="javascript:sel_city(234);">安徽</a>
+                    <a href="javascript:sel_city(235);">福建</a>
+                    <a href="javascript:sel_city(236);">江西</a>
+                    <a href="javascript:sel_city(237);">山东</a>
+                    <a href="javascript:sel_city(241);">河南</a>
+                    <a href="javascript:sel_city(242);">湖北</a>
+                    <a href="javascript:sel_city(243);">湖南</a>
+                    <a href="javascript:sel_city(244);">广东</a>
+                    <a href="javascript:sel_city(245);">广西</a>
+                    <a href="javascript:sel_city(246);">海南</a>
+                    <a href="javascript:sel_city(251);">四川</a>
+                    <a href="javascript:sel_city(252);">贵州</a>
+                    <a href="javascript:sel_city(253);">云南</a>
+                    <a href="javascript:sel_city(254);">西藏</a>
+                    <a href="javascript:sel_city(261);">陕西</a>
+                    <a href="javascript:sel_city(262);">甘肃</a>
+                    <a href="javascript:sel_city(263);">青海</a>
+                    <a href="javascript:sel_city(264);">宁夏</a>
+                    <a href="javascript:sel_city(265);">新疆</a>
+                    </dd>
+                </dl>
+              </div>
+        </div>
+    </div>
+    <!--end:城市切换-->
+<!-----bbs------>
+    <div class="fn-fr w678 clearfix">
+    <script src="data/cache/logging.js?WUT" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="return lsSubmit();" style="float:right; width: 750px; padding-top: 8px;">
+        <!--登录时候弹窗-->
+        <span id="return_ls" style="display:none"></span>
+        <div class="y w60 ml10">
+<button type="submit" tabindex="904" style="width: 60px; height: 27px;" class="bbs-login">登录</button>
+<input type="hidden" name="quickforward" value="yes" />
+            <input type="hidden" name="handlekey" value="ls" />
+        </div>
+        <div class="y w160 ml10">
+            <div>
+                <input type="password" name="password" id="ls_password" class="w154" autocomplete="off" tabindex="902" />
+            </div>
+            <div class="clearfix">
+                <a href="javascript:;" class="fn-fl" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">忘记密码？</a>
+                <a href="member.php?mod=register" class="fn-fr fn-fwb f-mc">立即注册</a>
+            </div>
+        </div>
+        <div class="y w160 ml10">
+            <div>
+                <input type="text" name="username" id="ls_username" class="w154"  value="用户名/Email" onfocus="if (this.value == '用户名/Email'){this.value = ''; this.className = 'px vm';
+                }" onblur="if (this.value == ''){this.value = '用户名/Email'; this.className = 'px vm xg1';
+                }" tabindex="901" />
+            </div>
+            <div><label>
+                <input type="checkbox" name="cookietime" id="ls_cookietime" class="mr5" value="2592000" tabindex="903" />自动登录</label></div>
+        </div>
+        <div class="y w140 ml10">
+           <p style="margin-bottom: 3px;"><a href="connect.php?mod=login&amp;op=init&amp;referer=http://bbs.kuaiji.com/index.phpportal.php&amp;statfrom=login" class="bbsqq fn-db" rel="nofollow" target="_top"></a> </p>
+             <p><a href="wechat-login.html"><img src="static/image/forum/button_weixin.gif" class="vm"></a></p>
+        </div>
+
+</form>
+
+    </div>
+    <!-----/bbs------>
+  </div>
+</div>
+<!-- end:logo、地区、搜索 --><div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">立即注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div>
+<!-- 主导航-->
+<div class="bbs-nav">
+<div class="bbs-navinner clearfix">
+    	<div class="bbs-navleft fn-fl fts16 fn-fa">
+        	<ul class="pt5 j-sbunav-hd">
+                    <li class="subnav_main " id="mn_portal"><a href="http://bbs.kuaiji.com/portal.php" >社区首页</a>
+<div class="j-subnav-bd bbs-nav-info fn-dn"><div class="bbs-tool-subNav clearfix bbs-bbd pt10 pb10 pp9999999" id="my_sub_mn_portal"></div></div>
+</li>
+                <li class="subnav_main curt" id="mn_forum"><a href="http://bbs.kuaiji.com/forum.php" >会计论坛</a>
+<div class="j-subnav-bd bbs-nav-info fn-dn"><div class="bbs-tool-subNav clearfix bbs-bbd pt10 pb10 pp9999999" id="my_sub_mn_forum"></div></div>
+</li>
+                <li class="subnav_main " id="mn_N4770"><a href="wenda.php" >问答</a>
+<div class="j-subnav-bd bbs-nav-info fn-dn"><div class="bbs-tool-subNav clearfix bbs-bbd pt10 pb10 pp9999999" id="my_sub_mn_N4770"></div></div>
+</li>
+                <li class="subnav_main " id="mn_N738d"><a href="http://video.kuaiji.com?utm_source=bbs" target="_blank">会计网校</a>
+<div class="j-subnav-bd bbs-nav-info fn-dn"><div class="bbs-tool-subNav clearfix bbs-bbd pt10 pb10 pp9999999" id="my_sub_mn_N738d"></div></div>
+</li>
+                <li class="subnav_main " id="mn_N8fdf"><a href="http://www.kuaiji.com/exam/index.html" target="_blank">每日一练</a>
+<div class="j-subnav-bd bbs-nav-info fn-dn"><div class="bbs-tool-subNav clearfix bbs-bbd pt10 pb10 pp9999999" id="my_sub_mn_N8fdf"></div></div>
+</li>
+                <li class="subnav_main " id="mn_Nfae7"><a href="http://www.kuaiji.com/peixun?utm_source=bbs" target="_blank">培训班</a>
+<div class="j-subnav-bd bbs-nav-info fn-dn"><div class="bbs-tool-subNav clearfix bbs-bbd pt10 pb10 pp9999999" id="my_sub_mn_Nfae7"></div></div>
+</li>
+                <li class="subnav_main " id="mn_N7406"><a href="http://bbs.kuaiji.com/plugin.php?id=kuaiji_push" >周推荐会员</a>
+<div class="j-subnav-bd bbs-nav-info fn-dn"><div class="bbs-tool-subNav clearfix bbs-bbd pt10 pb10 pp9999999" id="my_sub_mn_N7406"></div></div>
+</li>
+            </ul>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div>
+        </div>
+            
+        <div class="fn-fr clearfix mr10 ">
+        	<div class="bbs-inright fn-fr f-detc" id="qmenu" style="cursor:pointer" onMouseOver="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(607);})">快捷导航</div>
+            <div class="fn-fr">
+            	<div class="bbs-innav"><a href="http://bbs.kuaiji.com/forum.php?mod=guide&amp;view=newthread" target="_blank">最新贴子</a><a href="http://bbs.kuaiji.com/forum.php?mod=guide&amp;view=new" target="_blank">最新回复</a><a href="dsu_amupper_dzx-list.html" target="_blank">签到</a><a href="thread-679529-1-1.html" class="icon-qq" target="_blank">QQ群</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="bbs-main">
+<div class="bbs-tool clearfix ">
+<div class="bbs-tool-subNav bbs-bbd fn-bg pt10 pb10 clearfix">
+        	<ul> 
+<!--二级导航-->
+                <div><li><a href="http://bbs.kuaiji.com/forum-110-1.html" target="_blank" >从业</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-120-1.html" target="_blank" >初级</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-130-1.html" target="_blank" >中级</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-150-1.html" target="_blank" >CPA</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-240-1.html" target="_blank" >电子书</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-601-1.html" target="_blank" >实操</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-604-1.html" target="_blank" >税务</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-606-1.html" target="_blank" >出纳</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-607-1.html" target="_blank" >行业</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-608-1.html" target="_blank" >报表</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-609-1.html" target="_blank" >office</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-603-1.html" target="_blank" >软件</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-620-1.html" target="_blank" >年审</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-602-1.html" target="_blank" >财管</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-605-1.html" target="_blank" >审计</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-612-1.html" target="_blank" >文献</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-615-1.html" target="_blank" >会计人</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-616-1.html" target="_blank" >灌水</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-614-1.html" target="_blank" >晒照</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-613-1.html" target="_blank" >新人</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-619-1.html" target="_blank" >招聘</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-802-1.html" target="_blank" >站务</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-801-1.html" target="_blank" >活动</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-244-1.html" target="_blank" >广东</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-211-1.html" target="_blank" >北京</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-231-1.html" target="_blank" >上海</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-242-1.html" target="_blank" >湖北</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-233-1.html" target="_blank" >浙江</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-241-1.html" target="_blank" >河南</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-253-1.html" target="_blank" >云南</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-235-1.html" target="_blank" >福建</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-232-1.html" target="_blank" >江苏</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-245-1.html" target="_blank" >广西</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-221-1.html" target="_blank" >辽宁</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-212-1.html" target="_blank" >天津</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-222-1.html" target="_blank" >吉林</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-243-1.html" target="_blank" >湖南</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-213-1.html" target="_blank" >河北</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-237-1.html" target="_blank" >山东</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-215-1.html" target="_blank" >内蒙</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-251-1.html" target="_blank" >四川</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-250-1.html" target="_blank" >重庆</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-261-1.html" target="_blank" >陕西</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-252-1.html" target="_blank" >贵州</a></li>
+<li><a href="http://bbs.kuaiji.com/forum-234-1.html" target="_blank" >安徽</a></li>
+<li><a href="http://bbs.kuaiji.com/forum.php" target="_blank" >更多&gt;</a></li></div>            </ul>
+        </div>
+<div class="bbs-search-grid fn-fr" id="scbar" style="height: 45px; line-height: 45px;">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="6e3e3aab" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="607" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+
+		
+<table>
+<tr>
+<td style="text-align: left; margin-left:20px; width:600px;">
+
+<div class="bbs-toolmenu w568">
+<p class="fn-fl pl10"><strong>热搜: </strong>
+
+<a href="search.php?mod=all&amp;srchtxt=%E5%A2%9E%E5%80%BC%E7%A8%8E&amp;formhash=6e3e3aab&amp;searchsubmit=true&amp;source=hotsearch" target="_blank">增值税</a>
+
+
+
+<a href="search.php?mod=all&amp;srchtxt=%E4%BC%9A%E8%AE%A1%E8%81%8C%E7%A7%B0&amp;formhash=6e3e3aab&amp;searchsubmit=true&amp;source=hotsearch" target="_blank">会计职称</a>
+
+
+
+<a href="search.php?mod=all&amp;srchtxt=%E6%96%B0%E6%89%8B%E5%81%9A%E4%BC%9A%E8%AE%A1&amp;formhash=6e3e3aab&amp;searchsubmit=true&amp;source=hotsearch" target="_blank">新手做会计</a>
+
+
+
+<a href="search.php?mod=all&amp;srchtxt=%E7%8E%B0%E9%87%91%E6%B5%81%E9%87%8F%E8%A1%A8&amp;formhash=6e3e3aab&amp;searchsubmit=true&amp;source=hotsearch" target="_blank">现金流量表</a>
+
+
+
+<a href="search.php?mod=all&amp;srchtxt=%E4%BC%9A%E5%91%98show&amp;formhash=6e3e3aab&amp;searchsubmit=true&amp;source=hotsearch" target="_blank">会员show</a>
+
+
+
+<a href="search.php?mod=all&amp;srchtxt=%E8%B4%A2%E4%BC%9AQQ%E7%BE%A4&amp;formhash=6e3e3aab&amp;searchsubmit=true&amp;source=hotsearch" target="_blank">财会QQ群</a>
+
+
+
+<a href="search.php?mod=all&amp;srchtxt=%E7%BA%B3%E7%A8%8E%E7%94%B3%E6%8A%A5&amp;formhash=6e3e3aab&amp;searchsubmit=true&amp;source=hotsearch" target="_blank">纳税申报</a>
+
+</p>
+</div>
+</td>
+<td width=350 style="text-align: right">
+<input type="text" class="bbs-input" id="scbar_txt" name="srchtxt" placeholder="请输入搜索内容" value="" style="width: 220px;" autocomplete="off" x-webkit-speech speech>
+<div class="bbs-tb-sty"><a href="javascript:;" id="scbar_type" class="showmenu xg1 xs2" onclick="showMenu(this.id)" hidefocus="true">搜索</a></div>
+<input type="submit" value="搜 索" name="searchsubmit" class="bbs-search">
+</td>
+</tr>
+</table>
+
+</form>
+
+</div>
+
+
+<ul id="scbar_type_menu" class="p_pop" style="display: none;">
+<li><a href="javascript:;" rel="all" class="curtype">全部</a></li>
+<li><a href="javascript:;" rel="article">文章</a></li>
+<li><a href="javascript:;" rel="forum">帖子</a></li>
+<li><a href="javascript:;" rel="blog">日志</a></li>
+<li><a href="javascript:;" rel="album">相册</a></li>
+<li><a href="javascript:;" rel="group">群组</a></li>
+<li><a href="javascript:;" rel="user">用户</a></li>
+</ul>
+<script type="text/javascript">
+//initSearchmenu('scbar', 'http://search.discuz.qq.com/f/discuz');
+initSearchmenu('scbar', '');
+</script>
+    </div>
+</div>
+<script type="text/javascript">var fid = parseInt('607'), tid = parseInt('701932');</script>
+
+<!--楼层广告-->
+<script type="text/javascript">
+var biaoji = true;
+var g_arr = [615,801,802,803,118];
+for (var i = 0; i < g_arr.length; i++) {
+if (g_arr[i] == fid) {
+biaoji = false;break;
+}
+}
+if(biaoji){
+jq.getJSON('http://app.kuaiji.com/kuaiji/api/bbs_louceng?jsoncallback=?',function(data){
+   if(data){
+jq('#bbs_louceng').html(data.html);
+   }
+}
+);
+}
+</script>
+<!--楼层广告end-->
+
+<script src="data/cache/forum_viewthread.js?WUT" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(1);var imagemaxwidth = '600';var aimgcount = new Array();</script>
+
+<style id="diy_style" type="text/css"></style>
+<!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]-->
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">会计科普论坛</a><em>&raquo;</em><a href="http://bbs.kuaiji.com/forum.php">会计论坛</a> <em>&rsaquo;</em> <a href="http://bbs.kuaiji.com/forum.php?gid=43">财会实务</a> <em>&rsaquo;</em> <a href="http://bbs.kuaiji.com/forum-607-1.html">行业会计</a> <em>&rsaquo;</em> <a href="http://bbs.kuaiji.com/thread-701932-1-1.html">高校新旧会计制度的比较分析</a>
+</div>
+</div>
+
+<div class="z-wrap clearfix">
+    <ul>
+        <li class="zleftbg"></li>
+        <li class="picArea">
+<a href="http://bbs.kuaiji.com/thread-702316-1-1.html"><img width="130" height="90" src="http://att.bbs.kuaiji.com/block/90/902eeed7694ff6fd80742a1d1bd7691b.jpg"></a>
+<div class="oneline"><a href="http://bbs.kuaiji.com/thread-702316-1-1.html">谁说男会计难找工作？你错了！</a></div>
+</li><li class="picArea">
+<a href="http://bbs.kuaiji.com/thread-693515-1-1.html"><img width="130" height="90" src="http://att.bbs.kuaiji.com/block/1b/1bfe778c47d15d508b52a5852835a31c.jpg"></a>
+<div class="oneline"><a href="http://bbs.kuaiji.com/thread-693515-1-1.html">80魔蝎男‘被骗’学会计 </a></div>
+</li><li class="picArea

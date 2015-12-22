@@ -1,0 +1,243 @@
+<!--UINFO: http://hongdou.gxnews.com.cn/viewthread-13237080-1.html	length=11484&last_modified=1450677184&time_saved=1450677189&charset=GB2312-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html dir="ltr" lang="zh_CN">
+<head>
+	<title>红豆社区</title>
+<meta http-equiv="Content-Type" content="text/html; charset=GB2312" />
+<meta name="generator" content="红豆社区 4.0.25" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<!-- weibo -->
+<meta property="wb:webmaster" content="ab1d2eb02669a88d" />
+<!-- CSS Stylesheet -->
+<link rel="stylesheet" type="text/css" href="clientscript/css/style.css" />
+<!-- / CSS Stylesheet -->
+<script type="text/javascript" src="clientscript/global.js"></script>
+<script type="text/javascript" src="clientscript/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="http://icity.gxnews.com.cn/api/js/apiFunction.js"></script>
+<script type=text/javascript src=/clientscript/md5.js></script>
+
+<script type="text/javascript">
+if(is_opera){
+   document.write('<style type="text/css">');
+   document.write('ul, ol { padding-left:20px; }');
+   document.write('</style>');
+}
+
+</script>
+
+</head>
+<body>
+<!-- logo -->
+<a name="top"></a>
+<!-- /logo -->
+
+<!-- content table -->
+<!-- open content container -->
+
+	<div class="wrap">
+		<div class="page" style="width:100%;">
+			
+
+
+<div id="nav_top">
+            <ul><li><a target="_blank"  href="http://www.gxnews.com.cn">网站首页</a></li><li>|</li>
+                <li><a target="_blank"  href="http://news.gxnews.com.cn">新闻</a></li><li>|</li>
+<li><a target="_blank" href="http://blog.gxnews.com.cn">博客</a></li><li>|</li>
+                
+                <li><a target="_blank"  href="http://tv.gxnews.com.cn">视频</a></li><li>|</li>
+                <li><a target="_blank"  href="http://hongdou.gxnews.com.cn/hongdou_pic/">图片</a></li><li>|</li>
+                <li><a target="_blank"  href="http://opinion.gxnews.com.cn/">时评</a></li><li>|</li>
+                <li><a target="_blank"  href="http://icity.gxnews.com.cn/"><b>同城信息</b></a></li><li>|</li>
+                <li><a target="_blank"  href="http://house.gxnews.com.cn/">房产</a></li><li>|</li>
+                <li><a target="_blank"  href="http://auto.gxnews.com.cn/">汽车</a></li><li>|</li>
+                <li><a target="_blank"  href="http://health.gxnews.com.cn/">健康</a></li><li>|</li>
+                <li><a target="_blank"  href="http://asean.gxnews.com.cn/">东盟</a></li><li>|</li>
+                <li><a target="_blank"  href="http://xy.gxnews.com.cn/">校园</a></li><li>|</li>
+                <li><a target="_blank"  href="http://jingcai.gxnews.com.cn/index.php">竞猜</a></li><li>|</li>
+                <li><a target="_blank"  href="/online.php">在线会员</a></li><li>|</li>
+                <li><a target="_blank"  href="http://www.gxnews.com.cn/specialzip/599/">新手上路</a></li><li>|</li>
+                <li><a target="_blank"  href="http://hongdou.gxnews.com.cn/viewthread-5683371.html">申请版主</a></li><li>|</li>
+<li><a target="_blank"  href="/service">论坛投诉</a></li><li>|</li>
+                <li>客服：</li>
+<li><A 
+      href="tencent://message/?uin=985223838&amp;Site=hongdou.gxnwes.com.cn&amp;Menu=yes" 
+      target=blank><IMG alt=红豆服务QQ src="images/index/qq_online.gif" 
+      border=0></A></li>
+            </ul>
+</div>
+
+
+<div id="loginbar" style="padding-top:3px;">
+<div style="float:left;">
+
+<!-- login form --><table width=580 border=0  cellpadding=0 cellspacing=0><form id="loginform" name="loginform" action="https://sso.gxnews.com.cn/login.php" method='post' onsubmit=md5hash(vb_login_password,vb_login_md5password) ><tr><td width=400>&nbsp;用户名 <input class='myinput' type='text' name='username' id='username' size='13' accesskey='u' tabindex='1' value=''  >&nbsp;密码  <input class='myinput' type='password' name='password' size='12' accesskey='p' tabindex='2' ><input type='checkbox' name="cookietime" value="5184000" tabindex='3'  accesskey='c'  >记住我 <input type=hidden name=theurl value=></td><td width=120 valign=bottom> <input  type='image' src='/images/login_button.gif' tabindex='4'  accesskey='s'>&nbsp;<a href=https://sso.gxnews.com.cn/register.php target="_blank"><img src='/images/reg_button.gif' border=0 /></a></td><td valign=bottom><a href=https://sso.gxnews.com.cn/lostpwd.php target="_blank">忘记密码？</a></td><input type="hidden" name="action" id="action" value="login" /></tr></form></table><!-- end login forms -->
+</div>
+<div style="padding-top:2px; padding-left:2px; float:left;"><a href="http://hongdou.gxnews.com.cn/glzt/2012/sqdk/" target="_blank"><img src="http://hongdou.gxnews.com.cn/images/qd.gif" border="0"></a></div>
+
+<div style="padding-left:5px; float:left;hieght:110px"><a href="https://sso.gxnews.com.cn/redirect_login.php?s=weibo"><img src="https://sso.gxnews.com.cn/thirdlogin/weibo/weibo_login.gif" title="点击进入微新浪博授权页面" alt="新浪微博登录" border="0"></a>
+<a href="https://sso.gxnews.com.cn/redirect_login.php?s=qq"><img src="https://sso.gxnews.com.cn/thirdlogin/qq/img/qq_login.png" title="点击进入QQ授权页面" alt="QQ登录" border="0"></a>
+<script src="https://sso.gxnews.com.cn/ssologin.php" language="JavaScript"></script>
+</div>
+
+</div>
+
+
+
+
+
+
+<div style="width:100%">
+  <div style="float:left;text-align:left;width:195px;">
+   <a href="/"><img src="/images/logo.gif" border=0></a>
+  </div>
+  <div style="float:right;text-align:right">
+   <div  style=" float:left;width:770px"><script language="javascript" type="text/javascript" src="http://dq.gxnews.com.cn/ggao/js/31/458_6c6d05c7bbbc0a53c9dfe00ee1fb4d04.js"></script></div>
+  </div>
+  <div style="float:right;text-align:right;">
+    
+  </div>
+</div>
+<script type="text/javascript" src="/cache/forumlist.js"></script>
+<div id="nav_bbs"><script type="text/javascript">document.write(menuList);</script></div>
+
+<style>
+ol li{list-style-type:decimal;}
+.error_info{font-size:14px;}
+.hot a{color:red;font-weight:bold}
+</style>
+<div style="float:left" class="error_info">
+<br />
+<br />
+<br />
+
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="70%" align="center">
+<tr>
+	<td class="tcat">论坛信息</td>
+</tr>
+<tr>
+	<td class="panelsurround" align="center">
+	<div class="panel">
+		<div align="left">
+	
+				
+			<!-- main error message -->
+			
+			
+			<blockquote><p>指定 主题 无效。如果您来自一个有效链接，请通知 <a href="mailto:webmaster@yourhost.com">管理员</a></p></blockquote>
+			
+				
+			<!-- / main error message -->			
+		
+		
+		</div>
+	</div>
+	
+	<div style="margin-top:6px">
+		<input type="submit" class="button" value="返回上页" accesskey="s" onclick="history.back(-1); return false" />
+	</div>
+	
+	</td>
+</tr>
+</table>
+
+<br />
+
+
+<!-- forum jump -->
+<table cellpadding="0" cellspacing="0" border="0" align="center">
+<tr>
+	<td><a href="/">返回论坛首页</a></td>
+</tr>
+</table>
+<!-- / forum jump -->
+
+
+<br />
+<br />
+</div>
+
+			
+	</div>
+</div>
+
+<DIV class="wrap">
+
+<div id="footer">
+<table  border="0" align="center">
+ <tr>
+    <td width="970" height="1" bgcolor="#BD0101"></td></tr>
+</table>
+
+<!--网管联系：电话 <font color="#FF6600">0771-2083302</FONT> E-mail:<font color="#FF6600">985223838@qq.com</FONT> 商务联系电话:<font color='#FF6600'>(0771) 5690531 </font>传真:<font color='#FF6600'>(0771) 5690897  </font><br />
+                社区中文实名:红豆社区 域名: www.lovepea.com、hongdou.gxnews.com.cn<br>-->
+				<a href="http://www.gxnews.com.cn/include/copyright/webInfo.htm" target=_blank class="smallred">网站介绍</a> | <a  href="http://www.gxnews.com.cn/include/copyright/bzgg_bzad1.htm" target=_blank class="smallred">广告服务</a> | <a  href="http://www.gxnews.com.cn/include/copyright/contact.htm" target=_blank class="smallred">联系方式</a> | <a  href="http://www.gxnews.com.cn/include/copyright/bzgg_netad.htm" target=_blank class="smallred">网站广告</a> | <a  href="mailto:xgw@gxrb.com.cn" target=_blank class="smallred">意见建议</a> | <a  href="http://www.gxnews.com.cn/include/copyright/bzgg_sm.htm" target=_blank class="smallred">版权声明</a><br>
+                Copyright (C) 2002 <font color="RED">GXNEWS</FONT>.com.cn All Rights Reserved from 22/7/2002<br /><span style="color:#ce0000"><a href="http://www.miibeian.gov.cn" target="_blank">ICP证&nbsp;桂B2-20040022</a></span><br>
+<!--analyse 点击统计-->
+
+              <a href="http://www.gxjubao.org/index.php?m=member&amp;c=content&amp;a=publish" target="_blank"><img src="http://www.gxnews.com.cn/images/wfhblxxjbzx.gif" width="211" height="35" border="0"></a> 
+<script src="http://www.gxnews.com.cn/js/lib.analyse_club.inc.js" language="JavaScript" charset="gb2312"></script>
+<div style="width:60px; height:60px; margin-top:-80px; margin-left:-700px;"><a href="http://222.216.1.138/newsite/index.jsp" target="_blank"><img src="/images/1.gif" width="65" height="100" border="0" /></a>
+<img src="http://fun.gxnews.com.cn/ip/getip.php" width="0" height="0">
+</div>
+<div style="width:60px; height:60px; margin-top:-80px; margin-left:700px;"><a href="http://222.216.1.138/newsite/index.jsp" target="_blank"><img src="/images/2.gif" width="65" height="100" border="0" /></a></div>
+</div>
+</DIV>
+
+<div class="popupmenu_popup" style="display:none" id="myctrl_menu">
+<div><a href="/usercp.php">我的控制面板</a></div>
+<div><a href="/viewthreadlist.php?view=mythread">我发表的主题</a></div>
+<div><a href="/viewthreadlist.php?view=myreply">我回复的主题</a></div>
+<div><a href="/private.php">我的悄悄话</a></div>
+<div><a href="/profile.php?do=editsignature">我的签名</a></div>
+<div><a href="/profile.php?do=editprofile">我的个人资料</a></div>
+<div><a href="/bank.php">我要转帐</a></div>
+<div><a href="/myconcern.php?do=showlist">我收藏的主题</a></div>
+</div>
+
+<!--<script type="text/javascript">/*120*120，创建于2011-3-18*/ var cpro_id = 'u413711';</script>-->
+<!--<script src="http://cpro.baidu.com/cpro/ui/f.js" type="text/javascript"></script>-->
+
+
+<!-- / close content container -->
+
+<!-- START WRating v1.0 -->
+<script type="text/javascript" src="http://c.wrating.com/a1.js">
+</script>
+<script type="text/javascript">
+var vjAcc="860010-2095060100";
+var wrUrl="http://c.wrating.com/";
+vjTrack("");
+</script>
+<noscript><img src="http://c.wrating.com/a.gif?a=&c=860010-2095060100" width="1" height="1"/></noscript>
+<!-- END WRating v1.0 -->
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?0ed78aa53c2d87493cd98b5993720e57";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36479486-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>	
+
+
+
+</body>
+</html>

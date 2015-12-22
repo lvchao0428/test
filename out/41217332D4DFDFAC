@@ -1,0 +1,86 @@
+<!--UINFO: http://bbs.southcn.com/forum.php?mod=viewthread&amp;tid=8217164&amp;page=1	length=6996&last_modified=0&time_saved=1450676753&charset=utf-8-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>提示信息 -  广东第一政民互动平台 -  Powered by Discuz!</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",广东第一政民互动平台" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.southcn.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_16_common.css?K15" /><link rel="stylesheet" type="text/css" href="data/cache/style_16_forum_viewthread.css?K15" /><script type="text/javascript">var STYLEID = '16', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'K15', charset = 'utf-8', discuz_uid = '0', cookiepre = 'J9uD_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = '', creditnotice = '1|威望|,2|金钱|,3|满意|,4|不满意|,5|顶|,6|踩|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5zb3V0aGNuLmNvbS9mb3J1bS5waHA/bW9kPXZpZXd0aHJlYWQmYW1wO3RpZD04MjE3MTY0JmFtcDtwYWdlPTE=', SITEURL = 'http://bbs.southcn.com/', JSPATH = 'static/js/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="static/js/common.js?K15" type="text/javascript"></script>
+<meta name="application-name" content="广东第一政民互动平台" />
+<meta name="msapplication-tooltip" content="广东第一政民互动平台" />
+<meta name="msapplication-task" content="name=门户;action-uri=http://bbs.southcn.com/portal.php;icon-uri=http://bbs.southcn.com/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=广东第一政民互动平台;action-uri=http://bbs.southcn.com/forum.php;icon-uri=http://bbs.southcn.com/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=群组;action-uri=http://bbs.southcn.com/group.php;icon-uri=http://bbs.southcn.com/static/image/common/group.ico" /><meta name="msapplication-task" content="name=家园;action-uri=http://bbs.southcn.com/home.php;icon-uri=http://bbs.southcn.com/static/image/common/home.ico" /><link rel="archives" title="广东第一政民互动平台" href="http://bbs.southcn.com/archiver/" />
+
+<!-- 论坛数据统计 Start -->
+    <!-- 论坛数据统计 End -->
+
+
+
+
+<script src="static/js/forum.js?K15" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css"  href="/template/default/common/css_diy_southcn.css" />
+</head>
+
+<body id="nv_forum" class="pg_viewthread bg_custom" onkeydown="if(event.keyCode==27) return false;">
+<div class="container">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">注册</a>
+</div>
+</div>
+<div id="hd">
+<div class="wp">
+                <!-- 南方网页头 Start -->
+               <!-- <iframe frameborder="0" width="980" height="141" marginheight="0" marginwidth="0" scrolling="no" src="http://bbs.southcn.com/public/v2014/header.htm"></iframe>-->
+                <div class="GcW"><!-- 页头开始0605 -->
+<link rel="stylesheet" href="http://www.southcn.com/public/2014/css/header_common.css"/>
+<!--[if lte IE 8]>
+    <style>#nfw_common_nav.top-nav .login_form .login_cls{line-height: 30px}</style>
+<![endif]-->
+<style>
+    .wp{
+        width: 980px;
+    }
+</style>
+<div class="top-nav" id="nfw_common_nav">
+    <div class="nav_wp">
+    	<a href="http://www.southcn.com/" class="home_link"></a>
+        <div class="nav_position">
+            <a href="http://www.southcn.com/" target="_blank">南方网首页</a>
+            <a href="http://news.southcn.com/" target="_blank">新闻</a>
+            <a href="http://economy.southcn.com/" target="_blank">经济</a>
+            <a href="http://news.southcn.com/fu" target="_blank">防务</a>
+            <a href="http://opinion.southcn.com/" target="_blank">时评</a>
+            <a href="http://finance.southcn.com/" target="_blank">财经</a>
+            <a href="http://news.southcn.com/community/" target="_blank">社会</a>
+            <a href="http://news.southcn.com/zhuanti/" target="_blank">专题</a>
+            <span href="javascript:void(0)" class="icon-down more_btn">更多
+            <ul class="more_list"><li><a href="http://theory.southcn.com/" target="_blank">理论</a></li><li><a href="http://bbs.southcn.com/" target="_blank">论坛</a></li><li><a href="http://newscenter.southcn.com/" target="_blank">网谈</a></li><li><a href="http://car.southcn.com/" target="_blank">汽车</a></li><li><a href="http://travel.southcn.com/" target="_blank">旅游</a></li><li><a href="http://ent.southcn.com/" target="_blank">文娱</a></li><li><a href="http://sports.southcn.com/" target="_blank">体育</a></li><li><a href="http://lady.southcn.com/" target="_blank">时尚</a></li><li><a href="http://life.southcn.com/" target="_blank">健康</a></li><li><a href="http://it.southcn.com/" target="_blank">数码</a></li><li><a href="http://tx.southcn.com/" target="_blank">通信</a></li><li><a href="http://tech.southcn.com/" target="_blank">科技</a></li><li><a href="http://energy.southcn.com/" target="_blank">能源</a></li><li><a href="http://house.southcn.com/" target="_blank">房产</a></li><li><a href="http://home.southcn.com/" target="_blank">家居</a></li><li><a href="http://law.southcn.com/" target="_blank">法治</a></li><li><a href="http://food.southcn.com/" target="_blank">食品</a></li><li><a href="http://cartoon.southcn.com/" target="_blank">动漫</a></li><li><a href="http://tv.southcn.com/" target="_blank">视频</a></li><li><a href="http://edu.southcn.com/" target="_blank">教育</a></li><li><a href="http://read.southcn.com/" target="_blank">书城</a></li><li><a href="http://game.southcn.com/" target="_blank">游戏</a></li><li><a href="http://tu.southcn.com/" target="_blank">图库</a></li><li><a href="http://kb.southcn.com/" target="_blank">南方快报</a></li><li><a href="http://www.newsgd.com/" target="_blank">NEWSGD.COM</a></li></ul></span>
+        </div>
+
+    </div>
+</div>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?608c61d78d1bca349fd3b3cb4ea10572";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!-- 页头结束0605 --></div>
+                <!-- 南方网页头 End -->
+
+
+<div class="p_pop h_pop" id="mn_userapp_menu" style=

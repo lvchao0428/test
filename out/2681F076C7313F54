@@ -1,0 +1,2226 @@
+<!--UINFO: http://bbs.gmw.cn/thread-3468978-1-1.html	length=176554&last_modified=0&time_saved=1450677193&charset=utf-8-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中国为什么造不出汉字代码的电脑？-学术研究-文化论坛-光明社区</title>
+<link href="http://bbs.gmw.cn/thread-3468978-1-1.html" rel="canonical" />
+<meta name="keywords" content="思想,理论,文化,教育,学术,光明网" />
+<meta name="description" content=" 中国为什么造不出汉字代码的电脑？" />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.gmw.cn/" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_common.css?x9Z" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_forum_viewthread.css?x9Z" /><script type="text/javascript">var STYLEID = '2', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'x9Z', charset = 'utf-8', discuz_uid = '0', cookiepre = 'dvnC_04f7_', cookiedomain = '.gmw.cn', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'tradeorder|usergroups', creditnotice = '1|经验|点,2|威望|点,3|金钱|￥,4|魅力|分,8|贡献值|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5nbXcuY24vdGhyZWFkLTM0Njg5NzgtMS0xLmh0bWw=', SITEURL = 'http://bbs.gmw.cn/', JSPATH = 'data/cache/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?x9Z" type="text/javascript"></script>
+<!-- TianRun tongji start-->
+<META name="filetype" content="0">
+<META name="publishedtype" content="1">
+<META name="pagetype" content="1">
+<META name="catalogs" content="20">
+<!-- TianRun tongji end--><meta name="application-name" content="光明社区" />
+<meta name="msapplication-tooltip" content="光明社区" />
+<meta name="msapplication-task" content="name=主页;action-uri=http://bbs.gmw.cn/portal.php;icon-uri=http://bbs.gmw.cn/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=论坛;action-uri=http://bbs.gmw.cn/forum.php;icon-uri=http://bbs.gmw.cn/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=群组;action-uri=http://bbs.gmw.cn/group.php;icon-uri=http://bbs.gmw.cn/static/image/common/group.ico" /><meta name="msapplication-task" content="name=博客;action-uri=http://blog.gmw.cn;icon-uri=http://bbs.gmw.cn/static/image/common/home.ico" /><link rel="archives" title="光明社区" href="http://bbs.gmw.cn/archiver/" />
+<script src="data/cache/forum.js?x9Z" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div style="width:960px; height:auto; margin:0px auto;">
+<!-- AFP两段式代码-公用代码 -->
+<script src="http://static.csbew.com/k.js" type="text/javascript"></script>
+<!-- 79271：论坛-顶通 -->
+<script type="text/javascript">
+_acK({aid:79271,format:0,mode:1,gid:1,serverbaseurl:"afp.csbew.com/"});
+</script>
+</div>
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://bbs.gmw.cn/');">设为首页</a><a href="http://bbs.gmw.cn/"  onclick="addFavorite(this.href, '光明社区');return false;">收藏本站</a></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onClick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onClick="widthauto(this)" title="切换到宽版" class="switchwidth">切换到宽版</a>
+</div>
+</div>
+</div>
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="http://bbs.gmw.cn/" title="光明社区"><img src="template/veikei_dz_tour_20150530_win8_fashion/images/logo.png" alt="光明社区" border="0" /></a></h2><script src="data/cache/logging.js?x9Z" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<span class="ftid">
+<select name="fastloginfield" id="ls_fastloginfield" width="40" tabindex="900">
+<option value="username">用户名</option>
+<option value="email">Email</option>
+</select>
+</span>
+<script type="text/javascript">simulateSelect('ls_fastloginfield')</script>
+</td>
+<td><input type="text" name="username" id="ls_username" autocomplete="off" class="px vm" tabindex="901" /></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />自动登录</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password" class="z psw_w">密码</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;"><em>登录</em></button></td>
+<td>&nbsp;<a href="member.php?mod=register" class="xi2 xw1">注册</a></td>
+</tr>
+</table>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</div>
+
+<div class="fastlg_fm y" style="margin-right: 10px; padding-right: 10px">
+<p><a href="http://bbs.gmw.cn/connect.php?mod=login&op=init&referer=forum.php%3Fmod%3Dviewthread%26tid%3D3468978%26extra%3Dpage%253D1%26page%3D1&statfrom=login_simple"><img src="static/image/common/qq_login.gif" class="vm" alt="QQ登录" /></a></p>
+<p class="hm xg1" style="padding-top: 2px;">只需一步，快速开始</p>
+</div>
+<div style="margin-right: 10px; padding-right: 10px" class="fastlg_fm y">
+	<p><a href="https://api.weibo.com/oauth2/authorize?client_id=288713144&redirect_uri=http%3A%2F%2Fbbs.gmw.cn%2Fplugin.php%3Fid%3Dljxlwb&response_type=code"><img src="source/plugin/ljxlwb/img/weibo_login.png" title="点击进入授权页面" alt="点击进入授权页面" border="0" /></a></p>
+	<p style="padding-top: 2px;" class="hm xg1">只需一步，快速开始</p>
+	</div></div>
+</form>
+
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onMouseOver="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(9);})">快捷导航</a>
+<ul><li id="mn_Nb56b" ><a href="http://www.gmw.cn/" hidefocus="true"   style="font-weight: bold;">光明网</a></li><li id="mn_Nc1a2" ><a href="http://blog.gmw.cn" hidefocus="true" target="_blank"  >主页</a></li><li id="mn_Nfff3" ><a href="http://bbs.gmw.cn/home.php" hidefocus="true"  >博客</a></li><li class="a" id="mn_forum" ><a href="http://bbs.gmw.cn/forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li><li id="mn_Ncb48" ><a href="http://bbs.gmw.cn/group.php" hidefocus="true"  >群组</a></li><li id="mn_N0be1" ><a href="http://www.gmw.cn/content/node_40694.htm" hidefocus="true"  >热评</a></li><li id="mn_N009e" ><a href="plugin.php?id=mpage_sign:sign" hidefocus="true"  >每日签到</a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="1680d295" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="9" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="curforum" fid="9" >本版</a></li><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<!--show ip addr start-->
+<script type="text/javascript">
+function ip_ajaxFunction(pid)
+{var xmlHttp;try{xmlHttp=new XMLHttpRequest();}catch (e){try{xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");}catch (e){try{xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");}catch (e){alert("Ajax failed!");return false;}}}
+ xmlHttp.onreadystatechange=function()
+      {
+      if(xmlHttp.readyState==4){
+ 
+ var iptext = xmlHttp.responseText;
+ if(iptext.indexOf("<!--ip-->")>0)
+ {
+if(document.getElementById('show_ip_'+pid)!=null){
+document.getElementById('show_ip_'+pid).style.display="block";
+var iptext1 = iptext.split("<!--ip-->");
+ iptext = iptext1[1];
+var show_ip_id = "show_ip_"+pid;
+ document.getElementById(show_ip_id).innerHTML="IP:"+iptext;
+}
+}
+        }
+      }
+var uurl = "api/ip.php?pid="+pid;
+    xmlHttp.open("POST",uurl,true);
+    xmlHttp.send(null);
+ 
+ }
+ </script>
+<!--show ip addr end-->
+
+<script type="text/javascript">var fid = parseInt('9'), tid = parseInt('3468978');</script>
+
+<script src="data/cache/forum_viewthread.js?x9Z" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(1);var imagemaxwidth = '750';var aimgcount = new Array();</script>
+
+<style id="diy_style" type="text/css"></style>
+<!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]-->
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">光明社区</a><em>&raquo;</em><a href="http://bbs.gmw.cn/forum.php">论坛</a> <em>&rsaquo;</em> <a href="http://bbs.gmw.cn/forum.php?gid=27">主版</a> <em>&rsaquo;</em> <a href="http://bbs.gmw.cn/forum-9-1.html">学术研究</a> <em>&rsaquo;</em> <a href="http://bbs.gmw.cn/thread-3468978-1-1.html">中国为什么造不出汉字代码的电脑？</a>
+</div>
+</div>
+
+<style id="diy_style" type="text/css"></style>
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="ct" class="wp cl">
+<div id="pgt" class="pgs mbm cl ">
+<div class="pgt"></div>
+<span class="y pgb"><a href="http://bbs.gmw.cn/forum-9-1.html">返回列表</a></span>
+<a id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=9')" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a></div>
+
+
+
+<div id="postlist" class="pl bm">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls ptn pbn">
+<div class="hm ptn">
+<span class="xg1">查看:</span> <span class="xi1">6566</span><span class="pipe">|</span><span class="xg1">回复:</span> <span class="xi1">14</span>
+</div>
+</td>
+<td class="plc ptm pbn vwthd">
+<div class="y">
+<a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;action=printable&amp;tid=3468978" title="打印" target="_blank"><img src="static/image/common/print.png" alt="打印" class="vm" /></a>
+<a href="http://bbs.gmw.cn/forum.php?mod=redirect&amp;goto=nextoldset&amp;tid=3468978" title="上一主题"><img src="static/image/common/thread-prev.png" alt="上一主题" class="vm" /></a>
+<a href="http://bbs.gmw.cn/forum.php?mod=redirect&amp;goto=nextnewset&amp;tid=3468978" title="下一主题"><img src="static/image/common/thread-next.png" alt="下一主题" class="vm" /></a>
+</div>
+<h1 class="ts">
+<a href="http://bbs.gmw.cn/forum.php?mod=forumdisplay&amp;fid=9&amp;filter=typeid&amp;typeid=127">[自然科学]</a>
+<span id="thread_subject">中国为什么造不出汉字代码的电脑？</span>
+</h1>
+<span class="xg1">
+<a href="http://bbs.gmw.cn/thread-3468978-1-1.html" onclick="return copyThreadUrl(this, '光明社区')" >[复制链接]</a>
+</span>
+</td>
+</tr>
+</table>
+
+
+<table cellspacing="0" cellpadding="0" class="ad">
+<tr>
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table><div id="post_11361946" ><table id="pid11361946" class="plhin" summary="pid11361946" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar11361946" class="pls favatar">
+<a name="newpost"></a> <div class="pi">
+<div class="authi"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511" target="_blank" class="xw1">sunzhenpo</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo11361946" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo11361946_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511" target="_blank" class="xi2">sunzhenpo</a></strong>
+<em>当前离线</em>
+</div><div>主题:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=44511&do=thread&type=thread&view=me&from=space" class="xi2"></a></em></div><div>帖子:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=44511&do=thread&type=reply&view=me&from=space" class="xi2"></a></em></div><div>积分:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=44511&do=profile" class="xi2">5213</a></em></div><br />﻿<div class="imicn">
+<a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511" class="avtm" target="_blank"><img src="http://uc.gmw.cn/avatar.php?uid=44511&size=middle" /></a></div>
+<div style="margin-left:20px;margin-bottom:5px;margin-right:5px;">来自&nbsp;</div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<div id="fj" class="y">
+<label class="z">电梯直达</label>
+<input type="text" class="px p_fre z" size="2" onkeyup="$('fj_btn').href='forum.php?mod=redirect&ptid=3468978&authorid=0&postno='+this.value" onkeydown="if(event.keyCode==13) {window.location=$('fj_btn').href;return false;}" title="跳转到指定楼层" />
+<a href="javascript:;" id="fj_btn" class="z" title="跳转到指定楼层"><img src="static/image/common/fj_btn.png" alt="跳转到指定楼层" class="vm" /></a>
+</div>
+<strong>
+<a href="http://bbs.gmw.cn/thread-3468978-1-1.html"   id="postnum11361946" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>1</em><sup>#</sup></a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon11361946" src="static/image/common/online_member.gif" />
+<em id="authorposton11361946">发表于 2015-12-6 19:26:51</em>
+<span class="pipe">|</span>
+<a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;tid=3468978&amp;page=1&amp;authorid=44511" rel="nofollow">只看该作者</a>
+<span class="none"><img src="static/image/common/arw_r.gif" class="vm" alt="回帖奖励" /></span>
+<span class="pipe show">|</span><a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;tid=3468978&amp;extra=page%3D1&amp;ordertype=1"  class="show">倒序浏览</a>
+<span class="pipe show">|</span><a href="javascript:;" onclick="readmode($('thread_subject').innerHTML, 11361946);" class="show">阅读模式</a>
+</div>
+</div>
+</div><div class="pct"><style type="text/css">.pcb{margin-right:0}</style><div class="pcb">
+ 
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_11361946">
+<!--ruijilong fenye-->
+<div align="left"><strong>中国为什么造不出汉字代码的电脑？</strong></div><div align="left"><font color="black"> </font></div><div align="left">从电子计算机诞生至今，已经70多年了。今天，中国加入了美国的全球电脑互联网，中国也建立了覆盖全国的政府、军队、金融、交通、电视、通讯等等网络，中国的各种部门都建立了自己系统网，并且中国人可以在电脑上用汉字编辑文件；可以在手机上用汉字发送短信；互联网的网页都是汉字，也可以用汉字来查询。中国也能大量地组装电脑、手机和各种信息化设备了，中国人普遍用上电脑和手机了。。。。。。。这种现象，是不是证明中国已经跟上信息化时代了呢？完全不是。为什么？</div><div align="left">&nbsp; &nbsp;&nbsp;&nbsp;因为今天中国所使用的电脑系统，从核心硬件领域到核心软件领域，完全被美国占据了。中国在信息化时代的信息自主权，完全丧失了。中国的电脑、手机和各种通讯设备制造厂，实际上，就是美国的零件组装厂。中国人在美国电脑上所看到的和所使用的汉字，全是挂接在美国的英文信息系统上的，汉字相当于汽车外壳的一层涂漆。</div><div align="left">今天，美国电讯企业“八大金刚”（思科、IBM、谷歌、高通、英特尔、苹果、甲骨文、微软）完全占领了中国：思科主要的领地是网络基础设施领域，这是整个网络的命脉所在；思科产品已经全面渗透到中国几乎所有大型网络项目的建设，涉及政府、海关、邮政、金融、铁路、民航、医疗、军警等要害部门的网络建设，以及中国电信、中国联通等电信运营商的网络基础建设。中国电信163和中国联通169是中国最重要的两个骨干网络，两者承载着中国互联网80%以上的流量。但在这两大骨干网络中，思科占据了70%以上的份额，并把持着所有超级核心节点。最后，思科还是美国政府和军方的通信设备和网络技术设备主力供应商。在金融行业，中国四大银行及各城市商业银行的数据中心全部采用思科设备，思科占有了金融行业70%以上的份额；在海关、公安、武警、工商、教育等政府机构，思科的份额超过了50%；在铁路系统，思科的份额约占60%；在民航，空中管制骨干网络全部为思科设备；在机场、码头和港口，思科占有超过60%以上的份额；在石油、制造、轻工和烟草等行业，思科的份额超过60%，甚至很多企业和机构只采用思科设备；在互联网行业，腾讯、阿里巴巴、百度、新浪等排名前20的互联网企业，思科设备占据了约60%份额，而在电视台及传媒行业，思科的份额更是达到了80%以上。</div><div align="left"><font color="black">目前，中国从手机到服务器，从办公软件到操作系统，从搜索引擎到无线通信技术，被美国的“八大金刚”几乎渗透到了每一个环节；政府、军队、警察、海关、邮政、金融、贸易、交通、能源、水利、气象、通讯、铁路、民航、医疗、等等，从内政到外交，每一个部门，从中央到基层，都有美国“八大金刚”的产品。</font></div><div align="left"><font color="black">1</font><font color="black">、现有的数百种比较流行的主要电脑程序，全是英文代码的，全是外国产的；</font></div><div align="left"><font color="black">2</font><font color="black">、我国的电脑、手机和一切用电脑控制的机器的核心芯片和操作系统软件全是买了外国的。</font></div><div align="left"><font color="black">3</font><font color="black">、我国的网站，其电脑服务器和数据库存储、管理等基础性软件均买了国外的。</font></div><div align="left"><font color="black">4</font><font color="black">、我国的手机，其芯片和操作软件操作系统均是买了外国的；</font></div><div align="left"><font color="black">5</font><font color="black">、一些大型的图片，3D动画处理软件均买了国外的。</font></div><div align="left"><font color="black">6</font><font color="black">、办公软件主要是微软垄断，即使中国的WPS编辑软件，底层也还是“ASCII”码的。</font></div><div align="left">每年花在购买软件升级专利费的巨额美元不说，仅仅电脑硬件中的芯片一项，2012年中国进口的集成电路芯片是1920亿美元，这一数字超过了进口石油的1200亿美元。 在国务院发展研究中心发布的《二十国集团国家创新竞争力黄皮书》中指出，中国目前仍是一个技术和知识产权净进口国，关键核心技术对外依赖度高，80%芯片都要靠进口。有关数据显示，近些年来，中国一年能制造11 8亿部手机，3 5亿台电脑，1 3亿台彩电，都是世界第一，但嵌在其中的高端芯片专利费用却让中国沦为国际厂商的打工者。</div><div align="left">中国使用了美国制造的电脑，汉字信息就必须挂接在英文信息系统上，中国的网民对网络的使用权和利益，就完全掌握在美国人的手里了。人家给你多大的“技术使用权”，你就得接受多大使用权。只要电脑的底层软件一变动，中国使用的电脑软件就必须跟着变动，否则就立即瘫痪，所以，中国就得立即掏钱购买变动后的新软件。这样，中国每年在信息技术专利支付、购买更新换代硬件和软件等等的金额，比耻辱的1841年的中英《南京条约》的赔款还要多得多。</div><div align="left"><font color="black">经济上的这种损失，与政治上、军事上的危害相比，还是次要的。</font></div><div align="left">美国建立了全球电脑互联网，全球互联网根域名服务器，主要用来管理互联网的主目录的。全球互联网根域名服务器有13台。其中10台放在美国，英国、瑞典、日本各一台。所有根服务器都由美国政府授权的互联网域名与号码分配机构ICANN统一管理，负责全球互联网域名根服务器、域名体系和IP地址等的管理。全球13个根域名服务器以英文字母A到M依序命名，其中有9台在全球多个地点设立有镜像站。</div><div align="left"><font color="black">网际网络空间至少有七个关键战略“高地”：作业系统、搜寻引擎、通信装备基础设施、云端运算、治理论坛、密码体系，以及网际网络协定。而美国在此七个“高地”上，都据有主导优势地位。所以，世界上哪个国家加入了这个“互联网”，哪个国家就陷入了美国的“网络陷阱”，成为美国的“网中之鱼”。</font></div><div align="left"><font color="black">&nbsp; &nbsp;&nbsp;&nbsp;</font><font color="black">中国加入了美国的“全球互联网”，自认为“融入了世界潮流”，“与国际接轨”了，其实是掉入了美国的“陷阱”，成了美国的“网中之鱼”。中国的安全，完全掌握在美国的手里了。因为，全球所有入网电子信息，都要到美国“转一圈”，什么密码都没用，美国情报机构想看都能看到。全球所有的入网电脑，美国都可以通过软件任意操控，就如操控自己办公桌上的电脑一样方便。</font></div><div align="left">长期以来，美国对中国政府部门、机构、企业、大学、电信主干网络进行大规模监控、攻击以及入侵活动，美国的监听行动涉及中国领导人、普通网民、广大手机用户等。</div><div align="left">世界互联网的信息主动权，就完全掌握在美国人的手里，你的一切“秘密”，都在它的掌控之中，它一不用花钱，二不须派人，只要稍稍变动一下电脑的底层程序，就足以使你全国出现混乱。网络空间和现实空间错综交叉的大方向就控制在美国手里，美国显然有能力从网络空间对中国的“物理域”构成威胁。美国也可以随时从国际互联网中清除 cn根域名，把中国打回“石器时代”。 美国曾在战争的特殊时间里清除过伊拉克、利比亚的国家根域名，使得那两个国家的全部网站从国际互联网上消失。使这两个国家陷入混乱。</div><div align="left">局域网，例如中国的卫星通讯网，军事通讯，国家政府管理网，经融管理网，铁路、公路、航海等交通网，石油管理网，电力管理网、各种监控、检测网，大型企业管理网等等。这类电脑网，“根服务器”不在美国在中国，没有连接“全球互联网”。但是，这些局域网的根服务器，其硬件和软件，全是美国生产的，所以，美国可以通过在电脑芯片里或电脑操作软件里，预埋的遥控破坏程序，随时通过在中国的汉奸特务或无线遥控信号，对中国进行监控和破坏。</div><div align="left">我国今天，陆、海、空的交通、通讯、能源、电力、城市供水、金融、政府系统、军事系统、等等，都是电脑信息网络化的，如果其中的一种电脑网络遭到破坏，其后果比“核弹”的威力还要大得多。而“信息战”所使用的手段，比“核战”的多得多，也阴险狡猾得多。</div><div align="left">例如“遥控信息炸弹”，就是其中的一种，它既可用于战略也可用于战术。</div><div align="left"><font color="black">所谓“遥控信息炸弹”，是指在某种硬件芯片中或软件程序中，预先置入专门破坏机器正常工作的程序，这种破坏程序，不被激发时，就潜伏不动，一旦被“遥控激发程序”激发，立即就按遥控人的指令运行：或者让机器自动向遥控人提供所需要的一切信息；或者破坏机器的正常工作程序，使机器发生故障；或者让机器听从遥控人的指挥；等等；而且一经完成遥控任务后，这种“遥控程序”和“破坏程序”，就立即消失，让事后追查事故的专家发现不了。例如，美国制作的Flame（火焰）、stuxnet(震网)病毒，就是这样的病毒。</font></div><div align="left">这种“幽灵”般的“遥控信息炸弹”，可以预先置入一切由电脑控制的自动化设备的中去。例如：卫星、火车、汽车、飞机、轮船、军用武器装备、民用金融网络、经济网络、公安管理网络、国家政府管理网络、军事网络，等等。</div><div align="left">传送“遥控激发程序”的手段和途径可以有多种，例如：无线电波发射器，电视机遥控器、玩具遥控器、军用无线通讯设备，民用手机，银行卡、电话卡、等等各种与电脑网络相关的“插卡”，各种打印机芯片等等，都可以成为通往卫星、火车、轮船、军事武器、政府、民用信息网的路径。</div><div align="left"><font color="black">&nbsp; &nbsp;</font><font color="black">美国一直把中国列入 “潜在敌国”的名单里。既然这样，他们就必定要从各方面压制和防范这个“潜在敌国”。所以，它围堵中国的动作不断，防范的动作也是极多的。既然美国能把“电脑破坏程序”预埋在伊拉克的“打印机芯片里”，我们就没有理由不怀疑美国卖给中国的“打印机”、电脑，不会预埋“破坏程序”。况且，美国的实际行动，也证实了这种怀疑不无道理。</font></div><div align="left">美国除了对中国进行高空、远距离无间断的电子侦察外，还在中国的沿海布置近距离侦察船和低空侦察飞机，每一年达几千次。在中、美没有处于临战状态或开战状态的情况下，美国如此高频率地电子侦察，干什么用呢？可以肯定地说，目的之一就是为了寻找“激发‘遥控信息炸弹’程序”的入侵路径。美国的抵近侦察，主要为了获取中国的有线通讯、民用通讯的极低功率辐射波信号，破解这类信号的有效数码后，就可以借用这类信号为通道，传达“遥控信息炸弹”的“激发程序”。一旦中、美发生战争，即可派上用场。那时，美国就可能会让中国引以为自豪的“两弹一星”，失去作用或者起反作用。使中国的卫星，变成他们的卫星，或者让中国的卫星变成“疯子”，发出错误的或误导的信息，让中国靠卫星通信支持的或电脑自动控制的导弹、飞机、舰船、坦克、大炮、等等武器瘫痪或者失去打击目标，或者调转头来打中国。</div><div align="left"><font color="black">今天的战争不同于50年前的战争了，50年前的战争是前线的力量决定战争的胜负，因为那时的战争，后勤供应量不大也不庞杂；而今天的战争前线供应需要量极大，供应项目非常庞杂，涉及到广泛的政府的和民间的政治、经济、科学技术、文化单位。所以，现代战争，是拼国力、拼后勤力量的大综合战争。今天的战争，可以说，没有前方与后方之分。这些民间和政府的电脑信息系统，从硬件到软件，全都是美国产的，全是英文代码编制的软件，等于全是“明码”的，所以，极易受到攻击，平时都经常遭到普通“黑客”的攻击，在战时，外国的“信息网络作战部队”，完全有可能激发预埋在中国各个行业的电脑网络中心的“遥控信息炸弹”，或者直接输入“火燃”之类的病毒，对各种电脑网络实施攻击。金融信息系统、政府管理信息系统、工厂机器制造程序系统、交通指挥调动信息系统、水电油汽监控信息系统、天气、灾害预报预警信息系统、公安信息系统、电视、广播信息系统、文化、教育信息系统、国家统计信息系统、等等，这类信息系统，只要有一种遭到攻击，出现错误或混乱，就会导致全国工业、农业、水、电、煤、气、军工、交通、运输、电讯、金融等等一切依靠电脑网络运行的生产秩序混乱和瘫痪，从而导致全国人民的生活秩序混乱、人心动乱、社会秩序混乱，军心不稳，也会导致战争后勤供应秩序错误或混乱，导致前线急需物资缺乏，行动瘫痪，使中国完全失去反击能力。</font></div><div align="left">从1987年以来，中国一直在花大钱购买和使用美国的电脑信息系统，就如特洛伊人糊里糊涂地把“特洛伊木马”搬进“城里”一样（古希腊传说，特洛伊王子帕里斯访问希腊，诱走了王后海伦，希腊人因此远征特洛伊。围攻9年后，到第10年，希腊将领奥德修斯献了一计，就是把一批勇士埋伏在一匹巨大的木马腹内，放在城外后，佯作退兵。特洛伊人以为敌兵已退，就把木马作为战利品搬入城中。到了夜间，埋伏在木马中的勇士跳出来，打开了城门，希腊将士一拥而入攻下了城池），结果在电脑信息领域里，成了美国附庸，从硬件到软件，都受制于美国。</div><div align="left"> </div><div align="left">从科学发展的总趋势上看，人类历史上必定会出现三次里程碑性的革命，这就是“工业技术革命”、“信息技术革命”、“生物技术革命”。“工业技术革命”解决的是人的体力与大自然之间的矛盾问题；“信息技术革命”解决的是人的脑力与大自然之间的矛盾问题；“生物技术革命”是利用生命科学规律，从不同于今天的思维角度上，解决人类需要解决的一切问题。前一个技术经济时代的力量和智力与后一个技术经济时代的力量和智力的差别，就如5岁的小孩与30岁的成年之间的力量和智力的差别一样的悬殊。</div><div align="left"><font color="black">所以，当人类进入“生物科学化时代”以后，再来回看“工业化时代”和“信息化时代”的工具时，就如今天的我们，看新石器时代的工具一样了。</font></div><div align="left"><font color="black">所以，哪个国家抢占了当时科学技术的制高点，哪个国家就成为这个时代的霸主。</font></div><div align="left"><font color="black">为了解决人的体力与自然的矛盾，英国人发明了动力机器“蒸汽机”，由此使人类社会出现了“工业化革命”，使英国率先从“小农业经济的社会历史阶段”跨入了“大工业商品经济的社会历史阶段”，从而站在了科学发展和社会发展的至高点上，由此取得了独霸世界的优势地位。因此，使英国的势力迅速扩张到全世界，一时成为“日不落的大英帝国”。但是，科学技术是无国界的，是无法长期保密和独占的。随着英国势力扩张到全世界，“工业革命”的经济技术成果和社会成果也扩展到了全世界，也使世界各国得到了快速发展，很快赶上或接近英国的水平，也跨入了“大工业商品经济的社会历史阶段”了。这样，英国就不能独霸“大工业商品经济的社会历史阶段”的至高点了。它就从世界霸权地位迅速跌落下来，成为一个一般的国家了。由此出现了资本主义国家“群雄争霸世界”的局面。所以，就发生了两次世界大战。</font></div><div align="left"><font color="black">当时，世界很多国家都跟上了“工业革命”的潮流，进入了“大工业商品经济的时代”，而中国却仍然滞留在“小农业经济时代”而落伍了，为什么？因为清朝皇帝的无知和妄自尊大，使中国错过了跟上世界工业化新潮流的最佳机会。</font></div><div align="left">1782年，英国特使“马噶尔尼”来华，见了清朝皇帝乾隆，要求通商。乾隆皇帝说“天朝物产丰盈，无所不有”，拒绝了人家。使中国错过了提前200年进入“大工业商品经济社会”的大好时机。乾隆犯了一个巨大的历史性的战略错误。这个历史性的错误，导致中国没能及时跟上“大工业商品经济时代”的步伐，从而长期滞留在“小农业经济时代”，远远落后于世界先进工业化国家，由此导致了世界工业化国家瓜分和欺负中国100多年的巨大灾难，中华民族几乎被消灭，至今也还没有完全扭转这种弱势局面。</div><div align="left">人类为了解决人的脑力与自然的矛盾，从1666年开始，发明了机械计算机，后来经过很多工业化国家的科技人员的不断发展，逐渐由机械计算机转变为电子计算机。</div><div align="left">1945年，由美国生产了第一台全自动电子数字计算机“埃尼阿克”(英文缩写词是ENIAC，即Electronic Numerical Integrator and Calculator，中文意思是电子数字积分器和计算器)。它是美国奥伯丁武器试验场为了满足计算弹道需要而研制成的。主要发明人是电气工程师普雷斯波·埃克特(J&nbsp;&nbsp;Prespen Eckert)和物理学家约翰·莫奇勒博士(John W&nbsp;&nbsp;Mauchly)。这台计算机1946年2月交付使用。后来又不断提高它的运算速度和增多其功能，使其功能逐渐向人脑的功能接近，所以被今天的人们称为“电脑”。由此使美国，由“机器化时代”，跨入了“信息化时代”。“信息化”的威力，远远超过“机器化”的威力。这使美国成了当今的“世界信息王国”。</div><div align="left">美国把独占信息化时代的科技制高点，作为它保持“世界霸权”的重要手段之一。所以，从电子计算机（电脑）出现至今70年以来，对于企图制造计算机的国家，都一直进行着遏制，从而使美国40年以来，一直占据着“信息时代”的制高点。美国创建了世界上最先进的最强大的电脑信息产业,美国利用其最先进的电脑产业，建立了“世界互联网络”和以电脑为核心的通讯、控制、侦查等等产品的销售、服务网络。美国的电脑信息产业成了美国向世界各国吸钱的最强大工具。这个产业，不单最能吸钱，更是美国征服世界各国的最强大的武器。美国的先进电脑信息技术，让美国的军事、经济、文化、政治、等等一切领域，得到了全面提升，在各个领域里，都远远超过世界上任何先进国家。</div><div align="left">类如美国的这种“高科技控制网”或“经济控制网”，这可以说是一种“新的殖民方式”。相对老式的“土地殖民方式”来说，这种新的殖民方式，可以叫做“科技殖民方式”。这种“科技殖民方式”，只跟被殖民国家的权势人物和技术精英做交易，并形成一个双方一致的利益链。当被殖民国的人民企图摆脱他们时，不用外国人反对，首先就会遭到本国的权势人物和技术精英的全力反对。同时，处在“科技殖民地”的多数普通民众，像鸦片的吸民一样，浑然不觉，还感到十分满意和舒服。这就是“科技殖民方式”比“土地殖民方式”的高明之处。所以，今天，老式的“土地殖民方式”被新式的“科技殖民方式”取代了。</div><div align="left">这种“高科技控制网”或“经济控制网”的控制效力，比普通的有疆界的王国强大得多，与这类“王国”相比，世界上一切有疆界的国家，都不是它的对手。相对于有疆界的“土地王国”来说，我门可以把这类“王国”称为“无疆王国”或“软实力王国”。这类“王国”，在小农业经济的社会时期是不可能出现的，而在大工业商品经济的时代，就必然地出现了。</div><div align="left"><font color="black">这种“经济技术王国”，是建立在技术垄断的基础上的，只要能够打破它的垄断，这种“王国”就垮台了。所以，建立或维护这种“经济技术王国”同打破这种“经济技术王国”之间的斗争，就在全世界开展起来了。由此出现了“经济技术间谍战”和“高新技术研发”竞争。从而在整体上，促进了人类科学技术的快速发展。在这种形势下，哪个国家的经济技术发展停顿、落后，哪个国家就必然成为“先进技术王国”的奴隶。</font></div><div align="left"> </div><div align="left">中国在20世纪60年代，也启动了制造电子计算机的科研项目。</div><div align="left"><font color="black">1956</font><font color="black">年，夏培肃完成了第一台电子计算机运算器和控制器的设计工作，同时编写了中国第一本电子计算机原理讲义。</font></div><div align="left"><font color="black">1957</font><font color="black">年，哈尔滨工业大学研制成功中国第一台模拟式电子计算机。</font></div><div align="left"><font color="black">1958</font><font color="black">年，中国第一台计算机--103型通用数字电子计算机研制成功，运行速度每秒1500次，标志着我国第一台电子计算机的诞生。</font></div><div align="left"><font color="black">1959</font><font color="black">年，中国研制成功104型电子计算机，运算速度每秒1万次。</font></div><div align="left"><font color="black">1960</font><font color="black">年，中国第一台大型通用电子计算机--107型通用电子数字计算机研制成功。</font></div><div align="left"><font color="black">1963</font><font color="black">年，中国第一台大型晶体管电子计算机--109机研制成功。</font></div><div align="left"><font color="black">1964</font><font color="black">年，441B全晶体管计算机研制成功。</font></div><div align="left"><font color="black">1965</font><font color="black">年，中科院计算所研制成功第一台大型晶体管计算机109乙，之后推出109丙机，该机为两弹试验中发挥了重要作用；</font></div><div align="left"><font color="black">1967</font><font color="black">年，新型晶体管大型通用数字计算机诞生。</font></div><div align="left"><font color="black">1969</font><font color="black">年，北京大学承接研制百万次集成电路数字电子计算机 --150机。</font></div><div align="left"><font color="black">1970</font><font color="black">年，中国第一台具有多道程序分时操作系统和标准汇编语言的计算机--441B－Ⅲ型全晶体管计算机研制成功。</font></div><div align="left"><font color="black">在1970年之前，中国在电脑的研制上，基本上与美国、日本的研制进程平行。</font></div><div align="left">进入上70时年代以后，特别是到了80年代，由于电子、计算机等新兴产业的兴起，世界各主要发达国家和新兴发达国家的政府、企业等部门纷纷增加对研发经费的投入，而中国的决策者却把科研经费大幅度地往下砍。中国在70年代末至80年代初自主研制的计算机项目，与集成电路和半导体研发一起，都以“没钱”为由停掉了。这些科研队伍解散后，除了出国的以外，有的下海经商，有的回高校教书，更有甚者竟然被调去看机房。由于当时中国是计划经济体制，企业全是“国营”的，没有民间私营科技大企业，更没有民间科研机构，所以，国家撤销了“电子计算机”科研项目，中国的计算机就夭亡了。 </div><div align="left">中国停止了微型晶管集成电子计算电路的研制，从此，中国的电脑，就没有了中国制造的电脑中央控制器（CPU）了。中国在自阉电脑核心部件（cpu）制造能力以后，电脑底层软件的编制的权力也自然随之丢失了。使中国失去了跟上“信息化时代”的最佳机会，使中国比美国落后一个“科技经济时代”。从此，中国的电脑核心硬件和核心底层软件领域，就完全让美国占据了，中国在“信息化时代”的信息自主权，完全丧失了。中国的“电脑、电话机、电视机和一切电脑自动控制的机器的生产厂”，都变成利用外国零、部件的“组装厂”了，沦为美国的“网中之鱼”和“科技殖民地”了。</div><div align="left">2013年6月美国中央情报局雇员埃德华.斯诺登，叛逃到中国香港，然后又转到俄国后，向想全世界公开爆料：美国长期利用国际互联网的垄断优势，肆意监视中国和世界各国并利用黑客程序攻击破坏他国的电脑控制网络的情况；美国很早就建立了“网络作战部队”，参与网络战的除专业军队外，还包括美国的思科、IBM、谷歌、高通、英特尔、微软等电脑信息企业。至此，中国的领导层，才开始重视国际互联网的安全问题了。不过还没有认识中国创建独立自主的纯汉字信息的电脑产业的必要性和长远的战略意义，只是提出要加强互联网的安全措施。</div><div align="left">2014年1月21日下午3点10分左右，有不少网友发现一些网站无法登录，就连新浪、百度、腾讯也莫名“消失”。这并非电脑中毒，而是国内通用顶级根域名服务器突然异常，大量网站域名被劫持到65 49 2 178这个IP地址导致的。360网站安全卫士发布的数据显示，最高峰时全国约三分之二的网站DNS服务器解析失败，高达数千万网友无法顺利上网。故障波及旅游、航空、电商、IT服务、社区等众多网站，网站报错均为“无法与服务器建立连接”。</div><div align="left">这次事件证明，电脑网络灾难降临到中国的头上是多么简单、多么突然和多么严重。对此，一些爱国的人士认为，如果爆发网络战争，由于根服务器都在国外，那么，只要对国内的解析请求都屏蔽，就会导致全网瘫痪事件；更险恶一点的说，攻击者设置可以伪装网站，产生钓鱼的效果，可以导致群体信息泄露，大规模的金融损失和各类联网的机器装备的瘫痪和损坏。所以，应当引起国家政府高度重视，并采取一些预防措施。怎样预防呢？</div><div align="left">有人提出：“如果能在国内建立一个顶级根域名服务器，则能让中国拥有网络的控制权；如果退而求其次，在短时间内建成一种完善的网络灾备系统，比如建立干净的DNS系统备份，一旦DNS解析出问题，则马上恢复到正常状态。”</div><div align="left">这种措施管用吗？如果不是美国故意使坏，这种方法可能管用；如果是美国想让中国的网络（包括INT网、国内局域网、通讯网、各种专业领域网）瘫痪，这种方法是毫无作用的。</div><div align="left">因为，中国使用的电脑，全是美国产的，电脑的最底层的启动程序和操作系统，都是美国人用“源码”编制的，对外绝对保密。中国人在美国电脑上，是编制不出电脑的最底层的“操作系统”的。中国人在美国制造的电脑上，编制任何应用程序，还必须使用美国的“电脑编程工具”软件。所以，中国人编制的软件，要想隔断美国编制的入侵“病毒”，那是根本不可能的。况且，美国在电脑操作软件中和电脑芯片中，都预置了“遥控病毒”和预留它自己制造的“病毒”入侵的“后门”。所以，从软件上和硬件上都不可能找到避免中国网络被美国瘫痪的办法。</div><div align="left">有人提出：要《联合国》出台一个“国际电脑网络安全法律”，来约束美国和世界各国的行为。这纯属“与虎谋皮”的幻想。</div><div align="left">此次网络事件之后，中国政府的领导层，才开始认识到创建中国独立自主的电脑产业体系的必要性和战略意义。</div><div align="left">国家主席习近平在2014年发给乌镇世界互联网大会的贺信中指出:“当今时代，以信息技术为核心的新一轮科技革命正在孕育兴起，互联网日益成为创新驱动发展的先导力量，深刻改变着人们的生产生活，有力推动着社会发展。”习近平还指出：“要准确把握重点领域科技发展的战略机遇，选准关系全局和长远发展的战略必争领域和优先方向，通过高效合理配置，深入推进协同创新和开放创新，构建高效强大的共性关键技术供给体系，努力实现关键技术重大突破，把关键技术掌握在自己手里。”</div><div align="left">不过，如果像“龙芯”那样，引用美国的电脑中央控制器CPU架构（Architecture，这个词用于CPU 的时候是指 CPU “接受和处理信号的方式”，及其内部元件的组织方式。），制造出来的CPU芯片，只能支持美国的“人机信息交换标准代码（ASCII）”,只可用英文操作电脑，它是不支持用汉字来操作电脑的，汉字信息还得挂接在英文信息系统上。还是摆脱不了美国的监控和黑客软件的攻击破坏。所以，唯有创建中国对立自主设计制造的纯汉字信息的电脑体系，不用美国的CPU“架构”，才能摆脱对于美国的附庸地位和阻断美国的监控和破坏。</div><div align="left">有人说：“电脑只认识0和1，与文字没有关系”。这种看法，对不对呢？且看下面的分析：</div><div align="left">电脑的基本原理就是进行二进制数字运算和逻辑运算。用来表示二进制数元0、1的物理器件，种类是很多的：如果让电容器存电表示0，那么放电就表示1；晶体二极管通电表示0，断电就表示1；光盘面上的凹点为0，平点就为1；磁盘上的铁粉带，有磁点为0，无磁点就为1；等等，凡是具有二态性并可控的东西，都可以表示二进制数元0、1。</div><div align="left">电脑的芯片，是由几千万个微型晶体二极管、三极管、电容等元件构成的。这些元件构成了二进制数字记录电路和“与门、非门、或门”基本逻辑控制、运算电路。它们怎样运行呢？他们是受电信号控制的。&nbsp;&nbsp;</div><div align="left"><font color="black">&nbsp; &nbsp;</font><font color="black">例如，人们首先设定二极管通电表示0，断电表示1。然后用0、1的不同排列来表示不同的意思。例如：</font></div><div align="left"><font color="black">如果要用四位二进制编码来表示0123456789个数字，其编码就是：0000、0001、0010、0011、0100、0101、0110、0111、1000、1001。与此四位编码对应的可以是四个电子管；与这10个数字对应的四个电子管的通、断状态就是：</font></div><div align="left"><font color="black">0000</font><font color="black">、&nbsp; &nbsp; 0001、&nbsp; &nbsp;0010、&nbsp; &nbsp;0011、&nbsp; &nbsp; 0100、&nbsp;&nbsp;0101、&nbsp; &nbsp; 0110、&nbsp; &nbsp;0111、 1000、</font></div><div align="left"><font color="black">通通通通、通通通断、通通断通、通通断断、通断通通、通断通断、通断断通、通断断断、断通通通、</font></div><div align="left"><font color="black">&nbsp;&nbsp;1001</font></div><div align="left"><font color="black">断通通断。</font></div><div align="left"><font color="black">有些初懂电脑的人们，依据这种情况，就说，“电脑只认识源码0和1，与文字没有什么关系”。</font></div><div align="left"><font color="black">这种说法，对于早起的电脑来说是对的，对于今天的电脑来说，就是错误的了。为什么？且看下面的说明：</font></div><div align="left"><font color="black">&nbsp; &nbsp;</font><font color="black">早期的电脑（电子计算机），是用0和1作为元件的二进制数字编码，作为输入指令，来操作电脑的；电脑的输出的计算结果，也是用0和1作为元件的二进制数字编码。每组二进制数字编码代表什么，是由编码者设定的，别人是不懂的。所以，早期的电子计算机的输入指令和输出结果，就如“电报密码”一样，让人很难记住，不经过长期地专门训练的普通大众，是不会使用的。</font></div><div align="left"><font color="black">为了让普通大众都会使用电脑，就在这种“二进制数字编码”与人之间，夹上一种普通大众都认识的“媒介（桥梁）”，这就是文字、图形或符号。即，用一组数字编码代表一个文字或某个图符，人们把文字或图符作为输入指令操作电脑，电脑的输出结果也是文字或图符。例如：让“0101”对应文字“5”。 只要人们想要电脑屏幕上显示“5”，就直接按一下标有“5”的键盘按钮就可以了。所以，人们就称键盘按钮上所标的“5”字，为0101的“键盘代码”，而称0101为“5”的“源码”。现在英文键盘上的a、b、c、d、----f1、 f2、&nbsp;&nbsp;1、2、3、 \、 /、 ； 、 。等键盘符号，就是这样设计的。</font></div><div align="left"><font color="black">要实现这种“数字编码与文字的对应”， 需要一套关联逻辑、计算电路和一个运用这个关联电路的程序，将二者联系起来，并把数字5显示在屏幕上。人们点击标有“5”的键盘按钮，就将这个关联程序和关联逻辑、计算电路启动起来了。</font></div><div align="left">所以，今天的电脑（电子计算机），是用键盘代码-----文字或图符，作为输入指令，来操作电脑的，电脑的输出的结果，也是文字或图符。</div><div align="left"><font color="black">所以，自从使用了“键盘代码”来操作电脑以后，电脑的编程方式，就出现了一个重大的转变：由直接的“源码编程”变为间接的“代码编程”。例如，源码“1011011000000000”是一种电脑上的一条加法指令，用键盘代码代表这个指令后，就是“ADD（英文加法一词的缩写）”。这样就使人、机之间，出现了直接的“对话”关系，即人们可以通过键盘上的文字符号与电脑直接交流信息。</font></div><div align="left">不是任何文字都可以作为“电脑键盘代码”的；能够作为“键盘代码”文字的，必须具有如下3项性能：</div><div align="left"><font color="black">1</font><font color="black">、在整字的结构上具有规律性，在元件上具有标准性和规范性。</font></div><div align="left"><font color="black">2</font><font color="black">、能让电脑用构成这种文字的基本元件，作为“人、机信息交换的标准代码”。从而用这些“标准代码”，作为指令集和字符集，在电脑上构建这种文字和编制电脑的一切操作程序、应用程序。</font></div><div align="left"><font color="black">3</font><font color="black">、能让普通人民大众很容易地学会。</font></div><div align="left">今天的英文系统，基本上具备以上3项性能。所以，美国的电脑设计制造者，就可以把英文字母作为“人、机信息交换的标准代码”，由此建立了“ACSII”代码体系。</div><div align="left"><font color="black">&nbsp;&nbsp;</font><font color="black">美国建立了“美国信息交换标准代码（ASCII）”。在“ASCII”码中，又分为两个部分：即“控制码”和“字符码”。“控制码”，又称“指令码”，可以用来编制各种程序；“字符码”，是用显示文字、图形、符号的。“ASCII”码中的每一个符，都必须有相应的“数码电路”和“逻辑电路”来支持，否则，“ASCII”码的符号就不起作用了。所以，“ASCII”码，既是给电脑硬件制造者用的，也是给电脑编程者用的。因此，以“美国信息交换标准代码（ASCII）”为基础建造的电脑，只用26个英文字母键，就能打出任何英文单词来和任何英文电脑指令来。</font></div><div align="left">当然，按照“ASCII”码标准制造出来的芯片，也可以被改成支持其他文字的芯片，但是，这样的改变，只有在支持“ASCII”码的硬件的范围内才可以进行，超过了硬件的支持范围，就无法进行了。</div><div align="left">因为汉字楷体，在结构上没有规律性、规范性和标准性，就不能用楷体汉字的构造元件或独体字，作为“人机信息交换的标准代码”。因此，在美国制造的电脑上，也不能用楷体字的元件或独体字，来顶替英文字母，来构建汉字和汉字指令。因此，也就不会有楷体汉字的“编程工具”软件、“操作系统”软件和应用软件了。这样，汉字楷体系统，就成了创建用楷体元件作为代码的电脑的“瓶颈”。</div><div align="left">由以上分析可知，对于使用源码编程操作的电脑来说，“电脑只认识0和1，与文字没有关系”的看法，是对的；而对于使用代码编程操作的电脑来说，“电脑只认识0和1，与文字没有关系”的看法，就是错的了。</div><div align="left"> </div><div align="left">当前，汉字在美国的电脑上，是怎样处理的呢？是挂接在美国电脑的英文信息系统上。挂接的方法是：</div><div align="left">仿照原先的“铅字手动打字机”的办法，对于汉字楷体字进行整字调取。这就是利用美国电脑的“图片处理功能”，来处理汉字。具体做法如下：</div><div align="left"><font color="black">第一步，把每个汉字做成一个个“小图片”。</font></div><div align="left"><font color="black">第二步，给每一个汉字赋予一个唯一的“汉字字库”的区位码（例如：啊---1601，阿---1602，</font></div><div align="left"><font color="black">呵---2639，锕---7825，吖---6325，腌---7571，嗄---6436），然后存入“汉字字模库”里。</font></div><div align="left"><font color="black">第三步，编制从字库里调取 “汉字”整体的“汉字输入程序”。然后把“汉字输入程序”和“汉字字模库”嵌入到“ASCII码”的电脑操作系统内，在该系统的管理下，通过“汉字输入程序----“汉语拼音输入法”或“汉字笔画输入法”，把汉字从“汉字字模库”里调出，字库里预存了多少个汉字，使用者就只能调出多少个汉字来，凡是字库里没有的汉字，就调不出来了。所以用GB2302字符集只能调出6763个汉字，用GBK字符集可调出出20902个汉字，用GB18030字符集可调出27487个汉字，用Unicode字符集可调出27801个汉字。但方块汉字何止这2万多个，据有些资料统计，方块汉字大约在十万个以上，并且还会随着社会发展，新生事物不断出现，表示新事物的新字，就需要不断地创建。所以，就必须随着新的汉字的不断增加而不断地向汉字字库里添加新的汉字。但是，往现有的字库里添加一个新字，要涉及到“汉字国际标准”的更新问题，涉及到很多应用程序。例如，各种字体的“字体模库”，输入法、两种字体的转换程序，等等，都必须跟着改变。这就成了一个很浩繁的系列工程。况且，字数越多，出现的重码率就越高，重码率越高，用字就越不方便。</font></div><div align="left">这种“汉字输入程序”，最基本的只如下有两种：</div><div align="left"><font color="black">1</font><font color="black">、拼音输入法。这种输入法，适合“见字会读音”的人们使用。这种输入法的制作思路是：首先，给每一个楷体汉字，赋予表示这个字的汉语音素的“键盘代码”，用这种“键盘代码”，来拼写每个汉字的读音，这组表示这个汉字读音的“键盘代码”，就作为这个汉字的“命名”。然后编一个《汉字拼音输入法》程序，把每一个字的“命名”与这个字在字库里的区位码关联起来。例如：楷体字“啊，阿，呵，锕，吖，腌，嗄”，的汉语拼音字母，在英文键盘上的键盘代码都设定为“a”； “啊，阿，呵，锕，吖，腌，嗄”在汉字字库的区位码，分别设定为“1601，1602，2639，7825，6325，7571，6436”； 《汉字拼音输入法》程序，把英文键盘代码“a”与“1601，1602，2639，7825，6325，7571，6436”都关联起来以后，当打开《汉字拼音输入法》程序时，在英文键盘上按下“a”键钮，汉字“啊，阿，呵，锕，吖，腌，嗄”就同时出现在列表中了；打字者可以从这个列表中选取所需用的字。</font></div><div align="left"><font color="black">2</font><font color="black">、笔画输入法。这种输入法，适合见字不会读音的人们使用。这种输入法的制作思路是：</font></div><div align="left"><font color="black">首先对所有的楷体汉字的结构进行分析，对楷体汉字的结构零件（字根）进行分组；然后给每一组“字根”，赋予一个“键盘代码”。一个字能分解成几个部件（例如“阿”，可以分解为“file:///C:/DOCUME~1/ADMINI~1/LOCALS~1/Temp/msohtml1/01/clip_image001.gif”、“丁”、“口”），就用几个部件的键盘代码组成这个字的命名，这样，“阿”的键盘名就是BSK；然后，再把这个字的命名与这个字在字库中的“区位码”关联起来；再编一个“汉字笔画输入法”程序，把这个字的“键盘命名”，作为从汉字字库里调取这个汉字的“指令”。要调出这个字时，只要输入这个字的“键盘命名”，就把这个字调出来了。《五笔输入法》，就是按这种思路编制的。</font></div><div align="left"><font color="black">下图就展示了构字部件与键盘代码的对应关系：</font></div><div align="left"><font color="black">file:///C:/DOCUME~1/ADMINI~1/LOCALS~1/Temp/msohtml1/01/clip_image002.gif</font></div><div align="left"><font color="black">把楷体字部件：file:///C:/DOCUME~1/ADMINI~1/LOCALS~1/Temp/msohtml1/01/clip_image003.gif都设定对应Q键盘代码；</font></div><div align="left"><font color="black">把楷体字部件：file:///C:/DOCUME~1/ADMINI~1/LOCALS~1/Temp/msohtml1/01/clip_image004.gif都设定对应W键盘代码；</font></div><div align="left"><font color="black">。。。。。。。。。。。。。。。。。。</font></div><div align="left"><font color="black">例如：要在电脑上用键盘代码调出“阿”字。打字者，先把“阿”字，分解成“file:///C:/DOCUME~1/ADMINI~1/LOCALS~1/Temp/msohtml1/01/clip_image001.gif”、“丁”、“口”三个部件。“file:///C:/DOCUME~1/ADMINI~1/LOCALS~1/Temp/msohtml1/01/clip_image001.gif””部件对应着B键，“丁”部件对应着S键，“口” 部件对应着K键，然后依次点击B键、S键、K键，就把所有的带有“file:///C:/DOCUME~1/ADMINI~1/LOCALS~1/Temp/msohtml1/01/clip_image001.gif”、“丁”、“口”部件的楷体汉字都从汉字库里调取出来了，从这些字的“列表”中，就可以找到“阿”字，点击列表中的“阿”字前的编号，“阿”字就上编辑屏幕了。</font></div><div align="left"><font color="black">今天人们常用的《笔画输入法》和《汉语拼音输入法》，都是“整字调取法”。不是用汉字的基本笔画“点、横、竖、撇、捺。。。。。”或楷体汉字的“部件”在电脑上组建出来的。</font></div><div align="left"><font color="black">这两种输入法，都存在着背负大字库问题、“重码字”问题、字库里没有的字就打不出来的问题、错字多问题、速度慢问题。。。。。。。。 </font></div><div align="left">目前电脑在调用汉字方面，与用老式的铅字打字机相比，没什么本质的变化。只是把“铅字盘”换成“图形字库”罢了。所以，先进的电脑给汉字带来的好处是很有限的。有人说用“词索输入法”可以提高输入速度。其实，“词索输入法”除了让电脑先从几万个汉字中找出重码字外，还必须再根据这些重码字关联出双音词或多音句来。其实，这种办法效果并不大，因为，汉语的合成词是任何人都可以随意组建的，是无限的。所以，再大的电脑词库，也不可能把无限的汉语词汇都包括进去。即使搞一个1千亿词的词库（这将使汉字打字程序变得十分复杂和庞大，用起来成本加大），也不能避免同音词和同音句的出现。</div><div align="left">只要使用美国的电脑，不单楷体汉字必须通过英文代码程序才能显示出来，凡是没有相应的电脑芯片支持的其他任何文字和符号，都必须通过英文代码的程序才能显示出来。这样，除了英文以外，凡是通过英文代码的程序显示出来的文字和符号，都是英文的“面具”，都是假“茅台酒”的外包装。英文代码的操作系统软件Windows、linux ，应用软件Word、office、网页、等等，都可以涂上汉字、日文、蒙文、阿拉伯文、俄文、法文等等文字“漆层”。但是，英文代码的“编程工具”软件（例如C++、 FoxPro 等等）却不能涂上外文“涂层”。因为，电脑调用的楷体汉字会出现重码字；其他拼音字母文字的字母，与英文字母在数量上也不是正巧相同的，组建的单词结构与英语单词结构也不是相同的，不能一一对应起来的。</div><div align="left">所以，凡是使用不以自己的文字为“信息交换标准代码”的电脑、而是使用美国制造的电脑的国家，不论其文字是否为线性拼音字母文字还是方块文字，都必须通过“ASCII”码，调用文字；其文字信息，都必须挂接在英文信息系统上。</div><div align="left">在1992年，美国对ASCII码中的“字符码”，进行了扩充，使它包括了世界各个国家的文字的“构建元件”和符号。其中《康熙字典》中的汉字意符224个，CJL表意符号（包括汉字）20928个。由此称为“国际标准代码Unicode”。</div><div align="left"><font color="black">由于“国际标准代码Unicode”只扩充了“字符码”，没有扩充“控制码”。所以，以Unicode为代码建立的电脑，虽然可以调取和显示各国的“文字”，但是，不能使用英文字母以外的文字来编制程序。这样，在“ASCII”码和“Unicode”码为基础的电脑上，就不能建立“英文以外的文字的信息系统”了。所以，在“ASCII”码和“Unicode”码为基础的美国的电脑上，汉字信息、俄文信息、日文信息、希腊文信息。。。。。。。。，都只能挂接在英文信息系统上了。-----如果让别国的文字信息系统与美国的英文信息系统脱钩，美国就不能垄断全球的电脑商业利益和随意监控别国了。</font></div><div align="left"><font color="black"> </font></div><div align="left">中国的一些人以为，把方块汉字改成线性排列的“拉丁化汉字”，就能解决目前楷体在电脑上的一切缺点和问题了，就“与国际接轨”了，这是不懂电脑工作原理者的幻想。为什么？</div><div align="left"><font color="black">因为，第一，拉丁化的“汉字”，要区别汉语中大量的“同音异义词”，就必须夹上“哑音”字母。这类“哑音字母”也是那26个拉丁字母。它们与读音的拉丁字母排列在一起，就让人们很难记住哪些字母该读音，哪些字母不该读音，比楷体汉字还难学会。所以，绝对不会被中国人接受。</font></div><div align="left"><font color="black">第二，即使拉丁化的“汉字”能用，也不能直接移植到英文代码编制的C++之类的编程工具上和各种应用程序上，代替英文程序指令。因为拉丁化的“汉字”没有英文单词的语法特性，拉丁化的“汉字”与英文程序指令单词，不能一一对应。即使将“编程工具程序”、“底层操作程序”和各层的“应用程序”，全部都用拉丁化的“汉字”代码来做，原来支持英文代码的各层软件的电子芯片，也不是全部都能支持“拉丁化”的汉字代码指令的。</font></div><div align="left">Linuxd 电脑操作程序的源码是公开的，但是，世界各国，却不能利用它来创作自己的电脑操作系统和编程工具软件。为什么？因为Linuxd仍然是依美国的ASCLL码为基础建立起来的。程序的代码语言仍然是英语和支持ASCLL码的电脑硬件芯片。其他国家的语言文字的特性与英语英文不同，单词结构和单词含义，不会都与英文单词一一对应，所以，即使购买了美国的电脑芯片和知道程序的源码，也不能用本国的文字元件来取代美国的ASCII码，从而建立起本国文字的电脑信息体系。</div><div align="left">中国的红旗电脑操作系统，就是用Linux源码做成的，但是仍然是英文信息系统的附庸。因为，Linuxd系统，仍然是建立在ASCII码基础上的。</div><div align="left"><font color="black"> </font></div><div align="left"><font color="black">file:///C:/DOCUME~1/ADMINI~1/LOCALS~1/Temp/msohtml1/01/clip_image005.gif</font></div><div align="left">凡是以美国的“ASCII”码为基础制造的电脑，都是用英文作为“人、机对话”的第一“桥梁”的。（人---英文键盘代碼---源码---显示屏）。其它文字，只能再通过英文，间接地实现“人、机对话”。（人---英文键盘代码---源码---其他文---显示屏）那么，其他的文字，就是第二级“桥梁”了。显然，第二桥梁的文字是依靠第一桥梁的文字才能被电脑使用的。目前，汉字就是汉语人使用美国电脑的“第二桥梁”。</div><div align="left">既然楷体汉字只能作为“第二桥梁”被使用，那么，目前的电脑的楷体汉字信息，就必须挂接在英文信息系统上。</div><div align="left">有人说，中国可以不制造电脑CPU芯片，买来美国的CPU芯片，用源码编程方式，编制一套电脑操作系统和一切应用软件，就可以跳出美国的魔魇了。有这种观点的人，想得太天真了。</div><div align="left">首先，今天的电脑程序，都是用英文代码编制的，都是用英文来操作的。你用源码之的程序，等于倒退到50年前的原始阶段，除了电脑编程专家可以使用，广大的普通民众，谁能学会？</div><div align="left">如果要用汉字来代表源码的指令，而美国的电脑CPU却没有支持汉字当指令的能力。所以，根本行不通。如果可行的话，汉字信息也不会挂接在英文信息系统上，背上巨大的汉字字模库，进行整字调取了。</div><div align="left"><font color="black">目前，中国使用的电脑、手机等等信息产品，其软件都是以“美国信息交换标准代码”（ASCII码）为基础的。所以，中国的软件制作人员，所使用的编程工具软件，都是英文代码指令的。这样，中国人在美国制造的电脑上，即使重新编制“底层操作系统”，也照样摆脱不了美国的监控。所以，我国所使用的电脑软件，中国人无法作实质性的改变。</font></div><div align="left">因此，40多年来，中国的一些人企图在美国的电脑上，创建一种比五笔输入法和拼音输入法更好的汉字输入法，绞尽脑汁想了各种办法，出现了“万码奔腾”的局面。却只能在“整字调取”的框框内转悠；不论想了多少“汉字输入法”，楷体汉字在电脑上输入的问题：重码字、字库局限性、速度慢问题，一个也没有解决。</div><div align="left">在电脑核心部件的制造权和电脑网络主权都完全被美国掌控的情况下，美国电脑在中国普及得越广越深，中国被美国套得就越牢。就如吸鸦片一样，虽然感到很舒服，但是，吸得越多，死得越惨。</div><div align="left"><font color="black"> </font></div><div align="left">中国从1980年以后，停止了电子计算机“中央控制器”的研发，放弃了对“信息时代”制高点的争夺，这是一个与200年前康熙皇帝拒绝进行中、英贸易和实行工业制造，导致中国落后于“工业化时代”的错误一样，也是一个巨大的历史性的战略错误。</div><div align="left">在今天的信息化时代，众多信息核心的技术，基本都掌握在西方国家特别是美国手中。中国要想成为一个强国，就必须拥有自己的信息核心技术。而要拥有自己的信息核心技术，靠购买别国的技术专利是不行的，必须依靠自己的力量进行创新，并不断地研发出拥有自主知识产权的关键技术产品，才能在世界竞争中永远立于不败之地。所以，中国要想真正跟上信息化时代，彻底摆脱美国的信息绞索，唯一正确的办法，就是要创建独立自主的以汉字元件为“人、机信息交换标准代码”的电脑产业体系。</div><div align="left">但是，创建这样的电脑产业体系，缺少人才，可以引进或者自己培养出来；缺少电脑的硬件、软件的制造技术和设备，也可以自己创造出来；唯有汉字楷体系统，找不到可以作为“人、机信息交换代码”的元件。这个问题不解决，中国就不能创造出支持汉字的电脑核心部件“电脑中央控制器（CPU）”和纯汉字的底层操作程序和各种应用程序。因此，中国也就不会有“摆脱美国电脑“构架”的、独立自主的、纯汉字的电脑信息产业体系”。如何解决这一问题呢？</div><div align="left">唯一正确的办法，就是把汉字楷体系统升级为具有“人、机信息交换”的3项性能的文字----- “意、音双表新体汉字系统”。</div><div align="left">为什么只能使用“意、音双表新体汉字系统”更新汉字楷体系统，而不能使用别的“文字系统”更新汉字楷体系统呢？</div><div align="left">因为，“意、音双表新体汉字系统”是沿着汉字发展的正确方向而创造出来的，它如篆体升级为隶体，隶体升级为楷体一样，是汉字楷体系统的升级版。它继承了楷体系统的一切优点，克服了楷体系统的一切缺点，并且能与楷体系统实现“无缝转换”。</div><div align="left"><font color="black">file:///C:/DOCUME~1/ADMINI~1/LOCALS~1/Temp/msohtml1/01/clip_image006.gif</font></div><div align="left"><font color="black">由于实现了“无缝转换”，所以，在更新过程中，既不需要“先破后立”，也不需要“逐渐进行”，而是如下棋过程中更换新、旧棋子似的自然、轻易地就实现了。</font></div><div align="left"><font color="black"> </font></div><div align="left"><font color="black"> </font><font color="black">“意、音双表新体汉字系统”，只用79个元件（参见“意、音双表新体汉字键盘示意图的红色键盘符”）作为汉字信息交换标准代码，就可建立起“新体汉字信息交换标准代码体系”。然后，再依据这种体系，制造出支持这种代码体系的计算电路和逻辑电路，即创建出支持纯新体汉字信息的电脑中央控制器（CPU）和相关的一切芯片。由此，编制出电脑的底层操作程序和一切应用程序。</font></div><div align="left"><font color="black">file:///C:/DOCUME~1/ADMINI~1/LOCALS~1/Temp/msohtml1/01/clip_image007.gif</font></div><div align="left"><font color="black">file:///C:/DOCUME~1/ADMINI~1/LOCALS~1/Temp/msohtml1/01/clip_image008.gif</font></div><div align="left">如果中国创建了独立自主的纯汉字电脑信息系统，并建立起覆盖全球的汉字信息网络，将令中国跟上“信息时代”发展的步伐，彻底摆脱“科技殖民地”和“网中之鱼”的窘境。同时，将使中国的经济、科技、文化、军事等一切领域，都跻身于世界上最先进的国家行列。</div><div align="left">有人说：“如果中国创建了独立自主的纯汉字电脑信息系统，就会与国际（美国）电脑网络脱轨了，就闭关锁国了。”说这话的人，不是无知就是别有用心。如果中国真的创建了中国独立自主的纯汉字电脑信息系统，并建立了覆盖全球的电脑网络，那时世界上就会有两种网络。这两种网络之间，只要编制一种“中、英文信息转换程序”，就如今天汉字“简体”转换“繁体”一样，十分容易地就实现了互相“接轨”。那时，才叫做真正的“与国际接轨”。今天一些人鼓吹的“与国际接轨”，其实就是投靠美国。因为中国这边根本没有什么“轨”，奢谈什么“与国际（美国）接轨”？</div><div align="left">把汉字楷体系统升级为意、 音双表新体汉字系统，可以解决创建独立自主的纯汉字电脑信息系统的“瓶颈”问题。但是，把汉字楷体系统升级为意、音双表新体汉字系统，却又遇到了另一种“瓶颈”。 </div><div align="left"> 这种“瓶颈”是什么呢？就是坚决反对升级楷体系统的“楷字保守派”和坚持把汉字楷体实行“英文字母化”的“汉字拉丁派”的联合反对。当前,这两派都在学术界和政治界的很多关键部门，掌握着重要的权力，他们的谬论也在社会上蒙蔽了很多人，他们的利益网络也遍布于社会很多领域。他们顽固坚持他们的观点的原因，不是为了学术，而是为了维护他们的既得利益。升级汉字楷体系统损害了他们的接的利益，他们就用自己掌握的那点权力和影响力，制造障碍，来阻止汉字楷体系统升级为“意音双表新题汉字系统”。所以，2014年以后，虽然国家政府的领导层开始推动创建中国独立自主的电脑信息产业体系了，但是，汉字保守派和汉字拉丁派，把这个楷体升级的进程阻断或转移方向，创建中国独立自主的纯汉字电脑信息的产业体系，就不能实现了。他们的这种做法，直接配合了美国遏制中国崛起的战略计划。所以，如果政府领导层不下最大的决心清除汉字保守派和汉字拉丁派所制造的一切障碍，中国独立自主的电脑信息产业体系是绝对创建不起来的。</div><div align="left"><font color="black"> </font></div><div align="left">(本文中有多个图片。在此不能显示。要看全文的，可以下载下面的本文压缩件：)</div><div align="left">
+<ignore_js_op>
+
+<img src="static/image/filetype/rar.gif" border="0" class="vm" alt="" />
+<span style="white-space: nowrap" id="attach_320007" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})">
+
+<a href="http://bbs.gmw.cn/forum.php?mod=attachment&amp;aid=MzIwMDA3fGY4Zjk5MjlifDE0NTA2NzcxODN8MHwzNDY4OTc4" target="_blank">中国为什么造不出汉字代码的电脑.rar</a>
+
+<em class="xg1">(87.24 KB, 下载次数: 3753)</em>
+</span>
+<div class="tip tip_4" id="attach_320007_menu" style="position: absolute; display: none" disautofocus="true">
+<div class="tip_c xs0">
+<div class="y">2015-12-6 19:26 上传</div>
+点击文件名下载附件
+
+</div>
+<div class="tip_horn"></div>
+</div>
+
+</ignore_js_op>
+</div><br />
+<br />
+<br />
+<br />
+
+<!--ruijilong fenye-->
+
+</td></tr></table>
+
+<div class="modact"><a href="http://bbs.gmw.cn/forum.php?mod=misc&amp;action=viewthreadmod&amp;tid=3468978" title="帖子模式" onclick="showWindow('viewthreadmod', this.href)">本主题由 展飞 于 2015-12-6 19:34 审核通过</a></div>
+</div>
+<div id="comment_11361946" class="cm">
+</div>
+
+<div id="post_rate_div_11361946"></div>
+<div style="margin-bottom:-10px; overflow:hidden;"><!--notbaidu is bShare Button BEGIN --><div class="bshare-custom"><div class="bsPromo bsPromo2"></div><a title="分享到" href="http://www.bShare.cn/" id="bshare-shareto" class="bshare-more">分享到</a><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到微信" class="bshare-weixin" href="javascript:void(0);"></a><span style="float: none;" class="BSHARE_COUNT bshare-share-count">37K</span>&nbsp;<a title="更多平台" class="bshare-more bshare-more-icon"></a></div><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script><!-- bShare Button END --></div></div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+<div id="p_btn" class="mtw mbm hm cl">
+<div class="tshare cl">
+<b>分享到:&nbsp;</b>
+
+
+<a href="http://bbs.gmw.cn/home.php?mod=spacecp&ac=plugin&id=qqconnect:spacecp&pluginop=share&sh_type=4&thread_id=3468978" id="k_share_to_qq" title="QQ好友和群" target="_blank"><i><img src="static/image/common/qq_share.png" alt="QQ好友和群" />QQ好友和群</i></a>
+<a href="javascript:void(0);" id="k_qqshare" onclick="postToQzone();" title="QQ空间"><i><img src="static/image/common/qzone.gif" alt="QQ空间" />QQ空间</i></a>
+<a href="javascript:void(0)" onclick="postToWb();" id="k_weiboshare" title="腾讯微博"><i><img src="static/image/common/weibo.png" alt="腾讯微博" />腾讯微博</i></a>
+<a href="javascript:void(0);" onclick="postToPengyou();" id="k_pengyoushare" title="腾讯朋友"><i><img src="static/image/common/pengyou.png" alt="腾讯朋友" />腾讯朋友</i></a>
+<script type="text/javascript">
+function postToWb(){
+var _t = encodeURI(document.title);
+var _url = encodeURIComponent(document.location);
+var _appkey = encodeURI("ce7fb946290e4109bdc9175108b6db3a");
+var _pic = "";
+var _site = encodeURIComponent("光明社区");
+var _from = 'discuz';
+var _u = 'http://v.t.qq.com/share/share.php?url='+_url+'&appkey='+_appkey+'&site='+_site+'&pic='+_pic+'&title='+_t+'&from='+_from;
+window.open( _u,'', 'width=700, height=680, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' );
+}
+function postToPengyou(){
+var _url = encodeURIComponent(document.location.href);
+var _site = encodeURIComponent("光明社区");
+var _title = encodeURIComponent("中国为什么造不出汉字代码的电脑？");
+var _pics = "";
+var _from = 'discuz';
+var _u = 'http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?to=pengyou&url='+_url+'&site='+_site+'&title='+_title+'&pics='+_pics+'&from='+_from;
+window.open(_u);
+}
+</script>
+	
+
+</div>
+
+<a href="http://blog.gmw.cn/home.php?mod=spacecp&amp;ac=favorite&amp;type=thread&amp;id=3468978&amp;formhash=1680d295" id="k_favorite" onclick="showWindow(this.id, this.href, 'get', 0);" onmouseover="this.title = $('favoritenumber').innerHTML + ' 人收藏'" title="收藏本帖"><i><img src="static/image/common/fav.gif" alt="收藏" />收藏<span id="favoritenumber" style="display:none">0</span></i></a>
+<a class="sharep" href="home.php?mod=spacecp&amp;ac=share&amp;type=thread&amp;id=3468978" onclick="showWindow('sharethread', this.href, 'get', 0);" title="分享推精华"><i><img src="static/image/common/oshr.png" alt="分享" />分享</i></a>
+<a id="recommend_add" href="forum.php?mod=misc&amp;action=recommend&amp;do=add&amp;tid=3468978&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = $('recommendv_add').innerHTML + ' 人顶'" title="顶一下"><i><img src="static/image/common/rec_add.gif" alt="顶" />顶<span id="recommendv_add" style="display:none">0</span></i></a>
+<a id="recommend_subtract" href="forum.php?mod=misc&amp;action=recommend&amp;do=subtract&amp;tid=3468978&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = $('recommendv_subtract').innerHTML + ' 人踩'" title="踩一下"><i><img src="static/image/common/rec_subtract.gif" alt="踩" />踩<span id="recommendv_subtract">1</span></i></a>
+</div>
+        <!--wangaimin add start -->
+<!--wangaimin add end -->
+</td>
+</tr>
+<tr id="_postposition11361946"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;reppost=11361946&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_11361946" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport11361946', 'misc.php?mod=report&rtype=post&rid=11361946&tid=3468978&fid=9', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_11361946_menu" class="p_pop mgcmn" style="display: none;">
+<li><a href="http://blog.gmw.cn/home.php?mod=magic&amp;mid=bump&amp;idtype=tid&amp;id=3468978" id="a_bump" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/bump.small.gif" />提升卡</a></li>
+<li><a href="http://blog.gmw.cn/home.php?mod=magic&amp;mid=highlight&amp;idtype=tid&amp;id=3468978" id="a_stick" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/highlight.small.gif" />变色卡</a></li>
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_11361946')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+<div class="a_p"><script type="text/javascript"><!--
+google_ad_client = "pub-7069832245118622";
+/* 728x90, 创建于 11-3-8 */
+google_ad_slot = "5396847894";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div></td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+<!-- 90427：论坛-内-贴间通栏 类型：固定广告位 尺寸：728x90 -->
+<script type="text/javascript">
+_acK({aid:90427,format:0,mode:1,gid:1,sendreferer:1,serverbaseurl:"afp.csbew.com/"});
+</script>
+</td>
+</tr>
+</table>
+</div><div id="post_11362913" ><table id="pid11362913" class="plhin" summary="pid11362913" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar11362913" class="pls favatar">
+ <div class="pi">
+<div class="authi"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=42179" target="_blank" class="xw1">吴天祥</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo11362913" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo11362913_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=42179" target="_blank" class="xi2">吴天祥</a></strong>
+<em>当前离线</em>
+</div><div>主题:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=42179&do=thread&type=thread&view=me&from=space" class="xi2"></a></em></div><div>帖子:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=42179&do=thread&type=reply&view=me&from=space" class="xi2"></a></em></div><div>积分:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=42179&do=profile" class="xi2">1584</a></em></div><br /><div class="imicn">
+<a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=42179&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=42179" class="avtm" target="_blank"><img src="http://uc.gmw.cn/avatar.php?uid=42179&size=middle" /></a></div>
+<div style="margin-left:20px;margin-bottom:5px;margin-right:5px;">来自&nbsp;</div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="http://bbs.gmw.cn/forum.php?mod=redirect&goto=findpost&ptid=3468978&pid=11362913"   id="postnum11362913" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+推荐
+</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon11362913" src="static/image/common/online_member.gif" />
+<em id="authorposton11362913">发表于 2015-12-6 21:11:37</em>
+<span class="pipe">|</span>
+<a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;tid=3468978&amp;page=1&amp;authorid=42179" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_11362913">
+<font face="楷体,楷体_GB2312"><font size="6"><strong>难得一见的、战略性的好文章，忧国忧民之心、奋发图强之心跃于纸上，开阔了人们的视野，仔细阅读了几遍，谢谢！ 北化大，吴天祥敬上。</strong></font></font><br />
+</td></tr></table>
+
+
+</div>
+<div id="comment_11362913" class="cm">
+</div>
+
+<div id="post_rate_div_11362913"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+        <!--wangaimin add start -->
+<!--wangaimin add end -->
+</td>
+</tr>
+<tr id="_postposition11362913"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;repquote=11362913&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+<a class="replyadd" href="forum.php?mod=misc&amp;action=postreview&amp;do=support&amp;tid=3468978&amp;pid=11362913&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_support_11362913').innerHTML ? $('review_support_11362913').innerHTML : 0) + ' 人 支持'">支持 <span id="review_support_11362913">1</span></a>
+<a class="replysubtract" href="forum.php?mod=misc&amp;action=postreview&amp;do=against&amp;tid=3468978&amp;pid=11362913&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_against_11362913').innerHTML ? $('review_against_11362913').innerHTML : 0) + ' 人 反对'">反对 <span id="review_against_11362913">0</span></a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_11362913" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport11362913', 'misc.php?mod=report&rtype=post&rid=11362913&tid=3468978&fid=9', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_11362913_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_11362913')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_11362600" ><table id="pid11362600" class="plhin" summary="pid11362600" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar11362600" class="pls favatar">
+ <div class="pi">
+<div class="authi"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=267874" target="_blank" class="xw1">力学</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo11362600" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo11362600_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=267874" target="_blank" class="xi2">力学</a></strong>
+<em>当前离线</em>
+</div><div>主题:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=267874&do=thread&type=thread&view=me&from=space" class="xi2"></a></em></div><div>帖子:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=267874&do=thread&type=reply&view=me&from=space" class="xi2"></a></em></div><div>积分:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=267874&do=profile" class="xi2">4276</a></em></div><br /><div class="imicn">
+<a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=267874&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=267874" class="avtm" target="_blank"><img src="http://uc.gmw.cn/avatar.php?uid=267874&size=middle" /></a></div>
+<div style="margin-left:20px;margin-bottom:5px;margin-right:5px;">来自&nbsp;</div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="http://bbs.gmw.cn/forum.php?mod=redirect&goto=findpost&ptid=3468978&pid=11362600"   id="postnum11362600" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+推荐
+</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon11362600" src="static/image/common/online_member.gif" />
+<em id="authorposton11362600">发表于 2015-12-6 20:39:31</em>
+<span class="pipe">|</span>
+<a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;tid=3468978&amp;page=1&amp;authorid=267874" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_11362600">
+我认为，无论是中国语言还是美国语言，都是可以通过《简称》而统一起来的。<br />
+<br />
+例如，中华人民共和国-----简称------ZRG<br />
+<br />
+例如，美利坚合众国------简称------USA<br />
+<br />
+例如，北京消毒碗柜生产销售联营公司------简称------北消------BX<br />
+<br />
+例如，美国废旧轮船解体拆卖公司------简称------美废-----MF<br />
+<br />
+例如，古代文物出口贸易协商会议厅------简称------古商-----GS<br />
+<br />
+这样一来，中国语言与美国语言，就没有区别。<br />
+<br />
+这不是讽刺。是科学。<br />
+</td></tr></table>
+
+
+</div>
+<div id="comment_11362600" class="cm">
+</div>
+
+<div id="post_rate_div_11362600"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+        <!--wangaimin add start -->
+<!--wangaimin add end -->
+</td>
+</tr>
+<tr id="_postposition11362600"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;repquote=11362600&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+<a class="replyadd" href="forum.php?mod=misc&amp;action=postreview&amp;do=support&amp;tid=3468978&amp;pid=11362600&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_support_11362600').innerHTML ? $('review_support_11362600').innerHTML : 0) + ' 人 支持'">支持 <span id="review_support_11362600">1</span></a>
+<a class="replysubtract" href="forum.php?mod=misc&amp;action=postreview&amp;do=against&amp;tid=3468978&amp;pid=11362600&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_against_11362600').innerHTML ? $('review_against_11362600').innerHTML : 0) + ' 人 反对'">反对 <span id="review_against_11362600">0</span></a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_11362600" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport11362600', 'misc.php?mod=report&rtype=post&rid=11362600&tid=3468978&fid=9', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_11362600_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_11362600')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_11362832" ><table id="pid11362832" class="plhin" summary="pid11362832" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar11362832" class="pls favatar">
+ <div class="pi">
+<div class="authi"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=1431672" target="_blank" class="xw1">龙哲子</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo11362832" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo11362832_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=1431672" target="_blank" class="xi2">龙哲子</a></strong>
+<em>当前离线</em>
+</div><div>主题:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=1431672&do=thread&type=thread&view=me&from=space" class="xi2"></a></em></div><div>帖子:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=1431672&do=thread&type=reply&view=me&from=space" class="xi2"></a></em></div><div>积分:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=1431672&do=profile" class="xi2"><span title="23491">2万</span></a></em></div><br /><div class="imicn">
+<a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=1431672&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=1431672" class="avtm" target="_blank"><img src="http://uc.gmw.cn/avatar.php?uid=1431672&size=middle" /></a></div>
+<div style="margin-left:20px;margin-bottom:5px;margin-right:5px;">来自&nbsp;</div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="http://bbs.gmw.cn/forum.php?mod=redirect&goto=findpost&ptid=3468978&pid=11362832"   id="postnum11362832" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>3</em><sup>#</sup></a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon11362832" src="static/image/common/online_member.gif" />
+<em id="authorposton11362832">发表于 2015-12-6 21:02:41</em>
+<span class="pipe">|</span>
+<a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;tid=3468978&amp;page=1&amp;authorid=1431672" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_11362832">
+<strong><font color="Navy">怎么会造不出呢？杞人忧天。<br />
+<br />
+从理论上上，任何语言文字都可以转换为二进制或三进制编码，这个不是问题。<br />
+<br />
+古为今用洋为中用，很正常；鄙人并不赞同开发独立的汉字电脑系统，除非它是世界的。</font></strong><img src="static/image/smiley/default/smile.gif" smilieid="1" border="0" alt="" /></td></tr></table>
+
+
+</div>
+<div id="comment_11362832" class="cm">
+</div>
+
+<div id="post_rate_div_11362832"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+        <!--wangaimin add start -->
+<!--wangaimin add end -->
+</td>
+</tr>
+<tr id="_postposition11362832"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;repquote=11362832&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+<a class="replyadd" href="forum.php?mod=misc&amp;action=postreview&amp;do=support&amp;tid=3468978&amp;pid=11362832&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_support_11362832').innerHTML ? $('review_support_11362832').innerHTML : 0) + ' 人 支持'">支持 <span id="review_support_11362832"></span></a>
+<a class="replysubtract" href="forum.php?mod=misc&amp;action=postreview&amp;do=against&amp;tid=3468978&amp;pid=11362832&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_against_11362832').innerHTML ? $('review_against_11362832').innerHTML : 0) + ' 人 反对'">反对 <span id="review_against_11362832"></span></a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_11362832" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport11362832', 'misc.php?mod=report&rtype=post&rid=11362832&tid=3468978&fid=9', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_11362832_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_11362832')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_11380055" ><table id="pid11380055" class="plhin" summary="pid11380055" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar11380055" class="pls favatar">
+ <div class="pi">
+<div class="authi"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=2736772" target="_blank" class="xw1">vfbpgyfk</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo11380055" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo11380055_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=2736772" target="_blank" class="xi2">vfbpgyfk</a></strong>
+<em>当前离线</em>
+</div><div>主题:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=2736772&do=thread&type=thread&view=me&from=space" class="xi2"></a></em></div><div>帖子:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=2736772&do=thread&type=reply&view=me&from=space" class="xi2"></a></em></div><div>积分:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=2736772&do=profile" class="xi2">157</a></em></div><br /><div class="imicn">
+<a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=2736772&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=2736772" class="avtm" target="_blank"><img src="http://uc.gmw.cn/avatar.php?uid=2736772&size=middle" /></a></div>
+<div style="margin-left:20px;margin-bottom:5px;margin-right:5px;">来自&nbsp;</div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="http://bbs.gmw.cn/forum.php?mod=redirect&goto=findpost&ptid=3468978&pid=11380055"   id="postnum11380055" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>5</em><sup>#</sup></a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon11380055" src="static/image/common/online_member.gif" />
+<em id="authorposton11380055">发表于 2015-12-8 13:12:04</em>
+<span class="pipe">|</span>
+<a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;tid=3468978&amp;page=1&amp;authorid=2736772" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_11380055">
+计算机的核心是二进制，简单地讲，就是开与关的问题。我们还知道，一连串的二进制编码就能代表任何事物，所以，汉字也可以用二进制编码来体现（汉字显现在电脑屏幕中，就是二进制编码的切实体现）。同理，以汉字编制的程序，也是完全可行的事情，只是需要有人去开拓。以什么文字表述程序或操作，只是表面现象，实质仍然是二进制编码问题。<br />
+从文字角度讲，汉字要比英文优势的多，如果一个人能够掌握三千个汉字，此人至少要是初中以上的语文水平，然而，如果一个人掌握了三千个英语单词，大概连小学水平都不到。</td></tr></table>
+
+
+</div>
+<div id="comment_11380055" class="cm">
+</div>
+
+<div id="post_rate_div_11380055"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+        <!--wangaimin add start -->
+<!--wangaimin add end -->
+</td>
+</tr>
+<tr id="_postposition11380055"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;repquote=11380055&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+<a class="replyadd" href="forum.php?mod=misc&amp;action=postreview&amp;do=support&amp;tid=3468978&amp;pid=11380055&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_support_11380055').innerHTML ? $('review_support_11380055').innerHTML : 0) + ' 人 支持'">支持 <span id="review_support_11380055"></span></a>
+<a class="replysubtract" href="forum.php?mod=misc&amp;action=postreview&amp;do=against&amp;tid=3468978&amp;pid=11380055&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_against_11380055').innerHTML ? $('review_against_11380055').innerHTML : 0) + ' 人 反对'">反对 <span id="review_against_11380055"></span></a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_11380055" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport11380055', 'misc.php?mod=report&rtype=post&rid=11380055&tid=3468978&fid=9', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_11380055_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_11380055')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_11381476" ><table id="pid11381476" class="plhin" summary="pid11381476" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar11381476" class="pls favatar">
+ <div class="pi">
+<div class="authi"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511" target="_blank" class="xw1">sunzhenpo</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo11381476" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo11381476_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511" target="_blank" class="xi2">sunzhenpo</a></strong>
+<em>当前离线</em>
+</div><div>主题:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=44511&do=thread&type=thread&view=me&from=space" class="xi2"></a></em></div><div>帖子:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=44511&do=thread&type=reply&view=me&from=space" class="xi2"></a></em></div><div>积分:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=44511&do=profile" class="xi2">5213</a></em></div><br /><div class="imicn">
+<a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511" class="avtm" target="_blank"><img src="http://uc.gmw.cn/avatar.php?uid=44511&size=middle" /></a></div>
+<div style="margin-left:20px;margin-bottom:5px;margin-right:5px;">来自&nbsp;</div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="http://bbs.gmw.cn/forum.php?mod=redirect&goto=findpost&ptid=3468978&pid=11381476"   id="postnum11381476" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>6</em><sup>#</sup></a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon11381476" src="static/image/common/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton11381476">发表于 2015-12-8 15:40:19</em>
+<span class="pipe">|</span>
+<a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;tid=3468978&amp;page=1&amp;authorid=44511" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_11381476">
+续附件：<br />
+
+<ignore_js_op>
+
+<img src="static/image/filetype/rar.gif" border="0" class="vm" alt="" />
+<span style="white-space: nowrap" id="attach_320208" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})">
+
+<a href="http://bbs.gmw.cn/forum.php?mod=attachment&amp;aid=MzIwMjA4fDk0YTcxZDUwfDE0NTA2NzcxODN8MHwzNDY4OTc4" target="_blank">意、音双表新体汉字构建法.rar</a>
+
+<em class="xg1">(688.28 KB, 下载次数: 1)</em>
+</span>
+<div class="tip tip_4" id="attach_320208_menu" style="position: absolute; display: none" disautofocus="true">
+<div class="tip_c xs0">
+<div class="y">2015-12-8 15:40 上传</div>
+点击文件名下载附件
+
+</div>
+<div class="tip_horn"></div>
+</div>
+
+</ignore_js_op>
+</td></tr></table>
+
+
+</div>
+<div id="comment_11381476" class="cm">
+</div>
+
+<div id="post_rate_div_11381476"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+        <!--wangaimin add start -->
+<!--wangaimin add end -->
+</td>
+</tr>
+<tr id="_postposition11381476"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;repquote=11381476&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+<a class="replyadd" href="forum.php?mod=misc&amp;action=postreview&amp;do=support&amp;tid=3468978&amp;pid=11381476&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_support_11381476').innerHTML ? $('review_support_11381476').innerHTML : 0) + ' 人 支持'">支持 <span id="review_support_11381476"></span></a>
+<a class="replysubtract" href="forum.php?mod=misc&amp;action=postreview&amp;do=against&amp;tid=3468978&amp;pid=11381476&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_against_11381476').innerHTML ? $('review_against_11381476').innerHTML : 0) + ' 人 反对'">反对 <span id="review_against_11381476"></span></a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_11381476" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport11381476', 'misc.php?mod=report&rtype=post&rid=11381476&tid=3468978&fid=9', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_11381476_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_11381476')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_11397451" ><table id="pid11397451" class="plhin" summary="pid11397451" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar11397451" class="pls favatar">
+ <div class="pi">
+<div class="authi"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=267874" target="_blank" class="xw1">力学</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo11397451" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo11397451_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=267874" target="_blank" class="xi2">力学</a></strong>
+<em>当前离线</em>
+</div><div>主题:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=267874&do=thread&type=thread&view=me&from=space" class="xi2"></a></em></div><div>帖子:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=267874&do=thread&type=reply&view=me&from=space" class="xi2"></a></em></div><div>积分:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=267874&do=profile" class="xi2">4276</a></em></div><br /><div class="imicn">
+<a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=267874&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=267874" class="avtm" target="_blank"><img src="http://uc.gmw.cn/avatar.php?uid=267874&size=middle" /></a></div>
+<div style="margin-left:20px;margin-bottom:5px;margin-right:5px;">来自&nbsp;</div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="http://bbs.gmw.cn/forum.php?mod=redirect&goto=findpost&ptid=3468978&pid=11397451"   id="postnum11397451" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>7</em><sup>#</sup></a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon11397451" src="static/image/common/online_member.gif" />
+<em id="authorposton11397451">发表于 2015-12-10 02:29:19</em>
+<span class="pipe">|</span>
+<a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;tid=3468978&amp;page=1&amp;authorid=267874" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_11397451">
+中国人不懂数学，经常发生误解，以为数学符号是外语。<br />
+<br />
+从而，也以为，数学符号不是中文。所以说，中国人不懂数学。那么，《中文主义》就成为《人民公敌》。<br />
+<br />
+如果我们的士兵不懂数学，那么，一切新式武器都是不能开动的。<br />
+<br />
+什么路线，方向，动力，等等术语，都是数学术语，中国人如果不接受，还谈什么发展？</td></tr></table>
+
+
+</div>
+<div id="comment_11397451" class="cm">
+</div>
+
+<div id="post_rate_div_11397451"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+        <!--wangaimin add start -->
+<!--wangaimin add end -->
+</td>
+</tr>
+<tr id="_postposition11397451"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;repquote=11397451&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+<a class="replyadd" href="forum.php?mod=misc&amp;action=postreview&amp;do=support&amp;tid=3468978&amp;pid=11397451&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_support_11397451').innerHTML ? $('review_support_11397451').innerHTML : 0) + ' 人 支持'">支持 <span id="review_support_11397451"></span></a>
+<a class="replysubtract" href="forum.php?mod=misc&amp;action=postreview&amp;do=against&amp;tid=3468978&amp;pid=11397451&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_against_11397451').innerHTML ? $('review_against_11397451').innerHTML : 0) + ' 人 反对'">反对 <span id="review_against_11397451"></span></a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_11397451" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport11397451', 'misc.php?mod=report&rtype=post&rid=11397451&tid=3468978&fid=9', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_11397451_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_11397451')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_11398525" ><table id="pid11398525" class="plhin" summary="pid11398525" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar11398525" class="pls favatar">
+ <div class="pi">
+<div class="authi"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=11314" target="_blank" class="xw1">刘光晨</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo11398525" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo11398525_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=11314" target="_blank" class="xi2">刘光晨</a></strong>
+<em>当前离线</em>
+</div><div>主题:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=11314&do=thread&type=thread&view=me&from=space" class="xi2"></a></em></div><div>帖子:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=11314&do=thread&type=reply&view=me&from=space" class="xi2"></a></em></div><div>积分:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=11314&do=profile" class="xi2">7095</a></em></div><br /><div class="imicn">
+<a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=11314&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=11314" class="avtm" target="_blank"><img src="http://uc.gmw.cn/avatar.php?uid=11314&size=middle" /></a></div>
+<div style="margin-left:20px;margin-bottom:5px;margin-right:5px;">来自&nbsp;</div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="http://bbs.gmw.cn/forum.php?mod=redirect&goto=findpost&ptid=3468978&pid=11398525"   id="postnum11398525" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>8</em><sup>#</sup></a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon11398525" src="static/image/common/online_member.gif" />
+<em id="authorposton11398525">发表于 2015-12-10 08:59:26</em>
+<span class="xg1">来自手机</span>
+<span class="pipe">|</span>
+<a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;tid=3468978&amp;page=1&amp;authorid=11314" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_11398525">
+孙先生原来也知道中国计算机行业的历史！怪就怪在计划经济时期计算机与世界同步并不落后，不计划都快四十年了，计算机行业竟然给落后了。大飞机也一样，三十年前逼着下马，三十年后再上马。所以，你们这些人也应该在你们的行业总结总结，三十年前长处在哪里短处在哪里，今天的体制长处在哪里短处在哪里。</td></tr></table>
+
+
+</div>
+<div id="comment_11398525" class="cm">
+</div>
+
+<div id="post_rate_div_11398525"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+        <!--wangaimin add start -->
+<!--wangaimin add end -->
+</td>
+</tr>
+<tr id="_postposition11398525"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;repquote=11398525&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+<a class="replyadd" href="forum.php?mod=misc&amp;action=postreview&amp;do=support&amp;tid=3468978&amp;pid=11398525&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_support_11398525').innerHTML ? $('review_support_11398525').innerHTML : 0) + ' 人 支持'">支持 <span id="review_support_11398525"></span></a>
+<a class="replysubtract" href="forum.php?mod=misc&amp;action=postreview&amp;do=against&amp;tid=3468978&amp;pid=11398525&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_against_11398525').innerHTML ? $('review_against_11398525').innerHTML : 0) + ' 人 反对'">反对 <span id="review_against_11398525"></span></a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_11398525" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport11398525', 'misc.php?mod=report&rtype=post&rid=11398525&tid=3468978&fid=9', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_11398525_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_11398525')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_11398668" ><table id="pid11398668" class="plhin" summary="pid11398668" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar11398668" class="pls favatar">
+ <div class="pi">
+<div class="authi"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=32541" target="_blank" class="xw1">lisi1948</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo11398668" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo11398668_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=32541" target="_blank" class="xi2">lisi1948</a></strong>
+<em>当前离线</em>
+</div><div>主题:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=32541&do=thread&type=thread&view=me&from=space" class="xi2"></a></em></div><div>帖子:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=32541&do=thread&type=reply&view=me&from=space" class="xi2"></a></em></div><div>积分:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=32541&do=profile" class="xi2"><span title="12773">1万</span></a></em></div><br /><div class="imicn">
+<a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=32541&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=32541" class="avtm" target="_blank"><img src="http://uc.gmw.cn/avatar.php?uid=32541&size=middle" /></a></div>
+<div style="margin-left:20px;margin-bottom:5px;margin-right:5px;">来自&nbsp;</div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="http://bbs.gmw.cn/forum.php?mod=redirect&goto=findpost&ptid=3468978&pid=11398668"   id="postnum11398668" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>9</em><sup>#</sup></a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon11398668" src="static/image/common/online_member.gif" />
+<em id="authorposton11398668">发表于 2015-12-10 09:13:35</em>
+<span class="pipe">|</span>
+<a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;tid=3468978&amp;page=1&amp;authorid=32541" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_11398668">
+在计算机方面我是门外汉，但也知道一点。因为，本人在研究《管理自我》学的过程中，学过计算机的原理。是为编制人脑的意识机能的较件而学。楼主的这篇大作真是让人大开眼界！很想知道楼主的地址和真实姓名，想将本人的这本《管理自我》学的书寄一本给您！因为，这本将人脑意识机能的较件编制出来，想提供给编制电脑较件者参考------</td></tr></table>
+
+
+</div>
+<div id="comment_11398668" class="cm">
+</div>
+
+<div id="post_rate_div_11398668"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+        <!--wangaimin add start -->
+<!--wangaimin add end -->
+</td>
+</tr>
+<tr id="_postposition11398668"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;repquote=11398668&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+<a class="replyadd" href="forum.php?mod=misc&amp;action=postreview&amp;do=support&amp;tid=3468978&amp;pid=11398668&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_support_11398668').innerHTML ? $('review_support_11398668').innerHTML : 0) + ' 人 支持'">支持 <span id="review_support_11398668"></span></a>
+<a class="replysubtract" href="forum.php?mod=misc&amp;action=postreview&amp;do=against&amp;tid=3468978&amp;pid=11398668&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_against_11398668').innerHTML ? $('review_against_11398668').innerHTML : 0) + ' 人 反对'">反对 <span id="review_against_11398668"></span></a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_11398668" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport11398668', 'misc.php?mod=report&rtype=post&rid=11398668&tid=3468978&fid=9', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_11398668_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_11398668')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_11399981" ><table id="pid11399981" class="plhin" summary="pid11399981" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar11399981" class="pls favatar">
+ <div class="pi">
+<div class="authi"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511" target="_blank" class="xw1">sunzhenpo</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo11399981" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo11399981_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511" target="_blank" class="xi2">sunzhenpo</a></strong>
+<em>当前离线</em>
+</div><div>主题:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=44511&do=thread&type=thread&view=me&from=space" class="xi2"></a></em></div><div>帖子:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=44511&do=thread&type=reply&view=me&from=space" class="xi2"></a></em></div><div>积分:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=44511&do=profile" class="xi2">5213</a></em></div><br /><div class="imicn">
+<a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511" class="avtm" target="_blank"><img src="http://uc.gmw.cn/avatar.php?uid=44511&size=middle" /></a></div>
+<div style="margin-left:20px;margin-bottom:5px;margin-right:5px;">来自&nbsp;</div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="http://bbs.gmw.cn/forum.php?mod=redirect&goto=findpost&ptid=3468978&pid=11399981"   id="postnum11399981" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>10</em><sup>#</sup></a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon11399981" src="static/image/common/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton11399981">发表于 2015-12-10 11:47:28</em>
+<span class="pipe">|</span>
+<a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;tid=3468978&amp;page=1&amp;authorid=44511" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_11399981">
+续附件：<br />
+
+<ignore_js_op>
+
+<img src="static/image/filetype/rar.gif" border="0" class="vm" alt="" />
+<span style="white-space: nowrap" id="attach_320531" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})">
+
+<a href="http://bbs.gmw.cn/forum.php?mod=attachment&amp;aid=MzIwNTMxfDEwMjZmYWJkfDE0NTA2NzcxODN8MHwzNDY4OTc4" target="_blank">语言文字发展论.rar</a>
+
+<em class="xg1">(2.08 MB, 下载次数: 1)</em>
+</span>
+<div class="tip tip_4" id="attach_320531_menu" style="position: absolute; display: none" disautofocus="true">
+<div class="tip_c xs0">
+<div class="y">2015-12-10 11:47 上传</div>
+点击文件名下载附件
+
+</div>
+<div class="tip_horn"></div>
+</div>
+
+</ignore_js_op>
+
+<ignore_js_op>
+
+<img src="static/image/filetype/rar.gif" border="0" class="vm" alt="" />
+<span style="white-space: nowrap" id="attach_320532" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})">
+
+<a href="http://bbs.gmw.cn/forum.php?mod=attachment&amp;aid=MzIwNTMyfDdhMjJiMTBjfDE0NTA2NzcxODN8MHwzNDY4OTc4" target="_blank">13000字对照表压缩汇总.rar</a>
+
+<em class="xg1">(1.98 MB, 下载次数: 0)</em>
+</span>
+<div class="tip tip_4" id="attach_320532_menu" style="position: absolute; display: none" disautofocus="true">
+<div class="tip_c xs0">
+<div class="y">2015-12-10 11:47 上传</div>
+点击文件名下载附件
+
+</div>
+<div class="tip_horn"></div>
+</div>
+
+</ignore_js_op>
+</td></tr></table>
+
+
+</div>
+<div id="comment_11399981" class="cm">
+</div>
+
+<div id="post_rate_div_11399981"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+        <!--wangaimin add start -->
+<!--wangaimin add end -->
+</td>
+</tr>
+<tr id="_postposition11399981"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;repquote=11399981&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+<a class="replyadd" href="forum.php?mod=misc&amp;action=postreview&amp;do=support&amp;tid=3468978&amp;pid=11399981&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_support_11399981').innerHTML ? $('review_support_11399981').innerHTML : 0) + ' 人 支持'">支持 <span id="review_support_11399981"></span></a>
+<a class="replysubtract" href="forum.php?mod=misc&amp;action=postreview&amp;do=against&amp;tid=3468978&amp;pid=11399981&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_against_11399981').innerHTML ? $('review_against_11399981').innerHTML : 0) + ' 人 反对'">反对 <span id="review_against_11399981"></span></a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_11399981" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport11399981', 'misc.php?mod=report&rtype=post&rid=11399981&tid=3468978&fid=9', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_11399981_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_11399981')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_11400030" ><table id="pid11400030" class="plhin" summary="pid11400030" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar11400030" class="pls favatar">
+ <div class="pi">
+<div class="authi"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511" target="_blank" class="xw1">sunzhenpo</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo11400030" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo11400030_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511" target="_blank" class="xi2">sunzhenpo</a></strong>
+<em>当前离线</em>
+</div><div>主题:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=44511&do=thread&type=thread&view=me&from=space" class="xi2"></a></em></div><div>帖子:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=44511&do=thread&type=reply&view=me&from=space" class="xi2"></a></em></div><div>积分:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=44511&do=profile" class="xi2">5213</a></em></div><br /><div class="imicn">
+<a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511" class="avtm" target="_blank"><img src="http://uc.gmw.cn/avatar.php?uid=44511&size=middle" /></a></div>
+<div style="margin-left:20px;margin-bottom:5px;margin-right:5px;">来自&nbsp;</div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="http://bbs.gmw.cn/forum.php?mod=redirect&goto=findpost&ptid=3468978&pid=11400030"   id="postnum11400030" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>11</em><sup>#</sup></a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon11400030" src="static/image/common/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton11400030">发表于 2015-12-10 11:54:35</em>
+<span class="pipe">|</span>
+<a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;tid=3468978&amp;page=1&amp;authorid=44511" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_11400030">
+<div class="quote"><blockquote><font size="2"><a href="http://bbs.gmw.cn/forum.php?mod=redirect&amp;goto=findpost&amp;pid=11398668&amp;ptid=3468978" target="_blank"><font color="#999999">lisi1948 发表于 2015-12-9 17:13</font></a></font><br />
+在计算机方面我是门外汉，但也知道一点。因为，本人在研究《管理自我》学的过程中，学过计算机的原理。是为 ...</blockquote></div><br />
+lisi1948先生，您好！<br />
+我的邮箱是：<a href="mailto:sunzhenpo123@136.com">sunzhenpo123@136.com</a><br />
+希望拜读您的大作《管理自我》<br />
+我愿意与你通过信箱或微信交流。<br />
+ <br />
+山东 临沂 孙振坡（sunzhenpo）</td></tr></table>
+
+
+</div>
+<div id="comment_11400030" class="cm">
+</div>
+
+<div id="post_rate_div_11400030"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+        <!--wangaimin add start -->
+<!--wangaimin add end -->
+</td>
+</tr>
+<tr id="_postposition11400030"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;repquote=11400030&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+<a class="replyadd" href="forum.php?mod=misc&amp;action=postreview&amp;do=support&amp;tid=3468978&amp;pid=11400030&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_support_11400030').innerHTML ? $('review_support_11400030').innerHTML : 0) + ' 人 支持'">支持 <span id="review_support_11400030"></span></a>
+<a class="replysubtract" href="forum.php?mod=misc&amp;action=postreview&amp;do=against&amp;tid=3468978&amp;pid=11400030&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_against_11400030').innerHTML ? $('review_against_11400030').innerHTML : 0) + ' 人 反对'">反对 <span id="review_against_11400030"></span></a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_11400030" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport11400030', 'misc.php?mod=report&rtype=post&rid=11400030&tid=3468978&fid=9', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_11400030_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_11400030')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_11408555" ><table id="pid11408555" class="plhin" summary="pid11408555" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar11408555" class="pls favatar">
+ <div class="pi">
+<div class="authi"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=32541" target="_blank" class="xw1">lisi1948</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo11408555" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo11408555_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=32541" target="_blank" class="xi2">lisi1948</a></strong>
+<em>当前离线</em>
+</div><div>主题:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=32541&do=thread&type=thread&view=me&from=space" class="xi2"></a></em></div><div>帖子:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=32541&do=thread&type=reply&view=me&from=space" class="xi2"></a></em></div><div>积分:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=32541&do=profile" class="xi2"><span title="12773">1万</span></a></em></div><br /><div class="imicn">
+<a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=32541&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=32541" class="avtm" target="_blank"><img src="http://uc.gmw.cn/avatar.php?uid=32541&size=middle" /></a></div>
+<div style="margin-left:20px;margin-bottom:5px;margin-right:5px;">来自&nbsp;</div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="http://bbs.gmw.cn/forum.php?mod=redirect&goto=findpost&ptid=3468978&pid=11408555"   id="postnum11408555" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>12</em><sup>#</sup></a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon11408555" src="static/image/common/online_member.gif" />
+<em id="authorposton11408555">发表于 2015-12-11 07:20:22</em>
+<span class="pipe">|</span>
+<a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;tid=3468978&amp;page=1&amp;authorid=32541" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_11408555">
+<div class="quote"><blockquote><font size="2"><a href="http://bbs.gmw.cn/forum.php?mod=redirect&amp;goto=findpost&amp;pid=11400030&amp;ptid=3468978" target="_blank"><font color="#999999">sunzhenpo 发表于 2015-12-10 11:54</font></a></font><br />
+lisi1948先生，您好！<br />
+我的邮箱是：<br />
+希望拜读您的大作《管理自我》</blockquote></div><br />
+请您等待：马上用寄一本给您！请您看看能否将人脑UP软件用于电脑系统上去？从而使电脑成真正的个人电脑？</td></tr></table>
+
+
+</div>
+<div id="comment_11408555" class="cm">
+</div>
+
+<div id="post_rate_div_11408555"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+        <!--wangaimin add start -->
+<!--wangaimin add end -->
+</td>
+</tr>
+<tr id="_postposition11408555"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;repquote=11408555&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+<a class="replyadd" href="forum.php?mod=misc&amp;action=postreview&amp;do=support&amp;tid=3468978&amp;pid=11408555&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_support_11408555').innerHTML ? $('review_support_11408555').innerHTML : 0) + ' 人 支持'">支持 <span id="review_support_11408555"></span></a>
+<a class="replysubtract" href="forum.php?mod=misc&amp;action=postreview&amp;do=against&amp;tid=3468978&amp;pid=11408555&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_against_11408555').innerHTML ? $('review_against_11408555').innerHTML : 0) + ' 人 反对'">反对 <span id="review_against_11408555"></span></a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_11408555" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport11408555', 'misc.php?mod=report&rtype=post&rid=11408555&tid=3468978&fid=9', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_11408555_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_11408555')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_11409654" ><table id="pid11409654" class="plhin" summary="pid11409654" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar11409654" class="pls favatar">
+ <div class="pi">
+<div class="authi"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=32541" target="_blank" class="xw1">lisi1948</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo11409654" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo11409654_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=32541" target="_blank" class="xi2">lisi1948</a></strong>
+<em>当前离线</em>
+</div><div>主题:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=32541&do=thread&type=thread&view=me&from=space" class="xi2"></a></em></div><div>帖子:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=32541&do=thread&type=reply&view=me&from=space" class="xi2"></a></em></div><div>积分:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=32541&do=profile" class="xi2"><span title="12773">1万</span></a></em></div><br /><div class="imicn">
+<a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=32541&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=32541" class="avtm" target="_blank"><img src="http://uc.gmw.cn/avatar.php?uid=32541&size=middle" /></a></div>
+<div style="margin-left:20px;margin-bottom:5px;margin-right:5px;">来自&nbsp;</div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="http://bbs.gmw.cn/forum.php?mod=redirect&goto=findpost&ptid=3468978&pid=11409654"   id="postnum11409654" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>13</em><sup>#</sup></a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon11409654" src="static/image/common/online_member.gif" />
+<em id="authorposton11409654">发表于 2015-12-11 08:56:30</em>
+<span class="pipe">|</span>
+<a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;tid=3468978&amp;page=1&amp;authorid=32541" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_11409654">
+<div class="quote"><blockquote><font size="2"><a href="http://bbs.gmw.cn/forum.php?mod=redirect&amp;goto=findpost&amp;pid=11400030&amp;ptid=3468978" target="_blank"><font color="#999999">sunzhenpo 发表于 2015-12-10 11:54</font></a></font><br />
+lisi1948先生，您好！<br />
+我的邮箱是：<br />
+希望拜读您的大作《管理自我》</blockquote></div><br />
+这个地址不祥，请将祥细地址发到我在光明网的博客的“留言”中好吗？</td></tr></table>
+
+
+</div>
+<div id="comment_11409654" class="cm">
+</div>
+
+<div id="post_rate_div_11409654"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+        <!--wangaimin add start -->
+<!--wangaimin add end -->
+</td>
+</tr>
+<tr id="_postposition11409654"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;repquote=11409654&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+<a class="replyadd" href="forum.php?mod=misc&amp;action=postreview&amp;do=support&amp;tid=3468978&amp;pid=11409654&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_support_11409654').innerHTML ? $('review_support_11409654').innerHTML : 0) + ' 人 支持'">支持 <span id="review_support_11409654"></span></a>
+<a class="replysubtract" href="forum.php?mod=misc&amp;action=postreview&amp;do=against&amp;tid=3468978&amp;pid=11409654&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_against_11409654').innerHTML ? $('review_against_11409654').innerHTML : 0) + ' 人 反对'">反对 <span id="review_against_11409654"></span></a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_11409654" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport11409654', 'misc.php?mod=report&rtype=post&rid=11409654&tid=3468978&fid=9', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_11409654_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_11409654')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_11411750" ><table id="pid11411750" class="plhin" summary="pid11411750" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar11411750" class="pls favatar">
+ <div class="pi">
+<div class="authi"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511" target="_blank" class="xw1">sunzhenpo</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo11411750" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo11411750_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511" target="_blank" class="xi2">sunzhenpo</a></strong>
+<em>当前离线</em>
+</div><div>主题:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=44511&do=thread&type=thread&view=me&from=space" class="xi2"></a></em></div><div>帖子:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=44511&do=thread&type=reply&view=me&from=space" class="xi2"></a></em></div><div>积分:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=44511&do=profile" class="xi2">5213</a></em></div><br /><div class="imicn">
+<a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=44511" class="avtm" target="_blank"><img src="http://uc.gmw.cn/avatar.php?uid=44511&size=middle" /></a></div>
+<div style="margin-left:20px;margin-bottom:5px;margin-right:5px;">来自&nbsp;</div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="http://bbs.gmw.cn/forum.php?mod=redirect&goto=findpost&ptid=3468978&pid=11411750"   id="postnum11411750" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>14</em><sup>#</sup></a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon11411750" src="static/image/common/ico_lz.png" />
+&nbsp;楼主<span class="pipe">|</span>
+<em id="authorposton11411750">发表于 2015-12-11 11:49:19</em>
+<span class="pipe">|</span>
+<a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;tid=3468978&amp;page=1&amp;authorid=44511" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_11411750">
+<div class="quote"><blockquote><font size="2"><a href="http://bbs.gmw.cn/forum.php?mod=redirect&amp;goto=findpost&amp;pid=11409654&amp;ptid=3468978" target="_blank"><font color="#999999">lisi1948 发表于 2015-12-10 16:56</font></a></font><br />
+这个地址不祥，请将祥细地址发到我在光明网的博客的“留言”中好吗？</blockquote></div><br />
+lisi1948 先生，很抱歉，我把邮箱写错了。应当是：<a href="mailto:sunzhenpo123@163.com">sunzhenpo123@163.com</a><br />
+ <br />
+<br />
+孙振坡<br />
+2015.12.11</td></tr></table>
+
+
+</div>
+<div id="comment_11411750" class="cm">
+</div>
+
+<div id="post_rate_div_11411750"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+        <!--wangaimin add start -->
+<!--wangaimin add end -->
+</td>
+</tr>
+<tr id="_postposition11411750"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;repquote=11411750&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+<a class="replyadd" href="forum.php?mod=misc&amp;action=postreview&amp;do=support&amp;tid=3468978&amp;pid=11411750&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_support_11411750').innerHTML ? $('review_support_11411750').innerHTML : 0) + ' 人 支持'">支持 <span id="review_support_11411750"></span></a>
+<a class="replysubtract" href="forum.php?mod=misc&amp;action=postreview&amp;do=against&amp;tid=3468978&amp;pid=11411750&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_against_11411750').innerHTML ? $('review_against_11411750').innerHTML : 0) + ' 人 反对'">反对 <span id="review_against_11411750"></span></a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_11411750" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport11411750', 'misc.php?mod=report&rtype=post&rid=11411750&tid=3468978&fid=9', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_11411750_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_11411750')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_11417118" ><table id="pid11417118" class="plhin" summary="pid11417118" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+<div id="favatar11417118" class="pls favatar">
+ <a name="lastpost"></a><div class="pi">
+<div class="authi"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=267874" target="_blank" class="xw1">力学</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_" id="userinfo11417118" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo11417118_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=267874" target="_blank" class="xi2">力学</a></strong>
+<em>当前离线</em>
+</div><div>主题:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=267874&do=thread&type=thread&view=me&from=space" class="xi2"></a></em></div><div>帖子:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=267874&do=thread&type=reply&view=me&from=space" class="xi2"></a></em></div><div>积分:&nbsp;<em><a href="http://blog.gmw.cn/home.php?mod=space&uid=267874&do=profile" class="xi2">4276</a></em></div><br /><div class="imicn">
+<a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=267874&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar"><a href="http://blog.gmw.cn/home.php?mod=space&amp;uid=267874" class="avtm" target="_blank"><img src="http://uc.gmw.cn/avatar.php?uid=267874&size=middle" /></a></div>
+<div style="margin-left:20px;margin-bottom:5px;margin-right:5px;">来自&nbsp;</div>
+</div>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="http://bbs.gmw.cn/forum.php?mod=redirect&goto=findpost&ptid=3468978&pid=11417118"   id="postnum11417118" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+<em>15</em><sup>#</sup></a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon11417118" src="static/image/common/online_member.gif" />
+<em id="authorposton11417118">发表于 2015-12-12 21:35:07</em>
+<span class="pipe">|</span>
+<a href="http://bbs.gmw.cn/forum.php?mod=viewthread&amp;tid=3468978&amp;page=1&amp;authorid=267874" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_11417118">
+提出造中国电脑的问题，就是反对电脑。电脑的语言是独立的语言，与各国语言无关。<br />
+<br />
+电脑语言是机器人语言。不欢迎机器人的民族，是死亡的民族。<br />
+<br />
+总是有那么一些懒得读书的懒汉，提出了最好是不用读书的理论。<br />
+<br />
+不读书就不是人。</td></tr></table>
+
+
+</div>
+<div id="comment_11417118" class="cm">
+</div>
+
+<div id="post_rate_div_11417118"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+        <!--wangaimin add start -->
+<!--wangaimin add end -->
+</td>
+</tr>
+<tr id="_postposition11417118"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;repquote=11417118&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+<a class="replyadd" href="forum.php?mod=misc&amp;action=postreview&amp;do=support&amp;tid=3468978&amp;pid=11417118&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_support_11417118').innerHTML ? $('review_support_11417118').innerHTML : 0) + ' 人 支持'">支持 <span id="review_support_11417118"></span></a>
+<a class="replysubtract" href="forum.php?mod=misc&amp;action=postreview&amp;do=against&amp;tid=3468978&amp;pid=11417118&amp;hash=1680d295"  onclick="showWindow('login', this.href)" onmouseover="this.title = ($('review_against_11417118').innerHTML ? $('review_against_11417118').innerHTML : 0) + ' 人 反对'">反对 <span id="review_against_11417118"></span></a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_11417118" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport11417118', 'misc.php?mod=report&rtype=post&rid=11417118&tid=3468978&fid=9', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_11417118_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_11417118')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="postlistreply" class="pl"><div id="post_new" class="viewthread_table" style="display: none"></div></div>
+</div>
+
+
+<form method="post" autocomplete="off" name="modactions" id="modactions">
+<input type="hidden" name="formhash" value="1680d295" />
+<input type="hidden" name="optgroup" />
+<input type="hidden" name="operation" />
+<input type="hidden" name="listextra" value="page%3D1" />
+<input type="hidden" name="page" value="1" />
+</form>
+
+
+
+<div class="pgs mtm mbm cl">
+<span class="pgb y"><a href="http://bbs.gmw.cn/forum-9-1.html">返回列表</a></span>
+<a id="newspecialtmp" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=9')" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a>
+</div>
+
+<!--[diy=diyfastposttop]--><div id="diyfastposttop" class="area"></div><!--[/diy]-->
+<script type="text/javascript">
+var postminchars = parseInt('0');
+var postmaxchars = parseInt('200000');
+var disablepostctrl = parseInt('0');
+</script>
+
+<div id="f_pst" class="pl bm bmw">
+<form method="post" autocomplete="off" id="fastpostform" action="forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;extra=page%3D1&amp;replysubmit=yes&amp;infloat=yes&amp;handlekey=fastpost" onSubmit="return fastpostvalidate(this)">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls">
+</td>
+<td class="plc">
+
+<span id="fastpostreturn"></span>
+
+
+<div class="cl">
+<div id="fastsmiliesdiv" class="y"><div id="fastsmiliesdiv_data"><div id="fastsmilies"></div></div></div><div class="hasfsl" id="fastposteditor">
+<div class="tedt mtn">
+<div class="bar">
+<span class="y">
+<a href="http://bbs.gmw.cn/forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978" onclick="return switchAdvanceMode(this.href)">高级模式</a>
+</span><script src="data/cache/seditor.js?x9Z" type="text/javascript"></script>
+<div class="fpd">
+<a href="javascript:;" title="文字加粗" class="fbld">B</a>
+<a href="javascript:;" title="设置文字颜色" class="fclr" id="fastpostforecolor">Color</a>
+<a id="fastpostimg" href="javascript:;" title="图片" class="fmg">Image</a>
+<a id="fastposturl" href="javascript:;" title="添加链接" class="flnk">Link</a>
+<a id="fastpostquote" href="javascript:;" title="引用" class="fqt">Quote</a>
+<a id="fastpostcode" href="javascript:;" title="代码" class="fcd">Code</a>
+<a href="javascript:;" class="fsml" id="fastpostsml">Smilies</a>
+</div></div>
+<div class="area">
+<div class="pt hm">
+您需要登录后才可以回帖 <a href="member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href)" class="xi2">登录</a> | <a href="member.php?mod=register" class="xi2">注册</a>
+
+
+<a href="http://bbs.gmw.cn/connect.php?mod=login&op=init&referer=forum.php%3Fmod%3Dviewthread%26tid%3D3468978%26extra%3Dpage%253D1%26page%3D1&statfrom=login" target="_top" rel="nofollow"><img src="static/image/common/qq_login.gif" class="vm" /></a>
+
+&nbsp;<a rel="nofollow" target="_top" href="https://api.weibo.com/oauth2/authorize?client_id=288713144&redirect_uri=http%3A%2F%2Fbbs.gmw.cn%2Fplugin.php%3Fid%3Dljxlwb&response_type=code"><img class="vm" src="source/plugin/ljxlwb/img/weibo_login.png"></a></div>
+</div>
+</div>
+</div>
+</div>
+<div id="seccheck_fastpost">
+</div>
+
+
+<input type="hidden" name="formhash" value="1680d295" />
+<input type="hidden" name="usesig" value="" />
+<input type="hidden" name="subject" value="  " />
+<p class="ptm pnpost">
+<a href="http://blog.gmw.cn/home.php?mod=spacecp&amp;ac=credit&amp;op=rule&amp;fid=9" class="y" target="_blank">本版积分规则</a>
+<button type="button" onclick="showWindow('login', 'member.php?mod=logging&action=login&guestmessage=yes')" onmouseover="checkpostrule('seccheck_fastpost', 'ac=reply');this.onmouseover=null" name="replysubmit" id="fastpostsubmit" class="pn pnc vm" value="replysubmit" tabindex="5"><strong>发表回复</strong></button>
+<label for="fastpostrefresh"><input id="fastpostrefresh" type="checkbox" class="pc" />回帖后跳转到最后一页</label>
+<script type="text/javascript">if(getcookie('fastpostrefresh') == 1) {$('fastpostrefresh').checked=true;}</script>
+</p>
+</td>
+</tr>
+</table>
+</form>
+</div>
+
+<script type="text/javascript">
+var connect_qzone_share_url = 'http://bbs.gmw.cn/home.php?mod=spacecp&ac=plugin&id=qqconnect:spacecp&pluginop=share&sh_type=1&thread_id=3468978';
+var connect_weibo_share_url = 'http://bbs.gmw.cn/home.php?mod=spacecp&ac=plugin&id=qqconnect:spacecp&pluginop=share&sh_type=2&thread_id=3468978';
+var connect_thread_info = {
+thread_url: 'http://bbs.gmw.cn/thread-3468978-1-1.html',
+thread_id: '3468978',
+post_id: '11361946',
+forum_id: '9',
+author_id: '44511',
+author: 'sunzhenpo'
+};
+
+connect_autoshare = '0';
+connect_isbind = '';
+if(connect_autoshare == 1 && connect_isbind) {
+_attachEvent(window, 'load', function(){
+connect_share(connect_weibo_share_url, connect_openid);
+});
+}
+</script>
+
+
+<script type="text/javascript">
+new lazyload();
+</script>
+     
+<script type="text/javascript">document.onkeyup = function(e){keyPageScroll(e, 0, 0, 'forum.php?mod=viewthread&tid=3468978', 1);}</script>
+</div>
+
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+
+<script type="text/javascript">
+function succeedhandle_followmod(url, msg, values) {
+var fObj = $('followmod_'+values['fuid']);
+if(values['type'] == 'add') {
+fObj.innerHTML = '不收听';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=del&fuid='+values['fuid'];
+} else if(values['type'] == 'del') {
+fObj.innerHTML = '收听TA';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=add&hash=1680d295&fuid='+values['fuid'];
+}
+}
+fixed_avatar([11361946,11362913,11362600,11362832,11380055,11381476,11397451,11398525,11398668,11399981,11400030,11408555,11409654,11411750,11417118], 1);
+</script>
+<!--wangaimin add start -->
+<!--wangaimin add end -->
+<!-- 90433：论坛-内-对联-->
+<script type="text/javascript">
+_acK({aid:90433,format:0,mode:1,gid:1,destid:"couplet",sendreferer:1,serverbaseurl:"afp.csbew.com/"});
+</script>
+<!-- 90429：论坛-内-底通栏 -->
+<script type="text/javascript">
+_acK({aid:90429,format:0,mode:1,gid:1,destid:"bannerbottom",sendreferer:1,serverbaseurl:"afp.csbew.com/"});
+</script>
+<!-- 90431：论坛-内-弹窗 -->
+<script type="text/javascript">
+_acK({aid:90431,format:0,mode:1,gid:1,destid:"popupwindow",sendreferer:1,serverbaseurl:"afp.csbew.com/"});
+</script>	</div>
+<div class="focus" id="sitefocus">
+<div class="bm">
+<div class="bm_h cl">
+<a href="javascript:;" onclick="setcookie('nofocus_forum', 1, 0*3600);$('sitefocus').style.display='none'" class="y" title="关闭">关闭</a>
+<h2>
+今日关注<span id="focus_ctrl" class="fctrl"><img src="static/image/common/pic_nv_prev.gif" alt="上一条" title="上一条" id="focusprev" class="cur1" onclick="showfocus('prev');" /> <em><span id="focuscur"></span>/7</em> <img src="static/image/common/pic_nv_next.gif" alt="下一条" title="下一条" id="focusnext" class="cur1" onclick="showfocus('next')" /></span>
+</h2>
+</div>
+<div class="bm_c" id="focus_con">
+</div>
+</div>
+</div><div class="bm_c" style="display: none" id="focus_0">
+<dl class="xld cl bbda">
+<dt><a href="http://bbs.gmw.cn/thread-3476688-1-1.html" class="xi2" target="_blank">【围观】一代枭雄：被嫌弃的曹操的一生</a></dt>
+<dd class="m"><a href="http://bbs.gmw.cn/thread-3476688-1-1.html" target="_blank"><img src="http://imgsns.gmw.cn/data/attachment/album/201512/18/144811ie0kbzkqzgcboqd0.jpg" alt="【围观】一代枭雄：被嫌弃的曹操的一生" /></a></dd>
+<dd>　　 曾经有人这样来综合评价曹操：治世之能臣，乱世之奸雄也。用今天的话说，曹操是一个有才华、有领导能力、会综合分析意见、善于把握机会的聪明人，是东汉末三国初期杰出的政治家、军事家和诗人。</dd>
+</dl>
+<p class="ptn cl"><a href="http://bbs.gmw.cn/thread-3476688-1-1.html" class="xi2 y" target="_blank">查看 &raquo;</a></p>
+</div><div class="bm_c" style="display: none" id="focus_1">
+<dl class="xld cl bbda">
+<dt><a href="http://bbs.gmw.cn/thread-3476691-1-1.html" class="xi2" target="_blank">【揭秘】战国四公子 为什么黄歇死的最惨？ </a></dt>
+<dd class="m"><a href="http://bbs.gmw.cn/thread-3476691-1-1.html" target="_blank"><img src="http://imgsns.gmw.cn/data/attachment/album/201512/18/144811cu77q4744euten4b.jpg" alt="【揭秘】战国四公子 为什么黄歇死的最惨？ " /></a></dd>
+<dd>　　春申君黄歇是四公子中唯一非王室中人，对比其他三人，孟尝君田文是齐国宰相田婴的庶子；平原君赵胜是赵武灵王之子；信陵君魏无忌是魏昭王的小儿子。按照先秦“公子”的衡量标准，春申君仅为辩士。</dd>
+</dl>
+<p class="ptn cl"><a href="http://bbs.gmw.cn/thread-3476691-1-1.html" class="xi2 y" target="_blank">查看 &raquo;</a></p>
+</div><div class="bm_c" style="display: none" id="focus_2">
+<dl class="xld cl bbda">
+<dt><a href="http://bbs.gmw.cn/thread-3470308-1-1.html" class="xi2" target="_blank">【揭秘】蒋介石“绝食”是因为假牙遗失</a></dt>
+<dd class="m"><a href="http://bbs.gmw.cn/thread-3470308-1-1.html" target="_blank"><img src="http://imgsns.gmw.cn/data/attachment/album/201512/08/164415m8qz6qwq7u6ppfk1.gif" alt="【揭秘】蒋介石“绝食”是因为假牙遗失" /></a></dd>
+<dd>　　在杨瀚看来，根本不存在绝食之事。由于蒋介石仓皇出逃时没来得及戴满口的假牙，吃饭就成了问题。副官们问他想吃什么东西，他摇摇头用手指着嘴说：我不能吃东西。他这时是不能吃，而不是不吃，所以根本就没有所谓‘绝食’之事。</dd>
+</dl>
+<p class="ptn cl"><a href="http://bbs.gmw.cn/thread-3470308-1-1.html" class="xi2 y" target="_blank">查看 &raquo;</a></p>
+</div><div class="bm_c" style="display: none" id="focus_3">
+<dl class="xld cl bbda">
+<dt><a href="http://bbs.gmw.cn/thread-3471006-1-1.html" class="xi2" target="_blank">【揭秘】哪位女人休掉身为民族英雄的丈夫？</a></dt>
+<dd class="m"><a href="http://bbs.gmw.cn/thread-3471006-1-1.html" target="_blank"><img src="http://imgsns.gmw.cn/data/attachment/album/201512/09/170807pyvnnlml0wljzmoi.gif" alt="【揭秘】哪位女人休掉身为民族英雄的丈夫？" /></a></dd>
+<dd>　　中国历史上有两个非常奇特的女人，一个是文绣，她主动离婚，休掉了自己的丈夫——末代皇帝溥仪。还有一个女人，她也休掉了自己的丈夫——民族英雄、抗日名将戚继光，这个女人是“王氏”，她为何要休掉名垂千古的民族英雄丈夫呢?</dd>
+</dl>
+<p class="ptn cl"><a href="http://bbs.gmw.cn/thread-3471006-1-1.html" class="xi2 y" target="_blank">查看 &raquo;</a></p>
+</div><div class="bm_c" style="display: none" id="focus_4">
+<dl class="xld cl bbda">
+<dt><a href="http://bbs.gmw.cn/thread-3471008-1-1.html" class="xi2" target="_blank">【揭秘】美国国父华盛顿曾役使白奴</a></dt>
+<dd class="m"><a href="http://bbs.gmw.cn/thread-3471008-1-1.html" target="_blank"><img src="http://imgsns.gmw.cn/data/attachment/album/201512/09/171651rybtrkyy69tqbyye.gif" alt="【揭秘】美国国父华盛顿曾役使白奴" /></a></dd>
+<dd>　　美国独立战争打响两天之后，在弗吉尼亚州的一个城镇登出一则广告，悬赏捉拿10个逃亡奴隶。其中两个是“尼格罗奴隶”，即黑人奴隶；另外8个是白人奴隶。而悬赏追捕他们的人，则是大名鼎鼎的美国国父乔治·华盛顿。</dd>
+</dl>
+<p class="ptn cl"><a href="http://bbs.gmw.cn/thread-3471008-1-1.html" class="xi2 y" target="_blank">查看 &raquo;</a></p>
+</div><div class="bm_c" style="display: none" id="focus_5">
+<dl class="xld cl bbda">
+<dt><a href="http://bbs.gmw.cn/thread-3471696-1-1.html" class="xi2" target="_blank">【围观】猛人毛泽东：一个中专生的逆袭</a></dt>
+<dd class="m"><a href="http://bbs.gmw.cn/thread-3471696-1-1.html" target="_blank"><img src="http://imgsns.gmw.cn/data/attachment/album/201512/10/165555bqrwnirbebvwboui.gif" alt="【围观】猛人毛泽东：一个中专生的逆袭" /></a></dd>
+<dd>　　这个25岁才毕业的大龄师范中专生，又没有任何过硬的家世背景相助，在相当拼爹的民国时代竟然笑到最后，在后半程一路超越留洋博士、北大教授甚至首富女婿大总统，果断地逆袭成功夺得天下。厚积而薄发，猛人就是这么任性。</dd>
+</dl>
+<p class="ptn cl"><a href="http://bbs.gmw.cn/thread-3471696-1-1.html" class="xi2 y" target="_blank">查看 &raquo;</a></p>
+</div><div class="bm_c" style="display: none" id="focus_6">
+<dl class="xld cl bbda">
+<dt><a href="http://bbs.gmw.cn/thread-3473916-1-1.html" class="xi2" target="_blank">【围观】历史上真实还珠格格</a></dt>
+<dd class="m"><a href="http://bbs.gmw.cn/thread-3473916-1-1.html" target="_blank"><img src="http://imgsns.gmw.cn/data/attachment/album/201512/14/155755yeminznwmwsiemdn.jpg" alt="【围观】历史上真实还珠格格" /></a></dd>
+<dd>　　我们几乎没有谁没看过还珠格格的，甚至我们不少人都是看着还珠格格长大的，然而历史上真正的还珠格格是怎么样的呢?她的最终结局又是如何呢?我们从琼瑶阿姨了解到还珠格格的原型，老佛爷应该是孝庄皇太后，皇帝也应该是顺治皇帝。</dd>
+</dl>
+<p class="ptn cl"><a href="http://bbs.gmw.cn/thread-3473916-1-1.html" class="xi2 y" target="_blank">查看 &raquo;</a></p>
+</div><script type="text/javascript">
+var focusnum = 7;
+if(focusnum < 2) {
+$('focus_ctrl').style.display = 'none';
+}
+if(!$('focuscur').innerHTML) {
+var randomnum = parseInt(Math.round(Math.random() * focusnum));
+$('focuscur').innerHTML = Math.max(1, randomnum);
+}
+showfocus();
+var focusautoshow = window.setInterval('showfocus(\'next\', 1);', 5000);
+</script>
+
+
+<div id="ft" class="wp cl">
+<div id="flk" class="y" style="display: none;">
+<p>
+<a href="http://bbs.gmw.cn/forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><a href="http://bbs.gmw.cn/forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><a href="http://bbs.gmw.cn/archiver/" >Archiver</a><span class="pipe">|</span><strong><a href="http://www.gmw.cn" target="_blank">光明网</a></strong>
+&nbsp;<a href="http://discuz.qq.com/service/security" target="_blank" title="防水墙保卫网站远离侵害"><img src="static/image/common/security.png"></a><!-- Start Google-->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20947729-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+<!-- End Google-->
+
+<!-- Start webdig-->
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='http://cl4.webterren.com/webdig.js?z=7' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script language="javascript">
+wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")
+</script>
+<!-- End webdig-->
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"4+gli1aUCm00OA", domain:"gmw.cn",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=4+gli1aUCm00OA" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+</p>
+<p class="xs0">
+GMT+8, 2015-12-21 13:53<span id="debuginfo">
+, Processed in 0.162167 second(s), 30 queries
+, Memcache On.
+</span>
+</p>
+</div>
+<div id="frt">
+<div class="black12" style=" margin:0 auto; padding:0; text-align:center;">
+<p><a href="http://www.gmw.cn/node_21441.htm">光明日报社概况</a> | <a href="http://www.gmw.cn/aboutus.htm">关于光明网</a> | <a href="http://www.gmw.cn/content/node_8926.htm">报网动态</a> | <a href="http://www.gmw.cn/node_46280.htm">联系我们</a> | <a href="http://www.gmw.cn/node_46279.htm">法律声明</a> | <a href="http://www.gmw.cn/content/2013-02/17/content_6709474.htm">相关资质</a> | <a href="http://www.gmw.cn/gm/">光明员工</a> | <a href="http://mail.gmw.cn/">光明网邮箱</a> | <a href="http://www.gmw.cn/map.htm">网站地图</a></p>
+<p>光明网版权所有</p>
+</div>
+</div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1450677183" type="text/javascript"></script>
+<div id="scrolltop">
+<span><a href="http://bbs.gmw.cn/forum.php?mod=post&amp;action=reply&amp;fid=9&amp;tid=3468978&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)" class="replyfast" title="快速回复"><b>快速回复</b></a></span>
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+<span>
+<a href="http://bbs.gmw.cn/forum-9-1.html" hidefocus="true" class="returnlist" title="返回列表"><b>返回列表</b></a>
+</span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '3415974|X3.2|0.6||0||0|7|1450677183|bb77940e0a8f0b78a403ef999f523fd8|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script><div style="display:none;">108</div>
+</body>
+</html>

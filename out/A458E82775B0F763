@@ -1,0 +1,266 @@
+<!--UINFO: http://bbs.seowhy.com/thread-31568900-1-1.html	length=16087&last_modified=0&time_saved=1450676999&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>提示信息 -  搜外SEO论坛</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",搜外SEO论坛" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.seowhy.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?RS5" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_viewthread.css?RS5" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'RS5', charset = 'gbk', discuz_uid = '0', cookiepre = 'xMXI_2132_', cookiedomain = '', cookiepath = '/', showusercard = '0', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|威望值|,2|金钱|,4|推广|,5|达文|,8|经验值|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5zZW93aHkuY29tL3RocmVhZC0zMTU2ODkwMC0xLTEuaHRtbA==', SITEURL = 'http://bbs.seowhy.com/', JSPATH = 'static/js/', DYNAMICURL = '';</script>
+<script src="static/js/common.js?RS5" type="text/javascript"></script>
+<meta name="application-name" content="搜外SEO论坛" />
+<meta name="msapplication-tooltip" content="搜外SEO论坛" />
+<meta name="msapplication-task" content="name=SEO论坛;action-uri=http://bbs.seowhy.com/forum.php;icon-uri=http://bbs.seowhy.com/static/image/common/bbs.ico" />
+<link href="http://image.seowhy.com/sw_icon.png?v=1.1" rel="shortcut icon" type="image/x-icon" />
+<script src="static/js/forum.js?RS5" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div class="sw-mn">
+<div class="sw-mn-bd cl">
+<div class="sw-mn-l z">
+<ul>
+<li><a href="http://www.seowhy.com/" target="_blank">搜外</a></li>
+<li><a href="http://ask.seowhy.com/" target="_blank">问答</a></li>
+<li><a href="http://bbs.seowhy.com/" target="_blank" class="active">论坛</a></li>
+<li><a href="http://job.seowhy.com/" target="_blank">招聘</a></li>
+<li><a href="http://tool.seowhy.com/" target="_blank">工具</a></li>
+<li><a href="http://fuwei.seowhy.com/" target="_blank">培训</a></li>
+</ul>
+</div>
+<div class="sw-mn-r y">
+<ul>
+<li><a href="member.php?mod=logging&amp;action=login" onClick="" rel="nofollow">登录</a></li>
+<li><a href="http://www.seowhy.com/bbs/reg/" class="xi2" rel="nofollow" target="_balnk">申请注册</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div><div class="hd">
+<div class="hd-top">
+<div class="logo"><a href="http://bbs.seowhy.com/"><img src="http://bbs.seowhy.com/static/image/common/bbs-logo.png"></a></div>
+<div class="slogan"></div>
+<div class="nav"><div><ul>
+						<li><a href="http://fuwei.seowhy.com/" target="_blank">与夫唯系统学习SEO，89期报名正在进行</a></li>
+					</ul></div></div>
+<div class="search"><div id="scbar" class="scbar_narrow cl">
+
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="e09a5cf4" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="0" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+
+<input type="text" name="srchtxt" id="scbar_txt" class="search-input" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech />
+<button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="search-btn" value="true">搜索</button>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+<div class="hd-menu">
+<a href="javascript:;" id="qmenu" onMouseOver="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(0);})">快捷导航</a>
+<ul class="left">
+<li><a href="http://bbs.seowhy.com/">论坛首页</a></li>
+<li><a href="http://ask.seowhy.com/" target="_blank">搜外问答</a></li>
+<li><a href="http://fuwei.seowhy.com/" target="_blank">夫唯学院</a></li>
+<li><a href="http://job.seowhy.com/" target="_blank">SEO招聘</a></li>
+</ul>
+</div>
+</div>
+
+
+<div class="wp" style="margin-top:10px;">
+
+<table width="100%"  align="center" border=1 cellpadding=3 cellspacing=0  bordercolor="#ddd" ><tr><td width="25%" height="25" align="center">
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fbbs.seowhy.com%2Fthread-5631330-1-1.html" target="_blank"><img src="http://bbs.seowhy.com/image/ad/20150824-01.gif"></a>
+</td>
+<td width="25%" height="25" align="center">
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwww.seowhy.com%2Fcourse%2Fcategory_id-39" target="_blank"><img src="http://bbs.seowhy.com/image/ad/20151026-01.jpg"></a>
+</td>
+<td width="25%" height="25" align="center">
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwww.yuntuite.com%2Fwechatytt%2Fview_wechat_yttwx" target="_blank"><img src="http://bbs.seowhy.com/image/ad/2015.gif"></a>
+</td>
+
+</tr>
+
+</table>
+
+<div style="margin-top:3px;"></div>
+<table width="100%"  align="center" border=0 cellpadding=0 cellspacing=0  bordercolor="#ddd" ><tr>
+<td align="center">
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fact.niaoyun.com%2F1zhe%2F%3Fseowhy" target="_blank"><img src="http://bbs.seowhy.com/image/ad/20151022-02.gif"></a>
+</td>
+</tr>
+
+</table>
+
+<div style="margin-top:3px;"></div>
+<table width="100%"  align="center" border=0 cellpadding=0 cellspacing=0  bordercolor="#ddd" style=" border:1px solid #ddd;"><tr><td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwww.ruanwen.la%2F%3Fseowhy00" target="_blank" style=" color:#FF0000 ; ">【门户软文发布】10元起【软文代理】</a>
+</td>
+<td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwww.zhainanyuanchuang.com%2Fyuanchuangdaixie%2F" target="_blank" style="; ">▇原创代写▇特价88元/30篇▇仅限一天▇</a>
+</td>
+<td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwpa.qq.com%2Fmsgrd%3Fv%3D3%26uin%3D7055075%26site%3Dqq%26menu%3Dyes" target="_blank" style=" color:#FF0000 ; ">▇--------8000个权重34友链出售------▇</a>
+</td>
+<td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fbbs.seowhy.com%2Fthread-46783729-1-1.html" target="_blank" style=" color:#0000FF ; ">广告联系QQ:800005226</a>
+</td>
+
+</tr>
+<tr><td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fid%3D37217713472" target="_blank" style="; ">正规自己站友情连接导出少高质量明链</a>
+</td>
+<td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fspm%3Da1z10.1-c.w5002-12757107991.5.KLLzR2%26id%3D18432548039" target="_blank" style=" color:#FF0000 ; ">【热卖】权重4-9手工外链【特价友情链接】</a>
+</td>
+<td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwpa.qq.com%2Fmsgrd%3Fv%3D3%26uin%3D1965515770%26site%3Dqq%26menu%3Dyes" target="_blank" style=" color:#0000FF ; ">SEO高薪招聘：每月1-5万,QQ:1965515770</a>
+</td>
+<td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwww.296.com%2F" target="_blank" style=" color:#FF0000 ; ">【296优化王 快速排名系统】正式出租</a>
+</td>
+
+</tr>
+<tr><td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fspm%3D2013.1.w4023-7116539667.4.5QBL8U%26id%3D41591989576" target="_blank" style=" color:#FF0000 ; ">  50元300条/（外链代发 )▇▇▇▇▇▇</a>
+</td>
+<td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fid%3D38714045771" target="_blank" style=" color:#0000FF ; ">70个网站目录永久性外链内页友情链接</a>
+</td>
+<td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwww.wsisp.net" target="_blank" style=" color:#FF0000 ; ">抢疯了！免备案 独立IP云主机 仅需68元！</a>
+</td>
+<td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwww.huabei-jiexiyu.net%2F" target="_blank" style="; ">花呗提现  ：QQ176027328</a>
+</td>
+
+</tr>
+<tr><td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwww.looktop.cn%2F%3F55" target="_blank" style="; ">正规明链仅一元</a>
+</td>
+<td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwpa.qq.com%2Fmsgrd%3Fv%3D3%26uin%3D7055075%26site%3Dqq%26menu%3Dyes" target="_blank" style=" color:#FF0000 ; ">( ′ ▽ ` )&#65417; 外链代发 20天无效退款</a>
+</td>
+<td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwpa.qq.com%2Fmsgrd%3Fv%3D3%26uin%3D1225391715%26site%3Dqq%26menu%3Dyes" target="_blank" style="; "> ★★前50名百度快速排名，厂商白菜价★★</a>
+</td>
+<td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwpa.qq.com%2Fmsgrd%3Fv%3D3%26uin%3D1393952121%26site%3Dqq%26menu%3Dyes" target="_blank" style=" color:#FF0000 ; ">★★★★门户软文发布 包新闻收录★★★★</a>
+</td>
+
+</tr>
+<tr><td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwww.furuanwen.com%2F%3Fseowhy" target="_blank" style=" color:#FF0000 ; ">★门户软文发布★低至8元/起（限一天）★</a>
+</td>
+<td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwww.136660.com%2F" target="_blank" style=" color:#0000FF ; ">★百度快速seo提升至前三名隔日见效</a>
+</td>
+<td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwww.chaojilian.net" target="_blank" style=" color:#FF0000 ; ">新：外链代发,友情链接,网站备案</a>
+</td>
+<td width="25%" height="25" align="center" >
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fbbs.seowhy.com%2Fthread-4277176-1-1.html" target="_blank" style=" color:#0000FF ; ">百度快速排名，前30名可做</a>
+</td>
+
+</tr>
+
+</table>
+
+<div style="margin-top:3px;"></div>
+<table width="100%"  align="center" border=0 cellpadding=0 cellspacing=0  bordercolor="#ddd" ><tr>
+<td align="center">
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fbbs.seowhy.com%2Fthread-42805296-1-1.html" target="_blank"><img src="http://bbs.seowhy.com/image/ad/20150331-01.png"></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwww.seowhy.com%2F" target="_blank"><img src="http://bbs.seowhy.com/image/ad/seowhy99.png"></a>
+</td>
+</tr>
+
+</table>
+
+<div style="margin-top:3px;"></div>
+<table width="100%"  align="center" border=0 cellpadding=0 cellspacing=0  bordercolor="#ddd" ><tr><td width="50%" height="25" align="center" style="padding:2px 0;">
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fbbs.seowhy.com%2Fthread-32053344-1-1.html" target="_blank"><img src="http://bbs.seowhy.com/image/ad/20151207-01.jpg"></a>
+</td>
+<td width="50%" height="25" align="center" style="padding:2px 0;">
+<a href="plugin.php?id=adclick&amp;url=http%3A%2F%2Fwww.all888.org%2F" target="_blank"><img src="http://bbs.seowhy.com/image/ad/478-60.gif"></a>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<div id="wp" class="wp">
+<div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p>抱歉，指定的主题不存在或已被删除或正在被审核</p>
+<script type="text/javascript">
+if(history.length > (BROWSER.ie ? 0 : 1)) {
+document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ 点击这里返回上一页 ]</a></p>');
+} else {
+document.write('<p class="alert_btnleft"><a href="./">[ 搜外SEO论坛 首页 ]</a></p>');
+}
+</script>
+</div>
+</div>
+</div>
+</div>	</div>
+<div class="wp a_f"><a href="http://bbs.seowhy.com/thread-37668134-1-1.html" target="_blank"><img src="http://bbs.seowhy.com/image/ad/2015000000.jpg" height="60" width="960" border="0"></a></div><div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="http://bbs.seowhy.com/forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><a href="http://bbs.seowhy.com/forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><a href="http://fuwei.seowhy.com/" target="_blank" >SEO培训</a><span class="pipe">|</span><a href="http://ask.seowhy.com/" target="_blank" >SEO问答</a><span class="pipe">|</span><a href="http://tool.seowhy.com/" target="_blank" >SEO站长工具</a><span class="pipe">|</span><a href="http://faq.seowhy.com/" >SEO教程</a><span class="pipe">|</span><a href="http://edu.seowhy.com/" target="_blank"  style="color: red">教研室</a><span class="pipe">|</span><strong><a href="http://bbs.seowhy.com/" target="_blank">SEO论坛</a></strong>
+( <a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备08003897号</a> )<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?73d7deb078b4131e8a73d92dc09ceb65";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<a href="http://fuwei.seowhy.com/" target="_blank"><img src="http://bbs.seowhy.com/images/toss_13.gif"></a></p>
+<p class="xs0">
+工作日:09:00-18:00 账号或帖子问题请您加QQ:800005226 / 广告业务:114693020 / SEO培训报班:800035397
+</p>
+</div>
+<div id="frt">
+<p>Powered by <a href="http://www.discuz.net" target="_blank" rel="nofollow">Discuz</a>-<a href="http://ask.seowhy.com/" target="_blank">seo</a> - <strong><a href="http://www.seowhy.com" target="_blank">搜外网</a></strong> <em>X3.2</em></p>
+<p class="xs0">&copy; 2007-2014 <a href="http://www.seowhy.com/abouts/contact_us.html" target="_blank" rel="nofollow">联系我们</a></p>
+</div>
+<a  key ="553f3c92efbfb06dd6db81ec"  logo_size="83x30"  logo_type="enterprise"  href="http://www.anquan.org" ><script src="http://static.anquan.org/static/outer/js/aq_auth.js" type="text/javascript"></script></a></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1450676996" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '1236486|X3.2|0.6||0||0|7|1450676996|a4fc5dad9f8f9098afe67ac4f24b65cf|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>

@@ -1,0 +1,211 @@
+<!--UINFO: http://bbs.cntv.cn/thread-27657419-1-1.html	length=20869&last_modified=0&time_saved=1450677187&charset=utf-8-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type"  content="text/html;charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<title>中国传媒大学党委书记陈文申等8人违纪 校长被免职 - 新闻跟帖 -  复兴论坛  </title>
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico"> 
+<meta name="keywords" content="中国传媒大学党委书记陈文申等8人违纪 校长被免职,新闻跟帖,复兴论坛" />
+<meta name="description" content="查看原文地址: http://news.cntv.cn/2015/11/24/ARTI1448359036224150.shtml　　教育部党组对违反中央八项规定精神问题严肃查处，决不手软，一抓到底。近日，严肃查处了中国传媒 中国传媒大学党委书记陈文申等8人违纪 校长被免职 , 复兴论坛" />
+<meta name="generator" content="Discuz! 6.0.0" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2007 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<link rel="archives" title="复兴论坛" href="http://bbs.cntv.cn/archiver/" />
+	<link rel="stylesheet" type="text/css" href="/forumdata/cache/style_1.css?id=2" />
+
+<script type="text/javascript">var IMGDIR = 'images/default';var CDN_URL = 'http://bbs.cntv.cn';var attackevasive = '0';var gid = 0;gid = parseInt('31026');var fid = parseInt('30975');var tid = parseInt('27657419');</script>
+<script src="http://bbs.cntv.cn/include/javascript/jquery.js" type="text/javascript"></script>
+<script>
+jQuery.noConflict();
+function add_blank() {
+	jQuery("#firstpost a").each(function(){
+		jQuery(this).attr('target','_blank');
+		});
+}
+</script>
+<script src="http://bbs.cntv.cn/include/javascript/common.js" type="text/javascript"></script>
+<script src="http://www.cctv.com/Library/a2.js" type="text/javascript"></script>
+<script src="http://bbs.cntv.cn/include/javascript/jquery.js" type="text/javascript"></script>
+<script type="text/javascript">var j$ = jQuery.noConflict();</script>
+<script src="http://bbs.cntv.cn/include/javascript/emailnote.js" type="text/javascript"></script>
+<script type="text/javascript">
+j$(document).ready(function() {
+	
+	jQuery.note._note('usrid_left', 'passwd_left');
+
+	j$(function (){
+		j$("#usrid_left").val("");
+		j$("#usrid_left").focus();
+	});
+
+	j$("#passwd_left").keydown(function(e){
+		e.which==13 && j$("#login").submit();
+	});
+
+	jQuery.note._note('usrid_in', 'passwd_in');
+	jQuery("#passwd_in").keydown(function(e){
+		e.which==13 && jQuery("#loginform_in").submit();
+	});
+
+	jQuery.note._note('usrid_nav', 'passwd_nav');
+	jQuery("#passwd_nav").keydown(function(e){
+		e.which==13 && jQuery("#loginform").submit();
+	});
+
+});
+</script>
+<script src="http://bbs.cntv.cn/include/javascript/menu.js" type="text/javascript"></script>
+<script src="http://bbs.cntv.cn/include/javascript/ajax.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="http://bbs.cntv.cn/./templates/default/blogworld.css" />
+<link rel="stylesheet" type="text/css" id="css1" href="http://bbs.cntv.cn/./templates/default/iframe.css" />
+<link rel="stylesheet" type="text/css" id="layout" href="/./templates/default/layout.css?id=1" />
+
+<script type="text/javascript">
+function checkleftmenudiv(menu) {
+	//banned user return  by shaoqi 2011/11/24
+		var leftmenudiv = document.getElementById('leftmenudiv');
+	var stylemenu = document.getElementById('stylemenu');
+	var switchbar = document.getElementById('switchbar');
+	var frameswitch = document.getElementById('frameswitch');
+	var FloatDIV = document.getElementById('FloatDIV');
+	if(menu == 'yes') {
+		leftmenudiv.style.display = '';
+		switchbar.style.display = '';
+		FloatDIV.style.left = "143px";
+		stylemenu.innerHTML = '<a href="javascript:;" onclick="checkleftmenudiv(\'no\');" class="frameoff">平板模式<\/a>';
+		changemenu(menu);
+	} else {
+		leftmenudiv.style.display = 'none';
+		switchbar.style.display = 'none';
+		FloatDIV.style.left = '0px';
+		stylemenu.innerHTML = '<a href="javascript:;" onclick="checkleftmenudiv(\'yes\');" class="frameon">分栏模式<\/a>';
+		changemenu(menu);	
+	}
+}
+function changemenu(num){
+	setcookie('stylemenu', '', 0, '/', '.cntv.cn');
+	setcookie('stylemenu', num, 1000000, '/', '.cntv.cn');
+}
+function framebutton(){
+	var leftmenudivyes = document.getElementById('leftmenudiv');
+	var frameswitch = document.getElementById('frameswitch');
+	var FloatDIV = document.getElementById('FloatDIV');
+	if(leftmenudivyes.style.display == 'none'){
+		leftmenudivyes.style.display = '';
+		FloatDIV.style.left = "143px";
+	}else{
+		leftmenudivyes.style.display = 'none';
+		FloatDIV.style.left = '0px';
+	}
+}
+</script>
+<style>
+.checkcolorid a:visited{color:#767A7D;}
+.avatar{padding: 0px;margin: 0px;width: 100px;height: 80px;display: table-cell;vertical-align:middle;text-align:center;overflow: hidden;border: none;}
+.avatar p{padding: 0px;margin: 0px;}
+.avatar img{border:none;padding: 0px;margin: 0px;max-width: 100px;max-height: 80px;_height:expression((this.height/80 > this.width/100) ? 80 : (100/this.width)*this.height);*margin-top: expression( (80-this.height)/2 );}
+.frameswitch {line-height: 30px; padding-left: 0px; border-left:none;}
+#frameswitch {
+	background: url(http://bbs.cntv.cn/images/default/frame_switch.gif?id=1);
+	cursor: pointer;
+}
+#stylemenu {padding-left:5px;}
+#switchbar{border:0;height:100%;background-repeat:repeat-y;width:11px;margin-left:-5px;PADDING-RIGHT:11px}
+</style>
+
+<!--<script src="http://my.cntv.cn/temp/ynluc_20111012.js" type="text/javascript"></script>-->
+
+<script src="plugins/retina/retina.js" type="text/javascript"></script>
+<script type="text/javascript">
+rtn_checkuuid();
+</script>
+</head>
+<body onkeydown="if(event.keyCode==27) return false;">
+	<!-- START WRating v1.0 -->
+	<script type="text/javascript">
+	var vjAcc="860010-1129010100";
+	var wrUrl="http://cntv.wrating.com/";
+	var wrVideoUrl="http://cntv.wrating.com/";
+	</script>
+	<!-- END WRating v1.0 -->
+<script type="text/javascript">if(top.location.hostname==='bbs.cntv.cn' && top != self){top.location = self.location;}</script>
+
+<table cellPadding="0" cellSpacing="0" style="width:100%">
+	<tr>
+					<td vAlign="top" style="height:100%; width:143px;" id="leftmenudiv" class="out leftmenucss">
+<div class="out" id="leftoutdiv" style="display:block;height:100%;width:143px"><div class="top_j"><h1 class="h6_j">欢迎进入复兴论坛</h1>
+	<div class="userpanel" id="userpanel">
+	<form id="login" name="login" action="https://reg.cntv.cn/login/login.action" method="post" onSubmit="this.from.value='http://bbs.cntv.cn/logging.php?action=login&loginsubmit=1&cookietime=0&referer='+parent.location;if(this.remuser.checked)this.returl.value='http://bbs.cntv.cn/logging.php?action=login&loginsubmit=1&cookietime=604800&referer='+parent.location;return true;">
+	<fieldset id="userlogin"><input type="hidden" name="service" value="http%3A%2F%2Fbbs.cntv.cn%2Fthread-27657419-1-1.html" ><input type="hidden" name="from" value="http://bbs.cntv.cn/logging.php?action=login&referer=&loginsubmit=1" /><legend>用户登录</legend><p><label for="username">帐&nbsp;&nbsp;&nbsp;&nbsp;号</label><input id="usrid_left" name="username" maxlength="32" size="15" value="邮箱/用户名" onblur="var d=this.defaultValue;if(this.value=='')this.value=d;" onfocus="if(this.value==this.defaultValue)this.value=''" style="color:#8F8F8F" /></p><p><label for="userpass" maxlength="20">密　码</label><input id="passwd_left" type="password" value="" name="password" size="15"></p><p><span><label for="remuser"><input  id="remuser" type="checkbox" tabindex="-1" value="checktrue" name="remuser" style="vertical-align: middle;">下次自动登录</label></span></p><p><button id="dologin" name="loginsubmit" type="button" value="true" onclick="javascript:if(this.form.onsubmit() != false) {this.form.submit();}return false;">登录</button><a href="http://reg.cntv.cn/regist/regist.jsp?from=http%3A%2F%2Fbbs.cntv.cn%2Fthread-27657419-1-1.html" target=_blank class="ureg">注册</a></p></fieldset></form></div><p class="api_login"><a style="text-decoration:none;" target="_blank" id="login_qq" href="http://oauth.passport.cntv.cn/OAuthQzoneClient/OAuthQZoneClientServlet.do?method=login&amp;cntv_callback=bbs">&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration:none;" target="_blank" id="login_renren" href="http://oauth.passport.cntv.cn/OAuthRenRenClient/OAuthRenRenClientServlet.do?method=login&amp;cntv_callback=bbs">&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration:none;" target="_blank" id="login_kaixin" href="http://oauth.passport.cntv.cn/OAuthKaixinClient/connect/index.jsp?cntv_callback=bbs">&nbsp;</a></p>
+<p class="p_j"><a href="/viewthread.php?tid=12800187&amp;page=1" title="管理条例" target="_blank">管理条例</a><a href="/viewthread.php?tid=12800191&amp;page=1" title="论坛说明" target="_blank">论坛说明</a></p></div><div class="shouyenav" width="126px"><a style="LINE-HEIGHT: 26px; TEXT-DECORATION: none;" target="_top" href="/">论坛首页 </a></div>
+
+<script type="text/javascript">
+var icon = new Object();
+icon.root		= CDN_URL + '/' + IMGDIR + '/tree_root.gif';
+icon.folder		= CDN_URL + '/' + IMGDIR + '/tree_folder.gif';
+icon.folderOpen		= CDN_URL + '/' + IMGDIR + '/tree_folderopen.gif';
+icon.file		= CDN_URL + '/' + IMGDIR + '/tree_file.gif';
+icon.empty		= CDN_URL + '/' + IMGDIR + '/tree_empty.gif';
+icon.line		= CDN_URL + '/' + IMGDIR + '/tree_line.gif';
+icon.lineMiddle		= CDN_URL + '/' + IMGDIR + '/tree_linemiddle.gif';
+icon.lineBottom		= CDN_URL + '/' + IMGDIR + '/tree_linebottom.gif';
+icon.plus		= CDN_URL + '/' + IMGDIR + '/tree_plus.gif';
+icon.plusMiddle		= CDN_URL + '/' + IMGDIR + '/tree_plusmiddle.gif';
+icon.plusBottom		= CDN_URL + '/' + IMGDIR + '/tree_plusbottom.gif';
+icon.minus		= CDN_URL + '/' + IMGDIR + '/tree_minus.gif';
+icon.minusMiddle	= CDN_URL + '/' + IMGDIR + '/tree_minusmiddle.gif';
+icon.minusBottom	= CDN_URL + '/' + IMGDIR + '/tree_minusbottom.gif';
+function swapDisplay(element) {
+	if (element.nextSibling) {
+		if (element.nextSibling.style.display == "none") {
+			element.nextSibling.style.display = "";
+			element.className = "navtitle";
+		} else {
+			element.nextSibling.style.display = "none";
+			element.className = "closenav";
+		}
+	}
+}
+function switchDisplay(nodeId) {
+	if($('nodes_' + nodeId)) {
+		if($('nodes_' + nodeId).style.display == 'none') {
+			$('nodes_' + nodeId).style.display = '';
+			$('icon1_' + nodeId).src = icon.minusMiddle;
+			$('icon2_' + nodeId).src = icon.folderOpen;
+		} else {
+			$('nodes_' + nodeId).style.display = 'none';
+			$('icon1_' + nodeId).src = icon.plusMiddle
+			$('icon2_' + nodeId).src = icon.folder;
+		}			
+	}
+}
+</script>																																																																																																																																																																																																																																																																																	<div class="tree"><div class="nodes" id="node_0"><img src="http://bbs.cntv.cn/images/default/tree_root.gif" onclick="switchDisplay('0')" id="icon2_0" style="cursor: pointer;"><a href="/index.php" target="_top"> 论坛首页</a></div><div class="nodes" id="nodes_0" style="display:"><div class="node" id="node_99999998"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_99999998"><img src="http://bbs.cntv.cn/images/default/tree_root.gif"><a href="/digest.php" target="main"> 精华区</a></div>
+<div class="node" id="node_99999999"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_99999999"><img src="http://bbs.cntv.cn/images/default/tree_root.gif"><a href="/search.php?srchfrom=87000&searchsubmit=yes" target="main"> 查看新帖</a></div>
+<div class="closenav" id="node_31004" onclick="swapDisplay(this)"><img src="http://bbs.cntv.cn/images/default/tree_plusmiddle.gif" onclick="switchDisplay('31004')" id="icon1_31004" style="cursor: pointer;"><img src="http://bbs.cntv.cn/images/default/tree_folder.gif" onclick="switchDisplay('31004')" id="icon2_31004" style="cursor: pointer;"><a href="/group-31004.html" target="_blank"> 活动专区</a></div><div class="nodes" id="nodes_31004" style="display:none"><div class="node" id="node_31097"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31097"><img src="http://bbs.cntv.cn/images/default/tree_folder.gif"><a href="/forum-31097-1.html" target="_blank"> 新国企·中国梦</a></div>
+<div class="node" id="node_30918"><img src="http://bbs.cntv.cn/images/default/tree_linebottom.gif" id="icon1_30918"><img src="http://bbs.cntv.cn/images/default/tree_folder.gif"><a href="/forum-30918-1.html" target="_blank"> 活动专区</a></div>
+</div><div class="closenav" id="node_31040" onclick="swapDisplay(this)"><img src="http://bbs.cntv.cn/images/default/tree_plusmiddle.gif" onclick="switchDisplay('31040')" id="icon1_31040" style="cursor: pointer;"><img src="http://bbs.cntv.cn/images/default/tree_folder.gif" onclick="switchDisplay('31040')" id="icon2_31040" style="cursor: pointer;"><a href="/group-31040.html" target="_blank"> 海外部</a></div><div class="nodes" id="nodes_31040" style="display:none"><div class="node" id="node_31041"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31041"><img src="http://bbs.cntv.cn/images/default/tree_folder.gif"><a href="/forum-31041-1.html" target="_blank"> 英语</a></div>
+<div class="node" id="node_31042"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31042"><img src="http://bbs.cntv.cn/images/default/tree_folder.gif"><a href="/forum-31042-1.html" target="_blank"> 西语</a></div>
+<div class="node" id="node_31043"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31043"><img src="http://bbs.cntv.cn/images/default/tree_folder.gif"><a href="/forum-31043-1.html" target="_blank"> 法语</a></div>
+<div class="node" id="node_31044"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31044"><img src="http://bbs.cntv.cn/images/default/tree_folder.gif"><a href="/forum-31044-1.html" target="_blank"> 阿语</a></div>
+<div class="node" id="node_31045"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31045"><img src="http://bbs.cntv.cn/images/default/tree_folder.gif"><a href="/forum-31045-1.html" target="_blank"> 俄语</a></div>
+<div class="node" id="node_31088"><img src="http://bbs.cntv.cn/images/default/tree_linebottom.gif" id="icon1_31088"><img src="http://bbs.cntv.cn/images/default/tree_folder.gif"><a href="/forum-31088-1.html" target="_blank"> 外文留言评论</a></div>
+</div><div class="closenav" id="node_31026" onclick="swapDisplay(this)"><img src="http://bbs.cntv.cn/images/default/tree_plusmiddle.gif" onclick="switchDisplay('31026')" id="icon1_31026" style="cursor: pointer;"><img src="http://bbs.cntv.cn/images/default/tree_folder.gif" onclick="switchDisplay('31026')" id="icon2_31026" style="cursor: pointer;"><a href="/group-31026.html" target="_blank"> 复兴论坛</a></div><div class="nodes" id="nodes_31026" style="display:none"><div class="node" id="node_4740"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_4740"><img src="http://bbs.cntv.cn/images/default/tree_folder.gif"><a href="/forum-4740-1.html" target="_blank"> 给总书记捎句心里话</a></div>
+<div class="node" id="node_4741"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_4741"><img src="http://bbs.cntv.cn/images/default/tree_folder.gif"><a href="/forum-4741-1.html" target="_blank"> 我有问题问总理</a></div>
+<div class="nodes" id="node_31100"><img src="http://bbs.cntv.cn/images/default/tree_plusmiddle.gif" onclick="switchDisplay('31100')" id="icon1_31100" style="cursor: pointer;"><img src="http://bbs.cntv.cn/images/default/tree_folder.gif" onclick="switchDisplay('31100')" id="icon2_31100" style="cursor: pointer;"><a href="/forum-31100-1.html" target="_blank"> 我有问题问省长（市长）</a></div><div class="nodes" id="nodes_31100" style="display:none"><div class="node" id="node_31049"><img src="http://bbs.cntv.cn/images/default/tree_line.gif"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31049"><img src="http://bbs.cntv.cn/images/default/tree_file.gif" id="icon2_31049"><a href="/forum-31049-1.html" target="_blank"> 北京民声在线</a></div>
+<div class="node" id="node_31050"><img src="http://bbs.cntv.cn/images/default/tree_line.gif"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31050"><img src="http://bbs.cntv.cn/images/default/tree_file.gif" id="icon2_31050"><a href="/forum-31050-1.html" target="_blank"> 天津民声在线</a></div>
+<div class="node" id="node_31060"><img src="http://bbs.cntv.cn/images/default/tree_line.gif"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31060"><img src="http://bbs.cntv.cn/images/default/tree_file.gif" id="icon2_31060"><a href="/forum-31060-1.html" target="_blank"> 河北民声在线</a></div>
+<div class="node" id="node_31061"><img src="http://bbs.cntv.cn/images/default/tree_line.gif"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31061"><img src="http://bbs.cntv.cn/images/default/tree_file.gif" id="icon2_31061"><a href="/forum-31061-1.html" target="_blank"> 山西民声在线</a></div>
+<div class="node" id="node_31053"><img src="http://bbs.cntv.cn/images/default/tree_line.gif"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31053"><img src="http://bbs.cntv.cn/images/default/tree_file.gif" id="icon2_31053"><a href="/forum-31053-1.html" target="_blank"> 内蒙古民声在线</a></div>
+<div class="node" id="node_31057"><img src="http://bbs.cntv.cn/images/default/tree_line.gif"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31057"><img src="http://bbs.cntv.cn/images/default/tree_file.gif" id="icon2_31057"><a href="/forum-31057-1.html" target="_blank"> 辽宁民声在线</a></div>
+<div class="node" id="node_31058"><img src="http://bbs.cntv.cn/images/default/tree_line.gif"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31058"><img src="http://bbs.cntv.cn/images/default/tree_file.gif" id="icon2_31058"><a href="/forum-31058-1.html" target="_blank"> 吉林民声在线</a></div>
+<div class="node" id="node_31059"><img src="http://bbs.cntv.cn/images/default/tree_line.gif"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31059"><img src="http://bbs.cntv.cn/images/default/tree_file.gif" id="icon2_31059"><a href="/forum-31059-1.html" target="_blank"> 黑龙江民声在线</a></div>
+<div class="node" id="node_31052"><img src="http://bbs.cntv.cn/images/default/tree_line.gif"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31052"><img src="http://bbs.cntv.cn/images/default/tree_file.gif" id="icon2_31052"><a href="/forum-31052-1.html" target="_blank"> 上海民声在线</a></div>
+<div class="node" id="node_31064"><img src="http://bbs.cntv.cn/images/default/tree_line.gif"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31064"><img src="http://bbs.cntv.cn/images/default/tree_file.gif" id="icon2_31064"><a href="/forum-31064-1.html" target="_blank"> 江苏民声在线</a></div>
+<div class="node" id="node_31067"><img src="http://bbs.cntv.cn/images/default/tree_line.gif"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31067"><img src="http://bbs.cntv.cn/images/default/tree_file.gif" id="icon2_31067"><a href="/forum-31067-1.html" target="_blank"> 浙江民声在线</a></div>
+<div class="node" id="node_31065"><img src="http://bbs.cntv.cn/images/default/tree_line.gif"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31065"><img src="http://bbs.cntv.cn/images/default/tree_file.gif" id="icon2_31065"><a href="/forum-31065-1.html" target="_blank"> 安徽民声在线</a></div>
+<div class="node" id="node_31068"><img src="http://bbs.cntv.cn/images/default/tree_line.gif"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31068"><img src="http://bbs.cntv.cn/images/default/tree_file.gif" id="icon2_31068"><a href="/forum-31068-1.html" target="_blank"> 福建民声在线</a></div>
+<div class="node" id="node_31066"><img src="http://bbs.cntv.cn/images/default/tree_line.gif"><img src="http://bbs.cntv.cn/images/default/tree_linemiddle.gif" id="icon1_31066"><img src="http://bbs.cntv.cn/images/default/tree_file.gif" id="icon2_31066"><a href="/forum-31066-1.html" target="_blank"> 江西民声在线<

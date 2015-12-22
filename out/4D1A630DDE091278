@@ -1,0 +1,150 @@
+<!--UINFO: http://3g.xici.net/d209413043.htm	length=13851&last_modified=0&time_saved=1450676917&charset=UTF-8-->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>作者：燕王王皓 教育腐败，触目惊心_第1页_乐思闲_院校_西祠胡同</title>
+    <meta name="description" content="作者：燕王王皓 教育腐败，触目惊心">
+    <meta name="keywords" content="社团,谈金论股,读书与思考,难忘岁月,都市生活,书画影音,养生保健,诗词歌赋,读帖有感">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="shortcut icon" href="http://imgs.xici.net/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon-precomposed" href="http://s1.xici.net/3g/2.0/dist/images/3glogo.png"/>
+    <link rel="apple-touch-startup-image" href="http://s1.xici.net/3g/2.0/dist/images/3glogo.png" />
+
+        <link rel="stylesheet" href="http://s1.xici.net/3g/2.0/dist/styles/xici-touch-151208170320.min.css">
+    
+    <script>
+    // 百度统计
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "//hm.baidu.com/hm.js?614334c2c3d0337b5f7d34b1ce939eee";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+
+    // google统计
+    (function(i, s, o, g, r, a, m) {
+        'use strict';
+
+        i.GoogleAnalyticsObject = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments);
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m);
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-47406249-1', 'auto');
+    ga('send', 'pageview');
+
+    // 为android app去掉header和footer
+    if(window.location.search.indexOf('xiciapp=1') > 0){
+        document.write('<style>.header, .footer{display:none} body{padding-bottom:43px} #zone-activity{display:none;}#zone-activity-content{display:none;} .new-nav-wrap{display:none;}</style>');
+    }
+    
+    //如果是微信浏览器替换2个图标
+        var imgUrl = "http://s1.xici.net/3g/2.0/dist/images/board/icon-heart-active.png";
+    var imgUrl2 = "http://s1.xici.net/3g/2.0/dist/images/board/icon-heart.png";
+        var ua = navigator.userAgent.toLowerCase();
+    if(ua.match(/MicroMessenger/i) == "micromessenger") {
+        document.write(
+           '<style type="text/css">'
+              +'.icon.icon-good-blue{'
+                +'background-image: url('+ imgUrl +');'
+              +'}'
+              +'.icon.icon-good-blue-linear,.icon.icon-good-sml{'
+                  +'background-image: url('+ imgUrl2 +');'
+              +'}'
+           +'</style>'
+        );
+      }
+    </script>
+</head>
+<body class="page-doc" data-bid="1264967"
+      data-tid="209413043">
+
+
+<header class="header">
+    <div class="container">
+        <div class="nav">
+            <a data-tj="doc.navHome" href="/" class="icon icon-header-home"></a>
+            <a data-tj="doc.navSearch" href="/?method=search.board" class="icon icon-header-search"></a>
+            <a data-tj="doc.navShare" id="J_BtnShare" class="icon icon-header-share">&nbsp;</a>
+        </div>
+        <a data-tj="doc.navBoard" class="header-link" href="/b1264967">
+            <h1><i class="icon icon-back"></i>&nbsp;乐思闲</h1>
+        </a>
+    </div>
+</header>
+<div class="doc-info">
+	<div id="doc_editer_wapper">
+		<div class="shadow"></div>
+		<div id="doc_editer_content">
+
+		</div>
+	</div>
+    <div class="container">
+        <h1>
+            
+            作者：燕王王皓 教育腐败，触目惊心        </h1>
+
+        <div class="text-sml text-gray">
+                        <div id="J_Collect" data-tj="doc.star" data-id="209413043"
+                 data-title="作者：燕王王皓 教育腐败，触目惊心" class="pull-right collect">
+                <i class="icon icon-star-blue-linear"></i>
+            </div>
+            
+            <i class="icon icon-clock-sml"></i>&nbsp;2015-06-09            &nbsp;&nbsp;&nbsp;
+            <i class="icon icon-eye-sml"></i>&nbsp;3128            &nbsp;&nbsp;&nbsp;
+            <i class="icon icon-msg-sml"></i>&nbsp;4        </div>
+    </div>
+</div>
+
+
+<div class="doc-floors list-view">
+            <div id="Floor0" class="item">
+        <div class="user-info">
+            <a data-tj="doc.viewUserCenter" class="text-black"
+               href="/?method=ucenter.userdocs&user_id=20617393&username=思则不罔28"><img
+                    class="avatar" src="http://icons.xici.net/u20617393/files/photo_m.pic" alt="">
+
+                <h3>思则不罔28</h3>
+                <time class="text-gray text-sml">2014-10-21</time>
+            </a>
+
+            <div class="right">
+                                <a data-tj="doc.viewOnlyAuthor"
+                   href="/d209413043.htm?person=20617393"
+                   class="btn btn-mini btn-white">只看楼主</a>
+                            </div>
+        </div>
+        <div class="content">
+            <div class="J_Content" data-emote="0">
+                <!---doc_text---><p><font size="4"><font face="黑体" size="5">教育腐败，触目惊心<br />
+</font>作者：燕王王皓 时间：2014-10-20 20:10 </font><font size="4"></font></p>
+<p><font size="4"></font>&nbsp;</p>
+<p><font size="4">2003年9月，《21世纪经济报道》发文《十年教育乱收费2000亿元》：“国家发展和改革委员会公布的数据显示，教育收费问题已连续3年成为全国价格投诉头号热点，2002年全国共立案查处价格违法案件6.5万件，查处违法金额5亿元，其中教育乱收费行为近2万件，占立案查处总数的29.6%。8月21日，国家发展和改革委员会发布今年上半年价格举报热点问题，教育乱收费仍高居榜眼。根据教育部公布的一份抽查结果，过去5年共查出全国中小学乱收费15亿元；而一些权威教育专家认为，“该数据过于保守了，现在有的一个城市学校乱收费都能达到上亿。”据某知名教育专家推测，2002年全国共有9.88万所中学和45.69万所小学，其中至少2%为省市级重点学校，最保守的估计，每所重点中、小学年收择校费分别为500万和200万元，如此计算，光择校费一项，全国一年就超过270亿元，这当中大部分是属于乱收费。在以教育为本的中国，愈演愈烈的乱收费正在成为最广泛的百姓话题，甚至演变成为一些典型的社会悲剧。”</font></p>
+<p><font size="4"></font>&nbsp;</p>
+<p><br />
+<font size="4">2005年12月，《工人日报》报道，从2000年到2003年10月，广州市检察机关共立案查处省、市、区三级教育系统工作者职务犯罪案件68起。2003年1月至10月，广州市检察机关受理教育系统职务犯罪举报线索102件、116人。招生分配、信息化建设、出租学校场地、文凭办证、采购设备教材、教育基建工程等，已成为教育系统易生腐败的六大环节。</font></p>
+<p><font size="4"></font>&nbsp;</p>
+<p><br />
+<font size="4">同年，通过对省内数十所高校的财务收支审计，江西省审计厅最近发现高校购置图书私分回扣的问题严重，普遍存在截留私分现象。审计人员发现，部分大学图书购置回扣来源主要来自新华书店和一些直销书商。图书回扣，名义上被称为发行费，回扣比例一般为15％至25％，有的高达30％。新华书店和直销书商对高校图书发行费回扣一般采取两种形式：其中8％、10％或15％现金返还到学校财务处账上，另外10％左右直接送到学校教务处教材科或经办个人。无论是新华书店发行环节，还是高校购书环节，只要有腐败产生，行贿者决不会做亏本生意，总会从各个环节千方百计捞出行贿成本，而这一切最终都会转嫁到购书者身上。郑南是四川一所师范院校大三学生，他把每年交的学费和书费都做了登记，细心的他发现大部分公共课和专业课的教材都是大一发下来的，最贵的教材是《世界新闻史》40元，一般的公共课如《形势与政策》，只需要12元，他把三年发的各种教材标价加在一起，也不到500元。郑南告诉记者，他们一年交的书费已经够买下这三年发的教材，但是每年500元的书费学校还是照收不误。</font></p>
+<p><font size="4"></font>&nbsp;</p>
+<p><br />
+<font size="4">2009年，《南方日报》发文《还有多少“净土”是腐败新高发区》：“高校一直被人们视为做学问、搞研究的“净土”，既没有行政权力，也不投资运营。然而，近年来，招生录取受贿、科研大楼建设贪污等新闻不绝于耳，新近发生的武汉大学基建工程腐败案又添新例。之前，同济大学原副校长吴世明因受贿罪被判刑10年；南京财经大学原副校长刘代宁被控受贿160多万；陕西近3年已查处80多宗大学经济案，倒下7名厅级校官……可以说，高校已经成为腐败的新高发区。为什么高校成为腐败的新高发区呢？主要原因不外乎两条：一是有利可图，二是缺乏监督。高等院校，在一些人眼里，曾经是“圣洁殿堂”，是清净的场所，是卓然独立于社会的象牙塔，是“穷教书匠”毕集的地方，无论如何也与腐败风马牛不相及。曾经,这也是事实,在“臭老九”的年代,高校自然是清廉的地方,无油水可捞,又怎么能够不清廉呢?然而，时过境迁，随着知识经济的张扬，各地人才战略的高举，高校产生了新一轮的大跃进：不仅是大幅扩招，人员数量大跃进，而且是大面积兴建楼堂会馆，在物质方面大跃进。这两个方面的扩容都带来了庞大的经济效益：高校行政管理人员可以借此插手经建项目，从中寻租；教师尤其是著名教师可以通过参与出题、出书、演讲等获得高额的体制外收入。这是有利可图的方面。但如果高校纪检部门约束有效，监督有效，腐败也不至于频繁发生。可惜的是，在这一系列高校腐败案中，高校自身的纪检机构基本上处于失语状态。既然有利可图，监督又缺乏，腐败怎么可能不发生？”</font></p>
+<p><font size="4"></font>&nbsp;</p>
+<p><br />
+<font size="4">高等教育问题研究学者、上海交大教授熊丙奇对新京报记者称，大学校长书记因基建、招生等问题落马已不是一两例了，这些领域是腐败的高发领域。熊丙奇称，国内高校校长由上级主管部门任命，有行政级别。学校内部行政、教育、学术权力不分，行政权主导教育和学术资源配置，直接介入教育事务和学术事务。而行政领导如可以直接干涉工程全过程，就可能导致权色、权钱交易。熊丙奇解释，出现问题的主要原因是权力缺乏监管，不少学校内部决策没有民主决策，学校成立的教授委员会和学术委员会往往被沦为摆设。熊丙奇说，要制约高校的教育腐败和学术腐败，不能指望行政领导自觉“把关”，而必须建立现代学校制度，有效制约学校行政的权力。建立现代大学制度，包括推进行政权力、教育权、学术权分离，学校内部制约行政权力，校长实行公开民选，实行大学理事会治理，大学行政由理事会负责，行政不得干预教育、学术事务。学生有权利参与到办学监督中。北京大学法学院教授姜明安建言，中国高校需去行政化，可实行董事会制度，高校领导产生，通过选举产生，也可由董事会来聘任选派。</font></p>
+<p><font size="4"></font>&nbsp;</p>
+<p><br />
+<font size="4">中国政法大学教育法中心发布的《2010-2011年度高校信息公开观察报告》显示,在教育部“211工程”中的112所大学,没有一所向社会主动公开学校经费来源和年度经费预算决算方案,也没有一家高校公布其财务资金的具体使用情况。其中,名校北京大学和清华大学排名靠后,多项测评指标得分均为零。高校信息公开严重落后,主要因为认识不足,缺乏动力。不少人认为,高校事务是自己内部的事,跟社会公众关系不大。公众普遍关注的问题,比如招生信息,公开情况相对要好一些,而财政信息、经费预算等关键信息的公开,基本上仍属空白。另一方面,高校长期处于行政的羽翼之下,资金来自财政拨款,没有依靠信息公开赢得公众好评的紧迫感。然而,“211工程”的高校,无一例外都是公立学校,是财政拨款的公共事业单位,高校的财务信息,理应纳入信息公开范畴。高校的科研经费,主要来自财政投入,资金的使用和分配情况,理应纳入预算,接受公众监督。高校信息公开,并非缺乏法律依据,高校师生和社会公众,也有知情和监督的要求,不能因为高校是育人机构,掌握权力的一般是学术界人士,就可以放松监管,享受免于公开的特权。越来越多的科研经费投入,成为不受监管的“特别经费”,可以由个人随意支配挪用,不出现腐败,才是怪事呢。从教授“可能沦为新的腐败高发人群”,可以清楚看出信息公开与权力腐败之间的逻辑关系。</font></p>
+<p><font size="4"></font>&nbsp;</p>
+<p><br />
+<font size="4">2013年，广州市副市长王东在发布会现场表示，全国科研经费大概只有40%是真正用于�

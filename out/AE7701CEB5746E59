@@ -1,0 +1,31 @@
+<!--UINFO: http://www.miibeian.gov.cn/	length=1084&last_modified=0&time_saved=1450676998&charset=GBK-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+    
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="x-ua-compatible" content="ie=7" />
+<meta http-equiv="Content-Type" content="text/html;charset=GBK">
+<meta http-equiv="Cache-Control" content="no-store"/>
+<meta http-equiv="Pragma" content="no-cache"/>
+<meta http-equiv="Expires" content="0"/>
+<meta http-equiv="x-ua-compatible" content="ie=7" />
+<link href="/styles/styles.css" type="text/css" rel="stylesheet"/>
+<script type="text/javascript" src="/scripts/jquery.js;jsessionid=K411W3TbM5FvSsyHmNNTmw4XSbB5Q4fgmxtJsP1krLvyHc41Wwqn!-981556401"></script>
+<title>Index</title>
+</head>
+<body>	
+	<form action="/state/outPortal/loginPortal.action;jsessionid=K411W3TbM5FvSsyHmNNTmw4XSbB5Q4fgmxtJsP1krLvyHc41Wwqn!-981556401" method="post"/>
+	<script type="text/javascript">
+	$(function(){
+		$("form")[0].submit(); 
+	});
+</script>
+</body>
+</html>

@@ -1,0 +1,518 @@
+<!--UINFO: http://bbs.tiexue.net/post_10454438_1.html	length=53512&last_modified=1448948261&time_saved=1450676796&charset=gb2312-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta content="英国皇家海军隶下的新一代防空导弹驱逐舰" name="keywords" />
+    <meta content="45型驱逐舰
+
+
+
+45型驱逐舰（英语：Type 45 Destroyer）或以首舰命名称为勇敢级驱逐舰（英语：Daring Class Destroyer）是英国皇家海军隶下的新一代防空导弹驱逐舰。
+
+本级舰原..." name="description" />
+    <meta http-equiv="mobile-agent" content="format=html5; url=http://m.tiexue.net/touch/thread_10454438_1.html"/>
+    <title>
+        英国皇家海军隶下的新一代防空导弹驱逐舰
+        
+        -
+        海军论坛
+        - 铁血社区</title>
+        <link href="http://s.itiexue.net/??css/global/global-u.css,css/tiexue/bbs/page/post1-u.css?v=2" rel="stylesheet" type="text/css" charset="utf-8"/>    
+    <script src="http://s.itiexue.net/??js/global/base-all-v2-u.js,js/tiexue/public-u.js,js/tiexue/bbs/public-u.js,js/tiexue/bbs/page/post1t-u.js?v=5" type="text/javascript" charset="utf-8"></script>   
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+    <script type="text/javascript"> 
+        var ForumID=31;
+        var ForumGroupID=6;
+        var ThreadID=10454438;
+        var islocked=0;
+        var isvouch=0;
+        var Subject='英国皇家海军隶下的新一代防空导弹驱逐舰';
+	
+        BAIDU_CLB_preloadSlots("180429", "41474", "92705", "81336");
+        function PageTurn()
+        {
+            var pageIndexJs=$.trim($("#txtTurn").val());
+            if(pageIndexJs!="")
+            {
+                if(ValidateNum(pageIndexJs))
+                { 
+                    window.location.href="http://bbs.tiexue.net/post_"+10454438+"_"+pageIndexJs+".html";
+                }
+                else
+                {
+                    alert("请输入数字！");
+                }
+            }else
+            {
+                alert("请输入要跳转的页码！");
+            }
+        }
+        function ValidateNum(srcStr)
+        {
+            var expr='^(0|[1-9][0-9]*)$';
+            var Reg= new RegExp(expr);
+            if(Reg.test(srcStr))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        } 
+        function GaqPush(cname) {
+            _gaq.push(['_trackEvent', 'bbspost', 'clicked', cname]);
+        }
+    </script>   
+</head>
+
+<body>
+    <div class="container">
+        <!--*中间970 内容 start-->
+        <!--*头部 start-->
+        
+<div id="topBar">
+<script type="text/javascript">
+    InitLoginBar({
+        id: "topBar",
+        template: 1,
+        game: false,
+        slideMenu1: false,
+        slideMenu2: true,
+        sousuo: true,
+        addNav: null,
+        addStyle: ""
+    });
+</script>
+</div>
+
+<div class="header">
+    <div class="area header_row_2">
+        <div class="logo textHide float_L">
+            <a title="铁血社区" href="http://bbs.tiexue.net/" target="_blank">铁血社区</a></div>        
+            <ul class="nav fontYaHei" id="topNav">
+                <li class="noLayer">
+                    <h3>
+                        <a href="http://www.tiexue.net" target="_blank" onclick="GaqPush('1')">首页</a></h3>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://mil.tiexue.net" target="_blank" onclick="GaqPush('2')">军事</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowPicClass_43_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-1'])">军品鉴赏</a></li><li><a href="http://mil.tiexue.net/Junlv_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-2'])">中国军旅</a></li><li><a href="http://mil.tiexue.net/junmi_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-3'])">军迷争议</a></li><li><a href="http://mil.tiexue.net/lishi.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-4'])">军事历史</a></li><li><a href="http://mil.tiexue.net/jujiao.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-5'])">军情聚焦</a></li><li><a href="http://mil.tiexue.net/zhuanti_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-6'])">军事专题</a></li><li><a href="http://mil.tiexue.net/daohang/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-7'])">外军网址导航</a></li><li><a href="http://mil.tiexue.net/1979/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-8'])">对越自卫反击战</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://bbs.tiexue.net" target="_blank" onclick="GaqPush('3')">社区</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://mil.tiexue.net/zhiyuanzhe/index.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-1'])">关爱老兵活动</a></li><li><a href="http://www.tiexue.net/ShowClass_775_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-2'])">铁血精品原创</a></li><li><a href="http://www.tiexue.net/ShowClass_772_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-3'])">铁血热门话题</a></li><li><a href="http://bbs.tiexue.net/bbs32-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-4'])">陆军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs31-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-5'])">海军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs69-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-6'])">空军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs33-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-7'])">环球风云</a></li><li><a href="http://bbs.tiexue.net/gbbs24-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-8'])">警察之家</a></li><li><a href="http://bbs.tiexue.net/bbs73-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-9'])">中国历史</a></li><li><a href="http://bbs.tiexue.net/bbs124-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-10'])">军事影评</a></li><li><a href="http://bbs.tiexue.net/bbs219-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-11'])">军品鉴赏</a></li><li><a href="http://bbs.tiexue.net/bbs246-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-12'])">四海钓鱼</a></li><li><a href="http://bbs.tiexue.net/bbs247-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-13'])">人间美食</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <h3>
+                        <a href="http://www.junshishu.com" target="_blank" onclick="GaqPush('5')">读书</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.junshishu.com/mil.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-1'])">军事小说</a></li><li><a href="http://www.junshishu.com/his.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-2'])">历史小说</a></li><li><a href="http://www.junshishu.com/MultiNovelList.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-3'])">全本小说</a></li><li><a href="http://www.junshishu.com/yjcbxs.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-4'])">出版图书</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://www.tiexue.net/ShowPicClass_53_1.html" target="_blank" onclick="GaqPush('6')">图片</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowPicClass_53_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-1'])">精选酷图</a></li><li><a href="http://pic.tiexue.net/tuji_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-2'])">焦点图集</a></li><li><a href="http://www.tiexue.net/ShowPicClass_171_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-3'])">军事酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_172_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-4'])">国际酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_173_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-5'])">历史酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_188_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-6'])">社会酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_599_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-7'])">原创酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_597_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-8'])">猎奇酷图</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://jingcha.tiexue.net" target="_blank" onclick="GaqPush('7')">警察</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowClass_308_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-1'])">处警故事</a></li><li><a href="http://www.tiexue.net/ShowClass_294_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-2'])">警察生活</a></li><li><a href="http://www.tiexue.net/ShowClass_293_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-3'])">警务探讨</a></li><li><a href="http://www.tiexue.net/pictopic-373-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-4'])">图说警察</a></li><li><a href="http://www.tiexue.net/SmallPiclist_670_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-5'])">警察聚焦</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://game.tiexue.net" target="_blank" onclick="GaqPush('8')">游戏</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://dj.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-1'])">大将军</a></li><li><a href="http://dx.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-2'])">大侠传</a></li><li><a href="http://yd.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-3'])">一代宗师</a></li><li><a href="http://jj.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-4'])">将军</a></li><li><a href="http://zzsf.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-5'])">征战四方</a></li><li><a href="http://as.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-6'])">傲视天地</a></li><li><a href="http://sg.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-7'])">三国风云2</a></li><li><a href="http://mr.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-8'])">秦美人</a></li>
+                    </ul>
+                </li>
+                 <li>
+                        <h3><a href="http://v.tiexue.net" target="_blank" onclick="GaqPush('10')">视频</a><span></span></h3>
+                        <ul>
+                           <li><a href="http://v.tiexue.net/classMain_1681.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-1'])">军事视频</a></li><li><a href="http://v.tiexue.net/classMain_1682.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-2'])">时政视频</a></li><li><a href="http://v.tiexue.net/classMain_1683.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-3'])">历史视频</a></li>
+                        </ul>
+                  </li>
+                <li class="junpShop">
+                    <h3>
+                        <span></span><a href="http://www.junph.com/?utm_source=TX&utm_medium=anniu&utm_campaign=junp"
+                            target="_blank" onclick="GaqPush('9')">君品商城</a></h3>
+                    <ul>
+                        <li><a href="http://www.junph.com/html/Class1.html?utm_source=TX&utm_medium=anniu&utm_campaign=1" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-1'])">军迷服饰</a></li><li><a href="http://www.junph.com/html/category/junbiao.htm?utm_source=TX&utm_medium=anniu&utm_campaign=2" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-2'])">军迷手表</a></li><li><a href="http://www.junph.com/html/Class11.html?utm_source=TX&utm_medium=anniu&utm_campaign=3" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-3'])">军迷鞋靴</a></li><li><a href="http://www.junph.com/html/Class9.html?utm_source=TX&utm_medium=anniu&utm_campaign=4" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-4'])">军迷包具</a></li><li><a href="http://www.junph.com/html/category/jp-yanjing/?utm_source=TX&utm_medium=anniu&utm_campaign=6" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-5'])">军迷眼镜</a></li><li><a href="http://www.junph.com/html/Class12.html?utm_source=TX&utm_medium=anniu&utm_campaign=5" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-6'])">军迷手电</a></li><li><a href="http://www.junph.com/html/category/jp-wangyuanjing/?utm_source=TX&utm_medium=anniu&utm_campaign=7" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-7'])">望远镜</a></li>
+                    </ul>
+                </li>
+            </ul>        
+        <script type="text/javascript">
+            function navTab(id) {
+                var $_Tit = $("#" + id + ">li").not(".noLayer");
+                var $_Sub = $("#" + id + ">li>ul");
+                var timmer = null;
+                var n = null;
+                $_Tit.hover(function () {
+                    n = $_Tit.index(this)
+                    $(this).addClass("select").siblings().removeClass("select");
+                    $(this).children("ul").show();
+                }, function () {
+                    $_Tit.eq(n).removeClass("select");
+                    $_Sub.eq(n).hide();
+                })
+            }
+            navTab("topNav");
+        </script>
+    </div>
+</div>
+
+        <!--头部 end-->
+        <!--*主要内容 start-->
+        <div class="main">
+            <div class="banner" id="Baidu_BBSPostNormalV3ContentTopAD1">
+                <div><script type="text/javascript" >BAIDU_CLB_fillSlot("180429")</script></div>
+            </div>
+            <div class="mRow_1">
+                <p class="ftBtn textHide float_L">
+                    <a onclick="addPost();_gaq.push(['_trackEvent', 'bbs', 'clicked', '发帖按钮']);" href="javascript:void(0);" target="_self">我要发帖</a>
+                </p>
+                <div class="page float_R">
+                    <a href="http://bbs.tiexue.net/post_10454438_1.html" class="pageHover">1</a>
+                    
+                </div>
+            </div>
+            
+<div class="dir">
+    
+    <a href="http://bbs.tiexue.net/" target="_top">铁血社区</a> &gt; <a href="http://bbs.tiexue.net/gbbs6-0-1.html" target="_top">铁血军事论坛</a> &gt; <a href="http://bbs.tiexue.net/bbs31-0-1.html" target="_top">海军论坛</a> &gt; 
+    <a target='_blank' href='http://bbs.tiexue.net/post_10454438_1.html'>英国皇家海军隶下的新一代防空导弹驱逐舰</a>
+</div>
+
+            
+<div class="postContent border">
+    <div class="postTit">
+        <p class="float_L">
+            帖子主题：英国皇家海军隶下的新一代防空导弹驱逐舰</p>
+        <p class="float_R">
+            共&nbsp;0&nbsp;个阅读者&nbsp;<span id="post_HeadReplySort"></span></p>
+    </div>
+</div>
+
+            
+<div class="postContent border">
+    <div class="postStart">
+        <!--*左边用户信息 start-->
+        <div class="sideLeft float_L">
+            <ul class="userMsg">
+                <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/3290802" class="signeffect-id"  target="_blank">平淡无趣</a></strong><span></span></p><span class="boyHead"></span></div></li> <li class="headPic"> <a href="http://i.tiexue.net/3290802" target="_blank" title="查看个人空间"><img id="userMsg0" src="http://r.itiexue.net/bbs/other/images/user.gif" alt="头像" width="96" height="96" /></a><span class="signeffect-head"></span> </li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/r-07-LJ-xiao-3.gif" alt="军衔:陆军上校" title="军衔:陆军上校" /></li> <li class="xxMsg">军号：3290802</li><li class="rongYu"><!-- 勋章 start --><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=13&f=1' target='_blank'><img src='http://img1.itiexue.net/medal/honor/13/1/13_s.png' title='发帖新兵' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=14&f=1' target='_blank'><img src='http://img2.itiexue.net/medal/honor/14/1/14_s.png' title='发帖高手' width='26' height='45' border=0 align='absmiddle'></a><!-- 勋章 end --></li>	<li class='xxMsg'>工分:177249		/ 排名:6056	</li>	<li class='xxMsg'>本区职务:会员</li>
+            </ul>
+            <!--*广告位 start-->
+            <div class="advert01" id="Baidu_BBSPostNormalV3ContentLeftAD1">
+                <div><script type="text/javascript" >BAIDU_CLB_fillSlot("41474")</script></div>
+            </div>
+            <!--广告位 end-->
+        </div>
+        <!--左边用户信息 end-->
+        <!--*右边帖子内容 start-->
+        <div class="contents">
+            <div class="contRow_1" id="adminAndUserPanel_1">
+                <!--10454438,99816201,1,3290802,平淡无趣,RHPtoPi07pj05pwDsO9lNw%3d%3d,1,0,0,0,0-->
+            </div>
+            <div class="icon_left textHide">
+                左箭头-小图标</div>
+            <div class="contRow_2">
+                
+                <div class="bbsPosTit">
+                    
+                    <span class="emotion61"></span>
+                    <h1>
+                        英国皇家海军隶下的新一代防空导弹驱逐舰</h1>
+                </div>
+                <!-- 广告位：标题下文字 -->
+ <div class="ad_text" id="Baidu_PostTitleTextAD" ></div>
+                <div class="tiJiaoMsg">
+                    <span>文章提交者：平淡无趣
+                        加贴在</span>&nbsp;<a href="http://bbs.tiexue.net/bbs31-0-1.html" title="海军论坛">海军论坛</a>&nbsp;铁血论坛
+                                        http://bbs.tiexue.net/bbs31-0-1.html</div>
+                <div class="copyBtn" id="contentsbelowbar">
+                </div>
+                
+                <div id="postContent" class="js_box">                   
+                    <div id='Baidu_AdPIP2' class='AdPIP2'><div id='Baidu_AdPIP2_container'></div></div><!-- AdPanel_left --><p class='bbsp'><br/></p><p class='bbsp'><a href="http://data.tiexue.net/view/15" class="linkin-word" target="_blank">45型驱逐舰</a></p><p class='bbsp'><br/></p><p class='bbsp'><a target="_blank" href="http://img6.itiexue.net/2112/21128742.jpg"><img  src="http://img6.itiexue.net/2112/21128742.jpg" border="0" onload="bbimg(this)" border="0" alt="英国皇家海军隶下的新一代防空导弹驱逐舰" title="英国皇家海军隶下的新一代防空导弹驱逐舰（图1）"/></a><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>45型驱逐舰（英语：Type 45 Destroyer）或以首舰命名称为<a href="http://data.tiexue.net/view/1384397" class="linkin-word" target="_blank">勇敢级驱逐舰</a>（英语：Daring Class Destroyer）是英国皇家海军隶下的新一代防空导弹驱逐舰。</p><p class='bbsp'><br/></p><p class='bbsp'>本级舰原定建造12艘，然而皇家海军经费持续缩减，将驱逐舰/<a href="http://data.tiexue.net/view/3853" class="linkin-word" target="_blank">护卫舰</a<a href="http://data.tiexue.net/view/4845" class="linkin-word" target="_blank">>队</a>的规模由原本的31艘缩至25艘，45型也受到波及，数量由原先12艘降至6艘；2013年12月30日最后一艘45型邓肯号（HMS Duncan），正式入列皇家海军，自此本级舰现阶段建造计划结束。</p><p class='bbsp'><br/></p><p class='bbsp'>2000年7月11日，<a href="http://data.tiexue.net/view/1409555" class="linkin-word" target="_blank">英国国防部</a>宣布购买首批三艘<a href="http://data.tiexue.net/view/1422271" class="linkin-word" target="_blank">45型导弹驱逐舰</a>，随后在12月21日与主承包商英国宇航电子系统（BAE Systems Electronics ）签约，负责驱逐舰的设计与发展，并建造第一批三艘45型驱逐舰，总金额达12.5亿英镑（当时相当于18亿美元），其中分包给次承包商VT集团的额度为2亿英镑；这也代表着45型驱逐舰正式定型。</p><p class='bbsp'><br/></p><p class='bbsp'>45型驱逐舰有以下的设计特点：</p><p class='bbsp'><br/></p><p class='bbsp'><a target="_blank" href="http://img7.itiexue.net/2112/21128743.jpg"><img  src="http://img7.itiexue.net/2112/21128743.jpg" border="0" onload="bbimg(this)" border="0" alt="英国皇家海军隶下的新一代防空导弹驱逐舰" title="英国皇家海军隶下的新一代防空导弹驱逐舰（图2）"/></a></p><p class='bbsp'><br/></p><p class='bbsp'>动力系统<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>动力系统方面，英国在2000年11月1日就正式决定，45型将采用革命性的整合式全电力推进系统（Full Electric Propulsion,FEP,美国称之为Integrated Power Systems,IPS）。45型的FEP系统包含两具革命性的WR-21中段冷却再加热（Intercolled Recuperated，IRC）燃气涡轮机组，两具WR-21的最大并连输出功率为43MW（57600马力），每具燃气涡轮分别驱动一个21MW的交流主发电机；两具螺旋桨推进器分别由一个20MW级（27000马力）的Converteam推进用电动机直接驱动。除了主要燃气涡轮发电机之外，还配备两组2MW级柴油辅助发电机。</p><p class='bbsp'><br/></p><p class='bbsp'>战斗系统</p><p class='bbsp'><br/></p><p class='bbsp'>作战系统方面，45型采用BAE旗下BAE战斗与雷达系统公司与意大利阿勒尼亚・马可尼公司合作开发的战斗管理系统（Combat Management System，CMS），合约价值5000万英镑。CMS由指挥系统（Command System，CS）与其他若干战斗系统装备（Combat System Equipment，CSE）等部件组成，透过BAE System与AMS开发的资料传输系统（Data Transfer Systems，DTS ）与舰上各系统连结。</p><p class='bbsp'><br/></p><p class='bbsp'>导弹系统</p><p class='bbsp'><br/></p><p class='bbsp'>45型最重要的武装，主要防空导弹系统（PAAMS），是许多新一代欧洲海军舰艇的重要武装。PAAMS的雷达系统因使用国不同而异，但是导弹都是一样的，即由法国研发、垂直发射的紫菀防空导弹。</p><p class='bbsp'><br/></p><p class='bbsp'><a target="_blank" href="http://img8.itiexue.net/2112/21128744.jpg"><img  src="http://img8.itiexue.net/2112/21128744.jpg" border="0" onload="bbimg(this)" border="0" alt="英国皇家海军隶下的新一代防空导弹驱逐舰" title="英国皇家海军隶下的新一代防空导弹驱逐舰（图3）"/></a><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'>45型驱逐舰首舰勇敢号在结束2012年亚丁湾索马里海域反海盗任务之后，于2013年上旬开始了其长达九个月的太平洋部署任务，先后访问美国东海岸、智利波多黎各、经过巴拿马运河后访问美国珍珠港希卡姆联合基地，与美国合作进行联合弹道导弹防御实验；</p><p class='bbsp'><br/></p><p class='bbsp'>2013年12月10日，勇敢号抵达中国上海，这也是时隔5年后，英国皇家海军再一次访问中国。勇敢号此次来访正值中英关系进一步回暖时期。</p><p class='bbsp'><br/></p><p class='bbsp'>等待了二十年，42型驱逐舰的替代计划终于落幕，皇家海军对于这个迟来的喜讯恐怕是百感交集。身为21世纪初期最尖端科技的产物，45型驱逐舰在建造观念、自动化程度、动力系统、科技层次等方面领先群伦，其桑普森雷达/紫菀防空导弹的技术层次与各项性能均不逊于美国SPY-1D雷达/标准与海麻雀防空导弹的组合。</p><p class='bbsp'><br/></p>
+                </div>
+                <div class="shareBlog">
+                    <div class="bar_1" style="clear:both;">
+                        <div class="float_L share share-hover">
+                            <span class="float_L">分享：</span>
+                            <a href="javascript:void(0)" onclick="TX_share('sina');GaqPush('分享');" class="share-1 float_L" title="分享到新浪微博"></a>
+                            <a href="javascript:void(0)" onclick="TX_share('qblog');GaqPush('分享');" class="share-2 float_L" title="分享到腾讯微博"></a>
+                            <a href="javascript:void(0)" onclick="TX_share('qzone');GaqPush('分享');" class="share-3 float_L" title="分享到QQ空间"></a>
+                            <a title="分享到微信" class="share-4 float_L" onclick="TX_share('weixin');GaqPush('分享');" href="javascript:void(0)"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="keyword">
+                    <strong>延伸阅读：</strong>
+                    <a onclick="GaqPush('关键词')"  href='http://data.tiexue.net/view/1422271' target='_blank'>45型导弹驱逐舰</a> 
+                </div>
+                <div class="gfMsg">
+                    <ul class="gfLeft" onmouseover="tagetLayer(this,$(this).next('ul'))" id="tlogdiv"></ul>       
+                    <!--*日志弹出 start-->
+                    <ul class="logList" id="tloglist"></ul>
+                    <script type="text/javascript">
+                        //如果是管理员
+                        $(function(){
+                            var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                            var logisheader = TX.BaseCookie.BBS_IsHeader();
+                            var strhtml="";
+                            if(loguserid>0)
+                            {
+                                strhtml= '<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">3</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                                if(3290802 == loguserid|logisheader)
+                                {
+                                    strhtml='<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">3</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                                }
+                            }
+                            else{
+                                strhtml= '<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">3</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                            }
+                            $("#tlogdiv").html(strhtml);
+                            $("#tloglist").html(strhtml);
+                        })
+                    </script>
+                    <!--日志弹出 end-->
+                    <dl class="gfRight">
+                        <dd class="spare">
+                            <a href="javascript:void(0)" onclick="daShangLayer(3290802,99816201)">
+                                打赏</a></dd>
+                        <dd class="favor">
+                            <a href="javascript:void(0);" onclick="TxBBS_FavoriteThread('10454438');">
+                                收藏文本</a></dd>
+                        <dd class="ding" id="digNum">
+                            <a href="javascript:void(0);" onclick="TxBBS_DigThread('10454438');"><em>
+                                0</em><span></span></a></dd>
+                    </dl>
+                </div>
+                <div class="reward textHide" id="adminAddSalary_99816201_10454438">
+                </div>
+                <div class="qianming">0</div>
+                <div class="lock-msg border hidden" id="threadnoreplyspan">
+                    本帖已经被管理员锁定，不能回复</div>
+                <div class="fastReply" id="commentsDiv">
+                    <script type="text/javascript">
+                        try {
+                            TxBBS_SetQuickReplyHtml("commentsDiv", 'False', '31', '10454438', '英国皇家海军隶下的新一代防空导弹驱逐舰');
+                        }
+                        catch (e) { }
+                    </script>
+                </div>
+                <!--*相关帖 start-->
+                <div class="aboutPost-v2" style="height: 340px; margin-top: 5px;">
+                    <h2 style="height: 50px; line-height: 50px; color: #38352C; font-size: 16px; font-weight: bold;">
+                        英国皇家海军隶下的新一代防空导弹驱逐舰相关文章</h2>
+                    <div class="abpLeft">
+                        <ul>
+                            <li><a onclick="GaqPush('相关推荐-相关文章')" title='“涟”号看日本海军真实' href='http://bbs.tiexue.net/post_3035443_1.html' target = '_blank'>“涟”号看日本海军真实</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='二战各国海军主力舰艇分级简介' href='http://bbs.tiexue.net/post_3345990_1.html' target = '_blank'>二战各国海军主力舰艇分级简介</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='舰艇承受打击的能力' href='http://bbs.tiexue.net/post_3473597_1.html' target = '_blank'>舰艇承受打击的能力</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='中国海军海上阅兵21艘外国军舰名单大公开' href='http://bbs.tiexue.net/post_3504361_1.html' target = '_blank'>中国海军海上阅兵21艘外国军舰名单大公开</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='军报点评各国军舰：印度“孟买”号声势最高' href='http://bbs.tiexue.net/post_3508509_1.html' target = '_blank'>军报点评各国军舰：印度“孟买”号声势最高</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='巴基斯坦计划购买英退役42型驱逐舰' href='http://bbs.tiexue.net/post_3599525_1.html' target = '_blank'>巴基斯坦计划购买英退役42型驱逐舰</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='巴首艘中国造F22P军舰年底服役 另3艘在建' href='http://bbs.tiexue.net/post_3599814_1.html' target = '_blank'>巴首艘中国造F22P军舰年底服役 另3艘在建</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='英国海军接收第2艘45型驱逐舰D33无畏号' href='http://bbs.tiexue.net/post_3977393_1.html' target = '_blank'>英国海军接收第2艘45型驱逐舰D33无畏号</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='82年马岛之争' href='http://bbs.tiexue.net/post_4104071_1.html' target = '_blank'>82年马岛之争</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="abpRight pp01">
+                        <ul class="pp">
+                            <li><a href="http://bbs.tiexue.net/post_3903304_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small9.itiexue.net/1017/10176969.jpg" title="英国皇家海军最新型45型驱逐舰“保卫者”号服役" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_3903304_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>英国皇家海军最新型45型驱逐舰“保卫者”号服役</a></span></li><li><a href="http://bbs.tiexue.net/post_3977378_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small2.itiexue.net/1038/10380218.jpg" title="英国第二艘45型驱逐舰"无畏"号即将正式服役(也带有很NB的突出物）" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_3977378_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>英国第二艘45型驱逐舰"无畏"号即将正式服役(也带有很NB的突出物）</a></span></li><li><a href="http://bbs.tiexue.net/post_4109375_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small10.itiexue.net/1073/10738786.jpg" title="阿根廷护卫舰驶入马岛争议水域 英失美支持" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_4109375_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>阿根廷护卫舰驶入马岛争议水域 英失美支持</a></span></li><li><a href="http://bbs.tiexue.net/post_4461024_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small3.itiexue.net/1171/11715567.gif" title="英国皇家海军舰艇徽章" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_4461024_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>英国皇家海军舰艇徽章</a></span></li><li><a href="http://bbs.tiexue.net/post_4990650_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small9.itiexue.net/1275/12750993.jpg" title="各国武器之―――驱逐舰" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_4990650_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>各国武器之―――驱逐舰</a></span></li><li><a href="http://bbs.tiexue.net/post_5634961_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small2.itiexue.net/1418/14180726.jpg" title="组图：英国驱逐舰盯上俄航母" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_5634961_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>组图：英国驱逐舰盯上俄航母</a></span></li>
+                        </ul>
+                    </div>
+                </div>
+                <!--相关帖 end-->
+            </div>
+            <!--*广告位 start-->
+            <div class="advert02" id="Baidu_BBSPostNormalV3ContentInfo"><script type="text/javascript" >BAIDU_CLB_fillSlot("92705")</script></div>
+            <!--广告位 end-->
+            <div class="date">
+                2015/12/1 13:34:46</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+</div>
+<!--*热门帖 start-->
+<div class="hotPost">
+    <div class="hotLeft border pp01">
+        <h3 class="tzTitle">
+            本版热门</h3>
+        <ul class="pp">
+            <li><a onclick="GaqPush('本版热门-焦点图')" target='_blank' title='官媒再放海军新旧威武战舰战机猛图 歼15已成群' href='http://bbs.tiexue.net/post_10452872_1.html'><img id='img1' src='http://small2.itiexue.net/2112/21126926.jpg' width='120' height='90' border=0></a><span><a onclick="GaqPush('本版热门-焦点图')" target='_blank' title='官媒再放海军新旧威武战舰战机猛图 歼15已成群' href='http://bbs.tiexue.net/post_10452872_1.html'>官媒再放海军新旧威武战舰战机猛图 歼15已成群</a></span></li>
+        </ul>
+        <ul class="textList">
+            <li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10441075_1.html' title='中国4万吨级航母补给舰大曝光！威武雄壮！'>中国4万吨级航母补给舰大曝光！威武雄壮！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10441067_1.html' title='速度太快了！疑似国产航母吊装第三块机库组件'>速度太快了！疑似国产航母吊装第三块机库组件</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10444970_1.html' title='魔牛小队：湛江再行(167进化“567”)'>魔牛小队：湛江再行(167进化“567”)</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10442360_1.html' title='首艘大连建造052D型导弹驱逐舰下水！'>首艘大连建造052D型导弹驱逐舰下水！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10445393_1.html' title='中国巨型‘野牛‘抢滩登陆:吐96坦克如玩具！'>中国巨型‘野牛‘抢滩登陆:吐96坦克如玩具！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10452903_1.html' title='南海舰队军港内海军大舰云集'>南海舰队军港内海军大舰云集</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10438390_1.html' title='D8下水了'>D8下水了</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10445128_1.html' title='国产航母未来将用什么预警机？真相令人振奋'>国产航母未来将用什么预警机？真相令人振奋</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10444929_1.html' title='土耳其“大国梦”遭到当头棒喝'>土耳其“大国梦”遭到当头棒喝</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10447703_1.html' title='明斯克号航母将常驻江苏 反舰火力超强(图)'>明斯克号航母将常驻江苏 反舰火力超强(图)</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10444948_1.html' title='ZTHH:周日巨献――大连D1全身照！'>ZTHH:周日巨献――大连D1全身照！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10445102_1.html' title='中国为何不怕美军南海摊牌？这几点要知道'>中国为何不怕美军南海摊牌？这几点要知道</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10438446_1.html' title='[原创]中国海军能否引进俄罗斯基洛夫级核动力巡洋舰'>[原创]中国海军能否引进俄罗斯基洛夫级核动力巡洋舰</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10441101_1.html' title='韩媒：朝鲜潜艇在东海试射导弹失败 未能出水！'>韩媒：朝鲜潜艇在东海试射导弹失败 未能出水！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10444984_1.html' title='解放军功勋潜艇返航途中赴南海：获一级战备指令'>解放军功勋潜艇返航途中赴南海：获一级战备指令</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10445484_1.html' title='167改成这副模样'>167改成这副模样</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10438272_1.html' title='疑似国产航母吊装第三块机库组件'>疑似国产航母吊装第三块机库组件</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10445061_1.html' title='再来YY一下驱逐舰'>再来YY一下驱逐舰</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10452575_1.html' title='蓝鲨小队：超大民船最新进展 上桅杆啦'>蓝鲨小队：超大民船最新进展 上桅杆啦</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10452688_1.html' title='缅甸下水国产新款大型巡逻艇，越看越疑有中国“血统”！'>缅甸下水国产新款大型巡逻艇，越看越疑有中国“血统”！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10447630_1.html' title='日本出云号准航母夜幕下展示'>日本出云号准航母夜幕下展示</a></li>
+        </ul>
+    </div>
+    
+    <div class="hotRight border pp01">
+        <h3 class="tzTitle">
+            大区热门</h3>
+        <ul class="pp">
+            <li><a onclick="GaqPush('大区热门-焦点图')" target='_blank' title='岛国片子居然出现WZ-10' href='http://bbs.tiexue.net/post_10453851_1.html'><img id='img1' src='http://small5.itiexue.net/2112/21128441.jpg' width='120' height='90' border=0></a><span><a onclick="GaqPush('大区热门-焦点图')" target='_blank' title='岛国片子居然出现WZ-10' href='http://bbs.tiexue.net/post_10453851_1.html'>岛国片子居然出现WZ-10</a></span></li>
+        </ul>
+        <ul class="textList">
+            <li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10445164_1.html' title='湾湾:美国卖30年老舰 替换我40年舰！[呆湾神贴 第53期]'>湾湾:美国卖30年老舰 替换我40年舰！[呆湾神贴 第53期]</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10444895_1.html' title='航拍叙军T-72坦克BMP-1战车追打恐怖组织武装'>航拍叙军T-72坦克BMP-1战车追打恐怖组织武装</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10441155_1.html' title='俄媒：中国航天潜力遥遥领先 速度美俄无法达到'>俄媒：中国航天潜力遥遥领先 速度美俄无法达到</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10445384_1.html' title='中国版B2隐轰曝光：看完后美国彻底崩溃了'>中国版B2隐轰曝光：看完后美国彻底崩溃了</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10442713_1.html' title='土鸡上北约当  现在想买红旗9'>土鸡上北约当  现在想买红旗9</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10445078_1.html' title='IS训练太会玩 专练铁裤裆和人肉金字塔'>IS训练太会玩 专练铁裤裆和人肉金字塔</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10438227_1.html' title='1999年中国使馆被炸 那枚未爆的炸弹去哪了'>1999年中国使馆被炸 那枚未爆的炸弹去哪了</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10442227_1.html' title='局座出没请注意'>局座出没请注意</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10445670_1.html' title='我军潜艇近期受命进入一级战备准备攻击敌舰'>我军潜艇近期受命进入一级战备准备攻击敌舰</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10444748_1.html' title='几个中国高端民用工业公司'>几个中国高端民用工业公司</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10441069_1.html' title='中俄之间最大军火交易曝光！部署地点让美日瞬间胆寒'>中俄之间最大军火交易曝光！部署地点让美日瞬间胆寒</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10442260_1.html' title='我收藏的老山守备部队1986年彩色老照片'>我收藏的老山守备部队1986年彩色老照片</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10438357_1.html' title='[原创]土耳其“人道主义救援车辆”的真相'>[原创]土耳其“人道主义救援车辆”的真相</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10440978_1.html' title='中国新一代远轰外形曝光，美国哭诉中国又山寨了B-2隐身轰炸机'>中国新一代远轰外形曝光，美国哭诉中国又山寨了B-2隐身轰炸机</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10452672_1.html' title='两岸“换谍” 大陆点名营救一人遭台方拒绝'>两岸“换谍” 大陆点名营救一人遭台方拒绝</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10441082_1.html' title='八一w行表演泰仔'>八一w行表演泰仔</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10446142_1.html' title='土耳其面临俄机巨大威胁：防长求购红旗-9'>土耳其面临俄机巨大威胁：防长求购红旗-9</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10445518_1.html' title='中国造第一艘核航母的超重型运载车'>中国造第一艘核航母的超重型运载车</a></li>
+        </ul>
+    </div>
+    
+</div>
+<!--热门帖 end-->
+
+<div class="advert03" id="Baidu_BBSPostNormalV3FirstFloorBottomAD">
+    <div id="Baidu_BBSPostNormalV3FirstFloorBottomAD_container"></div>
+</div>
+
+<div class="postContent border hotReply wyReply" style="display:none;">
+    <div class="postTit">
+        <h2>
+            网友回复</h2>
+        <span id="post_UserReplySort"></span>
+    </div>
+    <div id="PostReply_List">
+</div>
+</div>
+
+            <div class="mRow_1">
+                <p class="ftBtn textHide float_L">
+                    <a onclick="addPost();_gaq.push(['_trackEvent', 'bbs', 'clicked', '发帖按钮'])" href="javascript:void(0);" target="_self">我要发帖</a>
+                </p>
+                <div class="page">
+                    <p>
+                        总页数<span>1</span>第<span>1</span>页&nbsp;[共有<span>1</span>条记录]&nbsp;分页：
+                    </p>
+                    <a href="http://bbs.tiexue.net/post_10454438_1.html" class="pageHover">1</a>
+                    
+                </div>
+            </div>
+            <div class="advert03" id="Baidu_BBSPostNormalV3KuTuAD1"></div>
+            <div class="tabs">
+                <div class="tabsTop" id="replyUserMsg">
+                    &nbsp;对<span>英国皇家海军隶下的新一代防空导弹驱逐舰</span>回复
+                </div>
+                <script type="text/javascript">
+                    if (TX.BaseCookie.BBS_CurrentUserID() != 0) {
+                        $("#replyUserMsg").prepend("“" + TX.BaseCookie.TxBBS_CurrentUserName() + "”");
+                    }
+                </script>
+                <iframe id="ReplyFrame" name="ReplyFrame" frameborder="0" marginheight="0" marginwidth="0"
+                    scrolling="no" src="http://bbs.tiexue.net/reply/ReplyNew2.htm" width="970" height="630"></iframe>
+                <div class="lock-msg border hidden" id="noreplyspan">
+                    本帖已经被管理员锁定，不能回复
+                </div>
+            </div>
+            <!--*底部操作条 start-->
+            <div class="bot-operateBar border hidden" id="postbuttonadminpanel_99816201_10454438_0_0">
+            </div>
+            <!--底部操作条 end-->
+        </div>
+        <!--主要内容 end-->
+        <!--*脚注 start-->
+        
+<div class="footer" id="footer">
+    <script type="text/javascript">        CreateFooter("about");</script>
+    <span>|</span><a href="http://www.tiexue.net/map_index.htm" target="_blank">网站地图</a>
+    <script type="text/javascript">        CreateFooter("version");</script>
+    <script type="text/javascript">        CreateFooter("law");</script>
+    <script type="text/javascript">        CreateFooter("record");</script>
+</div>
+
+        <!--脚注 end-->
+
+    </div>
+    <script type="text/javascript">
+
+        try {
+            var effect = ('').split(',');
+            for (var i = 0; i < effect.length; i++) {
+                getEffect(effect[i]);
+            }
+        }
+        catch (e) { }
+
+        function getEffect(ef) {
+            if (ef.indexOf("bg") > -1) {
+                $(".signeffect-id").addClass("sign-bg");
+            }
+            else if (ef.indexOf("head") > -1) {
+                $(".signeffect-head").addClass("sign-ico").attr("title", "签到精英");
+            }
+        }
+        $(document).ready(function () {
+            try {
+                Tx_InitTopPostDigBar("contentsbelowbar", ThreadID, Subject, '0');
+            }
+            catch (e)
+            { }
+            TxBBS_AdminAndUserPanel();
+            TxBBS_PostShowAdminButtonPanel();
+        });
+    </script>
+            
+    <script type="text/javascript" src="http://s.itiexue.net/js/tiexue/statistic/bbs/bbsmonitor-u.js"></script>
+    <!--对联广告-->
+    <script type="text/javascript">
+        function adInfoShow() {
+            if (TX.BaseCookie.BBS_CurrentUserID() <= 0) {
+                var showJunphAd = false;
+                if (document.referrer != null) {
+                    var referrerInfo = document.referrer;
+                    if (referrerInfo.toLowerCase().indexOf("showpicclass_43_1.html") > 0) {
+                        showJunphAd = true;
+                    }
+                }
+                if(ForumID ==292|| ForumID ==293|| ForumID ==291|| ForumID ==294|| ForumID ==283 || ForumID == 219 ||ForumID == 79 ||ForumID == 260 || showJunphAd) {
+                    BAIDU_CLB_singleFillSlot("445637");
+                }
+                else {
+                    BAIDU_CLB_singleFillSlot("80066");
+                }
+            }
+        }      
+
+        if (islocked > 0) {
+            $("#ReplyFrame").height("0px");
+            $("#ReplyFrame").hide();
+            $("#noreplyspan").show();
+            $("#replyUserMsg").hide();
+        }
+    </script>
+    <script type="text/javascript">
+        if (TX.BaseCookie.BBS_CurrentUserID() <= 0) {
+            //            if (GetCookie()) {
+            //               // BAIDU_CLB_singleFillSlot("545690");
+            //            } else {
+            var showJunphAd = false;
+            if (document.referrer != null) {
+                var referrerInfo = document.referrer;
+                if (referrerInfo.toLowerCase().indexOf("showpicclass_43_1.html") > 0) {
+                    showJunphAd = true;
+                }
+            }
+            if (ForumID ==292|| ForumID ==293|| ForumID ==291|| ForumID ==294|| ForumID ==283 || ForumID == 219 || ForumID == 79 || ForumID == 260 || showJunphAd) {
+                BAIDU_CLB_singleFillSlot("535435");
+            }
+            else {
+                BAIDU_CLB_fillSlot("81336");
+            }
+            //            }
+        }        
+    </script>
+</body>
+</html>
+
+
+<!-- Created On 2015/12/1 13:37:41 -->
+<!-- CopyRight by TieXue -->

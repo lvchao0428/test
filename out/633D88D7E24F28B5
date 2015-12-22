@@ -1,0 +1,513 @@
+<!--UINFO: http://bbs.tiexue.net/post_9823419_1.html	length=85171&last_modified=1445840180&time_saved=1450676801&charset=gb2312-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta content="美国,体制,中国,廉洁,强大,为啥,官员,和美,推销" name="keywords" />
+    <meta content="微博[/size]
+博客[/size]" name="description" />
+    <meta http-equiv="mobile-agent" content="format=html5; url=http://m.tiexue.net/touch/thread_9823419_1.html"/>
+    <title>
+        如美国体制让中国廉洁强大，为啥官员和美国要推销？
+        
+        -
+        社会聚焦
+        - 铁血社区</title>
+        <link href="http://s.itiexue.net/??css/global/global-u.css,css/tiexue/bbs/page/post1-u.css?v=2" rel="stylesheet" type="text/css" charset="utf-8"/>    
+    <script src="http://s.itiexue.net/??js/global/base-all-v2-u.js,js/tiexue/public-u.js,js/tiexue/bbs/public-u.js,js/tiexue/bbs/page/post1t-u.js?v=5" type="text/javascript" charset="utf-8"></script>   
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+    <script type="text/javascript"> 
+        var ForumID=68;
+        var ForumGroupID=5;
+        var ThreadID=9823419;
+        var islocked=0;
+        var isvouch=0;
+        var Subject='如美国体制让中国廉洁强大，为啥官员和美国要推销？';
+	
+        BAIDU_CLB_preloadSlots("180429", "41474", "92705", "81336");
+        function PageTurn()
+        {
+            var pageIndexJs=$.trim($("#txtTurn").val());
+            if(pageIndexJs!="")
+            {
+                if(ValidateNum(pageIndexJs))
+                { 
+                    window.location.href="http://bbs.tiexue.net/post_"+9823419+"_"+pageIndexJs+".html";
+                }
+                else
+                {
+                    alert("请输入数字！");
+                }
+            }else
+            {
+                alert("请输入要跳转的页码！");
+            }
+        }
+        function ValidateNum(srcStr)
+        {
+            var expr='^(0|[1-9][0-9]*)$';
+            var Reg= new RegExp(expr);
+            if(Reg.test(srcStr))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        } 
+        function GaqPush(cname) {
+            _gaq.push(['_trackEvent', 'bbspost', 'clicked', cname]);
+        }
+    </script>   
+</head>
+
+<body>
+    <div class="container">
+        <!--*中间970 内容 start-->
+        <!--*头部 start-->
+        
+<div id="topBar">
+<script type="text/javascript">
+    InitLoginBar({
+        id: "topBar",
+        template: 1,
+        game: false,
+        slideMenu1: false,
+        slideMenu2: true,
+        sousuo: true,
+        addNav: null,
+        addStyle: ""
+    });
+</script>
+</div>
+
+<div class="header">
+    <div class="area header_row_2">
+        <div class="logo textHide float_L">
+            <a title="铁血社区" href="http://bbs.tiexue.net/" target="_blank">铁血社区</a></div>        
+            <ul class="nav fontYaHei" id="topNav">
+                <li class="noLayer">
+                    <h3>
+                        <a href="http://www.tiexue.net" target="_blank" onclick="GaqPush('1')">首页</a></h3>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://mil.tiexue.net" target="_blank" onclick="GaqPush('2')">军事</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowPicClass_43_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-1'])">军品鉴赏</a></li><li><a href="http://mil.tiexue.net/Junlv_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-2'])">中国军旅</a></li><li><a href="http://mil.tiexue.net/junmi_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-3'])">军迷争议</a></li><li><a href="http://mil.tiexue.net/lishi.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-4'])">军事历史</a></li><li><a href="http://mil.tiexue.net/jujiao.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-5'])">军情聚焦</a></li><li><a href="http://mil.tiexue.net/zhuanti_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-6'])">军事专题</a></li><li><a href="http://mil.tiexue.net/daohang/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-7'])">外军网址导航</a></li><li><a href="http://mil.tiexue.net/1979/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-8'])">对越自卫反击战</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://bbs.tiexue.net" target="_blank" onclick="GaqPush('3')">社区</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://mil.tiexue.net/zhiyuanzhe/index.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-1'])">关爱老兵活动</a></li><li><a href="http://www.tiexue.net/ShowClass_775_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-2'])">铁血精品原创</a></li><li><a href="http://www.tiexue.net/ShowClass_772_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-3'])">铁血热门话题</a></li><li><a href="http://bbs.tiexue.net/bbs32-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-4'])">陆军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs31-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-5'])">海军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs69-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-6'])">空军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs33-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-7'])">环球风云</a></li><li><a href="http://bbs.tiexue.net/gbbs24-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-8'])">警察之家</a></li><li><a href="http://bbs.tiexue.net/bbs73-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-9'])">中国历史</a></li><li><a href="http://bbs.tiexue.net/bbs124-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-10'])">军事影评</a></li><li><a href="http://bbs.tiexue.net/bbs219-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-11'])">军品鉴赏</a></li><li><a href="http://bbs.tiexue.net/bbs246-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-12'])">四海钓鱼</a></li><li><a href="http://bbs.tiexue.net/bbs247-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-13'])">人间美食</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <h3>
+                        <a href="http://www.junshishu.com" target="_blank" onclick="GaqPush('5')">读书</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.junshishu.com/mil.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-1'])">军事小说</a></li><li><a href="http://www.junshishu.com/his.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-2'])">历史小说</a></li><li><a href="http://www.junshishu.com/MultiNovelList.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-3'])">全本小说</a></li><li><a href="http://www.junshishu.com/yjcbxs.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-4'])">出版图书</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://www.tiexue.net/ShowPicClass_53_1.html" target="_blank" onclick="GaqPush('6')">图片</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowPicClass_53_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-1'])">精选酷图</a></li><li><a href="http://pic.tiexue.net/tuji_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-2'])">焦点图集</a></li><li><a href="http://www.tiexue.net/ShowPicClass_171_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-3'])">军事酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_172_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-4'])">国际酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_173_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-5'])">历史酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_188_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-6'])">社会酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_599_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-7'])">原创酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_597_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-8'])">猎奇酷图</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://jingcha.tiexue.net" target="_blank" onclick="GaqPush('7')">警察</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowClass_308_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-1'])">处警故事</a></li><li><a href="http://www.tiexue.net/ShowClass_294_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-2'])">警察生活</a></li><li><a href="http://www.tiexue.net/ShowClass_293_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-3'])">警务探讨</a></li><li><a href="http://www.tiexue.net/pictopic-373-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-4'])">图说警察</a></li><li><a href="http://www.tiexue.net/SmallPiclist_670_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-5'])">警察聚焦</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://game.tiexue.net" target="_blank" onclick="GaqPush('8')">游戏</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://dj.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-1'])">大将军</a></li><li><a href="http://dx.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-2'])">大侠传</a></li><li><a href="http://yd.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-3'])">一代宗师</a></li><li><a href="http://jj.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-4'])">将军</a></li><li><a href="http://zzsf.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-5'])">征战四方</a></li><li><a href="http://as.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-6'])">傲视天地</a></li><li><a href="http://sg.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-7'])">三国风云2</a></li><li><a href="http://mr.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-8'])">秦美人</a></li>
+                    </ul>
+                </li>
+                 <li>
+                        <h3><a href="http://v.tiexue.net" target="_blank" onclick="GaqPush('10')">视频</a><span></span></h3>
+                        <ul>
+                           <li><a href="http://v.tiexue.net/classMain_1681.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-1'])">军事视频</a></li><li><a href="http://v.tiexue.net/classMain_1682.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-2'])">时政视频</a></li><li><a href="http://v.tiexue.net/classMain_1683.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-3'])">历史视频</a></li>
+                        </ul>
+                  </li>
+                <li class="junpShop">
+                    <h3>
+                        <span></span><a href="http://www.junph.com/?utm_source=TX&utm_medium=anniu&utm_campaign=junp"
+                            target="_blank" onclick="GaqPush('9')">君品商城</a></h3>
+                    <ul>
+                        <li><a href="http://www.junph.com/html/Class1.html?utm_source=TX&utm_medium=anniu&utm_campaign=1" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-1'])">军迷服饰</a></li><li><a href="http://www.junph.com/html/category/junbiao.htm?utm_source=TX&utm_medium=anniu&utm_campaign=2" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-2'])">军迷手表</a></li><li><a href="http://www.junph.com/html/Class11.html?utm_source=TX&utm_medium=anniu&utm_campaign=3" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-3'])">军迷鞋靴</a></li><li><a href="http://www.junph.com/html/Class9.html?utm_source=TX&utm_medium=anniu&utm_campaign=4" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-4'])">军迷包具</a></li><li><a href="http://www.junph.com/html/category/jp-yanjing/?utm_source=TX&utm_medium=anniu&utm_campaign=6" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-5'])">军迷眼镜</a></li><li><a href="http://www.junph.com/html/Class12.html?utm_source=TX&utm_medium=anniu&utm_campaign=5" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-6'])">军迷手电</a></li><li><a href="http://www.junph.com/html/category/jp-wangyuanjing/?utm_source=TX&utm_medium=anniu&utm_campaign=7" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-7'])">望远镜</a></li>
+                    </ul>
+                </li>
+            </ul>        
+        <script type="text/javascript">
+            function navTab(id) {
+                var $_Tit = $("#" + id + ">li").not(".noLayer");
+                var $_Sub = $("#" + id + ">li>ul");
+                var timmer = null;
+                var n = null;
+                $_Tit.hover(function () {
+                    n = $_Tit.index(this)
+                    $(this).addClass("select").siblings().removeClass("select");
+                    $(this).children("ul").show();
+                }, function () {
+                    $_Tit.eq(n).removeClass("select");
+                    $_Sub.eq(n).hide();
+                })
+            }
+            navTab("topNav");
+        </script>
+    </div>
+</div>
+
+        <!--头部 end-->
+        <!--*主要内容 start-->
+        <div class="main">
+            <div class="banner" id="Baidu_BBSPostNormalV3ContentTopAD1">
+                <div><script type="text/javascript" >BAIDU_CLB_fillSlot("180429")</script></div>
+            </div>
+            <div class="mRow_1">
+                <p class="ftBtn textHide float_L">
+                    <a onclick="addPost();_gaq.push(['_trackEvent', 'bbs', 'clicked', '发帖按钮']);" href="javascript:void(0);" target="_self">我要发帖</a>
+                </p>
+                <div class="page float_R">
+                    <a href="http://bbs.tiexue.net/post_9823419_1.html" class="pageHover">1</a>
+                    
+                </div>
+            </div>
+            
+<div class="dir">
+    
+    <a href="http://bbs.tiexue.net/" target="_top">铁血社区</a> &gt; <a href="http://bbs.tiexue.net/gbbs5-0-1.html" target="_top">铁血社会论坛</a> &gt; <a href="http://bbs.tiexue.net/bbs68-0-1.html" target="_top">社会聚焦</a> &gt; 
+    <a target='_blank' href='http://bbs.tiexue.net/post_9823419_1.html'>如美国体制让中国廉洁强大，为啥官员和美国要推销？</a>
+</div>
+
+            
+<div class="postContent border">
+    <div class="postTit">
+        <p class="float_L">
+            帖子主题：如美国体制让中国廉洁强大，为啥官员和美国要推销？</p>
+        <p class="float_R">
+            共&nbsp;0&nbsp;个阅读者&nbsp;<span id="post_HeadReplySort"></span></p>
+    </div>
+</div>
+
+            
+<div class="postContent border">
+    <div class="postStart">
+        <!--*左边用户信息 start-->
+        <div class="sideLeft float_L">
+            <ul class="userMsg">
+                <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/8325725" class="signeffect-id"  target="_blank">温暖阳光12</a></strong><span></span></p><span class="boyHead"></span></div></li> <li class="headPic"> <a href="http://i.tiexue.net/8325725" target="_blank" title="查看个人空间"><img id="userMsg0" src="http://r.itiexue.net/bbs/other/images/user.gif" alt="头像" width="96" height="96" /></a><span class="signeffect-head"></span> </li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/r-07-LJ-bing-1.gif" alt="军衔:陆军列兵" title="军衔:陆军列兵" /></li> <li class="xxMsg">军号：8325725</li><li class="rongYu"><!-- 勋章 start --><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=13&f=1' target='_blank'><img src='http://img1.itiexue.net/medal/honor/13/1/13_s.png' title='发帖新兵' width='26' height='45' border=0 align='absmiddle'></a><!-- 勋章 end --></li>	<li class='xxMsg'>工分:2029	</li>	<li class='xxMsg'>本区职务:会员</li>
+            </ul>
+            <!--*广告位 start-->
+            <div class="advert01" id="Baidu_BBSPostNormalV3ContentLeftAD1">
+                <div><script type="text/javascript" >BAIDU_CLB_fillSlot("41474")</script></div>
+            </div>
+            <!--广告位 end-->
+        </div>
+        <!--左边用户信息 end-->
+        <!--*右边帖子内容 start-->
+        <div class="contents">
+            <div class="contRow_1" id="adminAndUserPanel_1">
+                <!--9823419,98770847,1,8325725,温暖阳光12,eFNFB2%2fZ5il80zpfpOly4g%3d%3d,1,0,0,0,0-->
+            </div>
+            <div class="icon_left textHide">
+                左箭头-小图标</div>
+            <div class="contRow_2">
+                
+                <div class="bbsPosTit">
+                    
+                    <span class="emotion61"></span>
+                    <h1>
+                        如美国体制让中国廉洁强大，为啥官员和美国要推销？</h1>
+                </div>
+                <!-- 广告位：标题下文字 -->
+ <div class="ad_text" id="Baidu_PostTitleTextAD" ></div>
+                <div class="tiJiaoMsg">
+                    <span>文章提交者：温暖阳光12
+                        加贴在</span>&nbsp;<a href="http://bbs.tiexue.net/bbs68-0-1.html" title="社会聚焦">社会聚焦</a>&nbsp;铁血论坛
+                                        http://bbs.tiexue.net/bbs68-0-1.html</div>
+                <div class="copyBtn" id="contentsbelowbar">
+                </div>
+                
+                <div id="postContent" class="js_box">                   
+                    <div id='Baidu_AdPIP2' class='AdPIP2'><div id='Baidu_AdPIP2_container'></div></div><!-- AdPanel_left --><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'><span style="font-size:18px">鼓吹学美国等于让羊用狼的办法解决问题</span></p><p class='bbsp'><span style="font-size:18px"> </span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> <a href="http://weibo.com/u/3711245795" target="_blank" title="http://weibo.com/u/3711245795">http://weibo.com/u/3711245795</a>微博</span></p><p class='bbsp'><span style="font-size:18px"> <a href="http://blog.sina.com.cn/u/1282379635" target="_blank" title="http://blog.sina.com.cn/u/1282379635">http://blog.sina.com.cn/u/1282379635</a>博客</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 公知精英大官为蒋介石不抵抗和汉奸卖国洗地经常说“中国当时武器不如人抗日根本打不赢、靠美国打赢的”，这意思是说中国当时没那个条件的情况下按照日本的作战方法就不可能打赢日本（他们说的“抗日就亡国”是因为他们想的按照日本那样阵地战比武器消耗肯定打不过，也就是说按照之前通常能想到的作战方法）；而当群众说“中国没有美国那么多资源，用美国的体制没法超过美国”的时候，公知精英大官又说“只要学美国的体制就能让中国强大发达”，这意思是说中国虽然没有那个条件，只要按照美国的办法就能超过美国。不具备日本那样的条件的情况下用跟日本类似的作战方法既然打不赢日本，那自然资源比美国差距很大的条件下用美国的办法咋能超过美国呢？爱腐败的官员为啥拼命推崇美国的体制呢？什么这么矛盾呢，为什么并没有抗日导致亡国呢？</span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 我条件不如日本的情况下，用类似于日本的作战方法肯定是不行，但如果我用跟日本截然不同的办法（也就是体制）就能打败日本。为啥毛泽东革命的共产党能在物质实力比国民党、美国差很多的情况下打败他们？既然物质实力不如对方，那必须管理先进才能打败对手，也就是说我的办法先进，也就是说共产党根本不用你那套作战方法（所谓作战方法其实就是管理组织方法），如果不是办法先进就不可能在物质不如对手的情况下打败对手（毛主席时代共产党靠管理方法先进打败对手，你现在私有化侵吞国企的理由是“引入先进管理方法”不等于说你把管理方法搞得更差了？）。这也说明，在物质条件不如美国的情况下想超越美国，绝对不能用跟美国同样的体制（体制不过是解决问题的办法）。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 为啥毛主席用的体制或者说方法是跟以前截然不同的呢，为什么先进呢？管理本质就是分配，如果分的大多数人满意，那么大多数人自然有积极性；人既然是自私的，人就愿意给自己劳动，那么资本主义企业属于少数人，多数人自然没积极性，而共产就是让每个人都拥有企业股份（必须民主管理实现）自然多数人就有积极性；各国资本主义的老板专家都反社会福利，因为人有了免费分房等福利之后就不可能愿意给资本家劳动，所以资本主义是逼迫劳动。毛泽东搞共产土改，官兵差距极小，穷人愿意共产，当然士兵就是为自己打仗，这样每个人都觉得是为自己打仗就有了动力产生了团队精神；而资本主义企业属于少数人，等于让穷人为富人打仗，那么自然没积极性，也就必须要绝对服从；日本和蒋介石中国相遇，那么日本工业能力强，都用同样办法管理的军队必然是日本厉害，毛泽东的军队遇到美国军队的时候用管理先进弥补了工业能力的差距。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> </span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 工业能力比对手差的情况下，用对手同样的办法作战，90%以上的概率要打败仗。如果把军队变成美国一样的军队让中国容易打败美国，那为啥美国拼命鼓吹中国军队改革成美国那样？国民党、南越、现在伊拉克军队都是美国训练出来的，他们的作战能力如何，大家都知道吧？</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 有人说，共产党那是人海战术，不是吗？“人海战术”不过是国民党为自己失败遮羞的可笑说法。国民党军队大多数时候比共产党人多，咋没人海呢？清朝和国民党时期中国人都是世界第一，咋没用“人海战术”打赢外国？国民党跟日本打仗死亡比是10:1、中条山战役惨败的死亡比达到20：1（这些死亡比是按照国民党自己公布的数字），共产党在抗美援朝跟单跟美国的死亡比是3:1，但朝鲜战争是中国跟16国联军作战，中国和16国联军的死亡比是1:1（联军和美军死亡数字是美国朝鲜战争纪念碑和韩国公布的资料。）。国民党跟日本打仗后期是拥有制空权，日军处于挨炸的境地，初期国民党有苏联帮忙，日本空军也没美国那么厉害；而志愿军面临着世界最强大的美国空军，这是中国近代所有军队没面对过的空中力量。有人说，中国死了100万，咋可能跟美国这样的死亡交换比呢？中国如果死了100万，那受伤的怎么也要有400万，这就说明志愿军战斗机跟美军比起来极差；战斗力极差的情况下还能把美军打退到38线维持住，那么中国在朝鲜起码要有600万军队，实际中国朝鲜兵力最多的时候也就不超过100万，这种说法合理吗？按照“死亡100万”的谎言，那中国在国内必须有1000万军队，那岂不是说中国当时有1600万以上的军队？志愿军死伤的都涉及到抚恤和确认烈士之类的待遇，如果少报了很多死伤数字，那就应该有大量的死亡烈士没被授予荣誉和享受待遇，可我国几乎因为作战死去没授予烈士成好之类的闹事呀？你身边见过因为朝鲜战争成为烈士却没被国家承认的例子吗？改开之后权贵亲美，官方倾向于污蔑抗美援朝（比如正面评价朝鲜战争的左翼网站被关闭），他们怎么可能故意把死亡数字说少呢？发明机枪之后，人海战术就是笑话。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 美国原子弹工程要就是一个管理问题，必须成千上万科学家和技术工人、工程技术人员放弃私有知识产权之类的观念（如果有专利之类的，那么就会重复研究形成壁垒）和利润聚集在一起齐心合力接受军事化管理（很多科学家不愿意接受军事化管理，奥本海默因为左派观点还被怀疑共产党），这用市场化的条件是不可能成功的，所以当时就要讲纳粹的威胁来聚集人心，还有美国物质条件先进也可以少部分弥补管理的不足（但当时在美国来说，研制原子弹的物质条件是差的，必须住小房子、烧煤饼、没洗澡间、土路。科学家不愿意接受军事化管理，奥本海默请他们来的时候必须隐瞒一些严格的管理规定）；而中国物质条件比美国差得多，用市场化原则根本不可能成功，两弹一星能够成功就是让千万人协调工作，这就是因为管理先进才能成功，因为中国当时平均差距小、让年轻人敢于反权威、为了保卫群众做主的相对平均的政权这几种原因在一起（如果贫富差距巨大，那多数人自然多数人就不会积极）才可以。当时很多第三世界国家用的是美国私有制就等于用美国的方法，可他们不具备美国的物质条件，自然就无法研制出原子弹，因为巨大贫富差距造成多数人没积极性，也不可能协调起来，无法让国家出钱培养技术工人和普通技术人员（美国自然资源条件好、能掠夺第三世界，他可以有一些财富分给底层让底层不至于造反，但其它被掠夺的国家不具备这个条件）。有人说蒋介石也能。当时蒋介石肯定不能，一个是蒋介石顶不住美苏的“友邦惊诧”，物质条件和巨大贫富差距）。有人说现在朝鲜能研制原子弹，说明也不难呀？现在你自己装的电脑都比当时美国第一台计算机好，说明？现在原子弹不是很难，也就不需要动员很多人和很先进的管理办法，因为原子弹的基础理论在中学教科书上都有，但中国研制原子弹的时候不是这样，且到了现在氢弹还是秘密。</span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 说“用美国的体制能让中国强大”就等于说美国10个人分100个鸡蛋、中国50个人分40个鸡蛋的情况下，用美国的炒鸡蛋方法能让中国能做出更多更好的炒鸡蛋来一样可笑。一切的体制或者说经济学都是建立在资源有限这个基础上的，美国总自然资源和人均资源都大大超过中国、加上美国还可以掠夺全世界的资源的情况下（美国西部、中部、东部都适合于人类居住、生产粮食和工业生产，中国只有东部条件最适合居住和生产、中国大面积的中西部不太适合居住和生产，中国的矿产资源总量大多数不如美国，中国人口是美国的5倍左右）说“用美国的办法能超过美国或者让中国强大”，这不是做梦吗？不具备美国的物质条件，非要用美国的世界观来看世界就是笑话，中国所谓精英都是一脑门子林肯之类的美国思想就是一个笑话。“美国梦”就是通过推销美国的体制让其它国家永远不能超过美国，那么中国鼓吹学美国体制的就不是“中国梦”而是“美国梦”。（XX梦到说法本来就是美国人发明的）说“用美国体制能让中国超过美国”的人就好像蒋介石手下的一个师长说能用蒋介石的办法来超过蒋介石一样可笑。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 蒋介石逃出四川之前安排潜伏的土匪特务破坏，这些土匪特务的培训班用毛泽东关于游击战的文章培训，可他们为啥没法用毛泽东的办法打败共产党？他们想的是，现在他们处于劣势、共产党之前实力弱的时期可以用这种办法，他们也能。可结果是他们没法发起游击战，因为他们不具备毛泽东共产党的条件―共产土改分财富。游击战必须要老百姓支持，国民党留下的潜伏特务土匪聚集起来的动力是反土改、保持个人富豪地位，这能打游击吗？也就是说，国民党土匪不具备毛泽东共产党的条件，用毛泽东的办法是不可能的。毛泽东的理论是公开的，就是说不怕敌人学去，因为敌人不具备条件根本无法模仿。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> </span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> 1、如果让解放军学美国就能打败美军，那美国为啥拼命鼓吹让中国军队学美国？</span></p><p class='bbsp'><span style="font-size:18px"> 必须超过美军的物质条件才能用美军同样的办法打败美国，学美国的蒋介石、南越、伊拉克军队战斗力成为笑话，原因就是他们不具备美国的物质条件的情况下模仿美军。如果让中国军队学美军就能打败美国，那为啥美国和中国亲美官员拼命鼓吹中国军队改革成美军的样子？你相信那个“即使涉及领土主权问题也不轻言使用武力”的人有打败美军的理想吗？</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 2、如果用美国体制能超过美国，为啥美国到处推销所谓美国体制？</span></p><p class='bbsp'><span style="font-size:18px"> 世界资源是有限的，如果多数国家都跟美国一样生活水平，那么美国的水平必然会极大的下降，所以美国不可能希望别的国家强大。美国不希望别的国家强大超过他，那么美国拼命推销他的体制，说明美国体制只能让别国永远落后于美国，让别的国家不能强大。美国体制只适合于具有美国资源条件的国家，所以别的国家用美国体制永远不可能超过或者跟美国一样的水平，所以美国才希望别的国家都模仿美国。</span></p><p class='bbsp'><span style="font-size:18px"> </span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> 4、鼓吹“金融市场化”就等于不具备美国那样货币发行权的情况下用美国的方法解决问题</span></p><p class='bbsp'><span style="font-size:18px"> 市场化说白了就是用钱配置资源，那么市场化条件下掌握货币发行权（能印钱的人）自然就控制了金钱，自然这些人就控制了世界。美国的美联储有货币发行权，美元在世界上占有统治地位，美联储是一些资本家控制的私有银行，如果全世界都是金融市场化，那就等于掌握美联储那些资本家控制了世界。如果实行金融市场化，中国就完全失去了货币发行权，那么推行金融市场化就等于说，在中国不拥有货币发行权的情况下，用美联储老板的办法能让中国金融强大。金融市场化就等于中国的亲美精英站在能印钱的美联储老板的立场上看世界。如果不是金融市场化能让中国金融变成美国附庸，为啥美国和亲美精英拼命鼓吹金融市场化？</span></p><p class='bbsp'><span style="font-size:18px"> 控制货币发行权是极为重要的，比如美国林肯和肯尼迪都想夺回美联储那些资本家的货币发行权由国家印美元，可后来他们都离奇的被暗杀了。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 5、全世界没有一个国家用美国体制超过美国，学美国体制的国家大多数是穷国</span></p><p class='bbsp'><span style="font-size:18px"> 事实也是，全世界学美国体制的没一个超过美国，而大多数穷国都是美国体制。美国体制下大资本家拥有企业，多数人给他们打工被控制饭碗，打工者就被大资本家控制；大老板直接出钱或者用广告控制媒体，选举必须媒体宣传推举候选人，控制媒体就让资本家控制选举；大资本家请好律师打官司，多数人没钱或者时间打官司，这样大资本家控制司法。美国体制大资本家控制选举、司法、媒体和打工者，他们才是真正的统治者，大资本家不能民主选举、所以美国就是大资本家独裁的国家，总统不过是傀儡或者说大资本家的行政处长。人是自私的，美国这种体制是大资本家掌权，那自然会让财富属于少数大资本家，必然贫富差距巨大。</span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 美国贫富差距巨大的情况下为啥没革命，或者说美国老百姓还基本满意？因为美国可以掠夺第三世界国家、美国自然资源丰富，所以美国保持贫富差距巨大的情况下能分给底层一些，这样底层就不太爱造反。但是美国掠夺多数第三世界国家保证了自己稳定，却让多数实行美国体制的第三世界国家变成被美国掠夺的国家，那么这些学习美国体制的第三世界国家保持巨大贫富差距的情况下就没钱分给底层，这就导致实行美国体制的第三世界国家老百姓爱革命。全世界都实行美国体制的结果是保持美国等少数国家富有，多数国家贫穷，保持少数人富有而多数人贫穷。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 6、如果私有化不能让别国落后，美国为啥拼命鼓吹？-如果社会主义让中国落后，美国为啥拼命反对？</span></p><p class='bbsp'><span style="font-size:18px"> 美国到处推销私有化、搞垮国企，美国本身不愿意别国超过强大超过自己，这不明显说明私有化让别国无法超越美国？国有化等于一个国家的企业内部不会因竞争产生内耗，就等于一个国家的国家力量组织一大大公司跟别国竞争，私有化下让中国一个行业的公司成为竞争对手或者说是敌人、因为美国是这些中国公司的客户就让美国成为中国私有公司的朋友，也就是说私有化让中国内部分裂成相互敌对的板块。美国的私有体制导致美国企业在本国内部相互竞争、不可能国家把所有企业组织起来形成力量，那如果其它大国组建了国有公司，就等于美国的某一个私人企业跟别国的国家力量竞争，美国当然反对别国私有化。文革时期日本计算机工业不如中国，日本要用国家力量不计盈亏的发展计算机，美国就反对日本的做法，因为一些美国公司就给政府提意见说，如果日本国家力量发展计算机就导致美国某个私营企业跟日本国家力量竞争。美国是先发国家，美国私营公司在很多行业世界领先，后发国家如果要跟美国竞争就必然赔钱研发，那么第三世界国家的私营企业老板就不可能愿意跟美国竞争导致亏损，那么第三世界国家私营企业老板就愿意去搞低端产业，所以美国愿意别国搞私营企业让别国永远处于产业链底层；只有国家投入才能忍受初期的亏损赶超美国。</span></p><p class='bbsp'><span style="font-size:18px"> </span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> 俄国叶利钦时代是学美国私有化最彻底的时代，可当时俄国工业生产下降一半、人均寿命降低，后来普京扭转了私有化趋势才转好。拉美被美国推销的私有化搞得几乎破产。俄国的GDP2007年才超过苏联1989的水平，现在俄国的军事装备有些破旧，大都是之前苏联的遗留。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 7、美国体制损害中国利益，却能让权贵暴富，导致中国权贵和美国统治阶级利益一致-如果美国体制不利于官员腐败，为啥要鼓吹？</span></p><p class='bbsp'><span style="font-size:18px"> 我国大学经济学教材都是美化美国制度的，我国权贵控制的南方系、央视、凤凰等主流媒体都是美化美国制度的。如果不是他们喜欢美国制度，为啥要吹捧呢？既然官员愿意对自己有利，那么不是让他们容易腐败，为啥要学呢？</span></p><p class='bbsp'><span style="font-size:18px"> </span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> 社会主义虽然能让中国强大，但比起资本主义对上层不利（比如列宁斯大林后代80年代就成了普通人，而美国洛克菲勒家族从列宁时代到80年代一直是超级富豪），比如企业无法让高层领导后代继承，利润无法合法拥有，所以第三世界国家高层愿意顺应美国要求搞私有化。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 美国体制无法让中国强大，为啥权贵拼命鼓吹美国体制？因为美国体制能让权贵家族暴富，符合他们个人利益。如果私有化不能让官员腐败，他们没必要拼命吹捧。国营公司虽然有腐败（通过民主监督就能解决问题），但国营公司让官员无法合法拿利润、后代无法继承企业，毛泽东那样严厉群众监督基本让他们没法暴富，自然他们要反对国营公司。搞私有化让中国资本家不会选择赔钱和美国竞争，那么中国自然是血汗工厂低端产品遍地，这样虽然让国家无法强大，但权贵可以通过帮美国人压迫中国底层老百姓来分一杯羹暴富，所以第三世界国家的权贵鼓吹美国体制，第三世界国家权贵跟本国人民利益对立、跟美国统治阶级利益一致，这就是买办集团。</span></p><p class='bbsp'><span style="font-size:18px"> 有人问，美国为啥非要让第三世界国家权贵暴富？美国无法直接管理压迫第三世界国家人民，必须通过二鬼子来剥削第三世界国家人民，也就是做美国的二鬼子有利于第三世界国家统治阶级利益，本质上第三世界国家统治阶级和人民的对立是民族矛盾在国内的一种体现。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 在落后于美国的情况下，必须形成国家力量跟美国竞争，让人民群众齐心合力跟美国竞争就必然要贫富差距小，因为如果贫富差距巨大就不可能有老百姓有积极性跟你团结起来形成合力，所以中国要强大必然损害权贵腐败利益，所以权贵不愿意中国强大。</span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 8、美国体制能让中国权贵腐败资产洗白</span></p><p class='bbsp'><span style="font-size:18px"> 在中国现在的公有制宪法下，权贵通过私有化政策侵吞的大量国企和其它公共资产不合法，所以权贵希望推翻宪法（推翻宪法才是改旗易帜的真正目的）来合法化自己侵吞的公共资产。没有任何一个资本主义国家让老百姓公决本国宪法是共产分企业的宪法还是私有制宪法，也就是说资本主义国家私有制宪法都是独裁制定的，那么中国权贵就可以打着选举的旗号骗人，幕后独裁制定私有制宪法，那他们侵吞的企业就合法了，变成美国体制之后他们成了合法的资本家、真正的统治者，选谁做总统都不会危害他们的财富。当然，中国权贵不能公开说“要推翻宪法洗白自己的资产”，他们必须玩双簧：权贵让一些公知民晕装作反对派的样子闹谎称“要民主”（这些假反对派嘴里说反对权贵，其实他们支持权贵的私有化政策、骂不执行的红色宪法和党章），之后权贵装作被迫答应的样子说可以民主，之后他们不经过多数人同意偷偷把红色宪法换成私有制宪法。</span></p><p class='bbsp'><span style="font-size:18px"> 如果他们真的是为了选举，那他们同意严格执行公有制宪法的条件下搞选举吗？如果不同意，那说明他们的目的就在于换掉宪法。问题是，你换掉宪法为啥不让老百姓公决选择是公有制分你们企业的宪法还是私有制宪法？如果公决宪法，多数人没他们侵吞的那些企业，自然愿意选择没收他们腐败资产的公有制宪法，所以他们改旗易帜的本质就是打着民主、改革等旗号独裁制定私有制宪法。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 9、社会主义国有化才能让中国超过美国</span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> 有人说，苏联不是解体了吗，能行吗？人是自私的，资本主义说拥有企业才有积极性，那么只有主义才能让大家相同的拥有企业股份，要不多数人不可能有积极性；资本主义国家给老板打工就被老板控制饭碗，那么只有国有化才能让老百姓对企业管理者民主，只要对管理者民主就成了自己拥有企业股份；社会主义有些方面类似伤上市公司，上市公司如果被大股东控制就会有问题，苏联并没实行民主管理，所以苏联的企业管理者也就是苏共大官就搞垮苏联实行私有化，只要民主管理就能解决问题。</span></p><p class='bbsp'><span style="font-size:18px"> 有人问，苏联不是有利于官员腐败独裁吗？中国和很多国家官员都愿意腐败和独裁，如果苏联体制容易让官员独裁和腐败，那为啥中国和很多国家官员不学苏联？为啥苏联解体之后变成富豪的大部分是苏共高层？苏联是叶利钦、索布恰克、戈尔巴乔夫和很多苏共高层推翻的，西方媒体不是吹捧这些人民主时候也是说他们搞垮的？人是自私的，苏共大官也没监督，如果苏联解体不是为了苏共大官腐败利益，他们为啥要推翻苏联？被普京处罚的俄国前首富霍多尔科夫斯基就是莫斯科共青团的高层。苏联虽然能让上层多吃多占，但在苏联共产宪法之下企业没法让苏共大官后代继承、利润也不能让大官合法拥有、就是苏联领导人也没世袭的，只有推翻苏联宪法搞私有化才能让大官后代合法继承企业、合法拿利润，甚至让一些大官变成新独立国家的领导。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 列宁时代，美国的洛克菲勒家族就是大富豪，到了80年代列宁的亲属在苏联是绝对平民的时候，洛克菲勒家族还是富豪，这说明苏联起码取消了企业世袭的制度。苏联普通老百姓有了高福利分房、水电气和医疗几乎免费、苏联50年代基本用电做饭，苏联大学面包免费随便吃。苏联因为没对公有制资产实行民主管理导致了大官搞垮苏联，但就这样还是很多方面搞得很好，苏联是世界上唯一要超过美国或者说可以灭亡美国的国家。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 有人说，苏联解体不是斯大林体制造成的？赫鲁晓夫开始就否定斯大林，戈尔巴乔夫又搞私有化改革，如果他们的否定斯大林和所谓改革不对苏联解体负责，为什么成绩是他们的？斯大林时代苏联从沙俄时代落后的农业国变成世界第二强国，那到底谁不好呢？</span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 撒切尔夫人到处宣传是苏联跟美国竞争导致解体，这纯属笑话。西方国家不可能愿意别国超过自己，不可能愿意别国改正错误，如果苏联真是因为跟美国竞争导致解体，那西方应该保守这个秘密、鼓励更多的国家搞苏联体制，为啥撒切尔夫人还拼命怕别国搞苏联体制？</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 10、苏联是唯一让美国人大量移民的国家</span></p><p class='bbsp'><span style="font-size:18px"> 美国自然资源全世界最好，所以美国人轻易不愿意移民别国，大都是别国老百姓移民美国（比如权贵拼命推崇美国的原因之一也是因为有亲属在美国做富豪），但美国历史上唯一一次大量移民外国就是去苏联。苏联初期困难的时候号召美国人来帮助苏联，当时要求来苏联帮助的最好自己带工具和技术，有很多美国人把自己的小工厂搬到苏联送给了苏联，当时移民苏联的加上来苏联帮助建设的工程技术人员起码有20万左右，甚至当时苏联专门办了给美国人看的英语报纸。当时美国汽车公司、炼钢厂的一些班组长都去苏联帮助生产，一些美国工人看到苏联医疗免费就留到了苏联。很多美国移民的后代或者本人在苏联解体后移民会美国，这是为啥？如果苏联解体好，为啥极少有美国人移民叶利钦时代的俄国？苏联建国初期，美国政府参与列强进攻包围苏联，美国老百姓却帮助苏联。某种意义上说，美国人民为苏联建国做出了重要贡献。</span></p><p class='bbsp'><span style="font-size:18px"> </span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> 苏联建国初期最衰弱的时候面临着10多个西方强国进攻，可结果是苏联战胜了这10多个西方工业强国。这可是当时世界最强大的国家联合起来进攻苏联，为什么苏联能打赢？因为有软实力。各国进攻苏联，但是法国、美国很多老百姓反对本国政府进攻导致他们的军队没战斗力（比如法国军队当时成建制的把武器送给苏联红军，跟苏联红军搞联欢，英法当时有大规模游行抗议进攻苏联）。当时美国一些工厂的工人知道生产的武器用来进攻苏联就怠工或者罢工，目的是不让武器用来进攻苏联，当时美国港口工人阻止武器运到苏联交给白军。当时资本主义国家的工人已经有了阶级意识，觉得进攻苏联不利于自己，这就跟现在我国权贵说“救美国就是救中国”类似，只不过是现在他们是怕美国资本主义倒霉不利于自己的个人利益。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 11、市场化和私有化让科技发展停滞</span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> 美国体制让多数国家和多数人贫穷，是因为“鸡蛋不够分”，地球上就这么多东西，那么让“鸡蛋够分”才能解决问题，想要“鸡蛋够分”只能去地球以外去找“鸡蛋”。那么去太阳系或者之外去找资源就必须要巨大投资、甚至千年之后才能见到利润，私有化下资本家愿意干吗？</span></p><p class='bbsp'><span style="font-size:18px"> 基因技术是基于分子水平上的研究，可现在基因技术基本不能解决问题（比如判定是否得癌症现在也还是以医生用显微镜观察细胞形态为主，基因只能作为辅助，因为在统计上基因还不如显微镜观察的准确。基因治疗癌症的药物的疗效跟之前没多大差别。治疗艾滋病的“鸡尾酒疗法”也不是通过基因研究发现的，它是因为之前治疗别的病之时就有把几种药联合用在病人身上的例子，当时就是抱着试试看的态度），因为根本没搞清基因的全部秘密和本质。基因是由原子以及更小的粒子组成的，那么要搞清基因的本质就要从更微小的粒子入手，那生物学的问题就变成了物理学，这就需要更多不能赚钱的投入，资本家是不愿意去做的。比如薛定谔写过《生命是什么》就是要从粒子的层面研究生物问题，但后来这个方向根本没发展，因为难度和投资都让资本家看不到任何短期利润。</span></p><p class='bbsp'><span style="font-size:18px"> 市场化和私有化就必须能有巨大利润，没利润甚至赔钱就没动力。现在各国的隐形战斗机看着很像，差别不大，这是为啥？因为现在的空气动力学或者说理论条件下飞机发展已经到了极限，再有很大突破几乎是不可能，所以模样很像。现在的量子力学、空气动力学、相对论等理论基础科学都是几十年以前甚至更早发明的，几乎没什么重大发展，现在的飞机等产品不过是利用之前的基础科学挖潜，所以基础理论没有重大突破的情况下就只能越来越像。基础科学就像积木块，而现在具体的飞机制造就像搭积木，就那么点积木块，所有搭积木的方法都已经快用完了，自然没啥新鲜东西了。基础物理的研究要巨大投入、短期内不能见到效益，这也不是资本家愿意投资的。现在中国搞这些研究在学校里也不是热门，市场化之后流行造假骗科研经费。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 美国登月和原子弹等工程根本不是市场化带来的，那是因为跟苏联或者其它国家你死我活的战争带来的竞争促进的，是美国的国家力量领导的。如果没有战争和苏联的威胁，美国资本家根本不愿意搞赔钱的登月或者原子弹。美国登月以后就停止了更深层向更深层空间、太阳系以外的探测，因为没了苏联就没了动力。如果派飞船探险或者探测银河系，那就要研制超光速飞船发动机，这可能要几百年甚至千年之后才能见到利润、这要基础物理取得突破发展，市场化原则下是没资本家会愿意投资的。</span></p><p class='bbsp'><span style="font-size:18px"> </span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 现在包括有些中国砖家说“美国航天飞机放弃之后搞宇宙飞船是正确思路”之类的都是谎言，实际是航天飞机这个发展方向肯定是比宇宙飞船更先进的东西，只是因为需要投入太大不符合市场规则才放弃，这导致美国航天飞机项目的几千人失业做保安之类的（这些人肯定比中国引入的美国私有化经济学家和中国的X股份们强的多），所以说从航天飞机到宇宙飞船是一种退步。之前苏联的航天飞机也有比美国先进的部分，后来因为冷战结束导致美国失去竞争对手放弃继续发展。有人说宇宙飞船现在用了先进计算机等东西说明进步了，这不是进步？你能说你的房子建筑性能不如以前了，只是装修好了就好了吗？</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> </span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> 人类面临资源枯竭，靠现在所谓节能是不可能解决问题的，必须用新技术去小行星或者太阳系之外去解决资源问题；地球可能毁灭就要人类探测银河系或者更远进行移民。解决这些问题靠现有的火箭、靠所谓太阳帆或者能想象到的飞船发动机都是不可能解决问题的，那就必须研究超光速的飞船发动机，那么这种投资是极为巨大的，按照市场化原则能获取利润可能要上千年，靠现在的经济体制是不可能实现的。要解决这些问题就必须要在基础理论物理上有重大突破，这些投资是不可能有短期效益的。（千万别说超光速是神话，或者说爱因斯坦认为不可能。说超光速不可能是在太阳系的条件下得到的结论，别的地方可能有不同于现在太阳系的物理规律；就是按照现在量子力学的量子纠缠现象来说，也不能否定太阳系能超光速）。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 有人问，不是美国私人航天好吗？美国之前说要把地球到月球轨道的探索交给私人公司，后来发生了私人航天爆炸事故之后又收回。私人航天搞的所谓“太空旅游”不过是个欺骗，因为那不过是让你感觉一下失重、到地球的边缘，以前飞机也能飞到这种高度让你体验失重。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 没有苏联之前，美国的技术发展是为了跟其它帝国主义争霸，之后是因为苏联，后来让大多数国家实行了美国体制就导致美国没有竞争，所以就不可能。资本主义世界创新绝对不是靠市场，而是靠战争，看看世界大战促进了多少技术，之前资本主义国家掠夺和争夺殖民地的战争也是技术发展动力。如果全世界都变成美国鼓吹的体制，那么只有美国一家独大，美国失去战争威胁和其它方面竞争威胁，基础理论就不能前进，甚至会倒退。现在美国拼命找对手、树立敌人的其中一个目的也是为了促进发展，否则就没动力，现在连人登陆火星都难以聚集资金。</span></p><p class='bbsp'><span style="font-size:18px"> </span><div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> 中国权贵因为腐败要鼓吹美国体制好，所以就不希望中国跟美国竞争，私有化的一个目的就是为了防止中国用国家力量跟美国产生竞争，因为如果国家力量使某些科技超过美国就会让权贵鼓吹的私有制缺乏说服力。</span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> </span></p><p class='bbsp'><span style="font-size:18px"> </span><div style='color:#FCFCCC' class='AddTxInfo'></div></p>
+                </div>
+                <div class="shareBlog">
+                    <div class="bar_1" style="clear:both;">
+                        <div class="float_L share share-hover">
+                            <span class="float_L">分享：</span>
+                            <a href="javascript:void(0)" onclick="TX_share('sina');GaqPush('分享');" class="share-1 float_L" title="分享到新浪微博"></a>
+                            <a href="javascript:void(0)" onclick="TX_share('qblog');GaqPush('分享');" class="share-2 float_L" title="分享到腾讯微博"></a>
+                            <a href="javascript:void(0)" onclick="TX_share('qzone');GaqPush('分享');" class="share-3 float_L" title="分享到QQ空间"></a>
+                            <a title="分享到微信" class="share-4 float_L" onclick="TX_share('weixin');GaqPush('分享');" href="javascript:void(0)"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="keyword">
+                    <strong>延伸阅读：</strong>
+                    
+                </div>
+                <div class="gfMsg">
+                    <ul class="gfLeft" onmouseover="tagetLayer(this,$(this).next('ul'))" id="tlogdiv"></ul>       
+                    <!--*日志弹出 start-->
+                    <ul class="logList" id="tloglist"></ul>
+                    <script type="text/javascript">
+                        //如果是管理员
+                        $(function(){
+                            var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                            var logisheader = TX.BaseCookie.BBS_IsHeader();
+                            var strhtml="";
+                            if(loguserid>0)
+                            {
+                                strhtml= '<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">3</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                                if(8325725 == loguserid|logisheader)
+                                {
+                                    strhtml='<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">3</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                                }
+                            }
+                            else{
+                                strhtml= '<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">3</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                            }
+                            $("#tlogdiv").html(strhtml);
+                            $("#tloglist").html(strhtml);
+                        })
+                    </script>
+                    <!--日志弹出 end-->
+                    <dl class="gfRight">
+                        <dd class="spare">
+                            <a href="javascript:void(0)" onclick="daShangLayer(8325725,98770847)">
+                                打赏</a></dd>
+                        <dd class="favor">
+                            <a href="javascript:void(0);" onclick="TxBBS_FavoriteThread('9823419');">
+                                收藏文本</a></dd>
+                        <dd class="ding" id="digNum">
+                            <a href="javascript:void(0);" onclick="TxBBS_DigThread('9823419');"><em>
+                                0</em><span></span></a></dd>
+                    </dl>
+                </div>
+                <div class="reward textHide" id="adminAddSalary_98770847_9823419">
+                </div>
+                <div class="qianming">0</div>
+                <div class="lock-msg border hidden" id="threadnoreplyspan">
+                    本帖已经被管理员锁定，不能回复</div>
+                <div class="fastReply" id="commentsDiv">
+                    <script type="text/javascript">
+                        try {
+                            TxBBS_SetQuickReplyHtml("commentsDiv", 'False', '68', '9823419', '如美国体制让中国廉洁强大，为啥官员和美国要推销？');
+                        }
+                        catch (e) { }
+                    </script>
+                </div>
+                <!--*相关帖 start-->
+                <div class="aboutPost-v2" style="height: 340px; margin-top: 5px;">
+                    <h2 style="height: 50px; line-height: 50px; color: #38352C; font-size: 16px; font-weight: bold;">
+                        如美国体制让中国廉洁强大，为啥官员和美国要推销？相关文章</h2>
+                    <div class="abpLeft">
+                        <ul>
+                            <li><a onclick="GaqPush('相关推荐-相关文章')" title='再论“北京模式”与“华盛顿模式”叫板' href='http://bbs.tiexue.net/post_3828810_1.html' target = '_blank'>再论“北京模式”与“华盛顿模式”叫板</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='从楼市泡沫的本质谈腐败' href='http://bbs.tiexue.net/post_4200404_1.html' target = '_blank'>从楼市泡沫的本质谈腐败</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='重振“举国体制”，关键在不拘一格用人才' href='http://bbs.tiexue.net/post_4294354_1.html' target = '_blank'>重振“举国体制”，关键在不拘一格用人才</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='从“国富民穷”到“藏富于民”再到“国富民强”' href='http://bbs.tiexue.net/post_4473046_1.html' target = '_blank'>从“国富民穷”到“藏富于民”再到“国富民强”</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='与其高唱“中国模式”,不如低头寻找“中国道路”' href='http://bbs.tiexue.net/post_4991382_1.html' target = '_blank'>与其高唱“中国模式”,不如低头寻找“中国道路”</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='发改委，为啥总是制造穷人' href='http://bbs.tiexue.net/post_5004225_1.html' target = '_blank'>发改委，为啥总是制造穷人</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='罗竖一：李娜“单飞”夺冠撼动了“举国体制”' href='http://bbs.tiexue.net/post_5119398_1.html' target = '_blank'>罗竖一：李娜“单飞”夺冠撼动了“举国体制”</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='中国是世界最富有的国家 但代价是民弱' href='http://bbs.tiexue.net/post_5206762_1.html' target = '_blank'>中国是世界最富有的国家 但代价是民弱</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='被美债捆绑的中国如何给自己解套' href='http://bbs.tiexue.net/post_5269407_1.html' target = '_blank'>被美债捆绑的中国如何给自己解套</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="abpRight pp01">
+                        <ul class="pp">
+                            <li><a href="http://bbs.tiexue.net/post_3035773_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small10.itiexue.net/788/7881562.jpg" title="台独团体上演升“国旗”闹剧" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_3035773_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>台独团体上演升“国旗”闹剧</a></span></li><li><a href="http://bbs.tiexue.net/post_5077366_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small2.itiexue.net/1299/12993230.jpg" title="桑兰在向谁宣战" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_5077366_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>桑兰在向谁宣战</a></span></li><li><a href="http://bbs.tiexue.net/post_5557708_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small3.itiexue.net/1390/13901679.jpg" title="令人震惊！中俄少年足球大比拼0:15" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_5557708_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>令人震惊！中俄少年足球大比拼0:15</a></span></li><li><a href="http://bbs.tiexue.net/post_5707900_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small1.itiexue.net/1443/14435761.jpg" title="香港作家：用蝗虫来形容自己的同胞令人震惊" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_5707900_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>香港作家：用蝗虫来形容自己的同胞令人震惊</a></span></li><li><a href="http://bbs.tiexue.net/post_7041048_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small11.itiexue.net/1743/17433767.jpg" title="美国遇严寒：美军与中国军队对比让人笑掉牙" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_7041048_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>美国遇严寒：美军与中国军队对比让人笑掉牙</a></span></li><li><a href="http://bbs.tiexue.net/post_7054221_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small10.itiexue.net/1749/17493910.jpg" title="媒体借访刘国梁 称举国体制培养不出李娜" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_7054221_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>媒体借访刘国梁 称举国体制培养不出李娜</a></span></li>
+                        </ul>
+                    </div>
+                </div>
+                <!--相关帖 end-->
+            </div>
+            <!--*广告位 start-->
+            <div class="advert02" id="Baidu_BBSPostNormalV3ContentInfo"><script type="text/javascript" >BAIDU_CLB_fillSlot("92705")</script></div>
+            <!--广告位 end-->
+            <div class="date">
+                2015/10/26 14:14:16</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+</div>
+<!--*热门帖 start-->
+<div class="hotPost">
+    <div class="hotLeft border pp01">
+        <h3 class="tzTitle">
+            本版热门</h3>
+        <ul class="pp">
+            <li><a onclick="GaqPush('本版热门-焦点图')" target='_blank' title='19岁嫩模误信常州大人物主动献身 还奉上11万元' href='http://bbs.tiexue.net/post_9823005_1.html'><img id='img1' src='http://small2.itiexue.net/2094/20949602.jpg' width='120' height='90' border=0></a><span><a onclick="GaqPush('本版热门-焦点图')" target='_blank' title='19岁嫩模误信常州大人物主动献身 还奉上11万元' href='http://bbs.tiexue.net/post_9823005_1.html'>19岁嫩模误信常州大人物主动献身 还奉上11万元</a></span></li>
+        </ul>
+        <ul class="textList">
+            <li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9787610_1.html' title='辽宁的大案:黑老大被查'>辽宁的大案:黑老大被查</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9794207_1.html' title='新娘求刺激拍 “裸体”婚纱照，被摄影师性侵惹来杀身之祸'>新娘求刺激拍 “裸体”婚纱照，被摄影师性侵惹来杀身之祸</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9823094_1.html' title='你所不知道的 服刑人员入监头三个月怎么过？'>你所不知道的 服刑人员入监头三个月怎么过？</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9792140_1.html' title='大陆人根本就不懂：每一个民主国家、地区，弦儿绷得都是很紧的！'>大陆人根本就不懂：每一个民主国家、地区，弦儿绷得都是很紧的！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9799437_1.html' title='俄罗斯大妈组团来中国扫货 赞质优价廉'>俄罗斯大妈组团来中国扫货 赞质优价廉</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9797512_1.html' title='在港被打死游客验尸报告：系死于心脏病'>在港被打死游客验尸报告：系死于心脏病</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9794106_1.html' title='（转载红德网）云石：悲情侠女or权谋大师？'>（转载红德网）云石：悲情侠女or权谋大师？</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9801019_1.html' title='长沙一女子被忽悠免费做头发 15分钟花费3.8万'>长沙一女子被忽悠免费做头发 15分钟花费3.8万</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9821477_1.html' title='西点军校教官：朝鲜战争败给毛泽东不丢人'>西点军校教官：朝鲜战争败给毛泽东不丢人</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9801005_1.html' title='老知青谈自己当年为何去新疆“支援边疆”:为了寻找真理'>老知青谈自己当年为何去新疆“支援边疆”:为了寻找真理</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9811438_1.html' title='[原创]南京宝马案情，一细节值得回味！'>[原创]南京宝马案情，一细节值得回味！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9792259_1.html' title='（转载）1975年：河南驻马店板桥水库特大溃坝事件内幕'>（转载）1975年：河南驻马店板桥水库特大溃坝事件内幕</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9788394_1.html' title='吴德祖：你好，青年――说说“信仰”和“主义”'>吴德祖：你好，青年――说说“信仰”和“主义”</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9812533_1.html' title='台公务员考试，竟然要考科学发展观'>台公务员考试，竟然要考科学发展观</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9811432_1.html' title='早晚这么做让你一年不找医生'>早晚这么做让你一年不找医生</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9812328_1.html' title='[原创]人民军队决不能容许唯和派执掌决策权。'>[原创]人民军队决不能容许唯和派执掌决策权。</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9796338_1.html' title='内蒙古一名13岁女孩多次被姐夫强奸 校园厕所产女'>内蒙古一名13岁女孩多次被姐夫强奸 校园厕所产女</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9796287_1.html' title='前“体操王子”李宁：港应去掉“殖民文化”'>前“体操王子”李宁：港应去掉“殖民文化”</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9805267_1.html' title='甘一女生拒替班主任收费 被踢致下体流血'>甘一女生拒替班主任收费 被踢致下体流血</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9804314_1.html' title='[原创]信心就是黄金白银 信心超黄金白银'>[原创]信心就是黄金白银 信心超黄金白银</a></li>
+        </ul>
+    </div>
+    
+    <div class="hotRight border pp01">
+        <h3 class="tzTitle">
+            大区热门</h3>
+        <ul class="pp">
+            <li><a onclick="GaqPush('大区热门-焦点图')" target='_blank' title='大批相思鸟集体撞墙自杀 死因不明(图)' href='http://bbs.tiexue.net/post_9796986_1.html'><img id='img1' src='http://small4.itiexue.net/2094/20942632.jpg' width='120' height='90' border=0></a><span><a onclick="GaqPush('大区热门-焦点图')" target='_blank' title='大批相思鸟集体撞墙自杀 死因不明(图)' href='http://bbs.tiexue.net/post_9796986_1.html'>大批相思鸟集体撞墙自杀 死因不明(图)</a></span></li>
+        </ul>
+        <ul class="textList">
+            <li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9797401_1.html' title='因母亲是大陆籍 台湾女生不堪欺凌跳楼(转载)'>因母亲是大陆籍 台湾女生不堪欺凌跳楼(转载)</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9801015_1.html' title='四吨扬州炒饭当垃圾处理，中国人真忘记自己才吃了几年饱饭？'>四吨扬州炒饭当垃圾处理，中国人真忘记自己才吃了几年饱饭？</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9797577_1.html' title='文革时芒果是如何像佛祖、高僧的舍利一样成为圣物的?'>文革时芒果是如何像佛祖、高僧的舍利一样成为圣物的?</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9793619_1.html' title='央行再次降息降准：一年期存贷基准利率降0.25%'>央行再次降息降准：一年期存贷基准利率降0.25%</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9801020_1.html' title='开封女子因比身份证照片“美太多”没法领证结婚'>开封女子因比身份证照片“美太多”没法领证结婚</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9797394_1.html' title='青岛“天价虾”被宰游客捐出5万奖金：这钱用我身上于心不安'>青岛“天价虾”被宰游客捐出5万奖金：这钱用我身上于心不安</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9794675_1.html' title='在香港被“打死”游客验尸报告：系死于心脏病'>在香港被“打死”游客验尸报告：系死于心脏病</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9822877_1.html' title='违章女拒不下车 被六名交警连人带摩托一起抬走'>违章女拒不下车 被六名交警连人带摩托一起抬走</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9803203_1.html' title='S多台橙顺鸷薮箨[客的根本原因（转）'>S多台橙顺鸷薮箨[客的根本原因（转）</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9799473_1.html' title='解放军“最美塞钱女孩” ：我就要去扶！！！（组图）'>解放军“最美塞钱女孩” ：我就要去扶！！！（组图）</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9797400_1.html' title='前惠誉中国银行业专家：取消存款利率上限 中国迈出“最危险一步”'>前惠誉中国银行业专家：取消存款利率上限 中国迈出“最危险一步”</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9821476_1.html' title='当代国人的十大劣根心理'>当代国人的十大劣根心理</a></li>
+        </ul>
+    </div>
+    
+</div>
+<!--热门帖 end-->
+
+<div class="advert03" id="Baidu_BBSPostNormalV3FirstFloorBottomAD">
+    <div id="Baidu_BBSPostNormalV3FirstFloorBottomAD_container"></div>
+</div>
+
+<div class="postContent border hotReply wyReply" style="display:none;">
+    <div class="postTit">
+        <h2>
+            网友回复</h2>
+        <span id="post_UserReplySort"></span>
+    </div>
+    <div id="PostReply_List">
+</div>
+</div>
+
+            <div class="mRow_1">
+                <p class="ftBtn textHide float_L">
+                    <a onclick="addPost();_gaq.push(['_trackEvent', 'bbs', 'clicked', '发帖按钮'])" href="javascript:void(0);" target="_self">我要发帖</a>
+                </p>
+                <div class="page">
+                    <p>
+                        总页数<span>1</span>第<span>1</span>页&nbsp;[共有<span>1</span>条记录]&nbsp;分页：
+                    </p>
+                    <a href="http://bbs.tiexue.net/post_9823419_1.html" class="pageHover">1</a>
+                    
+                </div>
+            </div>
+            <div class="advert03" id="Baidu_BBSPostNormalV3KuTuAD1"></div>
+            <div class="tabs">
+                <div class="tabsTop" id="replyUserMsg">
+                    &nbsp;对<span>如美国体制让中国廉洁强大，为啥官员和美国要推销？</span>回复
+                </div>
+                <script type="text/javascript">
+                    if (TX.BaseCookie.BBS_CurrentUserID() != 0) {
+                        $("#replyUserMsg").prepend("“" + TX.BaseCookie.TxBBS_CurrentUserName() + "”");
+                    }
+                </script>
+                <iframe id="ReplyFrame" name="ReplyFrame" frameborder="0" marginheight="0" marginwidth="0"
+                    scrolling="no" src="http://bbs.tiexue.net/reply/ReplyNew2.htm" width="970" height="630"></iframe>
+                <div class="lock-msg border hidden" id="noreplyspan">
+                    本帖已经被管理员锁定，不能回复
+                </div>
+            </div>
+            <!--*底部操作条 start-->
+            <div class="bot-operateBar border hidden" id="postbuttonadminpanel_98770847_9823419_0_0">
+            </div>
+            <!--底部操作条 end-->
+        </div>
+        <!--主要内容 end-->
+        <!--*脚注 start-->
+        
+<div class="footer" id="footer">
+    <script type="text/javascript">        CreateFooter("about");</script>
+    <span>|</span><a href="http://www.tiexue.net/map_index.htm" target="_blank">网站地图</a>
+    <script type="text/javascript">        CreateFooter("version");</script>
+    <script type="text/javascript">        CreateFooter("law");</script>
+    <script type="text/javascript">        CreateFooter("record");</script>
+</div>
+
+        <!--脚注 end-->
+
+    </div>
+    <script type="text/javascript">
+
+        try {
+            var effect = ('').split(',');
+            for (var i = 0; i < effect.length; i++) {
+                getEffect(effect[i]);
+            }
+        }
+        catch (e) { }
+
+        function getEffect(ef) {
+            if (ef.indexOf("bg") > -1) {
+                $(".signeffect-id").addClass("sign-bg");
+            }
+            else if (ef.indexOf("head") > -1) {
+                $(".signeffect-head").addClass("sign-ico").attr("title", "签到精英");
+            }
+        }
+        $(document).ready(function () {
+            try {
+                Tx_InitTopPostDigBar("contentsbelowbar", ThreadID, Subject, '0');
+            }
+            catch (e)
+            { }
+            TxBBS_AdminAndUserPanel();
+            TxBBS_PostShowAdminButtonPanel();
+        });
+    </script>
+            
+    <script type="text/javascript" src="http://s.itiexue.net/js/tiexue/statistic/bbs/bbsmonitor-u.js"></script>
+    <!--对联广告-->
+    <script type="text/javascript">
+        function adInfoShow() {
+            if (TX.BaseCookie.BBS_CurrentUserID() <= 0) {
+                var showJunphAd = false;
+                if (document.referrer != null) {
+                    var referrerInfo = document.referrer;
+                    if (referrerInfo.toLowerCase().indexOf("showpicclass_43_1.html") > 0) {
+                        showJunphAd = true;
+                    }
+                }
+                if(ForumID ==292|| ForumID ==293|| ForumID ==291|| ForumID ==294|| ForumID ==283 || ForumID == 219 ||ForumID == 79 ||ForumID == 260 || showJunphAd) {
+                    BAIDU_CLB_singleFillSlot("445637");
+                }
+                else {
+                    BAIDU_CLB_singleFillSlot("80066");
+                }
+            }
+        }      
+
+        if (islocked > 0) {
+            $("#ReplyFrame").height("0px");
+            $("#ReplyFrame").hide();
+            $("#noreplyspan").show();
+            $("#replyUserMsg").hide();
+        }
+    </script>
+    <script type="text/javascript">
+        if (TX.BaseCookie.BBS_CurrentUserID() <= 0) {
+            //            if (GetCookie()) {
+            //               // BAIDU_CLB_singleFillSlot("545690");
+            //            } else {
+            var showJunphAd = false;
+            if (document.referrer != null) {
+                var referrerInfo = document.referrer;
+                if (referrerInfo.toLowerCase().indexOf("showpicclass_43_1.html") > 0) {
+                    showJunphAd = true;
+                }
+            }
+            if (ForumID ==292|| ForumID ==293|| ForumID ==291|| ForumID ==294|| ForumID ==283 || ForumID == 219 || ForumID == 79 || ForumID == 260 || showJunphAd) {
+                BAIDU_CLB_singleFillSlot("535435");
+            }
+            else {
+                BAIDU_CLB_fillSlot("81336");
+            }
+            //            }
+        }        
+    </script>
+</body>
+</html>
+
+
+<!-- Created On 2015/10/26 14:16:20 -->
+<!-- CopyRight by TieXue -->

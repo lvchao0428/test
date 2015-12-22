@@ -1,0 +1,881 @@
+<!--UINFO: http://bbs.tiexue.net/post_9330565_1.html	length=102195&last_modified=1435749587&time_saved=1450676390&charset=gb2312-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta content="何新,推荐,自由主义,误导,中国,股市" name="keywords" />
+    <meta content="哲学的自觉与政策选择 
+ 中国金融的浪漫、无序发展，其动力源自于建立国际金融中心的冲动和“人有我有”赶时髦的心态，但却选错了样板，依葫芦画瓢地照搬美国的金融制度与衍生产品，罔顾中国的战略需求，忽略了发展资金融通渠道、提高资..." name="description" />
+    <meta http-equiv="mobile-agent" content="format=html5; url=http://m.tiexue.net/touch/thread_9330565_1.html"/>
+    <title>
+        何新推荐：新自由主义在误导中国股市(下)
+        
+        -
+        环球风云
+        - 铁血社区</title>
+        <link href="http://s.itiexue.net/??css/global/global-u.css,css/tiexue/bbs/page/post1-u.css?v=2" rel="stylesheet" type="text/css" charset="utf-8"/>    
+    <script src="http://s.itiexue.net/??js/global/base-all-v2-u.js,js/tiexue/public-u.js,js/tiexue/bbs/public-u.js,js/tiexue/bbs/page/post1t-u.js?v=5" type="text/javascript" charset="utf-8"></script>   
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+    <script type="text/javascript"> 
+        var ForumID=33;
+        var ForumGroupID=22;
+        var ThreadID=9330565;
+        var islocked=0;
+        var isvouch=0;
+        var Subject='何新推荐：新自由主义在误导中国股市(下)';
+	
+        BAIDU_CLB_preloadSlots("180429", "41474", "92705", "81336");
+        function PageTurn()
+        {
+            var pageIndexJs=$.trim($("#txtTurn").val());
+            if(pageIndexJs!="")
+            {
+                if(ValidateNum(pageIndexJs))
+                { 
+                    window.location.href="http://bbs.tiexue.net/post_"+9330565+"_"+pageIndexJs+".html";
+                }
+                else
+                {
+                    alert("请输入数字！");
+                }
+            }else
+            {
+                alert("请输入要跳转的页码！");
+            }
+        }
+        function ValidateNum(srcStr)
+        {
+            var expr='^(0|[1-9][0-9]*)$';
+            var Reg= new RegExp(expr);
+            if(Reg.test(srcStr))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        } 
+        function GaqPush(cname) {
+            _gaq.push(['_trackEvent', 'bbspost', 'clicked', cname]);
+        }
+    </script>   
+</head>
+
+<body>
+    <div class="container">
+        <!--*中间970 内容 start-->
+        <!--*头部 start-->
+        
+<div id="topBar">
+<script type="text/javascript">
+    InitLoginBar({
+        id: "topBar",
+        template: 1,
+        game: false,
+        slideMenu1: false,
+        slideMenu2: true,
+        sousuo: true,
+        addNav: null,
+        addStyle: ""
+    });
+</script>
+</div>
+
+<div class="header">
+    <div class="area header_row_2">
+        <div class="logo textHide float_L">
+            <a title="铁血社区" href="http://bbs.tiexue.net/" target="_blank">铁血社区</a></div>        
+            <ul class="nav fontYaHei" id="topNav">
+                <li class="noLayer">
+                    <h3>
+                        <a href="http://www.tiexue.net" target="_blank" onclick="GaqPush('1')">首页</a></h3>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://mil.tiexue.net" target="_blank" onclick="GaqPush('2')">军事</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowPicClass_43_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-1'])">军品鉴赏</a></li><li><a href="http://mil.tiexue.net/Junlv_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-2'])">中国军旅</a></li><li><a href="http://mil.tiexue.net/junmi_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-3'])">军迷争议</a></li><li><a href="http://mil.tiexue.net/lishi.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-4'])">军事历史</a></li><li><a href="http://mil.tiexue.net/jujiao.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-5'])">军情聚焦</a></li><li><a href="http://mil.tiexue.net/zhuanti_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-6'])">军事专题</a></li><li><a href="http://mil.tiexue.net/daohang/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-7'])">外军网址导航</a></li><li><a href="http://mil.tiexue.net/1979/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-8'])">对越自卫反击战</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://bbs.tiexue.net" target="_blank" onclick="GaqPush('3')">社区</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://mil.tiexue.net/zhiyuanzhe/index.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-1'])">关爱老兵活动</a></li><li><a href="http://www.tiexue.net/ShowClass_775_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-2'])">铁血精品原创</a></li><li><a href="http://www.tiexue.net/ShowClass_772_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-3'])">铁血热门话题</a></li><li><a href="http://bbs.tiexue.net/bbs32-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-4'])">陆军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs31-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-5'])">海军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs69-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-6'])">空军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs33-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-7'])">环球风云</a></li><li><a href="http://bbs.tiexue.net/gbbs24-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-8'])">警察之家</a></li><li><a href="http://bbs.tiexue.net/bbs73-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-9'])">中国历史</a></li><li><a href="http://bbs.tiexue.net/bbs124-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-10'])">军事影评</a></li><li><a href="http://bbs.tiexue.net/bbs219-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-11'])">军品鉴赏</a></li><li><a href="http://bbs.tiexue.net/bbs246-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-12'])">四海钓鱼</a></li><li><a href="http://bbs.tiexue.net/bbs247-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-13'])">人间美食</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <h3>
+                        <a href="http://www.junshishu.com" target="_blank" onclick="GaqPush('5')">读书</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.junshishu.com/mil.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-1'])">军事小说</a></li><li><a href="http://www.junshishu.com/his.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-2'])">历史小说</a></li><li><a href="http://www.junshishu.com/MultiNovelList.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-3'])">全本小说</a></li><li><a href="http://www.junshishu.com/yjcbxs.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-4'])">出版图书</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://www.tiexue.net/ShowPicClass_53_1.html" target="_blank" onclick="GaqPush('6')">图片</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowPicClass_53_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-1'])">精选酷图</a></li><li><a href="http://pic.tiexue.net/tuji_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-2'])">焦点图集</a></li><li><a href="http://www.tiexue.net/ShowPicClass_171_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-3'])">军事酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_172_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-4'])">国际酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_173_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-5'])">历史酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_188_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-6'])">社会酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_599_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-7'])">原创酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_597_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-8'])">猎奇酷图</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://jingcha.tiexue.net" target="_blank" onclick="GaqPush('7')">警察</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowClass_308_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-1'])">处警故事</a></li><li><a href="http://www.tiexue.net/ShowClass_294_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-2'])">警察生活</a></li><li><a href="http://www.tiexue.net/ShowClass_293_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-3'])">警务探讨</a></li><li><a href="http://www.tiexue.net/pictopic-373-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-4'])">图说警察</a></li><li><a href="http://www.tiexue.net/SmallPiclist_670_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-5'])">警察聚焦</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://game.tiexue.net" target="_blank" onclick="GaqPush('8')">游戏</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://dj.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-1'])">大将军</a></li><li><a href="http://dx.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-2'])">大侠传</a></li><li><a href="http://yd.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-3'])">一代宗师</a></li><li><a href="http://jj.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-4'])">将军</a></li><li><a href="http://zzsf.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-5'])">征战四方</a></li><li><a href="http://as.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-6'])">傲视天地</a></li><li><a href="http://sg.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-7'])">三国风云2</a></li><li><a href="http://mr.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-8'])">秦美人</a></li>
+                    </ul>
+                </li>
+                 <li>
+                        <h3><a href="http://v.tiexue.net" target="_blank" onclick="GaqPush('10')">视频</a><span></span></h3>
+                        <ul>
+                           <li><a href="http://v.tiexue.net/classMain_1681.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-1'])">军事视频</a></li><li><a href="http://v.tiexue.net/classMain_1682.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-2'])">时政视频</a></li><li><a href="http://v.tiexue.net/classMain_1683.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-3'])">历史视频</a></li>
+                        </ul>
+                  </li>
+                <li class="junpShop">
+                    <h3>
+                        <span></span><a href="http://www.junph.com/?utm_source=TX&utm_medium=anniu&utm_campaign=junp"
+                            target="_blank" onclick="GaqPush('9')">君品商城</a></h3>
+                    <ul>
+                        <li><a href="http://www.junph.com/html/Class1.html?utm_source=TX&utm_medium=anniu&utm_campaign=1" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-1'])">军迷服饰</a></li><li><a href="http://www.junph.com/html/category/junbiao.htm?utm_source=TX&utm_medium=anniu&utm_campaign=2" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-2'])">军迷手表</a></li><li><a href="http://www.junph.com/html/Class11.html?utm_source=TX&utm_medium=anniu&utm_campaign=3" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-3'])">军迷鞋靴</a></li><li><a href="http://www.junph.com/html/Class9.html?utm_source=TX&utm_medium=anniu&utm_campaign=4" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-4'])">军迷包具</a></li><li><a href="http://www.junph.com/html/category/jp-yanjing/?utm_source=TX&utm_medium=anniu&utm_campaign=6" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-5'])">军迷眼镜</a></li><li><a href="http://www.junph.com/html/Class12.html?utm_source=TX&utm_medium=anniu&utm_campaign=5" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-6'])">军迷手电</a></li><li><a href="http://www.junph.com/html/category/jp-wangyuanjing/?utm_source=TX&utm_medium=anniu&utm_campaign=7" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-7'])">望远镜</a></li>
+                    </ul>
+                </li>
+            </ul>        
+        <script type="text/javascript">
+            function navTab(id) {
+                var $_Tit = $("#" + id + ">li").not(".noLayer");
+                var $_Sub = $("#" + id + ">li>ul");
+                var timmer = null;
+                var n = null;
+                $_Tit.hover(function () {
+                    n = $_Tit.index(this)
+                    $(this).addClass("select").siblings().removeClass("select");
+                    $(this).children("ul").show();
+                }, function () {
+                    $_Tit.eq(n).removeClass("select");
+                    $_Sub.eq(n).hide();
+                })
+            }
+            navTab("topNav");
+        </script>
+    </div>
+</div>
+
+        <!--头部 end-->
+        <!--*主要内容 start-->
+        <div class="main">
+            <div class="banner" id="Baidu_BBSPostNormalV3ContentTopAD1">
+                <div><script type="text/javascript" >BAIDU_CLB_fillSlot("180429")</script></div>
+            </div>
+            <div class="mRow_1">
+                <p class="ftBtn textHide float_L">
+                    <a onclick="addPost();_gaq.push(['_trackEvent', 'bbs', 'clicked', '发帖按钮']);" href="javascript:void(0);" target="_self">我要发帖</a>
+                </p>
+                <div class="page float_R">
+                    <a href="http://bbs.tiexue.net/post_9330565_1.html" class="pageHover">1</a>
+                    
+                </div>
+            </div>
+            
+<div class="dir">
+    
+    <a href="http://bbs.tiexue.net/" target="_top">铁血社区</a> &gt; <a href="http://bbs.tiexue.net/gbbs22-0-1.html" target="_top">铁血国际论坛</a> &gt; <a href="http://bbs.tiexue.net/bbs33-0-1.html" target="_top">环球风云</a> &gt; 
+    <a target='_blank' href='http://bbs.tiexue.net/post_9330565_1.html'>何新推荐：新自由主义在误导中国股市(下)</a>
+</div>
+
+            
+<div class="postContent border">
+    <div class="postTit">
+        <p class="float_L">
+            帖子主题：何新推荐：新自由主义在误导中国股市(下)</p>
+        <p class="float_R">
+            共&nbsp;182&nbsp;个阅读者&nbsp;<span id="post_HeadReplySort"></span></p>
+    </div>
+</div>
+
+            
+<div class="postContent border">
+    <div class="postStart">
+        <!--*左边用户信息 start-->
+        <div class="sideLeft float_L">
+            <ul class="userMsg">
+                <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/7464196" class="signeffect-id"  target="_blank">中华兴匹夫责</a></strong><span></span></p><span class="boyHead"></span></div></li> <li class="headPic"> <a href="http://i.tiexue.net/7464196" target="_blank" title="查看个人空间"><img id="userMsg0" src="http://r.itiexue.net/bbs/other/images/user.gif" alt="头像" width="96" height="96" /></a><span class="signeffect-head"></span> </li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/r-07-LJ-bing-1.gif" alt="军衔:陆军列兵" title="军衔:陆军列兵" /></li> <li class="xxMsg">军号：7464196</li><li class="rongYu"><!-- 勋章 start --><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=13&f=1' target='_blank'><img src='http://img1.itiexue.net/medal/honor/13/1/13_s.png' title='发帖新兵' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=14&f=1' target='_blank'><img src='http://img2.itiexue.net/medal/honor/14/1/14_s.png' title='发帖高手' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=68&f=0' target='_blank'><img src='http://img8.itiexue.net/medal/honor/68/68_s.png' title='原创纪念章' width='26' height='45' border=0 align='absmiddle'></a><!-- 勋章 end --></li>	<li class='xxMsg'>工分:11933	</li>	<li class='xxMsg'>本区职务:会员</li>
+            </ul>
+            <!--*广告位 start-->
+            <div class="advert01" id="Baidu_BBSPostNormalV3ContentLeftAD1">
+                <div><script type="text/javascript" >BAIDU_CLB_fillSlot("41474")</script></div>
+            </div>
+            <!--广告位 end-->
+        </div>
+        <!--左边用户信息 end-->
+        <!--*右边帖子内容 start-->
+        <div class="contents">
+            <div class="contRow_1" id="adminAndUserPanel_1">
+                <!--9330565,96677798,1,7464196,中华兴匹夫责,sy4gxy9l0mFRu5IPewqA5Q%3d%3d,1,0,0,0,0-->
+            </div>
+            <div class="icon_left textHide">
+                左箭头-小图标</div>
+            <div class="contRow_2">
+                
+                <div class="bbsPosTit">
+                    
+                    <span class="emotion61"></span>
+                    <h1>
+                        何新推荐：新自由主义在误导中国股市(下)</h1>
+                </div>
+                <!-- 广告位：标题下文字 -->
+ <div class="ad_text" id="Baidu_PostTitleTextAD" ></div>
+                <div class="tiJiaoMsg">
+                    <span>文章提交者：中华兴匹夫责
+                        加贴在</span>&nbsp;<a href="http://bbs.tiexue.net/bbs33-0-1.html" title="环球风云">环球风云</a>&nbsp;铁血论坛
+                                        http://bbs.tiexue.net/bbs33-0-1.html</div>
+                <div class="copyBtn" id="contentsbelowbar">
+                </div>
+                
+                <div id="postContent" class="js_box">                   
+                    <div id='Baidu_AdPIP2' class='AdPIP2'><div id='Baidu_AdPIP2_container'></div></div><!-- AdPanel_left --><p class='bbsp'>哲学的自觉与政策选择</p><p class='bbsp'>中国金融的浪漫、无序发展，其动力源自于建立国际金融中心的冲动和“人有我有”赶时髦的心态，但却选错了样板，依葫芦画瓢地照搬美国的金融制度与衍生产品，罔顾中国的战略需求，忽略了发展资金融通渠道、提高资金融通效率、降低资金融融通成本等最基本的金融正题。为什么会出现这种盲目现象?主要原因是我们缺乏哲学的自觉与定力，不知不觉地被新自由主义所误导。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>一个优秀的民族，特别是我们中华民族这样具有悠久文化传统和哲学思辨传统的伟大民族，应该具有深刻的内在的哲学反思批判精神。没有对社会现实的超越性、前瞻性批判，没有深刻的检讨自省精神，没有理想之光、理性之灯引领我们，很难想象我们的发展道路、发展方式能够不偏离正确的轨道。</p><p class='bbsp'>一个社会的精英，要希望能对自己的国家、自己的民族贡献自己的聪明才智，发挥正能量，最重要也是最简单实用的思想方法一是方向感，二是把握“度”。我们应该时刻反省自问，说正确的话，做正确的事，进行正确的价值判断，选择正确的政策方向。</p><p class='bbsp'><br/></p><p class='bbsp'>一、新自由主义不应该是我们的价值观</p><p class='bbsp'>很久以来，新自由主义在我国影响广泛，相当一部分知识界人士和政府官员奉新自由主义为圭臬。但我认为新自由主义不适合我们的国情，不符合我们的价值观，与我国社会主义制度相悖。我们应该保持清醒，在制订政策时自觉与之划清界限，以免被误导贻害。</p><p class='bbsp'>新自由主义大力宣扬自由化、私有化和市场化。除鼓吹私有制并破坏我国公有制在国民经济中的主体地位，让社会主义市场经济蜕变为资本主义市场经济之外，在经济和金融领域里主张自由放任发展，推崇“万能”的市场机制作用，强调国家对经济运行和经济活动的调控与干预越少越好，要求一切顺从自由市场的利润最大化原则。</p><p class='bbsp'>以美国为代表的西方金融业在上世纪80年代之后逐渐地改变其业务模式，从“产业服务模式”转变为“金融交易模式”。金融已经背离了早期银行资本与工业资本、产业资本的结合与服务模式，从服务代理人摇身一变成为自我服务的委托人，仆人异化为主人，而且仆人的规模远远大于主人，本末倒置。这种变化被美国前联邦储备委员会主席、2008年<a href="http://data.tiexue.net/view/1386437" class="linkin-word" target="_blank">美国金融危机</a>之后被<a href="http://data.tiexue.net/view/492" class="linkin-word" target="_blank">奥巴马</a>任命的美国<a href="http://data.tiexue.net/view/17254" class="linkin-word" target="_blank">总统</a>经济复苏顾问委员会主席、美国《沃尔克规则》的主要制订者保罗・沃尔克称之为过去40年来金融业最大的变化，也是最不幸的变化。而这种最不幸的变化正是在新自由主义的鼓励与纵容之下实现的。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>按照新自由主义的价值观和道德观。华尔街可以按照所谓的市场需求即自己的利益需求做任何事情，开展任何业务。哪怕它会损害公众的利益，损害市场秩序，破坏为实体经济配置资源的市场功能，都是合理的，都不能干预，必须任其发展。在新自由主义的哲学引领之下，华尔街为了一己私利，为所欲为，创造出了无数千奇百怪的金融业务模式和衍生品工具，在全球范围内巧取豪夺，短短几十年里就积累起无数财富，建立起一个庞大无比的金融帝国。但另一方面，它把金融市场引向异化的歧途，导致了更大的贫富悬殊，抽空了实体经济，制造一次次金融危机并殃及全世界。这就是新自由主义所倡导的自由，他们有为了自己的自由剥夺别人自由的自由，他们有利用衍生工具欺骗诈取别人利益的自由，他们有为了私利破坏经济秩序制造灾难的自由。当然，他们也有为了疯狂逐利而自我毁灭的自由，但不幸的是整个世界却得为他们缴陪葬税。</p><p class='bbsp'>毫无疑问，这种损人不利己的自由观不是社会主义的价值观，这种巧取豪夺的市场不是我们憧憬的市场。在我们社会主义市场经济价值观中，我们尊重每个人的自由，尊重每一个市场参与主体的自由，尊重人们追逐利润的自由，但是这种自由的前提是不能妨害别人的自由，不能侵害别人的利益，不能弱肉强食，不能把为实体经济配置资源的市场变成为少数人剥夺多数人，为其聚敛财富服务的市场。</p><p class='bbsp'>这个世界上没有绝对的自由，人是有社会性的，人的社会性就意味着人与人之间是有依存关系的。依存就是互相尊重，尊重就是要严守彼此利益边界，就要处理好个人和公众、局部和整体、当今和长远的利益关系。有了利益关系就得受约束，有约束人们才能相安无事，相向和睦，相得益彰。这样人们才能享受精神、经济和社会活动的自由。因此，每一个市场的参与者都必须接受法律法规约束，接受市场秩序约束，接受公平、正义的市场道德约束。</p><p class='bbsp'>我们中国的金融市场与新自由主义的西方金融市场的最大不同还是价值观的不同。他们放任私欲泛滥，承认存在合理，哪怕这种存在加剧贫困与社会不公，扭曲资源配置，制造经济危机。我们的市场承认和保护个人利益，但反对个人利益至上;鼓励和保护市场自由，但反对自由泛滥。我们的价值取向是所有的市场参与者的整体利益与长远利益。我们的政策选择着眼点是广大中小投资者的合法权益、市场秩序、为实体经济配置资源的效率。我们坚决反对打着提高流动效率、对冲管理风险幌子的金融自我服务。</p><p class='bbsp'>这就是我们与新自由主义价值观下的美国金融市场的根本不同。希望我们的政策层面和市场同仁保持清醒，新自由主义是人家的旗帜，美国的金融市场不是我们的榜样，“人有我有”的想法不可取。想提升中国金融市场水平，完善市场结构，优化市场服务，要向其他方向发力，向服务实体经济发力。而不要朝着错误的方向跟着美国搞金融“创新”，把资本市场复杂化。说到底，我们这些年盲目跟风，自觉或不自觉地以美国为样板“完善”我们的市场，最主要的原因还是哲学方面不够清醒与自觉，混淆了我们与异化后的美国金融市场的本质不同、服务对象不同这些最基本的问题。今天，我们应该停步思考，把望并确定方向后再继续前行。</p><p class='bbsp'>二、新自由主义对中国股市的误导<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>回想多年来我们受新自由主义的影响，引进效仿了一些我们自己并没有想明白的东西。以融资融券为例，名义上融资融券业务可以增强市场流动性，促使市场双边交易，稳定市场。但市场实践却完全不同，结果往往加剧市场波动，“助涨助跌”。尽管如此，它在新自由主义的价值观下是合理的，是有需求的，因为它有助于投机炒作、买空卖空，可以给投机者带来丰厚的利润。但我们为什么要搞融资融券?虽然一级市场的融资能力需要二级市场良好的流动性支持，而交易活跃的二级市场不仅需要投资者也需要投机者的参与，融资融券的基本理由正是投机。但问题是我们的资本市场是为实体经济配置资源的场所，市场客观需要投机但不能过度，更不应该使用杠杆刺激投机把市场变为赌场。大家知道，我国的股市从来都不缺投机者，但投机者是否入市和投资者一样是要看大市氛围的，市场冷清时你鼓励也没用，可当市场热闹时恐怕问题又变成了如何抑制投机，而不是刺激投机了。融资融券是否适合中国股市，这轮疯狂上涨的股市已说明了问题。</p><p class='bbsp'>我国融资结构中间接融资大大高于直接融资在宏观上影响金融安全，在微观上增加了企业财务成本，是亟待解决的重要问题。而要解决这一问题客观上就需要一个长期牛市来支持股权融资，使融资结构逐渐趋于健康。2007年10月之后，经过了将近7年的漫漫熊市，终于迎来了我们期盼已久的新一轮牛市。这轮牛市对于中国经济，特别是对于近年来被信贷资本剥夺，饱受融资难、融资贵之苦的实体经济更是久旱逢甘霖，弥足珍贵。我们太需要牛市支持下的一级市场为实体经济提供大量的股权资金了。但是，要实现这一目标，我们不能重蹈中国股市熊长牛短的覆辙，让疯牛迅速透支了我们的牛市红利。我们需要小心呵护一个流动性充裕、交投畅顺、节奏平稳的慢牛来给实体经济不断哺乳，支持我们完成调结构、保增长这一头等要务。</p><p class='bbsp'>遗憾的是，我们又遇到了一头疯牛，而且是空前的疯，在短短的几个月股指从2000多点迅速上涨到4000多点。老百姓蜂拥开户，客户保证金余额倍增，我们的融资融券也开始扮演起一个重要角色，余额从2013年初的1000亿元左右迅猛增加到2015年5月的2万亿元(几乎全是融资)，沪深两市单日交易最高金额已经超过2万亿元，中国股市单日成交金额已经是美国单日最高成交纪录的3.3倍多。我们不难看出，这一轮牛市的疯狂上涨与融资融券业务给股市提供杠杆不无关系。融资融券给原本就急功近利的中国股市文化又提供了激素。</p><p class='bbsp'>理性告诉我们，疯牛不是我们要的牛市。首先，<a href="http://data.tiexue.net/view/6656" class="linkin-word" target="_blank">历史</a>经验告诉我们，疯牛往往难以为继，疯狂过后必然是漫漫长夜。其次，过热的股市对实体经济也是弊大于利。虽然可借牛市东风促进股票发行，支持实体经济发展，但是什么事物都不能过度，过了度就会走向反面，利就会变成弊，积极就会变成消极。过热的股市会吸引沉淀大量的资金，同样分流实体经济所需资金，特别是会影响社会资金投资实体产业意愿，腐蚀实业投资精神。有一位资深的公募基金负责人忧虑地说：真不知道如此火爆的股市能给实体经济带来什么好处，谁还有心思耐得住寂寞做实业?大众创业、万众创新的局面恐怕很难出现。</p><p class='bbsp'>我们还应该清醒地认识到融资融券是一把双刃剑，不仅刺激股市狂涨制造疯牛，当股市反转下行时，融资融券所带来的负面影响也相当恐怖。一是融入资金的投资者可能被平仓而血本无归;二是融出资金的证券商如出现恐慌性集体平仓行动，那将势必出现集体无路可逃，坐以待毙的可怕景象;三是融资者可能会反方向融券，融券卖空将加速股市下跌;四是若有人在股指期货跨市做空，那将更是雪上加霜。另外，需要我们特别警惕的是融资杠杆炒股，一旦市场反转，如前所说融资者就可能倾家荡产，以往相对平静的熊市可能不会再现，引发社会动荡的风险不容忽视。</p><p class='bbsp'>因此，无论从价值观还是从市场实践来分析，引入融资融券业务都是一场误会。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>相对于金融期货、期权等衍生品来说，融资融券业务还算简单。而与我们价值观冲突的金融衍生工具一旦泛滥(不会如某些人意愿可控，市场一旦误入错误的方向，不要指望节制和度的把握，也不要指望监管，贪婪会冲垮所有的堤坝)，那将会造成颠覆性的灾难。</p><p class='bbsp'>学习、引进，但请不要忘记我们的哲学。</p><p class='bbsp'>政策制订的思路与方法</p><p class='bbsp'>国家战略是国之核心利益、根本利益。国家战略确定之后，政策就成为战略成败的关键。战略固然重要，但实现战略目标必须借助的政策也尤为重要，只有正确的政策才能组织、调动、规范、引导全社会资源与力量实现国家战略。如果政策错误，不但无法实现国家战略，还可能给国家带来灾难。因此，我们必须本着向国家负责、向全体人民负责、向国家战略负责的精神，冷静、清醒、科学、缜密地重视政策制订工作。</p><p class='bbsp'>制订政策，首先应该保持清醒的哲学自觉，明确价值取向，理顺政策目标思路，抵制新自由主义思潮诱惑，坚持社会主义市场经济道路，谨防利益集团游说蛊惑，坚持政策服务国家与人民的整体利益、长远利益的基本原则。</p><p class='bbsp'>其次，制订政策前最重要的问题是要考虑中国经济的当务之急是什么?我们需要解决什么问题?目的何在?不要听信任何理由干扰主题，所有的改革出发点必须紧紧围绕国家战略主题。因此，应该从宏观、全局高度思考政策选项与国家战略的关联关系。认真梳理、筛选备选政策，去伪存真，坚决摒除伪选项、无关选项。按照不同产业、行业和国家战略的关联程度、轻重缓急排序制订政策。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>第三，从资源的类型、行业、产业特点出发考虑资源配置方式，确定政府监管与市场决定边界。政府和市场是两种互相依存的基本资源配置方式，在促进经济增长和社会进步方面各自都扮演着重要的角色。我们既要反对政府大包大揽，官僚干预微观经济的资源配置方式，又要反对新自由主义鼓吹的“市场万能”。</p><p class='bbsp'>政府承担着宏观调控、基础研究、基础建设、社会保障、教育医疗、国家安全和各类经济活动监管等重要职责。并应该在履行职责的过程中，遵守法律法规，严守责任边界，接受监督，公开透明，不得任性。</p><p class='bbsp'>政府不得任性，市场同样也不能任性。我们讲市场决定，但反对放任市场。市场主体作为经济动物，在经济活动中敏锐、灵活，对调节供求，提高资源配置效率具有不可或缺的重要作用。但是市场主体却天生具有逐利冲动，这种逐利冲动虽天经地义，却缺乏理性，缺乏方向自觉，利润就是一切，虽饮鸩止渴，也无怨无悔。因此，要发挥市场决定的重要作用，必须对市场适当约束，加强引导，发挥其正能量。</p><p class='bbsp'>当我们制订政策之时，一定要把握好政府和市场在其中的作用，该政府管的一定要有作为，该市场发挥作用的，一定要放手交给市场。像金融市场，因为存在着金融中介自我谋利与公众利益相悖的<a href="http://data.tiexue.net/view/6704" class="linkin-word" target="_blank">利益冲突</a>，资讯科技与衍生品的发展使得自由市场更容易被操控，系统性风险更容易发生等特点而不同于普通产业，不适合无节制的自由竞争，必须适度管制。因此要坚决遏制经济金融化，限制金融自由化，反对各种所谓的金融“创新”，制止金融放任发展，按照国家战略把金融导入服务实体经济的轨道，让政策和国家战略完全统一，防止国家战略说一套，具体政策做一套的扭曲现象。</p><p class='bbsp'>第四，制订政策者要有清醒明确的方向感，应该有透过现象洞察本质的穿透力，有任尔风云变幻我自岿然不动的定力。不能盲目、随意、无序、想当然，要科学化、精细化、导向明确化。</p><p class='bbsp'>一是要进行价值判断和价值选择，抓住主要矛盾，明确价值判断条件，梳理关联因素，“去粗取精、去伪存真、由此及彼、由表及里”地探寻问题关键;注重价值选择，领悟选择真谛，去末归本，重在放弃。不能什么都想要，只有学会了放弃，才能免受干扰，坚守住我们最宝贵的东西。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>二是要注重调查研究，要深入调查研究，摸清现状，了解需求，洞察趋势，掌握规律，才能在政策动机和市场实践之间搭起一座现实的桥梁。我们的政策才不会无的放矢，南辕北辙，我们的政策才会更接近战略目标。调查研究不能仅在机关大院和学术圈内转悠，调查研究一定要深入基层，深入市场，深入实体经济主体，深入实体经济过程，深入产业的上下游、左右邻。但是调查研究一定要谨防利益集团干扰，警惕利益冲突，防范“信息关联交易”误导政策。调查研究还应主动征求长期坚持监管一线，经验丰富的专业干部的意见，他们有市场感觉甚至方向感，其意见接地气、有价值，应该重视。</p><p class='bbsp'>三是要对政策的作用力方向了然于胸。政策的最大败笔就是其作用力违背了制订者初衷，事与愿违，南辕北辙。如果出现这种状况，轻则政策效果不能实现，重则会干扰国家战略，反作用于国家战略。因此，我们在制订政策之时一定要高度关注政策作用力方向问题，重视对政策作用力方向的评估和预见，要保证政策动机与作用力方向的统一。一方面政策的目标、利益方向要和国家战略一致、明确。另一方面，要研究政策作用力的传导机制。我们应该认真仔细地对政策作用力方向进行实证研究，要对每一项政策作用力的传导方向、传导方式、传导路径、传导环节和传导过程进行兵棋推演，一层层、一步步展开分析论证。研究分析政策作用力传导，是我们制订政策的必修课，基本功，必须务实、扎实，不能敷衍了事，似是而非。一定要卯榫相衔，确凿无误，心中有底。只有这样，才能确保我们的政策不偏离国家战略，不与国家战略相悖，更好地为国家战略服务。</p><p class='bbsp'>中国制造是政策的归宿方向</p><p class='bbsp'>近日，国务院印发了《中国制造2025》，部署全面推进实施制造强国战略。这是我国实施从制造业大国向制造业强国转变战略的第一个十年行动纲领，十分重要。</p><p class='bbsp'>然而，作为行动纲领的《中国制造2025》的落实，需要一系列相关政策来动员、组织、调动、引导全社会资源投入这一伟大工程之中。一方面我们应该动员金融等服务业资源服务中国制造;另一方面我们还应该澄清一些干扰建立制造业强国战略的错误观念。</p><p class='bbsp'>一、制造业是一切经济活动的原动力<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>实体经济是国之根本，但根本之根本是什么?即在实体经济中制造业和服务业孰轻孰重的认识还相当模糊。如同上世纪八九十年代西方国家主流观点认为“去工业化”是一种合理的变化一样，我们国家有些人看到西方国家包括一些经济落后于我们的发展中国家服务业占GDP的比重远高于我们，就提出了建立服务业大国的错误观点。对此，我们应该保持清醒的认识，不能盲目跟风。</p><p class='bbsp'>首先，服务业比重的增加是由于消费需求结构变化，制造业劳动生产率和技术进步的提高导致劳动力从制造业向服务业转移，以及比较成本引致的国际分工等原因形成的，它是因经济进步、社会生活变化而出现的一种自然而然的变化，不是我们追求的目标，不能揠苗助长。</p><p class='bbsp'>其次，服务业比重的增加有可能降低劳动生产率，影响经济增长水平。虽然服务业的占比随着经济的发展有逐渐增加的趋势，但是，我们不能把它简单化为产业结构调整的政策目标。我们应该深入分析服务业内部结构的内在逻辑，扬利抑弊，找到我们政策的着眼点。服务业分为传统的生活性服务业和现代的生产性服务业。生活性服务业主要是和居民生活相关的餐饮业、住宿业、家政服务业、维修服务业、批发零售业、交通运输业、邮政快递等服务业。生产性服务业是与制造业直接相关的配套服务业，它的主要功能是为生产过程的不同阶段提供服务产品，包括物流、研发、信息、营销、中介、售后服务、金融保险及贸易相关服务等。有人注意到，劳动力从制造业向服务业的转移过程中出现了劳动生产率下降的现象，而且造成这种现象的主要原因是生活性服务业劳动生产率较制造业和生产性服务业低而形成的。</p><p class='bbsp'>诺贝尔经济学奖获得者库兹涅茨指出，产业结构升级的关键是资源从生产率较低的部门向生产率更高的部门转移，从而经济整体的资源配置效率得以提高。库兹涅茨所指出的在产业结构调整过程中资源配置优化的趋向，是我们调整产业结构时应该自觉追求的最佳目标。如果我们把这种产业结构调整导致优化的递进称作“库兹涅茨化”，那么，服务业结构非优化的发展，就可能出现社科院蔡P所说的产业结构调整过程的“逆库兹涅茨化”。这是我们应该避免的，防止出现因产业结构调整资源从生产率高的部门向生产率更低的部门转移的“逆库兹涅茨化”，拖低我国的经济增长水平。</p><p class='bbsp'>第三，美国等西方国家近三十年来在“去工业化”错误理论的影响下，盲目发展服务业，制造业GDP占比不断降低，导致产业失衡，不仅严重影响了整体经济体系正常循环，而且也使得失去了高技术制造业支持的高技术服务业难以为继。2008年金融危机之后，陷入结构性困境的美国开始反省“去工业化”的错误，重振制造业已经成为白宫和国会的共识。因此，在处理制造业和服务业关系这个问题上，我们不要再犯连美国的错误也要学习的老毛病，重蹈他人覆辙。</p><p class='bbsp'>我们应该清醒地认识到，我们不仅要正确认识和处理好实体经济与虚拟经济的关系，反对经济金融化和金融复杂化，坚决纠正金融自我服务、空转循环、抢夺实体经济资源的扭曲现象。同时，我们也要正确认识和处理制造业与服务业的均衡发展的关系，防止产业结构调整中产业结构过度软化、产业空心化和生产率低效化。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>我们应该明白，中国是一个幅员辽阔、人口众多的大国，即使在全球化的今天，我们的地理、人文、政治和安全环境都要求我们必须建立一个相对完善、自成体系、健康均衡的经济系统，而这个系统的基础动力和根本就是制造业。制造业的重要地位无论在蒸汽机时代、电气化时代还是今天的互联网时代都是不可动摇的。中国和世界的历史，2008年美国金融海啸之后的世界现状都告诉我们，一国的制造业规模和水平决定了一个国家的综合实力，也几乎决定了一个国家的国运。这场危机之后，在西方世界一枝独秀的德国就主要得益于德国制造。不仅制造业决定了国力、国运和国家安全，在一个经济系统中制造业也处于一个最基本和关键的位置。制造业是一切经济活动的源泉，与其他行业有着一荣俱荣、一损俱损的依存关系，没有制造业的支持，任何行业将难以为继。所有虚拟经济、所有服务业的基础都是制造业，包括今天风头正劲的互联网经济也概莫能外。什么是“互联网+”?“互联网+”就是：制造业是1，互联网是0，0只有依附于1才有生命价值。互联网只有服务“中国制造2025”才是正途，才功德无量。当然，这种服务可以是直接服务，也可以是间接服务。我们应该改变互联网主要在贸易流通领域发力的不均衡、难持续的状态，我们应该防止炒作互联网概念，制造互联网泡沫的现象，把互联网结结实实地加在中国制造之上。</p><p class='bbsp'>是时候以举国之力支持中国制造了，是时候把政策的作用力导向中国制造了，不要迷茫，不要犹豫，不要彷徨，不要左顾右盼，坚定信心，全力以赴，不达目的誓不罢休。</p><p class='bbsp'>二、支持中国制造的政策取向</p><p class='bbsp'>(一)作为国家战略的“中国制造2025”应当是中国经济的主题、主旋律，其他产业和行业都应该像古典音乐变奏曲式中的各个段落那样，无论怎样变调、装饰，但万变不离其宗，始终都紧紧围绕主题。中国经济只能有一个主题，不能各念各的词，各唱各的调，不能有杂音、不和谐音。要真正实现“中国制造2025”这一战略计划，避免再出现像七大战略新兴产业、十大产业振兴规划等等并无多少实效的现象，最重要的就是排除干扰，集中资源支持制造业发展。如果我国经济不能摆脱对房地产的依赖，继续诱使社会资源向房地产业和金融领域集中，那么制造业强国之梦将无望实现。</p><p class='bbsp'>当务之急，一是应该重新检讨把房地产业作为支柱产业的政策定位，制订差别化的行业信贷政策，限制给房地产贷款，遏制房地产吸占资金。二是应该限制已过度发展的金融业，要像壮士断臂一样痛下决心，倾筐倒D，全面清理金融自我服务业务，制止制造风险，危害实体经济的金融“创新”。限制金融机构自营交易，禁止金融机构自营衍生品交易。</p><p class='bbsp'>(二)制定切实可行，有操作性的金融、财政、税收政策支持制造业。重点是提供资金，降低成本，资助研究开发。德国政府长期以来十分重视对制造业的支持，高度重视制造业发展战略，在去年正式发布了利用物联信息系统将生产中的供应、制造、销售信息数据化、智慧化，最后达到快速、有效、个人化的产品供应的“工业4.0”战略规划。他们对制造业的重视不仅体现在对工业发展战略的前瞻性把握上，最难能可贵的是能以清醒的政策排除干扰，心无旁骛地支持制造业。无论是在给工业企业提供信贷资金支持，资助企业产品研究开发，为制造业税收减负，还是组织、协调工业企业与研究机构合作创新等方面都卓有成效。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>我们的政策应该认真学习、吸取德国的经验。我们应该清醒地认识到，学习德国重点不在比对分析“中国制造2025”与德国“工业4.0”的异同，而要像德国人那样把功夫下在对制造业的支持政策上去。我们应该严肃对待如何制定落实“中国制造2025”的配套政策这一问题，不能说归说，做归做。我们的政策性银行应该把支持制造业作为自己的主要任务;我们应该要求国有商业银行和其他商业银行切出一定比例的信贷资金专项支持制造业;在同等条件下资本市场应该优先支持制造业的股权、债券融资需求。我们的财政政策也应该向推动中国制造倾斜，提供制造业研发专项资助基金，对单个中小企业的研发项目及中小企业与研发机构之间的交流合作进行资助;为中小型工业企业提供利息补贴;对具有国家战略价值的高端制造业进行税收补贴，为制造业减负增效。</p><p class='bbsp'>(三)动员引导社会资源加大研发投入。要建立制造业强国，核心是科技创新。因此，不仅国家应该加大科研投入，还应调动制造企业和全社会的研究开发积极性。目前我国研发投入占GDP之比为2.1%，与世界平均水平相当，但与发达国家3%-4%左右(以色列最高为4.4%，芬兰为3.9%，韩国为3.7%，瑞典为3.4%，日本为3.3%，美国为2.8%)的水平相比尚有很大的差距。可喜的是，我国深圳2014年研发投入占GDP已达4%，其水平已比肩发达国家。而且，在深圳的研发投入中，规模以上工业企业投入占94%(北京规模以上工业企业的投入占所有研发投入的百分之十几，主要的研发经费是由研究机构投入的，与深圳的市场化创新基础不同)。这也就是深圳能成为中国最具竞争力城市第一名的秘诀。</p><p class='bbsp'>更让人欣喜的是，拥有7万名研发专业人员的深圳华为研发投入多年来持续增长，2014年研发投入高达408亿元，占营业收入的14.2%，属全球同业的最高水平。华为之所以能够成为驰骋全球的电讯器材制造商之翘楚，与任正非锲而不舍的研发投入精神是分不开的。中国制造要的就是这种精神!我们应该创新一些政策杠杆，来撬动中国企业的研究投入热情，来整合官产学研的研发合作，加快制造业科技创新、成果推广和应用，为中国制造升级嬗变创造条件。</p><p class='bbsp'>很多年来我国最富裕的中产阶层一般都是金融从业者，被称作首富的人士大多出自于房地产行业，这反映出我国经济的热点和资源分配的倾斜状况。我有一个梦想：有朝一日，中国最富裕的中产阶层是制造业从业者，中国的首富出现在制造业。我想，到那时，中国制造将一定是高品质的代名词，中国的经济将更加健康，祖国将更加繁荣富强。</p><p class='bbsp'>(四)为中国制造培养应用人才。遍布全球的中国产品目前还只能处于低廉、低档的市场位置中，这既有产业转移的阶段惯性等问题，也有一个很重要的原因就是中国缺乏训练有素的技术工人队伍，而造成这种问题的原因是我们的教育结构失衡。一方面是大学生过剩，只有77%的就业率;另一方面技术工人严重短缺，短缺率高达50%。所幸教育部门已经认识到这个问题的严重性，正在积极采取措施扭转局面。亡羊补牢，犹未为晚。我们应该重新制定制造业的人才政策，为中国制造业培养大批优秀的技术工人，用他们的双手重建中国品质。</p><p class='bbsp'>德国制造是我们的榜样，德国的职业教育也值得我们学习。德国之所以能够生产出广受欢迎的质量高、价格贵的产品，除了完善的质量控制体系和德国工程师对完美的追求之外，有一个不容忽视的因素就是德国拥有一套完善的职业教育体系，培养出了世界上最优秀的技术工人队伍。在德国，只有25%的中学毕业生上大学，65%的中学毕业生都按照自己的兴趣爱好，选择了不同的职业学校接受专业技能培训，为做一个合格的技术工人做准备。在这里需要我们注意的是，德国的职业教育属于国家的免费教育范畴。还有一个需要我们中国职业教育高度重视、认真学习之处：为使职业教育内容能够及时跟上社会需要，德国设有专门的职业调查和研究机构，负责跟踪各个行业的发展动态与趋势，以便学校及时调整、更新专业教育内容。德国职业教育中的双轨制教育，即理论学习和实际操作相结合，学生一边在学校学习理论，一边以学徒身份到企业学习的教育方式亦值得我们借鉴。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>职业教育事关中国制造质量，事关中国经济升级转型大局，我们应高度重视，把它作为一项长期战略、重点工程，全力逐步、稳步推进。</p><p class='bbsp'>(五)为了保护、鼓励中小企业的创新热情和研发投入，应重视知识产权的保护。德国的制造企业以中小型为主，但这些中小型企业的技术水平和研发能力却很高，从不急功近利，注重研发投入，其产品大多“又精又专”。为什么德国的中小企业能有这种定力，重视研发投入?一是为保持竞争优势;二是有严格的法律保护他们的知识产权，无被人盗用之忧。反观我国却是另一番景象，在中小企业中“山寨”成风，几无知识产权概念，人人急功近利，哪有人有心思作长期打算，肯用功投入研发?这就是我国大多中小企业产品质量低劣，短平快低层次竞争的一个重要原因。长此以往下去，中小企业将难成气候，产品质量也无从谈起。中国制造的一个很重要的方面军将长期沦为游击兵团，无法承担为中国制造攻城拔寨的攻坚重任。</p><p class='bbsp'>今天，中国制造已经跨越了低层次加工、代工、仿制的初始阶段，开始向“智造”迈进。因此我们必须高度重视知识产权保护，遏制疯狂无序的竞争，保护中小企业的创新激情和研发动力。唯此，中小企业才可能成为中国经济的动力，中国质量才有望提高。我们应该明白：保护知识产权，就是保护我们的战略利益。</p><p class='bbsp'>长期以来，我们对政策的作用力方向不够关注。可政策的作用力无论我们关心与否都在发生，或正向或反向地作用于我们的国家战略。“中国制造2025”这一战略规划事关中国制造业升级，事关国力、国运、国家安全和中华民族的伟大复兴大局。我们的政策何去何从?能否支持、保障“中国制造2025”战略实现已十分关键，成败与否将系于政策一身。因此，我们必须时刻保持政策清醒，时时关心其作用力方向，排除各种干扰，把政策导入服务中国制造之轨道。</p>
+                </div>
+                <div class="shareBlog">
+                    <div class="bar_1" style="clear:both;">
+                        <div class="float_L share share-hover">
+                            <span class="float_L">分享：</span>
+                            <a href="javascript:void(0)" onclick="TX_share('sina');GaqPush('分享');" class="share-1 float_L" title="分享到新浪微博"></a>
+                            <a href="javascript:void(0)" onclick="TX_share('qblog');GaqPush('分享');" class="share-2 float_L" title="分享到腾讯微博"></a>
+                            <a href="javascript:void(0)" onclick="TX_share('qzone');GaqPush('分享');" class="share-3 float_L" title="分享到QQ空间"></a>
+                            <a title="分享到微信" class="share-4 float_L" onclick="TX_share('weixin');GaqPush('分享');" href="javascript:void(0)"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="keyword">
+                    <strong>延伸阅读：</strong>
+                    
+                </div>
+                <div class="gfMsg">
+                    <ul class="gfLeft" onmouseover="tagetLayer(this,$(this).next('ul'))" id="tlogdiv"></ul>       
+                    <!--*日志弹出 start-->
+                    <ul class="logList" id="tloglist"></ul>
+                    <script type="text/javascript">
+                        //如果是管理员
+                        $(function(){
+                            var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                            var logisheader = TX.BaseCookie.BBS_IsHeader();
+                            var strhtml="";
+                            if(loguserid>0)
+                            {
+                                strhtml= '<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">4</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                                if(7464196 == loguserid|logisheader)
+                                {
+                                    strhtml='<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">4</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                                }
+                            }
+                            else{
+                                strhtml= '<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">4</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                            }
+                            $("#tlogdiv").html(strhtml);
+                            $("#tloglist").html(strhtml);
+                        })
+                    </script>
+                    <!--日志弹出 end-->
+                    <dl class="gfRight">
+                        <dd class="spare">
+                            <a href="javascript:void(0)" onclick="daShangLayer(7464196,96677798)">
+                                打赏</a></dd>
+                        <dd class="favor">
+                            <a href="javascript:void(0);" onclick="TxBBS_FavoriteThread('9330565');">
+                                收藏文本</a></dd>
+                        <dd class="ding" id="digNum">
+                            <a href="javascript:void(0);" onclick="TxBBS_DigThread('9330565');"><em>
+                                5</em><span></span></a></dd>
+                    </dl>
+                </div>
+                <div class="reward textHide" id="adminAddSalary_96677798_9330565">
+                </div>
+                <div class="qianming">0</div>
+                <div class="lock-msg border hidden" id="threadnoreplyspan">
+                    本帖已经被管理员锁定，不能回复</div>
+                <div class="fastReply" id="commentsDiv">
+                    <script type="text/javascript">
+                        try {
+                            TxBBS_SetQuickReplyHtml("commentsDiv", 'False', '33', '9330565', '何新推荐：新自由主义在误导中国股市(下)');
+                        }
+                        catch (e) { }
+                    </script>
+                </div>
+                <!--*相关帖 start-->
+                <div class="aboutPost-v2" style="height: 340px; margin-top: 5px;">
+                    <h2 style="height: 50px; line-height: 50px; color: #38352C; font-size: 16px; font-weight: bold;">
+                        何新推荐：新自由主义在误导中国股市(下)相关文章</h2>
+                    <div class="abpLeft">
+                        <ul>
+                            <li><a onclick="GaqPush('相关推荐-相关文章')" title='何新语出惊人：中国走得通的未来道路只有一条路' href='http://bbs.tiexue.net/post_3468255_1.html' target = '_blank'>何新语出惊人：中国走得通的未来道路只有一条路</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='何新谈张五常' href='http://bbs.tiexue.net/post_3653727_1.html' target = '_blank'>何新谈张五常</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='确实存在一个以摧垮中国经济为目标的经济学阴谋团体' href='http://bbs.tiexue.net/post_4148401_1.html' target = '_blank'>确实存在一个以摧垮中国经济为目标的经济学阴谋团体</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='新自由主义是经济意识形态而不是经济科学' href='http://bbs.tiexue.net/post_4160331_1.html' target = '_blank'>新自由主义是经济意识形态而不是经济科学</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='政治经济危机的根源是意识形态的蜕变' href='http://bbs.tiexue.net/post_4173270_1.html' target = '_blank'>政治经济危机的根源是意识形态的蜕变</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='美国是真正的邪恶轴心' href='http://bbs.tiexue.net/post_5295020_1.html' target = '_blank'>美国是真正的邪恶轴心</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='豫儿海 :阴谋论？美国操纵中国国企私有化路线图' href='http://bbs.tiexue.net/post_5818358_1.html' target = '_blank'>豫儿海 :阴谋论？美国操纵中国国企私有化路线图</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='卢麒元《对中国新自由主义的批判》' href='http://bbs.tiexue.net/post_5863733_1.html' target = '_blank'>卢麒元《对中国新自由主义的批判》</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='“拉美化”就是拉美国家吃了美国的私有化毒药' href='http://bbs.tiexue.net/post_6254050_1.html' target = '_blank'>“拉美化”就是拉美国家吃了美国的私有化毒药</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="abpRight pp01">
+                        <ul class="pp">
+                            <li><a href="http://bbs.tiexue.net/post_3818131_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small7.itiexue.net/993/9938527.jpg" title="中美欧都到了临界点：历史总是惊人的相似" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_3818131_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>中美欧都到了临界点：历史总是惊人的相似</a></span></li><li><a href="http://bbs.tiexue.net/post_4430759_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small8.itiexue.net/1164/11647820.gif" title="港媒：中国人为什么愿意爱国?（图）" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_4430759_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>港媒：中国人为什么愿意爱国?（图）</a></span></li><li><a href="http://bbs.tiexue.net/post_6990844_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small5.itiexue.net/1721/17215769.jpg" title="美国在中国的第五纵队" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_6990844_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>美国在中国的第五纵队</a></span></li><li><a href="http://bbs.tiexue.net/post_7146599_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small3.itiexue.net/1780/17800275.jpg" title="男女××的西方经济学原理" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_7146599_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>男女××的西方经济学原理</a></span></li><li><a href="http://bbs.tiexue.net/post_7936596_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small1.itiexue.net/1827/18270373.png" title="有人知道苏联主义网这个网站吗" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_7936596_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>有人知道苏联主义网这个网站吗</a></span></li><li><a href="http://bbs.tiexue.net/post_8278613_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small2.itiexue.net/1863/18635414.jpg" title="穿透“普世价值”的思想“雾霾”" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_8278613_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>穿透“普世价值”的思想“雾霾”</a></span></li>
+                        </ul>
+                    </div>
+                </div>
+                <!--相关帖 end-->
+            </div>
+            <!--*广告位 start-->
+            <div class="advert02" id="Baidu_BBSPostNormalV3ContentInfo"><script type="text/javascript" >BAIDU_CLB_fillSlot("92705")</script></div>
+            <!--广告位 end-->
+            <div class="date">
+                2015/7/1 12:29:12</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+</div>
+<!--*热门帖 start-->
+<div class="hotPost">
+    <div class="hotLeft border pp01">
+        <h3 class="tzTitle">
+            本版热门</h3>
+        <ul class="pp">
+            <li><a onclick="GaqPush('本版热门-焦点图')" target='_blank' title='阿基诺的算盘：粮价上涨骂中国 停电了骂中国' href='http://bbs.tiexue.net/post_9330310_1.html'><img id='img1' src='http://small3.itiexue.net/2042/20425083.jpg' width='120' height='90' border=0></a><span><a onclick="GaqPush('本版热门-焦点图')" target='_blank' title='阿基诺的算盘：粮价上涨骂中国 停电了骂中国' href='http://bbs.tiexue.net/post_9330310_1.html'>阿基诺的算盘：粮价上涨骂中国 停电了骂中国</a></span></li>
+        </ul>
+        <ul class="textList">
+            <li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9329356_1.html' title='伊斯兰国向中国、印度宣战'>伊斯兰国向中国、印度宣战</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9325983_1.html' title='韩国:说我们抢你们文化 拿出证据啊'>韩国:说我们抢你们文化 拿出证据啊</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9329323_1.html' title='外国人体验真实印度生活 重口又奇葩'>外国人体验真实印度生活 重口又奇葩</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9325807_1.html' title='解放军中将：时机一旦成熟 就拿阿基诺试刀'>解放军中将：时机一旦成熟 就拿阿基诺试刀</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9329166_1.html' title='日本人绘制的唐朝地图 (图)'>日本人绘制的唐朝地图 (图)</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9330230_1.html' title='[原创]日本鬼子又意淫了~未知的亲日国-匈牙利?'>[原创]日本鬼子又意淫了~未知的亲日国-匈牙利?</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9326152_1.html' title='我花费15年试图成为一个美国人但失败了'>我花费15年试图成为一个美国人但失败了</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9326312_1.html' title='印度一考生拿到准考证后！ 懵圈了！'>印度一考生拿到准考证后！ 懵圈了！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9325961_1.html' title='兔子真流氓了，亚投行协定已签，我国占26投票权'>兔子真流氓了，亚投行协定已签，我国占26投票权</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9325690_1.html' title='美黄海闹事丢尽老脸：险被北京关门打狗'>美黄海闹事丢尽老脸：险被北京关门打狗</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9329154_1.html' title='黄之锋街头遇袭受伤 英国网友评'>黄之锋街头遇袭受伤 英国网友评</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9329141_1.html' title='日媒：安倍政府判断失误 让亚洲盟主向中国倾斜'>日媒：安倍政府判断失误 让亚洲盟主向中国倾斜</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9329827_1.html' title='沙特被打乱，俄罗斯人笑掉大牙'>沙特被打乱，俄罗斯人笑掉大牙</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9329438_1.html' title='亚投行“基本大法”7国未签字'>亚投行“基本大法”7国未签字</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9325711_1.html' title='德媒：中国不再需要我们 靠高新技术开始“单飞”！'>德媒：中国不再需要我们 靠高新技术开始“单飞”！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9330226_1.html' title='意想不到:生活在破产国家是怎样一种体验？'>意想不到:生活在破产国家是怎样一种体验？</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9330409_1.html' title='卫计委:中国男子平均身高167厘米？ 竟比日本男子矮 ！'>卫计委:中国男子平均身高167厘米？ 竟比日本男子矮 ！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9326293_1.html' title='美国国安局正在监视中国军事网站的工作图'>美国国安局正在监视中国军事网站的工作图</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9328962_1.html' title='头条 | 外媒：中国21万亿美元储蓄将改变世界'>头条 | 外媒：中国21万亿美元储蓄将改变世界</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9323382_1.html' title='[原创]建国后对外战争启示：抗议十年，不如开枪十分钟'>[原创]建国后对外战争启示：抗议十年，不如开枪十分钟</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9329171_1.html' title='台湾:被美国监听 我感觉自己好开心呀'>台湾:被美国监听 我感觉自己好开心呀</a></li>
+        </ul>
+    </div>
+    
+    <div class="hotRight border pp01">
+        <h3 class="tzTitle">
+            大区热门</h3>
+        <ul class="pp">
+            <li><a onclick="GaqPush('大区热门-焦点图')" target='_blank' title='安倍：慰安妇问题只需3亿日元就能解决' href='http://bbs.tiexue.net/post_9330632_1.html'><img id='img1' src='http://small2.itiexue.net/2042/20426102.jpg' width='120' height='90' border=0></a><span><a onclick="GaqPush('大区热门-焦点图')" target='_blank' title='安倍：慰安妇问题只需3亿日元就能解决' href='http://bbs.tiexue.net/post_9330632_1.html'>安倍：慰安妇问题只需3亿日元就能解决</a></span></li>
+        </ul>
+        <ul class="textList">
+            <li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9329144_1.html' title='“我们不会蠢到去建克拉运河 跟中国没关系”'>“我们不会蠢到去建克拉运河 跟中国没关系”</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9325676_1.html' title='卢森堡学者：达赖正在毒害欧美学生 我非常愤慨'>卢森堡学者：达赖正在毒害欧美学生 我非常愤慨</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9330653_1.html' title='老外体验中国式大保健'>老外体验中国式大保健</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9329075_1.html' title='中东女权主义者焚烧is旗帜抗议“野蛮暴行”'>中东女权主义者焚烧is旗帜抗议“野蛮暴行”</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9325774_1.html' title='台专家:日菲像乌龟 要拿榔头敲'>台专家:日菲像乌龟 要拿榔头敲</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9325907_1.html' title='上午亚投行章程开始签署 菲律宾临阵退缩！'>上午亚投行章程开始签署 菲律宾临阵退缩！</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9325783_1.html' title='NO ZUO NO DIE!日媒曝光安倍惊人之语 ,正谋划和中国的战争'>NO ZUO NO DIE!日媒曝光安倍惊人之语 ,正谋划和中国的战争</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9325759_1.html' title='美国被中国反指人权纪录差 英网友评'>美国被中国反指人权纪录差 英网友评</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9326002_1.html' title='非洲人眼里的中国人居然是这样的！'>非洲人眼里的中国人居然是这样的！</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9323449_1.html' title='港媒：美国开始布局退场南海（图）'>港媒：美国开始布局退场南海（图）</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9325816_1.html' title='两小时村民就瓜分了一头大象！'>两小时村民就瓜分了一头大象！</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_9329261_1.html' title='东京出现迷醉美女议员 日本网友激动坏了(组图)'>东京出现迷醉美女议员 日本网友激动坏了(组图)</a></li>
+        </ul>
+    </div>
+    
+</div>
+<!--热门帖 end-->
+
+<div class="advert03" id="Baidu_BBSPostNormalV3FirstFloorBottomAD">
+    <div id="Baidu_BBSPostNormalV3FirstFloorBottomAD_container"></div>
+</div>
+
+<div class="postContent border hotReply wyReply">
+    <div class="postTit">
+        <h2>
+            网友回复</h2>
+        <span id="post_UserReplySort"></span>
+    </div>
+    <div id="PostReply_List">
+        
+        <!--*个人帖子 start-->
+        <!--deletefloor:6-->
+        <a name="6"></a>
+        <div class="postStart">
+            <!--*左边用户信息 start-->
+            <div class="sideLeft float_L">
+                <ul class="userMsg">
+                    <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/6562948" target="_blank">以百石之力射飘叶</a></strong><span></span></p><span class="girlHead"></span></div></li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/r-07-LJ-wei-2.gif" alt="军衔:陆军中尉" title="军衔:陆军中尉" /></li> <li class="xxMsg">军号：6562948</li>	<li class='xxMsg'>工分:28821	</li>
+                </ul>
+                <div id="Baidu_BBSPostNormalV3ContentLeftADList0" class="Baidu_PostADLeftList">
+                    <div id="Baidu_BBSPostNormalV3ContentLeftADList0_container">
+                    </div>
+                </div>
+            </div>
+            <!--左边用户信息 end-->
+            <!--*右边帖子内容 start-->
+            <div class="contents">
+                <div class="contRow_1" id="adminAndUserPanel_6">
+                    <!--9330565,96685047,6,6562948,以百石之力射飘叶,2qIYrClEkxr%2fwHpdM%2bLRYw%3d%3d,1,0,0,0,0-->
+                </div>
+                <div class="icon_left textHide">
+                    左箭头-小图标</div>
+                <div class="contRow_22">
+                <div class="bbsp2">
+                    
+                    <p>
+                        <!-- AdPanel --><!-- AdPanel_left --><p class='bbsp'>中国股票的暴涨是错误的，中国股市接下来的暴跌也可能还是正确的，必竟炒股不是每个人都能搞明白的事。等中国股市上的股票跌到象一只股票之后才有了可以投资与投机的机会！</p>
+                    </p>
+                </div>
+                
+    <div id="bompostlogdiv6">
+        <script type="text/javascript">
+            //如果是管理员
+            $(function(){
+                var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                var logisheader = TX.BaseCookie.BBS_IsHeader();
+                var strhtml="";
+                if(loguserid>0)
+                {
+                    strhtml= '<!-- 没有日志 -->';
+                    if(6562948 == loguserid|logisheader)
+                    {
+                        strhtml='<!-- 没有日志 -->';
+                    }
+                }
+                $("#bompostlogdiv6").html(strhtml);
+            })
+        </script>
+    </div>
+                <div style="height: 40px">
+                    <div class="tabBottom">
+                        <div class="reward textHide" id="adminAddSalary_96685047_9330565_0">
+                        </div>
+                        <p class="daShang">
+                            
+                             <a class="jubaobtn" style="visibility: hidden" onclick="GaqPush('主贴-举报');jubao('http://bbs.tiexue.net/ReportPostV2.aspx?PostID=96685047&ThreadID=9330565');" href="###">举报</a>
+                            <a href='javascript:void(0);daShangLayer("6562948","96685047")'>打赏</a>
+                            <a href='javascript:UserDigPost("96685047","Wonderful96685047")'>顶一下</a><strong>(<span id="Wonderful96685047">0</span>)</strong>
+                              <span><a onclick="commentPop('6',decodeURIComponent('以百石之力射飘叶'),'2qIYrClEkxr%2fwHpdM%2bLRYw%3d%3d');GaqPush('回复引用楼层');" href="###">回复</a></span>
+                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="date">
+                2015/7/1 19:19:46</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+    <!--个人帖子 end-->
+    
+        <!--*个人帖子 start-->
+        <!--deletefloor:5-->
+        <a name="5"></a>
+        <div class="postStart">
+            <!--*左边用户信息 start-->
+            <div class="sideLeft float_L">
+                <ul class="userMsg">
+                    <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/310073" target="_blank">kjkjkj</a></strong><span></span></p><span class="boyHead"></span></div></li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/LJ-wei-2.gif" alt="军衔:陆军中尉" title="军衔:陆军中尉" /></li> <li class="xxMsg">军号：310073</li>	<li class='xxMsg'>工分:10897	</li>
+                </ul>
+                <div id="Baidu_BBSPostNormalV3ContentLeftADList1" class="Baidu_PostADLeftList">
+                    <div id="Baidu_BBSPostNormalV3ContentLeftADList1_container">
+                    </div>
+                </div>
+            </div>
+            <!--左边用户信息 end-->
+            <!--*右边帖子内容 start-->
+            <div class="contents">
+                <div class="contRow_1" id="adminAndUserPanel_5">
+                    <!--9330565,96683575,5,310073,kjkjkj,4LYH0NipZ%2fxWCen0ukfZIQ%3d%3d,1,0,0,0,0-->
+                </div>
+                <div class="icon_left textHide">
+                    左箭头-小图标</div>
+                <div class="contRow_22">
+                <div class="bbsp2">
+                    
+                    <p>
+                        <!-- AdPanel --><!-- AdPanel_left --><p class='bbsp'>想提升中国金融市场水平，完善市场结构，优化市场服务，要向其他方向发力，向服务实体经济发力。而不要朝着错误的方向跟着美国搞金融“创新”，把资本市场复杂化，成为剪中国人羊毛 的工具。什么股指期货、融资融券、杠杆基金等都是剪羊毛的工具，大跨度看，老百姓亏多盈少，这些创新害得不少人跳楼、倾家荡产，损害国家的稳定，应该列入负面清单，最好取消。</p>
+                    </p>
+                </div>
+                
+    <div id="bompostlogdiv5">
+        <script type="text/javascript">
+            //如果是管理员
+            $(function(){
+                var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                var logisheader = TX.BaseCookie.BBS_IsHeader();
+                var strhtml="";
+                if(loguserid>0)
+                {
+                    strhtml= '<!-- 没有日志 -->';
+                    if(310073 == loguserid|logisheader)
+                    {
+                        strhtml='<!-- 没有日志 -->';
+                    }
+                }
+                $("#bompostlogdiv5").html(strhtml);
+            })
+        </script>
+    </div>
+                <div style="height: 40px">
+                    <div class="tabBottom">
+                        <div class="reward textHide" id="adminAddSalary_96683575_9330565_0">
+                        </div>
+                        <p class="daShang">
+                            
+                             <a class="jubaobtn" style="visibility: hidden" onclick="GaqPush('主贴-举报');jubao('http://bbs.tiexue.net/ReportPostV2.aspx?PostID=96683575&ThreadID=9330565');" href="###">举报</a>
+                            <a href='javascript:void(0);daShangLayer("310073","96683575")'>打赏</a>
+                            <a href='javascript:UserDigPost("96683575","Wonderful96683575")'>顶一下</a><strong>(<span id="Wonderful96683575">0</span>)</strong>
+                              <span><a onclick="commentPop('5',decodeURIComponent('kjkjkj'),'4LYH0NipZ%2fxWCen0ukfZIQ%3d%3d');GaqPush('回复引用楼层');" href="###">回复</a></span>
+                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="date">
+                2015/7/1 17:34:24</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+    <!--个人帖子 end-->
+    
+        <!--*个人帖子 start-->
+        <!--deletefloor:4-->
+        <a name="4"></a>
+        <div class="postStart">
+            <!--*左边用户信息 start-->
+            <div class="sideLeft float_L">
+                <ul class="userMsg">
+                    <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/7357448" target="_blank">中华儿女团结必胜</a></strong><span></span></p><span class="boyHead"></span></div></li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/y-KJ-wei-3.gif" alt="军衔:中国空军上尉" title="军衔:中国空军上尉" /></li> <li class="xxMsg">军号：7357448</li>	<li class='xxMsg'>工分:20819	</li>
+                </ul>
+                <div id="Baidu_BBSPostNormalV3ContentLeftADList2" class="Baidu_PostADLeftList">
+                    <div id="Baidu_BBSPostNormalV3ContentLeftADList2_container">
+                    </div>
+                </div>
+            </div>
+            <!--左边用户信息 end-->
+            <!--*右边帖子内容 start-->
+            <div class="contents">
+                <div class="contRow_1" id="adminAndUserPanel_4">
+                    <!--9330565,96683204,4,7357448,中华儿女团结必胜,ZxKolbHblp7xeyR%2fdLM3PQ%3d%3d,1,0,0,0,0-->
+                </div>
+                <div class="icon_left textHide">
+                    左箭头-小图标</div>
+                <div class="contRow_22">
+                <div class="bbsp2">
+                    
+                    <p>
+                        <!-- AdPanel --><!-- AdPanel_left --><p class='bbsp'>什么时候监管体制透明化，法制治国了，什么时候股市大环境就开始好转了。不破不立！</p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'>但是今天，我是真想………………此处省略一万字啊！<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'><br/></p><p class='bbsp'><br/></p><p class='bbsp'>猪队友，今天打新股！找死！</p>
+                    </p>
+                </div>
+                
+    <div id="bompostlogdiv4">
+        <script type="text/javascript">
+            //如果是管理员
+            $(function(){
+                var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                var logisheader = TX.BaseCookie.BBS_IsHeader();
+                var strhtml="";
+                if(loguserid>0)
+                {
+                    strhtml= '<!-- 没有日志 -->';
+                    if(7357448 == loguserid|logisheader)
+                    {
+                        strhtml='<!-- 没有日志 -->';
+                    }
+                }
+                $("#bompostlogdiv4").html(strhtml);
+            })
+        </script>
+    </div>
+                <div style="height: 40px">
+                    <div class="tabBottom">
+                        <div class="reward textHide" id="adminAddSalary_96683204_9330565_0">
+                        </div>
+                        <p class="daShang">
+                            
+                             <a class="jubaobtn" style="visibility: hidden" onclick="GaqPush('主贴-举报');jubao('http://bbs.tiexue.net/ReportPostV2.aspx?PostID=96683204&ThreadID=9330565');" href="###">举报</a>
+                            <a href='javascript:void(0);daShangLayer("7357448","96683204")'>打赏</a>
+                            <a href='javascript:UserDigPost("96683204","Wonderful96683204")'>顶一下</a><strong>(<span id="Wonderful96683204">1</span>)</strong>
+                              <span><a onclick="commentPop('4',decodeURIComponent('中华儿女团结必胜'),'ZxKolbHblp7xeyR%2fdLM3PQ%3d%3d');GaqPush('回复引用楼层');" href="###">回复</a></span>
+                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="date">
+                2015/7/1 17:14:52</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+    <!--个人帖子 end-->
+    
+        <!--*个人帖子 start-->
+        <!--deletefloor:3-->
+        <a name="3"></a>
+        <div class="postStart">
+            <!--*左边用户信息 start-->
+            <div class="sideLeft float_L">
+                <ul class="userMsg">
+                    <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/5817911" target="_blank">zcdj</a></strong><span></span></p><span class="boyHead"></span></div></li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/r-07-HJ-shi-3.gif" alt="军衔:海军上士" title="军衔:海军上士" /></li> <li class="xxMsg">军号：5817911</li>	<li class='xxMsg'>工分:2671	</li>
+                </ul>
+                <div id="Baidu_BBSPostNormalV3ContentLeftADList3" class="Baidu_PostADLeftList">
+                    <div id="Baidu_BBSPostNormalV3ContentLeftADList3_container">
+                    </div>
+                </div>
+            </div>
+            <!--左边用户信息 end-->
+            <!--*右边帖子内容 start-->
+            <div class="contents">
+                <div class="contRow_1" id="adminAndUserPanel_3">
+                    <!--9330565,96683186,3,5817911,zcdj,CQYHS0c9xz6zG6EkQz2uBw%3d%3d,1,0,0,0,0-->
+                </div>
+                <div class="icon_left textHide">
+                    左箭头-小图标</div>
+                <div class="contRow_22">
+                <div class="bbsp2">
+                    
+                    <p>
+                        <!-- AdPanel --><!-- AdPanel_left --><p class='bbsp'>满大街的白领盲流，做着一夜暴富美梦</p>
+                    </p>
+                </div>
+                <div class="formMobile">本贴发自手机铁血网：[<a href="http://www.tiexue.net/mobile" target="_blank" style="text-decoration:underline;" onclick="GaqPush('wap')">围观热点军事动态，上手机铁血网:m.tiexue.net</a>]</div>
+    <div id="bompostlogdiv3">
+        <script type="text/javascript">
+            //如果是管理员
+            $(function(){
+                var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                var logisheader = TX.BaseCookie.BBS_IsHeader();
+                var strhtml="";
+                if(loguserid>0)
+                {
+                    strhtml= '<!-- 没有日志 -->';
+                    if(5817911 == loguserid|logisheader)
+                    {
+                        strhtml='<!-- 没有日志 -->';
+                    }
+                }
+                $("#bompostlogdiv3").html(strhtml);
+            })
+        </script>
+    </div>
+                <div style="height: 40px">
+                    <div class="tabBottom">
+                        <div class="reward textHide" id="adminAddSalary_96683186_9330565_0">
+                        </div>
+                        <p class="daShang">
+                            
+                             <a class="jubaobtn" style="visibility: hidden" onclick="GaqPush('主贴-举报');jubao('http://bbs.tiexue.net/ReportPostV2.aspx?PostID=96683186&ThreadID=9330565');" href="###">举报</a>
+                            <a href='javascript:void(0);daShangLayer("5817911","96683186")'>打赏</a>
+                            <a href='javascript:UserDigPost("96683186","Wonderful96683186")'>顶一下</a><strong>(<span id="Wonderful96683186">0</span>)</strong>
+                              <span><a onclick="commentPop('3',decodeURIComponent('zcdj'),'CQYHS0c9xz6zG6EkQz2uBw%3d%3d');GaqPush('回复引用楼层');" href="###">回复</a></span>
+                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="date">
+                2015/7/1 17:14:23</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+    <!--个人帖子 end-->
+    
+        <!--*个人帖子 start-->
+        <!--deletefloor:2-->
+        <a name="2"></a>
+        <div class="postStart">
+            <!--*左边用户信息 start-->
+            <div class="sideLeft float_L">
+                <ul class="userMsg">
+                    <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/8894524" target="_blank">仇伟先</a></strong><span></span></p><span class="boyHead"></span></div></li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/r-07-LJ-bing-1.gif" alt="军衔:陆军列兵" title="军衔:陆军列兵" /></li> <li class="xxMsg">军号：8894524</li>	<li class='xxMsg'>工分:1367	</li>
+                </ul>
+                <div id="Baidu_BBSPostNormalV3ContentLeftADList4" class="Baidu_PostADLeftList">
+                    <div id="Baidu_BBSPostNormalV3ContentLeftADList4_container">
+                    </div>
+                </div>
+            </div>
+            <!--左边用户信息 end-->
+            <!--*右边帖子内容 start-->
+            <div class="contents">
+                <div class="contRow_1" id="adminAndUserPanel_2">
+                    <!--9330565,96682557,2,8894524,仇伟先,LEhZVSSSC2skSp8XA4lInA%3d%3d,1,0,0,0,0-->
+                </div>
+                <div class="icon_left textHide">
+                    左箭头-小图标</div>
+                <div class="contRow_22">
+                <div class="bbsp2">
+                    
+                    <p>
+                        <!-- AdPanel --><!-- AdPanel_left --><p class='bbsp'>忘羊补牢未为晚也！</p>
+                    </p>
+                </div>
+                <div class="formMobile">本贴发自手机铁血网：[<a href="http://www.tiexue.net/mobile" target="_blank" style="text-decoration:underline;" onclick="GaqPush('wap')">围观热点军事动态，上手机铁血网:m.tiexue.net</a>]</div>
+    <div id="bompostlogdiv2">
+        <script type="text/javascript">
+            //如果是管理员
+            $(function(){
+                var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                var logisheader = TX.BaseCookie.BBS_IsHeader();
+                var strhtml="";
+                if(loguserid>0)
+                {
+                    strhtml= '<!-- 没有日志 -->';
+                    if(8894524 == loguserid|logisheader)
+                    {
+                        strhtml='<!-- 没有日志 -->';
+                    }
+                }
+                $("#bompostlogdiv2").html(strhtml);
+            })
+        </script>
+    </div>
+                <div style="height: 40px">
+                    <div class="tabBottom">
+                        <div class="reward textHide" id="adminAddSalary_96682557_9330565_0">
+                        </div>
+                        <p class="daShang">
+                            
+                             <a class="jubaobtn" style="visibility: hidden" onclick="GaqPush('主贴-举报');jubao('http://bbs.tiexue.net/ReportPostV2.aspx?PostID=96682557&ThreadID=9330565');" href="###">举报</a>
+                            <a href='javascript:void(0);daShangLayer("8894524","96682557")'>打赏</a>
+                            <a href='javascript:UserDigPost("96682557","Wonderful96682557")'>顶一下</a><strong>(<span id="Wonderful96682557">0</span>)</strong>
+                              <span><a onclick="commentPop('2',decodeURIComponent('仇伟先'),'LEhZVSSSC2skSp8XA4lInA%3d%3d');GaqPush('回复引用楼层');" href="###">回复</a></span>
+                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="date">
+                2015/7/1 16:44:38</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+    <!--个人帖子 end-->
+    
+</div>
+</div>
+
+            <div class="mRow_1">
+                <p class="ftBtn textHide float_L">
+                    <a onclick="addPost();_gaq.push(['_trackEvent', 'bbs', 'clicked', '发帖按钮'])" href="javascript:void(0);" target="_self">我要发帖</a>
+                </p>
+                <div class="page">
+                    <p>
+                        总页数<span>1</span>第<span>1</span>页&nbsp;[共有<span>6</span>条记录]&nbsp;分页：
+                    </p>
+                    <a href="http://bbs.tiexue.net/post_9330565_1.html" class="pageHover">1</a>
+                    
+                </div>
+            </div>
+            <div class="advert03" id="Baidu_BBSPostNormalV3KuTuAD1"></div>
+            <div class="tabs">
+                <div class="tabsTop" id="replyUserMsg">
+                    &nbsp;对<span>何新推荐：新自由主义在误导中国股市(下)</span>回复
+                </div>
+                <script type="text/javascript">
+                    if (TX.BaseCookie.BBS_CurrentUserID() != 0) {
+                        $("#replyUserMsg").prepend("“" + TX.BaseCookie.TxBBS_CurrentUserName() + "”");
+                    }
+                </script>
+                <iframe id="ReplyFrame" name="ReplyFrame" frameborder="0" marginheight="0" marginwidth="0"
+                    scrolling="no" src="http://bbs.tiexue.net/reply/ReplyNew2.htm" width="970" height="630"></iframe>
+                <div class="lock-msg border hidden" id="noreplyspan">
+                    本帖已经被管理员锁定，不能回复
+                </div>
+            </div>
+            <!--*底部操作条 start-->
+            <div class="bot-operateBar border hidden" id="postbuttonadminpanel_96677798_9330565_0_0">
+            </div>
+            <!--底部操作条 end-->
+        </div>
+        <!--主要内容 end-->
+        <!--*脚注 start-->
+        
+<div class="footer" id="footer">
+    <script type="text/javascript">        CreateFooter("about");</script>
+    <span>|</span><a href="http://www.tiexue.net/map_index.htm" target="_blank">网站地图</a>
+    <script type="text/javascript">        CreateFooter("version");</script>
+    <script type="text/javascript">        CreateFooter("law");</script>
+    <script type="text/javascript">        CreateFooter("record");</script>
+</div>
+
+        <!--脚注 end-->
+
+    </div>
+    <script type="text/javascript">
+
+        try {
+            var effect = ('').split(',');
+            for (var i = 0; i < effect.length; i++) {
+                getEffect(effect[i]);
+            }
+        }
+        catch (e) { }
+
+        function getEffect(ef) {
+            if (ef.indexOf("bg") > -1) {
+                $(".signeffect-id").addClass("sign-bg");
+            }
+            else if (ef.indexOf("head") > -1) {
+                $(".signeffect-head").addClass("sign-ico").attr("title", "签到精英");
+            }
+        }
+        $(document).ready(function () {
+            try {
+                Tx_InitTopPostDigBar("contentsbelowbar", ThreadID, Subject, '0');
+            }
+            catch (e)
+            { }
+            TxBBS_AdminAndUserPanel();
+            TxBBS_PostShowAdminButtonPanel();
+        });
+    </script>
+            
+    <!--铁血视频站v.tiexue.net-->
+        
+    <script type="text/javascript" src="http://s.itiexue.net/js/tiexue/statistic/bbs/bbsmonitor-u.js"></script>
+    <!--对联广告-->
+    <script type="text/javascript">
+        function adInfoShow() {
+            if (TX.BaseCookie.BBS_CurrentUserID() <= 0) {
+                var showJunphAd = false;
+                if (document.referrer != null) {
+                    var referrerInfo = document.referrer;
+                    if (referrerInfo.toLowerCase().indexOf("showpicclass_43_1.html") > 0) {
+                        showJunphAd = true;
+                    }
+                }
+                if (ForumID == 219 || ForumID == 79 || ForumID == 260 || showJunphAd) {
+                    BAIDU_CLB_singleFillSlot("445637");
+                }
+                else {
+                    BAIDU_CLB_singleFillSlot("80066");
+                }
+            }
+        }      
+
+        if (islocked > 0) {
+            $("#ReplyFrame").height("0px");
+            $("#ReplyFrame").hide();
+            $("#noreplyspan").show();
+            $("#replyUserMsg").hide();
+        }
+    </script>
+    <script type="text/javascript">
+        if (TX.BaseCookie.BBS_CurrentUserID() <= 0) {
+            //            if (GetCookie()) {
+            //               // BAIDU_CLB_singleFillSlot("545690");
+            //            } else {
+            var showJunphAd = false;
+            if (document.referrer != null) {
+                var referrerInfo = document.referrer;
+                if (referrerInfo.toLowerCase().indexOf("showpicclass_43_1.html") > 0) {
+                    showJunphAd = true;
+                }
+            }
+            if (ForumID == 219 || ForumID == 79 || ForumID == 260 || showJunphAd) {
+                BAIDU_CLB_singleFillSlot("535435");
+            }
+            else {
+                BAIDU_CLB_fillSlot("81336");
+            }
+            //            }
+        }        
+    </script>
+</body>
+</html>
+
+
+<!-- Created On 2015/7/1 19:19:47 -->
+<!-- CopyRight by TieXue -->

@@ -1,0 +1,1464 @@
+<!--UINFO: http://forum.home.news.cn/detail/136882338/1.html	length=65000&last_modified=0&time_saved=1450676757&charset=GBK-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+<title>百余本科以下专业停办 湖北“中外合作办学”面临重新洗牌_发展论坛_新华社区</title>
+
+<!-- <link media=screen href="http://tmisc.home.news.cn/forum/styles/ubb.css" type=text/css rel=stylesheet /> -->
+<link href="http://www.news.cn/forum/wb/style/popup.css" rel="stylesheet" type="text/css" />
+<link href="/static/css/post/detail.css" type="text/css" rel="stylesheet" />
+
+<script language="JavaScript" src="http://tmisc.home.news.cn/forum/script/common.js"></script>
+<script type="text/javascript" src="http://tmisc.home.news.cn/forum/script/faces.js"></script>
+<script type="text/javascript" src="/static/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="http://www.news.cn/forum/wb/js/popup.js"></script>
+<script language="JavaScript" src="http://tmisc.home.news.cn/forum/script/float2.js"></script>
+<script type="text/javascript" src="/static/api/js/post.js"></script>
+<style>
+.fileP{
+	margin-top:10px;
+}
+
+.delBtn{
+	float: right;padding-right:60px;
+}
+fieldset {
+	padding: 10px;
+	margin: 20px;
+	color: #333;
+	border: #999 solid 1px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+}
+legend {
+	color: #333;
+	font-weight: 200;
+	padding: 3px 6px;
+}
+fieldset textarea{
+	width:450px;
+	height:93px;
+}
+.descpTips{
+	padding-left:40px;
+	text-align: left;
+}
+/*分享 样式*/
+#share{margin-top:15px;text-align: right;padding-right:15px;font-size:12px;}
+#share a{text-decoration: none;color: #000;}
+#share a:HOVER{color:#0000FF}
+#share a:VISITED {text-decoration: none;}
+</style>
+<script language="JavaScript">
+function setImageSize() {
+    var nMaxWidth;
+    if (82 == 80){
+	nMaxWidth = 930;
+	}
+	else{
+	nMaxWidth = 700;
+	}
+	var arEls = document.getElementsByTagName("IMG");
+	for( var i=0;i<arEls.length;i++ ){
+		if( arEls[i].width >nMaxWidth ) {	//如果图片宽度大于nMaxWidth，则等比缩小显示
+			var nHeight = (arEls[i].height * (nMaxWidth/arEls[i].width));
+			arEls[i].height = nHeight;
+			arEls[i].width  =	nMaxWidth;
+			arEls[i].style.height = nHeight;
+			arEls[i].style.width = nMaxWidth;
+		}
+	}
+}
+function doMailTo() {
+	var	fmt	= document.forms["mailto"];
+	if (fmt != null) {
+		fmt.title.value	= document.title;
+		fmt.url.value	= this.location;
+		fmt.submit();
+	}
+}
+
+function checkReply(form) {
+    var mode = window.frames['Editor'].document.getElementById('ubb').value; 
+    var nmessage = window.frames['Editor'].document.getElementById('posteditor_textarea');
+	var str ="";
+
+	if(mode == 0){
+	   if(nmessage.value==""){
+			str = "请输入回复的内容！";	   
+		    alert(str);
+			nmessage.focus();
+	   		return false;
+		} else if(nmessage.value.length > 5000){
+			str = "回复内容的长度不能超过"+5000+"个字，请您拆分后再上帖。";	  		
+			alert(str);
+			nmessage.focus();
+	   		return false;
+		}
+		   
+	   }
+	  
+	 if(mode == 1){
+		var content = window.frames['Editor'].editdoc.body.innerHTML;
+	    if(content == "" || content == "<br>"){
+		    str = "请输入回复的内容！";
+		    alert(str);
+		    window.frames['Editor'].editdoc.body.focus();
+	   		return false;
+		}
+		else if(window.frames['Editor'].editdoc.body.innerHTML.length > 5000){
+		  str = "回复内容的长度不能超过"+5000+"个字，请您拆分后再上帖。";			
+		alert(str);
+		window.frames['Editor'].editdoc.body.focus();
+	   		return false;
+		   }
+	 }
+	if (form.userid != null) {
+		if(form.userid.value=="") {
+		    str = "你好像忘了输入用户名啦！";		
+			alert(str);
+			form.userid.focus();
+	   		return false;
+		}
+	}
+	if (form.password != null) {
+		if(form.password.value == "") {
+		    str = "你好像忘了输入用户密码啦！";		
+			alert(str);
+			form.password.focus();
+	   		return false;
+		}
+	}
+	
+		if (form.username != null) {
+		if(form.username.value=="") {
+		    str = "你好像忘了输入真实姓名啦！";		
+			alert(str);
+			form.username.focus();
+	   		return false;
+		}
+	}
+	if (form.usertel != null) {
+		if(form.usertel.value == "") {
+		    str = "你好像忘了输入联系电话啦！";		
+			alert(str);
+			form.usertel.focus();
+	   		return false;
+		}
+	}
+	if (form.useraddress != null) {
+		if(form.useraddress.value == "") {
+		    str = "你好像忘了输入通讯地址啦！";		
+			alert(str);
+			form.useraddress.focus();
+	   		return false;
+		}
+	}
+	if (form.userzip != null) {
+		if(form.userzip.value == "") {
+		    str = "你好像忘了输入邮编啦！";		
+			alert(str);
+			form.userzip.focus();
+	   		return false;
+		}
+	}
+	if (form.userjob != null) {
+		if(form.userjob.value == "") {
+		    str = "你好像忘了输入身份证号啦！";		
+			alert(str);
+			form.userjob.focus();
+	   		return false;
+		}
+	}
+	
+	var result = true;
+	//检测描述字数
+	$.each($("textarea[name=descp]"),function(index,obj){
+		result = result && checkDescpCount(obj);
+	});
+	
+	if(!result){
+		alert("描述字数超过200，请检查");
+		return false;
+	}
+
+	return true;
+}
+
+//描述字数限制
+var descpLimit = 200;
+
+function checkDescpCount(obj){
+	var len = obj.value.replace(/^\s+|\s+$/g, '').length; 
+	var tipsObj = $(obj).parent().next().children(":first");
+	if(len>descpLimit){
+		tipsObj.html("当前"+len+"个字，<font color=red>描述不能超过"+descpLimit+"字。</font>");
+		return false;
+	}
+	tipsObj.html("当前"+len+"个字");
+	return true;
+}
+
+function hello() {
+		mydate = new Date();
+		myhour = mydate.getHours();
+		if (myhour < 6)
+			welcomestring = "凌晨好";
+		else if (myhour < 9)
+			welcomestring = "早上好";
+		else if (myhour < 12)
+			welcomestring = "上午好";
+		else if (myhour < 14)
+			welcomestring = "中午好";
+		else if (myhour < 17)
+			welcomestring = "下午好";
+		else if (myhour < 19)
+			welcomestring = "傍晚好";
+		else if (myhour < 22)
+			welcomestring = "晚上好";
+		else
+			welcomestring = "夜里好";
+		return welcomestring;
+	}
+
+	function checkLogin(loginform) {
+		if (loginform.userid.value == "") {
+			alert("你好像忘了输入用户名啦！");
+			loginform.userid.focus();
+			return false;
+		}
+		if (loginform.password.value == "") {
+			alert("你好像忘了输入用户密码啦！");
+			loginform.password.focus();
+			return false;
+		}
+		return true;
+	}
+	
+	function get(id){
+	return document.getElementById(id);
+}
+
+	//添加 引用
+	function addQuote(id){
+	var mode = window.frames['Editor'].document.getElementById('ubb').value;
+//		var oauthor = get('author_'+id);
+		//var au_tm = get('mess_'+id);
+		var au_tm = $.trim($("#mess_"+id).text()).replace(/\s+/g, ' ');
+		
+//		var otime = get('time_'+id);
+		var omessage = get('message_'+id);
+		var str=omessage.outerHTML;
+        var t1=str.indexOf("<DIV class=BBS_QUOTE><Q>");
+              if(t1 > -1)
+            {
+
+                 var reg1=new RegExp("<DIV id=message_"+ id +"><DIV class=BBS_QUOTE><Q>","g");
+                 var reg2=new RegExp("<DIV class=BBS_QUOTE><Q>","g");
+                 var reg3=new RegExp("<I>","g"); 
+                 var reg4=new RegExp("</I>","g");
+                 var reg5=new RegExp("</Q></DIV><BR>","g");
+                 var reg6=new RegExp("</Q>","g");
+                 var reg7=new RegExp("<BR>","g");
+                 var reg8=new RegExp("</DIV>","g");
+                 var temp1=str.replace(reg1,"[qt]");
+                 var temp2=temp1.replace(reg2,"[qt]");
+                 var temp3=temp2.replace(reg3,"[I]");
+                 var temp4=temp3.replace(reg4,"[/I]");
+                 var temp5=temp4.replace(reg5,"[/qt]");
+                 var temp6=temp5.replace(reg6,"[/qt]");
+                 var temp7=temp6.replace(reg7," ");
+                 var temp8=temp7.replace(reg8," ");
+                // alert(temp8);
+             }
+		//var nmessage = get('content');
+		var nmessage = window.frames['Editor'].document.getElementById('posteditor_textarea');
+		var tempmess = "";
+
+		tempmess+='[qt]';
+		if(mode == 1){
+		   tempmess+='引自:<i>'+au_tm+'</i>';
+		}
+		else{
+		  tempmess+='引自:[i]'+au_tm+'[/i]';
+		}
+		//tempmess+='[i]'+oauthor.innerText+'[/i]';
+		//tempmess+=' 于 '+otime.innerText+' 发表:';
+         if(t1 > -1){
+		tempmess+="\n"+temp8;
+          }
+         else{
+                tempmess+="\n"+$("#message_"+id).text().replace(/\s+/g, ' ');
+          } 
+		tempmess+='[/qt]';
+		try{
+		    if(mode == 0){
+			//nmessage.innerHTML = tempmess;
+		    	window.frames['Editor'].newEditor(mode, tempmess);
+				document.getElementById("Editor").contentDocument.getElementById("posteditor_textarea").focus();
+			}
+			else if(mode == 1){
+			window.frames['Editor'].editdoc.body.innerHTML = tempmess;
+			}
+		}catch(e){}
+		return false;
+	}
+	
+	//添加回复
+	function addRevert(id){
+	    var mode = window.frames['Editor'].document.getElementById('ubb').value;
+		//var oauthor = get('author_'+id).innerText;
+		var oauthor=$("#author_"+id).text();
+		var nmessage = window.frames['Editor'].document.getElementById('posteditor_textarea');
+		var tempmess = "";
+		if(mode == 1){
+/* 			if(id == 1){
+				tempmess+='<b>回复'+'首贴 '+oauthor+'的帖子</b>';
+			}else{
+		    	tempmess+='<b>回复'+id+'楼'+oauthor+'的帖子</b>';
+		    } */
+		    tempmess+='<b>回复'+oauthor+'的帖子</b>';
+		}
+	    else{
+/* 	    	if(id == 1){
+	    		tempmess+='[b]回复'+'首贴 '+oauthor+'的帖子[/b]';
+	    	}else{
+		    	tempmess+='[b]回复'+id+'楼'+oauthor+'的帖子[/b]';
+		    } */
+		    tempmess+='[b]回复'+oauthor+'的帖子[/b]'
+		}
+		try{
+		    if(mode == 0){
+				//nmessage.innerHTML = tempmess;
+				window.frames['Editor'].newEditor(mode, tempmess);
+				document.getElementById("Editor").contentDocument.getElementById("posteditor_textarea").focus();
+			}
+			else if(mode == 1){
+			window.frames['Editor'].editdoc.body.innerHTML = tempmess;
+			}
+		}catch(e){}
+		return false;
+	}
+function ubbaction(tag, val){
+	var tag = tag.toUpperCase();
+	if(typeof(val) == "undefined"){
+ 	val = "";
+	}
+	if(val){
+ 	val = "=" + val;
+	}
+
+	var r = document.selection.createRange().text;
+	rr = "[" + tag + val + "]" + r + "[/" + tag +"]";
+	if(r){
+ 	document.selection.createRange().text = rr;
+	}else{
+ 	document.all.content.value += rr;
+	}
+	}
+ function countTitleChars(){
+		document.getElementById("title_num_leave").innerHTML = 50-document.bbsedit.title.value.length;
+	}
+	
+	function Cswf()
+{		
+	document.bbsedit.content.focus();
+		 //var enterSIZE   = prompt("输入Flash尺寸（宽，高）！", "WIDTH=300 HEIGHT=250");
+		var enterURL   = prompt("请输入Flash网址", "http://");
+		var ToAdd="";
+		if (enterURL)
+		{		 
+			ToAdd = "[FLASH=400,300]"+enterURL;	
+			InsertText(objActive,ReplaceText(objActive,ToAdd,'[/FLASH]'),true); 				
+	}
+}
+function Curl()
+{
+	document.bbsedit.content.focus();
+	var FoundErrors = '';
+	var enterURL   = prompt("输入链接网址！", "http://");
+	
+	if (!enterURL)
+	{
+		FoundErrors += "\n" + "链接网址不能为空";
+	}
+	
+	if (FoundErrors)
+	{
+		alert("错误！"+FoundErrors);
+		return;
+	}
+	str = "[URL="+enterURL+"]";
+	InsertText(objActive,ReplaceText(objActive,str,'[/URL]'),true); 
+}
+function Cswf() {
+	document.bbsedit.content.focus();
+	//var enterSIZE   = prompt("输入Flash尺寸（宽，高）！", "WIDTH=300 HEIGHT=250");
+	var enterURL   = prompt("请输入Flash网址", "http://");
+	var ToAdd="";
+	if (enterURL) {
+		ToAdd = "[FLASH=400,300]"+enterURL;
+		InsertText(objActive,ReplaceText(objActive,ToAdd,'[/FLASH]'),true); 
+	}
+}
+function Cinsertimage()
+{
+	document.bbsedit.content.focus();
+	var enterURL   = prompt("请输入图片网址", "http://");
+	var ToAdd="";
+	if (enterURL)
+	{
+		ToAdd = " [IMG]"+enterURL;
+		InsertText(objActive,ReplaceText(objActive,ToAdd,'[/IMG]'),true); 
+	}
+}
+var objActive;
+function GetActiveText(objHTML) {
+	objActive=objHTML;
+	if(document.selection){
+		var obj=document.getElementById(objHTML);
+		obj.currPos = document.selection.createRange().duplicate();
+	}
+}
+function InsertText(objHTML,strText,bolReplace) {
+	if (strText=="") {
+		return "";
+	}
+	var obj=document.getElementById(objHTML);
+	if (!obj) {
+		return "";
+	}
+	if(document.selection){
+		if (obj.currPos){
+			if(bolReplace && (obj.value=="")){
+				obj.currPos.text=strText;
+			}
+			else{
+				obj.currPos.text+=strText;
+			}
+		}
+		else{
+			obj.value+=strText;
+		}
+	}
+	else{
+		if(bolReplace){
+			obj.value=obj.value.slice(0,obj.selectionStart) + strText + obj.value.slice(obj.selectionEnd,obj.value.length);
+		}
+		else{
+			obj.value=obj.value.slice(0,obj.selectionStart) + strText + obj.value.slice(obj.selectionStart,obj.value.length);
+		}
+	}
+}
+function ReplaceText(objHTML,strPrevious,strNext) {
+	var obj=document.getElementById(objHTML);
+	if (!obj) {
+		return "";
+	}
+	var strText;
+	if(document.selection && document.selection.type == "Text"){
+		if (obj.currPos){
+			var range = document.selection.createRange();
+			range.text = strPrevious + range.text + strNext;
+			return "";
+		}
+		else{
+			strText=strPrevious + strNext;
+			return strText;
+		}
+	}
+	else{
+		if(obj.selectionStart || obj.selectionEnd){
+			strText=strPrevious + obj.value.slice(obj.selectionStart,obj.selectionEnd) + strNext;
+			return strText;
+		}
+		else{
+			strText=strPrevious + strNext;
+			return strText;
+		}
+	}
+}
+
+function callback(id){
+		MI.CallBack.init(this, function(data) {
+		if (data.result == 200) {
+			UI.getScript("http://t.home.news.cn/followmore.action?typeId=3&checkdel="+id+"&rd="+Math.random());
+		} else if (data.result == 0) {
+			//alert(data.msg);
+			alert("关注成功");
+		}
+		}, function(data) {
+		if (data.result == 201) {
+			//隐藏登录框
+			MI.dialog.hide();
+			//alert(data.msg);
+			alert("登陆失败");
+		} else if (data.result == 1) {
+			if(data.msg=="noRegister"){
+				alert('您还没有开通新华微博，现在就去开通吗？');
+				var win=window.open('','_blank');
+				win.location.href="http://t.home.news.cn/index.jsp";
+			}else if(data.msg=="userNotExist"){
+				alert('您关注用户还未开通新华微博，通知TA一下吧？');
+				var win=window.open('','_blank');
+				win.location.href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&content="+encodeURIComponent("我已经开通新华微博了，你也来吧！")+"http://t.home.news.cn/index.jsp &userName="+id;
+			}else{
+				alert("关注失败");
+			}
+		}
+		});
+}
+function follow(id){
+	callback(id);
+	if(id!=''){
+		UI.getScript("http://t.home.news.cn/followmore.action?typeId=3&checkdel="+id+"&rd="+Math.random());
+	}
+}
+
+function dataLength(fData){   
+    var intLength=0   
+    for (var i=0;i<fData.length;i++) {   
+        if ((fData.charCodeAt(i) < 0) || (fData.charCodeAt(i) > 255))   
+            intLength=intLength+2   
+        else  
+            intLength=intLength+1       
+    }   
+    return intLength   
+}
+</script>
+
+</head>
+
+<body onLoad="setImageSize(); ">
+	
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+<link href="/static/topheader/css/all.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/static/topheader/js/jq.js"></script>
+</head>
+<body>
+<div class="page">
+	<div class="area clearfix">
+		<div class="fl logo"><a href="http://news.cn/" target="_blank">新华网首页</a></div>
+		<div class="fl left1 clearfix">
+			<ul class="clearfix">
+<!-- 				<li><a href="http://www.xinhuanet.com/forum/index.htm">社区</a></li> -->
+				<li><a href="http://forum.home.news.cn/index.jsp">论坛</a></li>
+				<li><a href="http://sike.news.cn/">思客</a></li>
+				<li><a href="http://t.home.news.cn/">微博</a></li>
+				<li><a href="http://blog.home.news.cn/">博客</a></li>
+				<li class="xuankongjian"><a href="">炫空间</a>
+					<div class="xkjcon">
+						<ul class="clearfix">
+							<li><a href="http://search.home.news.cn/index.html">搜索</a></li>
+							<li><a href="http://vdisk.home.news.cn/vdisk/control/home.do">云盘</a></li>
+						</ul>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<div class="fl left2">
+			<ul class="clearfix">
+				<li class="iconnew"><a href="http://forum.home.news.cn/view/oldphoto/list.html">新华老年摄影&nbsp</a></li>
+				<li><a href="http://forum.home.news.cn/view/publicforum/list.html">公益论坛&nbsp</a></li>
+				<li><a href="http://forum.home.news.cn/list/82-0-0-1.html">地方论坛&nbsp</a></li>
+				<li><a href="http://forum.home.news.cn/list/376-0-0-1.html">熊猫社区&nbsp</a></li>
+				<li><a href="http://forum.home.news.cn/list/82-484-0-1.html">江苏民声&nbsp</a></li>
+				<!-- <li><a href="http://forum.home.news.cn/list/82-366-0-1.html">渝论&nbsp</a></li> -->
+				<!-- <li><a href="http://forum.home.news.cn/list/82-379-0-1.html">e齐e鲁&nbsp</a></li> -->
+			</ul>
+		</div>
+		<div class="fr right author">
+			业务合作：010-88050843
+		</div>
+	</div>
+</div>
+<script type="text/javascript" >
+	$(function(){
+		$(".xuankongjian,.xuankongjian a,.xkjcon").bind("mouseover",function(){
+			$(".xuankongjian").addClass("active");
+		});
+		$(".xuankongjian,.xuankongjian a,.xkjcon").bind("mouseleave",function(){
+			$(".xuankongjian").removeClass("active");
+		});
+	})
+</script>
+</body>
+</html>
+	<div style="width:993px; margin:0 auto;padding-top:60px;">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="993" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="158"><img src="http://misc.home.news.cn/forum/images/2010/forum_logo.gif" width="158" height="102" /></td>
+    <td width="835" valign="top"><table width="835" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="55" align="center" class="hei12">
+        <a href="http://www.news.cn/" target="_blank">新华网首页</a>
+         <!-- | <a href="http://www.xinhuanet.com/forum/index.htm" target="_blank">新华社区</a>  -->
+         | <a href="http://forum.home.news.cn">发展论坛</a>
+         | <a href="http://t.home.news.cn" target="_blank">新华微博</a>
+         | <a href="http://blog.home.news.cn/" target="_blank">新华博客</a> 
+         | <a href="http://sike.news.cn/" title="思客" target="_blank"><img src="http://tmisc.home.news.cn/forum/sike.gif" width="26" height="13" border="0"  align="center" style="margin-bottom:3px"/></a> 
+         | <a href="http://vdisk.home.news.cn/vdisk/control/home.do" target="_blank">新华云盘</a> 
+         | <a href="http://search.home.news.cn/index.html" target="_blank">社区搜索</a>&nbsp;
+         | <a href="http://my.xuan.news.cn" target="_blank"><img width="70" height="18" align="center" src="/static/images/xuan_boke.png" border="0"/></a>&nbsp;
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3"><table width="835" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="167" align="center"><table width="160" border="0" cellpadding="0" cellspacing="0" class="dh">
+              <tr>
+                <td width="50" rowspan="2"><img src="http://misc.home.news.cn/forum/images/2010/forum_dh01.gif" width="49" height="39" /></td>
+                <td width="110"><a href="/list/50-0-0-1.html">发展</a>  <a href="/list/85-0-0-1.html">国际</a>  <a href="/list/50-135-0-1.html">深水</a></td>
+              </tr>
+              <tr>
+                <td width="110"><a href="/list/50-388-0-1.html">热点</a>  <a href="/list/52-0-0-1.html">两岸</a>  <a href="/list/84-0-0-1.html"><font color=red>旗帜</font></a></td>
+              </tr>
+            </table></td>
+            <td width="167" align="center"><table width="160" border="0" cellpadding="0" cellspacing="0" class="dh">
+              <tr>
+                <td width="50" rowspan="2"><img src="http://misc.home.news.cn/forum/images/2010/forum_dh02.gif" width="40" height="39" /></td>
+                <td width="110"><a href="/list/98-0-0-1.html">财经</a>  <a href="/list/92-0-0-1.html" >军事</a>  <a href="/list/50-133-0-1.html" >反腐</a>
+      </td>
+              </tr>
+              <tr>
+                <td width="110"><a href="/list/113-0-0-1.html" >金融</a>  <a href="/list/50-404-0-1.html" >历史</a>  <a href="/list/111-0-0-1.html" >教育</a></td>
+              </tr>
+            </table></td>
+            <td width="167" align="center"><table width="160" border="0" cellpadding="0" cellspacing="0" class="dh">
+              <tr>
+                <td width="50" rowspan="2"><img src="http://misc.home.news.cn/forum/images/2010/forum_dh03.gif" width="40" height="39" /></td>
+                <td width="110"><a href="/list/82-0-0-1.html" ><font color=red>地方</font></a>  <a href="/list/50-128-0-1.html" >社会</a>  <a href="/list/50-134-0-1.html" >三农</a></td>
+              </tr>
+              <tr>
+                <td width="110"><a href="/list/93-0-0-1.html" >体育</a>  <a href="/list/50-514-0-1.html" ><font color=red>曝光</font></a>  <a href="/list/121-0-0-1.html" >村官</a></td>
+              </tr>
+            </table></td>
+            <td width="167" align="center"><table width="160" border="0" cellpadding="0" cellspacing="0" class="dh">
+              <tr>
+                <td width="50" rowspan="2"><img src="http://misc.home.news.cn/forum/images/2010/forum_dh04.gif" width="40" height="39" /></td>
+                <td width="110"><a href="/list/80-0-0-1.html" >摄影</a>  <a href="/list/75-0-0-1.html" >生活</a>  <a href="/list/91-0-0-1.html" >文化</a></td>
+              </tr>
+              <tr>
+                <td width="110"><a href="/list/109-0-0-1.html" >汽车</a>  <a href="/list/443-0-0-1.html" >房产</a>  <a href="/list/50-224-0-1.html" >科技</a></td>
+              </tr>
+            </table></td>
+            <td width="167" align="center"><table width="160" border="0" cellpadding="0" cellspacing="0" class="dh">
+              <tr>
+                <td width="50" rowspan="2"><img src="http://misc.home.news.cn/forum/images/2010/forum_dh05.gif" width="40" height="39" /></td>
+                <td width="110"><a href="/list/75-148-0-1.html" >情感</a>  <a href="/list/75-147-0-1.html" >笑话</a>  <a href="/list/81-0-0-1.html" >娱乐</a></td>
+              </tr>
+              <tr>
+                <td width="110"><a href="/list/90-0-0-1.html" >电脑</a>  <a href="/list/83-0-0-1.html" >网友俱乐部</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="993" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="6"></td>
+  </tr>
+</table>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>发展论坛</title>
+<script type="text/javascript" src="http://forum.home.news.cn/static/js/jquery-1.9.1.min.js"></script>
+<link rel="stylesheet" type="text/css" href="http://forum.home.news.cn/static/topheader/css/all.css">
+<script type="text/javascript">
+$(function(){
+	 $.ajax({
+             type: "post",
+             url: "/api/sso/getLoginUser.do",
+             // url:"getLoginUser.json",
+             dataType: "json",
+             success: function(data){
+             	 if(data.code == '200'){
+             	 	$('.hd01 tr td').eq(1).html(data.data.nickname +' <span class="lan12">'+hello()+'</span')
+             	 	$('.hd01 tr td').eq(2).html(
+             	 		'<a href="http://my.xuan.news.cn/" target="_blank" class="hei12">炫空间</a>&nbsp; <a href="http://'+data.data.username+'.home.news.cn" target="_blank" class="hei12">门户</a>&nbsp; <a href="http://my.home.news.cn/qm/control/home.do" target="_blank" class="hei12">短消息</a>&nbsp;   <a href="/space/userposts.do?&amp;id='+data.data.username+'" target="_blank" class="hei12">帖子</a>&nbsp; <a href="/trash/list.do" target="_blank" class="hei12">回收站</a>&nbsp;<!-- <a href="http://my.home.news.cn/bookmark/control/home.do" target="_blank" class="hei12">收藏</a>&nbsp;  --><a href="http://f.home.news.cn" target="_blank" class="hei12">好友</a>&nbsp;<!-- <a href="http://my.home.news.cn/profile/control/home.do" target="_blank" class="hei12">服务</a>&nbsp;  --><a href="http://my.home.news.cn/blog/control/home.do" target="_blank">控制面板</a>&nbsp;<a href="/space/userspace.do?id='+data.data.username+'" target="_blank" class="hei12">个人资料</a>&nbsp; <a href="/logout.jsp" class="hei12">退出</a>'
+             	 		)
+             	 } else{
+             	 	$('.hd01 tr td').eq(1).html('游客 <span class="lan12">'+hello()+'</span')
+             	 	$('.hd01 tr td').eq(2).html('<form id="loginForm" action="/login.jsp" method="post" style="margin:0;padding:0"><table width="570" border="0" cellspacing="0" cellpadding="0" class="hd01"><tbody><tr><td width="50" align="center">用户名</td><td width="60" align="center"><input type="text" id="senderName" name="senderName" class="form" size="6"></td><td width="50" align="center">密码</td><td width="60" align="center"><input type="password" id="password" name="password" class="form" size="6"></td><td width="60" align="center"><input name="login" type="image" src="http://misc.home.news.cn/forum/images/2010/denglu01.gif" width="50" height="18" class="login_button"></td><td width="60" align="center"><a href="http://my.home.news.cn/profile/passport.do" target="_blank"><img src="http://misc.home.news.cn/forum/images/2010/denglu02.gif" width="50" height="18" border="0"></a></td><td align="left"><script type="text/javascript">function jumpUrl(o,n){top.location.href="http://login.home.news.cn/profile/cologin.do?t="+n+"&callback="+encodeURIComponent(top.location)}<\/script><span style="margin:5px auto;float:left;padding-left:5px">第三方登录：</span><ul style="list-style-type:none;margin:3px auto;padding-left:5px"><li style="list-style-type:none;float:left;padding-left:5px"><a onclick="jumpUrl(this,&quot;qq&quot;)" style="cursor:pointer"><img src="http://login.home.news.cn/global/images/login-qq2.png" width="20px" height="20px" title="QQ"><br></a></li><li style="list-style-type:none;float:left;padding-left:5px"><a onclick="jumpUrl(this,&quot;sina&quot;)" style="cursor:pointer"><img src="http://login.home.news.cn/global/images/login-sina.png" width="20px" height="20px" title="新浪"><br></a></li><li style="list-style-type:none;float:left;padding-left:5px"><a onclick="jumpUrl(this,&quot;weixin&quot;)" style="cursor:pointer"><img src="http://login.home.news.cn/global/images/login-wx.png" width="20px" height="20px" title="微信"><br></a></li><li style="list-style-type:none;float:left;padding-left:5px"><a onclick="jumpUrl(this,&quot;tianyi&quot;)" style="cursor:pointer"><img src="http://login.home.news.cn/global/images/login-telecom.png" width="20px" height="20px" title="天翼"><br></a></li></ul></td></tr></tbody></table></form>')
+             	 }
+             }
+         });
+    
+    $.ajax({
+		url : "/api/getOnlineUserCount.do",
+		type : 'POST',
+		dataType : "json",
+		async : true,
+		data : {
+		},
+		cache : false,
+		success : function(result) {
+			if (result.code == 200) {
+				$("#userCount").html("<a href='/view/common/onlineuser.jsp' target='_blank'> 当前在线 </a>" + result.data);
+			}
+		}
+	});
+
+	
+	function hello() {
+		var mydate,myhour,welcomestring;
+		mydate = new Date();
+		myhour = mydate.getHours();
+		if (myhour < 6)
+			welcomestring = "凌晨好";
+		else if (myhour < 9)
+			welcomestring = "早上好";
+		else if (myhour < 12)
+			welcomestring = "上午好";
+		else if (myhour < 14)
+			welcomestring = "中午好";
+		else if (myhour < 17)
+			welcomestring = "下午好";
+		else if (myhour < 19)
+			welcomestring = "傍晚好";
+		else if (myhour < 22)
+			welcomestring = "晚上好";
+		else
+			welcomestring = "夜里好";
+		return welcomestring;
+	}	
+	$('body').on('submit', '#loginForm', function(){
+		if ($('#senderName').val() == "") {
+			alert("你好像忘了输入用户名啦！");
+			$('#senderName').focus();
+			return false;
+		}
+		if ($('#password').val() == "") {
+			alert("你好像忘了输入用户密码啦！");
+			$('#senderName').focus();
+			return false;
+		}
+		return true;
+	});
+
+})
+</script>
+
+</head>
+
+<body>
+	<table width="993" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#901D20" class="hd01">
+		<tbody><tr>
+			<td width="21" height="32">&nbsp;</td>
+			<td width="104"> 游客 <span class="lan12">下午好</span></td>
+			<td width="400" class="hei12">
+				
+			</td>
+
+			<td width="174" align="center">
+				<a href="http://login.home.news.cn/getPwd.jsp" target="_blank">找回密码</a>   
+				<a href="http://misc.home.news.cn/common/html/yhxy.html" target="_blank">管理规定</a>   
+				<a href="http://forum.xinhuanet.com/help.html" target="_blank">论坛帮助</a></td>
+				<td width="105" align="center" id="userCount">
+					<a href="/view/common/onlineuser.jsp" target="_blank"> 当前在线</a> 46179
+					<!--  <script language="JavaScript" src="http://login.home.news.cn/onlineUserNumber.jsp"></script>  -->
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<!-- 未登录 -->
+
+	
+</body>
+
+</html>
+
+		<table width="993" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F2F2F2">
+			<tr>
+				
+				<td width="39"><img src="http://tmisc.home.news.cn/forum/images/2010/forum_home.gif" width="28" height="27" />
+				
+				</td>
+				<td width="730" class="dqwz">
+<!-- 					<a href="http://www.news.cn/forum" target="_blank">社区首页</a> &gt;  -->
+					<a href="/list/82-373-0-1.html" class="bai12">黄鹤论坛</a></td>
+				<td width="16" valign="middle"><img src="http://tmisc.home.news.cn/forum/images/2010/hfd.gif" />
+				</td>
+				<td class="dqwz">值班斑竹：<a href="/space/userlist.do?id=xionglj" target="_blank">维君</a> <a
+					href="/space/userlist.do?id=" target="_blank"></a>
+				</td>
+			</tr>
+		</table>
+		
+		<table width="993" border="0" align="center" cellpadding="0" cellspacing="0">
+			<tr>
+				<td height="41" valign="middle" class="hong12">&nbsp;&nbsp;论坛声明：本帖由网友上传，只代表网友个人观点，转帖请注明作者及出处。删帖申请，请邮件与我们联系（邮箱：xhwjbx@xinhua.org），中介或代理机构勿扰。
+				</td>
+			</tr>
+		</table>
+		
+		<table width="993" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr valign="top">
+				<td width="725">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<!-- 设置权限变量 减少循环验证权限-->
+						
+						
+						
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+										<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#333333">
+											<tr>
+												<td id="title" width="420" class="biaoti"><b>百余本科以下专业停办 湖北“中外合作办学”面临重新洗牌</b> </td>
+												 <td class="xbiaoti"><a name="136882338"></a> <a href="#replyArea">回复</a> | <a href="JavaScript:doMailTo()">推荐</a> | <a
+													id="sc" onclick="encodeUri('sc')" href="">收藏</a> | <a href="/thread/136882338/1.html">树状</a>
+												</td>
+												
+											</tr>
+										</table>
+									
+									<table width="100%" cellpadding="0" cellspacing="0" style="border-bottom:1px dotted #b5b5b5;">
+										<tr>
+											<td class="zuozhe" width="340" id="mess_1">
+												
+													&nbsp;作者： 
+													
+												 
+												<span class="zuozhe01">
+													
+													
+													<a id="author_0" href="/space/userspace.do?id=99702553" target="_blank" class="zuozhe01">立言_10965</a>													
+													
+												
+												</span> 
+												
+												<span class="ip">
+													
+													<img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+													<a style="margin-left:-4px" href="javascript:void(0);" onclick="follow('99702553');return false;"> 
+													<span class="hong12">关注</span> </a>
+													
+												 &nbsp;于&nbsp;2015-06-08 16:10 &nbsp;发表
+											</span></td>
+
+
+											
+
+											
+											
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/rbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="/space/userposts.do?id=99702553" target="_blank">只看该作者</a>
+											</td>
+											<td valign="middle" width="15"><img src="http://tmisc.home.news.cn/forum/images/2010/lbbd.gif" />
+											</td>
+											<td class="ip" width="64"><a href="http://my.home.news.cn/qm/control/quickMsgFormView.do?stype=1&userName=99702553"
+												target="_blank">发短消息</a>
+											</td>
+											<td valign="middle" width="13"><img src="http://tmisc.home.news.cn/forum/images/2010/jhbd.gif" />
+											</td>
+											<td class="ip" width="69"><a href="http://f.home.news.cn/99702553"
+												target="_blank">加为好友</a>
+											</td>
+											
+										</tr>
+									</table>
+									<!-- 思客嵌入 -->
+									
+										<div id="sikeEmbed">
+											<iframe src="http://www.xinhuanet.com/forum/zt2014/qz10418fzltend/index.htm" scrolling="no" height="120" frameborder="0"
+												vspale="0" noresize="" marginheight="0" framespacing="0" marginwidth="0" name="search" border="0"
+												style="height:120px;width:100%;"></iframe>
+										</div>
+									
+									<table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" class="zhengwen">
+										<tr>
+											
+												
+
+												
+													<td><div id="message_1">高考今日结束，湖北36.8万考生将准备填报大学志愿，但要注意的是，此前十多年受家长考生青睐的高校中外合作办学专业，多数被叫停。<br>
+ <br>
+　　日前，湖北省教育厅对6所省属本科院校开设的9个专科层次中外合作办学项目今年停止招生，待在校生毕业后停办。去年10月，教育部在中外合作办学监管工作信息平台上，对已停止办学的252个本科以下层次中外合作办学机构和项目，进行了停止办学信息公示。<br>
+ <br>
+　　未来，随着中外合作办学相关法律、监管评估的逐渐完善，中外联合办学或面临洗牌。<br>
+ <br>
+　　百余本科以下专业停办<br>
+ <br>
+　　“看新闻说，之前就读的专业即将关停，第一反应很震惊，后来想想或许有教育主管部门的考量。”湖北大学2010届毕业生赵静丹（化名），此前就读于该校与英国密德萨斯大学合作的景区开发与管理专业。<br>
+ <br>
+　　今年4月，省教育厅对湖北大学、三峡大学、武汉工程大学、湖北中医药大学、武汉轻工大学、湖北文理学院等6所省属本科院校开设的9个中外合作办学项目今年停止招生。赵静丹就读的专业亦是此次被叫停的专业之一。<br>
+ <br>
+　　4月30日，湖北省教育厅发布了《省教育厅关于公布专科层次中外合作办学项目复核结果的通知》，通知载明，该厅组织专家对到期的30个高等专科层次中外合作办学项目进行了复核，最后决定对部分项目停止招生。对此，湖北省教育厅表示，这9个专科层次中外合作办学项目招生期满，今年停止招生，待在校生毕业后停办。<br>
+ <br>
+　　招生期满为何不再申请延续，长江商报记者联系了上述多所高校。个别学校对此三缄其口，拒绝接受采访。三峡大学、武汉轻工大学等高校相关负责人均表示，此次停止招生的项目，是根据本科院校不招收专科生的规定。湖北中医药大学国际学院一不愿具名的负责人告诉记者，该校作为本科高校，教育主管部门鼓励学校向高层次（本、硕）办学，停招是对原有中外合作办学项目的一次梳理，让中外合作办学项目更加规范。<br>
+ <br>
+　　教育部曾于去年年底对已停止办学活动的252个本科以下层次中外合作办学机构和项目进行了公示。<br>
+ <br>
+　　武汉科技大学国际学院院长耿殿磊教授表示，“中外合作办学快速发展，主管部门近几年加强了对项目外方大学办学资质的评审和中方高校的调研。”<br>
+ <br>
+　　曾助推高校教育国际化<br>
+ <br>
+　　“高考分数仅高出一本分数线5分，省内的一本院校很难进。选择中外合作办学项目不仅可享受到更优质的资源，也是为将来去国外留学做准备。”湖北省属某高校国际学院大二学生魏浩然谈及选择中外合作项目缘由时说。<br>
+ <br>
+　　魏浩然告诉记者，他们班多数学生家境较好，尽管本科2.5万元的学费较普通本科收费高出不少，但不出国门即可享受国际化的教育。<br>
+ <br>
+　　长江商报记者了解到，家境殷实，高考分数难以被理想学校普通专业录取，是家长、考生报考中外合作项目的主要原因之一。<br>
+ <br>
+　　“报志愿时，孩子当时的分数偏低，同时考虑让孩子出国留学。报考前曾在填报中外合作办学专业与中介出国留学之间考量，考虑孩子年龄小，中外合作办学项目不仅稳妥，且费用低。”李女士的女儿目前正在湖北大学一中外合作项目就读大二，谈及当初填报志愿时的选择时说，中外合作办学项目不仅能学到专业知识，还可提升外语能力，加之有出国学习的经历，将来就业较有优势。<br>
+ <br>
+　　“国内高校之前多与澳大利亚、英国等传统教育输出国家合作，如今项目已遍布包括美国在内的众多国家的高校。”耿殿磊谈及中外合作项目在国内受青睐的缘由时分析说，全国院校均向应用型大学转型，此类项目有助于推进国际化的进程，是各个学校国际化战略的一部分，同时此类项目收费较高，还可为学校增加部分收益。考生对国际化优质资源的需求的增加，也是其快速发展的主要原因。<br>
+<br>
+报考前须上官网查询<br>
+ <br>
+　　为什么现在对中外办学范围逐渐收窄？据中外合作办学试点评估有关资料显示，中外合作办学引进的教育资源总体水平不高，国家关于外教、外方课程、授课时数等要达到1/3的比例未能得到严格执行。中外合作办学的可持续发展受经费、师资和管理等因素影响，同时也影响着共同课程的开发。<br>
+ <br>
+　　耿殿磊介绍，国内中外办学项目专业设立上，长期以来多为办学成本偏低的商科、管理、计算机等专业，诸如办学成本比高的工科、艺术，因要投入相关设施、实验室，以致难以引进外方资源优质资源。<br>
+ <br>
+　　针对中外合作办学项目近几年存在的问题。耿殿磊认为，除了师资的派遣，一些项目存在中、外双方课程及培养方案融合度不够，课程安排及授课上生搬硬套。同时，个别外方大学因教育输出的动机不纯，在国内多个高校开设“连锁店”，以致外籍教师集中授课。<br>
+ <br>
+　　耿殿磊表示，2013年教育部曾专门发布相关文件，对外方在不同高校办“连锁店”只重数量、不重质量，及中介包办合作办学等违规行为进行通报。<br>
+ <br>
+　　据悉，目前市场上中外合作项目可以分为三类：一类是中外合作办学学历教育，由教育部或者教育厅审批后可以招生，并纳入统招计划；一类是中方院校和境外院校签订学分互认协议；还有一类是出国留学培训。<br>
+ <br>
+　　耿殿磊提醒考生，除第一类为中外合作办学项目，其余仅能称为国际合作办学或联合国际办学，考生在报考就读此类专业时，勿与中外合作办学项目混淆。“中外合作办学项目均在教育部相关网上有相关公示，考生在报考前可通过网上查询。”<br>
+ <br>
+　　中外合作办学建引退机制<br>
+ <br>
+　　目前，我国已经采取了中外合作办学水平评估、中外合作办学项目审核等多种手段来规范办学行为，但仍有诸多问题须进一步完善。<br>
+ <br>
+　　复旦大学高等教育研究所所长熊庆年曾在接受媒体采访时呼吁，我国应尽快建立外籍教师的师资认证系统，对外籍教师的教学资格和水平进行严格审查。同时，学校也要加强对合作方选派外籍教师的管理，切实保障学生的利益。<br>
+ <br>
+　　“第三方评估机构可将用人单位专家纳入评估小组中，用人单位的评价是对项目办学质量最有效的评判，还需邀请所在专业领域专家组成评估库，并对其基本教学条件、教学质量、学生满意度进行评估。”耿殿磊则认为。<br>
+ <br>
+　　今年5月中旬，中外合作办学机构院长联席会第二次会议在武汉召开，教育部国际合作与交流司涉外办学处副处长王义介绍，我国今后将严把资源入口关，真正引进强校名校教育资源，优化学科专业结构，重点支持高校在理工农医等自然科学领域及先进制造现代农业和新兴产业等领域开放合作办学；严格控制外国高校连锁办学，防止低成本重复性学科建设，推动中外合作办学向高质量建设阶段迈进。<br>
+ <br>
+　　另一方面，我国还将加强中外合作办学质量保障体系建设，建立定期开展质量评估工作，规范办学秩序，加大处罚和引退机制建设，淘汰部分未达到法定办学要求、未按合作办学协议约定投入办学资源以及质量评价较差的机构和项目。<br>
+</div>
+													</td>
+												
+											
+										</tr>
+										
+											
+												
+													
+														
+															<tr align="left">
+																<td>&nbsp;</td>
+															</tr>
+															<tr align="left">
+																<td><font color="red">帖子附图:</font></td>
+															</tr>
+															<tr align="center">
+																
+																	<td><a href="http://tpic.home.news.cn/xhForum/xhdisk003/M00/15/41/wKhJCVV1RTQEAAAAAAAAAAAAAAA599.jpg" target="_blank"> <img src="http://tpic.home.news.cn/xhForum/xhdisk003/M00/15/41/wKhJCVV1RTQEAAAAAAAAAAAAAAA599.jpg" border="0"/> </a></td>
+																
+																
+															</tr>
+														
+														
+														
+													
+													
+														<tr>
+															<td>
+															描述：武汉一高校中外联合办学园区,留学生从园区前走过。
+															</td>
+														</tr>
+													
+												
+											
+										
+
+										
+											<tr align="left">
+												<td><br /> <br />
+												</td>
+											</tr>
+											
+											
+												
+												<tr align="left">
+													<td><br /></td>
+												</tr>
+												
+												
+													<tr align="left">
+														<td><IFRAME
+																src="http://www.xinhuanet.com/forum/rtlj.htm"
+																frameBorder=0 width=710 height=610></IFRAME></td>
+													</tr>
+												
+												 
+												
+											
+										
+
+									</table>
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											
+											<td width="563" align="right">
+												<!-- 只有主贴下显示分享按钮 -->
+												
+													
+													
+														
+															
+																
+																	
+																		
+																	
+																
+																
+															
+														
+													
+													<div id="share">
+														分享到：  <span>
+															<a href="javascript:;"
+																onclick="share2()" class="hei12" title="分享到新华微博"> <IMG src="http://tmisc.home.news.cn/forum/xinhuawb.gif"
+																	width="16" height="16" hspace="2" border="0" align="absmiddle" />新华微博</a>
+														</span>
+														<span>
+															<a id="sinar" title="分享到新浪微博" href="javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://v.t.sina.com.cn/share/share.php?appkey=649106854',u=z||d.location,p=['&url=',e(u),'?&title=',e(t||d.title),'&source=',e(r),'&sourceUrl=',e(l),'&content=',c||'gb2312','&pic=http://tpic.home.news.cn/xhForum/xhdisk003/M00/15/41/wKhJCVV1RTQEAAAAAAAAAAAAAAA599.jpg','&searchPic=false',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=600,height=430,left=',(s.width-600)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','',document.title,'','utf-8'));">
+															<img src="http://tmisc.home.news.cn/forum/sinawb.gif" alt="分享到新浪微博" width="20" height="16" hspace="2" border="0" align="absmiddle" />新浪微博</a> 
+														</span>
+														<span>
+															<a href="javascript:window.open('http://v.t.qq.com/share/share.php?url='+encodeURIComponent(document.location)+'&amp;appkey=649106854&amp;site=http://www.xinhuanet.com/&amp;pic='+encodeURI('http://tpic.home.news.cn/xhForum/xhdisk003/M00/15/41/wKhJCVV1RTQEAAAAAAAAAAAAAAA599.jpg')+'&amp;title='+encodeURI(document.title),'', 'width=700, height=680, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, location=yes, resizable=no, status=no' ); void 0;"
+																title="分享到腾讯微博"> <img src="http://tmisc.home.news.cn/forum/qqwb.png" alt="分享到腾讯微博" width="16" height="16"
+																	hspace="2" border="0" align="absmiddle" />腾讯微博
+															</a>
+														</span>	
+														<span><a href="/showcoder/showc.do?id=136882338&title=百余本科以下专业停办 湖北“中外合作办学”面临重新洗牌&" target="_blank" title="分享到微信">
+																<img src="http://tmisc.home.news.cn/forum/weixin.png"  alt="分享到微信" width="19" height="16"
+																	hspace="2" border="0" align="absmiddle"/>微信</a></span>
+													</div>
+												
+											</td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addRevert('0');">回复</a> </span>
+											</td>
+											<td width="13"></td>
+											<td width="40" align="center" bgcolor="#911C22"><span class="hk"><a href="#Editor"
+													onClick="addQuote('1');"> 引用</a> </span>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+										<tr>
+											<td height="10"></td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0" height="27" bgcolor="#e4e4e5" class="ip">
+										<tr>
+											<td width="14"></td>
+											<td width="231">谢谢您的阅读, 您是本文第<span class="hong12"> <b>460</b> </span>个阅览者</td>
+											<td align="right">
+
+												
+
+
+												</td>
+										</tr>
+									</table> 
+										
+										
+										
+									</td>
+							</tr>
+						
+
+						<tr>
+							<td height="17">&nbsp;</td>
+						</tr>
+
+						
+							<tr>
+								<td style="border:1px solid #dedede;">
+									<form method="post" action="/newPost.do" name="bbsedit" enctype="multipart/form-data" onSubmit="return checkReply(this)">
+
+										
+
+										<table width="100%" border="0" cellpadding="0" cellspacing="0" class="hei12">
+											<tr>
+												<td height="5" colspan="5" align="right"><a name="replyArea"></a>&nbsp;</td>
+											</tr>
+											<tr>
+												<td width="9%" align="center">标题</td>
+												<td width="3%" align="center"></td>
+												<td width="47%" align="left"><input name="title" type="text" id="title" size="40" maxlength="40"
+													onKeyUp="countTitleChars();" /></td>
+												<td width="19%">(当前可输入字数:<span id="title_num_leave" class="hong12">50</span>) <script>countTitleChars();</script>
+												</td>
+												<td width="14%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td height="20" colspan="5" align="right">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align="center">内容</td>
+												<td height="257" colspan="4" align="left"><textarea name="content" cols="80" rows="2" style="display:none"
+														onChange="GetActiveText(this.id);" onClick="GetActiveText(this.id);" onFocus="GetActiveText(this.id);"></textarea> <iframe
+														id="Editor" name="Editor" src="/editor.jsp?ubb=0&id=content&len=5000" frameborder="0" marginheight="0"
+														marginwidth="0" scrolling="no" style="height:257px;width:600px"></iframe>
+												</td>
+											</tr>
+
+											<tr>
+												<td height="20" colspan="5" align="right">&nbsp;</td>
+											</tr>
+											<tr>
+												<td>&nbsp;</td>
+												<td colspan="4"><table width="612" border="0" cellpadding="1" cellspacing="1" bgcolor="#DEDEDE" class="hei12">
+														<tr>
+															<input type="hidden" id="totalAttach" value="5" />
+															<td height="30" align="left" bgcolor="#ECECEC"><strong>&nbsp;上传单张本地图片</strong> 许可格式：jpg, gif, png 许可大小：小于1024K<input type="button" onclick="addAttachLine();" value="添加一张" /></td>
+														</tr>
+														<tr><td  height="30" align="left" bgcolor="#FFFFFF">&nbsp;
+															<fieldset>
+																<legend>附件信息</legend>
+																<p class="fileP">图片：<input type="file" name="picfile" size="56" style="height:22;"></p>
+																<p class="fileP" style="margin-top: 10px;">
+																	<span style="height: 100%; vertical-align: middle;">描述：</span>
+																	<textarea name="descp" placeholder="限200字" onkeyup="checkDescpCount(this)"></textarea>
+																</p>
+																<p class="fileP"><span class="descpTips"></span></p>
+															</fieldset>
+														</td></tr>
+													</table>
+													<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+														<tr>
+															<td width="100%" height="12">&nbsp;</td>
+														</tr>
+													</table>
+													<table width="612" border="0" cellpadding="1" cellspacing="1" bgcolor="#DEDEDE" class="hei12">
+														<tr>
+															<td height="30" align="left" bgcolor="#ECECEC" width="100"><strong>&nbsp;&nbsp;&nbsp;&nbsp;更多功能</strong>
+															</td>
+															<td bgcolor="#ECECEC">
+																<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td>
+																			<table width="100%" border="0" cellspacing="0" cellpadding="0" height="35">
+																				<tr>
+																					<td width="25%" height="40"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/photo/control/imagePost.do" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon01.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/photo/control/imagePost.do" target="_blank">批量上传图片</a>
+																								</td>
+																							</tr>
+																						</table>
+																					</td>
+																					<td width="20%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/video/control/videoArticlePost.do" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon02.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/video/control/videoArticlePost.do" target="_blank">上传视频</a>
+																								</td>
+																							</tr>
+																						</table></td>
+																					<td width="40%">
+																						<!--
+																						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/music/control/musicFilePost.do?type=2" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon03.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/music/control/musicFilePost.do?type=2" target="_blank">上传音乐</a><span
+																									class="l12"><font color="#009900"><a
+																											href="http://news.xinhuanet.com/forum/2008-11/13/content_10352089.htm" target="_blank">（如何引用）</a> </font> </span>
+																								</td>
+																							</tr>
+																						</table>-->
+																						</td>
+																					<td width="20%"></td>
+																				</tr>
+																			</table></td>
+																	</tr>
+																	<tr>
+																		<td>
+																			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																				<tr>
+																					<td width="18%" height="35"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/blog/control/home.do?articleid=1" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon04.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/blog/control/home.do?articleid=1" target="_blank">写博客 </a>
+																								</td>
+																							</tr>
+																						</table>
+																					</td>
+																					<td width="20%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/bookmark/control/bookmarkFormView.do" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon05.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><A id="scbt" onClick="encodeUri('scbt')" href="">收藏本贴</a>
+																								</td>
+																							</tr>
+																						</table></td>
+																					<td width="20%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/mail/control/mailLaunch.do?view=list" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon06.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/mail/control/mailLaunch.do?view=list" target="_blank">接收邮件</a>
+																								</td>
+																							</tr>
+																						</table></td>
+																					<td width="20%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+																							<tr>
+																								<td width="40"><a href="http://my.home.news.cn/calendar/control/home.do" target="_blank"> <img
+																										src="http://tmisc.home.news.cn/forum/images/2010/forum_icon07.gif" width="39" height="22" border="0"> </a>
+																								</td>
+																								<td><a href="http://my.home.news.cn/calendar/control/home.do" target="_blank">使用日历</a>
+																								</td>
+																							</tr>
+																						</table>
+																					</td>
+																					<td width="22%"></td>
+																				</tr>
+																			</table></td>
+																	</tr>
+																</table></td>
+														</tr>
+													</table>
+													<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+														<tr>
+															<td width="100%" height="12"></td>
+														</tr>
+													</table>
+													<table width="612" border="0" cellpadding="0" cellspacing="0" class="hei12">
+														<tr>
+															<td width="120" align="left"><strong>&nbsp;回复通知</strong>
+															</td>
+															<td width="20" align="left"><input type="radio" name="notifyid" id="radio" value="0" checked="checked"/></td>
+															<td width="60" align="left">不通知</td>
+															<td width="20" align="left"><input type="radio" name="notifyid" value="2" id="radio" /></td>
+															<td width="100" align="left">通过论坛短消息</td>
+															<td align="left">&nbsp;</td>
+														</tr>
+														<tr>
+															<td colspan="6" align="left" bgcolor="#FFFFFF">&nbsp;</td>
+														</tr>
+													</table>
+													<table width="100%" border="0" cellpadding="0" cellspacing="0">
+														<tr>
+															<td width="100%" height="12"><table width="612" border="0" align="center" cellpadding="0" cellspacing="0" class="hei12"
+																	bgcolor="#ECECEC">
+																	<tr>
+																		<td valign="middle">
+																				<span class="hei12">用户名: <input type="text" name="userid" size="20" maxlength="20" style="height:20" /> 密码:<input
+																					type="password" name="password" size="20" maxlength="20" style="height:20" />
+																					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://my.home.news.cn/profile/passport.do" target="_blank"> <font
+																						color="#FF0000">注册新用户</font> </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://login.home.news.cn/getPwd.jsp" target="_blank">
+																						<font color="#FF0000">找回密码</font> </a> </span>
+																			
+																		</td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+													</table>
+													<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+														<tr>
+															<td width="100%" height="12"></td>
+														</tr>
+													</table></td>
+											</tr>
+											<tr>
+												<td height="40" colspan="5">
+													<table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+														<tr>
+															<td width="50%" align="center" valign="top"><input name="Submit" type="image"
+																src="http://tmisc.home.news.cn/forum/images/2010/forum_ft11.gif" width="73" height="25"><input type="hidden"
+																name="pid" value="0">
+															</td>
+															<td width="50%" align="center" valign="top">
+																<input name="reset" type="image" src="http://tmisc.home.news.cn/forum/images/2010/forum_ft12.gif"
+																 width="73" height="25" border="0" onclick="reset();return(false)" /> 
+																<input type="hidden" name="bid" value="82">
+																<input type="hidden" name="hid" value="373" />
+																<input type="hidden" name="parentid" value="136882338" />
+																<input type="hidden" name="deepflag" value="0">
+																<input type="hidden" name="arttype" value="0">
+																<input type="hidden" name="pnum" value="1" />
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+											<tr>
+												<td colspan="5">&nbsp;</td>
+											</tr>
+										</table>
+									</form></td>
+							</tr>
+						
+
+						
+
+					</table></td>
+				<td width="15" style="border-right:1px solid #d6d6d6;">&nbsp;</td>
+				<!--  -->
+				<td width="253" style="border-left:4px solid #dedede;" valign="top" align="left">
+					<iframe name="yl1" marginwidth="0" marginheight="0" src="http://www.xinhuanet.com/forum/zt2014/qz10417fzltend/index.htm" 
+					frameborder="0" id="leftIframe" scrolling="no"></iframe>
+<script type="text/javascript">
+var cpro_id="u2070375";
+(window["cproStyleApi"] = window["cproStyleApi"] || {})[cpro_id]={at:"3",rsi0:"250",rsi1:"300",pat:"3",tn:"baiduCustNativeAD",rss1:"#FFFFFF",conBW:"1",adp:"1",ptt:"0",titFF:"%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91",titFS:"14",rss2:"#000000",titSU:"0",tft:"0",tlt:"1"}
+</script>
+<script type="text/javascript">
+    /*社区内页细览画中画二250*250 创建于 2015-04-27*/
+    var cpro_id = "u2070361";
+</script>
+<!-- <script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script> -->
+<!-- <div><script type="text/javascript" src="http://f2.adpush.cn/ap/adspacejs/57573.js"></script></div> -->
+<script type="text/javascript" src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|TppAd|LtHzh250t200&db=xinhuanet&border=0&local=yes&js=ie" charset="gbk"></script>
+				</td>
+				<!--  -->
+			</tr>
+		</table>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td height="60">&nbsp;</td>
+			</tr>
+		</table>
+		<form name="mailto" method="post" action="/view/common/mailto.jsp" target="_blank">
+			<input type="hidden" name="title" /> <input type="hidden" name="url" />
+		</form>
+<script language="JavaScript">
+function encodeUri(id){
+     var title = document.getElementById("title").innerText;
+	 var url = location.href;
+	 title = encodeURIComponent(title);
+	 url = encodeURIComponent(url);
+	 var urlHref="http://my.home.news.cn/bookmark/control/bookmarkFormView.do?title="+ title + "&url="+url;
+	 document.getElementById(id).href=urlHref; 
+	}
+</script>
+<script type="text/javascript">
+var _w = 109 , _h = 16;
+var cUrl=document.location.href;
+var regexp1 = /http:\/\/.*\/c_([0-9]+).htm/g;
+var id = cUrl.replace(regexp1,'$1');
+var regexp2 = /(.+\/)(\w+\.\w+)(?:\?.+)?/g;
+var tempstr;
+var pic1="";
+var arEls = document.getElementsByTagName("img");
+for( var i=0;i<arEls.length;i++ ){
+       tempstr=arEls[i].src.replace(regexp2, '$2');  
+       if(tempstr.indexOf(id)>=0)
+       pic1+=arEls[i].src+",";
+}
+//设置图片地址
+pic1='http://tpic.home.news.cn/xhForum/xhdisk003/M00/15/41/wKhJCVV1RTQEAAAAAAAAAAAAAAA599.jpg';
+pic1 = pic1.replace(/\|\|/g,","); //由于picUrl是用||分割的,新华微博用,分割,所以要进行替换,  /g代表替换所有
+
+var param = {
+  url:'' || location.href,/**分享url的路径(可选,默认为所在页面的href)*/
+  type:'6',
+  appkey:'', /**您申请的应用appkey,显示分享来源(可选)4dd7a69ed7de049c2f45c8d6a335e75b*/
+  title:''|| document.title, /**分享的文字内容(可选，默认为所在页面的title)*/
+  pic:pic1, /**分享图片的路径(可选)*/
+  rnd:new Date().valueOf()
+}
+var temp = [];
+for( var p in param ){
+  temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )  
+}
+// (function(){
+// var t='<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://www.news.cn/weibo/share.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>';
+// document.getElementById("xhwbShareArea").innerHTML=t;
+// //document.getElementById("xhwbShareArea1").innerHTML=t;
+// })()
+function share2() {
+window.open("http://t.home.news.cn/share.jsp?"
+	+ temp.join('&'), "_blank", "width=615,height=505");
+}
+</script>
+	<script type="text/javascript" src="http://www.xinhuanet.com/weibo/follow/callbackf.js" charset="utf-8"></script>
+	
+	<div style="display:none">
+			<script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script>
+			<script type="text/javascript">
+				wd_paramtracker("_wdxid=010070040030000000000000012101920136882338");
+			</script>
+			<noscript>
+				<img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010070040030000000000000012101920136882338" border="0" />
+			</noscript>
+		</div>
+	</div>
+<script type="text/javascript">
+var totalAttach = $("#totalAttach").val(); //最多添加5个附件
+//添加一个附件行
+function addAttachLine(){
+	if($("input[name='picfile']").length < totalAttach) {
+		$("input[name='picfile']:last").parent().parent().after('<fieldset><legend>附件信息</legend><p class="fileP">图片：<input type="file" name="picfile" size="56" style="height:22;"></p><p class="fileP"><span style="height: 100%; vertical-align: middle;">描述：</span><textarea name="descp" placeholder="限200字" onkeyup="checkDescpCount(this)"></textarea></p><p class="fileP"><span class="descpTips"></span><span class="delBtn"><input type="button" value="删除" onclick="removePicInput(this)" /></span></p></fieldset>');
+	}else{
+		alert("最多只能添加"+totalAttach+"个附件");
+	}
+}
+//删除一个附件行
+function removePicInput(obj){
+	$(obj).parent().parent().parent().remove();
+}
+
+</script>
+
+<script type="text/javascript">
+
+function postLike(postId){
+	like(postId, function(){
+		
+	});
+	document.location.reload();
+}
+</script>
+</body>
+</html>
+

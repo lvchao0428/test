@@ -1,0 +1,531 @@
+<!--UINFO: http://guba.eastmoney.com/news,600503,210085343_1.html	length=35360&last_modified=0&time_saved=1450677192&charset=utf-8-->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>今天e互动的一些集中回答_华丽家族(600503)股吧_东方财富网股吧</title>
+<meta content="今天e互动的一些集中回答_华丽家族(600503)_华丽家族股吧_600503股吧_股吧_东方财富网股吧_华丽家族吧最新行情_股吧投资指南_华丽家族吧k线图分析_股吧行情分析" name="keywords">
+<meta content="今天e互动的一些集中回答_华丽家族_股吧_东方财富网股吧_人气财经股吧_guba.eastmoney.com" name="description">
+
+<link rel="stylesheet" href="//gbfek.dfcfw.com/gubav5/css/news_c_e2e2b382cb.css" />
+<base target="_blank" />
+
+<script>
+	var barcode = "600503";
+	var stockcode = "6005031";
+	var code = "600503";
+	var topicid="210085343";
+	var zwuser = "平静股心";
+	var guba_type = "2";
+	var dis_wzc = false;
+	var stockname = "华丽家族";
+    var plqx=0;
+    
+	var OuterCode = "600503";
+    var Category="100";
+    var Division="1";
+    var Market="100";
+    var Type="100";
+    var QuoteCode="6005031";
+    var BarType="0";
+	var CodeWithMarket = "600503.sh";
+    var qq_code = "";var qq_code2 = "";
+    var topictype = 0;
+</script>
+</head>
+<body class="hlbody">
+<div id="header">
+	<div class="gbbody" id="headergbbody">
+		<div id="topnavindex"><a href="http://www.eastmoney.com/">东方财富网</a></div>
+		<ul id="topnav">
+			<li><a href="http://guba.eastmoney.com/">股吧首页</a></li>
+			<li><a href="//guba.eastmoney.com/jj.html">基金吧首页</a></li>
+			<li><a href="http://iguba.eastmoney.com/">我的股吧</a></li>
+			<li><a href="remenba.aspx?type=1">热门吧</a></li>
+			<li><a href="/ft_list.aspx">股吧访谈</a></li>
+			<!-- <li><a href="http://quote.eastmoney.com/favor/default.html">自选股行情</a></li> -->
+			<li><a href="http://js5.eastmoney.com/tg.aspx?ID=1698" target="_blank">手机版</a></li>
+			<!-- <li><a href="remenba.aspx?type=2">热门主题吧</a></li> -->
+		</ul>
+		<form method="GET" action="/search.aspx" id="topnavsearch">
+			<input type="text" name="t" id="topnavskey" placeholder="搜索 股票/讨论/用户" autocomplete="off" /><input type="submit" value=" " id="topnavsubmit" title="点击开始搜索" />
+			<div id="topnavsearchre">
+				<ul></ul>
+			</div>
+		</form>
+		<ul id="topnavper">
+			<li class="topbarhaslogin" id="topbarloginuserdiv" style="display:none;"><strong><span class="headerusername"></span></strong></li>
+			<li class="topbarhaslogin" style="display: none;"><span class="tnavsel">消息<em class="tnavselic"></em>
+				<div class="topnavdown">
+					<div class="topnavdownt">消息<em class="tnavselid"></em></div>
+					<ul class="topnavdownul topnavdownulmsgul">
+						<li><a href="http://iguba.eastmoney.com/replyme">&nbsp;&nbsp;查看新回复<em></em></a></li>
+						<li><a href="http://iguba.eastmoney.com/atmereply">&nbsp;&nbsp;查看新@我的<em></em></a></li>
+						<li><a href="http://iguba.eastmoney.com/myfans">&nbsp;&nbsp;查看新粉丝<em></em></a></li>
+						<li><a href="javascript:;" target="_self" class="alarm" data-type="1">&nbsp;&nbsp;股价提醒<em></em></a></li>
+						<li><a href="javascript:;" target="_self" class="alarm" data-type="2">&nbsp;&nbsp;公告提醒<em></em></a></li>
+						<li><a href="javascript:;" target="_self" class="alarm" data-type="3">&nbsp;&nbsp;研报提醒<em></em></a></li>
+						<li class="nobg"><a href="javascript:;" class="alarm" data-type="4" target="_self">&nbsp;&nbsp;数据提醒<em></em></a></li>
+					</ul>
+					</div>
+				</span>
+			</li>
+			<li class="topbarhaslogin" style="display:none;"><span class="tnavsel">设置<em class="tnavselic"></em>
+				<div class="topnavdown">
+					<div class="topnavdownt">设置<em class="tnavselid"></em></div>
+					<ul class="topnavdownul">
+						<li><a href="http://iguba.eastmoney.com/setting" target="_blank">个人设置</a></li>
+						<li><a href="http://passport.eastmoney.com/UpdatePass.EmUser" target="_blank">修改密码</a></li>
+						<li><a href="http://iguba.eastmoney.com/setting/privacy" target="_blank">隐私设置</a></li>
+						<li><a href="http://iguba.eastmoney.com/setting/message" target="_blank">消息设置</a></li>
+						<li><a href="http://iguba.eastmoney.com/jiav.aspx" target="_blank">V认证</a></li>
+						<li class="nobg"><a id="topbarlogoutlink" href="javascript:;" target="_self">退出</a></li>
+					</ul>
+					</div>
+				</span>
+			</li>
+			<li class="topbarlogin tnavselloginfix">您好，欢迎来股吧！  </li>
+			<li class="topbarlogin tnavsellogin"><a href="javascript:;" target="_self"><strong>登录/注册</strong></a>
+				<div id="headerlogin" class="topnavdown clearfix">
+					<div id="fast">
+						<div class="t">使用合作网站帐号登录</div>
+						<div class="b">
+							<a href="javascript:;" target="_self" class="headerlogintlink qqlogin"><em class="qqicon"></em>腾讯QQ帐号登录</a>
+							<a href="javascript:;" target="_self" class="headerlogintlink sinalogin"><em class="sinaicon"></em>新浪微博帐号登录</a>
+						</div>
+						
+					</div>
+					<div id="hlogin">
+						<div id="hlclose" onclick="$('#headerlogin').hide();">X</div>
+						<div class="timg"><a href="http://passport.eastmoney.com/PhoneReg.EmUser">5秒注册</a></div>
+						<div class="t">已有自选股、股吧、博客帐号，可直接登录</div>
+						<div id="hloginerror">&nbsp;</div>
+						<form method="post" action="" id="headnaviloginform" target="_self">
+							<div class="i"><label>登录名：<input type="text" class="hinput" placeholder="手机/邮箱名/用户名" id="husername" autocomplete="off" /></label></div>
+							<div class="i"><label>密　码：<input type="password" class="hinput" placeholder="请输入登录密码" id="hpassword" /></label></div>
+							<div class="i" id="hlvcodediv"><label>验证码：<input type="text" class="hinput3" placeholder="请输入验证码" id="hlvcode" /></label> <img src="" id="hlvcodeimg" title="点击更换验证码" /></div>
+							<div class="i">　　　　<input type="submit" value="登录" class="hinput2" id="hlformsubmit" /> &nbsp;　 <a href="http://passport.eastmoney.com/FindPwd.EmUser" class="hlink">忘记密码？</a></div>
+						</form>
+					</div>
+				</div>			
+			</li>
+		</ul>
+	</div>
+</div>
+
+<div class="gbbody"><div class="dh10"></div><iframe width="980" height="60" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=1048&op=1" ></iframe></div>
+
+<div id="headerban" class="gbbody">
+	<div id="headerbanlogo"><a href="/"><img src="images/gubahlogo.png" width="252" height="52" alt="股吧" /></a></div>
+	<div id="gbhsearch">
+		<form id="gbhscform">
+			<ul id="gbhsctab">
+				<li class="on">按吧名搜索</li>
+				<li>按内容搜索</li>
+				<li>按作者搜索</li>
+			</ul>
+			<input type="text" name="" id="gbhsckey" /><input type="submit" value="股吧搜索" id="gbhscsbm" />
+		</form>
+	</div>
+	<div id="gbhri">
+		热门：<a href="/list,000002.html">万科A吧</a> <a href="/list,000520.html">长航凤凰吧</a> <a href="/list,000629.html">攀钢钒钛吧</a> 
+	</div>
+</div>
+
+<div id="stockheader" class="gbbody">
+	<span id="stockif">
+		<span id="stockname" data-popstock="600503" data-poptype="1"><a href="/list,600503.html">华丽家族吧</a></span>
+	</span>
+	<span id="header_stock_btns"></span>
+	<div id="zjfw" class="zjfw"><ul><li class="zjfwdb">您最近访问的吧：</li><li><span id="baHistory"></span></li></ul></div>
+</div>
+<div class="zwheadbline gbbody"><div class="zwheadblineb"></div></div>
+<div class="gbbody">
+<div id="mainbody">
+	
+	<div class="zwheadpager">
+		<div class="zwhpager"></div>
+		<div class="zwhpagerr"><a href="list,600503.html">返回华丽家族吧&gt;&gt;</a></div>
+	</div>
+	<div id="zwmbti">
+		<div id="zwmbtili"><a href="http://js1.eastmoney.com/tg.aspx?ID=3979" target="_blank">[头条]三因素致A股变异</a></div>
+		<div id="zwmbtilr"></div>
+	</div>
+	
+	<div id="zwcontent" >
+		
+		<div id="zwcontt">
+			<div id="zwconttphoto"><a href="http://iguba.eastmoney.com/7408094292539266" data-poptype="2" data-popper="7408094292539266"><img src="http://avator.eastmoney.com/qface/7408094292539266/50" width="50" height="50" class="userphoto" /></a></div>
+			<div id="zwconttb">
+				<div id="zwconttbn"><strong><a href="http://iguba.eastmoney.com/7408094292539266"  data-popper="7408094292539266" data-poptype="1">平静股心</a></strong>  <span class="influence" data-uid="7408094292539266"></span></div>
+                <div class="zwfbtime">发表于 2015-11-02 17:26:11 东方财富电脑版</div>                                                                                         
+				
+			</div>
+			<div id="zwconttbtns">
+				<a href="http://iguba.eastmoney.com/secr.aspx?code=600503&id=210085343" style="display:none;" id="dongmilink" class="graylink">董秘直通车</a>&ensp;<a href="javascript:;" target="_self" id="jubaolink" class="graylink">举报</a>
+			</div>
+		</div>
+		<div class="zwcontentmain">
+			
+			<div id="zwconttbt">今天e互动的一些集中回答 </div>
+			<div id="zwconbody">
+			<div class="stockcodec">
+				上大人<br>:华丽家族(600503)董秘你好：请问徐翔旗下管理的基金除了定增的9000万股，至今尚持有多少股数？另外盛传贵司涉嫌徐翔的内幕交易是否属实？望能尽快给予回复，谢谢！<br>1小时前 来自 IOS<br>华丽家族<br>您好,根据公司2015年第三季度报告，截至2015年9月30日，上海泽熙增煦投资中心持有公司股数90,000,000股。首先，此次上海泽熙增煦投资中心被调查事件与公司并无关系；其次，上海泽熙增煦投资中心对于公司只是进行财务投资，没有派驻董监高到公司参与经营管理，且承诺自2015年9月7日至2016年1月8日期间不减持华丽家族股份。目前公司业务一切正常，项目进展顺利。感谢您对公司的关注。<br><br>冰之火<br>:华丽家族(600503)在华丽家族股份有限公司 关于杭州南江机器人股份有限公司与浙江开元酒店管理有限公司签订战略合作框架协议的公告中，贵公司提到有关协议内容：2015年10月完成前台接待机器人、百事通机器人.为何至今没有有关公告。<br>10月30日 08:32 来自 网站<br>华丽家族<br>您好，杭州南江机器人股份有限公司与浙江开元酒店管理有限公司签订的《战略合作框架协议》中规定，甲方（杭州南江机器人股份有限公司）负责提供酒店服务机器人系列化产品、机器人云服务平台等技术服务；乙方（浙江开元酒店管理有限公司）负责提供酒店相关信息系统、行业定制应用，同时负责整个智慧酒店整体解决方案的实施、运营及推广。由于开元方负责的酒店相关信息系统、行业定制应用并未按时完成，导致了进展有所延缓。感谢您对公司的关注。<br><br>alleni111<br>:华丽家族(600503)中车发布的超级电容是和宁波墨西一起研究的吗？公司是否考虑并购其他成熟的石墨烯公司做大<br>10月29日 10:35 来自 网站<br>华丽家族<br>您好，宁波墨西与宁波南车新能源科技有限公司现处于科研合作阶段，共同申报了科技项目和经费。感谢您对公司的关注。<br><br>云一笑<br>:华丽家族(600503)公司日前表示，10月中旬试飞的“圆梦号”属于“智慧号”飞艇的序列，“圆梦号”为试飞需要而起的名字。公司在今年5月份也披露，南江空天具体产品包括“智慧号”与“护卫号”临近空间飞行器。在“智慧”号系列飞艇“圆梦号”圆满试飞后，“护卫号”临近空间飞行器主要用途是什么？预计将何时试飞？谢谢<br>10月26日 08:33 来自 网站<br>华丽家族<br>您好，“护卫号”临近空间飞行器主要用途是可有效覆盖城市和郊区或我国沿海或西部边境地区上空，实时提供各类观测数据。公司临近空间飞行器的下次试飞尚在计划中，感谢您对公司的关注。<br><br>云一笑<br>:华丽家族(600503)近日，网络媒体报道，中国科学院重庆绿色智能技术研究院在柔性石墨烯钙钛矿太阳能电池研发上取得新进展，制备出效率为12%的标准钙钛矿太阳能电池，同时制备的石墨烯电极透过率大于85%，方阻小于50欧方。请问，该信息是否属实？谢谢<br>10月26日 17:36 来自 网站<br>华丽家族 
+				</div>
+			
+
+	</div>
+
+		</div>
+		<div class="zwconbtns clearfix">
+			<div class="zwconbtnsi" id="zwconbtnsi_pl" onclick="try{gudong.stat(3,null);}catch (e){};">
+				<div class="zwconbtnsii"></div>
+				<a href="javascript:;" target="_self">我要评论</a>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_zf" onclick="try{gudong.stat(4,null);}catch (e){};">
+				<div class="zwconbtnsii"></div>
+				<a href="javascript:;" target="_self">转发(<span id="zfnums" class="red">1</span>)</a>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_z">
+				<div class="zwconbtnsii"></div>
+				<span id="zwpraise"><a href="javascript:;" target="_self">赞</a></span>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_sc">
+				<div class="zwconbtnsii"></div>
+				<span id="zwconbtsc"><a href="javascript:;" target="_self">收藏本帖</a></span>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_fx">
+				<div class="zwconbtnsia">
+					<div class="zwconbtnsii"></div>
+					<span id="zwconbtsc"><a href="javascript:;" target="_self">分享</a></span>
+				</div>
+			</div>
+			<div class="zwconbtnsi" id="zwconbtnsi_jb">
+				<div class="zwconbtnsii"></div>
+				<span id="zwpraise"><a href="javascript:;" target="_self">举报本帖</a></span>
+			</div>
+		</div>
+
+
+		<div class="gubamobilegg2014" id="zwcontentbgg" style="display:none; text-align:center;">
+			<ul><li><span class="red"><a href="http://stattg.eastmoney.com/10361" ><strong>IPO再次重启，万2.5开户打新！今年新股平均上涨4倍！！</strong></a></span>&nbsp;<span class="red"><a href="http://js5.eastmoney.com/tg.aspx?ID=2334 " ><strong>年末热炒高送转，哪些股值得布局？机构观点抢先看！</strong></a></span>&nbsp;<span class="red"><a href="http://stattg.eastmoney.com/10147" ><strong>机构私募都在用的炒股软件</strong></a></span>&nbsp;<span class="red"><a href="http://js1.eastmoney.com/tg.aspx?ID=3744" ><strong>三因素致A股变异 酿酒家电大涨</strong></a></span></li></ul>
+		</div>
+
+		<div class="clear"></div>
+
+	</div>
+	
+	<div id="zwcontab">
+		<ul>
+			<li class="on"><a href="news,600503,210085343.html" target="_self">全部评论（11）</a></li>
+			
+			<li  ><a href="news,600503,210085343,7408094292539266.html#storeply" target="_self">只看楼主发言</a></li>
+			
+		</ul>
+        
+		<div id="zwcontabsort">
+			排序<a href="news,600503,210085343.html#storeply" target="_self"><span class="on">最早</span></a><a href="news,600503,210085343,d.html#storeply" target="_self"><span >最近</span></a><a href="javascript:;" target="_self"><span id="zwshowzzbtn">最赞</span></a>
+		</div>
+        
+		<div class="clear"></div>
+	</div>
+	
+	<div id="zwlist">
+    
+		<div class="zwli clearfix" id="zwli8019449907" data-huifuid="8019449907" data-huifuuid="2966111957309394">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="8019449907">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/2966111957309394"><img src="http://avator.eastmoney.com/qface/2966111957309394/30" data-popper="2966111957309394" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/2966111957309394"  data-popper="2966111957309394" data-poptype="1">梦回江南</a></span> <span class="influence" data-uid="2966111957309394"></span> </div>
+					<div class="zwlitime">发表于 2015-11-02  17:32:45</div>
+		
+                     
+					<div class="zwlitext stockcodec">感谢分享 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli8019456664" data-huifuid="8019456664" data-huifuuid="7402093951453636">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="8019456664">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/7402093951453636"><img src="http://avator.eastmoney.com/qface/7402093951453636/30" data-popper="7402093951453636" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/7402093951453636"  data-popper="7402093951453636" data-poptype="1">蓝天白云1971</a></span> <span class="influence" data-uid="7402093951453636"></span> </div>
+					<div class="zwlitime">发表于 2015-11-02  17:49:05</div>
+		
+                     
+					<div class="zwlitext stockcodec"><img src="http://gbres.dfcfw.com/face/emot/emot28.png" title="献花"/> </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli8019456715" data-huifuid="8019456715" data-huifuuid="9196113052135792">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="8019456715">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/9196113052135792"><img src="http://avator.eastmoney.com/qface/9196113052135792/30" data-popper="9196113052135792" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/9196113052135792"  data-popper="9196113052135792" data-poptype="1">股忘金来2015</a></span> <span class="influence" data-uid="9196113052135792"></span> </div>
+					<div class="zwlitime">发表于 2015-11-02  17:49:28</div>
+		
+                     
+					<div class="zwlitext stockcodec">一切正常，长线投资者可以放心该干嘛干嘛了，不要被盘面主力恐慌性大单吓倒，经统计，A股自成立以来，任何高位的套牢盘后面都被解放，所以不要为短期震荡吓走，何况华丽公司正处在经济转型的大方向上，必是未来的先行者 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli8019457791" data-huifuid="8019457791" data-huifuuid="9196113052135792">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="8019457791">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/9196113052135792"><img src="http://avator.eastmoney.com/qface/9196113052135792/30" data-popper="9196113052135792" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/9196113052135792"  data-popper="9196113052135792" data-poptype="1">股忘金来2015</a></span> <span class="influence" data-uid="9196113052135792"></span> </div>
+					<div class="zwlitime">发表于 2015-11-02  17:52:10</div>
+		
+                     
+					<div class="zwlitext stockcodec">其实管理层打击不公平交易，杜绝内幕交易是资本市场是中长期利好，谁还记得2004年打掉德隆系坐庄后，股市迎来了6000点的大涨？两轮股灾后，国家投入上万亿资金建仓，未来必是市场最大的多头和庄家，选好行业和未来的大方向，安心长线持股，不要被别有用心的人误骗走历史底部区间的筹码 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli8019459530" data-huifuid="8019459530" data-huifuuid="5626023731769048">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="8019459530">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/5626023731769048"><img src="http://avator.eastmoney.com/qface/5626023731769048/30" data-popper="5626023731769048" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/5626023731769048"  data-popper="5626023731769048" data-poptype="1">雨后飞虹6939</a></span> <span class="influence" data-uid="5626023731769048"></span> </div>
+					<div class="zwlitime">发表于 2015-11-02  17:56:24</div>
+		
+                     <div class="zwlitalkbox"><div class="zwlitalkboxh"><div class="zwlitalkboxph"><a href="http://iguba.eastmoney.com/9196113052135792" data-poptype="2" data-popper="9196113052135792"><img src="http://avator.eastmoney.com/qface/9196113052135792/50" width="30" height="30" class="userphoto" /></a></div><div class="zwlitalkboxuinfo"><div class="zwlitalkboxname zwnick"><a href="http://iguba.eastmoney.com/9196113052135792"  data-popper="9196113052135792" data-poptype="1">股忘金来2015</a>  <span class="influence" data-uid="9196113052135792"></span></div><div class="zwlitalkboxtime">发表于 2015-11-02 17:49:28</div></div></div><div class="zwlitalkboxtext">一切正常，长线投资者可以放心该干嘛干嘛了，不要被盘面主力恐慌性大单吓倒，经统计，A股自成立以来，任何高位的套牢盘后面都被解放，所以不要为短期震荡吓走，何况华丽公司正处在经济转型的大方向上，必是未来的先行者 </div></div>
+					<div class="zwlitext stockcodec">还在害人 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli8019460265" data-huifuid="8019460265" data-huifuuid="3009094405150812">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="8019460265">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/3009094405150812"><img src="http://avator.eastmoney.com/qface/3009094405150812/30" data-popper="3009094405150812" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/3009094405150812"  data-popper="3009094405150812" data-poptype="1">上善若水7831</a></span> <span class="influence" data-uid="3009094405150812"></span> </div>
+					<div class="zwlitime">发表于 2015-11-02  17:58:15</div>
+		
+                     
+					<div class="zwlitext stockcodec">顶 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli8019463866" data-huifuid="8019463866" data-huifuuid="8786094389259330">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="8019463866">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/8786094389259330"><img src="http://avator.eastmoney.com/qface/8786094389259330/30" data-popper="8786094389259330" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/8786094389259330"  data-popper="8786094389259330" data-poptype="1">qin2528</a></span> <span class="influence" data-uid="8786094389259330"></span> </div>
+					<div class="zwlitime">发表于 2015-11-02  18:07:45</div>
+		
+                     
+					<div class="zwlitext stockcodec">顶 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli8019473426" data-huifuid="8019473426" data-huifuuid="2844094027415156">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="8019473426">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/2844094027415156"><img src="http://avator.eastmoney.com/qface/2844094027415156/30" data-popper="2844094027415156" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/2844094027415156"  data-popper="2844094027415156" data-poptype="1">茫茫股海888888</a></span> <span class="influence" data-uid="2844094027415156"></span> </div>
+					<div class="zwlitime">发表于 2015-11-02  18:35:53</div>
+		
+                     
+					<div class="zwlitext stockcodec">顶上去 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli8019477570" data-huifuid="8019477570" data-huifuuid="7408094292539266">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="8019477570">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/7408094292539266"><img src="http://avator.eastmoney.com/qface/7408094292539266/30" data-popper="7408094292539266" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/7408094292539266"  data-popper="7408094292539266" data-poptype="1">平静股心</a></span> <span class="influence" data-uid="7408094292539266"></span> </div>
+					<div class="zwlitime">发表于 2015-11-02  18:47:31</div>
+		
+                     
+					<div class="zwlitext stockcodec">我要说的是：互动平台说泽熙调查和他们没关系，以后如果有可以据此索赔。 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        
+		<div class="zwli clearfix" id="zwli8019478279" data-huifuid="8019478279" data-huifuuid="7408094292539266">
+			<div class="zwjubao"><a href="javascript:;" target="_self" class="graylink" data-replyid="8019478279">举报本回复</a></div>
+			<div class="zwliimg"><a href="http://iguba.eastmoney.com/7408094292539266"><img src="http://avator.eastmoney.com/qface/7408094292539266/30" data-popper="7408094292539266" /></a> </div>
+			<div class="zwlitx">
+				<div class="zwlitxt">
+                     
+					<div class="zwlianame"><span class="zwnick"><a href="http://iguba.eastmoney.com/7408094292539266"  data-popper="7408094292539266" data-poptype="1">平静股心</a></span> <span class="influence" data-uid="7408094292539266"></span> </div>
+					<div class="zwlitime">发表于 2015-11-02  18:49:32</div>
+		
+                     
+					<div class="zwlitext stockcodec">我还要说的是没有关系，那么这场风波会很快过去，没有什么 </div>
+					<div class="zwlitxtbc">
+						<div class="zwlitxb"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+        <script>var num=3649;var count=205678;</script>
+        <script>
+        if (typeof (num) == "undefined") {var num=3647; }var pinglun_num=11;var xgti="";if(typeof (count) != "undefined"){xgti="<span class=\"tc2\"><a href='list,600503.html'>相关帖子<span class=\"tc1\">"+count+"</span>条</a></span>";}
+        document.getElementById("zwmbtilr").innerHTML ="现有<span class=\"tc1\">"+num+"</span>人阅读过该帖，评论<span class=\"tc1\">"+pinglun_num+"</span>条。"+xgti;
+        </script>
+        
+	</div>
+	<style type="text/css">
+		#zwbtextlink {  float: left; width: 100%; height: 29px; margin-bottom: 5px; }
+		#zwbtextlink ul {  float: left; padding-top: 8px; width: 100%; }
+		#zwbtextlink ul li { float: left; font-size: 14px;  padding: 0px 0px; }
+		#zwbtextlink ul li a { text-decoration: underline; color: #333333; margin-right: 7px; }
+		#zwbtextlink ul li span.red a { color: red;  font-weight: bold; text-decoration: underline; }
+	</style>
+	<div style=" clear:both; height:29px; border:1px solid #D8E6FF; border-top:0; padding: 0 0 5px 10px; ">
+		<div id="zwbtextlink">
+			<!-- 布告栏 --><ul><li><a href="http://stattg.eastmoney.com/10524" ><strong>Level-2限时特惠！</strong></a>&nbsp;<span class="red"><a href="http://js5.eastmoney.com/tg.aspx?ID=875" ><strong>注意！主力有大动作，7股明日望爆发！</strong></a></span>&nbsp;<a href="http://fundact.eastmoney.com/information/2014025/?spm=100005001.mw" ><strong>活期宝收益3-25%</strong></a>&nbsp;<span class="red"><a href="http://js1.eastmoney.com/tg.aspx?ID=3745" ><strong>3因素致A股变异</strong></a></span></li></ul>
+		</div>
+	</div>
+
+
+    <div class="gbbox1" id="sendnewt">
+		<div class="gbboxt">评论该主题 <span class="appealspan"><a href="javascript:;" target="_self" id="appealuserlink">帖子不见了！怎么办？</a></span></div>
+		<div class="gbboxtr"><span class="topbarlogin">作者：您目前是匿名发表 &nbsp; <a href="" id="bottomlogin" class="gubaloginlink"><strong>登录</strong></a> | <a href="" class="strlink gubareglink" id="bottomreg">5秒注册</a></span> <span class="topbarhaslogin">作者：<strong><span class="headerusername"></span></strong>，欢迎留言 <a href="javascript:;" class="logoutbtn" target="_self">退出</a></span> | <a href="/list,600503.html#sendnewt"><strong>发表新主题</strong></a></div>
+		<div class="gbboxb">
+			<form method="post" action="" id="gbsform" class="gbsform">
+				<div class="mtj1" id="yzmp"><label for="" class="l tzla">内容：</label><textarea class="gbsformt1" id="gbtainput"></textarea></div>
+				<div class="mtj2">
+					<div class="editorfuns" id="editorfuns"><a href="javascript:;" id="gbtainpubtn4" data-fun="face" target="_self"><em class="iconface"></em>表情</a> <a href="javascript:;" id="gbtainpubtn7" data-fun="stockcode" target="_self"><em class="iconstock"></em>股票</a> </div>
+					<div class="gbsformbtns"><span id="gdregbtn"></span>&nbsp;<button type="submit" class="gbsformi3">发  布</button></div>
+					<div class="clear"></div>
+				</div>
+				
+			</form>
+		</div>
+	</div>
+
+	<div style="color:#888888; padding:10px 0 0 0;clear:both; line-height:120%;">
+		提示：用户在社区发表的所有资料、言论等仅代表个人观点，与本网站立场无关，不对您构成任何投资建议。用户应基于自己的独立判断，自行决定证券投资并承担相应风险。
+	</div>
+
+	
+	<div class="siderg" style="padding-top:10px; clear:both;"><iframe width="718" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=655&op=1" ></iframe></div>
+    
+
+</div>
+<div id="sider"></div>
+</div>
+<div class="clear"></div>
+<div id="footer" class="gbbody">
+    	<p class="splp"><a href="http://corp.eastmoney.com/aboutus/" target="_blank">关于我们</a>　　<a href="http://corp.eastmoney.com/Lianxi_guanggao.asp" target="_blank">广告服务</a>　　<a href="http://corp.eastmoney.com/Lianxi_lianxi.asp" target="_blank">联系我们</a>　　<a href="http://corp.eastmoney.com/zhaopin/zhaopin_1.asp" target="_blank">诚聘英才</a>　　<a href="http://corp.eastmoney.com/lianxi_mianze.asp" target="_blank">免责声明</a>　　<a href="http://corp.eastmoney.com/Lianxi_falvshengming.asp" target="_blank">法律声明</a>　　<a href="http://corp.eastmoney.com/Lianxi_zhengao.asp" target="_blank">征稿启事</a>　　<a href="http://corp.eastmoney.com/media.asp" target="_blank">友情链接</a></p>
+    	<p class="sphp"></p>
+        <p>建议及投诉热线：021-54509984　　　<a href="http://corp.eastmoney.com/Lianxi_liuyan.asp" target="_blank"><img src="http://g1.dfcfw.com/g1/comm/msg.gif" border="0" />意见与建议</a></p>
+        <p class="sphp"></p>
+        <p><img src="http://g1.dfcfw.com/g1/comm/icp.gif" />&nbsp;沪ICP证：沪B2-20070217&nbsp;&nbsp;版权所有：<a href="http://www.eastmoney.com" target="_blank">东方财富网</a></p>
+        <p><a href="http://www.cyberpolice.cn/" target="_blank"><img src="http://g1.dfcfw.com/g1/comm/police.gif" border="0" /></a> &nbsp; <a href="http://www.zx110.org/picp/?sn=310104031200" target="_blank"><img src="http://gbfek.dfcfw.com/gubav5/images/gubabba.png" /></a></p>
+</div>
+<!--114.80.173.61-->
+<div id="stockhqh" style="display:none;"></div>
+
+<script src="//gbfek.dfcfw.com/gubav5/js/gubabase_da218adfac.js"></script>
+<script src="//gbfek.dfcfw.com/gubav5/js/news_m_339c6326e1.js"></script>
+<script src="//gbfek.dfcfw.com/gubav5/js/module_43cb88e12a.js"></script>
+<script src="//gbfek.dfcfw.com/gubav5/js/news_c_bd1d75d828.js"></script>
+<script src="count.aspx"></script>
+<script type="text/javascript">  var _cpyno = "c1"</script>
+<script type="text/javascript" src="http://js4.eastmoney.com/counter.js?c=t"></script>
+<script type="text/javascript">
+var rightAd_bodywidth = 1000;
+var rightAd_fixedwidth = 150;
+var rightAd_width = 135;
+var rightAd_height = 1741;
+var rightAd_top = '48px';
+var rightAd_url = 'http://fund.eastmoney.com/trade/Hot_Em.html?spm=100005001.rw';
+var rightAd_top = '48px';
+</script>
+<script src="http://gbfek.dfcfw.com/js/tg/rightAd_v2.js"></script>
+<script type="text/javascript">
+(function(d){
+	var ioSrc = function(url){
+		var script = document.createElement("script")
+		script.type = "text/javascript";
+		script.src = url;
+		document.getElementsByTagName("head")[0].appendChild(script);
+	};
+	
+	d.fixedSoftPic = "http://g1.dfcfw.com/g2/201510/20151013092340.gif";
+	d.fixedSoftLink = ["http://stattg.eastmoney.com/10762","http://stattg.eastmoney.com/10071","http://stattg.eastmoney.com/10312","http://stattg.eastmoney.com/10214","http://js5.eastmoney.com/tg.aspx?ID=2035"];
+	d.fixedLinkPt = 0;
+	d.fixedLinkMt = [0,0,0,0];
+	d.fixedLinkHeight = [120,194,86,86,80];
+	d.fixedSoftWidth = 135;
+	d.fixedSoftHeight = 568;
+	d.fixedBodyWidth = 990;
+	d.fixedSoftTop = 48;
+
+	d.fixedAlign = "left";
+	ioSrc("http://cmsjs.eastmoney.com/js/news_fixed_leftv3.js");
+})(window);
+</script>
+
+
+<script type="text/javascript" src="http://js3.eastmoney.com/js/gb_dcmap.js?mt=gubaarticle&odds=5000"></script>
+<script src="//gbfek.dfcfw.com/tg/EMBottomSearchTG/EMBottomSearchTG-1.0.3.min.js?v=1"></script>
+
+<script type="text/javascript" >
+    var newEMBottomSearchTG = new EMBottomSearchTG({
+		main_width:1000,
+        main_img: 'http://z1.dfcfw.com/2015/6/10/201506101029321460568336.jpg', //推广图片  imgurl
+        link: 'http://stattg.eastmoney.com/10267' //推广链接  aurl
+    });
+    newEMBottomSearchTG.show();
+</script>
+<script type="text/javascript" src="http://cmsjs.eastmoney.com/analysis/emtj.min.js?v=20150401"></script>
+</body>
+</html>

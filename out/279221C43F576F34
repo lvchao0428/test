@@ -1,0 +1,838 @@
+<!--UINFO: http://www.xici.net/u20699835/	length=124892&last_modified=0&time_saved=1450676389&charset=gb2312-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="alternate" type="application/rss+xml" title="订阅lavinia66的角落"  href="rss.asp">
+<meta http-equiv="content-type" content="text/html; charset=gb2312" />
+<meta http-equiv="content-language" content="gb2312" />
+<meta name="robots" content="all" />
+<meta name="author" content="http://www.xici.net/" />
+<meta name="copyright" content="xici.net 版权所有，未经授权禁止链接、复制或建立镜像。" />
+<meta name="description" content=" lavinia66的角落 西祠胡同 xici.net"/>
+<meta name="keywords" content=" lavinia66的角落 西祠胡同 xici.net"/>
+<title>lavinia66 - 西祠胡同</title>
+
+<link rel="icon" href="http://imgs.xici.net/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://imgs.xici.net/favicon.ico" type="image/x-icon" />
+<script language=javascript src="http://imgs.xici.net/_js/pub.js?t=20140915"></script>
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://imgs.xici.net/_common/styles/person.css?t=201301161" />
+
+<style type="text/css">
+
+	/*空间背景区*/
+    body{
+	    color:#666; /*文本字体*/
+	    background-color:#fff; /*背景明度值*/
+	  /*background-image:url("/_img/blog/s01/bg_body.jpg");*/
+	    background-repeat:no-repeat;
+		background-attachment : scroll;/* scroll | fixed */
+    }
+    body a{color:#069;} /*链接字体*/
+
+    .tit{color:#09c;} /*标题字体*/
+
+	/*空间主题区*/
+    .title{
+		color:#09c;/*空间简介明度值*/
+		background-color:transparent;background-image:url("http://www.xici.net/blog/files/blogimg.asp?f=t2&color=6699EE");background-repeat:no-repeat;
+	}
+	.title h2{color:#09c;} /*空间名称明度值*/
+
+	/*导航区*/
+
+    .bgn{background-color:transparent;background-image:url("http://www.xici.net/blog/files/blogimg.asp?f=n2&color=6699EE");}
+    .nor{color:#fff;} /*其他*/
+    .nor:hover{color:#06c;} /*当前TAB字体*/
+    .here{color:#06c;} /*当前TAB字体*/
+
+	/*Widget*/
+    .bor{
+		color:#666;/*文本字体*/
+		background-color:#fff;/*背景*/
+		border-width:1px;
+		border-color:#9cf;/*边框明度值*/
+		border-style:solid;
+	}
+    .bor .tit{color:#09c}/*标题字体*/
+    .bor a{color:#069}/*链接字体*/
+	.midd .dl .pb{color:#666}
+	.midd .dl .pb samp{color:#9cf}
+
+     #slideA{width:770px;position:absolute;top:0px;left:190px}
+     #slideB{width:180px;position:absolute;top:0px;left:0px}
+
+	.doc_sign {display:none}
+</style>
+
+</head>
+<body>
+<script src="http://imgs.xici.net/_js/doc.js?t=20120905"></script>
+<script language=javascript>
+function RePage(url,key){
+    if(key == 1){
+        document.location = url + "1.htm";
+    }else{
+        if ( key < 1 || key.toString == "" ){
+            key = 1;
+        }
+        document.location = url + key.toString() + ".htm";
+    }
+    return false;
+}
+</script>
+<script language="javascript" type="text/javascript" src="http://imgs.xici.net/_js/pub.js?t=20120906"></script>
+<script language="javascript">{var d = new Date();d.setTime((new Date()).getTime() + 108000000);document.cookie = "desktop=1; domain=xici.net; path=/; expires=" + d.toGMTString();}</script>
+<script language="javascript">var strPageUrl = '/u20699835/';</script>
+<link href="http://imgs.xici.net/_common/styles/base.css?t=201301151" rel="stylesheet" />
+<link href="http://imgs.xici.net/_common/styles/style.css?t=201404281" rel="stylesheet" />
+<script src="http://imgs.xici.net/_js/GA.js?t=201401011"></script>
+
+<!--global_header:begin-->
+<div id="global_header">
+	<!--header_bar:begin-->
+	<div class="header_bar" id="header_bar">
+       <div class="header_logo" node-type="LOGO{$$}topnav" data-type="ga"><a class="logo_top" href="/" title="胡同口"></a></div>
+       <!--top_nav:begin-->
+       <ul class="top_nav">
+        <li node-type="胡同口{$$}topnav" data-type="ga"><a href="/" class="link">胡同口</a></li>
+        <li node-type="menu_list">
+        	
+            <!--chanel_box:begin-->
+             
+            <a href="javascript:;" class="link" id="cityname">广州<em></em></a>
+            <div class="tip_box o_city_box">
+            	<ul class="tip_list clear" id="hot_list">
+                </ul>
+            </div>
+        </li>
+        <!-- <li node-type="menu_list">
+        	<a href="javascript:;" class="link">游戏<em></em></a>
+			<div class="tip_box o_city_box" node-type="优惠频道{$$}topnav" data-type="ga">
+            	<ul class="tip_list">
+                <li><a href="http://huajia.xici.net/" target="_blank">结婚省米</a></li>
+                <li><a href="http://youxi.xici.net" target="_blank">游戏频道</a></li>
+                <li><a href="http://qipai.xici.6998.com/" target="_blank">网页棋牌</a></li>
+                <li><a href="http://www.xici.net/b1449976/" target="_blank">安卓游戏</a></li>
+                </ul>
+            </div>
+        </li> -->
+        <li node-type="手机版{$$}topnav" data-type="ga"><a href="/app.asp" class="link">手机版</a></li>
+    </ul>
+    <!--top_nav:end-->
+    <div class="top_search">
+       <input type="text" class="txt_search" id="search" node-type="公共头搜索{$$}topnav" data-type="ga" value="搜索版名、版号、关键词" />
+       <input type="button" value=" " node-type="公共头搜索{$$}topnav" data-type="ga" class="btn_search" onclick="doSearch();" />
+   </div>
+   <!--判断是否登录用户-->  
+           
+   <ul class="user_login">
+     <li class="mr-10" node-type="居委会{$$}topnav" data-type="ga"><a href="/b2488/" class="link">居委会</a></li>
+     <li class="mr-10" node-type="登录{$$}topnav" data-type="ga"><a title="登录" href="http://account.xici.net/login?refer=http://www.xici.net/u20699835/" class="link">登录</a></li>
+     <li node-type="注册{$$}topnav" data-type="ga"><a href="http://account.xici.net/register?refer=http://www.xici.net/u20699835/" title="注册" class="link">注册</a></li>
+ </ul>
+ 
+<!--飞语提示，默认先隐藏掉-->
+<div class="top_showtip" style="display:none" node-type="提示气泡{$$}topnav" data-type="ga"><p></p><a href="javascript:;" class="close_top_showtip" id = "notice_close"></a></div>
+<div id="global_notice" node-type="global_showtip"  style="display:none">
+    <span>尊敬的IE6/7/8浏览器的用户，胡同大妈教你在新版西祠玩的更舒服</span>
+    <a href="http://www.xici.net/d174003348.htm" class="blue">点击查看这里&gt;&gt;</a>
+    <a href="javascript:;" class="close_top_showtip"></a>
+</div>
+
+</div>
+<!--header_bar:end-->
+<div class="head_shadow"></div>
+</div>
+<!--global_header:end-->
+
+<script src="http://imgs.xici.net/_js/jquery-1.7.2.min.js"></script>
+<script src="http://imgs.xici.net/_js/jquery.plugins.js?t=201312061"></script>
+<script src="http://imgs.xici.net/_js/comm.js?t=20140912"></script>
+<div id="warp" class="warp">
+
+    <iframe width=1 height=1 marginwidth=0 marginheight=0 frameborder=0 scrolling=no src="/xiciservice/verify.asp"></iframe>
+
+<script language=javascript>
+
+    function PointCity(baseurl,url,setcityid,setlat,setlng,setrange) {
+        var Cfrm = document.citychangeform;
+        Cfrm.action = baseurl;
+        Cfrm.setcityid.value = setcityid;
+        Cfrm.setlat.value = setlat;
+        Cfrm.setlng.value = setlng;
+        Cfrm.setrange.value = setrange;
+        Cfrm.url.value = url;
+        
+        if(top != window){
+            parent.parent.notcity = setcityid;
+        }
+        
+        document.getElementById("submitcity").click();
+        parent.parent.updateFavs();
+    }
+</script>
+<form action="" method="post" name="citychangeform" style="display:none">
+    <input type="hidden" name="t" value="c" />
+    <input type="hidden" name="url" value="" />
+    <input type="hidden" name="setcityid" value="" />
+    <input type="hidden" name="setlat" value="" />
+    <input type="hidden" name="setlng" value="" />
+    <input type="hidden" name="setrange" value="" />
+    <input type="submit" name="submitcity" id="submitcity" value="确定" />
+</form>
+<script language="javascript">var xici_hotcity = new Array('南京;\/asia\/china\/huadong\/jiangsu\/nanjing','北京;\/asia\/china\/huabei\/beijing','上海;\/asia\/china\/huadong\/shanghai','苏州;\/asia\/china\/huadong\/jiangsu\/suzhou','深圳;\/asia\/china\/zhongnan\/guangdong\/shenzhen','南通;\/asia\/china\/huadong\/jiangsu\/nantong','扬州;\/asia\/china\/huadong\/jiangsu\/yangzhou','广州;\/asia\/china\/zhongnan\/guangdong\/guangzhou','无锡;\/asia\/china\/huadong\/jiangsu\/wuxi','成都;\/asia\/china\/xinan\/sichuan\/chengdu','济南;\/asia\/china\/huadong\/shandong\/jinan','徐州;\/asia\/china\/huadong\/jiangsu\/xuzhou','杭州;\/asia\/china\/huadong\/zhejiang\/hangzhou','芜湖;\/asia\/china\/huadong\/anhui\/wuhu','武汉;\/asia\/china\/zhongnan\/hubei\/wuhan','郑州;\/asia\/china\/zhongnan\/henan\/zhengzhou','盐城;\/asia\/china\/huadong\/jiangsu\/yancheng','常州;\/asia\/china\/huadong\/jiangsu\/changzhou','合肥;\/asia\/china\/huadong\/anhui\/hefei','青岛;\/asia\/china\/huadong\/shandong\/qingdao','西安;\/asia\/china\/xibei\/shannxi\/xian','泰州;\/asia\/china\/huadong\/jiangsu\/taizhou','石家庄;\/asia\/china\/huabei\/hebei\/shijiazhuang','沈阳;\/asia\/china\/dongbei\/liaoning\/shenyang','镇江;\/asia\/china\/huadong\/jiangsu\/zhenjiang','福州;\/asia\/china\/huadong\/fujian\/fuzhou','昆明;\/asia\/china\/xinan\/yunnan\/kunming','重庆;\/asia\/china\/xinan\/chongqing','广东;\/asia\/china\/zhongnan\/guangdong','兰州;\/asia\/china\/xibei\/gansu\/lanzhou','长沙;\/asia\/china\/zhongnan\/hunan\/changsha','淮安;\/asia\/china\/huadong\/jiangsu\/huaian','天津;\/asia\/china\/huabei\/tianjin','贵阳;\/asia\/china\/xinan\/guizhou\/guiyang','哈尔滨;\/asia\/china\/dongbei\/heilongjiang\/haerbin','太原;\/asia\/china\/huabei\/shanxi\/taiyuan','宿迁;\/asia\/china\/huadong\/jiangsu\/suqian','南宁;\/asia\/china\/zhongnan\/guangxi\/nanning','长春;\/asia\/china\/dongbei\/jilin\/changchun','保定;\/asia\/china\/huabei\/hebei\/baoding','佛山;\/asia\/china\/zhongnan\/guangdong\/foshan','厦门;\/asia\/china\/huadong\/fujian\/xiamen','连云港;\/asia\/china\/huadong\/jiangsu\/lianyungang','大连;\/asia\/china\/dongbei\/liaoning\/dalian','宁波;\/asia\/china\/huadong\/zhejiang\/ningbo','南昌;\/asia\/china\/huadong\/jiangxi\/nanchang','温州;\/asia\/china\/huadong\/zhejiang\/wenzhou','烟台;\/asia\/china\/huadong\/shandong\/yantai','泉州;\/asia\/china\/huadong\/fujian\/quanzhou','临沂;\/asia\/china\/huadong\/shandong\/linyi'
+);</script>
+
+<div id="adTop" class="w">
+
+<!--	<IFRAME MARGINHEIGHT=0 MARGINWIDTH=0 FRAMEBORDER=0 WIDTH=960 HEIGHT=90 SCROLLING=NO SRC="http://xiciafp.allyes.com/main/adfshow?user=XiciAFP|8zz|10tlkj11&db=xiciafp&border=0&local=yes"></IFRAME>-->
+</div>
+
+<div id="spT" class="w title">
+
+	<h2>
+	<a href="http://u20699835.xici.net" title="lavinia66的角落" class="tit">
+
+	lavinia66的角落</a>
+	<A href="http://u20699835.xici.net" onclick="window.external.AddFavorite('http://u20699835.xici.net','lavinia66 - 西祠胡同');return false;" class=fav>http://u20699835.xici.net</A>
+    </h2>
+	<p></p>
+</div>
+
+
+<script language="javascript">
+function checksInput(key)
+{
+    if(document.getElementById("s").value == "" &&key==1)
+    {
+        document.getElementById("s").value = '请输入关键词';
+    }
+
+    if (document.getElementById("s").value == "请输入关键词")
+    {
+        return false;
+    }
+    if (key==3)
+    {
+        window.open("/s/?k=" + escape(document.getElementById("s").value));
+        return false;
+    }
+    return true;
+}
+</script>
+<div id="nav" class="w bgn">
+	<span class="l">
+		<a href="/u20699835/" title="首页" class="bgn nor here">首页</a>
+		<a href="p1.htm" title="文章" class="bgn nor ">文章</a>
+		<a href="t1.htm" title="相册" class="bgn nor ">相册</a>
+		<a href="m1.htm" title="彩信" class="bgn nor ">彩信</a>
+	    <a href="/u20699835/addFriend.asp" title="加好友" class="bgn nor " >加好友</a>
+		<a href="javascript:;" onclick="sendMessage.sendDivShow({},true,'lavinia66')" title="留言" class="bgn nor ">留言</a>
+		<!--<a href="blogpre.asp?t=5" title="预订" class="bgn nor ">预订</a>-->
+		
+	</span>
+	<form method="get" action="article.asp" name="" class="r">
+
+		<input type="text" value='请输入关键词' class="txt" id="s" name="s" title="西祠胡同搜索" onclick="if (document.getElementById('s').value=='请输入关键词')document.getElementById('s').value=''"/> <input type="submit" onclick="return checksInput(2);" value="搜角落" class="hand" /><input type="button" onclick="return checksInput(3);" value="搜全站" class="hand" />
+	</form>
+</div>
+
+<div id="spCont">
+	<div id="slideA"><div class="midd bor" id="TDocText">
+		<dl class="dl"><dt><a href="/d209462140.htm" target="_blank">今年六月才获升职 昆明副市长说倒就倒</a></dt><dd class="bor"><p class="pd"><!---doc_text---><font size="5"><span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;">云南官场亦发生地震，继前省委书记秦光荣被免职后，中央纪委监察部网站昨日发布消息称，云南昆明市委常委、常务副市长李喜因涉嫌严重违纪违法，目前正接受组织调查。&nbsp;</span><br
+style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;" />
+<br style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;" />
+<span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;">　　原为昆明市副市长的李喜，今年六月二十五日才任市委常委、常务副市长。主要负责财政、税收、人事、农业、林业、水利，以及招商引资等方面工作。&nbsp;</span><br
+style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;" />
+<br style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;" />
+<span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;">　　现年五十二岁的李喜，历任昆明市官渡区委办公室主任、区委常委，安宁市委副书记、市长、市委书记等职位；○八年七月出任昆明市副市长。在其落台前，已有两名其下属因贪腐被查，包括昆明市农业局长郭焕波、副局长陈博。&nbsp;</span><br
+style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;" />
+<br style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;" />
+<span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;">　　据悉，今年以来，包括前云南省委常委、昆明市委原书记张田欣、云南省原副省长沈培平等云南高官被查处。今年八月底，前云南省委书记白恩培亦遭调查。本月十四日，中央宣布前云南省委书记秦光荣被免职，由李纪恒接任。&nbsp;</span></font><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center"><img src="/u20699835/files/sign.pic"></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d209462140.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_0></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-10-22 12:00</span></p></dd></dl><dl class="dl"><dt><a href="/d209341499.htm" target="_blank">人大常委会拟增收礼罪 不办事只收钱也不行</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">日前，十二届全国人大常委会第三十二次委员长会议上，建议十二届全国人大常委会第十一次会议审议刑法修正案（九）草案的议案，其有望加入“收受礼金罪”。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　本次常委会会议将于10月27日至11月1日召开。常委会将审议的法律草案（议案）还包括行政诉讼法修正案草案、反间谍法草案、反恐怖主义法草案的议案，关于提请审议全国人大常委会关于民法通则第九十九条第一款、婚姻法第二十二条的解释草案的议案等。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　我国现行法律规定，官员单纯收受礼金的行为不构成受贿罪，视情节轻重要受党纪、政纪处分。在司法实践中，一些官员经常以“礼尚往来”为由为实际上的受贿行为辩护。此前，在“贿赂案件的刑事辩护”论坛上，有专家曾透露，为打击官员“礼尚往来”，正在研讨的刑法修正案(九)或写入收受礼金罪。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　北京大学法学院教授陈兴良说，过去一直主张设立收受礼金罪。这次写入草案的收受礼金罪，规定国家公职人员收受他人数额较大的礼金，无论是否利用职务之便，无论是否为他人谋利，都可能涉嫌收受礼金罪。该罪不同于受贿罪，量刑比受贿罪轻。</font></p>
+<br /><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center"><img src="/u20699835/files/sign.pic"></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d209341499.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_1></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-10-19 13:28</span></p></dd></dl><dl class="dl"><dt><a href="/d209341310.htm" target="_blank">福建一纪委官员坠亡 曾称被人设圈套当替...</a></dt><dd class="bor"><p class="pd"><!---doc_text---><span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;"><font
+size="5">前天下午，福建省仙游县一男子在安特豪景园小区内坠亡。至昨晚7点半，遗体被从现场运走。据了解，死者为仙游县纪委调查科官员李伟伟，当地警方初步排除他杀可能。</font></span>
+<div><span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;"><font
+size="5">&nbsp;　　县纪委官员坠楼&nbsp;</font></span></div>
+<div><span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;"><font
+size="5">　　李伟伟是安特豪景园15号楼14层住户。据安特豪景园物业工作人员说，17日下午近2点，李伟伟从15号楼顶层坠下，“听说有抑郁症。”其父在外地做生意，次日下午赶回家中。现场有警方驻守，不允许靠近。18日晚7点半，才将他运走。案发后，县纪委副书记、副县长赶到现场。</font></span></div>
+<div><span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;"><font
+size="5">&nbsp;　　据李伟伟堂哥对京华时报记者表示，李伟伟与母亲、爱人居住，有两个月大的儿子，家庭幸福。今年3月，他到仙游县纪委网络管理中心工作，约一个月前调职到调查科。死亡前几日表现异常。</font></span></div>
+<div><span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;"><font
+size="5">&nbsp;　　封闭办案期间反常&nbsp;</font></span></div>
+<div><span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;"><font
+size="5">　　据李伟伟堂哥介绍，10月9日，李伟伟到中共仙游县委党校进行封闭办案，为期数天。12日，回来过一次。“他说犯了错，让妻子好好照顾孩子。”当天，李伟伟返回党校。“从那时起，开始反常。”&nbsp;</font></span></div>
+<div><span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;"><font
+size="5">　　李先生说，15日晚7点，家人接到通知去仙游县医院。晚8点多，李伟伟被送到。“说他在党校撞墙。两地不过几百米，却送了一小时。”李先生回忆，李伟伟情绪激动，说有危险，要家人离开。约一小时后，妻子将其带走，发现其手机忘在党校，想回去拿，被李伟伟制止。“他说党校监控室有秘密。有人设圈套，让他往里跳。”&nbsp;</font></span></div>
+<div><span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;"><font
+size="5">　　关于此次封闭办案的内容，李先生称，李伟伟死后，县纪委办公室黄主任告知他们与县公安局有关。 　　17日，李伟伟陪妻子上网，“看着好了些。”其妻遂将黄主任约到家中，希望他能疏导李伟伟。上午10点左右，黄主任赶到。“后来，李伟伟让妻子离开。”又过了约20分钟，黄主任离开。12点多，李伟伟饭后下楼散步，10多分钟后仍未回来，其妻数次拨打电话，“头几通还接，说‘马上回’，后来干脆挂断。”下午1点多，母亲下楼寻人未果。一小时后得知李伟伟在15号楼前坠亡。</font></span></div>
+<div><span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;"><font
+size="5">&nbsp;　　“楼高20层，顶层平台有160厘米高的围墙，未见攀爬痕迹。”李先生说，家人质疑其死因，拒绝将尸体运走。“法医现场进行鉴定，下周会出结果。”&nbsp;</font></span></div>
+<div><span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;"><font
+size="5">　　初步排除他杀可能&nbsp;</font></span></div>
+<div><span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;"><font
+size="5">　　昨天下午，仙游县委宣传部称：17日下午1点58分，仙游县公安局鲤城派出所接警称：鲤城街道安特豪景园15号楼有人坠楼。接警后，民警、技术人员、法医迅速赶往现场开展相关工作。2点15分，经医生检查，坠楼者李伟伟已经死亡。</font></span></div>
+<div><span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;"><font
+size="5">&nbsp;　　李伟伟，男，1985年5月10日出生，仙游县枫亭人。2013年秋，参加莆田市事业单位统一考试，考取仙游县纪委网络管理中心。2014年3月，到仙游县纪委工作。10月15日下午，李伟伟在上班期间突感身体不适，同事将其送往县医院就医。当晚起，李伟伟开始在家休养。</font></span></div>
+<div><span style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;"><font
+size="5">&nbsp;　　事发后，公安部门初步排除死者系他杀的可能性。&nbsp;</font></span></div><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center"><img src="/u20699835/files/sign.pic"></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d209341310.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_2></span>　跟贴：1　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-10-19 13:21</span></p></dd></dl><dl class="dl"><dt><a href="/d209230217.htm" target="_blank">广东组织部原副部长林存德被查</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">已经退休的广东省委组织部原副部长林存德被纪检部门带走。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　广州市委原书记万庆良案仍在延烧。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　多个消息源近日向澎湃新闻透露，已经退休的广东省委组织部原副部长林存德被纪检部门带走，茂名市委书记梁毅民或亦卷入其中。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　此前，广州市国土房管局局长李俊夫和花都区委书记杨雁文已先后被带走。他们都曾是万庆良的直系下属。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">林存德曾负责2011年全省市县换届工作</strong></font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　官方并未提供林存德的详细公开简历。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　公开报道显示，他是一名长期在广东省委组织部任职的资深组工干部。至少从2004年起，林存德已经开始以省委组织部副部长身份出席各省直部门和地级以上城市的领导班子成员任免大会。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　2011年，除了一年前刚刚换届的深圳外，广东下辖的19个地级市和广州集中进行了换届工作。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　当年5月省委组织部的新闻发布会上，林存德以省市县领导班子换届工作联席会议办公室主任的身份介绍，搞好换届工作是当年组织部13项重点工作之首。在介绍换届工作的“六个突出”时，他表示要“选优配强党政正职”，也要“突出营造风清气正的换届环境”。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　到2012年初，该轮换届工作正式结束。20个市的40名党政正职中，有30人系新任。从副省长调任广州市长不到两年的万庆良，正是在该轮换届中当选广州市委书记。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　万庆良在2012年先后当选广东省委常委和十八届中央候补委员，一时风头正劲。但随着他曾主政的揭阳市爆发贪腐窝案，万庆良将被查的消息开始在广东政界流传，万庆良也一度低调行事。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　正当不少广东政界人士认为万庆良可能已经“过关”时，今年6月27日，中央纪委宣布，万庆良涉嫌严重违纪违法，目前正接受组织调查。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　10月9日，中央纪委再次通报，万庆良利用职务上的便利为他人谋取利益，索取、收受巨额贿赂；严重违反中央八项规定精神，多次出入私人会所。目前他已被“双开”，并因涉嫌受贿罪被移送司法。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　然而万庆良案的后续影响仍在扩大。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　有多个消息源向澎湃新闻透露，在被调查的过程中，万庆良称曾为了在职务调整时获得好处，向林存德进行了利益输送。根据其反馈的这一线索，广东省纪委于9月底带走了已经退休一年的林存德。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">梁毅民被带走原因或与林存德有关</strong></font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　此前澎湃新闻曾报道，茂名市委书记梁毅民也在近期被纪检部门带走调查。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　据《茂名日报》报道，梁毅民在10月10日还曾出席全市党的群众路线教育实践活动总结大会。这是他最后一次在当地官方媒体露面。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　有接近茂名政界的人士透露，梁毅民被带走的时间大约是10月11日至12日，他被调查一事已在当地小范围内部通报。不过，截至澎湃新闻发稿时，茂名市政府官网上市委书记一栏仍是梁毅民。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　2011年2月，时任茂名市委书记罗荫国违纪被查，随后引爆当地官场买官卖官窝案，牵连甚广，时任茂名市长邓海光临危受命接任市委书记，市长一职需要填补。兼任顺德区委书记才7个月的佛山市委常委梁毅民获得了这一职务。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　2011年2月21日，在宣布人事任免的茂名市委领导干部大会上，宣读任免决定的正是林存德。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　澎湃新闻获悉，梁毅民被带走的原因，可能是向林存德进行利益输送以换取其对职务升迁的照顾。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　截至目前，广东省纪委尚未证实林存德和梁毅民被带走的消息。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">万庆良案发后广州已有两厅官被带走</strong></font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　除了在省级层面扩散外，万庆良案也在广州当地也早已引发连锁反应。两名市属正局级（相当于副厅级）干部落马。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　中央纪委带走万庆良后仅一周，广州市国土房管局局长李俊夫违纪被查。目前尚无证据显示李俊夫被查和万庆良存在直接关系，但广州市纪委曾正面证实，调查李俊夫的线索来自中央巡视组。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　在广州政界，李俊夫和万庆良关系密切人尽皆知。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　有消息源对澎湃新闻透露，业余时间，李俊夫、万庆良等人经常一起打网球。2013年4月1日晚，万庆良“潜入”广州方所书店，旁听了中山大学教授冯原主讲的讲座《从广州塔的命名看城市文化》。此事经当地媒体报道后，万庆良的“小清新”作风颇受好评。当时有两名市直部门“一把手”陪同万庆良，李俊夫正是其中之一。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　花都区委书记杨雁文则是另一位牵涉万庆良案的官员。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　杨雁文比万庆良大一岁，两人是梅州老乡。杨雁文的整个仕途都在广州度过，历任传统工业区黄埔区和老中心城区越秀区两区区长，2011年5月，杨雁文接替因贪腐下台的潘潇，担任远郊的花都区委书记。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　7月31日，出席花都区精神文明建设工作会议暨区文明委全体扩大会议后，杨雁文便再也没有在公开场合露面。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　直到8月20日，广州市纪委常委、新闻发言人梅河清才证实杨雁文处于配合上级纪委调查阶段。此时，距离万庆良被宣布接受组织调查已经过去了近两个月。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　对于杨雁文被带走调查是否等同于“落马”这一问题，梅河清表示：“视案件进展情况。”</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　直到目前，花都政府官网上的区委书记和区人大常委会主任一栏仍显示是杨雁文。</font></p>
+<br /><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center"><img src="/u20699835/files/sign.pic"></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d209230217.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_3></span>　跟贴：8　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-10-16 12:57</span></p></dd></dl><dl class="dl"><dt><a href="/d209229041.htm" target="_blank">中国最年轻院士腐败轨迹：空壳公司捞钱</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">头顶“中国最年轻的工程院院士”“中国动物克隆体系创始人”等光环，担任国务院常务会议批准、经费约200亿元的重大科研专项副总工程师，中国工程院院士李宁近日却因侵吞科研经费被批捕。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　在新中国的科学史上，52岁的李宁很可能成为首个被取消院士称号的“两院”院士。这个曾公认前途无量的科学家为何卷入腐败？</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">创造多项“第一”，百亿级课题兼任“运动员”和“裁判员”</strong></font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　位于北京市海淀区圆明园西路2号院内的中国农业大学生命科学研究中心，是李宁长期工作的实验室所在地。10月14日，记者在李宁的办公室前看到，办公室两道大门紧闭，窗内一片昏暗，门前的名牌写有两行黑字：农业生物技术国家重点实验室，李宁院士办公室。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　根据中国农业大学官网发布的简历，出生于1962年的李宁1982年大学毕业后，在2007年当选为院士，堪称“罕见速度”。他所负责的科研课题同样重大：其中的“转基因生物新品种培育科技重大专项”2008年经国务院常务会议批准立项，投资约200亿元。而李宁长期担任这一业内公认“航母级”科研项目的副总工程师。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　李宁团队曾创造了多项世界和全国“第一”：如世界最大的克隆牛、中国第一头克隆猪等。“不可否认，他对科研进步的贡献卓著，成就斐然。”一位中国农大知情的同事说。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　仅中国农大生命科学研究中心的数据显示，2006年至2010年的5年间，国际论文、省部级奖项等“学术产出”中，李宁占据其所在院系全部奖项的一半多。与之相应的是，其获得经费的“吸金”能力在业内也“屈指可数”。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　同一时期，李宁所在的生物学院获得科研项目达374个，获得国家及各类经费达6．8亿余元。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　“李宁最受争议的，就是他既是专项主要负责人、把关者，也是数十个子项目的负责人或顾问。”一位知情专家表示。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　21世纪教育研究院院长熊丙奇认为，科研项目从立项、经费管理到项目评价，整个环节由行政部门主导，“重立项、轻研究”倾向普遍存在，身兼“运动员”“裁判员”是一批课题的普遍做法，以强化个人拿项目、抢经费的能力。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">　　参股或控股开办多家企业，“壳公司”捞钱致“出事”</strong></font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　记者调查了解到，长期担任重大课题负责人、国家重点实验室主任的李宁，还参股或控股开办了多家企业。正是通过“壳公司”参与课题、捞取公款，直接导致其“出事”。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　根据工商登记资料，李宁名下企业分布在北京、无锡等地。成立于2009年1月19日、注册资本为1000万元的“北京三元济普霖生物技术有限公司”，就是一家以李宁为法人的公司。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　记者按济普霖公司发布的招聘地址查询，发现其址就在中国农大附近一处居民楼中。周边居民说，“根本不知道有这家公司存在。”而公司登记、公布的两部电话一部为空号，另一部无人接听。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　就是这家“只见其名难觅其踪”的企业，却屡屡参与李宁承接的国家课题，进而获得国家经费。检索论文库发现，李宁共刊发核心以上期刊论文500余篇。以“中国养殖可持续发展”等课题名义刊发的论文中，济普霖公司名列参与者。不完全统计，济普霖公司参与的类似课题项目有近20项。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　根据巡视整改通报，李宁等人承担的、农业部牵头组织实施的“转基因生物新品种培育”重大专项有关课题，正是套取经费事发的导火索。尽管被侵吞的具体金额尚未公布，但记者在一份《转基因生物新品种培育科技重大专项重点课题申报指南》中看到，该科研专项旗下单个子项目的规模为200万元至300万元。同时承接多个项目的济普霖公司，掌握的经费估计至少上千万元。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　知情人士介绍，与多数专家与学生团队一同承接课题、使用经费不同，李宁采取的“专业化公司、专业化运作”近来十分“流行”。“名义上是有利于课题的专业性、延续性，实际上，便于开票报账也是重要目的。”</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　一位省级涉科研部门的经费管理办公室负责人坦言，上述做法不是孤例。“这几年企业参与省里科研项目的不少，但效果待观察。像上市公司那么大的账目流水，很容易以各种科研名目报销掉几百上千万的经费，甚至查出有企业将经费挪用在房地产上，简直把基层科研经费当个
+筐 ，是啥都敢往里装。”</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">　个案折射制度性漏洞</strong></font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　针对李宁涉案，记者多次联系中国农业大学校办负责人，办公电话均无人应答。而中国农大生命科学研究中心办公室负责人连用三个“不知道”来回答：不知道院士归谁管，不知道领导在哪里，不知道李宁个人任何情况，“我们只提供研究场地，李宁级别太高，我们管不了”。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　李宁涉案令很多师生和专家惋惜。中国农业大学一位硕士生称，李宁身为院士，还长期坚持为普通学生授课，实属少有。还有多位业内专家表示，生于江西的李宁，求学时是典型“学术痴”，其作出的重要科研贡献不能因其贪腐行为而被全盘否定。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　不少师生认为，李宁案不仅仅涉及个人道德，更重要的是暴露出我国科研经费管理方面诸多制度性漏洞：</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　――将经费结余作为研究人员个人收入，为何成为各方“默许”的明规则？</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　一位“211”院校青年课题负责人表示，经费如果花不完，按理应上交，但大多时候没有人这么干，而是设法“吞掉”。“有人年年找学生要火车票报销，一个课题三五人，一年的火车票却天南海北几百张。”</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　中国科协一项调查显示，科研资金用于项目本身仅占约四成。这意味着大量科研经费流失在项目之外。“高等院校教职工收入偏低的背景下，经费结余长期是校方默许的额外收入。”上述负责人表示。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　――借助企业参与科研以便“报账”为什么不受监管？</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　与李宁类似，在此次曝光的教授套现经费案件中，已被判刑的陈英旭同样是利用国家重大专项总负责人的便利，将关联公司列为课题外协单位，再通过虚假发票、虚假合同套取经费。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　业内人士指出，在《转基因生物新品种培育科技重大专项资金管理实施细则》中，对这些形形色色的“外协公司”竟没有一条专门的规范，甚至未要求课题负责人开办的关联企业“回避”。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　――科研管理行政化、功利化易引发“吸金”乱象。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　一位科研人员说，当前，科学界存在一种不正常的现象：评价科学家的标准不是看其学术水平、业界口碑，而是看其是否能吸引和占有大量资金。由此也造就了一些“科学家富豪”。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　中国教育科学研究院研究员储朝晖认为，当前，一些科研项目的开展目的不是为了创造生产力，而是为了满足高校和科研院所的行政考核和经费指标。由于缺少公平专业的评估、监督机制，一些科研人员为了获得经费不择手段。“院士涉案是科研界共同的损失和污点。”他说。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　据了解，《中国工程院章程》规定：当院士个人行为涉及触犯国家法律，危害国家利益时，或涉及丧失科学道德，背离了院士标准时，应撤销其院士称号。中国工程院发言人董庆九表示，中国工程院将视司法机关认定事实、性质和生效的判决，依据该院章程和有关规定，按照程序对李宁作出严肃处理。</font></p>
+<br /><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center"><img src="/u20699835/files/sign.pic"></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d209229041.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_4></span>　跟贴：3　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-10-16 12:27</span></p></dd></dl><dl class="dl"><dt><a href="/d209181513.htm" target="_blank">天津贪官伪装买菜老汉出逃 三轮车放百万...</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">近日，天津燃气集团原党委书记、董事长金建平（正厅级）涉嫌贪污受贿案移送审查起诉。8月，金建平曾仓皇出逃，并在逃亡时扮成买菜老汉，三轮车里藏放150万现金。据统计，金建平在职期间贪污公款3600余万元，受贿400余万元。</font></p>
+<p align="center" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　</font></p>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;text-align:center;word-wrap:break-word;"><font
+size="5"><img border="0" src="http://img4.cache.netease.com/cnews/2014/10/15/201410151023088e81b.jpg"
+style="word-wrap:break-word;" /></font></div>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"></p>
+<p align="center" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　近日，天津市人民检察院第一分院宣布，该市燃气集团有限公司原党委书记、董事长金建平（正厅级）涉嫌贪污、受贿犯罪案已侦查终结并移送审查起诉。至此，金建平贪污公款3600余万元，受贿400余万元的犯罪事实也逐渐浮出水面。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平的贪腐金额惊人，给党和国家带来了巨大的损失。但同时，由于他将所得赃款的大部分用于购置房产和理财，升值幅度不小，赃款得以被全部追回，间接减轻了国家的“账面”损失。也许是这个原因，金建平被办案人员称之为“过日子型贪官”。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　一方面是大肆贪腐，肆无忌惮；一方面是精打细算，买房、理财。金建平表现出来的两面性“与众不同”。作为带领企业从十几亿发展到几百亿的“能人”，一心“过日子”的金建平为何走上贪腐之路？又何以堕落到这步田地？</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平案是一起典型的国企领导人员贪腐案。这起案件警示我们：没有监督的权力，必然导致腐败。加强对国企领导人员尤其是一把手的有效教育和监督迫在眉睫。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">仓皇出逃，难逃法网恢恢</strong></font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平出逃时如惊弓之鸟，被抓时伪装成买菜的老汉，“戴着破帽子，蹬着三轮车”，三轮车里放着150万元现金。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平贪腐行为的暴露，源于一条审计线索。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　2013年8月，国家审计署京津冀特派办在审计过程中，发现金建平涉嫌违纪，遂将情况转交给了天津市纪委。之后，中央纪委转来国务院《审计要情》，反映金建平同样问题，要求天津市纪委查报结果。对金建平的调查很快紧锣密鼓地展开。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平察觉到了风声不对，立即做了“最坏打算”，打算出逃境外。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　办案人员告诉记者，金建平在准备好移民材料、伺机出逃的同时，为应付调查，还特地留了“后手”――一方面，他召集与其关系密切的私营老板，订立攻守同盟；另一方面，他把名下的一处可能会“暴露”的房产过户给了自己的亲戚。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　2013年8月30日，自觉万事俱备，金建平准备“溜”了。当天，他以公务名义从天津前往香港。不料，居然在机场被拦下了！</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　得知自己被限制出境，金建平惊慌失措。他感觉罪行已经暴露，“大祸”就要临头，此前种种的“未雨绸缪”不能丝毫减轻他的恐惧。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　他不敢留在机场，对机场工作人员谎称，有东西忘拿了，匆匆逃离。慌乱之中，连行李落下都没发觉。而正是在被他“遗忘”的行李中，办案人员发现了他准备移民的相关材料和一些细软。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　逃离了机场，金建平惶惶不可终日。他不敢留在天津，一路逃窜到了河北省香河县，并用别人名义租了一间房，准备先“避避风头”。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平的出逃引起了办案人员的高度重视。抓捕行动第一时间展开。经过缜密侦查，很快，办案人员掌握了金建平的行踪，赶赴香河。然而，出人意料的是――出租房内并没有发现金建平，只发现了一些没有使用过的油盐酱醋。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　办案人员没有气馁，种种迹象表明，离逮住金建平已经不远了。他们决定，一方面继续加大追踪力度，一方面派人在出租房外蹲守。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　功夫不负有心人。2013年9月3日，转机来了。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　当天一大早，一名办案人员在出租房附近发现一名老汉，“戴着破帽子，蹬着三轮车”，像是去买菜。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　办案人员觉得老汉形迹可疑，上前询问。老汉神情紧张，言辞闪烁。办案人员一边询问，一边观察，发现老汉与金建平的相貌极为相似，而三轮车里还放着两个鼓鼓的旅行包，于是果断将其控制。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　后来证实，这位“破帽遮颜”的老汉，正是金建平！而他三轮车里的两个旅行包内，赫然放着150万元现金！</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">心理失衡，“能人”逐渐滑向犯罪深渊</strong></font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平的朋友圈非富即贵，一些私营老板挥金如土，生活奢华；一些大型国企高管收入畸高，这些都让金建平十分羡慕，心理落差也越来越大</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平的“落马”在天津市燃气集团引起了巨大震动。干部职工普遍“不敢相信”、“震惊”、“理解不了”。很多人替他感到惋惜，不明白这位“集团的元老和功臣”何以走到了这步田地。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平曾有过辉煌的履历。1983年大学毕业后，他来到燃气集团，一干就是30年。从煤气厂技术员干起，一步步成为最年轻的车间主任、最年轻的领导班子成员，43岁时被任命为燃气集团总经理，成为整个城建系统最年轻的局级领导之一。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平也确实踏实肯干。他曾在夏天穿着厚厚的石棉服，钻进60度高温的车间工作；也曾为了处理生产事故，几天几夜不合眼。担任总经理之后，他率领燃气集团完成“香港上市、35万户气源转换、兴建城市建设管理职业技术学院”等几件大事，集团资产从十几个亿发展到几百亿，本人也被授予天津市优秀企业家等荣誉。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　然而，苦尽甘来，功成名就，金建平的心理却愈发不平衡。他自觉为工作付出太多，功劳太大，得到的却太少。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　“担任燃气集团总经理后，他的朋友圈非富即贵，给他强烈刺激。”办案人员告诉记者，一些私营老板挥金如土，生活奢华；一些大型国企高管收入畸高，这些都让金建平十分羡慕，心理落差也越来越大。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　特别是2005年，一度有传闻，称金建平可能会“更进一步”，前往某区（县）任职，结果却没了下文，金建平更感不平。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　他自问，论能力、论成绩哪一项比别人差了？燃气工作对安全生产要求高，自己长期失眠，每天为安全生产担惊受怕，拿什么来弥补？那些比自己差的人都坐拥万贯家财，自己把企业从十几个亿发展到几百亿，凭什么年收入只有几十万？</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　一念错，步步错。随着内心欲望不断膨胀，金建平“捞一把”的念头越来越强。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">肆无忌惮，把企业当成了自家的提款机</strong></font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平案的一个典型特点，就是伙同一些私营老板，利用订立虚假合同的方式贪污公款。他贪污金额最大的一笔达2000多万元，最小的一笔就是第一次贪污的260万元</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　2005年7月，金建平有意购买南开区一处房产。此时，他终于按捺不住，将手伸向了公款。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　为掩人耳目，金建平找到私营老板陈某某，向其提供了一份燃气集团的空白合同，并提出以燃气集团名义，与陈某某公司签订一份金额为260万元的虚假合同。同年8月，合同生效。等了两个月后，金建平便要求陈某某开具两张空白支票，并使用其中一张支付了250余万元购房款。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　“金建平案的一个典型特点，就是伙同一些私营老板，利用订立虚假合同的方式贪污公款。”直接参与办案的天津市纪委干部说，贪污第一笔公款后，一直没有人发觉，这让金建平大为得意，自以为犯罪手法高明，“天衣无缝”，随后一发不可收拾，胃口也越来越大。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　2008年下半年，金建平得知下属单位账上有1000余万盈余资金，贪念大动。以集团急需资金为由，指示集团下属分公司经理姜某采取与私营企业签订虚假工程合同的方式，将该款倒至账外，存入多人个人银行账户中。后由金建平将扣除税费的959万余元取出用于本人投资理财。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　办案人员告诉记者，金建平贪污起来肆无忌惮，简直把燃气集团当成了自己的提款机。他贪污金额最大的一笔达2000多万元，最小的一笔就是第一次贪污的260万元，累计居然达3600多万元！利令智昏，不外如是！</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　大肆贪污公款的同时，金建平还有索要、收受贿赂，设立小金库等违法违纪行为。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平在读MBA期间，结识了私营老板杜某某。2005年，燃气集团下属城建学院教学楼等工程招标，杜某某欲承揽该工程，遂向金建平“求援”。金建平利用职务便利，帮助杜某某中标。为答谢金建平的“无私”帮助，杜某某多次向金建平行贿。比如，得知金建平看上某处房产后，杜某某便“大方”地为其支付了购房款累计117万元。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　一位下属因为得到金建平提拔，借过春节之机，连续4年到金建平家向其亲属送红包，累计送出40万元。金建平获悉后，也坦然“笑纳”。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　办案人员告诉记者，金建平共索要、收受贿赂400多万元。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">自以为是：业务好了能一俊遮百丑</strong></font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平用赃款购置了一栋别墅，并耗费巨资装修，怕被人举报，也不敢住。办案人员问他：这房子你住过么？他回答：住过，就体验过一晚</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　“他是‘过日子型贪官’，爱财。”办案人员告诉记者，金建平违纪违法所得赃款主要有三种用途：一是用于购置房产；二是用于理财；三是倒到国外。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　案发后，在金建平一处房产内，办案人员发现了大量茶叶，而其中很多已经过期，金建平也不知道。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平曾用赃款购置了一栋别墅，并耗费巨资装修配备高档家具，怕被人举报，也不敢住。办案人员问他：这房子你住过么？他回答：住过，就体验过一晚。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　能吏寻常见，公廉第一难。金建平无疑是“能人”，可一旦放松了对自己的要求，思想上开始变质，就迅速滑向了犯罪的深渊。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　“严格家法，不犯国法。”在公开场合，金建平一贯如此要求下属。可“法”总挂在他嘴上，并没有进入他心里。案发后，他坦承，学习只是走形式、摆样子，“很少学习廉政方面的党纪党规，对法制的观念也十分淡薄”，“总觉得只要把集团业务干好了，事业稳定发展，就能一俊遮百丑”。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　“无法平静。”金建平忏悔说，“自己所犯罪行之严重，给党组织造成的影响之恶劣，是用文字和语言无法表达的”。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　世上没有后悔药。金建平的“落马”，彻底改变了他自己的命运，也影响了很多人的生活。父亲得知他违纪违法后，气得大骂；一些原本以他为荣的亲戚，出门都觉得“抬不起头”。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　“腐败成本太大，代价太沉重。”办案人员告诉记者，案发前，金建平精神饱满，头发乌黑；出事后，不到3个月，头发已经白了大半。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">监督不能走形式，制度不能当摆设</strong></font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　一个值得注意的事实是，金建平的贪腐事实主要在2005年之后，“潜伏期”长达9年。这其中，对他的监督在哪里？制度约束又在何处？</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　就在金建平“出事”之际，天津市燃气集团和天津市津能投资公司合并，组建了天津市能源投资集团有限公司，实现了企业的继续发展。然而，金建平案依然影响着这家新组建的企业。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　能源投资集团有限公司对金建平案进行了深刻反思，提出了许多意见建议。其中，最为重要的一点就是，要切实加强对国企一把手的监督，下大力气保证各项制度落到实处，决不能“牛栏关猫”。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　这一点和办案人员的观察不谋而合。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　“他在燃气集团工作30年，可以说是‘树大根深’，完全掌控了集团局面。”办案人员说，金建平的口头禅是“没有办不成的事儿”，在燃气集团向来说一不二。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　办案人员告诉记者，金建平的权力欲极强。事无巨细，事必躬亲。他不点头，啥事都办不成。再加上确实做出了成绩，因而在员工中威信高。没有人敢质疑他，更别提监督。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　燃气集团一名负责人对此深有体会。他告诉记者，集团也有诸多制度，但制度是对别人而言的，对金建平没有约束力。比如，按照规定，重要项目安排、大额资金使用等，要经过集团领导班子会议集体决策，但金建平对一些事项，要么以保密为由绕过去；要么干脆一人独断，直接指挥到具体岗位。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　记者了解到，燃气集团虽然也设有董事会、监事会和经理层，但并未起到有效的制约作用。董事会成员与经理层高度重合，且没有外部董事；监事会主席由工会主席兼任，监督只是个形式。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　对金建平而言，上级监督太远，同级监督太软，下级监督太难。监督缺位客观上放纵了金建平，他的贪腐行为没有被及时发现，使他心存侥幸，在违纪违法的道路上越走越远。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　案发后，金建平自己也反思说，要切实加强对一把手的监督，使一把手的权力在正确的程序中行使。另外，要搞好重要岗位领导干部的定期交流，防止人熟、事熟，个人的行为得不到有效约束。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　“一些国企领导人员，掌握着巨大的资源，对他们的监管却往往失之于软、失之于宽，甚至压根就是个摆设。”金建平案专案组一位负责同志说，金建平案充分说明了对国企领导人员的教育和监督必须加强。尤其是监督这一手，决不能放松，必须坚持“老虎”、“苍蝇”一起打，从严惩处、从严执纪，形成强大震慑。（李志勇）</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">办案者说</strong></font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">“一俊遮百丑”是自欺欺人</strong></font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　作为办案者，每查办一个大案要案，我们更多的不是工作完成之后的欣慰，而是扼腕叹息。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平走上违纪违法道路，尤其令我们感慨。作为天津建设系统曾经最年轻的局级领导干部之一，作为曾经创造过“陕气进津”等天津燃气行业“八项之最”殊荣的代表性人物，金建平本应带领燃气集团做好市场、搞好管理、服务社会，但是，他却无视党纪国法，利用手中权力和资源谋取私利，虚构合同，大肆贪污、受贿，侵害国家及企业利益，严重损害了党员领导干部形象，造成恶劣影响。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平走上违纪违法道路的原因很多。主观上集中表现为他信念动摇、心理失衡、贪图享受、逃避监督。他重业务轻品行，放松思想改造。认为只要搞好了业务工作，保障了安全不出事故，就能“一俊遮百丑”。正是在这种理念下，他在思想上不断松懈和麻痹自己，心理上不断原谅自己的丑行和为自己壮胆，最后越陷越深，覆水难收。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平的“沦陷”，监督的缺位是一个重要原因。对他而言，上级监督太远，同级监督太软，下级监督太难。他的贪腐行为没有被及时发现，使他心存侥幸，自认为作案手段隐蔽，接二连三地虚构合同，贪污公款。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　金建平案是一起典型的国企领导人员贪腐案。它给我们的教训是深刻的。一方面，国企领导人员要坚定理想信念，牢记党的宗旨，自觉抵制各种不正之风的侵蚀，调整心态、摆正位置、清正廉洁、无私奉献。另一方面，必须重视对国有企业领导人员的监督，不仅要压担子、要成果，更要加强教育、管理、交流和监督。（天纪）</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">忏悔录</strong></font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">悔恨使我的心灵无法平静</strong></font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　每次提起笔来，回想自己成长的历程和组织三十多年的培养与信任，每写一个字都挖心割肉般难受。自己所犯罪行之严重，给党组织造成的影响之恶劣，是用文字和语言无法表达的。对自己所犯罪行的悔恨，对组织的愧疚，使我的心灵无法平静，我必须真心向组织忏悔，求得组织的宽恕与谅解。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　我1959年4月出生在天津农村一个教师家庭中，全家总共六口人，因为母亲没有工作，生活的来源只能靠父亲每月几十元的工资，生活十分艰难。当时因为每月口粮不够吃，除了每月提前借粮外，还要在粮食中掺些豆腐渣勉强度日。记得小时候由于经济困难，春节没有穿过新衣服，母亲用旧衣服洗洗染染就算过年了。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　1978 年，国家为我提供了改变命运的机会，我幸运地通过高考，进入天津大学建筑分校读书。我是靠国家提供的助学金和全家人节衣缩食才读完大学的。从一定意义上说是党和国家为我这个穷孩子的成长搭起了天梯。如果自己能够常常想想这些，永远地记住我从哪里来，我是谁，就不会忘本，就能保持清醒头脑，常怀感恩之心，也就不会有今天的下场。这一点对我来说，认识得太晚了。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　剖析自己走上犯罪道路的原因，除了上述认识外，自己以为还有以下主要原因：</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　一是单纯重视业务，不注重日常的学习和自觉的思想改造。这些年尽管也以不同形式参加学习，但是从心里没有真正学进去，有时也只是走形式、摆样子，从而造成思想空虚，消极腐败思想乘虚而入。自己总觉得只要把集团业务干好了，事业稳定发展，就能一俊遮百丑。这是十分错误的，是自己不能在犯罪道路上及时警醒的重要原因之一。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　二是骄傲自满，过度看重自己在事业发展中的贡献。应该说，这些年燃气事业确实实现了快速发展，但这是市委、市政府的正确领导，社会进步发展和集团万名职工共同奋斗的结果，自己只是一名参与者。但是自己却放大了自己在其中的作用，总觉得付出的多，得到的少，再加上这些年与央企、港澳企业接触，觉得付出的差不多，收入却十分悬殊，产生了心理上的不平衡，这也是自己走向犯罪的原因之一。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　三是规避廉政和法制教育。这些年，自己很少学习廉政方面的党纪党规，对法制的观念也十分淡薄，没有真正做到学法、懂法、用法。对发生的腐败案件也很少重视，总觉得那是别人的事。如果自己能以他们为镜，把组织的提醒真正重视起来，改邪归正，悬崖勒马，也不会在犯罪的道路上越陷越深。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　四是从客观上说，要切实加强对一把手的监督，把权力关进笼子。通过加强制度建设，使一把手的权力在正确的程序中行使。另外，切实搞好重要岗位领导干部的定期交流，防止人熟、事熟，个人的行为得不到有效约束，造成滥用职权。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　总而言之，我所犯错误和罪行是严重的，我诚心认罪，接受组织和法律的严惩。（摘自金建平忏悔书）</font></p>
+<br /><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center"><img src="/u20699835/files/sign.pic"></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d209181513.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_5></span>　跟贴：3　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-10-15 13:13</span></p></dd></dl><dl class="dl"><dt><a href="/d209092703.htm" target="_blank">江苏省委原常委赵少麟受谁牵累？</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p style="background-color:rgb(251, 251, 251);line-height:1.7em;margin:0px 0px 10px;padding:0px;text-indent:2em;"><font
+size="5">中纪委官网昨天公布两名省部级官员被调查消息，其中江苏省委原常委、秘书长赵少麟是中央巡视组结束对江苏巡视以后首名落马省部级高官。赵少麟是涉嫌严重违纪违法被调查（2014年10月12日京华时报）。</font></p>
+<p style="background-color:rgb(251, 251, 251);line-height:1.7em;margin:0px 0px 10px;padding:0px;text-indent:2em;"><font
+size="5">1946年出生的赵少麟，曾任江苏淮阴市长、市委书记、江苏省委常委、省委秘书长、办公厅主任。2006年12月至今，赵少麟一直担任中国老龄事业发展基金会第一副理事长。赵少麟退居二线已经8年，显然，年近70的赵少麟此番被查，意味这位退居二线多年的“老老虎”也难以躲避反腐浪潮。这意味官员只要腐败，离职多少年也未进入保险箱！因此，赵少麟被查，意义也非同寻常！</font></p>
+<p style="background-color:rgb(251, 251, 251);line-height:1.7em;margin:0px 0px 10px;padding:0px;text-indent:2em;"><font
+size="5">赵少麟落马，是中央巡视组进入江苏后的第一份成绩大单。赵少麟曾任江苏省委常委、秘书长，自然了解江苏省委、省政府相关官员腐败内幕；赵少麟曾任职南京、淮阴，足迹遍布苏南、苏北，显然，赵少麟被查，或许可以牵出苏南、苏北多少腐败大案！或许赵少麟落马将牵扯出江苏官场多年根深蒂固的腐败。</font></p>
+<p style="background-color:rgb(251, 251, 251);line-height:1.7em;margin:0px 0px 10px;padding:0px;text-indent:2em;"><font
+size="5">今年7月初，赵少麟儿子赵晋被有关部门控制。赵晋任法人的天津高盛地产和天津汇景地产开发的“水岸银座”、“名门广场”、“卓越浅水湾”、“君临天下”等房地产项目大多跻身津门黄金地段。这些房地产项目普遍存在擅自增加楼房层数，无限制扩大容积率牟取暴利。“水岸银座”项目规划上部三幢31至35层住宅，被擅自更改为41至66层，并采用缩小楼间距等方法，使违规超建面积一倍多。一套实际建筑面积110多平米三室两厅，房产证上竟然只有区区20多平米。即使以每平米一万元计，通过改变规划、扩大容积率所获取非法利益已达数十亿元之巨。开发商通过这种方式偷逃土地出让金、市政配套费、土地增值税等数额也将是惊人数字，无疑会给国家财政造成巨额损失。任何房地产开发项目都应按国家规划管理法规进行建设，否则无法通过验收，更无法取得合法权利证书。然而，赵晋开发的项目都能顺利“通关”，对于相关反映，天津市建委、房管、规划等部门竟无一过问。这怎不令人震惊？由此可见，赵晋在天津真是手眼通天、呼风唤雨！显然，其背后有一个强大的保护伞和利益集团包庇。显然，赵晋的房地产企业违规操作侵占的几十亿巨额利益一大部分将进入政界官员手中。</font></p>
+<p style="background-color:rgb(251, 251, 251);line-height:1.7em;margin:0px 0px 10px;padding:0px;text-indent:2em;"><font
+size="5">这些年来，赵晋以房地产开发为平台，在天津政界编织了广泛的人脉关系。然而，有消息显示，赵晋在天津政界的许多关系都是依靠其父亲的关系建立起来的。显然，赵少麟这位曾经的江苏省委常委、秘书长，离休8年还依然把权力之手伸向天津官场。是赵少麟在天津政界编织的关系网，为“赵衙内”风生水起的房地产开发遮风挡雨！赵少麟被调查，或许又是遭遇“坑爹”的儿子。</font></p>
+<p style="background-color:rgb(251, 251, 251);line-height:1.7em;margin:0px 0px 10px;padding:0px;text-indent:2em;"><font
+size="5">然而，三年来，一直有人坚持向多个部门举报“赵衙内”，赵晋却始终安然无恙。或许，不是中央巡视组进驻天津，赵少麟编织的关系网依然风雨不透，赵晋将不知张狂到几时？中央第五巡视组表示，天津城市建设领域腐败问题突出。显然，赵晋背后牵扯多少天津党政官员！此番赵少麟被调查，或许牵扯天津、江苏多处腐败！背后不知又隐藏多少巨贪大蠹？让人不得不扼腕叹息的是，有多少高官都遭遇“坑爹”的儿子！显然，赵少麟落马也是为儿子牵累，然而，对于这一切，赵少麟自己就没有责任吗？</font></p><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center"><img src="/u20699835/files/sign.pic"></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d209092703.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_6></span>　跟贴：2　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-10-13 13:17</span></p></dd></dl><dl class="dl"><dt><a href="/d209053972.htm" target="_blank">国家行政学院副院长何家成被查 系正部级</a></dt><dd class="bor"><p class="pd"><!---doc_text---><div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;text-align:center;word-wrap:break-word;"><font
+size="5"><img border="0" src="http://img1.cache.netease.com/catchpic/4/49/494DB43ACE8B9412D83522A569A00C84.jpg"
+style="word-wrap:break-word;" /></font></div>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"></p>
+<p align="center" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　何家成(资料图)</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　国家行政学院常务副院长何家成涉嫌严重违纪违法，目前正接受组织调查。</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">何家成简历</strong></font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　国家行政学院常务副院长、党委委员。</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　男，汉族，1956年5月生，江苏南京人，1975年参加工作，1981年入党。现任国家行政学院党委委员、常务副院长，主持学院常务工作。</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　1978－1981年 在南京大学读经济学学士学位。</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　1981－1984年 在中国社会科学院研究生院读经济学硕士学位。</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　1984－1986年 在中国社会科学院经济所读在职经济学博士学位。比较经济学研究室副主任、发展经济学研究室主任。1985年获"孙冶方经济学奖"，1986年获"国家级有突出贡献中青年学者"称号、破格晋升为副研究员、当选全国青联委员。</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　1986－1987年 中共中央办公厅调研室工作。</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　1987－1989年 中共中央政治体制改革研究室综合局副局长。1987年当选中国青年企业家协会副会长。</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　1990－1992年 国家物资部办公厅副主任，兼部长办主任、中国物资经济研究所所长（正司级）。（1992－1993年江苏无锡市副市长。）1990年获第四届中国图书奖。
+1991年当选中国物资流通学会常务副会长。1992年享受国务院特殊津贴、当选全国青联常委。</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　1993－1995年 国家国内贸易部政策体制法规司司长。1994年当选中国国有资产管理学会副会长。</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　1995－1998年 中国华星集团董事长、总裁兼党委书记。（1996年9月－1997年7月中央党校中青班学习。）1997年当选中国物流协会副会长。</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　1998－2000年 国家国内贸易局党组成员、副局长。（1999年9月－2000年1月哈佛大学肯尼迪学院学习。）</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　2000－2009年 国务院国有重点大型企业监事会主席。2000年起先后当选哈佛大学肯尼迪学院中国同学会会长、中国信息基础结构与经济发展中心顾问委员会副主席、国家信息化专家委员会委员、中国俄罗斯东欧中亚学会副会长。北京大学、清华大学、中国社会科学院特邀研究员。</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　2009．09―2013.03 国家行政学院党委委员、副院长。</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　2013．03― 国家行政学院党委委员、常务副院长，主持学院常务工作。</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　中共十七大代表。</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">相关资料</strong>&nbsp;<strong style="word-wrap:break-word;">职务级别：2013年何家成同志明确为正部长级干部</strong></font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　2013年3月18日下午，学院召开干部大会，宣布党中央、国务院关于国家行政学院主要负责同志调整的决定。中央组织部副部长王秦丰同志和李建华、陈宝生、何家成同志在主席台上就坐。李建华主持会议。王秦丰同志首先在会上宣布了党中央、国务院的决定。中央决定：何家成同志明确为正部长级干部，主持常务工作，列陈宝生同志(任国家行政学院党委书记、副院长)之后。</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　新闻加点料</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">周末见！中纪委一日再打“两虎”</strong></font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">江苏省委原常委、秘书长赵少麟被查 退休数年</strong></font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　今次“双杀”何家成、赵少麟两位部级官员之前，中纪委监察部网站已沉寂了20天。中纪委上一次发力是在十一国庆长假之前的9月21日。当天，中纪委监察部网站宣布，“河南省人大常委会党组书记、副主任秦玉海涉嫌严重违纪违法，目前正接受组织调查。”</font></p>
+<p align="left" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　事实上，十八大之后，特别是中纪委网站在2013年9月开通后，经常以“双杀”、“多杀”方式通报部级高官接受组织调查的消息。譬如，在今次何家成、赵少麟之前，今年6月19日、8月23日、8月29日，山西6位副部级官员杜善学、令政策、陈川平、聂春玉、白云、任润厚就分别被“双杀”。</font></p>
+<br /><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center"><img src="/u20699835/files/sign.pic"></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d209053972.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_7></span>　跟贴：1　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-10-12 09:49</span></p></dd></dl><dl class="dl"><dt><a href="/d209053784.htm" target="_blank">江苏高官落马 其子是天津最牛开发商</a></dt><dd class="bor"><p class="pd"><!---doc_text---><font size="5"><img border="0" src="http://upload2.bkcimg.com/news/20141011/36f40cff46762Hf4IoBd.jpg"
+style="font-family:Helvetica, Arial, SimSun;line-height:normal;text-align:center;word-wrap:break-word;" /></font>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"></p>
+<p align="center" style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　赵少麟的儿子赵晋被称为天津“最牛开发商”。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　中共中央纪委监察部星期六宣布，江苏省委原常委、秘书长赵少麟“涉嫌严重违纪违法”，正在接受调查。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　赵少麟1970年从哈尔滨军事工程学院毕业后，一直在江苏工作，从工人到车间书记，然后又在南京市委、淮阴市委任职，一直做到江苏省委常委、秘书长。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　2006年退休后，赵少麟在中国老龄事业发展基金会任第一副理事长。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　赵少麟落马的消息发布后，中国媒体披露，今年7月被有关部门控制的天津“最牛开发商”赵晋，就是赵少麟的儿子。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　“最牛开发商”</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　据《法治周末》今年8月19日报道，有举报人称，赵晋在天津负责开发的多个项目都存在擅自增加楼房层数，将卧室处理成“飘窗”、“装饰性阳台”的计算方法，无限制扩大容积率，牟取暴利。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　有知情人士告诉《法治周末》： “赵晋在天津真的可以说是手眼通天、呼风唤雨，想整谁就整谁。”</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　该报引述举报人王强的话说，赵晋在天津政界的许多关系都是依靠其父亲的关系建立起来的，赵晋出身名门，其父亲曾经在南方某省省委担任过重要领导，并且任职时间长达十年，几年前才离休。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　一分钟内两人落马</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　中央纪委监察部星期六在一分钟内接连宣布调查两位省部级高官。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　除了赵少麟，同时落马的还有国家行政学院常务副院长何家成。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　根据公开履历，何家成在中国社会科学院获得经济学博士学位，曾在国家物资部、国内贸易部任职，还曾在中国华星集团董事长、总裁兼党委书记。</font></p>
+<p style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;margin:0px;padding:0px;word-wrap:break-word;"><font
+size="5">　　何家成还曾任国务院国有重点大型企业监事会主席，并于2009年担任国家行政学院党委委员、副院长，属于正部长级干部。</font></p>
+<br /><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center"><img src="/u20699835/files/sign.pic"></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d209053784.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_8></span>　跟贴：3　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-10-12 09:42</span></p></dd></dl><dl class="dl"><dt><a href="/d209038875.htm" target="_blank">中央首晒&quot;官赌&quot;账单: 部分官员赌博动辄上..</a></dt><dd class="bor"><p class="pd"><!---doc_text---><div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;">
+<div style="text-align:center;word-wrap:break-word;"><font size="5"><img border="0"
+src="http://img1.cache.netease.com/catchpic/5/5B/5BCD466769C7B7F31B05693A2DF2E81E.jpg"
+style="word-wrap:break-word;" /></font></div>
+</div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　“整治查处党员干部参赌涉赌案件6122起，涉及7162人。”这是党的群众路线教育实践活动开展以来，中央晒出的一份清单。专家称，官员赌博过去只有零星的公开，此次“官场赌风”首次大规模暴露在公众面前，意味着这一曾被忽略甚至有些“隐秘”的问题，成为反腐突出的焦点。一位地方纪检干部说，以前认为赌博只是一种游戏和爱好，涉及“私德”。现在大家都认识到，“官场赌风”危害的不仅仅是党员干部的形象，更潜藏着诸多公权力的“腐败暗道”。</font></div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">“赌博是一些干部贪腐导火索”</strong></font></div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　梳理各地晒出的整改成绩单，分区域来看，党员干部参赌涉赌的问题在30多个省区市均有出现，其中浙江涉案人数最多，查处党员干部参赌涉赌案件1575件，党纪政纪处分1544人；其次为广东，查处党员干部参赌涉赌案件1114起，处理1127人。</font></div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　一些纪检干部和专家分析，由于各地查处、执行标准不一，所以上述数字并不能绝对显示出一个地方“赌风”的盛衰。而且，从全国范围看，实际发生的可能案例比公布出来的更多。</font></div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　在已公布的案例中，涉赌金额巨大、后果严重是重要特征之一。今年9月26日，浙江义乌市佛堂镇泽塘村村委会主任金某驱车带着79岁的老母亲到镇政府门口，在车内点燃了事先准备好的香蕉水，造成严重烧伤，目前仍在治疗。经调查，金某曾多次到澳门赌博，债务缠身，其中已经法院判决的涉案金额为400余万元。</font></div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　贵州省一位纪检干部称，排除那些“上不封顶”的“贿赂式”赌博和动辄过亿的官员“巨赌”，一些被当作“小赌怡情”的牌局数额也是非常大的。以贵州麻将为例，以10元为底，一把牌下来就可以赢上几百元；如果以50元为底，一把就是几千元；有些人打得更大，一把牌输赢几万元几十万元也很正常。</font></div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　“党员干部一旦沾上赌博就很难回头，当其深陷其中不能自拔，有限的收入难以满足赌瘾时，很有可能利用职务之便，利用手中的权力贪污、受贿、挪用公款筹集赌资，走上违法犯罪的道路。”广西检察系统一名干部说，赌博是一些干部走上贪腐道路的导火索。</font></div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">“清单不够细，涉赌金额来源未涉及”</strong></font></div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　2000 年以后，查处的官员赌博案件数量和比例均逐年上升。以杭州市为例，2000年，杭州查出党员领导干部参赌案件占全年查案总量22%，2001年占
+27%，2003年则占到36%。与此同时，跨境赌博、巨赌官员开始出现，动辄贪污挪用数亿元公款的官员参赌案件开始出现。</font></div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　2004年，中纪委、中组部联合下发的《关于严肃查处党员和干部参与赌博的通知》明确规定：“对参与赌博活动的党员，要按照《中国共产党纪律处分条例》的有关规定严肃处理，是党员领导干部的，要从重或者加重处分”，“凡是参与赌博的领导干部，要一律予以免职。”</font></div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　对于首晒“官赌”清单，也有专家认为还不够细化。在清单中，对公众关心的涉赌金额及来源并未涉及。国家行政学院教授汪玉凯说，根据已经公开的信息，近年来各地鲜有治赌新规定出台。时下，随着“反四风”活动，治赌新政也应该跟上。</font></div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　纪检干部和专家表示，党员干部赌博呈现“农村强于城市，基层强于高层”的趋势。同时，网络赌博、赌球赌马等新兴赌博方式逐渐出现，应该及时关注，并且采取手段加以整治。
+据新华社电</font></div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　<strong style="word-wrap:break-word;">声 音</strong></font></div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　应强化对领导干部“8小时外”行为监督，把干部“小圈子”交往纳入述职述廉和群众评价等范畴，防止“小圈子”变成“腐败圈”；相关单位应加强财务管理，防止贪污、挪用公款等现象发生。</font></div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　―广西科技大学副研究员夏辛萍</font></div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　在定罪量刑上，党员干部参与赌博应该比一般人更加严格，这是考虑到其社会危害性的合理措施。</font></div>
+<div style="background-color:rgb(239, 239, 239);font-family:Helvetica, Arial, SimSun;line-height:normal;word-wrap:break-word;"><font
+size="5">　　―清华大学法学院博士生导师黎宏</font></div>
+<br /><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center"><img src="/u20699835/files/sign.pic"></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d209038875.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_9></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-10-11 16:29</span></p></dd></dl><script language=javascript>function SetValue(sValues) {var arrvs = sValues.split(',');for (var i = 0; i < arrvs.length; i++) {document.getElementById("c_" + i).innerHTML = arrvs[i];};};SetValue('787,536,7830,2249,880,1288,1292,508,888,1409');</script><div class="alg_r"><b>1</b> <a href="/u20699835/p2.htm">2</a> <a href="/u20699835/p3.htm">3</a> <a href="/u20699835/p4.htm">4</a> <a href="/u20699835/p5.htm">5</a> <a href="/u20699835/p6.htm">6</a> <a href="/u20699835/p7.htm">7</a> <a href="/u20699835/p8.htm">8</a> <a href="/u20699835/p9.htm">9</a> <a href="/u20699835/p10.htm">10</a> <a href="/u20699835/p2.htm">下一页</a> <a href="/u20699835/p11.htm">后十页</a> <a href="/u20699835/p30.htm">尾页</a> <input style="border:solid 1px #333333;font-size:12px;" id="pnBox" type="text" size="1"> <a href=# onClick="RePage('/u20699835/p',pnBox.value);">翻页</a> 共 30 页</div></div>
+
+		
+	</div>	
+	<div id="slideB"><div class="widget bor"><h2 class="tit bgn" title="我的名片">我的名片</h2><div class="cul"><a href="/u20699835"><img src="http://icons.xici.net/u20699835/files/photo_l.pic" alt=lavinia66 /></a><p class="name">lavinia66</p><ul class="ul"><li>ID　　号：20699835</li><li>注册时间：11-02-21</li><li>上次登陆：15-11-25</li><!--li>今日人气：12345</li--><!--li>今日排名：12345</li--></ul></div></div><div class="widget bor"><h2 class="tit bgn" title="个人资料">个人资料</h2><ul class="iul"></ul></div><script src='http://api.map.baidu.com/api?key=&v=1.1&services=true'></script><script src='http://imgs.xici.net/_controls/maps/baiduMap.js'></script><div class='widget bor'><h2 class='bgn tit' title='我的位置'>这里是哪呢？</h2><div class='map' id='dituContent' style='width:180px;height:150px'><script>baiduMap.createMap(116.391322,39.908063,11);</script></div></div><div class='widget bor'><h2 class='bgn tit' title='最新发表的文章'>最新发表文章</h2><ul class='iul'><li><a href='/d209462140.htm' title="今年六月才获升职 昆明副市长说倒就倒" target='_blank'>今年六月才获升职 昆明副...</a></li><li><a href='/d209341499.htm' title="人大常委会拟增收礼罪 不办事只收钱也不行" target='_blank'>人大常委会拟增收礼罪 不...</a></li><li><a href='/d209341310.htm' title="福建一纪委官员坠亡 曾称被人设圈套当替罪羊" target='_blank'>福建一纪委官员坠亡 曾称...</a></li><li><a href='/d209230217.htm' title="广东组织部原副部长林存德被查" target='_blank'>广东组织部原副部长林存德..</a></li><li><a href='/d209229041.htm' title="中国最年轻院士腐败轨迹：空壳公司捞钱" target='_blank'>中国最年轻院士腐败轨迹：..</a></li><li><a href='/d209181513.htm' title="天津贪官伪装买菜老汉出逃 三轮车放百万现金" target='_blank'>天津贪官伪装买菜老汉出逃..</a></li><li><a href='/d209092703.htm' title="江苏省委原常委赵少麟受谁牵累？" target='_blank'>江苏省委原常委赵少麟受谁..</a></li><li><a href='/d209053972.htm' title="国家行政学院副院长何家成被查 系正部级" target='_blank'>国家行政学院副院长何家成..</a></li><li><a href='/d209053784.htm' title="江苏高官落马 其子是天津最牛开发商" target='_blank'>江苏高官落马 其子是天津...</a></li><li><a href='/d209038875.htm' title="中央首晒&quot;官赌&quot;账单: 部分官员赌博动辄上亿元" target='_blank'>中央首晒&quot;官赌&quot;账单: 部分..</a></li></ul></div><div class="widget bor"><h2 class="tit bgn" title="标题">文章归档</h2><ul class="ul pul"><li><samp>・</samp><a href="a201410.htm">2014年10月</a> (19)</li><li><samp>・</samp><a href="a201409.htm">2014年09月</a> (34)</li><li><samp>・</samp><a href="a201408.htm">2014年08月</a> (36)</li><li><samp>・</samp><a href="a201407.htm">2014年07月</a> (59)</li><li><samp>・</samp><a href="a201406.htm">2014年06月</a> (32)</li><li><samp>・</samp><a href="a201405.htm">2014年05月</a> (5)</li><li><samp>・</samp><a href="a201404.htm">2014年04月</a> (20)</li><li><samp>・</samp><a href="a201403.htm">2014年03月</a> (18)</li><li><samp>・</samp><a href="a201402.htm">2014年02月</a> (22)</li><li><samp>・</samp><a href="a201401.htm">2014年01月</a> (21)</li><li><samp>・</samp><a href="a201312.htm">2013年12月</a> (8)</li><li><samp>・</samp><a href="a201311.htm">2013年11月</a> (2)</li><li><samp>・</samp><a href="a201309.htm">2013年09月</a> (10)</li><li><samp>・</samp><a href="a201305.htm">2013年05月</a> (1)</li><li><samp>・</samp><a href="a201304.htm">2013年04月</a> (7)</li><li><samp>・</samp><a href="a201104.htm">2011年04月</a> (1)</li><li><samp>・</samp><a href="a201103.htm">2011年03月</a> (2)</li></ul></div></div><div id="slideC"></div>
+	
+</div>
+<script language=javascript>
+localStorage.removeItem("noticeNum" + G_UID);
+try{
+ImgsFix();
+}catch(e){}
+jQuery(function (){
+	jQuery("#blog_bottom").show();
+	var a_h,b_h,c_h;
+	var typeA = jQuery("#slideA").css("display");
+	var typeB = jQuery("#slideB").css("display");
+	var typeC = jQuery("#slideC").css("display");
+	if(typeA == "block"){
+		a_h = jQuery('#slideA').height();
+	}else{
+		a_h = 0;
+	}
+
+	if(typeB == "block"){
+		b_h = jQuery('#slideB').height();
+	}else{
+		b_h = 0;
+	}
+
+	if(typeC == "block"){
+		c_h = jQuery('#slideC').height();
+	}else{
+		c_h = 0;
+	}
+	jQuery('#spCont').css("height", Math.max(a_h,b_h,c_h));
+})
+</script>
+
+<span id="blog_bottom" style="display:none;">
+</div>
+<script type="text/javascript">var lCityId=142440100;var lClubId=1;var lATimes=1;var strRefer='';var refer='';if(refer=='fav') {strRefer='menu.asp';} var strFirstRefer='';var maintag = (typeof(StatMainTag)=='undefined')?'':StatMainTag;var sbookDate = (typeof(bookDate)=='undefined')?'4':bookDate;var sLogondays = (typeof(Logondays)=='undefined')?'0':Logondays;var screenResolution = screen.width+'*'+screen.height;var str_img={rnd:"2015-12-21|13:39:45",runtime:{pub_1:"0.016",pub_2:"0.016",d_bconn:"0.000",d_bvsql:"0.016",d_besql:"0.000",HttpTimer_Raw1:"0.000",ATime:"0.328",DTime:"0.016",FTime:"0.000",AppSvr:"",AppRun:""},stat:{dn:"www.xici.net",uname:"",uid:"0",s:"3BC0DEDC3EE824AA",h:"",ct:"142440100",ch:"1",ats:"1",fr:"",frurl:"",cus:"http://www.xici.net/u20699835/",rf:escape(strRefer),mt:escape(maintag),bdt:sbookDate,lds:sLogondays,scr:screenResolution}};str_img="<img src='http://data.xici.net/1x1.gif?"+JSON.stringify(str_img)+"' style='display:none;' />";if(typeof(lBdId)=="undefined") {document.write(str_img);}else{document.write(str_img.replace(/(\/d([^/]+)\.htm)/,'/b'+lBdId+'$1'));}</script>
+	<script type="text/javascript">
+	window.onload = function () {
+			var SessionID = '3BC0DEDC3EE824AA';
+			if (SessionID != "" && window.localStorage){
+				var key = localStorage.getItem("key");
+				if (key!=SessionID){
+					localStorage.setItem("key",SessionID);
+					localStorage.setItem("count",1);
+				}else{
+					var value = Number(localStorage.getItem("count"));
+					localStorage.setItem("count",value+1);
+					if ((value % 6)==0){
+						bdAccessLogon(location.href.substring(location.host.length + 8),'_self');
+					}
+				}
+			}
+		}
+	</script>
+<img alt="" src="" width="0" height="0" />
+<div id="ofooter" class="w">
+	<span><a href="/" target="_blank" title="西祠首页">胡同口</a>|<a href="/help/law.asp" target="_blank" title="网民法规提示">法规</a>|<a href="http://service.xici.net/" target="_blank" title="广告服务">广告服务</a>|<a href="/help/partner.asp" target="_blank" title="合作伙伴">合作伙伴</a>|<a href="/help/contact.asp" target="_blank" title="联系我们">联系我们</a>|<a href="/b566135/" target="_blank" title="加入我们">加入我们</a>
+	</span>
+</div>
+
+<script type="text/javascript">    
+//google代码统计
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+jQuery(function (){
+	if (typeof gastatic !== "undefined") {
+		gastatic();
+	}
+});
+</script>
+<!--[if IE 6]>
+<script src="http://imgs.xici.net/_js/DD_belatedPNG.js"></script>
+<script type="text/javascript">
+   DD_belatedPNG.fix('.logo_top, .logo a');
+</script>
+<![endif]-->
+
+</span>
+<script src="http://imgs.xici.net/_js/xici.common.analysis-baidu.js" type="text/javascript"></script>
+</body>
+</html>

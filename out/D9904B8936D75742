@@ -1,0 +1,734 @@
+<!--UINFO: http://bbs.jrj.com.cn/msg,99031952,1.html	length=42968&last_modified=0&time_saved=1450676870&charset=gbk-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+		<title>参与社会管理 服务民生工程-保险论坛-金融界理财论坛</title>
+		<meta name="keywords" content="参与社会管理 服务民生工程,理财论坛,股市分析,预测明日大盘走势,个股分析">
+		<meta name="description" content="参与社会管理 服务民生工程&nbsp;&nbsp;&nbsp;&nbsp;孙哲军 杨晶晶 本报记者王彤&nbsp;&nbsp;&nbsp;&n"/>
+		<script type="text/javascript" src="http://js.jrj.com.cn/myjrj/js/jquery.js"></script>
+		<script src="http://js.jrj.com.cn/bbsnew/bbs120626.js" type="text/javascript"></script>
+		<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/LoginDialog-min.js"></script>
+		<link rel="stylesheet" id="skin" type="text/css" href="http://js.jrj.com.cn/bbsnew/css/essay120605.css" />
+		<script type="text/javascript" src="http://js.jrj.com.cn/myjrj/js/api/myjrj_api_1.js"></script>
+		<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/dialogs-2.js"></script>
+		<script src="http://js.jrj.com.cn/bbsnew/article/staticpage140102.js" type="text/javascript"></script>
+		<link rel="stylesheet" type="text/css" href="http://js.jrj.com.cn/lib/ui/dialog-cool.css" />
+		<link href="http://js.jrjimg.cn/common/bottombar.css" rel="stylesheet" /><!-- 底部通用导航新加样式 -->
+		<style type="text/css">
+	    	.jbtext{background:url(http://i0.jrjimg.cn/istock/igjb.png) no-repeat 0 center;padding:0 20px 0 20px;cursor:pointer;}
+	    	.fcfcnew{z-index:9999;display:none;background:url(http://i0.jrjimg.cn/bbsnew/img/fcfcnew.png) no-repeat 0 0;width:490px;height:350px;position:fixed;top:50%;left:50%;margin-left:-245px;_position:absolude;margin-top:-175px;}
+			.fcfcnew .hd{height:104px;position:relative;}
+			.fcfcnew .hd a.clear{position:absolute;top:8px;right:14px;width:15px;height:15px;display:block;}
+			.fcfcnew .hd i{font-family:"微软雅黑","宋体";font-sizE:24px;position:absolute;top:53px;left:245px;color:#fff;}
+			.text-new1{padding:25px 60px 0;}
+			.text-new1 p{line-height:21px;}
+			.text-new1 p.cur{padding:0 0 20px;}
+			.fhbox{position:fixed;margin-left:480px;left:50%;top:40%;_position:absolute;}
+			.fhbox a{display:block;background:url(http://i0.jrjimg.cn/istock/fhtopnew.jpg) no-repeat;width:66px;height:68px;}
+			.fhbox a.fh02{background-position:0 -68px;margin-top:9px;}
+			.fhbox a.fh01:hover{background-position:-66px 0;}
+			.fhbox a.fh02:hover{background-position:-66px -68px;}
+			.sharetos {
+			    background: none repeat scroll 0 0 transparent;
+			    cursor: pointer;
+			    display: inline-block;
+			    font-size: 12px;
+			    height: 25px;
+			    margin-right: 5px;
+			    padding-left: 2px;
+			    vertical-align: middle;
+			}
+			.mpll {
+			    margin: 38px 0 5px;
+			    overflow: hidden;
+			    text-align: center;
+			}
+	    </style>
+	    <script type="text/javascript" src="http://js.jrjimg.cn/js.do?f=/lib/jrjbase-min.js,/lib/util/ie6fixed-nojq-min.js,/lib/ui/ScrollLeft-min.js,/lib/ui/PopupMsgBox-nojq-1.0.min.js"></script>
+	    
+<script>
+$(document).ready(function(){
+	var ie6Fixed = JRJ.util.ie6Fixed;
+	ie6Fixed.fixed($(".fcfcnew"), "cc");
+	//$(".jbtext").click(function(){
+	//		$(".fcfcnew").show();
+	//		return false;
+	//});
+	$(".clear").click(function(){
+			$(".fcfcnew").hide();
+			return false;
+	});
+  $("#helpbutton").css("right",($(window).width()-$("#topIndex").width())/2-$("#helpbutton").width()-2);
+  if(jQuery.browser.msie && jQuery.browser.version == 6) {
+    Followmod.follow();
+  }
+  $("#helpbutton").show();
+});
+Followmod = {
+  follow : function(){
+    $("#helpbutton").css("position","absolute");
+    $(window).scroll(function(){
+      var mtop = $(window).scrollTop() + $(window).height() - $("#helpbutton").outerHeight()-260;
+      var mleft = ($(window).width()-$("#topIndex").width())/2-$("#helpbutton").width()-2;
+      $("#helpbutton").css({"top":mtop,"right":mleft});
+    });
+  }
+}
+function imgsize(img){
+	img.width=Math.min(img.width,900);
+	if(img.width==900){
+		img.style.cursor="pointer";
+		img.title="点击查看原图";
+	}
+}
+
+function imggo(img){
+	if(img.width>=900){
+		window.open(img.src);
+	}
+}
+</script>
+	</head>
+	<body>
+	<script type="text/javascript" src="http://js.jrjimg.cn/home/click.js"></script>
+	<div class="fcfcnew" id="fcfcnew">
+    	<div class="hd"><a href="javascript:void(0);" class="clear"></a><i>金融界论坛</i></div>
+        <div class="bd">
+        	<div class="text-new1">
+        		<strong>尊敬的用户：</strong>
+                <p class="cur">如您在使用金融界网站论坛的过程中发现色情，反动言论，伪造他人言论，广告欺诈等帖子，为便于网友反馈问题，特将金融界论坛管理员联系方式公布如下，欢迎大家有问题或者建议随时联系。</p>
+                <p>金融界客户服务中心邮箱：jrjhudong@jrj.com.cn</p>
+                <p>论坛客服电话010-58325388-1532</p>
+                <p>金融界论坛官方账户：管理员01</p>
+                <p>金融界论坛客服QQ:2632547546</p>
+                
+            </div>
+        </div>
+    </div>
+	<p class="cnav bbs">
+	<a href="http://www.jrj.com/" target="_blank">首页</a>|
+	<a href="http://i.jrj.com.cn/" target="_blank">我的金融界</a>|
+	<a href="http://blog.jrj.com.cn/" target="_blank">博客</a>|
+	<a href="http://bbs.jrj.com.cn/" target="_blank">论坛</a>|
+	<a href="http://istock.jrj.com.cn/" target="_blank">爱股</a>|
+	<a href="http://itougu.jrj.com.cn?from=itougu-20141227-rc-bbs-sydh-wzl-051" target="_blank">爱投顾</a>|
+	<a href="http://zhibo.jrj.com.cn/" target="_blank">实盘直播</a>|
+	<a href="http://v.jrj.com.cn/" target="_blank">微视频</a>|
+	<a href="http://pic.jrj.com.cn/" target="_blank">图片</a>
+
+			<span>[<a href="http://www.m.jrj.com.cn/" target="_blank">手机金融界</a>]
+			[<a href="http://bbs.jrj.com.cn/bbsmap.html" target="_blank">网站地图</a>]
+			[<a href="javascript:void(0);" onclick="javascript:addFav();">收藏本页</a>]</span>
+		</p>
+		<div class="ban bbs">
+			<a href="http://bbs.jrj.com.cn" class="logo"><a href="http://bbs.jrj.com.cn"></a></a>
+			<div class="fr" id="adDiv"></div>
+      <script>
+             window.onload=function(){
+             var div = document.getElementById("adDiv");
+             div.innerHTML = '<div class="ad1"><iframe width="547" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=27&op=1" ></iframe></div>'
++'<div class="ad2"><iframe width="195" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=28&op=1" ></iframe></div>';
+         }               
+     </script>                       
+	</div>
+	<div class="Bbs_Thread bdnav fw1">
+			<select class="fr" name="history" onchange="windowOPENTO(this)">
+				<option>
+					最近访问版区
+				</option>
+			</select>
+						<!-- a href="http://www.jrj.com.cn">金融界</a><i>&gt;</i --><a href="http://bbs.jrj.com.cn">金融界论坛</a><i>&gt;</i><a href="/money">理财论坛</a><i>&gt;</i><a href="/insurance">保险论坛</a>		</div>
+	<div class="Bbs_Thread bbs flist">
+			<div id="login">
+			</div>	
+<form action="/article/searchArticle.jspa" class="search" method="get" onsubmit="return checkData(this)">
+<select id="searchtype" name="searchtype">
+	<option value="author">
+		作者
+	</option>
+	<option value="title">
+		标题
+	</option>
+	<option value="tag">
+		标签
+	</option>
+</select>
+<input class="text" value="请输入搜索内容" name="typeValue" onfocus="onSelected(this)" onblur="onLeave(this)" id="typeValue" type="text"/>
+<input type="hidden" name="from" value="search"/>
+<input type="hidden" name="cid" value="2" />
+<input class="btn" value="搜索" type="submit"/>
+</form>
+</div>
+<div class="navlist" id="loginlist" onmouseover="showloginlist()" onmouseout="outMenuDiv(this, event)" style="display:none">
+<ul><li><a href="/author,2," target="_blank" id="mymsg">我的帖子</a></li><li><a href="/jiangu" target="_blank">我的荐股</a></li></ul>
+</div>
+
+<script>
+	setValue('2','903','0','99031952','090706010092209121','/article/getMsgReply.jspa?msgid=99031952&itemid=0&forumid=903&cid=2&status=0&count=$totalCount');
+	showLogin('thread');
+</script>
+		<div class="Bbs_Thread fun button1">
+			<span class="fl">
+			<!-- a href="javascript:void(0);" onclick="goToReplyDiv('replyDiv')" class="reply" target="_top">回复</a -->
+			<a href="#" onclick="return newthread('/article/sendPreStock.jsp');" class="reply">荐股</a>
+			<a href="#" onclick="return newthread('/article/sendMsgMain.jsp?cid=2&forumid=903&itemid=0');" class="pub">发新帖</a>
+			<a href="javascript:void(0);" onclick="javascript:window.location.reload();" class="break">刷新</a>
+			<a href="/doldmsg/2_99031952.html" class="acol" target="_blank">以旧版方式浏览</a>
+			<a href="http://www.m.jrj.com.cn" class="acol" target="_blank" style="background:url(http://i0.jrjimg.cn/bbsnew/img/phone.gif) no-repeat;padding:5px 0 0 25px;margin:0 0 0 10px">手机上论坛</a>
+			</span>
+			<span class="fr" id="adReplySpan">
+				<!--	<a href="#">预留广告位预留广告位</a>-->
+			</span>
+		</div>
+
+		<div class="Bbs_Thread lcd zhengwen" id="topIndex">
+			<div class="ltit">
+				<h1><b>『普通』主题： 参与社会管理 服务民生工程</b></h1>
+				<span>
+					<a class="jbtext" id="jubao" onclick="javascript:$('.fcfcnew').show();">举报</a>
+					<a href="javascript:void(0);" onclick="javascript:addFav();">收藏本页</a><!-- a href="javascript:void(0)" onclick="doFavorite('99031952','0','903','2')">收藏</a--> 
+				</span>
+			</div>
+			<div class="author">
+			<!-- a href="http://i.jrj.com.cn/app/trace/traceforum.jspa?user=090706010092209121" target=_blank -->
+			<a href="/author,2,花骨" target=_blank>
+						<img src="http://i5.jrjimg.cn/sys/default_xs.jpg" alt="" />
+						</a>
+			<p class="name"><b><a href="/author,2,花骨" name="users" id="1-090706010092209121" onmouseover="showUserinfo('090706010092209121','topIndex','2','25','903')" target="_blank" ref="090706010092209121">花骨</a></b><!--a href="#">查看他的牛股池</a--><a href="/author,2,花骨" id="track1-090706010092209121" target="_blank">查看TA的论坛文集</a><span class="fr">发表日期：2015-11-02 14:35:13</span></p>
+			<p>头衔：社区侯爵<em id="jifen">积分：641630</em>
+			<a href="#" id="attentionBut" onclick="checkLogin('090706010092209121','花骨',1);">关注</a><a href="#" id="frientBut" onclick="checkLogin('090706010092209121','花骨',2);">加为好友</a>
+			<span class="fr">
+			<a href="#" name="admin" id="admin-99031952" onmouseover='getOperation("99031952",1,0,0,0)' style="display:none">管理</a>
+			<a href="javascript:void(0)" target="_top" onclick="return quoto('花骨','msgMainContent','2015-11-02 14:35:13');">引用</a>
+			<span class="pingfen">
+			<a href="javascript:void(0)" onclick='msgScoreShow("99031952","0","2")'>评分</a>
+			<span class="pop" style="display:none"><strong id="pingfenClose" title="关闭"></strong>点击这里可对本文评分<em></em></span>
+			</span>
+			<script type="text/javascript">
+			$(function() {
+				var pingfenVal = getCookie('threadMsgMain_pingfen');
+				if(pingfenVal != null && pingfenVal != ''){
+					$(".pop").css('display','none');
+				}else {
+					$(".pop").css('display','inline');
+				}
+				$("#pingfenClose").click(function(){
+					addCookie('threadMsgMain_pingfen',1,241000);
+					$(".pop").css('display','none');
+				});
+			});
+			</script>  
+			<a href="#" onclick='return onlyViewUserThread("99031952","2","090706010092209121")'>只看该作者</a>			<ul class='admin' id='only99031952' style="display:none"></ul>
+			</span></p>
+			</div>
+			<!--帖子内容-->
+			
+			<div id="msgcoin_99031952" class="pf_result"> </div>
+			
+			<div class="content" id="msgMainContent">
+				<p>&nbsp;&nbsp;&nbsp;&nbsp;孙哲军 杨晶晶 本报记者王彤</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;新国十条”发布一年多，河南保监局积极与政府相关部门联系沟通，共同推动“新国十条”各项政策措施的落实，保险业参与社会管理、服务民生工程的作用日益显现。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <b>保障舌尖上的安全</b></p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;近年来，中国食品安全频现问题，食品安全涉及食品生产的每个领域，加强食品企业监管和建立食品安全责任强制保险制度的呼声也越来越高。</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;河南省汤阴县作为全国食品工业强县，率先引入保险机制，通过政府补贴，鼓励企业购买食品安全责任保险，协助企业转移食品安全风险，最大限度保障消费者权益。</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;2014年年底，人保财险与河南省安阳市签署食品安全责任保险全面合作协议，在合作方案中创新性地引入了食品安全风险评估和预防服务。人保财险与第三方食品安全监测机构合作，先后多次邀请食品安全专家为投保企业开展食品安全培训，提高企业管理人员食品安全知识水平。在承保前和承保过程中对食品企业的风险进行评估，及时指出企业生产过程中存在的食品安全风险隐患，督促企业改善风险状况，提升风险管理水平，实现事前有风险预防、事中有风险控制、事后有理赔服务的全流程风险管理。</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;人保财险河南省分公司责任信用险部总经理周继阳介绍：“汤阴食品安全责任保险保费由参保企业与政府分担，实行差异化补贴标准。其中学校食堂保费由财政全额补贴，食品生产企业保费财政补贴90%，餐饮和流通企业保费自行承担。截至目前，共签单160余笔，保费收入160万元，为160家企业、商场、学校提供风险保障3.60亿元。”</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <b>健全医疗纠纷机制</b></p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;焦作市探索运用市场手段健全医疗纠纷调解机制，建立“调解、保险、诉讼和预防”四位一体的医疗纠纷第三方调解机制，以调赔结合、调保协同、调诉衔接为特点的医患纠纷调解新模式，运用法律、市场和行政手段化解医疗纠纷，实现了医疗机构、患者和保险机构三方共赢。</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;据悉,焦作市医疗纠纷调解委员会经司法局备案，下设4个职能部门，同时成立了医疗纠纷评鉴委员会和合议委员会2个专业委员会。焦作市卫生局、司法局等负责对医疗纠纷调解工作进行指导和监督，市医调委的日常管理由江泰保险经纪公司负责。</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;河南保监局产险处处长孔德立介绍:“江泰保险经纪公司作为卫生行政部门的保险顾问和医疗机构的保险经纪人参与日常管理，实现了三个结合。一是调解与保险相结合，促进了风险的有效转移和化解。改进了保险产品，适当扩大了保险责任，将医疗过错、医疗机构及其工作人员未尽到应尽义务造成的患者损害等纳入保险责任范围。实行分类管理，对事实清楚、责任明确、属于保险事故且索赔金额5000元以下的医疗纠纷，由医疗机构先行垫付赔款，协商结果报市医调委备案认可。对索赔金额超过5000元以上的医疗纠纷，通过市医调委调解处理，医疗机构不得自行解决。二是调解与评鉴相结合，增强调解的针对性。市医调委引入评鉴制度，建立由医学、法学、保险等方面400多名专业人员组成的专家库，采取随机抽取的方式对索赔金额高、争议大的医疗纠纷进行定性、定则和定损。评鉴结果作为调解的参考依据。三是调解与诉讼相结合，提高调解的有效性。”</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;焦作市医调委主任张俊超告诉记者：“将市场机制与人民调解相结合开展医疗纠纷调解工作，破解了工作经费少、人员编制少的难题，减轻了地方财政压力，为人民调解注入了新活力。”</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;据悉，焦作市医调委自2014年11月成立以来，截至2015年7月30日,共受理医疗纠纷49起，涉案金额2222.13万元，调解结案26起，引导当事人放弃调解6起，正在调解14起，调解后赔付金额215.53万元。其中，现场转移重大纠纷8起，指导医疗机构自主协商调解纠纷5起。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <b>助力小微企业融资</b></p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;郑州市有8.1万家小微企业，占全市企业总数的96%，创造了70%以上的就业、55%左右的GDP和税收。但是，郑州市仅有16%的小微企业获得了银行贷款，融资难已经成为制约小微企业加快健康发展的瓶颈问题。</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;为解决小微企业融资难、融资贵问题，郑州市政府联合银行、保险机构，建立“政府+银行+保险”三方合作模式和风险共担机制，组建郑州金融支持小微企业贷款保证保险“共保体”，加强对小微企业的融资支持，实现企业、银行与保险公司的协作共赢。</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;“共保体”由7家保险公司组成，服务对象为郑州市小微企业名录库的企业，名录库内的小微企业贷款发生损失时，贷款银行和“共保体”按3&#8758;7的比例分摊贷款本息损失风险。同时，政府根据银行和“共保体”之间的贷款风险分摊比例，据实给予逾期未还本息5%-20%不等的补贴。贷款逾期率一旦达到6%，立即停办相关银行的试点业务，避免风险超出金融机构自身承受能力。服务客户以科技型轻资产企业为主，无抵押物的情况较为普遍。项目运行一年来，共计提供风险保障
+9460万元，服务融资金额7550万元，服务小微企业31家。</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;郑州市政府金融办工作人员告诉记者，“政府+银行+保险”的三方合作模式提高了小微企业融资能力。通过保险机制的运用，使贷款风险在不同机构之间转移和分担，提高了小微企业的增信融资能力，也增强了银行的贷款意愿和额度，同时降低了小微企业融资成本。有抵押物保险费率仅为1.5%，无抵押物保险费率为
+2.5%，远低于担保公司和其他融资渠道的成本。</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;中国人寿财险河南省分公司总经理于建民介绍：“小微企业融资难问题的核心是缺抵押、缺担保，郑州市政府采取的&lsquo;银行+保险&rsquo;模式，有效缓解了这一瓶颈制约。以&lsquo;共保体&rsquo;提供贷款保证保险的形式，一举解决了小微企业缺少抵押和银行担心逾期风险的两大难题。”享受这一政策红利的郑州某科技公司财务总监石磊磊兴奋地告诉记者：“通过投保贷款保证保险，3天就顺利融资500万元，缓解了公司研发项目的资金紧张。这是从未有过的贷款体验”。</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;记者在2015年9月河南省政府金融办和河南保监局联合召开的河南保险机制服务小微企业融资推进会上了解到，郑州“共保体”模式引起了各方关注。省金融办要求各地积极探索以信用保险、贷款保证保险等为载体，“政府+银行+保险”多方参与、风险共担的合作经营模式。切实化解企业抵押难、银行贷款违约风险和保险公司的赔付风险，逐步实现政府搞活经济，银行和保险公司赢得客户，小微企业获得低成本贷款的四方共赢效果。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;《 中国保险报》（ 2015年10月13日 3 版）</p>
+<br>
+
+　　原文链接：http://insurance.jrj.com.cn/2015/10/30000020012674.shtml
+
+							</div>
+			<div class="content">
+							
+			<div style="height:10px">&nbsp;</div>
+						</div>
+			
+				<div class="mpll" style="width:625px;margin:0 auto;margin-top:38px;">
+			<span style="float:left;margin-right:5px;" class="digg1" onclick="doDingorCaiAction(0,99031952,2)">文章不错(<i>0</i>)</span>
+			<span style="float:left;" class="digg4" onclick="copyShareUrl()">复制链接</span>
+			<div style="float:left;" class="sharetos">
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+				<span class="bds_more">分享到：</span>
+				<a class="bds_qzone"></a>
+				<a class="bds_tsina"></a>
+				<a class="bds_tqq"></a>
+				<a class="bds_renren"></a>
+				<a class="bds_t163"></a>
+				<a class="shareCount"></a>
+				</div>
+				<span class="refreshs" style="float:left;line-height:25px;">&nbsp;&nbsp;帖子刷新<select id="autoRefreshConfSelect" name="autoRefreshConfSelect" onchange="javascript:refreshConfSet()" >
+					<option value="1" >1分钟</option>
+					<option value="2" >2分钟</option>
+					<option value="3" >3分钟</option>
+					<option value="5" >5分钟</option>
+					<option value="0" >不刷新</option>
+				</select></span>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=6470526" ></script>
+				<script type="text/javascript" id="bdshell_js"></script>
+				<script type="text/javascript">
+				document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+				</script>
+				<!-- Baidu Button END -->
+			</div>
+<script>
+	var inter_variable;
+	function refreshConfSet(){
+		var time = parseFloat($('#autoRefreshConfSelect').val());
+		var date = new Date();
+		date.setTime(date.getTime()+365*24*3600*1000);
+		document.cookie = 'Ref_Msg_Conf=' + time + ';expires=' + date.toGMTString();
+		clearInterval(inter_variable);
+		if(time != 0){
+			inter_variable = setInterval(function(){
+					window.location.href = window.location.href;
+				},time*60*1000);
+		}
+	}
+	function getDefaultRefreshTime(){
+		var cook = document.cookie;
+		var start = cook.indexOf('Ref_Msg_Conf');
+		var time = parseFloat('0');
+		if(start != -1){
+			start += 'Ref_Msg_Conf'.length + 1;
+			var end = cook.indexOf(';',start);
+			if(end == -1){
+				time = parseFloat(cook.substring(start));
+			}else{
+				time = parseFloat(cook.substring(start,end));
+			}
+		}
+		clearInterval(inter_variable);		
+		$('#autoRefreshConfSelect').val(time);
+		if(time != 0){
+			inter_variable = setInterval(function(){
+					window.location.href = window.location.href;
+				},time*60*1000);
+		}
+	}
+	
+	getDefaultRefreshTime();
+</script>
+			</div>
+			<br>
+		</div>
+<div class="floats" id="popdiv" style="display:none">
+<div class="float float1" id="favoriteDiv" style="display:none"> <a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>收藏帖子</span></strong></p>
+    <p class="right" id="favoriteAlert">已经成功收藏本帖！请到<a href="#">我的收藏</a>中查看所有收藏贴</p>
+    <p class="txr">窗口5秒自动关闭</p>
+</div>
+<div id="sharediv" class="float float1" style="display:none"> <a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>复制链接给好友</span></strong></p>
+    <p>本帖连接：<input id="shareurl" type="text" value="http://bbs.jrj.com.cn/msg,99031952.html" class="tex" readonly="readonly"/></p>
+    <p class="p1"><input type="button" value="复制并发送给我的好友" onclick="copyShareUrl()"/></p>
+    <p>分享到：<a href="javascript:void(0)" onclick="javascript:createShare()" class="ic1">我的金融界</a></p>
+</div>
+<div id="shareokdiv" class="float float1" style="display:none" ><a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>复制链接给好友</span></strong></p>
+    <p id="sharemsg" class="right p2">帖子地址已经复制，您可以粘贴到QQ，MSN或者邮件发给好友了！每次点击你将获得一个威望。</p>
+    <p class="txr">窗口5秒自动关闭</p>
+</div>
+</div>
+<div style="margin-bottom:10px;"><center><a href="http://i.jrj.com.cn/app/vstock/index.jspa" target="_blank"><img src="http://ufile.jrj.com.cn/200912/17/bbs_attach_img/bbs_attach_img_12610207826881.gif" alt=""></a></center></div>
+
+		<!--楼主更多贴，论坛精粹-->
+		<div class="Bbs_Thread about">
+			<div class="lcd s1">
+			<p class="ltit">
+				<strong><a href="/author,2,花骨" target="_blank">楼主更多贴</a></strong>
+				<ul class="ull" id="louzhumoremsg"></ul>	
+			</p>
+			</div>
+									<div class="lcd bbsjp s1">
+										   	<p class="ltit"><strong>论坛精粹</strong>
+			   					<div id="injection">
+								   <a href="http://bbs.jrj.com.cn/msg,73302967.html"><img						src="http://img.jrjimg.cn/2011/05/20110520151932921.jpg" class="imgb"						alt="富人的50个理财习惯" /> </a>				<ul class="ull">					<li>						<A href="http://bbs.jrj.com.cn/msg,73510041.html" target="_blank">吃透三句话人人都能成富翁</A><A href="http://bbs.jrj.com.cn/msg,73289221.html" target="_blank"></A><A href="http://bbs.jrj.com.cn/msg,72917018.html" target="_blank"></A><a href="http://bbs.jrj.com.cn/msg,71744207.html"></a>					</li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73508474.html" target="_blank">经济适用男PK白领愁嫁女！！</A><a href="http://bbs.jrj.com.cn/msg,72916645.html"></a>					</li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73507900.html" target="_blank">高薪不是白领唯一追求</A><a href="http://bbs.jrj.com.cn/msg,73286590.html"></a>					</li>					<li><A href="http://bbs.jrj.com.cn/msg,73504857.html" target="_blank">全球最火辣十大亿万富家女</A><A href="http://bbs.jrj.com.cn/msg,73309651.html" target="_blank"></A><a href="http://bbs.jrj.com.cn/msg,72882577.html"></a>											</li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73502482.html" target="_blank">私奔投资人王功权回家</A><a href="http://bbs.jrj.com.cn/msg,73309641.html"></a>					</li>				</ul>				<ul class="ull">					<li>						<a href="http://bbs.jrj.com.cn/msg,73499076.html"> 全球最理想工作盘点</a></li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73487695.html" target="_blank">揭秘美国人理财十大秘诀</A><a href="http://bbs.jrj.com.cn/msg,72880887.html"></a>					</li>						
+<li>						<A href="http://bbs.jrj.com.cn/msg,73484026.html" target="_blank">闲暇时该做的28件聪明事</A><A href="http://bbs.jrj.com.cn/msg,73262409.html" target="_blank"></A><a href="http://bbs.jrj.com.cn/msg,72880299.html"></a>					</li>					<li><A href="http://bbs.jrj.com.cn/msg,73467912.html" target="_blank">工薪族三步攒出个百万富翁</A><a href="http://bbs.jrj.com.cn/msg,72861475.html"></a>											</li>		  	<li>						<a href="http://bbs.jrj.com.cn/msg,73480310.html"> 如何让所有人都快乐消费</a>					</li>				</ul>
+								</div>
+			   </p>
+			</div>
+					</div>
+		
+		<!--zhibo
+		<div class="Bbs_Thread about" style="height:75px;margin:10px auto 9px;overflow: hidden;width: 953px;">
+			<iframe width="950" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=472&op=1" ></iframe>
+		</div>-->
+		
+		<!--回帖信息列表-->
+				<div class="Bbs_Thread fun button2">
+			<span class="fl">
+				<!-- a href="javascript:void(0);" onclick="goToReplyDiv('replyDiv')" target="_top"  class="reply">回复</a -->
+				<a href="#" onclick="return newthread('/article/sendPreStock.jsp');" class="reply">荐股</a>
+				<a href="#" onclick="return newthread('/article/sendMsgMain.jsp?cid=2&forumid=903&itemid=0');" class="pub">发新帖</a>
+				<a href="javascript:window.location.reload();" class="break">刷新</a>
+				<a href="/doldmsg/2_99031952.html" class="acol" target="_blank">以旧版方式浏览</a> 
+		       	</span>
+			<p class="pn pn2"><a href="/msg,99031952,1.html">首页</a><a href="#" class="next">&lt;&lt;上一页</a><a href="#" class="cur">1</a><a href="#" class="next">下一页&gt;&gt;</a><a href="/msg,99031952,1.html">末页</a>共1页&nbsp;到<input id="gopage2" type="text" size=2>页<input type="button" value="提交" onclick="javascript:goPage(2);"></p>
+		</div>
+		<div class="Bbs_Thread blue2">
+		<p class="abor">
+				<a href="/">返回论坛首页</a><a href="/903" id="_backTOfirst">返回本版首页</a>
+			</p>
+			<p id="previous">
+				<b>论坛上一帖：</b><a href="javascript:void(0)" id="previousthread" target="_blank">&nbsp;&nbsp;</a>
+			</p>
+			<p id="next">
+				<b>论坛下一帖：</b><a href="javascript:void(0)" id="nextthread" target="_blank">&nbsp;&nbsp;</a>
+			</p>
+		</div>
+
+		<div class="Bbs_Thread lcd tjian" id="S1_R">
+			<p class="ltit"><strong>近期热门话题推荐</strong></p>
+				
+				<ul><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95188719.html"><img src="http://i5.jrjimg.cn/201404/29/bbs_attach_img/bbs_attach_img_13987437656041.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95188719.html">政府关系最硬的民营企业</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95115050.html"><img src="http://i5.jrjimg.cn/201404/24/bbs_attach_img/bbs_attach_img_13983079197391.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95115050.html">盘点年入几十万的小生意</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95007640.html"><img src="http://i5.jrjimg.cn/201404/16/bbs_attach_img/bbs_attach_img_13976176535951.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95007640.html">中国社会七大灰色产业链</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,94971037.html"><img src="http://i5.jrjimg.cn/201404/14/bbs_attach_img/bbs_attach_img_13974442464991.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,94971037.html">中国九大最好赚钱的产业</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,94922538.html"><img src="http://i5.jrjimg.cn/201404/10/bbs_attach_img/bbs_attach_img_13971002679111.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,94922538.html">中国人变穷的四大真相</a></p></li></ul><ul class="ull"><li><a target="_blank" href="http://bbs.jrj.com.cn/picshow">更多劲爆图片</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbmsg">论坛热帖</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbzqt">精准高手</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/tag">热门股票</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbps_5">人气高手</a></li></ul>
+		</div>
+
+		<div class="Bbs_Thread cc">
+			<div id="ReplyIframeDiv" class="fl" >
+			<iframe id="replyPostDetal" name="replyPostDetal" width="100%" height="368px;" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes" src="/article/getMsgReply.jspa?msgid=99031952&itemid=0&forumid=903&cid=2&status=0&count=$totalCount"> 
+			</iframe>
+			<script type="text/javascript">
+				var attachNum=0;
+				var delIndex=null;
+				var sourcetext = "";
+				 
+				 function insertAttach(fileName,fileUrl){
+				 	 attachNum++;
+				 	 
+				 	var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+				 	 var atts = editdoc.getElementById("fileAttach");
+				 	 
+				 	 if (attachNum==1){
+				 	 	sourcetext = atts.innerHTML;
+				 	 }
+				 	 
+				 	 atts.innerHTML += '<li id="attach_'+attachNum+'">附件：<a href="'+fileUrl+'"><img src="http://js.jrj.com.cn/bbsnew/fckeditor/editor/skins/default/toolbar/uploadfile.gif" width="15px" height="15px"></img>'
+				 	   +'&nbsp;'+fileName+'</a>&nbsp;&nbsp;<a href="javascript:void(0)" name="delete" onclick="parent.delAttach('+attachNum+')">删除附件</a>&nbsp;&nbsp;&nbsp;&nbsp;售价（铜板）：<input name="filecoin_'+attachNum+'" id="filecoin_'+attachNum+'" type="text" style="width:30px" /> 最高1000</li>';
+				 	 atts.innerHTML = atts.innerHTML.replace(sourcetext,"") + sourcetext;
+				 	   
+				 	   var sAnnex = editdoc.getElementById("annxe");
+				 	   if(!sAnnex){
+					 	   var form1 = editdoc.getElementById("form1");
+							var textHidden = editdoc.createElement("input");
+							textHidden.type = "hidden";
+							textHidden.name ="annxe";
+							textHidden.id = "annxe";
+							textHidden.value = "";
+							form1.appendChild(textHidden);
+							sAnnex = textHidden;
+					   }
+				 	  var value = sAnnex.value;
+				 	  if(value!="") {
+							value += "|";
+					  }
+				 	  value += attachNum+","+fileUrl+","+ fileName + "," + "http://js.jrj.com.cn/bbsnew/fckeditor/editor/skins/default/toolbar/uploadfile.gif";
+				 	  sAnnex.value = value;
+				 	  
+						var pTar = document.getElementById("replyPostDetal");
+					    if (pTar.contentDocument && pTar.contentDocument.body.offsetHeight){  
+					      pTar.height = pTar.contentDocument.body.offsetHeight;   
+					    }else if (pTar.Document && pTar.Document.body.scrollHeight){  
+					      pTar.height = pTar.Document.body.scrollHeight;
+					    }
+				 }
+				 function delAttach(index){           
+         			 delIndex=index;
+         			 var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+         			 var sAnnex = editdoc.getElementById("annxe");
+         			 if(sAnnex) {
+						var sValue = sAnnex.value;
+						var iIndex = sValue.indexOf("|"+index);
+						if (index==1) iIndex = 0;
+						var iEndIndex = sValue.indexOf("|",iIndex+1);
+						if(iEndIndex==-1) {
+							iEndIndex = sValue.length;
+							}
+						var firstStr = sValue.substring(0,iIndex);
+						var endStr = sValue.substring(iEndIndex+1);
+						if (index!=1){
+							sAnnex.value = firstStr +"|"+ endStr;
+						}else{
+							sAnnex.value = firstStr + endStr;
+						}
+						
+						var pTar = document.getElementById("replyPostDetal");
+					    if (pTar.contentDocument && pTar.contentDocument.body.offsetHeight){  
+					      pTar.height = pTar.contentDocument.body.offsetHeight;   
+					    }else if (pTar.Document && pTar.Document.body.scrollHeight){  
+					      pTar.height = pTar.Document.body.scrollHeight;  
+					    }
+             		 }
+         			 delCallBack();
+				 }
+				 function delCallBack(){
+					 var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+				   	var atts = editdoc.getElementById("fileAttach");
+				 	 var att = editdoc.getElementById("attach_"+delIndex);
+				 	 atts.removeChild(att);
+				 }
+				 function goPage(pagename){
+				 	var gopage = document.getElementById("gopage"+pagename).value;
+				 	if(gopage!=null && gopage!=""){
+        				var r,re;
+        				re = /\d*/i;
+        				r = gopage.match(re);
+        				if (r!=gopage){
+        					alert("请输入数字页码");
+        					return;
+        				}
+    				}else{
+    					alert("请输入数字页码");
+    					return;
+    				}
+    				//window.location.href= "/dmsg/2_99031952_"+gopage+".html";
+				 	window.location.href= "/msg,99031952,"+gopage+".html";
+				 }
+				</script>
+			</div>
+	<div class="fr">
+				<ul class="ltit">
+			<li class="hover" id="jh1" onmouseover="setTab('jh',1,2)" onclick="window.open('/gupiao_celite');"><strong>最新精华帖</strong></li>
+			<li id="jh2" onmouseover="ajax_getNiurenList(903)"><strong>版区牛人榜</strong></li>
+		</ul>
+		<ul class="ull" id="con_jh_1">
+		<li><img src="http://i0.jrjimg.cn/myjrj/loading2.gif"/></li>
+		</ul>
+		<div id="con_jh_2" style="height:339px;display:none">
+			<table class="jhtab" id="niuren">
+			<tr><th width="32"><span>排名</span></th><th width="85"><span>ID</span></th><th width="61"><span>精华帖数</span></th><th width="55"><span class="end">积分</span></th></tr>
+			<tr id="niurenload"><td colspan=4><img src="http://i0.jrjimg.cn/myjrj/loading2.gif"/></td></tr>
+			</table>
+			<br><center><a href="/msg,64498799.html" target="_blank"><img src="http://i0.jrjimg.cn/bbsnew/img/joinniuren.gif"/></a></center>
+		</div>
+			</div>
+		</div>
+		
+				
+		<div class="Bbs_Thread bdnav fw2">
+			<select class="fr" name="history" onchange="windowOPENTO(this)">
+				<option>
+
+					最近访问版区
+				</option>
+			</select>
+		<a href="http://www.jrj.com.cn">金融界</a><i>&gt;</i><a href="/money">理财论坛</a><i>&gt;</i><a href="/insurance">保险论坛</a>		</div>
+
+<!-- 回到顶部&刷新 start 
+<div class="helpbutton" id="helpbutton" style="display:none">
+  <div class="gotop"><a href="javascript:void(0);" alt="回到顶部" onclick="javascript:window.scrollTo(0,0);">回到顶部</a></div>
+  <div class="refresh"><a href="javascript:void(0);" alt="刷新" onclick="javascript:window.location.reload();">刷新</a></div>
+</div>-->
+<!--
+<div class="fhbox" id="helpbutton"><a href="javascript:void(0);" class="fh01" alt="回到顶部" onclick="javascript:window.scrollTo(0,0);"></a><a href="http://survey.jrj.com.cn/channel/pub/q1832m2w0h0.html" class="fh02" target="_blank"></a></div>
+-->
+<!-- 回到顶部&刷新 end -->
+
+		<!-- 不能删除的div模板-->
+		<div class="infor" style="display:none">
+		</div>
+<script type="text/javascript">
+	goToFirstPage(window.location+"");
+        var _globalImgPath = "http://i0.jrjimg.cn/bbsnew/";
+	var _messageshow="thread";
+	var itemid=_itemid;
+	var forumid=_forumid;
+	var cid=_cid;
+	var divid = "history";
+	var forumname="保险论坛";
+
+	getMainMsgInfo(_msgid,_cid);
+	ajax_getEssList(0,_cid);
+</script>
+<script>
+	var ads={"list":[{"title":"","link":"http://www.jrj.com.cn"},{"title":"","link":"http://www.jrj.com.cn"}]}
+
+fixUpRecommendReply();
+</script>
+	<script src="/editorInc/finacing/floater_fd.js" type="text/javascript"></script>
+<script type="text/javascript">
+	showFloater(2);
+	function newthread(url){
+		if(typeof(flag)=='undefined' || flag=='notlogin'){
+			loginDlg.show();
+			return true;
+		}
+		window.location.href=url;
+	}
+	function checkLogin(uid,username,type) {
+		if(uid&&username&&uid.length>0&&username.length>0) {
+			if(typeof(flag)=='undefined' || flag=='notlogin'){
+				loginDlg.show();
+			}else {
+				ajax_getLoginUser(uid,username,type,loginDlg);
+			}
+		}else{
+			loginDlg.show();
+		}
+	}
+	var toDiv = document.getElementById('toooo');
+	if(toDiv) {
+		var div = getAbsPoint(toDiv);
+		if(div) {
+			window.scrollTo(0,div['y']);
+		}
+	}
+	ajax_JustLoginUser('090706010092209121');
+	dealIMG();
+	Popularize();
+	
+</script>
+
+		<div class="f">
+			<script src="http://js.jrjimg.cn/common/foot/v2.js" type="text/javascript"></script>
+		</div>
+
+		<img width="1" height="1" src="http://i0.jrjimg.cn/bbsnew/img/null.gif" id="countimg" alt=""/>
+<script src="http://js.jrj.com.cn/bbsnew/tongji_bbs.js" type="text/javascript"></script>
+
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛左浮标 Begin -->
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=29" ></script>
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛左浮标 End -->
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛右浮标 Begin -->
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=30" ></script>
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛右浮标 End -->
+
+<input type="hidden" id="ms_msgid" value="">
+<input type="hidden" id="ms_parentid" value="">
+<input type="hidden" id="fsfileid" value="">
+
+<!---------------------底部通用导航html-------------------------->
+<!--
+<div class="bottom_nav">
+
+    <div id="BBar_Main" class="open" style="display:none">
+
+    <iframe frameborder="0" scrolling="no" style="position:absolute; visibility:inherit; top:0px; left:0px; width:100%; height:31px;background:none;border:none;display:none;_display:block; z-index:-1; filter:alpha(opacity=0);-moz-opacity:0;-khtml-opacity:0;opacity:0;background:none;"></iframe>
+
+    <div class="left-box">
+
+    	<strong>实盘直播</strong>  
+
+    </div>
+
+	<div class="right-box">
+
+    	<a id="BBar_Open_Btn" href="javascript:;" class="develop"></a>
+
+    	<p class="btn"><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/main" target="_blank">我的金融界</a><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/stock/group/index.jspa" target="_blank">我的自选股</a><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/myfund/index.jspa" target="_blank">自选基金</a><a href="http://pay.jrj.com.cn/coin/rechage.jspa" target="_blank">金币充值</a></p>
+
+        <b id="BBar_Msg_Tip" class="off"></b>
+
+    </div>
+
+    <div class="center-box">
+
+    	<div class="pab01">
+
+    		<div id="stock_scroll" class="scroll">
+
+              	<table>
+
+                    <tbody>
+
+	  	  				<tr>
+
+	  	  					<td id="stock_scroll_content1">
+
+	  	  					</td>
+
+	  	  					<td id="stock_scroll_content2"></td>
+
+	  	  				</tr>
+
+	  				</tbody>
+
+  				</table>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    </div>
+
+    <div id="BBar_Close_Cont" class="close" style="display:none"><input id="BBar_Close_Btn" type="button" /></div>
+
+</div>
+-->
+	<div id="popMsgBox" class="mb" style="display:none;right:20px;">
+
+	   <div id="popMsgBox_Titlebar" class="mbhd">
+
+		   <span id="popMsgBox_Title" class="title">系统消息</span>
+
+		   <b id="popMsgBox_Close" class="option"></b>
+
+	   </div>
+
+	   <div id="popMsgBox_Content" class="mnbd">
+
+	   	  <div class="tit-mb">
+
+            <p></p>
+
+            <p class="pr"><a href="http://i.jrj.com.cn/main/systemMessages.jspa" target="_blank">查看</a></p>
+
+          </div>
+
+	   </div>
+
+	</div>
+
+<!---------------------------END 底部通用导航html--------------------------->
+
+    
+
+<!---------------------------   底部通用导航页面js   ---------------------------> 
+
+
+<!--<script type="text/javascript" src="http://js.jrjimg.cn/lib/bottom-bar/BottomBar-min.1.7.js"></script>-->
+
+
+<!---------------------------  END 底部通用导航页面js   ------------------------> 
+
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=484" ></script>
+	</body>
+</html>
+
+

@@ -1,0 +1,908 @@
+<!--UINFO: http://bbs.jrj.com.cn/msg,98761294,1.html	length=53581&last_modified=0&time_saved=1450677002&charset=gbk-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+		<title>医药行业:破茧而出,干细胞治疗重回正轨-落升聊股-金融界股票论坛</title>
+		<meta name="keywords" content="医药行业:破茧而出,干细胞治疗重回正轨,股票论坛,股市分析,预测明日大盘走势,个股分析">
+		<meta name="description" content="医药行业:破茧而出,干细胞治疗重回正轨"/>
+		<script type="text/javascript" src="http://js.jrj.com.cn/myjrj/js/jquery.js"></script>
+		<script src="http://js.jrj.com.cn/bbsnew/bbs120626.js" type="text/javascript"></script>
+		<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/LoginDialog-min.js"></script>
+		<link rel="stylesheet" id="skin" type="text/css" href="http://js.jrj.com.cn/bbsnew/css/essay120605.css" />
+		<script type="text/javascript" src="http://js.jrj.com.cn/myjrj/js/api/myjrj_api_1.js"></script>
+		<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/dialogs-2.js"></script>
+		<script src="http://js.jrj.com.cn/bbsnew/article/staticpage140102.js" type="text/javascript"></script>
+		<link rel="stylesheet" type="text/css" href="http://js.jrj.com.cn/lib/ui/dialog-cool.css" />
+		<link href="http://js.jrjimg.cn/common/bottombar.css" rel="stylesheet" /><!-- 底部通用导航新加样式 -->
+		<style type="text/css">
+	    	.jbtext{background:url(http://i0.jrjimg.cn/istock/igjb.png) no-repeat 0 center;padding:0 20px 0 20px;cursor:pointer;}
+	    	.fcfcnew{z-index:9999;display:none;background:url(http://i0.jrjimg.cn/bbsnew/img/fcfcnew.png) no-repeat 0 0;width:490px;height:350px;position:fixed;top:50%;left:50%;margin-left:-245px;_position:absolude;margin-top:-175px;}
+			.fcfcnew .hd{height:104px;position:relative;}
+			.fcfcnew .hd a.clear{position:absolute;top:8px;right:14px;width:15px;height:15px;display:block;}
+			.fcfcnew .hd i{font-family:"微软雅黑","宋体";font-sizE:24px;position:absolute;top:53px;left:245px;color:#fff;}
+			.text-new1{padding:25px 60px 0;}
+			.text-new1 p{line-height:21px;}
+			.text-new1 p.cur{padding:0 0 20px;}
+			.fhbox{position:fixed;margin-left:480px;left:50%;top:40%;_position:absolute;}
+			.fhbox a{display:block;background:url(http://i0.jrjimg.cn/istock/fhtopnew.jpg) no-repeat;width:66px;height:68px;}
+			.fhbox a.fh02{background-position:0 -68px;margin-top:9px;}
+			.fhbox a.fh01:hover{background-position:-66px 0;}
+			.fhbox a.fh02:hover{background-position:-66px -68px;}
+			.sharetos {
+			    background: none repeat scroll 0 0 transparent;
+			    cursor: pointer;
+			    display: inline-block;
+			    font-size: 12px;
+			    height: 25px;
+			    margin-right: 5px;
+			    padding-left: 2px;
+			    vertical-align: middle;
+			}
+			.mpll {
+			    margin: 38px 0 5px;
+			    overflow: hidden;
+			    text-align: center;
+			}
+	    </style>
+	    <script type="text/javascript" src="http://js.jrjimg.cn/js.do?f=/lib/jrjbase-min.js,/lib/util/ie6fixed-nojq-min.js,/lib/ui/ScrollLeft-min.js,/lib/ui/PopupMsgBox-nojq-1.0.min.js"></script>
+	    
+<script>
+$(document).ready(function(){
+	var ie6Fixed = JRJ.util.ie6Fixed;
+	ie6Fixed.fixed($(".fcfcnew"), "cc");
+	//$(".jbtext").click(function(){
+	//		$(".fcfcnew").show();
+	//		return false;
+	//});
+	$(".clear").click(function(){
+			$(".fcfcnew").hide();
+			return false;
+	});
+  $("#helpbutton").css("right",($(window).width()-$("#topIndex").width())/2-$("#helpbutton").width()-2);
+  if(jQuery.browser.msie && jQuery.browser.version == 6) {
+    Followmod.follow();
+  }
+  $("#helpbutton").show();
+});
+Followmod = {
+  follow : function(){
+    $("#helpbutton").css("position","absolute");
+    $(window).scroll(function(){
+      var mtop = $(window).scrollTop() + $(window).height() - $("#helpbutton").outerHeight()-260;
+      var mleft = ($(window).width()-$("#topIndex").width())/2-$("#helpbutton").width()-2;
+      $("#helpbutton").css({"top":mtop,"right":mleft});
+    });
+  }
+}
+function imgsize(img){
+	img.width=Math.min(img.width,900);
+	if(img.width==900){
+		img.style.cursor="pointer";
+		img.title="点击查看原图";
+	}
+}
+
+function imggo(img){
+	if(img.width>=900){
+		window.open(img.src);
+	}
+}
+</script>
+	</head>
+	<body>
+	<script type="text/javascript" src="http://js.jrjimg.cn/home/click.js"></script>
+	<div class="fcfcnew" id="fcfcnew">
+    	<div class="hd"><a href="javascript:void(0);" class="clear"></a><i>金融界论坛</i></div>
+        <div class="bd">
+        	<div class="text-new1">
+        		<strong>尊敬的用户：</strong>
+                <p class="cur">如您在使用金融界网站论坛的过程中发现色情，反动言论，伪造他人言论，广告欺诈等帖子，为便于网友反馈问题，特将金融界论坛管理员联系方式公布如下，欢迎大家有问题或者建议随时联系。</p>
+                <p>金融界客户服务中心邮箱：jrjhudong@jrj.com.cn</p>
+                <p>论坛客服电话010-58325388-1532</p>
+                <p>金融界论坛官方账户：管理员01</p>
+                <p>金融界论坛客服QQ:2632547546</p>
+                
+            </div>
+        </div>
+    </div>
+	<p class="cnav bbs">
+	<a href="http://www.jrj.com/" target="_blank">首页</a>|
+	<a href="http://i.jrj.com.cn/" target="_blank">我的金融界</a>|
+	<a href="http://blog.jrj.com.cn/" target="_blank">博客</a>|
+	<a href="http://bbs.jrj.com.cn/" target="_blank">论坛</a>|
+	<a href="http://istock.jrj.com.cn/" target="_blank">爱股</a>|
+	<a href="http://itougu.jrj.com.cn?from=itougu-20141227-rc-bbs-sydh-wzl-051" target="_blank">爱投顾</a>|
+	<a href="http://zhibo.jrj.com.cn/" target="_blank">实盘直播</a>|
+	<a href="http://v.jrj.com.cn/" target="_blank">微视频</a>|
+	<a href="http://pic.jrj.com.cn/" target="_blank">图片</a>
+
+			<span>[<a href="http://www.m.jrj.com.cn/" target="_blank">手机金融界</a>]
+			[<a href="http://bbs.jrj.com.cn/bbsmap.html" target="_blank">网站地图</a>]
+			[<a href="javascript:void(0);" onclick="javascript:addFav();">收藏本页</a>]</span>
+		</p>
+		<div class="ban bbs">
+			<a href="http://bbs.jrj.com.cn" class="logo"><a href="http://bbs.jrj.com.cn"></a></a>
+			<div class="fr" id="adDiv"></div>
+      <script>
+             window.onload=function(){
+             var div = document.getElementById("adDiv");
+             div.innerHTML = '<div class="ad1"><iframe width="547" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=27&op=1" ></iframe></div>'
++'<div class="ad2"><iframe width="195" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=28&op=1" ></iframe></div>';
+         }               
+     </script>                       
+	</div>
+	<div class="Bbs_Thread bdnav fw1">
+			<select class="fr" name="history" onchange="windowOPENTO(this)">
+				<option>
+					最近访问版区
+				</option>
+			</select>
+						<!-- a href="http://www.jrj.com.cn">金融界</a><i>&gt;</i --><a href="http://bbs.jrj.com.cn">金融界论坛</a><i>&gt;</i><a href="/gupiao">股票论坛</a><i>&gt;</i><a href="/253">落升聊股</a>		</div>
+	<div class="Bbs_Thread bbs flist">
+			<div id="login">
+			</div>	
+<form action="/article/searchArticle.jspa" class="search" method="get" onsubmit="return checkData(this)">
+<select id="searchtype" name="searchtype">
+	<option value="author">
+		作者
+	</option>
+	<option value="title">
+		标题
+	</option>
+	<option value="tag">
+		标签
+	</option>
+</select>
+<input class="text" value="请输入搜索内容" name="typeValue" onfocus="onSelected(this)" onblur="onLeave(this)" id="typeValue" type="text"/>
+<input type="hidden" name="from" value="search"/>
+<input type="hidden" name="cid" value="1" />
+<input class="btn" value="搜索" type="submit"/>
+</form>
+</div>
+<div class="navlist" id="loginlist" onmouseover="showloginlist()" onmouseout="outMenuDiv(this, event)" style="display:none">
+<ul><li><a href="/author,1," target="_blank" id="mymsg">我的帖子</a></li><li><a href="/jiangu" target="_blank">我的荐股</a></li></ul>
+</div>
+
+<script>
+	setValue('1','253','0','98761294','050225010002325397','/article/getMsgReply.jspa?msgid=98761294&itemid=0&forumid=253&cid=1&status=0&count=$totalCount');
+	showLogin('thread');
+</script>
+		<div class="Bbs_Thread fun button1">
+			<span class="fl">
+			<!-- a href="javascript:void(0);" onclick="goToReplyDiv('replyDiv')" class="reply" target="_top">回复</a -->
+			<a href="#" onclick="return newthread('/article/sendPreStock.jsp');" class="reply">荐股</a>
+			<a href="#" onclick="return newthread('/article/sendMsgMain.jsp?cid=1&forumid=253&itemid=0');" class="pub">发新帖</a>
+			<a href="javascript:void(0);" onclick="javascript:window.location.reload();" class="break">刷新</a>
+			<a href="/doldmsg/1_98761294.html" class="acol" target="_blank">以旧版方式浏览</a>
+			<a href="http://www.m.jrj.com.cn" class="acol" target="_blank" style="background:url(http://i0.jrjimg.cn/bbsnew/img/phone.gif) no-repeat;padding:5px 0 0 25px;margin:0 0 0 10px">手机上论坛</a>
+			</span>
+			<span class="fr" id="adReplySpan">
+				<!--	<a href="#">预留广告位预留广告位</a>-->
+			</span>
+		</div>
+
+		<div class="Bbs_Thread lcd zhengwen" id="topIndex">
+			<div class="ltit">
+				<h1><b>『普通』主题： 医药行业:破茧而出,干细胞治疗重回正轨</b></h1>
+				<span>
+					<a class="jbtext" id="jubao" onclick="javascript:$('.fcfcnew').show();">举报</a>
+					<a href="javascript:void(0);" onclick="javascript:addFav();">收藏本页</a><!-- a href="javascript:void(0)" onclick="doFavorite('98761294','0','253','1')">收藏</a--> 
+				</span>
+			</div>
+			<div class="author">
+			<!-- a href="http://i.jrj.com.cn/app/trace/traceforum.jspa?user=050225010002325397" target=_blank -->
+			<a href="/author,1,小小~" target=_blank>
+						<img src="http://i5.jrjimg.cn/sys/default_xs.jpg" alt="" />
+						</a>
+			<p class="name"><b><a href="/author,1,小小~" name="users" id="1-050225010002325397" onmouseover="showUserinfo('050225010002325397','topIndex','1','25','253')" target="_blank" ref="050225010002325397">小小~</a></b><!--a href="#">查看他的牛股池</a--><a href="/author,1,小小~" id="track1-050225010002325397" target="_blank">查看TA的论坛文集</a>&nbsp;&nbsp;<a href="/jiangu,小小~" target="_blank">查看TA的荐股记录</a><span class="fr">发表日期：2015-08-24 22:01:33</span></p>
+			<p>头衔：论坛贵宾<em id="jifen">积分：105438</em>
+			<a href="#" id="attentionBut" onclick="checkLogin('050225010002325397','小小~',1);">关注</a><a href="#" id="frientBut" onclick="checkLogin('050225010002325397','小小~',2);">加为好友</a>
+			<span class="fr">
+			<a href="#" name="admin" id="admin-98761294" onmouseover='getOperation("98761294",1,0,0,0)' style="display:none">管理</a>
+			<a href="javascript:void(0)" target="_top" onclick="return quoto('小小~','msgMainContent','2015-08-24 22:01:33');">引用</a>
+			<span class="pingfen">
+			<a href="javascript:void(0)" onclick='msgScoreShow("98761294","0","1")'>评分</a>
+			<span class="pop" style="display:none"><strong id="pingfenClose" title="关闭"></strong>点击这里可对本文评分<em></em></span>
+			</span>
+			<script type="text/javascript">
+			$(function() {
+				var pingfenVal = getCookie('threadMsgMain_pingfen');
+				if(pingfenVal != null && pingfenVal != ''){
+					$(".pop").css('display','none');
+				}else {
+					$(".pop").css('display','inline');
+				}
+				$("#pingfenClose").click(function(){
+					addCookie('threadMsgMain_pingfen',1,241000);
+					$(".pop").css('display','none');
+				});
+			});
+			</script>  
+			<a href="#" onclick='return onlyViewUserThread("98761294","1","050225010002325397")'>只看该作者</a>			<ul class='admin' id='only98761294' style="display:none"></ul>
+			</span></p>
+			</div>
+			<!--帖子内容-->
+			
+			<div id="msgcoin_98761294" class="pf_result"> </div>
+			
+			<div class="content" id="msgMainContent">
+				<span style="font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">【研究报告内容摘要】</span><br style="word-wrap: break-word; font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">
+
+<br style="word-wrap: break-word; font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">
+
+<span style="font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">摘要:</span><br style="word-wrap: break-word; font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">
+
+<br style="word-wrap: break-word; font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">
+
+<span style=
+"font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">干细胞治疗临床研究放开。国家卫计委、国家食品药品监督管理总局(CFDA)于2015年8月21日联合发布了《干细胞临床研究管理办法(试行)》和《干细胞制剂质量控制及临床前研究指导原则(试行)》。</span><br
+ style="word-wrap: break-word; font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">
+
+<br style="word-wrap: break-word; font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">
+
+<span style=
+"font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">尘封三载,破茧而出。此次管理办法的发布,是继2012年干细胞治疗被叫停整顿后的首次正式放开,其征求意见稿已于2015年3月30日由两部委联合发布,我们也曾在5月18日发布的报告《从&quot;发审制&quot;到&quot;注册制&quot;--取消第三类医疗技术非行政许可审批点评》中明确提示,干细胞治疗将独立于&quot;第三类医疗技术&quot;而进行单独管理。与征求意见稿相比,正式稿内容变动不大,政策力度在市场预期之内,推出速度略快于市场预期。该管理办法填补了干细胞产业监管层面的空白,意味着其在特定医疗领域开展的必要性得到了认可,此前针对其滥用现象而采取的全面叫停举措有望循序放开。</span><br
+ style="word-wrap: break-word; font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">
+
+<br style="word-wrap: break-word; font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">
+
+<span style=
+"font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">双头同管,医药共治。不同于2009年将干细胞治疗定义为&quot;第三类医疗技术&quot;由卫计委单独管理,此次发布的管理办法明确了卫计委和CFDA共同管理的职能,暗示着干细胞制剂的药品属性得到进一步认可,期待相关配套的药物审批细则进一批厘清。目前我国仅批准了技术成熟的造血干细胞用于治疗血液疾病,相比之下,国际上批准的干细胞治疗药物在组织工程和再生医学等方面有诸多应用,其作为药品的巨大潜力空间仍有待探索。此次发布的管理办法尤其强调,已获得的临床研究结果可作为技术性申报资料提交用于药品评价,我们预计,伴随着干细胞治疗临床试验的放开,干细胞药物审批有望加速。</span><br
+ style="word-wrap: break-word; font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">
+
+<br style="word-wrap: break-word; font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">
+
+<span style=
+"font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">有限放开,仍需等待。该管理办法将干细胞治疗的开展范围限定在三甲医院的临床试验研究,并对从业人员和质量控制体系提出要求,同时明确规定不得向受试者收费。多重限定意味着当前开展干细胞治疗的最终支付主体将集中在科研经费,大规模商业化的市场环境尚未成熟。在整体监管力度趋严的环境下,2012年之前行业内普遍存在的依靠打法律擦边球,向受试患者收费并向医院进行利益输送的商业模式将难以为继。短期内行业的推动力将有赖于相关科研经费的充裕程度及医院主体的开展意愿。然而长远来看,干细胞临床试验的放开,实质上间接加速了相关药品审批的放开,将在中长期利好相关药物研发企业。维持行业增持评级,受益标的:中源协和、国际医学。</span><br
+ style="word-wrap: break-word; font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">
+
+<br style="word-wrap: break-word; font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">
+
+<span style="font-family: Tahoma, Helvetica, SimSun, sans-serif; line-height: 21px;">风险提示:科研经费支持力度不足的风险;地方监管机构权力寻租的风险。</span> 
+
+							</div>
+			<div class="content">
+							
+			<div style="height:10px">&nbsp;</div>
+						</div>
+			
+<div class="recommendLink">	<div class="recommendLink_tit">		<h3>推荐阅读</h3>		<div class="olinks">								</div>	</div>	<div class="recommendLink_con">		<div class="piclink" id="S2_R">			<div class="pic">				<a href="http://8.jrj.com.cn/nss/zt/subject/lowrisks.html?tgqdcode=4BUD6HJ8" target="_blank"><img src="http://img.jrjimg.cn/2015/12/20151204112603309.jpg" ></a>			</div>			<div class="txt">				<strong><a target="_blank" href="http://fund.jrj.com.cn/2015/11/05175320030920.shtml">基金1年赚123%</a></strong>			</div>		</div>		<div class="reclist">			<div class="reclist_tit">	<h4>  <a href="http://bbs.jrj.com.cn/msg,99236851.html">春耕的寻龙诀在于成长股</a>  <a href="http://itougu.jrj.com.cn/view/75649.jspa?tgqdcode=P6EV4586">万科股权之争的启示</a></h4>	</div>					<div class="reclist_con">		<ul> <li><a  target="_blank" href="http://bbs.jrj.com.cn/msg,99237030.html">本周股市三猜想及策略</a></li>                  <li><a href="http://bbs.jrj.com.cn/msg,99231335.html">跨年度行情真开始了吗</a></li>     <li><a href="http://bbs.jrj.com.cn/msg,99236922.html">本周高送转会精彩不断</a></li>         <li><a href="http://itougu.jrj.com.cn/view/75633.jspa?tgqdcode=P6EV4586">今天开始年前最后调整</a> </li>        <li><A href="http://itougu.jrj.com.cn/view/75665.jspa?tgqdcode=P6EV4586">大盘周初整理周中上攻</A></li> <li><a  target="_blank" href="http://bbs.jrj.com.cn/msg,99231503.html">年度级慢牛市正式开启</a> </li> <li><a  target="_blank" href="http://bbs.jrj.com.cn/msg,99236816.html">外围大跌影响A股上行</a></li> <li><a href="http://bbs.jrj.com.cn/msg,99236770.html ">本周大盘将会怎么走?</a></li>				</ul>			</div>      </div>      <div class="clear"></div>    </div> <div class="data-collect">             		<iframe height="150" marginheight="0" src="http://gold.jrj.com.cn/iframe/zjgjs.html?co=bbs&aid=RWTG4_20130419&fid=bbs" frameborder="0" width="590" marginwidth="0" scrolling="no"></iframe>               </div></div><style type="text/css">    .data-collect{width:590px;height:151px;margin:10px auto  15px;position:relative;}		  .recommendLink {height:auto;width:647px;}		  .recommendLink .recommendLink_tit{width:647px;} 		  .recommendLink .recommendLink_con{width:590px;margin:0 auto}		  .recommendLink .recommendLink_con .reclist{width:422px;margin-left:15px;}		  .recommendLink .recommendLink_con .piclink{padding-left:0}		  .recommendLink .recommendLink_con .reclist .reclist_tit{width:422px}		  .recommendLink .recommendLink_con .reclist .reclist_con{width:422px;overflow:hidden;}		  .recommendLink .recommendLink_con .reclist .reclist_con ul{width:460px;}		  .recommendLink .recommendLink_con .reclist .reclist_con ul li{width:14em;}</style> 
+			<div class="mpll" style="width:625px;margin:0 auto;margin-top:38px;">
+			<span style="float:left;margin-right:5px;" class="digg1" onclick="doDingorCaiAction(0,98761294,1)">文章不错(<i>0</i>)</span>
+			<span style="float:left;" class="digg4" onclick="copyShareUrl()">复制链接</span>
+			<div style="float:left;" class="sharetos">
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+				<span class="bds_more">分享到：</span>
+				<a class="bds_qzone"></a>
+				<a class="bds_tsina"></a>
+				<a class="bds_tqq"></a>
+				<a class="bds_renren"></a>
+				<a class="bds_t163"></a>
+				<a class="shareCount"></a>
+				</div>
+				<span class="refreshs" style="float:left;line-height:25px;">&nbsp;&nbsp;帖子刷新<select id="autoRefreshConfSelect" name="autoRefreshConfSelect" onchange="javascript:refreshConfSet()" >
+					<option value="1" >1分钟</option>
+					<option value="2" >2分钟</option>
+					<option value="3" >3分钟</option>
+					<option value="5" >5分钟</option>
+					<option value="0" >不刷新</option>
+				</select></span>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=6470526" ></script>
+				<script type="text/javascript" id="bdshell_js"></script>
+				<script type="text/javascript">
+				document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+				</script>
+				<!-- Baidu Button END -->
+			</div>
+<script>
+	var inter_variable;
+	function refreshConfSet(){
+		var time = parseFloat($('#autoRefreshConfSelect').val());
+		var date = new Date();
+		date.setTime(date.getTime()+365*24*3600*1000);
+		document.cookie = 'Ref_Msg_Conf=' + time + ';expires=' + date.toGMTString();
+		clearInterval(inter_variable);
+		if(time != 0){
+			inter_variable = setInterval(function(){
+					window.location.href = window.location.href;
+				},time*60*1000);
+		}
+	}
+	function getDefaultRefreshTime(){
+		var cook = document.cookie;
+		var start = cook.indexOf('Ref_Msg_Conf');
+		var time = parseFloat('0');
+		if(start != -1){
+			start += 'Ref_Msg_Conf'.length + 1;
+			var end = cook.indexOf(';',start);
+			if(end == -1){
+				time = parseFloat(cook.substring(start));
+			}else{
+				time = parseFloat(cook.substring(start,end));
+			}
+		}
+		clearInterval(inter_variable);		
+		$('#autoRefreshConfSelect').val(time);
+		if(time != 0){
+			inter_variable = setInterval(function(){
+					window.location.href = window.location.href;
+				},time*60*1000);
+		}
+	}
+	
+	getDefaultRefreshTime();
+</script>
+			</div>
+			<br>
+		</div>
+<div class="floats" id="popdiv" style="display:none">
+<div class="float float1" id="favoriteDiv" style="display:none"> <a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>收藏帖子</span></strong></p>
+    <p class="right" id="favoriteAlert">已经成功收藏本帖！请到<a href="#">我的收藏</a>中查看所有收藏贴</p>
+    <p class="txr">窗口5秒自动关闭</p>
+</div>
+<div id="sharediv" class="float float1" style="display:none"> <a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>复制链接给好友</span></strong></p>
+    <p>本帖连接：<input id="shareurl" type="text" value="http://bbs.jrj.com.cn/msg,98761294.html" class="tex" readonly="readonly"/></p>
+    <p class="p1"><input type="button" value="复制并发送给我的好友" onclick="copyShareUrl()"/></p>
+    <p>分享到：<a href="javascript:void(0)" onclick="javascript:createShare()" class="ic1">我的金融界</a></p>
+</div>
+<div id="shareokdiv" class="float float1" style="display:none" ><a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>复制链接给好友</span></strong></p>
+    <p id="sharemsg" class="right p2">帖子地址已经复制，您可以粘贴到QQ，MSN或者邮件发给好友了！每次点击你将获得一个威望。</p>
+    <p class="txr">窗口5秒自动关闭</p>
+</div>
+</div>
+
+		<!--楼主更多贴，论坛精粹-->
+		<div class="Bbs_Thread about">
+			<div class="lcd s1">
+			<p class="ltit">
+				<strong><a href="/author,1,小小~" target="_blank">楼主更多贴</a></strong>
+				<ul class="ull" id="louzhumoremsg"></ul>	
+			</p>
+			</div>
+						<div class="lcd s2" style="margin-left:10px;">
+													   	<p class="ltit"><a href="/10993" target="_blank"><strong>荐股大赛</strong></a>
+			   					<div id="injection">
+								   <ul class="ull"><li><a href="/msg,99232886.html" target="_blank">推荐悦达投资（600805） 目标价：16.33</a></li><li><a href="/msg,99232821.html" target="_blank">推荐东阿阿胶（000423） 目标价：80.00</a></li><li><a href="/msg,99232504.html" target="_blank">推荐辉隆股份（002556） 目标价：24.00</a></li><li><a href="/msg,99231794.html" target="_blank">推荐锦富新材（300128） 目标价：35.60</a></li><li><a href="/msg,99231760.html" target="_blank">推荐易成新能（300080） 目标价：17.60</a></li></ul>
+								</div>
+			   </p>
+			</div>
+						<div class="lcd s3" style="margin-left:10px;">
+				<p class="ltit"><a href="http://itougu.jrj.com.cn/live/index.html" target="_blank"><strong>实盘直播</strong></a></a>
+				<style type="text/css">
+.talkin  ul {
+	width:328px;
+    height:100px;
+    float: left;
+}
+
+.talkin  ul li {
+        width:328px;
+    height:100px;
+}
+
+.talkin {
+    height: 110px;
+    overflow: hidden;
+    padding: 0 10px;
+}
+
+.talkin div.fr {
+    width: 328px;
+    height:80px;
+    float: none;
+    line-height:20px;
+    display:block;
+}
+
+.talkin .s14 {
+    font-size: 14px;
+	padding-left:60px;
+}
+
+.talkin .blk {
+    color: #333333;
+}
+
+.talkin div.p3 {
+    color: #999999;
+    overflow: hidden;
+}
+
+.talkin div.p3 span.fl {
+    width:250px;
+    height:19px;
+    line-height:19px;
+}
+
+.talkin div.p3 span.fl span {
+    margin-left:40px;
+}
+
+.talkin div.p3 span.fl i {
+    font-style:normal;
+} 
+
+.talkin .fl {
+    display: inline;
+    float: left;
+}
+
+.talkin .bt {
+    background: url("http://i0.jrjimg.cn/bbsnew/img/tubg.gif") no-repeat scroll 0 -72px transparent;
+    color: #FFFFFF;
+    float: right;
+    height: 19px;
+    line-height: 19px;
+    margin: 0 0 0 20px;
+    text-align: center;
+    width: 57px;
+    display:block;
+}
+.about .s2 {
+    float: left;
+    height: 140px;
+    overflow: hidden;
+    width: 280px;
+}
+.about .s3 {
+    float: left;
+    height: 140px;
+    overflow: hidden;
+    width: 348px;
+}
+.talkin div.p3 a:hover {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+</style>
+<div id="talkroll" class="talkin">
+</div>
+<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/ScrollText-min.js"></script>
+<script language="javascript">
+var outvar;
+var rollflag = 0;
+var tarlkscroll1;
+function ajax_talkstock() {
+
+var now= new Date();
+var year=now.getFullYear();
+var month=now.getMonth()+1;
+var day=now.getDate();
+var hour=now.getHours();
+var minute=now.getMinutes();
+var second=now.getSeconds();
+
+var nowtime = year+"-"+month+"-"+day+" "+hour+":"+minute+":"+second;
+if (rollflag ==1){
+	tarlkscroll1.stop();
+	rollflag = 0;
+ }
+$.ajax(
+{
+ type: "get",//使用get方法访问后台
+ dataType: "json",//返回json格式的数据
+ url: "/board/boardTalkStock.jspa",//要访问的后台地址
+ data: "tmp="+new Date().getTime(),//要发送的数据
+ success: function(msg){
+ 	//msg为返回的数据，在这里做数据绑定
+ 	var html = '';
+ 	for(var i=0;i<msg.length;i++){
+	msg[i]["answer_content_short"] = msg[i]["answer_content_short"].replace(new RegExp("&nbsp;","gm")," ");
+       if(msg[i]["answer_content_short"].length>45){
+ 		//	msg[i]["answer_content_short"] = msg[i]["answer_content_short"].substr(0,55-msg[i]["username"].length)+"...";
+ 			msg[i]["answer_content_short"] = msg[i]["answer_content_short"].substr(0,55-msg[i]["sso_username"].length)+"...";
+ 		}
+ 		html += '<ul>';
+ 		html += '<li>';
+        html += '<div class="fr">';
+      //  html += '<a href="http://zhibo.jrj.com.cn/'+msg[i]["room_id"]+'" target="_blank"><img width="50" height="50" src="'+msg[i]["face"]+'"></a>';
+        html += '<a href="http://itougu.jrj.com.cn/live/'+msg[i]["room_id"]+'?tgqdcode=784R3EM7" target="_blank"><img width="50" height="50" src="'+msg[i]["headImage"]+'"></a>';
+     //   html += '<p class="s14"><a href="http://itougu.jrj.com.cn/live/'+msg[i]["room_id"]+'?tgqdcode=784R3EM7" target="_blank">'+msg[i]["username"]+'</a>:';
+		html += '<p class="s14"><a href="http://itougu.jrj.com.cn/live/'+msg[i]["room_id"]+'?tgqdcode=784R3EM7" target="_blank">'+msg[i]["sso_username"]+'</a>:';
+       
+        html += '<a href="http://itougu.jrj.com.cn/live/'+msg[i]["room_id"]+'?tgqdcode=784R3EM7" class="blk" target="_blank">'+msg[i]["answer_content_short"]+'</a></p>';
+        html += '</div>';
+        html += '<div class="p3"><span class="fl">更新时间:'+msg[i]["ctime"]+'<span>当前人气:<i class="red">'+msg[i]["uv_number"]+'</i></span></span><a href="http://itougu.jrj.com.cn/live/'+msg[i]["room_id"]+'?tgqdcode=784R3EM7" target="_blank" class="bt">进入直播</a></div>';
+        html += '</li></ul>';
+ 	}
+ 	html += html;
+ 	//html = '<ul>'+html+'</ul>';
+ 	$('#talkroll').html(html);
+ 	
+ 	if (rollflag==0){
+	 	var talkargs = {
+	   	 	speed:5,
+	   	 	timeOut:5000,
+	   	 	lineHeight:110,
+	   	  scrollObjId:"talkroll"
+	 	 }
+	   tarlkscroll1 = new JRJ.ui.ScrollText(talkargs);
+	   rollflag = 1;
+   }
+ 	
+ }});
+ 
+ 	if (outvar) clearTimeout(outvar);
+	outvar = setTimeout("ajax_talkstock()",30000); 
+}
+ajax_talkstock() ;
+</script>
+
+				</p>
+			</div>
+					</div>
+		
+		<!--zhibo
+		<div class="Bbs_Thread about" style="height:75px;margin:10px auto 9px;overflow: hidden;width: 953px;">
+			<iframe width="950" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=472&op=1" ></iframe>
+		</div>-->
+		
+		<!--回帖信息列表-->
+				<div class="Bbs_Thread fun button2">
+			<span class="fl">
+				<!-- a href="javascript:void(0);" onclick="goToReplyDiv('replyDiv')" target="_top"  class="reply">回复</a -->
+				<a href="#" onclick="return newthread('/article/sendPreStock.jsp');" class="reply">荐股</a>
+				<a href="#" onclick="return newthread('/article/sendMsgMain.jsp?cid=1&forumid=253&itemid=0');" class="pub">发新帖</a>
+				<a href="javascript:window.location.reload();" class="break">刷新</a>
+				<a href="/doldmsg/1_98761294.html" class="acol" target="_blank">以旧版方式浏览</a> 
+		       	</span>
+			<p class="pn pn2"><a href="/msg,98761294,1.html">首页</a><a href="#" class="next">&lt;&lt;上一页</a><a href="#" class="cur">1</a><a href="#" class="next">下一页&gt;&gt;</a><a href="/msg,98761294,1.html">末页</a>共1页&nbsp;到<input id="gopage2" type="text" size=2>页<input type="button" value="提交" onclick="javascript:goPage(2);"></p>
+		</div>
+		<div class="Bbs_Thread blue2">
+		<p class="abor">
+				<a href="/">返回论坛首页</a><a href="/253" id="_backTOfirst">返回本版首页</a>
+			</p>
+			<p id="previous">
+				<b>论坛上一帖：</b><a href="javascript:void(0)" id="previousthread" target="_blank">&nbsp;&nbsp;</a>
+			</p>
+			<p id="next">
+				<b>论坛下一帖：</b><a href="javascript:void(0)" id="nextthread" target="_blank">&nbsp;&nbsp;</a>
+			</p>
+		</div>
+
+		<div class="Bbs_Thread lcd tjian" id="S1_R">
+			<p class="ltit"><strong>近期热门话题推荐</strong></p>
+				
+				<ul><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95188719.html"><img src="http://i5.jrjimg.cn/201404/29/bbs_attach_img/bbs_attach_img_13987437656041.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95188719.html">政府关系最硬的民营企业</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95115050.html"><img src="http://i5.jrjimg.cn/201404/24/bbs_attach_img/bbs_attach_img_13983079197391.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95115050.html">盘点年入几十万的小生意</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95007640.html"><img src="http://i5.jrjimg.cn/201404/16/bbs_attach_img/bbs_attach_img_13976176535951.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95007640.html">中国社会七大灰色产业链</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,94971037.html"><img src="http://i5.jrjimg.cn/201404/14/bbs_attach_img/bbs_attach_img_13974442464991.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,94971037.html">中国九大最好赚钱的产业</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,94922538.html"><img src="http://i5.jrjimg.cn/201404/10/bbs_attach_img/bbs_attach_img_13971002679111.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,94922538.html">中国人变穷的四大真相</a></p></li></ul><ul class="ull"><li><a target="_blank" href="http://bbs.jrj.com.cn/picshow">更多劲爆图片</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbmsg">论坛热帖</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbzqt">精准高手</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/tag">热门股票</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbps_5">人气高手</a></li></ul>
+		</div>
+
+		<div class="Bbs_Thread cc">
+			<div id="ReplyIframeDiv" class="fl" >
+			<iframe id="replyPostDetal" name="replyPostDetal" width="100%" height="368px;" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes" src="/article/getMsgReply.jspa?msgid=98761294&itemid=0&forumid=253&cid=1&status=0&count=$totalCount"> 
+			</iframe>
+			<script type="text/javascript">
+				var attachNum=0;
+				var delIndex=null;
+				var sourcetext = "";
+				 
+				 function insertAttach(fileName,fileUrl){
+				 	 attachNum++;
+				 	 
+				 	var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+				 	 var atts = editdoc.getElementById("fileAttach");
+				 	 
+				 	 if (attachNum==1){
+				 	 	sourcetext = atts.innerHTML;
+				 	 }
+				 	 
+				 	 atts.innerHTML += '<li id="attach_'+attachNum+'">附件：<a href="'+fileUrl+'"><img src="http://js.jrj.com.cn/bbsnew/fckeditor/editor/skins/default/toolbar/uploadfile.gif" width="15px" height="15px"></img>'
+				 	   +'&nbsp;'+fileName+'</a>&nbsp;&nbsp;<a href="javascript:void(0)" name="delete" onclick="parent.delAttach('+attachNum+')">删除附件</a>&nbsp;&nbsp;&nbsp;&nbsp;售价（铜板）：<input name="filecoin_'+attachNum+'" id="filecoin_'+attachNum+'" type="text" style="width:30px" /> 最高1000</li>';
+				 	 atts.innerHTML = atts.innerHTML.replace(sourcetext,"") + sourcetext;
+				 	   
+				 	   var sAnnex = editdoc.getElementById("annxe");
+				 	   if(!sAnnex){
+					 	   var form1 = editdoc.getElementById("form1");
+							var textHidden = editdoc.createElement("input");
+							textHidden.type = "hidden";
+							textHidden.name ="annxe";
+							textHidden.id = "annxe";
+							textHidden.value = "";
+							form1.appendChild(textHidden);
+							sAnnex = textHidden;
+					   }
+				 	  var value = sAnnex.value;
+				 	  if(value!="") {
+							value += "|";
+					  }
+				 	  value += attachNum+","+fileUrl+","+ fileName + "," + "http://js.jrj.com.cn/bbsnew/fckeditor/editor/skins/default/toolbar/uploadfile.gif";
+				 	  sAnnex.value = value;
+				 	  
+						var pTar = document.getElementById("replyPostDetal");
+					    if (pTar.contentDocument && pTar.contentDocument.body.offsetHeight){  
+					      pTar.height = pTar.contentDocument.body.offsetHeight;   
+					    }else if (pTar.Document && pTar.Document.body.scrollHeight){  
+					      pTar.height = pTar.Document.body.scrollHeight;
+					    }
+				 }
+				 function delAttach(index){           
+         			 delIndex=index;
+         			 var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+         			 var sAnnex = editdoc.getElementById("annxe");
+         			 if(sAnnex) {
+						var sValue = sAnnex.value;
+						var iIndex = sValue.indexOf("|"+index);
+						if (index==1) iIndex = 0;
+						var iEndIndex = sValue.indexOf("|",iIndex+1);
+						if(iEndIndex==-1) {
+							iEndIndex = sValue.length;
+							}
+						var firstStr = sValue.substring(0,iIndex);
+						var endStr = sValue.substring(iEndIndex+1);
+						if (index!=1){
+							sAnnex.value = firstStr +"|"+ endStr;
+						}else{
+							sAnnex.value = firstStr + endStr;
+						}
+						
+						var pTar = document.getElementById("replyPostDetal");
+					    if (pTar.contentDocument && pTar.contentDocument.body.offsetHeight){  
+					      pTar.height = pTar.contentDocument.body.offsetHeight;   
+					    }else if (pTar.Document && pTar.Document.body.scrollHeight){  
+					      pTar.height = pTar.Document.body.scrollHeight;  
+					    }
+             		 }
+         			 delCallBack();
+				 }
+				 function delCallBack(){
+					 var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+				   	var atts = editdoc.getElementById("fileAttach");
+				 	 var att = editdoc.getElementById("attach_"+delIndex);
+				 	 atts.removeChild(att);
+				 }
+				 function goPage(pagename){
+				 	var gopage = document.getElementById("gopage"+pagename).value;
+				 	if(gopage!=null && gopage!=""){
+        				var r,re;
+        				re = /\d*/i;
+        				r = gopage.match(re);
+        				if (r!=gopage){
+        					alert("请输入数字页码");
+        					return;
+        				}
+    				}else{
+    					alert("请输入数字页码");
+    					return;
+    				}
+    				//window.location.href= "/dmsg/1_98761294_"+gopage+".html";
+				 	window.location.href= "/msg,98761294,"+gopage+".html";
+				 }
+				</script>
+			</div>
+	<div class="fr">
+				<ul class="ltit">
+			<li class="hover" id="jh2" onmouseover="setTab('jh',2,2)"  onclick="window.open('/phbps');"><strong>荐股牛人榜</strong></li>
+			<li id="jh1" onmouseover="setTab('jh',1,2)" onclick="window.open('/gupiao_celite');"><strong>最新精华帖</strong></li>
+		</ul>
+		<ul class="ull" id="con_jh_1" style="display:none">
+		<li><img src="http://i0.jrjimg.cn/myjrj/loading2.gif"/></li>
+		</ul>
+		<div id="con_jh_2" style="height:339px">
+			<table class="jghtab" id="niuren">
+			<tr><th width="32"><span>排名</span></th><th width="60"><span>ID</span></th><th width="83"><span>荐股段位</span></th><th width="55"><span>推荐股</span></th></tr>
+			<tr><td></td><td class="tl"><a target="_blank" href="/jiangu,小心买坚决卖">小心买坚</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,小心买坚决卖" style="color:#000000;">14160.32%</a></span></td><td><a href="/stock,1,600289" target="_blank">亿阳信通</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,年前的今天">年前的今</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,年前的今天" style="color:#000000;">21800.65%</a></span></td><td><a href="/stock,1,000026" target="_blank">飞亚达Ａ</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,meiriwanbao">meiriwan</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,meiriwanbao" style="color:#000000;">8622.90%</a></span></td><td><a href="/stock,1,002098" target="_blank">浔兴股份</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,baibuchuayan">baibuchu</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,baibuchuayan" style="color:#000000;">56588.00%</a></span></td><td><a href="/stock,1,300337" target="_blank">银邦股份</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,牛股王子">牛股王子</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,牛股王子" style="color:#000000;">14128.26%</a></span></td><td><a href="/stock,1,002298" target="_blank">中电鑫龙</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,10天">10天</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,10天" style="color:#000000;">23077.19%</a></span></td><td><a href="/stock,1,600550" target="_blank">保变电气</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,风漂">风漂</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,风漂" style="color:#000000;">5801.41%</a></span></td><td><a href="/stock,1,002745" target="_blank">木林森</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,经济规律">经济规律</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,经济规律" style="color:#000000;">8007.60%</a></span></td><td><a href="/stock,1,600961" target="_blank">株冶集团</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,股农168">股农168</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,股农168" style="color:#000000;">6173.18%</a></span></td><td><a href="/stock,1,002263" target="_blank">大 东 南</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,红旗插上三千点">红旗插上</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,红旗插上三千点" style="color:#000000;">73466.47%</a></span></td><td><a href="/stock,1,600784" target="_blank">鲁银投资</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,dong12301230">dong1230</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,dong12301230" style="color:#000000;">9353.04%</a></span></td><td><a href="/stock,1,603199" target="_blank">九华旅游</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,审时夺势">审时夺势</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,审时夺势" style="color:#000000;">9426.90%</a></span></td><td><a href="/stock,1,002263" target="_blank">大 东 南</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,xiaoluokuang">xiaoluok</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,xiaoluokuang" style="color:#000000;">4857.38%</a></span></td><td><a href="/stock,1,600959" target="_blank">江苏有线</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,为股走天下">为股走天</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,为股走天下" style="color:#000000;">4135.70%</a></span></td><td><a href="/stock,1,600000" target="_blank">浦发银行</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,六月331">六月331</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,六月331" style="color:#000000;">8945.15%</a></span></td><td><a href="/stock,1,300187" target="_blank">永清环保</a></td></tr>
+			</table>
+			<!--
+			<div class="coExtension">
+    <p class="tit">
+    <strong>合作推广</strong>
+    </p>
+    <ul class="jrj-list">
+        <li><a href="http://pic.jrj.com.cn/keji/8989.html">揭秘仿真人皮制作全过程</a></li>
+        <li><a href="http://pic.jrj.com.cn/keji/3476.html">中外互联网大佬们的青葱照</a></li>
+        <li><a href="http://pic.jrj.com.cn/junshi/8201.html">韩国阅兵和中国对比不堪入目</a></li>
+        <li><a href="http://pic.jrj.com.cn/tiyu/4241.html">体坛的长腿漂亮美女们</a></li>
+    </ul>
+</div>
+			<center><a href="/msg,70253827.html" target="_blank"><img src="http://i0.jrjimg.cn/bbsnew/img/joinniuren.gif"/></a></center>
+			-->
+		</div>		
+			</div>
+		</div>
+		
+			  	<div class="Bbs_Thread lcd jgtop">
+			<p class="ltit"><strong>荐股人气榜</strong></p>
+			<p class="jgmore"><a href="/msg,71265953.html" target="_blank"><strong>我要上榜</strong></a> | <a href="/phbps_5" target="_blank">更多>></a></p>
+				
+			<div class="jgtop_list">
+				<p><a href="/jiangu,小心买坚决卖" target="_blank"><img src="http://i5.jrjimg.cn//200908/27/hp/hp_12513818310261_m.JPG" width="120" height="120" /></a><span><a href="/jiangu,小心买坚决卖" target="_blank">小心买坚决卖</a> <a style="display:inline-block;width:18px;height:18px;background:url(http://i0.jrjimg.cn/bbsnew/img/fsp_4.png) no-repeat;position:relative;*top:-3px;_top:-1px;_margin-top:6px; overflow:hidden; text-indent:-9999px;background-position:0 3px;" title="荐股13段" href="/help/gaoshou.html" target="_blank">&nbsp;</a></span><br />荐股大赛排名：1<br/>总收益率：14160.32%<br />平均收益率：30.00%<br />推荐次数：472<br />成功次数：456<br />今日访问量：181<br /><span class="top1"></span></p><p><a href="/jiangu,牛股王子" target="_blank"><img src="http://i5.jrjimg.cn//sys/default_m.jpg" width="120" height="120" /></a><span><a href="/jiangu,牛股王子" target="_blank">牛股王子</a> <a style="display:inline-block;width:18px;height:18px;background:url(http://i0.jrjimg.cn/bbsnew/img/fsp_3.png) no-repeat;position:relative;*top:-3px;_top:-1px;_margin-top:6px; overflow:hidden; text-indent:-9999px;background-position:0 3px;" title="荐股12段" href="/help/gaoshou.html" target="_blank">&nbsp;</a></span><br />荐股大赛排名：5<br/>总收益率：14128.26%<br />平均收益率：27.28%<br />推荐次数：518<br />成功次数：481<br />今日访问量：122<br /><span class="top2"></span></p><p><a href="/jiangu,年前的今天" target="_blank"><img src="http://i5.jrjimg.cn//sys/female/default_m.jpg" width="120" height="120" /></a><span><a href="/jiangu,年前的今天" target="_blank">年前的今天</a> <a style="display:inline-block;width:18px;height:18px;background:url(http://i0.jrjimg.cn/bbsnew/img/fsp_4.png) no-repeat;position:relative;*top:-3px;_top:-1px;_margin-top:6px; overflow:hidden; text-indent:-9999px;background-position:0 3px;" title="荐股13段" href="/help/gaoshou.html" target="_blank">&nbsp;</a></span><br />荐股大赛排名：2<br/>总收益率：21800.65%<br />平均收益率：29.95%<br />推荐次数：728<br />成功次数：701<br />今日访问量：114<br /><span class="top3"></span></p>
+			</div>
+		</div>
+				
+		<div class="Bbs_Thread bdnav fw2">
+			<select class="fr" name="history" onchange="windowOPENTO(this)">
+				<option>
+
+					最近访问版区
+				</option>
+			</select>
+		<a href="http://www.jrj.com.cn">金融界</a><i>&gt;</i><a href="/gupiao">股票论坛</a><i>&gt;</i><a href="/253">落升聊股</a>		</div>
+
+<!-- 回到顶部&刷新 start 
+<div class="helpbutton" id="helpbutton" style="display:none">
+  <div class="gotop"><a href="javascript:void(0);" alt="回到顶部" onclick="javascript:window.scrollTo(0,0);">回到顶部</a></div>
+  <div class="refresh"><a href="javascript:void(0);" alt="刷新" onclick="javascript:window.location.reload();">刷新</a></div>
+</div>-->
+<!--
+<div class="fhbox" id="helpbutton"><a href="javascript:void(0);" class="fh01" alt="回到顶部" onclick="javascript:window.scrollTo(0,0);"></a><a href="http://survey.jrj.com.cn/channel/pub/q1832m2w0h0.html" class="fh02" target="_blank"></a></div>
+-->
+<!-- 回到顶部&刷新 end -->
+
+		<!-- 不能删除的div模板-->
+		<div class="infor" style="display:none">
+		</div>
+<script type="text/javascript">
+	goToFirstPage(window.location+"");
+        var _globalImgPath = "http://i0.jrjimg.cn/bbsnew/";
+	var _messageshow="thread";
+	var itemid=_itemid;
+	var forumid=_forumid;
+	var cid=_cid;
+	var divid = "history";
+	var forumname="落升聊股";
+
+	getMainMsgInfo(_msgid,_cid);
+	ajax_getEssList(0,_cid);
+</script>
+<script>
+	var ads={"list":[{"title":"","link":""},{"title":"","link":""}]}
+fixUpRecommendReply();
+</script>
+	<script src="/editorInc/stock/floater_fd.js" type="text/javascript"></script>
+<script type="text/javascript">
+	showFloater(1);
+	function newthread(url){
+		if(typeof(flag)=='undefined' || flag=='notlogin'){
+			loginDlg.show();
+			return true;
+		}
+		window.location.href=url;
+	}
+	function checkLogin(uid,username,type) {
+		if(uid&&username&&uid.length>0&&username.length>0) {
+			if(typeof(flag)=='undefined' || flag=='notlogin'){
+				loginDlg.show();
+			}else {
+				ajax_getLoginUser(uid,username,type,loginDlg);
+			}
+		}else{
+			loginDlg.show();
+		}
+	}
+	var toDiv = document.getElementById('toooo');
+	if(toDiv) {
+		var div = getAbsPoint(toDiv);
+		if(div) {
+			window.scrollTo(0,div['y']);
+		}
+	}
+	ajax_JustLoginUser('050225010002325397');
+	dealIMG();
+	Popularize();
+	
+</script>
+
+		<div class="f">
+			<script src="http://js.jrjimg.cn/common/foot/v2.js" type="text/javascript"></script>
+		</div>
+
+		<img width="1" height="1" src="http://i0.jrjimg.cn/bbsnew/img/null.gif" id="countimg" alt=""/>
+<script src="http://js.jrj.com.cn/bbsnew/tongji_bbs.js" type="text/javascript"></script>
+
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛左浮标 Begin -->
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=29" ></script>
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛左浮标 End -->
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛右浮标 Begin -->
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=30" ></script>
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛右浮标 End -->
+
+<input type="hidden" id="ms_msgid" value="">
+<input type="hidden" id="ms_parentid" value="">
+<input type="hidden" id="fsfileid" value="">
+
+<!---------------------底部通用导航html-------------------------->
+<!--
+<div class="bottom_nav">
+
+    <div id="BBar_Main" class="open" style="display:none">
+
+    <iframe frameborder="0" scrolling="no" style="position:absolute; visibility:inherit; top:0px; left:0px; width:100%; height:31px;background:none;border:none;display:none;_display:block; z-index:-1; filter:alpha(opacity=0);-moz-opacity:0;-khtml-opacity:0;opacity:0;background:none;"></iframe>
+
+    <div class="left-box">
+
+    	<strong>实盘直播</strong>  
+
+    </div>
+
+	<div class="right-box">
+
+    	<a id="BBar_Open_Btn" href="javascript:;" class="develop"></a>
+
+    	<p class="btn"><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/main" target="_blank">我的金融界</a><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/stock/group/index.jspa" target="_blank">我的自选股</a><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/myfund/index.jspa" target="_blank">自选基金</a><a href="http://pay.jrj.com.cn/coin/rechage.jspa" target="_blank">金币充值</a></p>
+
+        <b id="BBar_Msg_Tip" class="off"></b>
+
+    </div>
+
+    <div class="center-box">
+
+    	<div class="pab01">
+
+    		<div id="stock_scroll" class="scroll">
+
+              	<table>
+
+                    <tbody>
+
+	  	  				<tr>
+
+	  	  					<td id="stock_scroll_content1">
+
+	  	  					</td>
+
+	  	  					<td id="stock_scroll_content2"></td>
+
+	  	  				</tr>
+
+	  				</tbody>
+
+  				</table>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    </div>
+
+    <div id="BBar_Close_Cont" class="close" style="display:none"><input id="BBar_Close_Btn" type="button" /></div>
+
+</div>
+-->
+	<div id="popMsgBox" class="mb" style="display:none;right:20px;">
+
+	   <div id="popMsgBox_Titlebar" class="mbhd">
+
+		   <span id="popMsgBox_Title" class="title">系统消息</span>
+
+		   <b id="popMsgBox_Close" class="option"></b>
+
+	   </div>
+
+	   <div id="popMsgBox_Content" class="mnbd">
+
+	   	  <div class="tit-mb">
+
+            <p></p>
+
+            <p class="pr"><a href="http://i.jrj.com.cn/main/systemMessages.jspa" target="_blank">查看</a></p>
+
+          </div>
+
+	   </div>
+
+	</div>
+
+<!---------------------------END 底部通用导航html--------------------------->
+
+    
+
+<!---------------------------   底部通用导航页面js   ---------------------------> 
+
+
+<script type="text/javascript" src="http://js.jrjimg.cn/lib/bottom-bar/BottomBar-min.1.7.js"></script>
+
+
+<!---------------------------  END 底部通用导航页面js   ------------------------> 
+
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=484" ></script>
+	</body>
+</html>
+
+

@@ -1,0 +1,552 @@
+<!--UINFO: http://bbs.39.net/xx/topic/4677694-1.html	length=47357&last_modified=0&time_saved=1450676756&charset=gb2312-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>陈中华；谁该为贵州四孩服毒自杀和湖南二孩中毒死亡负责?_39健康论坛</title>
+<meta name="Keywords"  content="陈中华；谁该为贵州四孩服毒自杀和湖南二孩中毒死亡负责新华社；年月日晚点半左右，贵州毕节市七星关区田坎乡有名儿童在家中疑似农药中毒，经抢救无效死亡。当地政府已确认，这名儿童是自己生活，父母不在身边。日，经公安机关调查，上述名儿童系服农药中毒死亡。又是贵州毕节市七星关区：三年前，是名男孩在垃圾箱里烧炭取" />
+<meta name="Description"  content="陈中华；谁该为贵州四孩服毒自杀和湖南二孩中毒死亡负责新华社；年月日晚点半左右，贵州毕节市七星关区田坎乡有名儿童在家中疑似农药中毒，经抢救无效死亡。当地政府已确认，这名儿童是自己生活，父母不在身边。日，经公安机关调查，上述名儿童系服农药中毒死亡。又是贵州毕节市七星关区：三年前，是名男孩在垃圾箱里烧炭取" />
+<link href="http://images.39.net/css/39base.css" rel="stylesheet" type="text/css" />
+<link href="http://bbsimg.39.net/bbs2011/content/css/content2011.css" rel="stylesheet" type="text/css" />
+<link href="http://bbsimg.39.net/bbs2011/content/css/popbox.css" rel="stylesheet" type="text/css" />
+<link href="http://bbsimg.39.net/css/login.css" rel="stylesheet" type="text/css" />
+<link href="/css/Topic.css" rel="stylesheet" type="text/css" />
+<script language="javascript" type="text/javascript" src="/js/jq_bbs.js"></script>
+<script language="javascript" type="text/javascript" src="/js/Common.js"></script>
+<script language="javascript" type="text/javascript" src="/js/swfupload.js" ></script>
+<script language="javascript" type="text/javascript" src="/js/Setting.js"></script>
+<script type="text/javascript" src="/Editor/jtbceditor.js"></script>
+<script type="text/javascript" src="/js/Topic.js"></script>
+<script type="text/javascript" src="/js/bbs.js"></script>
+<script type="text/javascript" type="text/javascript">
+
+    function useImg(url) {       
+        nEditor.tinsertUBB('[img]' + url + '[/img]');
+    }
+    var tid = 4677694;  
+    function send(isforced) {
+
+        var captchaCode="";
+        if ( $$("divCaptchaOut") && $("#divCaptchaOut").css("display")!="none")
+        {        
+            captchaCode=$.trim( $('#txtCaptcha').val());
+            if (captchaCode.length!=4)
+            {
+                alert("请输入验证码。");
+                $('#txtCaptcha').val("");
+        
+                $('#txtCaptcha').focus();
+                return;
+            }
+        }  
+        var Body = nEditor.tGetUBB();
+ 
+        addReply(tid,Body,isforced,captchaCode)
+
+
+    }
+    function addReplyBak(json) {
+        if (json.Success) { window.location.href = json.Redirect+"?r="+Math.random()+"#lastreply"; }
+        else
+        {
+            if (json.TypeID==-1 && loginbox)
+            {
+                loginbox.Show();
+            }else if (json.TypeID==-2)
+            {
+                loginbox.Close();
+                alert("输入验证码或验证码错误。")
+                $("#divCaptchaOut").show();
+            }            
+            else{
+                document.getElementById('imgCaptcha').src='/GetCaptchaImage.aspx?rd='+Math.random(); 
+                alert(json.Info);}
+        }     
+    }
+    function clearMsgBox()
+    {
+        $("#txtMsgTitile").val();
+        $("#txtMsgBody").val();
+    }
+
+    $(document).ready(function () {     
+        $(".main img").each(function () {       
+          
+               
+            if ($(this).width() > 520)
+                $(this).width(500);
+          
+
+        })
+    })
+    function attachimg(img, load) {
+       
+        if ($(this).width() > 520)
+            $(this).width(500);
+          
+    }
+    var customeData = { 'snid': 124, 'f':457, 's': 0, 't': 4677694 }
+
+</script>
+
+
+<style>
+.zt_navi a{color:#069; padding: 0 4px 0 4px;}
+.manageOpt .hf{margin-right:8px;}
+</style>
+<script src="http://image.39.net/gy/Head_Tools_For_bbs.js" type="text/javascript"></script>
+</head>
+<body>
+
+<div class="new_nav">
+    <div class="new_navtext">
+        <div class="text"><a href="http://www.39.net/">39健康网首页</a><a href="http://jbk.39.net/">查疾病</a><a href="http://jbk.39.net/bw_t2">查症状</a><a href="http://ypk.39.net/">查药品</a><a href="http://yyk.39.net/search/t2/">找医生</a><a href="http://yyk.39.net/search/">找医院</a><a href="http://yyk.39.net/search/c_guahao/">预约挂号</a><a href="http://ask.39.net/">问答</a><a href="http://bbs.39.net/">论坛</a><a href="http://test.39.net/">自测</a><a href="http://disease.39.net/">疾病</a><!--<a href="http://sex.39.net/">性爱</a>--><a href="http://fitness.39.net/">减肥</a><a href="http://woman.39.net/">女人</a><a href="http://food.39.net/">饮食</a><a href="http://baby.39.net/">育儿</a><a href="http://nk.39.net/">男科</a><a href="http://fk.39.net/">妇科</a><a href="http://cancer.39.net/">肿瘤</a></div>
+        <div class="region">
+            <a href="#" class="more" onmouseover="showList('morebox',1);" onmouseout="showList('morebox',0);">更多</a>
+            <div id="morebox" onmouseover="showList('morebox',1);" onmouseout="showList('morebox',0);">
+                <div class="title">
+                    <span class="t1">全部科室</span>
+                    <span class="t2">快速通道：点击直达您要访问的科室</span>
+                </div>
+                <ul>
+                    <li><a href="http://nk.39.net/">男科</a></li>
+                    <li><a href="http://fk.39.net/">妇科</a></li>
+                    <li><a href="http://ck.39.net/">产科</a></li>
+                    <li><a href="http://byby.39.net/">不孕不育</a></li>
+                    <li><a href="http://cancer.39.net/">肿瘤科</a></li>			
+                    <li></li>
+                    <li><a href="http://neike.39.net/" class="orange">内科</a></li>
+                    <li><a href="http://hx.39.net/">呼吸科</a></li>
+                    <li><a href="http://heart.39.net/">心血管</a></li>
+                    <li><a href="http://wei.39.net/">胃病科</a></li>
+                    <li><a href="http://shen.39.net/">肾病科</a></li>
+                    <li><a href="http://tnb.39.net/">糖尿病科</a></li>
+                    <li></li>
+                    <li><a href="http://gan.39.net/">肝病科</a></li>
+                    <li><a href="http://aids.39.net/">艾滋病</a></li>
+                    <li><a href="http://sj.39.net/">神经科</a></li>
+                    <li><a href="http://xy.39.net/">血液科</a></li>
+                    <li><a href="http://fs.39.net/">风湿科</a></li>
+                    <li></li>
+                    <li><a href="http://js.39.net/">精神科</a></li>
+                    <li><a href="http://xh.39.net/">消化科</a></li>
+                    <li><a href="http://cr.39.net/">传染科</a></li>
+                    <li><a href="http://pf.39.net/">皮肤科</a></li>
+                    <li><a href="http://xb.39.net/">性病科</a></li>
+                    <li></li>
+                    <li><a href="http://nfm.39.net/">内分泌</a></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li><a href="http://wk.39.net/" class="orange">外科</a></li>
+                    <li><a href="http://gk.39.net/">骨科</a></li>
+                    <li><a href="http://gc.39.net/" class="orange">肛肠科</a></li>
+                    <li><a href="http://jbk.39.net/ks/ruxianwaike.html">乳腺外科</a></li>
+                    <li><a href="http://mn.39.net/">泌尿科</a></li>
+                    <li><a href="http://zx.39.net/">整形科</a></li>
+                    <li><a href="http://wgk.39.net/" class="orange">五官科</a></li>
+                    <li><a href="http://eye.39.net/">眼科</a></li>
+                    <li><a href="http://mouth.39.net/">口腔科</a></li>
+                    <li><a href="http://ebh.39.net/">耳鼻喉科</a></li>
+                    <li><a href="http://gm.39.net/" class="orange">过敏科</a></li>
+                    <li></li>
+                    <li><span class="orange">其他科</span></li>
+                    <li><a href="http://ek.39.net/">儿科</a></li>
+                    <li><a href="http://cm.39.net/">中医科</a></li>
+                    <li><a href="http://120.39.net/">急救</a></li>
+                    <li><a href="http://tj.39.net/">体检科</a></li>
+                    <li><a href="http://xl.39.net/">心理科</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--导航登录开头-->
+    <script type="text/javascript" src="http://www.39.net/gy/39top_login.js" charset="utf-8"></script>
+    <script type="text/javascript">
+    var AppID = 1;
+    </script>
+    <script type="text/javascript" src="http://my.39.net/js/NavLogin.js?v20100827"></script>
+    <!--导航登录结尾-->
+</div>
+<div class="new_zt_navi">
+<!-- AFP Control Code/Caption.频道_关键字导航-->
+<IFRAME SRC="http://dpvc.39.net/adpolestar/door/;ap=B5CEB088_60F0_C487_DEC7_460275F47C73;ct=if;pu=san9;/?" NAME="adFrame_B5CEB088_60F0_C487_DEC7_460275F47C73" WIDTH="970" HEIGHT="22" FRAMEBORDER="no" BORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no"></IFRAME>
+<!-- AFP Control Code End/No.-->
+</div>
+
+<div class="gg_970">
+<!-- 广告位Id：3501 广告位名称：论坛帖子页_通栏 类型：固定广告位 尺寸：970x90 -->
+<iframe id="ac_im86_3501" name="ac_im86_3501" src="http://d.39.net/a.htm?pv=1&sp=3501,1,90,970,0,0,1,9" width="970" height="90" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" ></iframe>
+<div class="gg_970_bottom">
+<!-- 广告位Id：5218 广告位名称：论坛帖子页_顶部通栏下文字链 类型：固定广告位 尺寸：970x22 -->
+<iframe id="ac_im86_5218" name="ac_im86_5218" src="http://d.39.net/a.htm?pv=1&sp=5218,1,22,970,0,0,1,9" width="970" height="22" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" ></iframe>
+</div></div>
+
+<div class="wrap1">
+	<div class="login" style="width:960px; "><span class="link"><a href="/" target="_top"><b>39健康论坛</b></a>&nbsp;>>&nbsp;<a href="/xx/forum/457-1-1.html" >39茶社</a></span>
+    <span class="r"><div class="logright2"><form id="loginform" method="post" action="/post.aspx" target="_self">
+<input type="hidden" id="action" name="action" value="login" />
+<input type="hidden" name="app" id="app" value ="2" />
+<input type="hidden" id="ref" name="ref" value="/xx/topic/4677694-1.html" />
+<em><span>用户名</span><input  id="uname" name="uname" type="text"/></em>
+<em><span>密 码&nbsp;</span><input id="pwd" name="pwd" type="password" /></em>
+                 <input type="submit" value="登 录"  /><input type="button" value="注 册" onclick="top.location ='http://my.39.net/register.aspx?ReturnUrl='+top.location.href;"/>
+
+<a href="http://my.39.net/find_password.aspx" >忘记密码？</a>
+</form>
+<script  type="text/javascript">document.getElementById("uname").focus();</script>
+</div></span></div>
+
+	<div class="page page1">		
+		<span>
+        
+        <a href="/addtopic.aspx?boardid=457" target="_blank"><img src="http://image.39.net/bbs2008/images/btn_fbxt.gif" border="0" /></a> 
+        <a href="###" target="_self" onclick="AddFav(4677694)"><img src="http://image.39.net/bbs2008/images/btn_sc.gif" border="0" /></a></span>
+        <span style="font:12px/25px '宋体';"></span>
+		<span class="link">
+        <span></span>
+        </span>
+		
+		<span style="float:right;">
+		
+<script type="text/javascript" src="/js/tabCon.js"></script>
+
+
+
+<form action ="http://so.39.net/bbs.aspx"; target="_blank">
+<span class="btn" style="float:right" ><input  value="搜索" type="submit" class="width2" /></span>
+<span  style="float:right"><input name="words" type="text" class="input2"  /></span>
+</form>
+
+
+		</span>
+	</div>
+</div>
+
+<div class="kstw" style="display:none" id="MsgBox">
+	<strong><span><a href="###" onclick="msgBox.Close();"></a></span><b id="msgTitle"></b></strong>
+	<form><input  type="hidden" id="msgToPid" />
+        <p><span class="nr">标题：</span><input type="text" name="txtMsgTitile" id="txtMsgTitile"  class="bk btk" /></p>
+        <p><span class="nr">内容：</span><textarea name="txtMsgBody" id="txtMsgBody" cols="30" rows="4" class="bk"></textarea></p>
+        <p><input type="button" name="btnsubmit" value="发送消息" class="anniu" id="boxMsgSubmit" onclick="sendMsg($('#msgToPid').val(), $('#txtMsgTitile').val(), $('#txtMsgBody').val(),'msgBox.Close()')"/></p>
+	</form>
+</div>
+         <script type="text/javascript" type="text/javascript">
+             var msgBox = new LightBox("MsgBox");
+             function showMsgBox(topid,toNickName) { 
+                 $('#msgToPid').val(topid);
+                 $('#msgTitle').html('向' + toNickName + '发送消息');
+                 $("#txtMsgTitile").val("");
+                 $("#txtMsgBody").val("");
+                 msgBox.Show();
+             }
+        </script> 
+<div class="wrap1">
+<div class="con_left" id="divContent">
+		<div class="top">
+			<span class="left">主题：<a href="/xx/topic/4677694.html" id="atitle" name="atitle">陈中华；谁该为贵州四孩服毒自杀和湖南二孩中毒死亡负责?</a></span>
+			<span class=""></span>
+			<span class="right"> <span class="time">2015-06-13 07:29</span></span>
+	    </div>
+        
+	    <div class="conbody">
+		<div class="con">
+<div class="left"  userID="8038585" uName="中华青年"><div class="left_userimg"><a href="/user/8038585.html" target="_blank"><img src="http://askimg.39.net/doctor/201302/21/201302211114211533.jpg"></a></div><div class="name1"><a href="/user/8038585.html" target="_blank">中华青年</a></div>
+<ul>
+<li>高级战友:13944</li>
+<li>帖子/回复:1422/606</li>
+<li>论坛生日:2010-09-04</li>
+<li>在线时:52889分钟</li>
+<li>[<a href="/xx/topic/4677694-1-8038585.html" target="_blank">只看楼主</a>]</li>
+<li>[<a href="http://blog.39.net/qq66182388" target="_blank">看看他的博客</a>]</li>
+<li>当前状态：<span>在线</span></li>
+</ul>
+
+</div>
+<div class="right">
+<div class="main">
+陈中华；谁该为贵州四孩服毒自杀和湖南二孩中毒死亡负责?<br /><br />&nbsp; &nbsp; 新华社；2015年6月9日晚11点半左右，贵州毕节市七星关区田坎乡有4名儿童在家中疑似农药中毒，经抢救无效死亡。当地政府已确认，这4名儿童是自己生活，父母不在身边。11日，经公安机关调查，上述4名儿童系服农药中毒死亡。又是贵州毕节市七星关区：三年前，是5名男孩在垃圾箱里烧炭取暖中毒身亡。<br /><br />&nbsp; &nbsp; 新华社；2015年6月10日放学后，湖南一对姐妹俩吃了垃圾堆里的食物后中毒死亡。据了解，事发时，汤银霞的同学陈文华也在现场。11日晚，陈文华仍在派出所配合调查。据她的奶奶凌红燕转述，在当天回家途中，陈文华看到汤银霞姐妹捡垃圾堆里的食物吃。“什么麻辣烫呀，还有一些脏的东西都吃，里面可能有老鼠药。”凌红燕说，“她们是吃垃圾中毒的。”<br /><br />&nbsp; &nbsp; 接连六个孩子非正常死亡，还有前一段因养不起三个年幼的孩子和精神病的妻子及八十多岁的老母[据说]而上访被警察杀死的徐纯合，从上述这些案件看，当地政府应该负主要责<br />&nbsp; &nbsp; <br />&nbsp; &nbsp; 1，计划生育落实不到位。<br />&nbsp; &nbsp; <br />&nbsp; &nbsp; 2，对基层政府监管不到位。<br />&nbsp; &nbsp; <br />&nbsp; &nbsp; 3，对贫困的人民关心不到位。<br /><br />&nbsp; &nbsp; 保护好每个孩子，是一个政府的起码责任，在如今“大国崛起”的宏大叙事下，还有多少隐秘在偏远山区的孩子挣扎在死亡线的边缘？现实的悲凉，让人想起安徒生童话《卖火柴的小女孩》。只要还有类似的事件发生，每一次呼吁和问责都是必要和有意义的。希望中国政府重视和做好少儿工作，儿童是国家的未来，1.必须保障儿童的健康生活。2.必须保障儿童上学全免费。3.必须保障儿童学好智和德。世界第二GDP强国的论调还耳熟能详，中国梦的口号依然萦绕在耳畔，但是，我们又有6个儿童因贫而死亡了，我不知道中国政府今年又向外国发出了多少捐助金钱，又卖了多少美国债券？据说不少。<br /><br />&nbsp; &nbsp; 孩子为什么生活的这么苦？在五大类19项税收中，不要以为你是穷人就可以免去 这些高压力税收，在一个是消费者就是纳税人的国度，高税收到连一个化妆品，一盒烟等小物品都得缴近一半的税，而一座房子竟然百分之三四十都是税费，你能想象在这样一个被各种高税费裹挟的社会，社会福利保障竟然可以让我们的儿童冻死和忍受饥饿？在2010年我国的税收是7万3000多亿元，这钱能解决什么问题？全民医疗网上提供的数据是3000亿就可以解决，好的，你说怕中国人有了全民医疗就不努力了，那至少可以从每年只会多不会少的税费里面拿一些出来给贫困地区向留守儿童和留守老人做些什么吧？连这些都做不到？我们究竟在追什么噩梦？ <br /><br />&nbsp; &nbsp; 这4个小孩子的父亲必须大骂特骂。可是我们理性地想一想，留守儿童的父母为何如此无奈？我国的工化和城镇化将大量没有希望靠土地过好日子的农民赶到城市，可以说没有农民工，就没有日新月异的城市，没有世界工厂，也没有中国速度。这一切，难道给予他们低廉的工资就可以心安理得了？特别是听到毕节这类留守儿童的不幸时，政府应该更加感到欠农民工的太多太多了。我们天天叫嚷着不能歧视农民工，要关心农民工和他们的子女，可是他们的处境恐怕还不如10多年前，老一代的农民工，还可以挣一些钱回去盖房子，现在的农民工有这样的可能吗？几年过去了，甚至10几年过去了，他们仍然像初到城市时一样一无所有。城市没有接纳他们的真正意思，他们却不得不在城市里讨生活，不得不把孩子和老人留在农村。多威武的第二大经济体啊！如果这些最贫穷、最弱势的人都这样悲屈、没有尊严地活着，我要问：国家的发展究竟为了谁？<br /><br />&nbsp; &nbsp; 2012年5个儿童死在垃圾箱的事件曝光后，毕节政府不是说，将立刻对全市留守儿童进行逐一排查，设立留守儿童专项救助基金，采取一对一的帮扶措施吗？现在又发生这样的悲剧了，救助基金到哪里去了，一对一的帮扶帮到哪里去了？在全国，发生在留守儿童身上的不幸还少数吗？民政、福利院、救助站、扶贫办、红十会等政府机关和慈善机构到哪里去了？除了最小的没有到上学的年龄，其他3个小孩怎么就不上学了，教育部门关心过吗？村委会到哪里去了？善良的村民到哪里去了？事件发生了，当地政府还会做出好听的承诺。这种靠嘴上的承诺支撑起的政府责任心，永远只可能是冷漠的。恐怕这件事除了4个小孩的父亲必须担责以外，和政府一点关系都没有，因为标志着政府关怀的低保卡上有钱，吃玉米面、辍学是家长的责任。代表社会的村民更不需要为他们的冷漠承担责任。那个在救助站变成干尸的9男童还好一些，有关部门调查后决定：他用自己的智障承担70%的责任，救助站承担15%,他们的父母承担15%。这几天毕节政府恐怕在绞尽脑汁应对各方的置疑。<br /><br />&nbsp; &nbsp; 要想让这样的悲剧少发生，建立法制化的救助、追责、处罚等制度和机制势在必行。在很多文明的国家，发现这样的孩子和父亲，就应该用相关的法律，勒令其做到抚养监护的责任，像他这样长时间没有音讯的父亲，应该立即剥夺其监护权，同时追究法律责任。要建立留守儿童监管机制，村委会和居委会有向救助站、福利院等有关部门报告情况的责任，接到报告后，相关部门应立即启动救助、收养、追究监护人责任等程序。也要教育居民积极举报。哪个环节没有即时发现情况，没有即时救助，就要追究相关人员的法律责任。我们都知道，中国有相关的制度和经费，但没有形成解决问题的机制，也很少有公职人员被追责，所以这些制度形同虚设。辍学、不让孩子接受义务教育，本来就是违法的事，这样的事当地教育部门认真过吗？出问题了，当地政府只会虚伪地作出承诺，当时有一些行动，时间长了，事件冷却了，便没有人注意这些问题。当然，最根本的解决办法是，没有留守儿童，特别是要杜绝毕节这种无人监护的儿童，让农民工和他们的家人都能在工作的城市生活。<br /><br />&nbsp; &nbsp; 2010年时，我曾为这事写过文章，标题是[中国宁愿让人民无钱跳楼，也要让美国人吃穿不愁]9岁男孩发烧无钱看病用红领巾自缢昏迷_新闻中心-新浪网，流浪汉自称因无钱看病被保安强行架出医院-铁血网，夫妻无钱治病欲跳楼爬上楼顶后双双晕倒-南方都市报，无钱看病故意入狱，呜呼哀哉!-大江网，只因无钱看病医生竟将病人遗弃致死-搜狐网，奎屯17岁男孩无钱吃饭欲跳楼被民警劝阻-乌鲁木齐在线，女孩疑因无钱上大学跳楼记者采访遭阻挠-凤凰网，男子无钱欲跳楼耐心民警巧施救_新闻中心-东莞阳光网，五旬男子因无钱给儿子买婚房跳楼_新浪网，富豪拖欠亲弟弟工钱致其无钱看病身亡-中国法院网。<br />&nbsp; &nbsp; <br />&nbsp; &nbsp; 我们中国不是贫穷没有钱的，仅仅外汇储备就超过15万亿人民币，而全国每年医疗总费用才6千多亿，解决人民的免费医疗在财力上是没有任何问题的。可是，有些人却说：如果解决全国公费医疗，国家就要破产,我都想不明白：为什么拿出6千多亿人民币解决中国人的医疗，国家就要破产，而拿出5万多亿人民币购买美国国债、用于改善美国人的生活，却没有任何障碍。死人的事是经常发生的，但因无钱看病而死去令活着的人难过。我实在想不明白，既然国家是人民的，人民是国家的主人，用现在时髦的话说，人民就是国家的股东。国家这么富，为啥股东会流浪街头、无钱看病呢？我决不让中国再发生无钱看病而死的事，为了切实解决病人花钱或没钱治不了病的后顾之忧，我带个头，决定即日起在我们的北京合作医院长期开展治好病后再收药费，不收病人的任何押金，病人只要凭身份证明及诊断证明，就可以先免费治疗，待治愈后一年不复发了再收病人的药费，对没有治愈的病人和实在没有钱的病人不收任何治疗费用，我的办公室电话010-66182388，没钱治病的可以找我。<br /><br />&nbsp; &nbsp; 中国是个“愚蠢国家”， 美国现在世界上唯一的超级大国，在各个方面：政治上、经济上、军事上都很强大，但是美国又欠世界上许多国家钱，如果算算美国产出和收入、借贷，美国应该在经济上已经破产了。奇怪的是欠钱越多、美国越是强大、越是张牙舞爪、到处干涉、到处侵略、到处行使霸权，这是为什么？。原因很简单，美国欠的钱永远都不用还，美国只要开动印纱机，不停地印纱票就可以了。当然美国还有更厉害的一招，当“愚蠢国家”占占自喜地计算着利息时，美国把美元贬值让别国外汇马上就缩水。美国最后一招就是，如果美国欠“愚蠢国家”的钱到了美国无法忍受，美国就发动战争或者是通过代理人战争来解决欠债问题，或者制造各种事端让债权国就范。存在着这样的可能性，“愚蠢国家”在喂饱美国的同时、自己走的毁灭。<br /><br />&nbsp; &nbsp; 美国是欠世界很多钱，但美国不急于通过出售来还钱。除了几个个铁哥们，高科技的产品、现代的军事产品、重要实业，美国都是不卖的。特别是不可再生的矿藏，如稀土更是深理地下，因为完全可以从“愚蠢国家”以几乎是“白给”的价格得到。如果现在有人想少给或不给美国，美国将给予巨大的压力。<br />&nbsp; &nbsp; <br />&nbsp; &nbsp; 总之，在美国自私自利战略面前,中国人需要清醒的头脑，老是愚蠢下去是很可悲的。我们中国人喝着污染的水，吸入着污染的空气，吃着污染的食品，辛辛苦苦挣来的钱不要都泡汤了。难道我们中国政府真的要宁愿让中国人因无钱看病而自杀，也要让美国人逍遥自在吗？难道我们中国政府真的要宁愿让中国人无钱跳楼，也要让美国人吃穿不愁吗？<br /><br />&nbsp; &nbsp; 中国国际政法研究院院长陈中华 <br /><br />
+<p align="right"><a href="javascript:javascript:void((function(s,d,e){try{}catch(e){}var f='http://v.t.sina.com.cn/share/share.php?',u=d.location.href,p=['url=',e(u),'&title=',e(d.title),'&appkey=2924220432'].join('');function a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=620,height=450,left=',(s.width-620)/2,',top=',(s.height-450)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent)){setTimeout(a,0)}else{a()}})(screen,document,encodeURIComponent));" class="weibo" id="wb_sina" target="_self">分享至微博</a></p>
+</div>
+<p style="font-size:14px;color:red">【随便看看】</p>------------------------------------------------
+<ul  style="line-height:25px; margin:0 5px; padding:0px; font-size:14px;">
+<li><a href="/xx/topic/1502805.html" target="_blank">就算生活是杯具，也要做个上品青花瓷杯具</a></li><li><a href="/xx/topic/1502483.html" target="_blank">“一代女皇”潘迎紫驾到小S跪拜连摔2次</a></li><li><a href="/xx/topic/1502120.html" target="_blank">必知食用鸡蛋的十个常见误区</a></li><li><a href="/xx/topic/1501678.html" target="_blank">求解：坐在马桶上大便什么坐姿不激起水花</a></li><li><a href="/xx/topic/1499786.html" target="_blank">布鲁克斯是火箭队的核心吗</a></li></ul>
+<div class="promoCon">
+<div class="top"><span class="title">论坛精彩推荐</span></div>
+<div class="bd">
+<div class="twrap">
+<span class="tpp"><a href="http://jbk.39.net/nc/141029/4505403.html" target="_blank"><img src="http://bbsimg.39.net/2015/6/12/112917990.jpg"/></a></span>
+<span class="pict"><a href="http://jbk.39.net/nc/141029/4505403.html" target="_blank">慎入！剖腹产现场实拍</a></span>
+</div>
+<div class="twrap">
+<span class="tpp"><a href="http://baby.39.net/special/question/index.html" target="_blank"><img src="http://bbsimg.39.net/2014/8/18/144251831.jpg"/></a></span>
+<span class="pict"><a href="http://baby.39.net/special/question/index.html" target="_blank">生男生女清宫图2014</a></span>
+</div>
+<!-- 广告位Id：5215 广告位名称：论坛帖子页_精彩推荐图文 类型：固定广告位 尺寸：180x140 -->
+<iframe id="ac_im86_5215" name="ac_im86_5215" src="http://d.39.net/a.htm?pv=1&sp=5215,1,140,180,0,0,1,9" width="180" height="140" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" ></iframe></div>
+</div>
+<div class="gg" style="">
+<!-- 广告位Id：5224 广告位名称：论坛帖子页_精彩推荐下文字链 类型：固定广告位 尺寸：577x60 -->
+<iframe id="ac_im86_5224" name="ac_im86_5224" src="http://d.39.net/a.htm?pv=1&sp=5224,1,60,577,0,0,1,9" width="577" height="60" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" ></iframe>
+</div>
+<div class="manageOpt" style="position:relative">
+<span class="hf"><a href="#Reply">回复</a></span>
+</div>
+</div>
+</div>
+	
+            <div class="con">
+                <div class="left">
+                 </div>
+                <div class="right">
+                    <div class="gg" style="">
+                        
+                    </div>
+                </div>
+		       
+           </div>	
+	    		
+	    </div>
+
+		<div class="page">
+				<span class="btnb">
+                
+                <a href="/addtopic.aspx?boardid=457" target="_blank"><img src="http://image.39.net/bbs2008/images/btn_fbxt.gif" border="0" /></a>
+                 <a href="###" target="_self" onclick="AddFav(4677694)"><img src="http://image.39.net/bbs2008/images/btn_sc.gif" border="0" /></a>
+                </span>
+				<span class="link"><span></span></span>
+			
+		</div>
+            <div style="display:none; z-index: 1001; position: fixed; left: 50%; top: 50%; margin-top: -140px; margin-left: -186px;" id="LoginBox" class="loginbox gr">
+    <div class="boxtitle"><b class="i_wen">登录</b><i><img onclick="javascript:loginbox.Close();" src=" http://image.39.net/ask/images/icon_close.gif"></i></div>
+    <form target="_self" method="post" action="" onsubmit="return false;">
+    <input type="hidden" value="login" name="action" id="Hidden1">
+    <input type="hidden" value="1" name="app" id="app">
+    <input type="hidden" value=" http://ask.39.net/question/10486731.html" name="ref" id="Hidden2">
+    <div class="boxcontent">
+        <div class="bdan"><b>用户名:</b><span><input type="text" class="tbox" name="uname" id="boxUname"></span></div>
+        <div class="bdan"><b>密　码:</b><span><input type="password" class="tbox" name="pwd" id="boxPwd"></span></div>
+        <div class="bdan"><span><div name="loginbtn" id="loginbtn"><input type="Submit" class="loginbtn" value="登录并回复" id="boxSubmit" onclick="login($('#boxUname').val(),$('#boxPwd').val(),'send(false)'); return false;">　<a href=" http://my.39.net/find_password.aspx">忘记密码？</a></div></span></div>
+        <div class="bdan"></div>  
+        <div class="clearer"></div>           
+        <div class="boxRegtip"></div>             
+        <div class="boxRegText"><span>还没有帐号? <a href=" http://my.39.net/register.aspx?ReturnUrl=http://bbs.39.net/xx/topic/4677694.html">立即注册</a> </span><h2><a href="###" onclick='send(true)'>以游客身份回复</a></h2><div class="clearer"></div> </div>
+        <div class="clearer"></div>   
+    </div> 
+    </form>
+</div>
+
+         <script type="text/javascript" type="text/javascript">       
+             var loginbox = new LightBox("LoginBox");
+        </script>   
+<!-- 广告位 -->
+    <div class="ggg"  style="margin:10px 0;">
+        <script type="text/javascript">
+            /*资讯左栏B2_500*200，修改于2014-5-14*/
+            var cpro_id = "u1548728";
+        </script>
+        <script src="http://image.39.net/client/39/c.js" type="text/javascript"></script>
+    </div>
+    <!-- /广告位 -->
+		<div class="top space">
+			<span class="left"><a name="Reply">发表回复</a></span>
+		</div>
+		<div id="nav_top" style="margin-top:2px;float:left;	width:750px;">
+				<div class="comments" id="div_reply" > 
+                <div class="form">
+               
+
+                <textarea id="content" name="content" style="WIDTH: 500px; HEIGHT: 220px"></textarea>
+<script type="text/javascript" type="text/javascript">
+    var nEditor = new jtbcEditor('content');    
+    nEditor.tToolbarSets['default'] = ['Source=代码/视图','separator','Bold=加粗/取消加粗','Italic=倾斜/取消倾斜','Underline=下划线/取消下划线','RemoveFormat=清除格式','separator','JustifyLeft=左对齐','JustifyCenter=剧中对齐','JustifyRight=右对齐','JustifyFull=两端对齐','separator','TextColor=文字颜色','separator','Smiley=表情'];
+    nEditor.tInit('nEditor', '/Editor/');
+</script>
+  <div class="form2"> 
+        <div class="upLoad">           
+         <p  id="divCaptchaOut" style="display:none">验证码：<input id="txtCaptcha" type="text" style="width:40px" /><div id="divCaptcha" style="display:none;"><a href="#" title="看不清？点击刷新图片" onclick="document.getElementById('imgCaptcha').src='/GetCaptchaImage.aspx?rd='+Math.random();return false;"><img id="imgCaptcha" src="" width="120" height="40" alt="看不清？点击刷新图片" /></a></div>
+                <script type="text/javascript">
+                    var lastDate = (new Date(1900, 1, 1)) * 1;
+                    $("#txtCaptcha").focus(function () {
+                        var timeDifference = (new Date()) * 1 - lastDate;
+                        if (timeDifference > 10 * 60 * 1000) {
+                            lastDate = (new Date()) * 1;
+                            $('#divCaptcha > a > img').attr('src', '/GetCaptchaImage.aspx?rd=' + Math.random());
+                            $('#divCaptcha').css('position', 'absolute')
+                      .css('top', $(this).offset().top + $(this).height() +8 )
+                      .css('left', $(this).offset().left )
+                      .show();
+                        }
+                    });                    
+                </script>  	</p> 
+                <div class="btn"> <input type="button" id="btnSend" class="reBtn" onclick="send(false);" value="回贴"  /><span id="send_msg"></span></div>        
+        </div>       
+         </div>   
+         </div>
+
+         <!-- 广告位Id：3500 广告位名称：论坛帖子页_回复框焦点广告上 类型：固定广告位 尺寸：200x180 -->
+<iframe id="ac_im86_3500" name="ac_im86_3500" src="http://d.39.net/a.htm?pv=1&sp=3500,1,180,200,0,0,1,9" width="200" height="180" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" ></iframe>
+            <!-- 广告位Id：3499 广告位名称：论坛帖子页_回复框焦点广告下 类型：固定广告位 尺寸：200x180 -->
+<iframe id="ac_im86_3499" name="ac_im86_3499" src="http://d.39.net/a.htm?pv=1&sp=3499,1,180,200,0,0,1,9" width="200" height="180" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" ></iframe>
+         </div>
+		</div>	
+    <div class="promoBottom">
+         
+    </div>
+		<div class="promoBottom">
+		<div class="sp"><a href="http://baby.39.net/a/130516/4174440.html" target="_blank" alt="绝密！生男孩的九个小窍门"><img src="http://bbsimg.39.net/2014/9/3/105642508.jpg" /></a><span><a href="http://baby.39.net/a/130516/4174440.html" target="_blank">绝密！生男孩的九个小窍门</a></span></div><div class="sp"><a href="http://woman.39.net/nxspecial/sms075" target="_blank" alt="手机壳如何用不伤健康"><img src="http://bbsimg.39.net/2014/10/29/152906312.jpg" /></a><span><a href="http://woman.39.net/nxspecial/sms075" target="_blank">手机壳如何用不伤健康</a></span></div><div class="sp"><a href="http://baby.39.net/a/141111/4515054.html" target="_blank" alt="实拍血淋淋的堕胎场景"><img src="http://bbsimg.39.net/2014/12/3/143307529.jpg" /></a><span><a href="http://baby.39.net/a/141111/4515054.html" target="_blank">实拍血淋淋的堕胎场景</a></span></div><div class="sp"><a href="http://care.39.net/a/140718/4428447.html" target="_blank" alt="预防中暑的N个误区"><img src="http://bbsimg.39.net/2014/7/21/155042308.jpg" /></a><span><a href="http://care.39.net/a/140718/4428447.html" target="_blank">预防中暑的N个误区</a></span></div><div class="sp"><a href="http://food.39.net/shss/0104/index.html" target="_blank" alt="吃鱼丸和吃鱼一样营养？"><img src="http://bbsimg.39.net/2014/7/21/16102221.jpg" /></a><span><a href="http://food.39.net/shss/0104/index.html" target="_blank">吃鱼丸和吃鱼一样营养？</a></span></div>
+	<div class="addlist">
+					<ul>
+<li><a href="/xx/topic/3217947.html">病人医院上吊 医生视而不见</a></li><li><a href="/xx/topic/1834130.html">大家来围观：看看哥为地球末日草拟的生活保证书</a></li><li><a href="/xx/topic/1851934.html">【晒晒我的国庆节】辛苦的十一，不是人过的！</a></li><li><a href="/xx/topic/1856964.html">哥吐了！地铁上惊现腿哥和自恋姐（图）</a></li><li><a href="http://www.39.net/">要性福就别让老公吃这些食物</a></li><li><a href="http://www.39.net/">发现老公这样，我很心碎，怎办</a></li><li><a href="http://bbs.39.net/by/topic/3085219.html">闭经影响女性生育的具体原因</a></li><li><a href="http://bbs.39.net/by/topic/2227596.html">晒晒我治疗尖尖的费用,斑竹请帮忙分析以下,谢谢了</a></li><li><a href="/sex/topic/3258267.html">让女人欲罢不能的7大经典男人味</a></li><li><a href="/sex/topic/3232453.html">快绝种的带刺生殖器</a></li><li><a href="http://bbs.39.net/fk/topic/3218134.html">【私密话题】如果你爱错了人该怎么办？</a></li><li><a href="http://bbs.39.net/by/topic/2212846.html"> 得了尖锐湿疣，医生让我每天花两千治疗</a></li><li><a href="/sex/topic/3256082.html">两性话题：你能容忍你的伴侣精神上出轨吗？</a></li><li><a href="http://www.39.net/">女性最期待男人爱抚的12个兴奋点</a></li><li><a href="http://bbs.39.net/fk/topic/3211200.html">男友有肝病，家人反对，我该怎么做？</a></li>
+
+					</ul>
+				</div>
+    </div>
+	</div>
+	<div class="con_right">
+    	
+        <div class="marbott10"><!-- 广告位Id：5298 广告位名称：论坛帖子页_第一自定义2 类型：固定广告位 尺寸：210x210 -->
+<iframe id="ac_im86_5298" name="ac_im86_5298" src="http://d.39.net/a.htm?pv=1&sp=5298,1,210,210,0,0,1,9" width="210" height="210" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" ></iframe></div>
+        <div class="top"><span class="title">论坛最新话题</span></div>
+         <div class="con marbott10">
+<a href="" target="_blank"><img src="http://bbsimg.39.net/2015/6/12/113443444.jpg" border="0" /></a>
+<div class="span1"><a href="" target="_blank">从头发颜色看出你肾的好坏</a></div>
+<div class="line"></div>
+<ul>
+<li><a href="http://news.39.net/qwqs/140422/4377090.html?q=bbshot" target="_blank">男子头部遭重击后变数学天才</a></li>
+<li><a href="http://woman.39.net/a/140905/4466321.html?q=bbshot" target="_blank">图：如何使用女用避孕套</a></li>
+<li><a href="http://photo.39.net/a_np/140416/4374492.html?q=bbshot" target="_blank">巴西双胞胎镇 或与实验有关</a></li>
+<li><a href="http://news.39.net/qwqs/131126/4297816.html?q=bbshot" target="_blank">男子长B杯乳房 自己动手割掉</a></li>
+<li><a href="http://photo.39.net/a_np/130924/4262052.html?q=bbs" target="_blank">世界最大臀部！女子臀围超2米</a></li>
+</ul>
+</div>
+       
+         <div class="marbott10"><!-- 5299：论坛帖子页_第二自定义 类型：固定广告位 尺寸：210x210 -->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = 5299;
+ac_format = 0;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "d.39.net/";
+//]]></script>
+<script type="text/javascript" src="http://image.39.net/creative/k.js"></script></div>
+         <div class="top"><span class="title">论坛最热话题</span></div>
+         <div class="con marbott10">
+<a href="http://baby.39.net/special/rw/index.html" target="_blank"><img src="http://bbsimg.39.net/2014/10/29/152727997.jpg" border="0" /></a>
+<div class="span1"><a href="http://baby.39.net/special/rw/index.html" target="_blank">孕妇水下分娩全过程实拍</a></div>
+<div class="line"></div>
+<ul>
+<li><a href="http://baby.39.net/a_qt/130607/4186341.html" target="_blank">生孩子能引起女性性高潮</a></li>
+<li><a href="http://baby.39.net/a/131209/4304970.html" target="_blank">看看每个月的胎儿像什么水果</a></li>
+<li><a href="http://woman.39.net/a/141124/4522131.html" target="_blank">冬天贪吃火锅嘴臭怎么办？</a></li>
+<li><a href="http://woman.39.net/a/141024/4500688.html" target="_blank">侧卧型睡姿更适合女性吗？</a></li>
+<li><a href="http://care.39.net/a/140718/4427797.html" target="_blank">法令纹最容易出卖人们年龄</a></li>
+</ul>
+</div>
+
+         
+         <div class="marbott10"><!-- 广告位Id：3520 广告位名称：论坛帖子页_特型logo 类型：固定广告位 尺寸：210x120 -->
+<iframe id="ac_im86_3520" name="ac_im86_3520" src="http://d.39.net/a.htm?pv=1&sp=3520,1,120,210,0,0,1,9" width="210" height="120" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" ></iframe></div>
+         <div class="top"><span class="title1">24小时论坛热贴</span></div>
+		<div class="con marbott10">
+			<ul class="ul1">
+				
+			</ul>
+		</div>	
+		<!--论坛热帖-->
+		<div class="top"><span class="title2">论坛热帖</span></div><div class="con marbott10">
+<a href="http://baby.39.net/a/141103/4509236.html" target="_blank"><img src="http://bbsimg.39.net/2014/12/3/142955525.jpg" border="0" /></a>
+<div class="span1"><a href="http://baby.39.net/a/141103/4509236.html" target="_blank">血腥惊恐 剖腹产现场实拍</a></div>
+<div class="line"></div>
+<ul>
+<li><a href="http://baby.39.net/2014mrwy/140806/4442484.html" target="_blank">最牛捐奶妈咪：捐母乳100多公斤</a></li>
+<li><a href="http://food.39.net/a/140718/4428164.html" target="_blank">啤酒入菜比直接喝更添风味</a></li>
+<li><a href="http://woman.39.net/a/141123/4522066.html" target="_blank">冬季易感冒 如何保持美丽？</a></li>
+<li><a href="http://baby.39.net/a/140707/4419766.html" target="_blank">孕妇看电影注意4要点</a></li>
+<li><a href="http://woman.39.net/a/141018/4495590.html" target="_blank">女性如何抛开胸罩的束缚？</a></li>
+</ul>
+</div>
+		
+		<!--新加模块-->
+		       
+         <div class="marbott10"><!-- 广告位Id：5226 广告位名称：论坛帖子页_底部图标 类型：固定广告位 尺寸：210x120 -->
+<iframe id="ac_im86_5226" name="ac_im86_5226" src="http://d.39.net/a.htm?pv=1&sp=5226,1,120,210,0,0,1,9" width="210" height="120" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" ></iframe></div><div class="marbott10"><script charset="gb2312" src="http://images.39.net/js/baidu/baidu_bbs_210.js"></script></div><div class="marbott10"><iframe width="210" height="469" frameborder="no" scrolling="no" marginheight="0" marginwidth="0" border="0" name="adFrame_2508CAF7_50F3_0956_0D86_31B2134E78C3" src="http://www.39.net/gy/wydzk/index2.html">
+</iframe></div>
+         <div class="marbott10">
+         <script type="text/javascript" src="http://image.39.net/js/google/google_210_3.js"></script>
+         </div>
+             
+              
+          <div class="marbott10"><div class="marbott10"><iframe width="210" height="469" frameborder="no" scrolling="no" marginheight="0" marginwidth="0" border="0" name="adFrame_2508CAF7_50F3_0956_0D86_31B2134E78Cs5" src="http://fitness.39.net/jfsq/sq/index.html"></iframe>
+</div>
+           <div class="marbott10"><!-- 5380：论坛帖子页_第三自定义 类型：固定广告位 尺寸：200x200 -->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = 5380;
+ac_format = 0;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "d.39.net/";
+//]]></script>
+<script type="text/javascript" src="http://image.39.net/creative/k.js"></script></div>
+	
+
+    </div>
+	
+</div>
+ 
+<div id="bottominfo">	
+	<a href="http://www.39.net/">39健康网</a> - 中国领先的健康门户网站　Copyright  &copy; 2000-2015　<a href="http://corp.39.net/info/disclaimer.html">未经授权请勿转载</a> | <a href="http://corp.39.net/info/contact.html">联系我们</a>
+</div>
+
+<script type="text/javascript">
+//显示与隐藏列表
+function showList(id,num){
+	if(num == 1){
+		document.getElementById(id).style.display = "block";
+	}
+	else{
+		document.getElementById(id).style.display = "none";
+	}
+}
+</script>
+<script src="http://image.39.net/tools/djan.js?v=1.1" type="text/javascript"></script>
+<script src="http://image.39.net/tools/bdtj20120508.js" type="text/javascript"></script>
+<script src="http://image.39.net/tools/bdtj_39net2014_20140804.js" type="text/javascript"></script>
+<script src="http://image.39.net/tools/googleanalytics121112.js" type="text/javascript"></script>
+<div style="display:none;">46.7991ms</div>
+
+ 
+
+
+
+
+
+   <script type="text/javascript">var ad_url="/xiaolaba-6.html";</script>
+   <script type="text/javascript" src="../js/bbsxiaolaba.js"></script>
+<IFRAME SRC="http://dpvc.39.net/ADPolestar/lgs/door/;ap=81bf0bd3-c71f-423c-8341-7816c3b09011&ct=i&pw=970&ph=90&mv=710&er=&ir=f&pu=san9?" NAME="adFrame" WIDTH="0" HEIGHT="0" FRAMEBORDER="no" BORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no"> 
+</IFRAME> 
+ 
+
+<script language="javascript" type="text/javascript">
+    (function () {
+        var organ = "3644a684f98ea8fe223c713b77189a77";
+        var wt_host = 'wt.39.net';
+        var pkBaseURL = (('https:' == document.location.protocol) ? ' https://' + wt_host : ' http://' + wt_host);
+        document.write(unescape("%3Cscript src='" + pkBaseURL + "/js/wt.js' type='text/javascript'%3E%3C/script%3E"));
+        var wt_time = 0;
+        function timeout_fun() { setTimeout(function () { if (typeof (WebTrace) != 'undefined') { initWebTrace() } else if (wt_time < 100) { timeout_fun(); wt_time++; } }, 500); }
+        function initWebTrace() { try { var webtrace_track = WebTrace.getTracker(pkBaseURL + "/trace.gif", 1); if (typeof (_wa_beforeload) != "undefined") webtrace_track.setBeforeload(_beforeload); var customer_data = { 'snid': 124, 'f': 0, 's': 0, 't': 0 }; try { customer_data = customeData; } catch (e) { }; webtrace_track.setCustomData(customer_data); webtrace_track.enableLinkTracking(); webtrace_track.trackPageView(); } catch (err) { } }
+        new timeout_fun();
+    })();
+</script>
+<div style="display:none">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F1bb93324ed8e8fd7b7d525a86ea50787' type='text/javascript'%3E%3C/script%3E"));
+</script></div>
+
+
+</body>
+</html>

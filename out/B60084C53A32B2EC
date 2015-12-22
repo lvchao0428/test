@@ -1,0 +1,514 @@
+<!--UINFO: http://bbs.tiexue.net/post_10649845_1.html	length=62779&last_modified=1450234138&time_saved=1450677073&charset=gb2312-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta content="李零：从燕京学堂想起的" name="keywords" />
+    <meta content="2015年12月13日 20:17
+来源： 凤凰读书 作者：李零
+“改革”曾经是个好词。好词是不能反对的，也没人反对。当“改革”还是个嫩芽时，我们曾天真地以为，贪腐的存在是因为“改革”不彻底，但当如此之多的蛀虫不断以“改..." name="description" />
+    <meta http-equiv="mobile-agent" content="format=html5; url=http://m.tiexue.net/touch/thread_10649845_1.html"/>
+    <title>
+        李零：从燕京学堂想起的
+        
+        -
+        中国历史
+        - 铁血社区</title>
+        <link href="http://s.itiexue.net/??css/global/global-u.css,css/tiexue/bbs/page/post1-u.css?v=2" rel="stylesheet" type="text/css" charset="utf-8"/>    
+    <script src="http://s.itiexue.net/??js/global/base-all-v2-u.js,js/tiexue/public-u.js,js/tiexue/bbs/public-u.js,js/tiexue/bbs/page/post1t-u.js?v=5" type="text/javascript" charset="utf-8"></script>   
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+    <script type="text/javascript"> 
+        var ForumID=73;
+        var ForumGroupID=8;
+        var ThreadID=10649845;
+        var islocked=0;
+        var isvouch=0;
+        var Subject='李零：从燕京学堂想起的';
+	
+        BAIDU_CLB_preloadSlots("180429", "41474", "92705", "81336");
+        function PageTurn()
+        {
+            var pageIndexJs=$.trim($("#txtTurn").val());
+            if(pageIndexJs!="")
+            {
+                if(ValidateNum(pageIndexJs))
+                { 
+                    window.location.href="http://bbs.tiexue.net/post_"+10649845+"_"+pageIndexJs+".html";
+                }
+                else
+                {
+                    alert("请输入数字！");
+                }
+            }else
+            {
+                alert("请输入要跳转的页码！");
+            }
+        }
+        function ValidateNum(srcStr)
+        {
+            var expr='^(0|[1-9][0-9]*)$';
+            var Reg= new RegExp(expr);
+            if(Reg.test(srcStr))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        } 
+        function GaqPush(cname) {
+            _gaq.push(['_trackEvent', 'bbspost', 'clicked', cname]);
+        }
+    </script>   
+</head>
+
+<body>
+    <div class="container">
+        <!--*中间970 内容 start-->
+        <!--*头部 start-->
+        
+<div id="topBar">
+<script type="text/javascript">
+    InitLoginBar({
+        id: "topBar",
+        template: 1,
+        game: false,
+        slideMenu1: false,
+        slideMenu2: true,
+        sousuo: true,
+        addNav: null,
+        addStyle: ""
+    });
+</script>
+</div>
+
+<div class="header">
+    <div class="area header_row_2">
+        <div class="logo textHide float_L">
+            <a title="铁血社区" href="http://bbs.tiexue.net/" target="_blank">铁血社区</a></div>        
+            <ul class="nav fontYaHei" id="topNav">
+                <li class="noLayer">
+                    <h3>
+                        <a href="http://www.tiexue.net" target="_blank" onclick="GaqPush('1')">首页</a></h3>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://mil.tiexue.net" target="_blank" onclick="GaqPush('2')">军事</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowPicClass_43_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-1'])">军品鉴赏</a></li><li><a href="http://mil.tiexue.net/Junlv_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-2'])">中国军旅</a></li><li><a href="http://mil.tiexue.net/junmi_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-3'])">军迷争议</a></li><li><a href="http://mil.tiexue.net/lishi.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-4'])">军事历史</a></li><li><a href="http://mil.tiexue.net/jujiao.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-5'])">军情聚焦</a></li><li><a href="http://mil.tiexue.net/zhuanti_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-6'])">军事专题</a></li><li><a href="http://mil.tiexue.net/daohang/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-7'])">外军网址导航</a></li><li><a href="http://mil.tiexue.net/1979/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '1-8'])">对越自卫反击战</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://bbs.tiexue.net" target="_blank" onclick="GaqPush('3')">社区</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://mil.tiexue.net/zhiyuanzhe/index.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-1'])">关爱老兵活动</a></li><li><a href="http://www.tiexue.net/ShowClass_775_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-2'])">铁血精品原创</a></li><li><a href="http://www.tiexue.net/ShowClass_772_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-3'])">铁血热门话题</a></li><li><a href="http://bbs.tiexue.net/bbs32-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-4'])">陆军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs31-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-5'])">海军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs69-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-6'])">空军论坛</a></li><li><a href="http://bbs.tiexue.net/bbs33-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-7'])">环球风云</a></li><li><a href="http://bbs.tiexue.net/gbbs24-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-8'])">警察之家</a></li><li><a href="http://bbs.tiexue.net/bbs73-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-9'])">中国历史</a></li><li><a href="http://bbs.tiexue.net/bbs124-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-10'])">军事影评</a></li><li><a href="http://bbs.tiexue.net/bbs219-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-11'])">军品鉴赏</a></li><li><a href="http://bbs.tiexue.net/bbs246-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-12'])">四海钓鱼</a></li><li><a href="http://bbs.tiexue.net/bbs247-0-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '2-13'])">人间美食</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <h3>
+                        <a href="http://www.junshishu.com" target="_blank" onclick="GaqPush('5')">读书</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.junshishu.com/mil.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-1'])">军事小说</a></li><li><a href="http://www.junshishu.com/his.htm" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-2'])">历史小说</a></li><li><a href="http://www.junshishu.com/MultiNovelList.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-3'])">全本小说</a></li><li><a href="http://www.junshishu.com/yjcbxs.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '4-4'])">出版图书</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://www.tiexue.net/ShowPicClass_53_1.html" target="_blank" onclick="GaqPush('6')">图片</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowPicClass_53_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-1'])">精选酷图</a></li><li><a href="http://pic.tiexue.net/tuji_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-2'])">焦点图集</a></li><li><a href="http://www.tiexue.net/ShowPicClass_171_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-3'])">军事酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_172_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-4'])">国际酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_173_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-5'])">历史酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_188_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-6'])">社会酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_599_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-7'])">原创酷图</a></li><li><a href="http://www.tiexue.net/ShowPicClass_597_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '5-8'])">猎奇酷图</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://jingcha.tiexue.net" target="_blank" onclick="GaqPush('7')">警察</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://www.tiexue.net/ShowClass_308_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-1'])">处警故事</a></li><li><a href="http://www.tiexue.net/ShowClass_294_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-2'])">警察生活</a></li><li><a href="http://www.tiexue.net/ShowClass_293_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-3'])">警务探讨</a></li><li><a href="http://www.tiexue.net/pictopic-373-1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-4'])">图说警察</a></li><li><a href="http://www.tiexue.net/SmallPiclist_670_1.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '6-5'])">警察聚焦</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>
+                        <a href="http://game.tiexue.net" target="_blank" onclick="GaqPush('8')">游戏</a><span></span></h3>
+                    <ul>
+                        <li><a href="http://dj.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-1'])">大将军</a></li><li><a href="http://dx.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-2'])">大侠传</a></li><li><a href="http://yd.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-3'])">一代宗师</a></li><li><a href="http://jj.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-4'])">将军</a></li><li><a href="http://zzsf.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-5'])">征战四方</a></li><li><a href="http://as.game.tiexue.net" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-6'])">傲视天地</a></li><li><a href="http://sg.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-7'])">三国风云2</a></li><li><a href="http://mr.game.tiexue.net/" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '7-8'])">秦美人</a></li>
+                    </ul>
+                </li>
+                 <li>
+                        <h3><a href="http://v.tiexue.net" target="_blank" onclick="GaqPush('10')">视频</a><span></span></h3>
+                        <ul>
+                           <li><a href="http://v.tiexue.net/classMain_1681.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-1'])">军事视频</a></li><li><a href="http://v.tiexue.net/classMain_1682.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-2'])">时政视频</a></li><li><a href="http://v.tiexue.net/classMain_1683.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '9-3'])">历史视频</a></li>
+                        </ul>
+                  </li>
+                <li class="junpShop">
+                    <h3>
+                        <span></span><a href="http://www.junph.com/?utm_source=TX&utm_medium=anniu&utm_campaign=junp"
+                            target="_blank" onclick="GaqPush('9')">君品商城</a></h3>
+                    <ul>
+                        <li><a href="http://www.junph.com/html/Class1.html?utm_source=TX&utm_medium=anniu&utm_campaign=1" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-1'])">军迷服饰</a></li><li><a href="http://www.junph.com/html/category/junbiao.htm?utm_source=TX&utm_medium=anniu&utm_campaign=2" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-2'])">军迷手表</a></li><li><a href="http://www.junph.com/html/Class11.html?utm_source=TX&utm_medium=anniu&utm_campaign=3" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-3'])">军迷鞋靴</a></li><li><a href="http://www.junph.com/html/Class9.html?utm_source=TX&utm_medium=anniu&utm_campaign=4" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-4'])">军迷包具</a></li><li><a href="http://www.junph.com/html/category/jp-yanjing/?utm_source=TX&utm_medium=anniu&utm_campaign=6" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-5'])">军迷眼镜</a></li><li><a href="http://www.junph.com/html/Class12.html?utm_source=TX&utm_medium=anniu&utm_campaign=5" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-6'])">军迷手电</a></li><li><a href="http://www.junph.com/html/category/jp-wangyuanjing/?utm_source=TX&utm_medium=anniu&utm_campaign=7" target="_blank" onclick="_gaq.push(['_trackEvent', 'bbspost', 'clicked', '8-7'])">望远镜</a></li>
+                    </ul>
+                </li>
+            </ul>        
+        <script type="text/javascript">
+            function navTab(id) {
+                var $_Tit = $("#" + id + ">li").not(".noLayer");
+                var $_Sub = $("#" + id + ">li>ul");
+                var timmer = null;
+                var n = null;
+                $_Tit.hover(function () {
+                    n = $_Tit.index(this)
+                    $(this).addClass("select").siblings().removeClass("select");
+                    $(this).children("ul").show();
+                }, function () {
+                    $_Tit.eq(n).removeClass("select");
+                    $_Sub.eq(n).hide();
+                })
+            }
+            navTab("topNav");
+        </script>
+    </div>
+</div>
+
+        <!--头部 end-->
+        <!--*主要内容 start-->
+        <div class="main">
+            <div class="banner" id="Baidu_BBSPostNormalV3ContentTopAD1">
+                <div><script type="text/javascript" >BAIDU_CLB_fillSlot("180429")</script></div>
+            </div>
+            <div class="mRow_1">
+                <p class="ftBtn textHide float_L">
+                    <a onclick="addPost();_gaq.push(['_trackEvent', 'bbs', 'clicked', '发帖按钮']);" href="javascript:void(0);" target="_self">我要发帖</a>
+                </p>
+                <div class="page float_R">
+                    <a href="http://bbs.tiexue.net/post_10649845_1.html" class="pageHover">1</a>
+                    
+                </div>
+            </div>
+            
+<div class="dir">
+    
+    <a href="http://bbs.tiexue.net/" target="_top">铁血社区</a> &gt; <a href="http://bbs.tiexue.net/gbbs8-0-1.html" target="_top">铁血历史论坛</a> &gt; <a href="http://bbs.tiexue.net/bbs73-0-1.html" target="_top">中国历史</a> &gt; 
+    <a target='_blank' href='http://bbs.tiexue.net/post_10649845_1.html'>李零：从燕京学堂想起的</a>
+</div>
+
+            
+<div class="postContent border">
+    <div class="postTit">
+        <p class="float_L">
+            帖子主题：李零：从燕京学堂想起的</p>
+        <p class="float_R">
+            共&nbsp;0&nbsp;个阅读者&nbsp;<span id="post_HeadReplySort"></span></p>
+    </div>
+</div>
+
+            
+<div class="postContent border">
+    <div class="postStart">
+        <!--*左边用户信息 start-->
+        <div class="sideLeft float_L">
+            <ul class="userMsg">
+                <li class="userName" id="userMsg1"><div class="user_01"><p class="down_icon" ><strong><a href="http://i.tiexue.net/1371779" class="signeffect-id"  target="_blank">集结军号</a></strong><span></span></p><span class="boyHead"></span></div></li> <li class="headPic"> <a href="http://i.tiexue.net/1371779" target="_blank" title="查看个人空间"><img id="userMsg0" src="http://avatar.pic.itiexue.net/1371/1371779.jpg" alt="头像" width="96" height="96" /></a><span class="signeffect-head"></span> </li><li class="xunZhang"><img src="http://r.itiexue.net/global/images/xunzhang/LJ-xiao-2.gif" alt="军衔:陆军中校" title="军衔:陆军中校" /></li> <li class="xxMsg">军号：1371779</li><li class="rongYu"><!-- 勋章 start --><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=13&f=1' target='_blank'><img src='http://img1.itiexue.net/medal/honor/13/1/13_s.png' title='发帖新兵' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=14&f=1' target='_blank'><img src='http://img2.itiexue.net/medal/honor/14/1/14_s.png' title='发帖高手' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=15&f=1' target='_blank'><img src='http://img3.itiexue.net/medal/honor/15/1/15_s.png' title='发帖精英' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=67&f=0' target='_blank'><img src='http://img7.itiexue.net/medal/honor/67/67_s.png' title='精华纪念章' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=68&f=0' target='_blank'><img src='http://img8.itiexue.net/medal/honor/68/68_s.png' title='原创纪念章' width='26' height='45' border=0 align='absmiddle'></a><a style='cursor:pointer;' href='http://honor.tiexue.net/HonorRoom/honorshow.aspx?id=167&f=1' target='_blank'><img src='http://img11.itiexue.net/medal/honor/167/1/167_s.png' title='三级原创精英' width='26' height='45' border=0 align='absmiddle'></a><!-- 勋章 end --></li>	<li class='xxMsg'>工分:250505		/ 排名:3625	</li>	<li class='xxMsg'>本区职务:会员</li>
+            </ul>
+            <!--*广告位 start-->
+            <div class="advert01" id="Baidu_BBSPostNormalV3ContentLeftAD1">
+                <div><script type="text/javascript" >BAIDU_CLB_fillSlot("41474")</script></div>
+            </div>
+            <!--广告位 end-->
+        </div>
+        <!--左边用户信息 end-->
+        <!--*右边帖子内容 start-->
+        <div class="contents">
+            <div class="contRow_1" id="adminAndUserPanel_1">
+                <!--10649845,100172776,1,1371779,集结军号,AhOArF2pm1YLbH9rkmb0jA%3d%3d,1,0,0,0,0-->
+            </div>
+            <div class="icon_left textHide">
+                左箭头-小图标</div>
+            <div class="contRow_2">
+                
+                <div class="bbsPosTit">
+                    
+                    <span class="emotion61"></span>
+                    <h1>
+                        李零：从燕京学堂想起的</h1>
+                </div>
+                <!-- 广告位：标题下文字 -->
+ <div class="ad_text" id="Baidu_PostTitleTextAD" ></div>
+                <div class="tiJiaoMsg">
+                    <span>文章提交者：集结军号
+                        加贴在</span>&nbsp;<a href="http://bbs.tiexue.net/bbs73-0-1.html" title="中国历史">中国历史</a>&nbsp;铁血论坛
+                                        http://bbs.tiexue.net/bbs73-0-1.html</div>
+                <div class="copyBtn" id="contentsbelowbar">
+                </div>
+                
+                <div id="postContent" class="js_box">                   
+                    <div id='Baidu_AdPIP2' class='AdPIP2'><div id='Baidu_AdPIP2_container'></div></div><!-- AdPanel_left --><p class='bbsp'><span style="font-size:13px">李零：从燕京学堂想起的</span></p><p class='bbsp'>2015年12月13日 20:17<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>来源： 凤凰读书 作者：李零</p><p class='bbsp'>“改革”曾经是个好词。好词是不能反对的，也没人反对。当“改革”还是个嫩芽时，我们曾天真地以为，贪腐的存在是因为“改革”不彻底，但当如此之多的蛀虫不断以“改革”的名义侵蚀国家，甚至把“改革”当贪腐的别名时，这个词已不再神圣。</p><p class='bbsp'>现在，盖房修路，领导<a href="http://data.tiexue.net/view/1244291" class="linkin-word" target="_blank">最上</a>心，口号是“大拆促大建，大建促大变”。有一回，中文系通知我，要我参加学校的规划会。我说，好，那我就去听听吧。我听到什么了？有人说，某些楼年头太久，早就应该拆；有人说，某些楼楼龄太短，想拆不能拆；有人说，没关系，我可以从国外买一种涂料，把这些难看的楼重新意烈幌隆Ｖ劣诟鞘裁矗夤菽窃海骷矣懈骷业慕ㄒ椋退惆盐疵盍耍参幢匕诘每⒏榈孟隆；褂校贝笫侨氐阄奈锉；さノ唬晌芏嗉苹恼习Ｓ腥怂担臼裁炊欢桶嵛奈锓ǎ挠心敲炊辔奈铩瞧咦彀松啵岩怨槟伞５屑挛颐靼琢耍贝筇。唤锲孔幼安幌露锎住</p><p class='bbsp'>最近，北大人文学苑落成，文史哲三系从静园二院、五院、六院搬出，每个老师终于有了自己的办公室。但房子盖好，怎么分配，拖了很长时间，这是为什么？我听几位系领导说，有个海外请来的国际大师发话了，他的研究院，一个楼不够用，一定要占这个人文学苑的中心，如果学校非让咱们把房子让出来，那咱们就争取把静园的老院子保下来。</p><p class='bbsp'>他们说的国际大师，负责文明对话，志在重张儒学，建立世界宗教。我记得，他刚到北大，有人负责召集，让我们跟他讨论一个重要问题。什么重要问题呀？他说，他要把哈佛燕京学社的资金投到北大，你们最好讨论一下，咱们是叫哈佛北大燕京学社好呀，还是叫北大哈佛燕京学社好。就这么个问题，他要讨论一整天，大家受不了，中午就散了。后来学校给我发信，要我配合他的研究。我当然不配合啦。</p><p class='bbsp'>当时谁也不知道校领导拿静园派何用场，现在才明白，草坪和草坪旁边的六个院子是用来建燕京学堂，北大校<a href="http://data.tiexue.net/view/16604" class="linkin-word" target="_blank">中校</a>，中国学校里的洋学堂，打造“国际一流”的实验田。这组建筑，不当不正，恰好选在北大的心脏地带，好像在天安门广场盖白宫，引来骂声一片。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>我是1985年调进北大，明年9月满三十年。这么多年，我目睹了北大的千变万化：从没钱到有钱，从创收自救到钱多得不知道该怎么花，可把领导和群众都忙坏了。</p><p class='bbsp'>这些年，我们都已充分领教，资本的力量有多大，江河横溢，人或为鱼鳖。我真希望有人能把这三十年好好写一下，让<a href="http://data.tiexue.net/view/6656" class="linkin-word" target="_blank">历史</a>说话，见证一下中国的改革在中国的高校到底是怎么一回事，中国教改方案的设计者，他们的改革理念到底是什么，知识分子都扮演什么角色。</p><p class='bbsp'>大家可能都还记得《儒林外史》的开头吧。王冕对洪武年间礼部议定的八股取士之法怎么说？他说，“这个法却定的不好！将来读书人既有此一条荣身之路，把那文行出处都看得轻了。”小说描写，时当初夏，天色渐晚，皓月当空，水银泻地，王冕望着满天星斗，拿手一指，“你看，贯索犯文昌，一代文人有厄。”话犹未了，狂风大作，风声略定，但见一百几十颗星星往东南坠。王冕说，“天可怜见，降下这一伙星君去维持文运，我们是不及见了。”</p><p class='bbsp'>这是我此刻的心情。我忘不了，我们已故的一位副校长当年曾问一位领导，你让我们自谋生路，难道化学系的出路就是做肥皂吗？领导丢下一句冰冷的话：大势所趋，势在必行。我忘不了，当年开会学习，大家怎么哭穷，连大包小包倒衣服的馊主意都端出来。因为穷，我们的兄妹开荒、生产自救是敞开校园、面向市场，推倒南墙办商店。</p><p class='bbsp'>1995年，有几个研究西哲的哲学家开了一家叫“风入松”的书店。书店刚开门，我买了本《汉语大字典》，表示祝贺。后来怎么样，2001年，南墙又恢复了；2005年，书店的创办者王炜去世了；2011年，风入松关张了。一切好像都没发生。有位中文系的老主任回忆说，就咱们中文系骨头硬，愣是扛住了这股谁都扛不住的商品经济大潮。真是这样吗？</p><p class='bbsp'>久旱逢甘霖，现在不同啦。好消息，好消息，中国有钱啦。大钱霈然而降，从校到系到人，层层承包、层层考核、层层验收，填不完的表。校办公司、孵化器（incubator），那是杀出重围的一路大军，直奔商道。另一路大军则坚守校园，文化办班。领袖班，总裁班，各种各样的班，面向政府，面向企业，面向和尚道士，面向文物收藏者和古董商，大横幅挂满校园，轰轰烈烈。每个系有每个系的活法，每个人有每个人的奔头。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>中国是个教育大市场，商机无限。就连咱们的榜样，世界一流大学，他们都眼红了，你瞅我，我瞅你，赶紧到中国抢占市场。各种国际化的班、国际化的校、国际化的研究中心纷纷进驻中国大学。咱们的班也不甘落后，轮到上层次、上规模了。</p><p class='bbsp'>白日依山尽，黄河入海流，中国的教育改革又上一层楼。</p><p class='bbsp'>如今的大学，“国际化”的大潮席卷一切，我在一篇讲北大校史的文章中说，“弄潮儿向涛头立，手把<a href="http://data.tiexue.net/view/3650" class="linkin-word" target="_blank">红旗</a>旗不湿”。谁是“弄潮儿”？</p><p class='bbsp'>你说巧不巧，海外人士查建英写了本《弄潮儿》。此书原载《纽约客》，用英文写，中文本有香港牛津版。上篇“知识人”，讲她哥，讲王蒙，讲北大。下篇《企业家》，讲“中国好大亨”。两组文章，相映成趣，可以反映她心目中的改革潮流。她讲北大，是讲2003年的北大改革。她把上面两句话当全书的题词。</p><p class='bbsp'>查建英说，这场改革，真正的“弄潮儿”是前光华管理学院院长张维迎。前北大党委书记闵维方是他的幕后支持者。还有一位是在《读书》编辑部跟我们讨论的李强，他也是改革方案的起草者。</p><p class='bbsp'>查建英介绍，这三位都有海归出身、经济头脑和国际视野，他们都是“出身海归”的蔡元培校长的正宗嫡脉，都是“不被理解的改革派”。她很遗憾，这场改革遭到“保守派”强烈反对，最后“被上头牺牲掉”了。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>她是北大中文系毕业。她说，中文系几乎一边倒，全都反对这场坚持“逻辑”和“效率”的改革。</p><p class='bbsp'>谁是“保守派”？张鸣是，我当然更是。其实，就连她十分欣赏，主张稳健改革的“温和自由派”陈平原，还有拿蔡元培当上帝、北大当情人，因北大“只剩躯壳”而去了清华的刘东，也是闵张改革的批评者。</p><p class='bbsp'>查建英转述，李强认为，“有些方案批评者是言辞高蹈却用意卑鄙”。“他们说学校不是养鸡场”，“但我说大学也不是养老院”，李强愤愤然。她说的潮，“国际化”也好，“海龟代土鳖”的大换血和裁人下岗也好，课题制下的核心期刊统计和量化管理也好，没错，的确是大潮，跟整个社会上的改革一模一样。但反对的声音很大，同样不容忽视。这场改革是不得人心的，无论在学校里，还是在社会上。</p><p class='bbsp'>闵张改革真的流产了吗？我不这么认为。我的印象是：这场改革一直在进行。譬如眼下的燕京学堂和人事制度改革方案（国际评审、非升即走的进人新制）就是它的继续。该书结尾，查建英预言，“经过一段调整、积淀、思考之后，人们将会再次听到那个只属于他的声音。”她说的是张维迎的声音。</p><p class='bbsp'>她说对了。985工程是1998年5月4日北大百年校庆提出。2011计划2011年4月24日清华百年校庆提出。每次庆祝，都把国家领导人请来。</p><p class='bbsp'>2014年5月4日是北大校庆116周年，同样有国家领导人祝贺。燕京学堂开张特意选在第二天。请大家记住这个日子吧。历史将记载一切。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>中国的大学改革，其实只是一滴水。校园跟社会并无不同。很多人的改革思维可以两句话概括：要钱不要命，顾头不顾腚。钱是科研经费，命是学术生命，不是钱为人服务，而是人为钱服务，有钱能使鬼推磨，何况人乎！头是国际，头是领导，办学不是为了咱们中国的孩子办，而是为各种面子工程办，好大喜功，好洋喜功，好古喜功。总之一句话，浮夸风。</p><p class='bbsp'>第一，咱们中国，政府强势，集中力量办大事，只要想办，没有办不成的事，这是中国特色。但是不是所有事儿，煎饼越摊越大就一定好，未必。现在，社会有企业兼并，强强联合，开店设厂，全国连锁。大学合并是同一思路。学校越办越大对某些领导者来说是个“升官图”，“升官图”的背后是什么？是资本集中的优势在作怪。有人以为，投资砸钱，关键是让领导看得见，巧立名目、大干快上就是最好的政绩，此即所谓“好大喜功”。</p><p class='bbsp'>第二，查建英说，“打造世界一流大学”是北大发明，现在是国家政策，“一个预定在大约二十五年内达到的官方目标”。她说的口号是北大百年校庆提出，据说再过四年，英特纳雄奈尔就一定要实现。但“世界一流”，标准是什么？是不是中国高薪聘请，找点退休过气的洋教授作点缀，或把国外找不到合适工作拿中国垫底的留学生recycle一下，就叫“国际化”？是不是把中国的老师送到海外大学评职称，或用英语授课或培养洋学生就叫“国际化”？出国这事，早就不像前两年，不值得大惊小怪。我纳闷，很多过来人，怎么反而不自信，就连为中国办学还是为外国办学都分不清，此即所谓“好洋喜功”。</p><p class='bbsp'>第三，中国传统文化，现在如火如荼，跟大国形象有关，跟两岸统一有关，跟打造中国软实力有关，领导最爱听。有人说，传统文化都在<a href="http://data.tiexue.net/view/11528" class="linkin-word" target="_blank">台湾</a>，同样不自信。我们的很多口号都是从台湾趸来的，让我想起<a href="http://data.tiexue.net/view/4939" class="linkin-word" target="_blank">蒋介石</a>提倡的文化复兴运动、道德重整运动。难怪有人说，蒋<a href="http://data.tiexue.net/view/17254" class="linkin-word" target="_blank">总统</a>虽赍志而殁，但反攻大陆已成功。中国大学，属哲学系热闹，新儒家的宣传如日中天，这是如今的帝王术和生意经。过去，我讲过一句心里话，要讲传统，考古最重要，研究传统，资源在大陆，很多人就是听不进去。他们以为，扎扎实实的材料，扎扎实实的研究，没劲，远不如虚头巴脑的宣传，更能来钱，更能来势，此即所谓“好古喜功”。</p><p class='bbsp'>现在，很多人理解的“国际化”是资本的全球化，是资本横扫一切。很多有经济头脑的聪明人以为，什么不是买卖―大学也是买卖。多年来，我校的文科是归经济学家领导，但从前的北大，真正享誉世界的北大，就我所知，绝不是这样。我不认为，光华模式就是北大改革的方向。</p><p class='bbsp'>我心中的北大是学术自由，兼容并包，造就天下英才的北大，无论有用之学，还是无用之学，都以人为本，以民为本。它是以人文精神而见称于世。我知道的北大人，无论负笈海外，取经回国，还是坚守本土，埋头苦干，他们都是在为中国的进步而效力，既有出生入死的革命家，也有博大精深的学问家，一切靠真才实学和献身精神。<div style='color:#FCFCCC' class='AddTxInfo'></div></p><p class='bbsp'>钱在账上，不能不花，如箭在弦上，不得不发。当今之世，一切为钱造事，一切为钱造势，还有人拿教育当教育来办吗？老老实实办教育，踏踏实实做学问，真的就那么难吗？我们都在思考这样的问题。</p><p class='bbsp'>2014年7月7日写于北京蓝旗营寓所</p><p class='bbsp'>本文摘自 李零 著 《大刀阔斧绣花针》，中信出版社，2015年12月出版。</p><p class='bbsp'><a target="_blank" href="http://r.itiexue.net/bbs/other/images/emotion/076.gif"><img  src="http://r.itiexue.net/bbs/other/images/emotion/076.gif" border="0" onload="bbimg(this)" border="0" alt="李零：从燕京学堂想起的" title="李零：从燕京学堂想起的（图1）"/></a></p>
+                </div>
+                <div class="shareBlog">
+                    <div class="bar_1" style="clear:both;">
+                        <div class="float_L share share-hover">
+                            <span class="float_L">分享：</span>
+                            <a href="javascript:void(0)" onclick="TX_share('sina');GaqPush('分享');" class="share-1 float_L" title="分享到新浪微博"></a>
+                            <a href="javascript:void(0)" onclick="TX_share('qblog');GaqPush('分享');" class="share-2 float_L" title="分享到腾讯微博"></a>
+                            <a href="javascript:void(0)" onclick="TX_share('qzone');GaqPush('分享');" class="share-3 float_L" title="分享到QQ空间"></a>
+                            <a title="分享到微信" class="share-4 float_L" onclick="TX_share('weixin');GaqPush('分享');" href="javascript:void(0)"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="keyword">
+                    <strong>延伸阅读：</strong>
+                    <a onclick="GaqPush('关键词')"  href='http://data.tiexue.net/view/4939' target='_blank'>蒋介石</a> <a onclick="GaqPush('关键词')"  href='http://data.tiexue.net/view/17254' target='_blank'>总统</a> <a  href='http://bbs.tiexue.net/zhuanti/boyin7478/' target='_blank'>波音747-8</a> <a  href='http://www.tiexue.net/zhuanti/yuenanfanhua/' target='_blank'>越南反华</a> <a  href='http://bbs.tiexue.net/zhuanti/pili10/' target='_blank'>霹雳10</a> 
+                </div>
+                <div class="gfMsg">
+                    <ul class="gfLeft" onmouseover="tagetLayer(this,$(this).next('ul'))" id="tlogdiv"></ul>       
+                    <!--*日志弹出 start-->
+                    <ul class="logList" id="tloglist"></ul>
+                    <script type="text/javascript">
+                        //如果是管理员
+                        $(function(){
+                            var loguserid = TX.BaseCookie.BBS_CurrentUserID();
+                            var logisheader = TX.BaseCookie.BBS_IsHeader();
+                            var strhtml="";
+                            if(loguserid>0)
+                            {
+                                strhtml= '<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">3</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                                if(1371779 == loguserid|logisheader)
+                                {
+                                    strhtml='<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">3</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                                }
+                            }
+                            else{
+                                strhtml= '<!-- 日志 start --><li><div class="gf"><div><span>本帖已赚工分:</span> <span class="red">3</span><div><div><span>本帖已赚金币:</span> <span class="red">0</span></div></div></li><!-- 日志 end -->';
+                            }
+                            $("#tlogdiv").html(strhtml);
+                            $("#tloglist").html(strhtml);
+                        })
+                    </script>
+                    <!--日志弹出 end-->
+                    <dl class="gfRight">
+                        <dd class="spare">
+                            <a href="javascript:void(0)" onclick="daShangLayer(1371779,100172776)">
+                                打赏</a></dd>
+                        <dd class="favor">
+                            <a href="javascript:void(0);" onclick="TxBBS_FavoriteThread('10649845');">
+                                收藏文本</a></dd>
+                        <dd class="ding" id="digNum">
+                            <a href="javascript:void(0);" onclick="TxBBS_DigThread('10649845');"><em>
+                                0</em><span></span></a></dd>
+                    </dl>
+                </div>
+                <div class="reward textHide" id="adminAddSalary_100172776_10649845">
+                </div>
+                <div class="qianming">0</div>
+                <div class="lock-msg border hidden" id="threadnoreplyspan">
+                    本帖已经被管理员锁定，不能回复</div>
+                <div class="fastReply" id="commentsDiv">
+                    <script type="text/javascript">
+                        try {
+                            TxBBS_SetQuickReplyHtml("commentsDiv", 'False', '73', '10649845', '李零：从燕京学堂想起的');
+                        }
+                        catch (e) { }
+                    </script>
+                </div>
+                <!--*相关帖 start-->
+                <div class="aboutPost-v2" style="height: 340px; margin-top: 5px;">
+                    <h2 style="height: 50px; line-height: 50px; color: #38352C; font-size: 16px; font-weight: bold;">
+                        李零：从燕京学堂想起的相关文章</h2>
+                    <div class="abpLeft">
+                        <ul>
+                            <li><a onclick="GaqPush('相关推荐-相关文章')" title='罗伯特-李（Robert Edward Lee）生平（美国内战中最让人敬佩的将军）' href='http://bbs.tiexue.net/post_3315587_1.html' target = '_blank'>罗伯特-李（Robert Edward Lee）生平（美国内战中最让人敬佩的将军）</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='解密：蒋介石1950年向大陆求和的内幕' href='http://bbs.tiexue.net/post_3470410_1.html' target = '_blank'>解密：蒋介石1950年向大陆求和的内幕</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='美国内战后无战犯' href='http://bbs.tiexue.net/post_3479950_1.html' target = '_blank'>美国内战后无战犯</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='惊天秘密：宋江为什么要投降的历史依据' href='http://bbs.tiexue.net/post_3501369_1.html' target = '_blank'>惊天秘密：宋江为什么要投降的历史依据</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='解放前美国人为中国车夫戴孝' href='http://bbs.tiexue.net/post_4216347_1.html' target = '_blank'>解放前美国人为中国车夫戴孝</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='对“正式回复”的回应 柯艾久（kai99）' href='http://bbs.tiexue.net/post_4284806_1.html' target = '_blank'>对“正式回复”的回应 柯艾久（kai99）</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='教士如何处理杀绝山西洋人的大案：建学校惩无知' href='http://bbs.tiexue.net/post_4334943_1.html' target = '_blank'>教士如何处理杀绝山西洋人的大案：建学校惩无知</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='红军长征后留在中央苏区的女人们结局如何' href='http://bbs.tiexue.net/post_5124147_1.html' target = '_blank'>红军长征后留在中央苏区的女人们结局如何</a></li><li><a onclick="GaqPush('相关推荐-相关文章')" title='民国捍匪李鸿勋传奇(续）' href='http://bbs.tiexue.net/post_5134622_1.html' target = '_blank'>民国捍匪李鸿勋传奇(续）</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="abpRight pp01">
+                        <ul class="pp">
+                            <li><a href="http://bbs.tiexue.net/post_3495342_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small6.itiexue.net/912/9129774.jpg" title="揭秘:建国后李宗仁的妻儿命运如何" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_3495342_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>揭秘:建国后李宗仁的妻儿命运如何</a></span></li><li><a href="http://bbs.tiexue.net/post_3663304_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small11.itiexue.net/951/9511727.jpg" title="揭秘：四人帮狱中生活与最后结局是啥样" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_3663304_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>揭秘：四人帮狱中生活与最后结局是啥样</a></span></li><li><a href="http://bbs.tiexue.net/post_4571147_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small11.itiexue.net/1199/11996015.jpg" title="“看看那帮抗战老兵兄弟咋死的”" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_4571147_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>“看看那帮抗战老兵兄弟咋死的”</a></span></li><li><a href="http://bbs.tiexue.net/post_4673804_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small2.itiexue.net/1217/12174110.jpg" title="美国往事：悲剧英雄罗伯特・李" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_4673804_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>美国往事：悲剧英雄罗伯特・李</a></span></li><li><a href="http://bbs.tiexue.net/post_6644407_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small10.itiexue.net/1630/16309954.jpg" title="中共特工李茂堂如何能在“中统”潜伏15年" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_6644407_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>中共特工李茂堂如何能在“中统”潜伏15年</a></span></li><li><a href="http://bbs.tiexue.net/post_6993689_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'><img src="http://small9.itiexue.net/1722/17229765.jpg" title="日老兵因感恩加入解放军当飞行教官" width="120px" height="90px"/></a><span><a href="http://bbs.tiexue.net/post_6993689_1.html" onclick="GaqPush('相关推荐-相关图片')" target='_blank'>日老兵因感恩加入解放军当飞行教官</a></span></li>
+                        </ul>
+                    </div>
+                </div>
+                <!--相关帖 end-->
+            </div>
+            <!--*广告位 start-->
+            <div class="advert02" id="Baidu_BBSPostNormalV3ContentInfo"><script type="text/javascript" >BAIDU_CLB_fillSlot("92705")</script></div>
+            <!--广告位 end-->
+            <div class="date">
+                2015/12/16 10:43:25</div>
+            <p class="hidden">
+                占位标签-勿删！！</p>
+        </div>
+        <!--右边帖子内容 end-->
+    </div>
+</div>
+<!--*热门帖 start-->
+<div class="hotPost">
+    <div class="hotLeft border pp01">
+        <h3 class="tzTitle">
+            本版热门</h3>
+        <ul class="pp">
+            <li><a onclick="GaqPush('本版热门-焦点图')" target='_blank' title='周恩来最喜欢两个知识分子战将，一个陈赓，另一个是谁呢？' href='http://bbs.tiexue.net/post_10649207_1.html'><img id='img1' src='http://small2.itiexue.net/2121/21211850.jpg' width='120' height='90' border=0></a><span><a onclick="GaqPush('本版热门-焦点图')" target='_blank' title='周恩来最喜欢两个知识分子战将，一个陈赓，另一个是谁呢？' href='http://bbs.tiexue.net/post_10649207_1.html'>周恩来最喜欢两个知识分子战将，一个陈赓，另一个是谁呢？</a></span></li>
+        </ul>
+        <ul class="textList">
+            <li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626161_1.html' title='太漂亮了 据说这是兵马俑刚挖出来的样子'>太漂亮了 据说这是兵马俑刚挖出来的样子</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10627588_1.html' title='抗战最好色的虎将：打一场胜仗娶一个老婆！'>抗战最好色的虎将：打一场胜仗娶一个老婆！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10635570_1.html' title='志愿军最高被俘军官的悲惨命运'>志愿军最高被俘军官的悲惨命运</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626144_1.html' title='他是开国少将，部下却出了一个上将，还有两个军区司令'>他是开国少将，部下却出了一个上将，还有两个军区司令</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626209_1.html' title='西游世界最让如来佛头疼的妖王是谁？势力西方第一，背景吓死人！'>西游世界最让如来佛头疼的妖王是谁？势力西方第一，背景吓死人！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10640230_1.html' title='抗战期间真正的八路是这样，有男八路也有女八路'>抗战期间真正的八路是这样，有男八路也有女八路</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626174_1.html' title='古代中国真拉得出百万大军吗？'>古代中国真拉得出百万大军吗？</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10640040_1.html' title='皇帝不临幸她，她竟然跟和尚私通，败露后投井而死'>皇帝不临幸她，她竟然跟和尚私通，败露后投井而死</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10621562_1.html' title='血战松山――日军在中国战场唯一一次全军覆'>血战松山――日军在中国战场唯一一次全军覆</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10643916_1.html' title='《西游记》中的十大绝世高手，第一你绝对想不到'>《西游记》中的十大绝世高手，第一你绝对想不到</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10640030_1.html' title='《倚天屠龙记》张无忌为何没能成为大明朝的皇帝'>《倚天屠龙记》张无忌为何没能成为大明朝的皇帝</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10627640_1.html' title='蒋介石为什么是光头 原因很无奈'>蒋介石为什么是光头 原因很无奈</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10639893_1.html' title='周恩来一生不抽烟，晚年却学起了抽烟，知道真相后，外宾都哭了'>周恩来一生不抽烟，晚年却学起了抽烟，知道真相后，外宾都哭了</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10627596_1.html' title='李大钊被绞杀内幕'>李大钊被绞杀内幕</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10627037_1.html' title='[原创]中国历史上难度最大、技术含量最高的战争'>[原创]中国历史上难度最大、技术含量最高的战争</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10627077_1.html' title='抗美援朝战史奇迹：志愿军唯一一支不败的王牌军！'>抗美援朝战史奇迹：志愿军唯一一支不败的王牌军！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10640086_1.html' title='抗日神剧中的纸糊泥巴日军，可事实却令我们深深愧疚！完全反了！'>抗日神剧中的纸糊泥巴日军，可事实却令我们深深愧疚！完全反了！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10640317_1.html' title='秦国第一名将为什么不是白起王翦而是司马错?'>秦国第一名将为什么不是白起王翦而是司马错?</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10640188_1.html' title='明朝军力最强盛时期，竟爆发了如此震撼的起义！'>明朝军力最强盛时期，竟爆发了如此震撼的起义！</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10620196_1.html' title='吴三桂是被逼造反的吗？康熙平三藩实属不义战？'>吴三桂是被逼造反的吗？康熙平三藩实属不义战？</a></li><li><a onclick="GaqPush('本版热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10643170_1.html' title='他最赏识毛主席，却是蒋介石最害怕的人'>他最赏识毛主席，却是蒋介石最害怕的人</a></li>
+        </ul>
+    </div>
+    
+    <div class="hotRight border pp01">
+        <h3 class="tzTitle">
+            大区热门</h3>
+        <ul class="pp">
+            <li><a onclick="GaqPush('大区热门-焦点图')" target='_blank' title='明代画坛第一人渣 淫冠古今 妓女都骂他' href='http://bbs.tiexue.net/post_10641113_1.html'><img id='img1' src='http://small4.itiexue.net/2120/21207460.jpg' width='120' height='90' border=0></a><span><a onclick="GaqPush('大区热门-焦点图')" target='_blank' title='明代画坛第一人渣 淫冠古今 妓女都骂他' href='http://bbs.tiexue.net/post_10641113_1.html'>明代画坛第一人渣 淫冠古今 妓女都骂他</a></span></li>
+        </ul>
+        <ul class="textList">
+            <li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10619413_1.html' title='日本女子回忆逃难途中遭苏军轮暴的恐怖往事'>日本女子回忆逃难途中遭苏军轮暴的恐怖往事</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10621175_1.html' title='谁才是隋唐真正的第一好汉？隋唐18好汉排行榜'>谁才是隋唐真正的第一好汉？隋唐18好汉排行榜</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626395_1.html' title='49年，林彪正要解放香港，毛主席刹车：停，香港我有一个用处'>49年，林彪正要解放香港，毛主席刹车：停，香港我有一个用处</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10620622_1.html' title='四万发炮弹显神威：忻口会战日军被歼三万'>四万发炮弹显神威：忻口会战日军被歼三万</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10639972_1.html' title='大秦丞相李斯，是如何被剁成肉酱之后，还能被腰斩的？'>大秦丞相李斯，是如何被剁成肉酱之后，还能被腰斩的？</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10627159_1.html' title='抗日战争最惨的一次误炸：总共死3位将军近6千人'>抗日战争最惨的一次误炸：总共死3位将军近6千人</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626326_1.html' title='清朝皇帝上朝说的话是满语还是汉语?'>清朝皇帝上朝说的话是满语还是汉语?</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10621527_1.html' title='湘西抗战第一女土匪：谁杀鬼子多就嫁给他!(图)'>湘西抗战第一女土匪：谁杀鬼子多就嫁给他!(图)</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10619523_1.html' title='为什么宋朝和明朝，军力庞大却被异族征服？'>为什么宋朝和明朝，军力庞大却被异族征服？</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10641114_1.html' title='志愿军战士拒绝朝鲜女子酒后感恩'>志愿军战士拒绝朝鲜女子酒后感恩</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10626132_1.html' title='鬼子称他反满抗日领袖 被捕后携娇妻与4岁爱子共赴刑场让人泪奔'>鬼子称他反满抗日领袖 被捕后携娇妻与4岁爱子共赴刑场让人泪奔</a></li><li><a onclick="GaqPush('大区热门-文字链')" target="_blank" href='http://bbs.tiexue.net/post_10639975_1.html' title='墨索里尼“大战”黑手党，94门大炮对准一镇，结果出人意料'>墨索里尼“大战”黑手党，94门大炮对准一镇，结果出人意料</a></li>
+        </ul>
+    </div>
+    
+</div>
+<!--热门帖 end-->
+
+<div class="advert03" id="Baidu_BBSPostNormalV3FirstFloorBottomAD">
+    <div id="Baidu_BBSPostNormalV3FirstFloorBottomAD_container"></div>
+</div>
+
+<div class="postContent border hotReply wyReply" style="display:none;">
+    <div class="postTit">
+        <h2>
+            网友回复</h2>
+        <span id="post_UserReplySort"></span>
+    </div>
+    <div id="PostReply_List">
+</div>
+</div>
+
+            <div class="mRow_1">
+                <p class="ftBtn textHide float_L">
+                    <a onclick="addPost();_gaq.push(['_trackEvent', 'bbs', 'clicked', '发帖按钮'])" href="javascript:void(0);" target="_self">我要发帖</a>
+                </p>
+                <div class="page">
+                    <p>
+                        总页数<span>1</span>第<span>1</span>页&nbsp;[共有<span>1</span>条记录]&nbsp;分页：
+                    </p>
+                    <a href="http://bbs.tiexue.net/post_10649845_1.html" class="pageHover">1</a>
+                    
+                </div>
+            </div>
+            <div class="advert03" id="Baidu_BBSPostNormalV3KuTuAD1"></div>
+            <div class="tabs">
+                <div class="tabsTop" id="replyUserMsg">
+                    &nbsp;对<span>李零：从燕京学堂想起的</span>回复
+                </div>
+                <script type="text/javascript">
+                    if (TX.BaseCookie.BBS_CurrentUserID() != 0) {
+                        $("#replyUserMsg").prepend("“" + TX.BaseCookie.TxBBS_CurrentUserName() + "”");
+                    }
+                </script>
+                <iframe id="ReplyFrame" name="ReplyFrame" frameborder="0" marginheight="0" marginwidth="0"
+                    scrolling="no" src="http://bbs.tiexue.net/reply/ReplyNew2.htm" width="970" height="630"></iframe>
+                <div class="lock-msg border hidden" id="noreplyspan">
+                    本帖已经被管理员锁定，不能回复
+                </div>
+            </div>
+            <!--*底部操作条 start-->
+            <div class="bot-operateBar border hidden" id="postbuttonadminpanel_100172776_10649845_0_0">
+            </div>
+            <!--底部操作条 end-->
+        </div>
+        <!--主要内容 end-->
+        <!--*脚注 start-->
+        
+<div class="footer" id="footer">
+    <script type="text/javascript">        CreateFooter("about");</script>
+    <span>|</span><a href="http://www.tiexue.net/map_index.htm" target="_blank">网站地图</a>
+    <script type="text/javascript">        CreateFooter("version");</script>
+    <script type="text/javascript">        CreateFooter("law");</script>
+    <script type="text/javascript">        CreateFooter("record");</script>
+</div>
+
+        <!--脚注 end-->
+
+    </div>
+    <script type="text/javascript">
+
+        try {
+            var effect = ('bg,head,sign-6').split(',');
+            for (var i = 0; i < effect.length; i++) {
+                getEffect(effect[i]);
+            }
+        }
+        catch (e) { }
+
+        function getEffect(ef) {
+            if (ef.indexOf("bg") > -1) {
+                $(".signeffect-id").addClass("sign-bg");
+            }
+            else if (ef.indexOf("head") > -1) {
+                $(".signeffect-head").addClass("sign-ico").attr("title", "签到精英");
+            }
+        }
+        $(document).ready(function () {
+            try {
+                Tx_InitTopPostDigBar("contentsbelowbar", ThreadID, Subject, '0');
+            }
+            catch (e)
+            { }
+            TxBBS_AdminAndUserPanel();
+            TxBBS_PostShowAdminButtonPanel();
+        });
+    </script>
+            
+    <script type="text/javascript" src="http://s.itiexue.net/js/tiexue/statistic/bbs/bbsmonitor-u.js"></script>
+    <!--对联广告-->
+    <script type="text/javascript">
+        function adInfoShow() {
+            if (TX.BaseCookie.BBS_CurrentUserID() <= 0) {
+                var showJunphAd = false;
+                if (document.referrer != null) {
+                    var referrerInfo = document.referrer;
+                    if (referrerInfo.toLowerCase().indexOf("showpicclass_43_1.html") > 0) {
+                        showJunphAd = true;
+                    }
+                }
+                if(ForumID ==292|| ForumID ==293|| ForumID ==291|| ForumID ==294|| ForumID ==283 || ForumID == 219 ||ForumID == 79 ||ForumID == 260 || showJunphAd) {
+                    BAIDU_CLB_singleFillSlot("445637");
+                }
+                else {
+                    BAIDU_CLB_singleFillSlot("80066");
+                }
+            }
+        }      
+
+        if (islocked > 0) {
+            $("#ReplyFrame").height("0px");
+            $("#ReplyFrame").hide();
+            $("#noreplyspan").show();
+            $("#replyUserMsg").hide();
+        }
+    </script>
+    <script type="text/javascript">
+        if (TX.BaseCookie.BBS_CurrentUserID() <= 0) {
+            //            if (GetCookie()) {
+            //               // BAIDU_CLB_singleFillSlot("545690");
+            //            } else {
+            var showJunphAd = false;
+            if (document.referrer != null) {
+                var referrerInfo = document.referrer;
+                if (referrerInfo.toLowerCase().indexOf("showpicclass_43_1.html") > 0) {
+                    showJunphAd = true;
+                }
+            }
+            if (ForumID ==292|| ForumID ==293|| ForumID ==291|| ForumID ==294|| ForumID ==283 || ForumID == 219 || ForumID == 79 || ForumID == 260 || showJunphAd) {
+                BAIDU_CLB_singleFillSlot("535435");
+            }
+            else {
+                BAIDU_CLB_fillSlot("81336");
+            }
+            //            }
+        }        
+    </script>
+</body>
+</html>
+
+
+<!-- Created On 2015/12/16 10:48:58 -->
+<!-- CopyRight by TieXue -->

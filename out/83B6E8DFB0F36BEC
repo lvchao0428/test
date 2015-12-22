@@ -1,0 +1,633 @@
+<!--UINFO: http://bbs.hc360.com/thread-6318675-1-1.html	length=40881&last_modified=0&time_saved=1450676875&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!--用户统一访问标识 -->
+<script src="http://style.org.hc360.com/js/build/source/core/hc.common.js" type="text/javascript" type="text/javascript"></script>
+<!--用户统一访问标识 -->
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>中安鼎辉智能制造设备十二五发展目标 - 慧聪网论坛 </title>
+<link href="http://bbs.hc360.com/thread-6318675-1-1.html" rel="canonical" />
+<meta name="keywords" content="，化工论坛" />
+<meta name="description" content=" 中安鼎辉智能制造设备十二五发展目标 " />
+<meta name="generator" content="Discuz! X2.5" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2012 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.hc360.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?EP8" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_viewthread.css?EP8" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'EP8', charset = 'gbk', discuz_uid = '0', cookiepre = '8J5J_24da_', cookiedomain = 'hc360.com', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|经验|,2|铜板|,3|威望|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5oYzM2MC5jb20vdGhyZWFkLTYzMTg2NzUtMS0xLmh0bWw=', SITEURL = 'http://bbs.hc360.com/', JSPATH = 'static/js/';</script>
+<script src="static/js/common.js?EP8" type="text/javascript"></script>
+<meta name="application-name" content="慧聪网论坛" />
+<meta name="msapplication-tooltip" content="慧聪网论坛" />
+<meta name="msapplication-task" content="name=论坛;action-uri=http://bbs.hc360.com/forum.php;icon-uri=http://bbs.hc360.com/static/image/common/bbs.ico" />
+<link rel="archives" title="慧聪网论坛" href="http://bbs.hc360.com/archiver/" />
+<script src="static/js/forum.js?EP8" type="text/javascript"></script>
+<!--hc360-->
+<script src="http://style.org.hc360.com/js/build/source/core/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">var JQ = jQuery.noConflict();</script>
+<!--hc360-->
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://bbs.hc360.com/');">设为首页</a><a href="http://bbs.hc360.com/"  onclick="addFavorite(this.href, '慧聪网论坛');return false;">收藏本站</a></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" onclick="widthauto(this)">切换到宽版</a>
+</div>
+</div>
+</div>
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">注册</a>
+</div>
+</div>
+<div class="wp a_h"><a href="http://xt.hc360.com/feed/1015.html" target="_blank"><img src="http://img03.hc360.com/news/201512/201512111457597504.jpg" border="0"></a></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="http://bbs.hc360.com/" title="慧聪网论坛"><img src="static/image/common/logo.png" alt="慧聪网论坛" border="0" /></a></h2>
+
+<script src="static/js/logging.js?EP8" type="text/javascript"></script>
+<div class="fastlg cl">
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td><label for="ls_username">用户名</label></td>
+<td><input type="text" name="username" id="ls_username" autocomplete="off" class="px vm" tabindex="901" /></td>
+<td>&nbsp;<a href="http://sso.hc360.com/VerifyLoginName.html" >找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password" class="z psw_w">密码</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;" onclick="ajaxssologin()" ><em>登录</em></button></td>
+<td>&nbsp;<a href="member.php?mod=register" class="xi2 xw1">注册</a></td>
+</tr>
+</table>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+<input type="hidden" id="popLoginTicket" name="popLoginTicket" value="" />
+</div>
+</div>
+<script type='text/javascript'>
+jQuery.getJSON("http://sso.hc360.com/LoginTicket.jsp?&callback=?",
+  function(json) {
+if(json!=null){
+JQ('#popLoginTicket').val(json.key);
+}
+});
+function ajaxssologin(){
+returnurl = document.URL;
+jQuery.getJSON("http://sso.hc360.com/ssologin?callback=?",{LoginType:"json",LoginID:document.getElementById("ls_username").value,
+  					Passwd:document.getElementById("ls_password").value,
+  					LoginTicket:document.getElementById("popLoginTicket").value,ReturnURL:returnurl},
+    				function(json) {
+    if((json!=null)&&(json.success=="yes")){
+    	//鐧婚檰鎴愬姛锛屽埛鏂伴〉闈㈠姞杞芥牳蹇冪被
+window.location.href=returnurl;
+}else{
+//澶辫触鍚庤烦杞埌sso鐧婚檰椤
+window.location.href='http://sso.hc360.com/ssologin?ReturnURL='+returnurl;
+}
+});
+}
+</script>
+
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});">快捷导航</a>
+<ul><li class="a" id="mn_Nbac6" ><a href="http://bbs.hc360.com/" hidefocus="true" target="_blank"  >首页</a></li><li id="mn_forum" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hc360.com/forum.php" hidefocus="true" title="BBS" target="_blank"  >论坛<span>BBS</span></a></li><li id="mn_Ne30e" ><a href="plugin.php?id=auction" hidefocus="true" title="兑换、竞拍、抽奖" target="_blank"   style="font-weight: bold;color: yellow">积分商城<span>兑换、竞拍、抽奖</span></a></li><li id="mn_Ndfd1" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="plugin.php?id=hc360_autoad:hc360_autoad" hidefocus="true" title="慧聪网-自助广告"  >自助广告<span>慧聪网-自助广告</span></a></li><li id="mn_Nb23f" ><a href="http://bbs.hc360.com/plugin.php?id=hc360_portal:hc360_portal&autohtm=free&listnum=0" hidefocus="true" target="_blank"   style="font-weight: bold;">广告服务</a></li></ul>
+</div>
+<ul class="p_pop h_pop" id="mn_forum_menu" style="display: none"><li><a href="http://bbs.hc360.com/forum-718-1.html" hidefocus="true" target="_blank" >· 兑换专区</a></li><li><a href="http://bbs.hc360.com/forum-409-1.html" hidefocus="true" target="_blank" >· 论坛公告</a></li><li><a href="http://bbs.hc360.com/forum.php?gid=2216" hidefocus="true" target="_blank" >· 社区学吧</a></li><li><a href="http://bbs.hc360.com/forum-787-1.html" hidefocus="true" target="_blank" >· 热门活动</a></li><li><a href="http://bbs.hc360.com/forum.php?gid=3" hidefocus="true" target="_blank" >· 商海心得</a></li><li><a href="http://bbs.hc360.com/forum.php?gid=40" hidefocus="true" target="_blank" >· 行业取经</a></li><li><a href="http://bbs.hc360.com/forum.php?gid=756" hidefocus="true" target="_blank" >· 健康休闲</a></li><li><a href="http://bbs.hc360.com/forum.php?gid=252" hidefocus="true" target="_blank" >· 轻松一刻</a></li><li><a href="http://bbs.hc360.com/forum.php?gid=447" hidefocus="true" target="_blank" >· 慧聪帮助中心</a></li><li><a href="http://bbs.hc360.com/forum.php?gid=2179" hidefocus="true" target="_blank" >· 我要提建议</a></li><li><a href="http://bbs.hc360.com/forum-666-1.html" hidefocus="true" target="_blank" >· 新手报到区</a></li></ul><ul class="p_pop h_pop" id="mn_Ndfd1_menu" style="display: none"><li><a href="http://bbs.hc360.com/plugin.php?id=hc360_autoad:hc360_autoad" hidefocus="true" target="_blank" >我要申请广告</a></li><li><a href="http://bbs.hc360.com/thread-1120472-1-1.html" hidefocus="true" target="_blank" >如何赚取铜板</a></li></ul><div id="mu" class="cl">
+</div><div class="a_mu"><a href="http://xt.hc360.com/" target="_blank"><img src="http://img00.hc360.com/news/201504/201504141430323083.jpg" width="960" height="60"></a></div><div id="scbar" class="scbar_narrow cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="c438c8dc" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="395" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="showmenu xg1 xs2" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2 xs2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%BF%CD%BB%A7&amp;formhash=c438c8dc&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">客户</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%B6%A9%B5%A5&amp;formhash=c438c8dc&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">订单</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%D2%B5%CE%F1%D4%B1&amp;formhash=c438c8dc&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">业务员</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%D6%B0%B3%A1&amp;formhash=c438c8dc&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">职场</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CD%AD%B0%E5%B6%D2%BB%BB&amp;formhash=c438c8dc&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">铜板兑换</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%D0%C2%CA%D6%B1%A8%B5%BD&amp;formhash=c438c8dc&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">新手报到</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="curforum" fid="395" >本版</a></li><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp"><script type="text/javascript">var fid = parseInt('395'), tid = parseInt('6318675');</script>
+
+<script src="static/js/forum_viewthread.js?EP8" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(0);var imagemaxwidth = '800';var aimgcount = new Array();</script>
+
+<style id="diy_style" type="text/css"></style>
+<!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]-->
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">慧聪网论坛</a><em>&raquo;</em><a href="http://bbs.hc360.com/forum.php" id="fjump" onmouseover="delayShow(this, 'showForummenu(395)');" class="showmenu" >论坛</a> <em>&rsaquo;</em> <a href="http://bbs.hc360.com/forum.php?gid=40">行业类别</a> <em>&rsaquo;</em> <a href="http://bbs.hc360.com/forum-395-1.html">化工论坛</a> <em>&rsaquo;</em> <a href="http://bbs.hc360.com/thread-6318675-1-1.html">中安鼎辉智能制造设备十二五发展目标</a>
+</div>
+</div>
+
+<style id="diy_style" type="text/css"></style>
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="ct" class="wp cl">
+<div id="pgt" class="pgs mbm cl ">
+<div class="pgt"></div>
+<span class="y pgb"><a href="http://bbs.hc360.com/forum-395-1.html">返回列表</a></span>
+<a id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=395')" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a></div>
+
+
+
+<div id="postlist" class="pl bm">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls ptm pbm">
+<div class="hm">
+<span class="xg1">查看:</span> <span class="xi1">137</span><span class="pipe">|</span><span class="xg1">回复:</span> <span class="xi1">0</span>
+</div>
+</td>
+<td class="plc ptm pbn vwthd">
+<div class="y">
+<a href="http://bbs.hc360.com/forum.php?mod=viewthread&amp;action=printable&amp;tid=6318675" title="打印" target="_blank"><img src="static/image/common/print.png" alt="打印" class="vm" /></a>
+<a href="http://bbs.hc360.com/forum.php?mod=redirect&amp;goto=nextoldset&amp;tid=6318675" title="上一主题"><img src="static/image/common/thread-prev.png" alt="上一主题" class="vm" /></a>
+<a href="http://bbs.hc360.com/forum.php?mod=redirect&amp;goto=nextnewset&amp;tid=6318675" title="下一主题"><img src="static/image/common/thread-next.png" alt="下一主题" class="vm" /></a>
+</div>
+<h1 class="ts">
+<a href="http://bbs.hc360.com/thread-6318675-1-1.html" id="thread_subject">中安鼎辉智能制造设备十二五发展目标</a>
+</h1>
+<span class="xg1">
+<a href="http://bbs.hc360.com/thread-6318675-1-1.html" onclick="return copyThreadUrl(this)" >[复制链接]</a>
+</span>
+</td>
+</tr>
+</table>
+
+
+<table cellspacing="0" cellpadding="0" class="ad"><tr><td class="pls"></td><td class="plc"></td></tr></table><div id="post_11007328"><table id="pid11007328" summary="pid11007328" cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls" rowspan="2">
+ <a name="lastpost"></a><div class="pi">
+<div class="authi"><a href="http://shehui.hc360.com/space-uid-9241202.html" target="_blank" class="xw1">zhongandinghui</a>
+
+</div>
+</div>
+<div class="p_pop blk bui" id="userinfo11007328" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo11007328_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="http://shehui.hc360.com/space-uid-9241202.html" target="_blank" class="xi2">zhongandinghui</a></strong>
+<em>当前离线</em>
+</div>
+<dl class="cl"><dt>在线时间</dt><dd>0 小时</dd><dt>经验</dt><dd>279 </dd><dt>铜板</dt><dd>3 </dd><dt>威望</dt><dd>0 </dd><dt>最后登录</dt><dd>2015-11-27</dd><dt>注册时间</dt><dd>2015-8-17</dd><dt>帖子</dt><dd><a href="http://shehui.hc360.com/home.php?mod=space&uid=9241202&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">47</a></dd><dt>精华</dt><dd>0</dd><dt>积分</dt><dd>326</dd><dt>阅读权限</dt><dd>30</dd><dt>UID</dt><dd>9241202</dd></dl>
+<div class="imicn">
+<a href="http://shehui.hc360.com/home.php?mod=space&amp;uid=9241202&amp;do=profile" target="_blank" title="查看详细资料"><img src="static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+<a href="http://shehui.hc360.com/home.php?mod=magic&amp;mid=showip&amp;idtype=user&amp;id=zhongandinghui" id="a_showip_li_11007328" class="xi2" onclick="showWindow(this.id, this.href)"><img src="static//image/magic/showip.small.gif" alt="" /> IP卡</a>
+<a href="http://shehui.hc360.com/home.php?mod=magic&amp;mid=checkonline&amp;idtype=user&amp;id=zhongandinghui" id="a_repent_11007328" class="xi2" onclick="showWindow(this.id, this.href)"><img src="static//image/magic/checkonline.small.gif" alt="" /> 狗仔卡</a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo11007328')"><a href="http://shehui.hc360.com/space-uid-9241202.html" target="_blank"><img src="http://uid.org.hc360.com/avatar.php?uid=9241202&size=middle" /></a></div>
+<div class="tns xg2">
+<table cellspacing="0" cellpadding="0">
+<th><p><a href="http://shehui.hc360.com/home.php?mod=space&amp;uid=9241202&amp;do=thread&amp;view=me&amp;from=space" class="xi2">47</a></p>主题</th>
+<th>
+<p><a href="http://shehui.hc360.com/home.php?mod=space&amp;uid=9241202&amp;do=friend&amp;view=me" class="xi2">0</a></p>好友
+</th>
+<td><p><a href="http://shehui.hc360.com/home.php?mod=space&amp;uid=9241202&amp;do=profile" class="xi2">326</a></p>积分</td>
+</table>
+</div>
+<p><em><a href="http://shehui.hc360.com/home.php?mod=spacecp&amp;ac=usergroup&amp;gid=12" target="_blank">励精图治</a></em></p>
+</div>
+<p id="g_up11007328" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"><img src="static/image/common/star_level2.gif" alt="Rank: 3" /><img src="static/image/common/star_level1.gif" alt="Rank: 3" /></p>
+<div id="g_up11007328_menu" class="tip tip_4" style="display: none;">
+<div class="tip_horn"></div>
+<div class="tip_c">励精图治, 积分 326, 距离下一级还需 174 积分</div>
+</div>
+<dl class="pil cl"><dt>铜板</dt><dd>3 </dd><dt>威望</dt><dd>0 </dd><dt>经验</dt><dd>279 </dd><dt>阅读权限</dt><dd>30</dd><dt>精华</dt><dd>0</dd><dt>积分</dt><dd>326</dd><dt>帖子</dt><dd><a href="http://shehui.hc360.com/home.php?mod=space&uid=9241202&do=thread&type=reply&view=me&from=space" target="_blank" class="xi2">47</a></dd></dl><ul class="xl xl2 o cl">
+<li class="pm2"><a href="http://shehui.hc360.com/home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_9241202&amp;touid=9241202&amp;pmid=0&amp;daterange=2&amp;pid=11007328&amp;tid=6318675" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2">发消息</a></li>
+</ul>
+</td>
+<td class="plc">
+<div class="pi">
+<div id="fj" class="y">
+<label class="z">电梯直达</label>
+<input type="text" class="px p_fre z" size="2" onkeyup="$('fj_btn').href='forum.php?mod=redirect&ptid=6318675&authorid=0&postno='+this.value" onkeydown="if(event.keyCode==13) {window.location=$('fj_btn').href;return false;}" title="跳转到指定楼层" />
+<a href="javascript:;" id="fj_btn" class="z" title="跳转到指定楼层"><img src="static/image/common/fj_btn.png" alt="跳转到指定楼层" class="vm" /></a>
+</div>
+<strong>
+<a href="http://bbs.hc360.com/thread-6318675-1-1.html"  id="postnum11007328" onclick="setCopy(this.href, '帖子地址复制成功');return false;"><em>1</em><sup>#</sup></a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon11007328" src="static/image/common/online_member.gif" />
+<em id="authorposton11007328">发表于 2015-11-5 16:14:32</em>
+<span class="pipe">|</span><a href="http://bbs.hc360.com/forum.php?mod=viewthread&amp;tid=6318675&amp;page=1&amp;authorid=9241202" rel="nofollow">只看该作者</a>
+<span class="pipe">|</span><a href="http://bbs.hc360.com/forum.php?mod=viewthread&amp;tid=6318675&amp;extra=page%3D1&amp;ordertype=1">倒序浏览</a>
+</div>
+</div>
+</div><div class="pct"><div class="a_pt"><a href="http://bbs.hc360.com/plugin.php?id=auction" target="_blank" style="font-size: px"><font color="#ff0000"><b>慧聪社区积分商城，速速来领取礼品！</b></font></a></div><style type="text/css">.pcb{margin-right:0}</style><div class="pcb">
+<div class="t_fsz">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_11007328">
+　　中安鼎辉智能制造设备十二五发展目标，IDM 产品除了具备全部的 MES功能，同时可以实现企业供应链 LES、集团 GES的构建和管理。衍生企业执行流程，全面提升企业的运行效率。并能从价值链的角度，去模拟企业价值链的价值活动，达到对价值链的全面关注和重点关注。<br />
+<br />
+　　总体目标：经过10年的努力，形成完整的智能制造装备产业体系，总体技术水平迈入国际先进行列，部分产品取得原始创新突破，基本满足国民经济重点领域和国防建设的需求。<br />
+<br />
+<br />
+<div align="center">
+<ignore_js_op>
+
+<img style="cursor:pointer" id="aimg_882776" aid="882776" src="static/image/common/none.gif" onclick="zoom(this, this.getAttribute('zoomfile'), 0, 0, '')" zoomfile="data/attachment/forum/201511/05/161419iuhzpuxevmh00mhz.jpg" file="data/attachment/forum/201511/05/161419iuhzpuxevmh00mhz.jpg.thumb.jpg" inpost="1" alt="zadh01.jpg" title="zadh01.jpg" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" />
+
+<div class="tip tip_4 aimg_tip" id="aimg_882776_menu" style="position: absolute; display: none" disautofocus="true">
+<div class="tip_c xs0">
+<div class="y">2015-11-5 16:14 上传</div>
+<a href="http://bbs.hc360.com/forum.php?mod=attachment&amp;aid=ODgyNzc2fGVkNDI4NmUxfDE0NTA2NzY3OTZ8MHw2MzE4Njc1&amp;nothumb=yes" title="zadh01.jpg 下载次数:0" target="_blank"><strong>下载附件</strong> <span class="xs0">(147.89 KB)</span></a>
+
+</div>
+<div class="tip_horn"></div>
+</div>
+
+</ignore_js_op>
+<br />
+<br />
+中安鼎辉科技<br />
+</div><br />
+<strong>　　到2015年：</strong><br />
+<br />
+　　——产业规模快速增长。产业销售收入超过10000亿元，年均增长率超过25%，工业增加值率达到35%。智能制造装备满足国民经济重点领域需求。<br />
+<br />
+　　——重点领域取得突破。传感器、自动控制系统、工业机器人、伺服和执行部件为代表的智能装置实现突破并达到国际先进水平，重大成套装备及生产线系统集成水平大幅度提升。<br />
+<br />
+　　——组织结构优化升级。培育若干具有国际竞争力的大型企业集团，打造一批“专、精、特、新”的专业化企业，建设一批特色鲜明、优势突出的产业集聚区。<br />
+<br />
+　　——创新能力显著提升。基本建成完善的产学研用相结合的产业创新体系，骨干企业研究开发经费占销售收入的比重超过5%。培养一大批知识复合型、具有国际视野的领军人才。<br />
+<strong><br />
+　　到2020年：</strong><br />
+<br />
+　　——将我国智能制造装备产业培育成为具有国际竞争力的先导产业。建立完善的智能制造装备产业体系，产业销售收入超过30000亿元，实现装备的智能化及制造过程的自动化，使产业生产效率、产品技术水平和质量得到显著提高，能源、资源消耗和污染物的排放明显降低。<br />
+<br />
+　　中安鼎辉智能制造设备十二五发展目标，基于 MES 发展的 IDM 平台，不但能为企业的 MES、OES 系统构建灵活的、完美的应用体验，同时可以通过功能的整合和优化，完成 GES 的应用搭建，满足集团模式下，生产、质量、原料、产品的统一调拨和统一管理，标准的统一制定和修订，同时通过系统采集工厂的生产实绩，对最佳实践的形成、推广、分析给出灵活的，可逆的配置和应用。从资金上、应用上，打通集团与工厂的信息公路，实现集团级的大信息闭环管理。<br />
+<br />
+　　咨询电话： 010-84829481<br />
+<br />
+　　公司地址：北京市朝阳区慧忠里103号洛克时代中心B座1311<br />
+<br />
+<br />
+</td></tr></table>
+</div>
+<div id="comment_11007328" class="cm">
+</div>
+<script type="text/javascript">var auc_list_tmp = $('auc_list_tmp');if(auc_list_tmp !== null){document.write(auc_list_tmp.innerHTML);auc_list_tmp.innerHTML='';}
+function lalala(){
+	ajaxget('plugin.php?id=auction:involve&operation=view&tid=6318675&page=1', 'list_ajax');
+	$('list_ajax').style.display = 'block';
+}
+if($('list_ajax')){setTimeout('lalala()', 1000);}
+</script><div id="post_rate_div_11007328"></div>
+</div></div>
+
+</td></tr>
+<tr><td class="plc plm">
+
+<div id="relate_subject"></div>
+
+<div id="p_btn" class="mtw mbm cl">
+<a href="http://shehui.hc360.com/home.php?mod=spacecp&amp;ac=favorite&amp;type=thread&amp;id=6318675" id="k_favorite" onclick="showWindow(this.id, this.href, 'get', 0);" onmouseover="this.title = $('favoritenumber').innerHTML + ' 人收藏'"><i><img src="static/image/common/fav.gif" alt="收藏" />收藏<span id="favoritenumber">0</span></i></a>
+<a id="recommend_add" href="forum.php?mod=misc&amp;action=recommend&amp;do=add&amp;tid=6318675&amp;hash=c438c8dc"  onclick="showWindow('login', this.href)" onmouseover="this.title = $('recommendv_add').innerHTML + ' 人支持'"><i><img src="static/image/common/rec_add.gif" alt="支持" />支持<span id="recommendv_add">0</span></i></a>
+<a id="recommend_subtract" href="forum.php?mod=misc&amp;action=recommend&amp;do=subtract&amp;tid=6318675&amp;hash=c438c8dc"  onclick="showWindow('login', this.href)" onmouseover="this.title = $('recommendv_subtract').innerHTML + ' 人反对'"><i><img src="static/image/common/rec_subtract.gif" alt="反对" />反对<span id="recommendv_subtract">0</span></i></a>
+</div>
+<div class="a_pb"><a href="http://info.finance.hc360.com/zt/21wan/index.shtml" target="_blank" >21万百度广告 免费兑换</a>　　<a href="http://esf.sjz.soufun.com/?utm_source=sjzhezuo&utm_medium=click&utm_term=52&utm_content=lhp&utm_campaign=huicong" target="_blank" >移动购房节第二季 万套8折房史上最惠</a>    　　<a href="http://bbs.hc360.com/forum.php?gid=2216" target="_blank" >社区学吧，营销实战让你流量暴增</a>   </div></td>
+</tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=395&amp;tid=6318675&amp;reppost=11007328&amp;extra=page%3D1&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_11007328" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport11007328', 'misc.php?mod=report&rtype=post&rid=11007328&tid=6318675&fid=395', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_11007328_menu" class="p_pop mgcmn" style="display: none;">
+<li><a href="http://shehui.hc360.com/home.php?mod=magic&amp;mid=bump&amp;idtype=tid&amp;id=6318675" id="a_bump" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/bump.small.gif" />提升卡</a></li>
+<li><a href="http://shehui.hc360.com/home.php?mod=magic&amp;mid=stick&amp;idtype=tid&amp;id=6318675" id="a_stick" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/stick.small.gif" />置顶卡</a></li>
+<li><a href="http://shehui.hc360.com/home.php?mod=magic&amp;mid=close&amp;idtype=tid&amp;id=6318675" id="a_stick" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/close.small.gif" />沉默卡</a></li>
+<li><a href="http://shehui.hc360.com/home.php?mod=magic&amp;mid=open&amp;idtype=tid&amp;id=6318675" id="a_stick" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/open.small.gif" />喧嚣卡</a></li>
+<li><a href="http://shehui.hc360.com/home.php?mod=magic&amp;mid=highlight&amp;idtype=tid&amp;id=6318675" id="a_stick" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/highlight.small.gif" />变色卡</a></li>
+<li><a href="http://shehui.hc360.com/home.php?mod=magic&amp;mid=namepost&amp;idtype=pid&amp;id=11007328:6318675" id="a_namepost_11007328" onclick="showWindow(this.id, this.href)"><img src="static/image/magic/namepost.small.gif" />显身卡</a><li>
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_11007328')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls"></td>
+<td class="plc">
+</td>
+</tr>
+</table>
+<script type="text/javascript" reload="1">
+aimgcount[11007328] = ['882776'];
+attachimggroup(11007328);
+var aimgfid = 0;
+</script>
+</div>
+<div id="postlistreply" class="pl"><div id="post_new" class="viewthread_table" style="display: none"></div></div>
+</div>
+
+
+<form method="post" autocomplete="off" name="modactions" id="modactions">
+<input type="hidden" name="formhash" value="c438c8dc" />
+<input type="hidden" name="optgroup" />
+<input type="hidden" name="operation" />
+<input type="hidden" name="listextra" value="page%3D1" />
+<input type="hidden" name="page" value="1" />
+</form>
+
+
+<div class="pgs mtm mbm cl">
+<span class="pgb y"><a href="http://bbs.hc360.com/forum-395-1.html">返回列表</a></span>
+<a id="newspecialtmp" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=395')" href="javascript:;" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a>
+</div>
+
+<!--[diy=diyfastposttop]--><div id="diyfastposttop" class="area"><div id="framemobyL5" class="frame move-span cl frame-1"><div id="framemobyL5_left" class="column frame-1-c"><div id="framemobyL5_left_temp" class="move-span temp"></div></div></div></div><!--[/diy]-->
+<script type="text/javascript">
+var postminchars = parseInt('20');
+var postmaxchars = parseInt('25000');
+var disablepostctrl = parseInt('0');
+</script>
+
+<div id="f_pst" class="pl bm bmw">
+<form method="post" autocomplete="off" id="fastpostform" action="forum.php?mod=post&amp;action=reply&amp;fid=395&amp;tid=6318675&amp;extra=page%3D1&amp;replysubmit=yes&amp;infloat=yes&amp;handlekey=fastpost" onSubmit="return fastpostvalidate(this)">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls">
+</td>
+<td class="plc">
+
+<span id="fastpostreturn"></span>
+
+
+<div class="cl">
+<div id="fastsmiliesdiv" class="y"><div id="fastsmiliesdiv_data"><div id="fastsmilies"></div></div></div><div class="hasfsl" id="fastposteditor">
+<div class="tedt mtn">
+<div class="discuz_bar">
+<span class="y">
+<a href="http://bbs.hc360.com/forum.php?mod=post&amp;action=reply&amp;fid=395&amp;tid=6318675" onclick="return switchAdvanceMode(this.href)">高级模式</a>
+</span><script src="static/js/seditor.js?EP8" type="text/javascript"></script>
+<div class="fpd">
+<a href="javascript:;" title="文字加粗" class="fbld">B</a>
+<a href="javascript:;" title="设置文字颜色" class="fclr" id="fastpostforecolor">Color</a>
+<a id="fastpostimg" href="javascript:;" title="图片" class="fmg">Image</a>
+<a id="fastposturl" href="javascript:;" title="添加链接" class="flnk">Link</a>
+<a id="fastpostquote" href="javascript:;" title="引用" class="fqt">Quote</a>
+<a id="fastpostcode" href="javascript:;" title="代码" class="fcd">Code</a>
+<a href="javascript:;" class="fsml" id="fastpostsml">Smilies</a>
+</div></div>
+<div class="area">
+<div class="pt hm">
+您需要登录后才可以回帖 <a href="member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href)" class="xi2">登录</a> | <a href="member.php?mod=register" class="xi2">注册</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<input type="hidden" name="formhash" value="c438c8dc" />
+<input type="hidden" name="usesig" value="" />
+<input type="hidden" name="subject" value="  " />
+<p class="ptm pnpost">
+<button type="button" onclick="showWindow('login', 'member.php?mod=logging&action=login&guestmessage=yes')" name="replysubmit" id="fastpostsubmit" class="pn pnc vm" value="replysubmit" tabindex="5"><strong>发表回复</strong></button>
+<label for="fastpostrefresh"><input id="fastpostrefresh" type="checkbox" class="pc" />回帖后跳转到最后一页</label>
+<script type="text/javascript">if(getcookie('fastpostrefresh') == 1) {$('fastpostrefresh').checked=true;}</script>
+</p>
+</td>
+</tr>
+</table>
+</form>
+</div>
+
+<script type="text/javascript">
+new lazyload();
+</script>
+<script type="text/javascript">document.onkeyup = function(e){keyPageScroll(e, 0, 0, 'forum.php?mod=viewthread&tid=6318675', 1);}</script>
+</div>
+
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+
+
+<script type="text/javascript">
+function succeedhandle_followmod(url, msg, values) {
+var fObj = $('followmod_'+values['fuid']);
+if(values['type'] == 'add') {
+fObj.innerHTML = '不收听';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=del&fuid='+values['fuid'];
+} else if(values['type'] == 'del') {
+fObj.innerHTML = '收听TA';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=add&hash=c438c8dc&fuid='+values['fuid'];
+}
+}
+</script>	</div>
+<div class="wp a_f"><embed width="960" height="90" src="http://img00.hc360.com/news/201505/201505050915213816.swf" type="application/x-shockwave-flash" wmode="transparent"></embed></div><div class="wp a_f"><div style="width:960px;height:90px;">
+<div style="float:left;margin-right:10px;">
+<script type="text/javascript" id="zp_script_270" src="http://mcc.chinauma.net/static/scripts/p.js?id=270&w=180&h=90&sl=1&delay=5" zp_type="1"></script>
+</div>
+<div style="float:left;">
+<script type="text/javascript"> /*uma广告-bbs760*90 创建于 2015-01-05*/ var cpro_id = "u1892108";</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+</div></div><div class="a_fr a_cb"><a href="http://bbs.hc360.com/thread-5889854-1-1.html" target="_blank"><img src="http://img01.hc360.com/news/201503/201503180922452537.jpg" width="140" height="145"></a><br /><a href="javascript:;" onclick="setcookie('adclose_330', 1, 86400);this.parentNode.style.display='none'"><img src="static/image/common/ad_close.gif" /></a></div>
+
+<script type="text/javascript">
+var rel_tid = "6318675";
+var rel_title = "%D6%D0%B0%B2%B6%A6%BB%D4%D6%C7%C4%DC%D6%C6%D4%EC%C9%E8%B1%B8%CA%AE%B6%FE%CE%E5%B7%A2%D5%B9%C4%BF%B1%EA";
+var rel_reltid = "0";
+var rel_prepos = "";
+var my_siteid = "24993155";
+var rel_uid = "0";
+var rel_views = "137";
+var rel_replies = "0";
+var rel_page = "1";
+var rel_show = "0";
+</script>
+<script src="http://cache.soso.com/30d/js/discuz/relate_subject.js" type="text/javascript" charset="GBK"></script>
+
+
+
+<script type="text/javascript">
+_attachEvent(window, 'load', getForbiddenFormula, document);
+function getForbiddenFormula() {
+var toGetForbiddenFormulaFIds = function () {
+ajaxget('plugin.php?id=cloudsearch&formhash=c438c8dc');
+};
+var a = document.body.getElementsByTagName('a');
+for(var i = 0;i < a.length;i++){
+if(a[i].getAttribute('sc')) {
+a[i].setAttribute('mid', hash(a[i].href));
+a[i].onmousedown = function() {toGetForbiddenFormulaFIds();};
+}
+}
+var btn = document.body.getElementsByTagName('button');
+for(var i = 0;i < btn.length;i++){
+if(btn[i].getAttribute('sc')) {
+btn[i].setAttribute('mid', hash(btn[i].id));
+btn[i].onmousedown = function() {toGetForbiddenFormulaFIds();};
+}
+}
+}
+</script>
+
+<script type="text/javascript">(function(){var bdcs = document.createElement('script');bdcs.type = 'text/javascript';bdcs.async = true;bdcs.src = "http://znsv.baidu.com/customer_search/api/js?sid=1366092766520538444" + '&plate_url=' + encodeURIComponent(window.location.href) + '&t=' + Math.ceil(new Date()/3600000) + '&callback=znForDz';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(bdcs, s);})();</script>
+<script src="source/plugin/baidusubmit/template/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+var bdjq = jQuery.noConflict(true);
+function znForDz(siteConfig){
+    bdjq(function(){
+        var zn = 'http://zhannei.baidu.com/cse/search?s=1366092766520538444';
+        if (siteConfig && siteConfig.resultUrl){
+            zn = 'http://' + siteConfig.resultUrl + '/cse/search?s=1366092766520538444'
+        }
+        var btn = bdjq("#scbar_btn");
+        if (btn.length == 0) {
+            btn = bdjq('button[name="searchsubmit"]');
+        }
+        if (btn.length == 0) {
+            btn = bdjq('input[name="searchsubmit"]');
+        }
+        if (btn.length == 0) {
+            btn = bdjq('#scbar_form input[type="submit"]');
+        }
+        if (btn.length > 0) {
+            btn.click(function(event){
+                var mod = bdjq('#scbar_mod').val() || bdjq('form input[name="mod"]').val()
+                var st = '';
+                var txt = bdjq('#scbar_txt').val() || bdjq('form input[name="srchtxt"]').val();
+                var user = '1';
+                if (mod === 'user' && user === '1'){
+                    st = 2;
+                    window.open(zn + "&q=" + encodeURIComponent(txt) + "&fst=" + st + "&partner=discuz");
+                    event.preventDefault();
+                } else if (mod === 'forum'){
+                    window.open(zn + "&q=" + encodeURIComponent(txt) + "&partner=discuz");
+                    event.preventDefault();            
+                }
+
+            });
+        }
+        var hot = bdjq('#scbar_hot a')
+            if (hot.length > 0){
+                hot.click(function(event){
+                var txt = bdjq(this).text();
+                window.open(zn + "&q=" + encodeURIComponent(txt) + "&partner=discuz");
+                event.preventDefault();
+            });
+        }
+    });
+}               
+</script>           <div id="ft" class="wp cl" >
+<div id="flk" class="y">
+<p>
+<a href="http://bbs.hc360.com/forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><a href="http://bbs.hc360.com/archiver/" >Archiver</a><span class="pipe">|</span><strong><a href="http://bbs.hc360.com" target="_blank">慧聪网</a></strong>
+&nbsp;<a href="http://discuz.qq.com/service/security" target="_blank" title="防水墙保卫网站远离侵害"><img src="static/image/common/security.png"></a>
+<link href="http://www.hc360.com/bbs/css/daily_news.css" type="text/css" rel="stylesheet">
+    <script src="http://info.hc360.com/list/bbs_message2013.shtml" type="text/javascript"></script>
+<script src="http://www.hc360.com/bbs/js/daily_news.js" type="text/javascript"></script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F4a01ab4e827c944ce60ce8f1343ff0ef' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-----------Analysis Code---------------->
+<script src="http://style.org.hc360.com/discuz/js//include/js/bbs_dcs_tag.js" type="text/javascript" id="bbs_dcssdhhooehcfnjdavp95vdyc_2v9t"></script><NOSCRIPT> <IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://wisecode.b2b.hc360.com/dcssdhhooehcfnjdavp95vdyc_2v9t/njs.gif?dcsuri=/nojavascript&amp;WT.js=No"> </NOSCRIPT>
+<!-----------End Code--------------------->
+<script src="http://www.hc360.com/js/click.js" type="text/javascript"></script>
+</p>
+<p class="xs0">
+GMT+8, 2015-12-21 13:46<span id="debuginfo">
+</span>
+</p>
+</div>
+<div id="frt" style="background:url('http://image.hc360.com/discuz/images/templates/discuz6/images//discuz_icon.gif') no-repeat scroll 0 5px transparent; padding-left: 38px;">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X2.5</em></p>
+<p class="xs0">&copy; 2001-2012 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></div>
+
+<div id="g_upmine_menu" class="tip tip_3" style="display:none;">
+<div class="tip_c">
+积分 0, 距离下一级还需  积分
+</div>
+<div class="tip_horn"></div>
+</div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1450676796" type="text/javascript"></script>
+<span id="scrolltop" onclick="window.scrollTo('0','0')">回顶部</span>
+<script type="text/javascript">_attachEvent(window, 'scroll', function(){showTopLink();});checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var discuzSId = '24993155';
+				var discuzVersion = 'X2.5';
+				var discuzRelease = '20130426';
+				var discuzApi = '0.6';
+				var discuzIsFounder = '';
+				var discuzFixbug = '25000004';
+				var discuzAdminId = '0';
+				var discuzOpenId = '';
+				var discuzUid = '0';
+				var discuzGroupId = '7';
+				var ts = '1450676796';
+				var sig = '79b94727657d89758d947ffebc064ebd';
+				var discuzTipsCVersion = '2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script>

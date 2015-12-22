@@ -1,0 +1,57 @@
+<!--UINFO: http://www.oneplusbbs.com/thread-959882-1-1.html	length=5114&last_modified=0&time_saved=1450677185&charset=utf-8-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>提示信息 - 一加手机社区官方论坛</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",一加手机社区官方论坛" />
+<meta name="generator" content="Discuz! X3.x" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://www.oneplusbbs.com/" /><link rel="stylesheet" type="text/css" href="http://static.oneplus.cn/data/cache/style_6_common.css?e54" /><link rel="stylesheet" type="text/css" href="http://static.oneplus.cn/data/cache/style_6_forum_viewthread.css?e54" /><script src="dfsj_imgs/jquery.js?e54" type="text/javascript"></script>
+<script type="text/javascript">var STYLEID = '6', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'e54', charset = 'utf-8', discuz_uid = '0', cookiepre = 'qKc3_0e8d_', cookiedomain = '.oneplusbbs.com', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '4|加油|,5|兑换分|', defaultstyle = '', REPORTURL = 'aHR0cDovL3d3dy5vbmVwbHVzYmJzLmNvbS90aHJlYWQtOTU5ODgyLTEtMS5odG1s', SITEURL = 'http://www.oneplusbbs.com/', JSPATH = 'static/js/', DYNAMICURL = '';var dfsj_jq=jQuery.noConflict();</script>
+<script src="static/js/common.js?e54" type="text/javascript"></script>
+<script src="dfsj_imgs/jquery.lazyload.js?e54" type="text/javascript"></script>
+<script src="dfsj_imgs/jquery.SuperSlide.js?e54" type="text/javascript"></script>
+<script>//function killErrors(){return true};window.onerror=killErrors;</script>
+<meta name="application-name" content="一加手机社区官方论坛" />
+<meta name="msapplication-tooltip" content="一加手机社区官方论坛" />
+    <meta property="wb:webmaster" content="b56a43d4103e2934" />
+<meta name="msapplication-task" content="name=门户;action-uri=http://www.oneplusbbs.com/portal.php;icon-uri=http://www.oneplusbbs.com/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=首页;action-uri=http://www.oneplusbbs.com/forum.php;icon-uri=http://www.oneplusbbs.com/static/image/common/bbs.ico" />
+<link rel="archives" title="一加手机社区官方论坛" href="http://www.oneplusbbs.com/archiver/" />
+<script src="static/js/forum.js?e54" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://www.oneplusbbs.com/');">设为首页</a><span class="pipe dfsj_pipe1">|</span><a href="http://www.oneplusbbs.com/"  onclick="addFavorite(this.href, '一加手机社区官方论坛');return false;">收藏本站</a><span class="pipe dfsj_pipe2">|</span><script type="text/javascript">var _speedMark = new Date();</script></div>
+<div class="y">
+<a href="member.php?mod=logging&amp;action=login" rel="nofollow" onclick="showWindow('login', this.href);return false;">登录</a><span class="pipe">|</span>
+<a rel="nofollow" href="member.php?mod=register">立即注册</a><span class="pipe">|</span>
+<a rel="nofollow" href="http://account.oneplus.cn/login/forget?jump=http%3A%2F%2Fwww.oneplusbbs.com%2F" >找回密码</a>
+</div>
+</div>
+</div>
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">立即注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div><div id="dfsj_userinfo_menu" style="display: none;">
+<script src="static/js/logging.js?e54" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td><label for="ls_username">帐号</label></td>
+<td><input type="text" name="username" id="ls_username" class="px vm xg1"  value="用户名/Email" onfocus="if(this.value == '用户名/Email'){this.value = '';this.className = 'px vm';}" onblur="if(this.value == ''){this.value = '用户名/Email';this.className = 'px vm xg1';}" tabindex="901" /></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />自动登录</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=

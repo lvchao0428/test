@@ -1,0 +1,800 @@
+<!--UINFO: http://bbs.jrj.com.cn/msg,99182855,1.html	length=67291&last_modified=0&time_saved=1450676872&charset=gbk-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+		<title>预计2016年GDP将增长6.5%以上-期货论坛-金融界理财论坛</title>
+		<meta name="keywords" content="预计2016年GDP将增长6.5%以上,理财论坛,股市分析,预测明日大盘走势,个股分析">
+		<meta name="description" content="预计2016年GDP将增长6.5%以上　　一、2016年国际经济环境依然复杂多变　　2016年，世"/>
+		<script type="text/javascript" src="http://js.jrj.com.cn/myjrj/js/jquery.js"></script>
+		<script src="http://js.jrj.com.cn/bbsnew/bbs120626.js" type="text/javascript"></script>
+		<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/LoginDialog-min.js"></script>
+		<link rel="stylesheet" id="skin" type="text/css" href="http://js.jrj.com.cn/bbsnew/css/essay120605.css" />
+		<script type="text/javascript" src="http://js.jrj.com.cn/myjrj/js/api/myjrj_api_1.js"></script>
+		<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/dialogs-2.js"></script>
+		<script src="http://js.jrj.com.cn/bbsnew/article/staticpage140102.js" type="text/javascript"></script>
+		<link rel="stylesheet" type="text/css" href="http://js.jrj.com.cn/lib/ui/dialog-cool.css" />
+		<link href="http://js.jrjimg.cn/common/bottombar.css" rel="stylesheet" /><!-- 底部通用导航新加样式 -->
+		<style type="text/css">
+	    	.jbtext{background:url(http://i0.jrjimg.cn/istock/igjb.png) no-repeat 0 center;padding:0 20px 0 20px;cursor:pointer;}
+	    	.fcfcnew{z-index:9999;display:none;background:url(http://i0.jrjimg.cn/bbsnew/img/fcfcnew.png) no-repeat 0 0;width:490px;height:350px;position:fixed;top:50%;left:50%;margin-left:-245px;_position:absolude;margin-top:-175px;}
+			.fcfcnew .hd{height:104px;position:relative;}
+			.fcfcnew .hd a.clear{position:absolute;top:8px;right:14px;width:15px;height:15px;display:block;}
+			.fcfcnew .hd i{font-family:"微软雅黑","宋体";font-sizE:24px;position:absolute;top:53px;left:245px;color:#fff;}
+			.text-new1{padding:25px 60px 0;}
+			.text-new1 p{line-height:21px;}
+			.text-new1 p.cur{padding:0 0 20px;}
+			.fhbox{position:fixed;margin-left:480px;left:50%;top:40%;_position:absolute;}
+			.fhbox a{display:block;background:url(http://i0.jrjimg.cn/istock/fhtopnew.jpg) no-repeat;width:66px;height:68px;}
+			.fhbox a.fh02{background-position:0 -68px;margin-top:9px;}
+			.fhbox a.fh01:hover{background-position:-66px 0;}
+			.fhbox a.fh02:hover{background-position:-66px -68px;}
+			.sharetos {
+			    background: none repeat scroll 0 0 transparent;
+			    cursor: pointer;
+			    display: inline-block;
+			    font-size: 12px;
+			    height: 25px;
+			    margin-right: 5px;
+			    padding-left: 2px;
+			    vertical-align: middle;
+			}
+			.mpll {
+			    margin: 38px 0 5px;
+			    overflow: hidden;
+			    text-align: center;
+			}
+	    </style>
+	    <script type="text/javascript" src="http://js.jrjimg.cn/js.do?f=/lib/jrjbase-min.js,/lib/util/ie6fixed-nojq-min.js,/lib/ui/ScrollLeft-min.js,/lib/ui/PopupMsgBox-nojq-1.0.min.js"></script>
+	    
+<script>
+$(document).ready(function(){
+	var ie6Fixed = JRJ.util.ie6Fixed;
+	ie6Fixed.fixed($(".fcfcnew"), "cc");
+	//$(".jbtext").click(function(){
+	//		$(".fcfcnew").show();
+	//		return false;
+	//});
+	$(".clear").click(function(){
+			$(".fcfcnew").hide();
+			return false;
+	});
+  $("#helpbutton").css("right",($(window).width()-$("#topIndex").width())/2-$("#helpbutton").width()-2);
+  if(jQuery.browser.msie && jQuery.browser.version == 6) {
+    Followmod.follow();
+  }
+  $("#helpbutton").show();
+});
+Followmod = {
+  follow : function(){
+    $("#helpbutton").css("position","absolute");
+    $(window).scroll(function(){
+      var mtop = $(window).scrollTop() + $(window).height() - $("#helpbutton").outerHeight()-260;
+      var mleft = ($(window).width()-$("#topIndex").width())/2-$("#helpbutton").width()-2;
+      $("#helpbutton").css({"top":mtop,"right":mleft});
+    });
+  }
+}
+function imgsize(img){
+	img.width=Math.min(img.width,900);
+	if(img.width==900){
+		img.style.cursor="pointer";
+		img.title="点击查看原图";
+	}
+}
+
+function imggo(img){
+	if(img.width>=900){
+		window.open(img.src);
+	}
+}
+</script>
+	</head>
+	<body>
+	<script type="text/javascript" src="http://js.jrjimg.cn/home/click.js"></script>
+	<div class="fcfcnew" id="fcfcnew">
+    	<div class="hd"><a href="javascript:void(0);" class="clear"></a><i>金融界论坛</i></div>
+        <div class="bd">
+        	<div class="text-new1">
+        		<strong>尊敬的用户：</strong>
+                <p class="cur">如您在使用金融界网站论坛的过程中发现色情，反动言论，伪造他人言论，广告欺诈等帖子，为便于网友反馈问题，特将金融界论坛管理员联系方式公布如下，欢迎大家有问题或者建议随时联系。</p>
+                <p>金融界客户服务中心邮箱：jrjhudong@jrj.com.cn</p>
+                <p>论坛客服电话010-58325388-1532</p>
+                <p>金融界论坛官方账户：管理员01</p>
+                <p>金融界论坛客服QQ:2632547546</p>
+                
+            </div>
+        </div>
+    </div>
+	<p class="cnav bbs">
+	<a href="http://www.jrj.com/" target="_blank">首页</a>|
+	<a href="http://i.jrj.com.cn/" target="_blank">我的金融界</a>|
+	<a href="http://blog.jrj.com.cn/" target="_blank">博客</a>|
+	<a href="http://bbs.jrj.com.cn/" target="_blank">论坛</a>|
+	<a href="http://istock.jrj.com.cn/" target="_blank">爱股</a>|
+	<a href="http://itougu.jrj.com.cn?from=itougu-20141227-rc-bbs-sydh-wzl-051" target="_blank">爱投顾</a>|
+	<a href="http://zhibo.jrj.com.cn/" target="_blank">实盘直播</a>|
+	<a href="http://v.jrj.com.cn/" target="_blank">微视频</a>|
+	<a href="http://pic.jrj.com.cn/" target="_blank">图片</a>
+
+			<span>[<a href="http://www.m.jrj.com.cn/" target="_blank">手机金融界</a>]
+			[<a href="http://bbs.jrj.com.cn/bbsmap.html" target="_blank">网站地图</a>]
+			[<a href="javascript:void(0);" onclick="javascript:addFav();">收藏本页</a>]</span>
+		</p>
+		<div class="ban bbs">
+			<a href="http://bbs.jrj.com.cn" class="logo"><a href="http://bbs.jrj.com.cn"></a></a>
+			<div class="fr" id="adDiv"></div>
+      <script>
+             window.onload=function(){
+             var div = document.getElementById("adDiv");
+             div.innerHTML = '<div class="ad1"><iframe width="547" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=27&op=1" ></iframe></div>'
++'<div class="ad2"><iframe width="195" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=28&op=1" ></iframe></div>';
+         }               
+     </script>                       
+	</div>
+	<div class="Bbs_Thread bdnav fw1">
+			<select class="fr" name="history" onchange="windowOPENTO(this)">
+				<option>
+					最近访问版区
+				</option>
+			</select>
+						<!-- a href="http://www.jrj.com.cn">金融界</a><i>&gt;</i --><a href="http://bbs.jrj.com.cn">金融界论坛</a><i>&gt;</i><a href="/money">理财论坛</a><i>&gt;</i><a href="/futures">期货论坛</a>		</div>
+	<div class="Bbs_Thread bbs flist">
+			<div id="login">
+			</div>	
+<form action="/article/searchArticle.jspa" class="search" method="get" onsubmit="return checkData(this)">
+<select id="searchtype" name="searchtype">
+	<option value="author">
+		作者
+	</option>
+	<option value="title">
+		标题
+	</option>
+	<option value="tag">
+		标签
+	</option>
+</select>
+<input class="text" value="请输入搜索内容" name="typeValue" onfocus="onSelected(this)" onblur="onLeave(this)" id="typeValue" type="text"/>
+<input type="hidden" name="from" value="search"/>
+<input type="hidden" name="cid" value="2" />
+<input class="btn" value="搜索" type="submit"/>
+</form>
+</div>
+<div class="navlist" id="loginlist" onmouseover="showloginlist()" onmouseout="outMenuDiv(this, event)" style="display:none">
+<ul><li><a href="/author,2," target="_blank" id="mymsg">我的帖子</a></li><li><a href="/jiangu" target="_blank">我的荐股</a></li></ul>
+</div>
+
+<script>
+	setValue('2','904','0','99182855','090906010001696546','/article/getMsgReply.jspa?msgid=99182855&itemid=0&forumid=904&cid=2&status=0&count=$totalCount');
+	showLogin('thread');
+</script>
+		<div class="Bbs_Thread fun button1">
+			<span class="fl">
+			<!-- a href="javascript:void(0);" onclick="goToReplyDiv('replyDiv')" class="reply" target="_top">回复</a -->
+			<a href="#" onclick="return newthread('/article/sendPreStock.jsp');" class="reply">荐股</a>
+			<a href="#" onclick="return newthread('/article/sendMsgMain.jsp?cid=2&forumid=904&itemid=0');" class="pub">发新帖</a>
+			<a href="javascript:void(0);" onclick="javascript:window.location.reload();" class="break">刷新</a>
+			<a href="/doldmsg/2_99182855.html" class="acol" target="_blank">以旧版方式浏览</a>
+			<a href="http://www.m.jrj.com.cn" class="acol" target="_blank" style="background:url(http://i0.jrjimg.cn/bbsnew/img/phone.gif) no-repeat;padding:5px 0 0 25px;margin:0 0 0 10px">手机上论坛</a>
+			</span>
+			<span class="fr" id="adReplySpan">
+				<!--	<a href="#">预留广告位预留广告位</a>-->
+			</span>
+		</div>
+
+		<div class="Bbs_Thread lcd zhengwen" id="topIndex">
+			<div class="ltit">
+				<h1><b>『普通』主题： 预计2016年GDP将增长6.5%以上</b></h1>
+				<span>
+					<a class="jbtext" id="jubao" onclick="javascript:$('.fcfcnew').show();">举报</a>
+					<a href="javascript:void(0);" onclick="javascript:addFav();">收藏本页</a><!-- a href="javascript:void(0)" onclick="doFavorite('99182855','0','904','2')">收藏</a--> 
+				</span>
+			</div>
+			<div class="author">
+			<!-- a href="http://i.jrj.com.cn/app/trace/traceforum.jspa?user=090906010001696546" target=_blank -->
+			<a href="/author,2,jijinbazhu" target=_blank>
+						<img src="http://i5.jrjimg.cn/sys/default_xs.jpg" alt="" />
+						</a>
+			<p class="name"><b><a href="/author,2,jijinbazhu" name="users" id="1-090906010001696546" onmouseover="showUserinfo('090906010001696546','topIndex','2','25','904')" target="_blank" ref="090906010001696546">jijinbazhu</a></b><!--a href="#">查看他的牛股池</a--><a href="/author,2,jijinbazhu" id="track1-090906010001696546" target="_blank">查看TA的论坛文集</a><span class="fr">发表日期：2015-12-07 16:43:28</span></p>
+			<p>头衔：社区侯爵<em id="jifen">积分：637715</em>
+			<a href="#" id="attentionBut" onclick="checkLogin('090906010001696546','jijinbazhu',1);">关注</a><a href="#" id="frientBut" onclick="checkLogin('090906010001696546','jijinbazhu',2);">加为好友</a>
+			<span class="fr">
+			<a href="#" name="admin" id="admin-99182855" onmouseover='getOperation("99182855",1,0,0,0)' style="display:none">管理</a>
+			<a href="javascript:void(0)" target="_top" onclick="return quoto('jijinbazhu','msgMainContent','2015-12-07 16:43:28');">引用</a>
+			<span class="pingfen">
+			<a href="javascript:void(0)" onclick='msgScoreShow("99182855","0","2")'>评分</a>
+			<span class="pop" style="display:none"><strong id="pingfenClose" title="关闭"></strong>点击这里可对本文评分<em></em></span>
+			</span>
+			<script type="text/javascript">
+			$(function() {
+				var pingfenVal = getCookie('threadMsgMain_pingfen');
+				if(pingfenVal != null && pingfenVal != ''){
+					$(".pop").css('display','none');
+				}else {
+					$(".pop").css('display','inline');
+				}
+				$("#pingfenClose").click(function(){
+					addCookie('threadMsgMain_pingfen',1,241000);
+					$(".pop").css('display','none');
+				});
+			});
+			</script>  
+			<a href="#" onclick='return onlyViewUserThread("99182855","2","090906010001696546")'>只看该作者</a>			<ul class='admin' id='only99182855' style="display:none"></ul>
+			</span></p>
+			</div>
+			<!--帖子内容-->
+			
+			<div id="msgcoin_99182855" class="pf_result"> </div>
+			
+			<div class="content" id="msgMainContent">
+				<p>　　<strong>一、2016年国际经济环境依然复杂多变</strong></p>
+<p>
+　　2016年，世界经济仍将延续温和低速增长态势，国际经济环境依然复杂多变。IMF秋季报告预计，2016年世界经济将增长3.6%。发达国家保持温和复苏态势，新兴和发展中经济体经济仍存下行压力；全球贸易略有改观，但增速仍然较低；美联储货币政策将逐步回归正常化，但欧元区和日本仍将实施宽松货币政策，全球金融动荡和风险加大；能源和大宗商品价格中低位徘徊，地缘政治及突发事件将会推动价格剧烈震荡；跨<span
+ kwname="skwl_keyword" kwid="stock_601099">太平洋</span>(<span style="DISPLAY: none">行情</span><span id="hq601099" class="hqspan">601099</span>,<font color="#000000">买入</font>)伙伴关系协定（TPP）达成，各国政策博弈加剧。</p>
+<p>　　（一）发达国家保持温和复苏态势，新兴和发展中经济体经济仍存下行压力</p>
+<p>
+　　美国经济增长基础相对稳固。一是再工业化政策效果逐步显现。美国在通讯、能源和高端制造业的研发和利用方面具有突出的比较优势，有望推动实体经济持续增长。二是能源价格大幅下跌降低了企业生产和居民消费成本，企业利润得以改善、居民消费得以提高。三是技术创新支持美国经济走强。美国在新能源革命、新一代信息技术革命、新一轮工业技术革命等领域取得较大进展，逐步培育出新的经济增长点。四是美国失业率不断降低、核心通胀温和，2016年美联储将进入加息周期，但利率仍处较低水平。IMF预计，2015和2016年美国经济将增长2.6%和2.8%。</p>
+<p>
+　　欧元区经济将保持温和增长。一是欧洲央行购债计划的实施压低了融资成本和欧元汇率，有助于推动出口，刺激经济增长。二是财政整固、结构改革逐步取得一定实效。三是能源价格回落，降低企业生产成本和居民消费开支。IMF预计，2015和2016年欧元区经济将增长1.5%和1.6%。</p>
+<p>
+　　日本经济将出现小幅回暖。除了能源价格下跌影响之外，延迟提高消费税促进消费增长，2016年将重启核电，以及继续保持宽松的刺激政策推动日本经济小幅回暖。IMF预计，2015和2016年日本经济将增长0.6%和1.0%。</p>
+<p>
+　　新兴和发展中经济体增长压力仍较大。IMF预计新兴和发展中经济体2015和2016年经济将增长4%和4.5%。分析表明，尽管2016年俄罗斯、巴西等国经济衰退程度有望降低，但是大部分国家经济结构调整进展缓慢，美元加息带来的金融市场动荡，以及缺乏新增长动力等因素，使得新兴和发展中经济体经济增长能够保持在4%左右就不错，回升的难度较大。</p>
+<p>　　（二）全球贸易略有改观，但增速仍然较低</p>
+<p>
+　　考察本世纪以来全球经济和贸易增长的关系可以看出，在经济繁荣的时期，世界贸易以更快的速度增长，但在经济衰退时期，世界贸易则以更低速度增长甚至出现下跌，这在2001年和2009年尤为明显。2012-2014年，全球贸易增速低于经济增速，2015年大致如此，IMF预计贸易增速仅仅高于经济增速0.1个百分点。IMF预计，2016年全球贸易将增长4.5%，考虑到影响贸易的各种因素以及IMF秋季报告总是高估贸易增速，这一增速可能较难实现。基于进出口贸易价格有望企稳的判断，预计2016年世界贸易将略高于经济增速，但仍以较低的速度增长。</p>
+<p>　　（三）全球货币政策分化加剧，国际金融市场动荡加大</p>
+<p>
+　　美联储加息意味美国经济复苏力度较强，有助于提升全球投资者的信心，从而促进全球经济复苏。但是，在美联储加息的过程中，欧元区、日本以及大多数其他国家仍将实施较为宽松的货币政策，货币政策出现严重分化。美联储加息将不可避免的对世界经济产生一定负面影响。一方面，加息将引发新一轮国际资本流动和金融市场动荡。加息之后国际资本回流美国的速度可能进一步加快，造成其他国家尤其是新兴市场经济体资本外逃、本币贬值，以及金融市场动荡。另一方面，加息将会打压大宗商品价格走势，对不同经济体影响各异。加息将推动美元持续走强，国际大宗商品价格继续回落或低位徘徊。这对资源输出国造成较大负面冲击，但会进一步降低欧洲、日本以及印度等资源输入国的进口成本。</p>
+<p>　　（四）大宗商品价格中低位徘徊，价格波动加大</p>
+<p>
+　　展望2016年，全球大宗初级产品仍将处于供过于求，美元进入升值周期，受供求法则和计价等因素的影响，大宗初级产品价格将处于中低位徘徊状态。</p>
+<p>　　（五）国际环境变化对我国经济的影响</p>
+<p>
+　　发达国家经济温和复苏有助于稳定我国出口，大宗商品价格回落有利于降低我国进口成本，但美国加息、TPP等因素对我国将形成较大冲击。一是美联储加息会导致资本外流，金融市场将出现剧烈动荡。美联储加息将直接导致我国资本外流，对金融市场尤其是证券市场将形成较大冲击，居民短期内将人民币资产转化为美元资产的行为也将对银行业形成较大冲击。二是企业加速海外布局，会造成一定的国内就业压力。TPP的预期效应将导致相关内资和外资企业重新考虑海外布局，一方面暂停在国内的投资，观察形势变化，另一方面将现有产能转移到TPP成员国或其他地区。如果这一现象在短期内形成连锁效应，则会导致就业市场出现较大问题，农民工返乡可能再现。三是能源资源类海外投资受损。能源资源类企业投资周期长，前几年的海外投资已经形成生产能力，但价格的回落可能导致这些企业难以获取预期投资回报，同时需要承担巨额财务费用。</p>
+<p>　　<strong>二、当前国内经济面临的问题和风险</strong></p>
+<p>
+　　我国经济运行中结构性和周期性问题仍非常严重，缓解产能过剩矛盾的任务十分艰巨，城乡区域发展差距以及居民收入差距继续扩大，一些领域和企业经济风险开始显性化，投资和进出口增长预期较差，有效供给不足的问题不断积累，宏观调控政策措施对经济拉动的边际效应下降，经济下行的压力仍然很大。</p>
+<p>
+　　严重产能过剩与部分领域供给不足的矛盾并存。受前期产能扩张过快、外需持续低迷，以及国内需求结构从以住、行为主逐步转向以服务业为主，传统商品需求萎缩，与之对应的产业产能出现相对过剩，有的甚至绝对过剩。与亚洲金融危机时期不同，那时产能过剩主要是需求不足引发的，反映在1998年至2002年包括居民消费价格在内的价格全面下跌。本轮价格调整主要反映在工业品价格持续大幅度下跌上，表明产能过剩主要不是需求不足引发的，而是结构调整缓慢和改革滞后的结果。与此同时，电信、金融、教育、文化、养老、体育等领域被严重垄断或管制，阻碍了社会资本的进入，导致这些领域供给严重不足，价格过高；部分品牌商品大规模海外购买形成一大经济奇观。</p>
+<p>
+　　房地产市场仍处于调整期。经过十余年井喷式增长后，我国商品房存量已大幅度增加，房地产市场已经进入趋势性下跌和周期性减速的双重调整阶段。根据国际经验和房地产周期变化规律，房地产调整期一般需要3-5年，考虑到2014年已经开始调整，房地产低迷至少还需要两年左右的时间。一是我国房地产市场已经由“供不应求、总体偏紧”的状态转向“供过于求、总体偏松”的状态。2013年我国城镇户均住宅已经超过1.05套，基本达到住房需求的峰值，因此目前住房需求动力大为减弱。二是随着房地产市场的总体形势变化，居民的资产配置也发生改变。由于投资房地产的预期收益下降，居民的资产配置开始更多地转向股权、期权投资等领域。三是房地产市场仍然面临较大的“去库存”压力，城市间的分化更加明显。一、二线城市由于不断有新增外来人口流入和新兴产业的发展，“去库存”的压力相对较小，而其余城市房地产市场则陷入停滞状态。四是房地产市场价格仍然偏高。随着老龄化时代的到来，未来我国住房市场的刚性需求将减少，近期出台的房地产刺激政策无法改变这一长期趋势，而房地产市场价格的居高不下更加抑制了广大中低收入人群刚性需求的释放。</p>
+<p>
+　　地方政府融资能力下降。过去地方政府通过招商引资、土地出让、政府融资平台进行融资，支持基础设施建设投资和产能投资。地方政府融资配合财政支出，也放大了财政政策的作用。但地方政府的融资模式，也加大了产能过剩、房地产价格泡沫和地方政府债务的不断累积，2014年底我国地方政府债务已快速上升至24万亿元。随着我国经济进入新常态，以及地方政府融资的不断规范和土地出让收入的减慢等原因，地方政府出现了不会干、不愿干、不敢干、不能干的现象，政策执行力下降。</p>
+<p>
+　　企业融资成本居高不下。虽然今年以来政府数次降息降准、出台了一系列减税降费措施，旨在缓解企业“融资难、融资贵”问题，然而成效并不显著，尤其是对小微企业而言融资成本并未降低。由于相对大企业而言，小微企业的信用程度相对较低，可抵押的资产相对较少，因此金融机构不愿意贷款，即使同意贷款，许多商业银行也对小微企业设置了最低贷款额起点和贷款转存等诸多附加条件。并且，企业除了需要承担利息成本之外，还需要承担诸如评估费、保费、顾问费等费用，在很大程度上增加了企业的财务成本。</p>
+<p>
+　　金融风险累积上升并显性化。当前，我国经济增长速度放缓，劳动力等生产要素成本上升，资本收益减慢，各类隐性的风险开始逐步暴露出来。主要问题包括：传统产业产能严重过剩，企业的投资回报降低甚至出现大规模亏损，由此将导致企业盈利能力下降诱发财务风险并传导至金融市场；地方政府财政收入和土地出让收入缩减，然而2014年底我国地方政府债务总规模高达24万亿元，并陆续进入偿还期，地方性债务偿还问题危及银行等金融系统稳定；企业经营困难和房地产市场调整，引发银行贷款坏账率上升和影子银行风险增加，使得宏观经济发生系统性风险的可能性不断加大。</p>
+<p>
+　　需求管理政策效果减弱。产能过剩行业和地方政府融资平台等预算软约束部门的资金需求拉高了资金成本，违约风险上升导致金融机构对外借贷趋于谨慎，货币市场短期利率水平波动不能有效传导到资本市场，货币政策效应较差。地方政府配套资金不足，产能过剩使投资乘数减小，扩张性财政支出政策效果减弱。上述问题相互作用、相互影响，会使“债务&mdash;通缩”效应问题进一步恶化，可能引发2016年经济再次下行。所谓“债务&mdash;通缩”是指经济在某个时点处于“过度负债”的状态，引发债务清偿，引致资产价格下跌和负债率上升，相应的货币供给收缩和货币流通速度下降，并导致价格水平下降和实际利率上升，这会引发悲观情绪和信心丧失，影响经济发展。</p>
+<p>　　<strong>三、我国仍具备保持稳定增长的基本条件</strong></p>
+<p>
+　　发展动力加快培育引领经济平稳增长。一是创业创新亮点纷呈。大力推进双创的若干政策措施逐步落实，“互联网+”向更广阔领域拓展，为经济发展增添了新的动能。全国新登记注册企业日均新增超过1万家。二是新兴行业蓬勃发展。战略性新兴产业企业收入和利润保持较快增长，新能源汽车、工业<span
+ kwname="skwl_keyword" kwid="stock_300024">机器人</span>(<span style="DISPLAY: none">行情</span><span id="hq300024" class="hqspan">300024</span>,<font color=
+"#000000">买入</font>)、智能电视、轨道交通设备等产品的产量实现两位数甚至成倍增长。三是创新驱动日益增强。国内发明专利授权量快速增长，研发经费占GDP的比重进一步提高，企业创新主体的地位日益增强。</p>
+<p>
+　　市场活力不断释放激发经济平稳增长。随着简政放权、放管结合、优化服务以及不断释放改革红利，政府服务成本有所降低，市场活力逐步提升，市场对资源配置的决定性作用日益增强。取消和下放一批行政审批事项，取消非行政许可审批类别；推进“三证合一、一照一码”等商事制度改革；清理规范中介服务，除特殊需要并有法律依据外，全面取消强制性中介服务；政府定价项目大幅减少，绝大多数商品价格由市场竞争形成。</p>
+<p>
+　　经济结构持续优化支撑经济平稳增长。一是产业结构调整扎实推进。服务业保持较好发展势头，占国内生产总值比重持续提升，成为经济发展主导产业。同时工业内部结构加快调整，传统产业中缺乏竞争力的企业逐步退出市场，高技术产业和装备制造业保持较快增长。二是需求结构继续改善。网络零售等新型消费模式迅猛增长，旅游、信息、文化、健康等服务消费持续升温。消费对经济增长的贡献率将继续提升。投资在增速放缓的同时实现结构优化，高技术产业、装备制造业投资均快于一般制造业投资，更快于高耗能行业投资，公共产品和公共服务领域的投资规模显著加大。三是新的增长极、增长带正在逐步形成。区域发展“四大板块”和“三大战略”统筹推进，国家级新区、产业转移示范区等新引擎、新载体、新样本作用突出。东部地区部分经济发达省份及时推动产业结构调整，转型升级取得较好进展，引领带动作用日益增强。随着消费、服务业等慢变量成为主导，经济增长的波动幅度会有所收窄。</p>
+<p>
+　　宏观调控精准发力护航经济平稳增长。针对经济运行中的突出问题，宏观调控将更加强调预调微调、精准发力，着力扩内需、稳外需，保持经济运行在合理区间。一是实施积极的财政政策和稳健的货币政策，注重加强对实体经济的支持。二是加大促投资力度，注重以增加公共产品和公共服务促进传统引擎升级。着力加强重点领域和薄弱环节建设，集中力量推进重大工程包建设。通过创新重点领域投融资机制，大幅减少前置审批事项，创新企业债券品种，投放专项建设基金，调低投资项目最低资本金等方式，支持鼓励有效投资。三是不断改善消费能力和消费环境，注重释放消费潜力。通过完善强农惠农富农政策、增加低收入群体收入等，促进城乡居民收入较快增长。加快推进重大消费工程，努力扩大信息消费，鼓励绿色消费，加快宽带、城市停车场、电动汽车充电设施等建设，稳定住房消费，支持汽车消费，鼓励旅游休闲、文化教育、养老健康等消费。四是深入挖掘外贸发展潜力，注重培育外贸竞争新优势。通过多种方式促进外贸出口，努力保持我国国际市场份额。加强与“一带一路”沿线国家的经贸往来，提高贸易便利化水平，积极鼓励企业开拓沿线国家市场。</p>
+<p>
+　　长期向好基本面牢固促进经济平稳增长。我国经济发展的潜力、回旋余地和韧性都比较大，保持经济持续健康发展具备较强支撑。总体来看，工业化、信息化、城镇化和农业现代化还处在深入推进阶段，经济发展仍处于大有可为的战略机遇期。</p>
+<p>　　<strong>四、预计2016年GDP将增长6.5%以上</strong></p>
+<p>
+　　2016年国内外发展环境仍然错综复杂，一些领域困难和风险还在加大，经济向好的基础不牢、势头尚弱。从国际看，世界经济依然温和复苏，同时又面临新的不确定因素，不利影响可能有所上升。从国内看，我国经济长期向好的基本面没有改变，随着改革的全面推开其红利不断释放，但经济运行中一些深层次矛盾和问题不断显现，下行压力仍然较大，市场需求总体偏弱，工业领域价格和企业效益低迷，新旧增长动力接替尚需时日。总体来看，我国经济将呈现出小幅缓降态势，初步预计，2016年我国GDP将增长6.5%以上，CPI将上涨1.5%左右。</p>
+<p>　　（一）固定资产投资将稳中略降</p>
+<p>
+　　稳投资是稳增长的关键。2016年支撑投资稳定增长的主要因素有：一是作为“十三五”规划开局之年，规划中的重大建设项目将逐步启动。二是调低投资项目最低资本金比例，将大幅降低投资门槛，提高投资能力，促进相应投资项目落地。三是专项建设基金投放，通过直接注入项目资本金，支持重大交通、水利等基建项目。四是扩大固定资产加速折旧优惠范围，将提高轻工、纺织、机械、汽车等四个领域重点行业的新增投资意愿。五是国家降低企业债发行门槛，允许借新还旧，简化审核审批程序，扩大企业债券融资规模。</p>
+<p>
+　　但是，仍然存在不少制约度投资增长的因素：一是企业投资意愿不足。受国内外市场需求疲软、部分行业产能严重过剩、各类要素成本不断攀升、环保约束压力逐渐加大、工业品价格持续走低等因素影响，企业盈利能力不足，扩大投资的意愿有所减弱。二是实体经济信贷投放仍然比较低迷。受不良贷款上升以及缺乏好投资项目影响，银行惜贷慎贷现象比较明显，特别是中小企业融资成本高的问题没有得到根本解决。三是地方政府财政收支压力加大，偿债规模较大，土地收入及融资平台融资能力受限，PPP模式实质性进展较慢等因素抑制基建项目建设。总体来看，我国投资增速将呈现稳中略降的态势，预计2016年固定资产投资将增长9%左右。</p>
+<p>　　（二）消费需求将基本稳定</p>
+<p>
+　　消费需求是稳定经济增长的基础。2016年，推动消费增长的有利因素主要有：一是就业稳定和居民收入增加，夯实了消费基础。尽管近年来我国经济增速出现下行态势，但是经济结构的变化使得就业保持基本稳定，居民收入以高于经济增速的水平增加。二是随着新型城镇化快速推进，每年将新增1300万人左右进城工作和生活，由此释放出新增消费潜力。三是电商网购等新型消费模式，有助于降低流通费用和交易成本。四是旅游、休闲、文化等新兴消费模式和消费热点涌现。五是社会保障水平不断提高，最低工资标准上调等消除居民消费后顾之忧。但是，经济降温消费者信心减弱、汽车和住房两大消费龙头降温，诚信体系不健全、假冒伪劣等问题将抑制消费增长。总体来看，我国消费需求将保持基本稳定，预计2016年社会消费品零售总额将增长10.5%左右。</p>
+<p>　　（三）外贸进出口增速小幅反弹</p>
+<p>
+　　当前，金融危机后国际经济格局的新变化，国内劳动力、土地、环保等成本持续上升，以及人民币实际有效汇率大幅升值等因素，使得我国出口已经告别过去的“高增长”时代，出现了减速换挡的阶段性变化，未来我国外贸进出口增速将接近甚至会略低于国际贸易的平均水平。展望2016年，世界经济温和复苏，外部需求依然相对疲软，TPP预期效应会带来一定的贸易转移，贸易保护主义始终存在。但是，支持外贸稳定增长的政策措施、“一带一路”战略的推进，以及人民币兑美元汇率一次性贬值等因素有助于稳定外贸增长。从进口来看，尽管国内需求可能会继续放缓，但进口价格指数会出现明显反弹。预计2016年我国出口将微增1.5%左右，进口将增长2%。</p>
+<p>　　（四）物价水平继续分化态势</p>
+<p>
+　　2016年，从居民消费价格来看，连续降息降准等措施使得货币流动性趋于宽松，有助于遏制居民消费价格进一步走低；劳动力成本呈现出刚性上涨态势，服务价格稳中趋升；2016年全面推进各领域价格改革，将在一定程度上释放价格上涨空间；肉禽和蔬菜等食品价格还有较大的不确定性。但是，社会总供求关系仍然宽松，抑制后期物价上涨；宏观经济继续降温，居民通胀预期有所减弱；国内粮价基本稳定并且高于国际价格，进一步上涨空间较为有限。从工业品价格看，国际大宗商品价格进一步下跌空间缩小，初级产品进口价格趋稳；我国工业供给能力充足，部分领域产能过剩问题仍比较突出，工业品价格仍难以明显回升。总体来看，我国物价总水平依然呈分化态势，居民消费价格将温和上涨，工业品价格继续下跌，但跌幅有望收窄。预计2016年CPI将上涨1.5%左右，PPI将下跌3.5%左右。</p>
+<p>　　（五）2016年预期调控目标</p>
+<p>
+　　化解当前经济运行中存在的各种矛盾和问题，有两个思路。一是以转变经济发展方式为主线，加快经济结构调整。这需要进一步加快国有企业、金融、财税、土地等领域的改革，增强微观主体的活力和经济增长的内生动力，为宏观调控政策发挥更好的作用奠定好微观经济基础。这一思路有可能导致短期经济下滑、失业增加、局部金融风险暴露，但有利于经济持续健康发展。同时，我国也有条件通过存量资产的重置，发掘经济增长潜力。只要我国加快国企、金融、财税、土地等领域的改革，发展好资本和土地等要素市场，政府和企业的负债可以通过资本市场转化为居民和民营企业的资产，政府负债和企业高杠杆问题能够得到解决，潜在的金融风险可以化解。</p>
+<p>
+　　另一个思路是继续坚持“稳中求进”的工作主基调，注重“稳增长、促改革、调结构、惠民生、防风险”的平衡，采取相机抉择的经济政策，出现什么问题就解决什么问题。2011年以来的这一思路，保持了经济发展、就业和社会大局的基本稳定，经济结构调整也有所进展。但“多个宏观调控目标、多项调控政策”并行的局面，也导致经济运行出现了上述提到的诸多问题，引发市场悲观情绪和预期。</p>
+<p>
+　　我国经济发展仍有潜力、余地和韧性，只要加快结构调整，仍能保持中高速增长。经过30年多年的发展，我国物质技术基础日益增强，产业体系完整，国民储蓄率即便逐年小幅回落，但仍显著高于世界上大多数国家水平，人力资本和科技创新对经济增长的贡献逐步提高，具有资金、劳动、科技等生产要素组合的综合优势。国内市场规模巨大，扩大内需有潜力。近几年，城镇低收入群体和农民工收入增速明显提高，覆盖城乡的社会保障体系基本建立，为加快结构调整提供了有利条件。宏观政策仍有运用空间，财政赤字和政府债务余额均处于安全线内，并远低于美、欧、日等主要经济体。银行基准利率和存款准备金率较高，有足够多调节流动性的手段和工具。建议把2016年的经济增长预期目标确定为6.5%以上，居民消费价格指数涨幅控制在3%左右，城镇新增就业1000万人。这样的目标确定，能较好地处理调结构和稳增长的关系，较好地协调经济增长、就业、物价的关系，较好地处理发展、改革与稳定的关系。</p>
+<p>　　<strong>五、宏观调控政策建议关注八个方面</strong></p>
+<p>
+　　建议2016年经济工作总思路：坚持加大改革创新力度促进新旧动能转化，坚持统筹稳增长与防风险并确保民生改善，坚持区域城乡协调发展挖掘三大战略差异化发展潜力，坚持提升对外开放水平积极参与国际市场竞争及国际环境治理。</p>
+<p>　　（一）全面深化体制改革，形成统一、开放、竞争有序的市场体系</p>
+<p>
+　　加快国有企业改革步伐，辅之以环保、技术等标准，推进企业破产和兼并重组。加快落实税制改革政策，完成营业税改征增值税，加快房地产税立法，建立综合与分类相结合的个人所得税制度。进一步推进金融改革，放松对银行业的准入管制，加快完善股票市场的制度建设。全面落实水、电、油、气、运等资源和基础产品价格改革方案，通过价格杠杆鼓励民间资本进入基础设施领域。</p>
+<p>　　（二）以减税和增加社会保障支出为重点，实施积极的财政政策</p>
+<p>
+　　适当扩大财政赤字和国债规模。建议中央财政赤字规模安排1.35万亿元，地方政府一般债券发行规模安排6500亿元，全国财政赤字规模为2.0万亿元，赤字率控制在2.8%左右。全面实施减轻企业和个人负担的财税政策。加快推进全面营改增，将不动产纳入增值税抵扣范围；尽快在国内流量较大机场增设进境口岸免税店；进一步完善个人所得税税前扣除项；采取功能性的产业政策，对国家引导发展的行业和小微企业全面减税，支持企业进行创新投资。加大地方政府债务置换的力度，扩大省级政府一般债务发债规模。发挥政府投资的引领作用，加快铁路、城市地下管网、停车场、农村基础设施等项目建设。加大对重点项目和新兴产业支持力度。明确财政补助标准、时限，以及涉及价格、收费、政府让利和法律保障等长期利好预期，实质性地吸引社会资本进入PPP模式。加大失业保险和低收入群体的支出力度，托住民生和社会稳定的底线，为顺利推动企业改革提供保障。</p>
+<p>　　（三）加大“调结构”的支持力度，实施稳健的货币政策</p>
+<p>
+　　一是稳健的货币政策保持“微刺激”取向，为结构调整创造偏中性的资金环境。建议新增人民币贷款12万亿元左右，M2增长13%左右，继续择机降准，引导全社会降低企业融资成本，容忍部分银行等金融机构破产。二是稳定股票市场预期和信心，相关部门要及时向市场传递准确政策信号，不能让市场随意猜测政府的意图，尽快恢复股市的融资功能。三是加强定向降准、再贷款、抵押补充贷款（PSL）和信贷质押再贷款等基础货币投放工具和定向调控手段的运用，在保证社会流动性平稳合理增长的同时，有针对性地解决地方政府发债、三农和小微企业社会薄弱环节发展等突出问题。四是推动资产证券化，拓展融资渠道，为城市基础设施建设以及公共服务项目建设解决长期资金筹集问题，增加金融机构化解风险手段。五是密切观察国际金融形势变化及中美货币政策背向而行的影响，防范外汇市场剧烈波动和跨境资金大规模外流风险。</p>
+<p>　　（四）下决心处置过剩产能，全面推进产业结构调整</p>
+<p>
+　　一是加强政策的协调力度，有效化解过剩产能。完善淘汰落后指标体系，更好发挥能耗、排放、质量标准在淘汰落后产能中的作用。二是落实“大众创业、万众创新”政策。继续加大简政放权力度，推进政府制定权力清单、责任清单，全面取消非行政许可，为创业、创新营造更好的环境；支持区域性资本市场发展，如新三板、担保、众筹等新业态。三是不断优化产业结构，努力增加有效供给。发展先进制造业，力争在核心技术上取得实质性突破并实现产业化。</p>
+<p>　　（五）增强居民消费能力，促进消费需求稳定增长</p>
+<p>
+　　一是调节国民收入分配格局，实现向居民部门更大倾斜。完善再分配机制，逐步缩小居民之间收入分配差距，完善个人所得税等税收制度，加大再分配支出力度；完善政府税收结构，加大社会保障等民生投入。二是提高社会保障水平，增强社保托底力度。健全养老保险多缴多得激励机制，确保参保人权益，实现基础养老金全国统筹，坚持精算平衡。三是促进消费金融发展，增强居民跨期消费能力。构建系统的消费金融支持政策体系，出完善台专门针对消费金融的法律。</p>
+<p>　　（六）促进投资稳定增长，优化投资结构</p>
+<p>
+　　一是推进重大项目建设。完善重大项目的政银企社合作对接机制，细化重大工程项目清单，搭建信息共享、资金对接的平台，保障重大项目的资金供应。二是用好政府投资。发挥好中央预算内投资的带动作用，重点用于国家重大工程，跨地区、跨流域的投资项目以及外部性强的重点项目。三是实施降税清费。扩大工薪所得税税前扣除项目范围，增加养老、教育、住房等支出因素。四是将PPP落到实处。设立PPP项目前期工作费，支持地方政府开展PPP项目的前期工作。制订PPP项目标准化合同范文和分行业合同，提供更加细化可操作的实施指引。</p>
+<p>　　（七）扩大更高层次对外开放，稳定外贸进出口</p>
+<p>
+　　一是扩大更高层次对外开放。继续扩大市场准入，推进金融、贸易、物流、信息服务、商务服务等生产性服务业对外开放；推广上海自由贸易区有效做法，促进跨国公司扩大对我国服务业投资；加强多边双边合作，推动与相关国家的自贸区谈判进程。二是重视国际产能和装备制造合作。结合“一带一路”建设，发挥亚投行积极作用，扩大与周边国家产能合作项目，以轨道交通、电力、资源开发等为重点，对主要相关国际产能合作项目予以支持。三是积极扩大进口。结合当前中国消费升级要求，通过进一步降低进口关税等措施，扩大婴儿用品、老人用品、奢侈品等消费品进口，减少海外代购行为；抓住当前原油等国际大宗商品价格下跌的有利时机，扩大能源、资源等战略性产品进口。</p>
+<p>　　（八）完善价格市场化形成机制，为提质增效创造良好的价格环境</p>
+<p>
+　　一是建议将2016年物价调控目标定为3%，为价格改革预留一定的空间。二是全面深入贯彻落实《中共中央、国务院关于推进价格机制改革的若干意见》，认真研究出台相关配套改革实施方案。三是对产能过剩行业实行严格的差别化电价水价政策。加快征收资源税和环境保护税，督促各地完善污水处理和排污收费政策并提高收费标准，推进环保和公共服务等领域价格改革。</p>
+<p>　　（执笔：国家信息中心宏观经济形势课题组杜平祝宝良牛犁）</p>
+<br>
+
+　　原文链接：http://futures.jrj.com.cn/2015/12/07164220197123.shtml
+
+							</div>
+			<div class="content">
+							
+			<div style="height:10px">&nbsp;</div>
+						</div>
+			
+				<div class="mpll" style="width:625px;margin:0 auto;margin-top:38px;">
+			<span style="float:left;margin-right:5px;" class="digg1" onclick="doDingorCaiAction(0,99182855,2)">文章不错(<i>0</i>)</span>
+			<span style="float:left;" class="digg4" onclick="copyShareUrl()">复制链接</span>
+			<div style="float:left;" class="sharetos">
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+				<span class="bds_more">分享到：</span>
+				<a class="bds_qzone"></a>
+				<a class="bds_tsina"></a>
+				<a class="bds_tqq"></a>
+				<a class="bds_renren"></a>
+				<a class="bds_t163"></a>
+				<a class="shareCount"></a>
+				</div>
+				<span class="refreshs" style="float:left;line-height:25px;">&nbsp;&nbsp;帖子刷新<select id="autoRefreshConfSelect" name="autoRefreshConfSelect" onchange="javascript:refreshConfSet()" >
+					<option value="1" >1分钟</option>
+					<option value="2" >2分钟</option>
+					<option value="3" >3分钟</option>
+					<option value="5" >5分钟</option>
+					<option value="0" >不刷新</option>
+				</select></span>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=6470526" ></script>
+				<script type="text/javascript" id="bdshell_js"></script>
+				<script type="text/javascript">
+				document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+				</script>
+				<!-- Baidu Button END -->
+			</div>
+<script>
+	var inter_variable;
+	function refreshConfSet(){
+		var time = parseFloat($('#autoRefreshConfSelect').val());
+		var date = new Date();
+		date.setTime(date.getTime()+365*24*3600*1000);
+		document.cookie = 'Ref_Msg_Conf=' + time + ';expires=' + date.toGMTString();
+		clearInterval(inter_variable);
+		if(time != 0){
+			inter_variable = setInterval(function(){
+					window.location.href = window.location.href;
+				},time*60*1000);
+		}
+	}
+	function getDefaultRefreshTime(){
+		var cook = document.cookie;
+		var start = cook.indexOf('Ref_Msg_Conf');
+		var time = parseFloat('0');
+		if(start != -1){
+			start += 'Ref_Msg_Conf'.length + 1;
+			var end = cook.indexOf(';',start);
+			if(end == -1){
+				time = parseFloat(cook.substring(start));
+			}else{
+				time = parseFloat(cook.substring(start,end));
+			}
+		}
+		clearInterval(inter_variable);		
+		$('#autoRefreshConfSelect').val(time);
+		if(time != 0){
+			inter_variable = setInterval(function(){
+					window.location.href = window.location.href;
+				},time*60*1000);
+		}
+	}
+	
+	getDefaultRefreshTime();
+</script>
+			</div>
+			<br>
+		</div>
+<div class="floats" id="popdiv" style="display:none">
+<div class="float float1" id="favoriteDiv" style="display:none"> <a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>收藏帖子</span></strong></p>
+    <p class="right" id="favoriteAlert">已经成功收藏本帖！请到<a href="#">我的收藏</a>中查看所有收藏贴</p>
+    <p class="txr">窗口5秒自动关闭</p>
+</div>
+<div id="sharediv" class="float float1" style="display:none"> <a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>复制链接给好友</span></strong></p>
+    <p>本帖连接：<input id="shareurl" type="text" value="http://bbs.jrj.com.cn/msg,99182855.html" class="tex" readonly="readonly"/></p>
+    <p class="p1"><input type="button" value="复制并发送给我的好友" onclick="copyShareUrl()"/></p>
+    <p>分享到：<a href="javascript:void(0)" onclick="javascript:createShare()" class="ic1">我的金融界</a></p>
+</div>
+<div id="shareokdiv" class="float float1" style="display:none" ><a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>复制链接给好友</span></strong></p>
+    <p id="sharemsg" class="right p2">帖子地址已经复制，您可以粘贴到QQ，MSN或者邮件发给好友了！每次点击你将获得一个威望。</p>
+    <p class="txr">窗口5秒自动关闭</p>
+</div>
+</div>
+<div style="margin-bottom:10px;"><center><a href="http://i.jrj.com.cn/app/vstock/index.jspa" target="_blank"><img src="http://ufile.jrj.com.cn/200912/17/bbs_attach_img/bbs_attach_img_12610207826881.gif" alt=""></a></center></div>
+
+		<!--楼主更多贴，论坛精粹-->
+		<div class="Bbs_Thread about">
+			<div class="lcd s1">
+			<p class="ltit">
+				<strong><a href="/author,2,jijinbazhu" target="_blank">楼主更多贴</a></strong>
+				<ul class="ull" id="louzhumoremsg"></ul>	
+			</p>
+			</div>
+									<div class="lcd bbsjp s1">
+										   	<p class="ltit"><strong>论坛精粹</strong>
+			   					<div id="injection">
+								   <a href="http://bbs.jrj.com.cn/msg,73302967.html"><img						src="http://img.jrjimg.cn/2011/05/20110520151932921.jpg" class="imgb"						alt="富人的50个理财习惯" /> </a>				<ul class="ull">					<li>						<A href="http://bbs.jrj.com.cn/msg,73510041.html" target="_blank">吃透三句话人人都能成富翁</A><A href="http://bbs.jrj.com.cn/msg,73289221.html" target="_blank"></A><A href="http://bbs.jrj.com.cn/msg,72917018.html" target="_blank"></A><a href="http://bbs.jrj.com.cn/msg,71744207.html"></a>					</li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73508474.html" target="_blank">经济适用男PK白领愁嫁女！！</A><a href="http://bbs.jrj.com.cn/msg,72916645.html"></a>					</li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73507900.html" target="_blank">高薪不是白领唯一追求</A><a href="http://bbs.jrj.com.cn/msg,73286590.html"></a>					</li>					<li><A href="http://bbs.jrj.com.cn/msg,73504857.html" target="_blank">全球最火辣十大亿万富家女</A><A href="http://bbs.jrj.com.cn/msg,73309651.html" target="_blank"></A><a href="http://bbs.jrj.com.cn/msg,72882577.html"></a>											</li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73502482.html" target="_blank">私奔投资人王功权回家</A><a href="http://bbs.jrj.com.cn/msg,73309641.html"></a>					</li>				</ul>				<ul class="ull">					<li>						<a href="http://bbs.jrj.com.cn/msg,73499076.html"> 全球最理想工作盘点</a></li>					<li>						<A href="http://bbs.jrj.com.cn/msg,73487695.html" target="_blank">揭秘美国人理财十大秘诀</A><a href="http://bbs.jrj.com.cn/msg,72880887.html"></a>					</li>						
+<li>						<A href="http://bbs.jrj.com.cn/msg,73484026.html" target="_blank">闲暇时该做的28件聪明事</A><A href="http://bbs.jrj.com.cn/msg,73262409.html" target="_blank"></A><a href="http://bbs.jrj.com.cn/msg,72880299.html"></a>					</li>					<li><A href="http://bbs.jrj.com.cn/msg,73467912.html" target="_blank">工薪族三步攒出个百万富翁</A><a href="http://bbs.jrj.com.cn/msg,72861475.html"></a>											</li>		  	<li>						<a href="http://bbs.jrj.com.cn/msg,73480310.html"> 如何让所有人都快乐消费</a>					</li>				</ul>
+								</div>
+			   </p>
+			</div>
+					</div>
+		
+		<!--zhibo
+		<div class="Bbs_Thread about" style="height:75px;margin:10px auto 9px;overflow: hidden;width: 953px;">
+			<iframe width="950" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=472&op=1" ></iframe>
+		</div>-->
+		
+		<!--回帖信息列表-->
+				<div class="Bbs_Thread fun button2">
+			<span class="fl">
+				<!-- a href="javascript:void(0);" onclick="goToReplyDiv('replyDiv')" target="_top"  class="reply">回复</a -->
+				<a href="#" onclick="return newthread('/article/sendPreStock.jsp');" class="reply">荐股</a>
+				<a href="#" onclick="return newthread('/article/sendMsgMain.jsp?cid=2&forumid=904&itemid=0');" class="pub">发新帖</a>
+				<a href="javascript:window.location.reload();" class="break">刷新</a>
+				<a href="/doldmsg/2_99182855.html" class="acol" target="_blank">以旧版方式浏览</a> 
+		       	</span>
+			<p class="pn pn2"><a href="/msg,99182855,1.html">首页</a><a href="#" class="next">&lt;&lt;上一页</a><a href="#" class="cur">1</a><a href="#" class="next">下一页&gt;&gt;</a><a href="/msg,99182855,1.html">末页</a>共1页&nbsp;到<input id="gopage2" type="text" size=2>页<input type="button" value="提交" onclick="javascript:goPage(2);"></p>
+		</div>
+		<div class="Bbs_Thread blue2">
+		<p class="abor">
+				<a href="/">返回论坛首页</a><a href="/904" id="_backTOfirst">返回本版首页</a>
+			</p>
+			<p id="previous">
+				<b>论坛上一帖：</b><a href="javascript:void(0)" id="previousthread" target="_blank">&nbsp;&nbsp;</a>
+			</p>
+			<p id="next">
+				<b>论坛下一帖：</b><a href="javascript:void(0)" id="nextthread" target="_blank">&nbsp;&nbsp;</a>
+			</p>
+		</div>
+
+		<div class="Bbs_Thread lcd tjian" id="S1_R">
+			<p class="ltit"><strong>近期热门话题推荐</strong></p>
+				
+				<ul><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95188719.html"><img src="http://i5.jrjimg.cn/201404/29/bbs_attach_img/bbs_attach_img_13987437656041.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95188719.html">政府关系最硬的民营企业</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95115050.html"><img src="http://i5.jrjimg.cn/201404/24/bbs_attach_img/bbs_attach_img_13983079197391.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95115050.html">盘点年入几十万的小生意</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95007640.html"><img src="http://i5.jrjimg.cn/201404/16/bbs_attach_img/bbs_attach_img_13976176535951.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95007640.html">中国社会七大灰色产业链</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,94971037.html"><img src="http://i5.jrjimg.cn/201404/14/bbs_attach_img/bbs_attach_img_13974442464991.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,94971037.html">中国九大最好赚钱的产业</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,94922538.html"><img src="http://i5.jrjimg.cn/201404/10/bbs_attach_img/bbs_attach_img_13971002679111.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,94922538.html">中国人变穷的四大真相</a></p></li></ul><ul class="ull"><li><a target="_blank" href="http://bbs.jrj.com.cn/picshow">更多劲爆图片</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbmsg">论坛热帖</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbzqt">精准高手</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/tag">热门股票</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbps_5">人气高手</a></li></ul>
+		</div>
+
+		<div class="Bbs_Thread cc">
+			<div id="ReplyIframeDiv" class="fl" >
+			<iframe id="replyPostDetal" name="replyPostDetal" width="100%" height="368px;" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes" src="/article/getMsgReply.jspa?msgid=99182855&itemid=0&forumid=904&cid=2&status=0&count=$totalCount"> 
+			</iframe>
+			<script type="text/javascript">
+				var attachNum=0;
+				var delIndex=null;
+				var sourcetext = "";
+				 
+				 function insertAttach(fileName,fileUrl){
+				 	 attachNum++;
+				 	 
+				 	var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+				 	 var atts = editdoc.getElementById("fileAttach");
+				 	 
+				 	 if (attachNum==1){
+				 	 	sourcetext = atts.innerHTML;
+				 	 }
+				 	 
+				 	 atts.innerHTML += '<li id="attach_'+attachNum+'">附件：<a href="'+fileUrl+'"><img src="http://js.jrj.com.cn/bbsnew/fckeditor/editor/skins/default/toolbar/uploadfile.gif" width="15px" height="15px"></img>'
+				 	   +'&nbsp;'+fileName+'</a>&nbsp;&nbsp;<a href="javascript:void(0)" name="delete" onclick="parent.delAttach('+attachNum+')">删除附件</a>&nbsp;&nbsp;&nbsp;&nbsp;售价（铜板）：<input name="filecoin_'+attachNum+'" id="filecoin_'+attachNum+'" type="text" style="width:30px" /> 最高1000</li>';
+				 	 atts.innerHTML = atts.innerHTML.replace(sourcetext,"") + sourcetext;
+				 	   
+				 	   var sAnnex = editdoc.getElementById("annxe");
+				 	   if(!sAnnex){
+					 	   var form1 = editdoc.getElementById("form1");
+							var textHidden = editdoc.createElement("input");
+							textHidden.type = "hidden";
+							textHidden.name ="annxe";
+							textHidden.id = "annxe";
+							textHidden.value = "";
+							form1.appendChild(textHidden);
+							sAnnex = textHidden;
+					   }
+				 	  var value = sAnnex.value;
+				 	  if(value!="") {
+							value += "|";
+					  }
+				 	  value += attachNum+","+fileUrl+","+ fileName + "," + "http://js.jrj.com.cn/bbsnew/fckeditor/editor/skins/default/toolbar/uploadfile.gif";
+				 	  sAnnex.value = value;
+				 	  
+						var pTar = document.getElementById("replyPostDetal");
+					    if (pTar.contentDocument && pTar.contentDocument.body.offsetHeight){  
+					      pTar.height = pTar.contentDocument.body.offsetHeight;   
+					    }else if (pTar.Document && pTar.Document.body.scrollHeight){  
+					      pTar.height = pTar.Document.body.scrollHeight;
+					    }
+				 }
+				 function delAttach(index){           
+         			 delIndex=index;
+         			 var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+         			 var sAnnex = editdoc.getElementById("annxe");
+         			 if(sAnnex) {
+						var sValue = sAnnex.value;
+						var iIndex = sValue.indexOf("|"+index);
+						if (index==1) iIndex = 0;
+						var iEndIndex = sValue.indexOf("|",iIndex+1);
+						if(iEndIndex==-1) {
+							iEndIndex = sValue.length;
+							}
+						var firstStr = sValue.substring(0,iIndex);
+						var endStr = sValue.substring(iEndIndex+1);
+						if (index!=1){
+							sAnnex.value = firstStr +"|"+ endStr;
+						}else{
+							sAnnex.value = firstStr + endStr;
+						}
+						
+						var pTar = document.getElementById("replyPostDetal");
+					    if (pTar.contentDocument && pTar.contentDocument.body.offsetHeight){  
+					      pTar.height = pTar.contentDocument.body.offsetHeight;   
+					    }else if (pTar.Document && pTar.Document.body.scrollHeight){  
+					      pTar.height = pTar.Document.body.scrollHeight;  
+					    }
+             		 }
+         			 delCallBack();
+				 }
+				 function delCallBack(){
+					 var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+				   	var atts = editdoc.getElementById("fileAttach");
+				 	 var att = editdoc.getElementById("attach_"+delIndex);
+				 	 atts.removeChild(att);
+				 }
+				 function goPage(pagename){
+				 	var gopage = document.getElementById("gopage"+pagename).value;
+				 	if(gopage!=null && gopage!=""){
+        				var r,re;
+        				re = /\d*/i;
+        				r = gopage.match(re);
+        				if (r!=gopage){
+        					alert("请输入数字页码");
+        					return;
+        				}
+    				}else{
+    					alert("请输入数字页码");
+    					return;
+    				}
+    				//window.location.href= "/dmsg/2_99182855_"+gopage+".html";
+				 	window.location.href= "/msg,99182855,"+gopage+".html";
+				 }
+				</script>
+			</div>
+	<div class="fr">
+				<ul class="ltit">
+			<li class="hover" id="jh1" onmouseover="setTab('jh',1,2)" onclick="window.open('/gupiao_celite');"><strong>最新精华帖</strong></li>
+			<li id="jh2" onmouseover="ajax_getNiurenList(904)"><strong>版区牛人榜</strong></li>
+		</ul>
+		<ul class="ull" id="con_jh_1">
+		<li><img src="http://i0.jrjimg.cn/myjrj/loading2.gif"/></li>
+		</ul>
+		<div id="con_jh_2" style="height:339px;display:none">
+			<table class="jhtab" id="niuren">
+			<tr><th width="32"><span>排名</span></th><th width="85"><span>ID</span></th><th width="61"><span>精华帖数</span></th><th width="55"><span class="end">积分</span></th></tr>
+			<tr id="niurenload"><td colspan=4><img src="http://i0.jrjimg.cn/myjrj/loading2.gif"/></td></tr>
+			</table>
+			<br><center><a href="/msg,64498799.html" target="_blank"><img src="http://i0.jrjimg.cn/bbsnew/img/joinniuren.gif"/></a></center>
+		</div>
+			</div>
+		</div>
+		
+				
+		<div class="Bbs_Thread bdnav fw2">
+			<select class="fr" name="history" onchange="windowOPENTO(this)">
+				<option>
+
+					最近访问版区
+				</option>
+			</select>
+		<a href="http://www.jrj.com.cn">金融界</a><i>&gt;</i><a href="/money">理财论坛</a><i>&gt;</i><a href="/futures">期货论坛</a>		</div>
+
+<!-- 回到顶部&刷新 start 
+<div class="helpbutton" id="helpbutton" style="display:none">
+  <div class="gotop"><a href="javascript:void(0);" alt="回到顶部" onclick="javascript:window.scrollTo(0,0);">回到顶部</a></div>
+  <div class="refresh"><a href="javascript:void(0);" alt="刷新" onclick="javascript:window.location.reload();">刷新</a></div>
+</div>-->
+<!--
+<div class="fhbox" id="helpbutton"><a href="javascript:void(0);" class="fh01" alt="回到顶部" onclick="javascript:window.scrollTo(0,0);"></a><a href="http://survey.jrj.com.cn/channel/pub/q1832m2w0h0.html" class="fh02" target="_blank"></a></div>
+-->
+<!-- 回到顶部&刷新 end -->
+
+		<!-- 不能删除的div模板-->
+		<div class="infor" style="display:none">
+		</div>
+<script type="text/javascript">
+	goToFirstPage(window.location+"");
+        var _globalImgPath = "http://i0.jrjimg.cn/bbsnew/";
+	var _messageshow="thread";
+	var itemid=_itemid;
+	var forumid=_forumid;
+	var cid=_cid;
+	var divid = "history";
+	var forumname="期货论坛";
+
+	getMainMsgInfo(_msgid,_cid);
+	ajax_getEssList(0,_cid);
+</script>
+<script>
+	var ads={"list":[{"title":"","link":"http://www.jrj.com.cn"},{"title":"","link":"http://www.jrj.com.cn"}]}
+
+fixUpRecommendReply();
+</script>
+	<script src="/editorInc/finacing/floater_fd.js" type="text/javascript"></script>
+<script type="text/javascript">
+	showFloater(2);
+	function newthread(url){
+		if(typeof(flag)=='undefined' || flag=='notlogin'){
+			loginDlg.show();
+			return true;
+		}
+		window.location.href=url;
+	}
+	function checkLogin(uid,username,type) {
+		if(uid&&username&&uid.length>0&&username.length>0) {
+			if(typeof(flag)=='undefined' || flag=='notlogin'){
+				loginDlg.show();
+			}else {
+				ajax_getLoginUser(uid,username,type,loginDlg);
+			}
+		}else{
+			loginDlg.show();
+		}
+	}
+	var toDiv = document.getElementById('toooo');
+	if(toDiv) {
+		var div = getAbsPoint(toDiv);
+		if(div) {
+			window.scrollTo(0,div['y']);
+		}
+	}
+	ajax_JustLoginUser('090906010001696546');
+	dealIMG();
+	Popularize();
+	
+</script>
+
+		<div class="f">
+			<script src="http://js.jrjimg.cn/common/foot/v2.js" type="text/javascript"></script>
+		</div>
+
+		<img width="1" height="1" src="http://i0.jrjimg.cn/bbsnew/img/null.gif" id="countimg" alt=""/>
+<script src="http://js.jrj.com.cn/bbsnew/tongji_bbs.js" type="text/javascript"></script>
+
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛左浮标 Begin -->
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=29" ></script>
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛左浮标 End -->
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛右浮标 Begin -->
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=30" ></script>
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛右浮标 End -->
+
+<input type="hidden" id="ms_msgid" value="">
+<input type="hidden" id="ms_parentid" value="">
+<input type="hidden" id="fsfileid" value="">
+
+<!---------------------底部通用导航html-------------------------->
+<!--
+<div class="bottom_nav">
+
+    <div id="BBar_Main" class="open" style="display:none">
+
+    <iframe frameborder="0" scrolling="no" style="position:absolute; visibility:inherit; top:0px; left:0px; width:100%; height:31px;background:none;border:none;display:none;_display:block; z-index:-1; filter:alpha(opacity=0);-moz-opacity:0;-khtml-opacity:0;opacity:0;background:none;"></iframe>
+
+    <div class="left-box">
+
+    	<strong>实盘直播</strong>  
+
+    </div>
+
+	<div class="right-box">
+
+    	<a id="BBar_Open_Btn" href="javascript:;" class="develop"></a>
+
+    	<p class="btn"><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/main" target="_blank">我的金融界</a><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/stock/group/index.jspa" target="_blank">我的自选股</a><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/myfund/index.jspa" target="_blank">自选基金</a><a href="http://pay.jrj.com.cn/coin/rechage.jspa" target="_blank">金币充值</a></p>
+
+        <b id="BBar_Msg_Tip" class="off"></b>
+
+    </div>
+
+    <div class="center-box">
+
+    	<div class="pab01">
+
+    		<div id="stock_scroll" class="scroll">
+
+              	<table>
+
+                    <tbody>
+
+	  	  				<tr>
+
+	  	  					<td id="stock_scroll_content1">
+
+	  	  					</td>
+
+	  	  					<td id="stock_scroll_content2"></td>
+
+	  	  				</tr>
+
+	  				</tbody>
+
+  				</table>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    </div>
+
+    <div id="BBar_Close_Cont" class="close" style="display:none"><input id="BBar_Close_Btn" type="button" /></div>
+
+</div>
+-->
+	<div id="popMsgBox" class="mb" style="display:none;right:20px;">
+
+	   <div id="popMsgBox_Titlebar" class="mbhd">
+
+		   <span id="popMsgBox_Title" class="title">系统消息</span>
+
+		   <b id="popMsgBox_Close" class="option"></b>
+
+	   </div>
+
+	   <div id="popMsgBox_Content" class="mnbd">
+
+	   	  <div class="tit-mb">
+
+            <p></p>
+
+            <p class="pr"><a href="http://i.jrj.com.cn/main/systemMessages.jspa" target="_blank">查看</a></p>
+
+          </div>
+
+	   </div>
+
+	</div>
+
+<!---------------------------END 底部通用导航html--------------------------->
+
+    
+
+<!---------------------------   底部通用导航页面js   ---------------------------> 
+
+
+<script type="text/javascript" src="http://js.jrjimg.cn/lib/bottom-bar/BottomBar-min.1.7.js"></script>
+
+
+<!---------------------------  END 底部通用导航页面js   ------------------------> 
+
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=484" ></script>
+	</body>
+</html>
+
+

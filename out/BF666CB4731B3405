@@ -1,0 +1,1398 @@
+<!--UINFO: http://www.xici.net/u17197388/	length=187935&last_modified=0&time_saved=1450676880&charset=gb2312-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="alternate" type="application/rss+xml" title="订阅看不见听不懂的角落"  href="rss.asp">
+<meta http-equiv="content-type" content="text/html; charset=gb2312" />
+<meta http-equiv="content-language" content="gb2312" />
+<meta name="robots" content="all" />
+<meta name="author" content="http://www.xici.net/" />
+<meta name="copyright" content="xici.net 版权所有，未经授权禁止链接、复制或建立镜像。" />
+<meta name="description" content=" 看不见听不懂的角落 西祠胡同 xici.net"/>
+<meta name="keywords" content=" 看不见听不懂的角落 西祠胡同 xici.net"/>
+<title>看不见听不懂 - 西祠胡同</title>
+
+<link rel="icon" href="http://imgs.xici.net/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://imgs.xici.net/favicon.ico" type="image/x-icon" />
+<script language=javascript src="http://imgs.xici.net/_js/pub.js?t=20140915"></script>
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://imgs.xici.net/_common/styles/person.css?t=201301161" />
+
+<style type="text/css">
+    body{
+	    color:#000000; 
+	    background-color:#FFFFFF;
+	    background-image:url("J:\Documents and Settings\Administrator\桌面");
+	    background-repeat:repeat-y;background-attachment : scroll;    }
+    body a{color:#66CCFF;} 
+    .tit{color:#0033FF;}
+
+	
+    .title{
+		color:#0033FF;
+		background-color:transparent;background-image:url("http://image.baidu.com/i?tn=baiduimagedetail&amp;ct=503316480&amp;cl=2&amp;lm=-1&amp;istype=2&amp;fr=ml1&amp;pv=&amp;ic=0&amp;z=0&amp;fmq=m2&amp;s=0&amp;word=贾静雯#pn1&amp;-1&amp;di30888926970&amp;objURLhttp%3A%2F%2Fwww.wjdaily.com%2FFiles%2FRemoteupfile%2F2009-3%2F12%2F0312_559943.jpg&amp;fromURLhttp%3A%2F%2Fwww.wjdaily.com%2Fnode%2Fnewsylxw%2F2009-3-12%2F0931211655953166172.html&amp;W400&amp;H600");background-repeat:no-repeat;
+	}
+	.title h2{color:#0033FF;} 
+	.title h2 a{color:#0033FF;}
+
+	
+    .bgn{background-color:transparent;background-image:url("http://imgs.xici.net/blog/files/blogimg.asp?f=n0&color=66CCFF");}
+    .nor{color:#000000;} 
+    .nor:hover{color:#FFFFFF;} 
+    .here{color:#FFFFFF;}
+
+	
+    .bor{
+		color:#000000;background-color:#FFFFFF;
+border-width:1px;
+		border-color:#333333;
+		border-style:solid;
+	}
+    .bor .tit{color:#0033FF;}
+    .bor a{color:#66CCFF;}
+    .midd .dl .pb{color:#000000;}
+#slideA{width:580px;position:absolute;top:0px;left:190px}
+#slideB{width:180px;position:absolute;top:0px;left:0px}
+#slideC{width:180px;position:absolute;top:0px;left:780px;}
+
+	.doc_sign {display:none}
+</style>
+
+</head>
+<body>
+<script src="http://imgs.xici.net/_js/doc.js?t=20120905"></script>
+<script language=javascript>
+function RePage(url,key){
+    if(key == 1){
+        document.location = url + "1.htm";
+    }else{
+        if ( key < 1 || key.toString == "" ){
+            key = 1;
+        }
+        document.location = url + key.toString() + ".htm";
+    }
+    return false;
+}
+</script>
+<script language="javascript" type="text/javascript" src="http://imgs.xici.net/_js/pub.js?t=20120906"></script>
+<script language="javascript">{var d = new Date();d.setTime((new Date()).getTime() + 108000000);document.cookie = "desktop=1; domain=xici.net; path=/; expires=" + d.toGMTString();}</script>
+<script language="javascript">var strPageUrl = '/u17197388/';</script>
+<link href="http://imgs.xici.net/_common/styles/base.css?t=201301151" rel="stylesheet" />
+<link href="http://imgs.xici.net/_common/styles/style.css?t=201404281" rel="stylesheet" />
+<script src="http://imgs.xici.net/_js/GA.js?t=201401011"></script>
+
+<!--global_header:begin-->
+<div id="global_header">
+	<!--header_bar:begin-->
+	<div class="header_bar" id="header_bar">
+       <div class="header_logo" node-type="LOGO{$$}topnav" data-type="ga"><a class="logo_top" href="/" title="胡同口"></a></div>
+       <!--top_nav:begin-->
+       <ul class="top_nav">
+        <li node-type="胡同口{$$}topnav" data-type="ga"><a href="/" class="link">胡同口</a></li>
+        <li node-type="menu_list">
+        	
+            <!--chanel_box:begin-->
+             
+            <a href="javascript:;" class="link" id="cityname">广州<em></em></a>
+            <div class="tip_box o_city_box">
+            	<ul class="tip_list clear" id="hot_list">
+                </ul>
+            </div>
+        </li>
+        <!-- <li node-type="menu_list">
+        	<a href="javascript:;" class="link">游戏<em></em></a>
+			<div class="tip_box o_city_box" node-type="优惠频道{$$}topnav" data-type="ga">
+            	<ul class="tip_list">
+                <li><a href="http://huajia.xici.net/" target="_blank">结婚省米</a></li>
+                <li><a href="http://youxi.xici.net" target="_blank">游戏频道</a></li>
+                <li><a href="http://qipai.xici.6998.com/" target="_blank">网页棋牌</a></li>
+                <li><a href="http://www.xici.net/b1449976/" target="_blank">安卓游戏</a></li>
+                </ul>
+            </div>
+        </li> -->
+        <li node-type="手机版{$$}topnav" data-type="ga"><a href="/app.asp" class="link">手机版</a></li>
+    </ul>
+    <!--top_nav:end-->
+    <div class="top_search">
+       <input type="text" class="txt_search" id="search" node-type="公共头搜索{$$}topnav" data-type="ga" value="搜索版名、版号、关键词" />
+       <input type="button" value=" " node-type="公共头搜索{$$}topnav" data-type="ga" class="btn_search" onclick="doSearch();" />
+   </div>
+   <!--判断是否登录用户-->  
+           
+   <ul class="user_login">
+     <li class="mr-10" node-type="居委会{$$}topnav" data-type="ga"><a href="/b2488/" class="link">居委会</a></li>
+     <li class="mr-10" node-type="登录{$$}topnav" data-type="ga"><a title="登录" href="http://account.xici.net/login?refer=http://www.xici.net/u17197388/" class="link">登录</a></li>
+     <li node-type="注册{$$}topnav" data-type="ga"><a href="http://account.xici.net/register?refer=http://www.xici.net/u17197388/" title="注册" class="link">注册</a></li>
+ </ul>
+ 
+<!--飞语提示，默认先隐藏掉-->
+<div class="top_showtip" style="display:none" node-type="提示气泡{$$}topnav" data-type="ga"><p></p><a href="javascript:;" class="close_top_showtip" id = "notice_close"></a></div>
+<div id="global_notice" node-type="global_showtip"  style="display:none">
+    <span>尊敬的IE6/7/8浏览器的用户，胡同大妈教你在新版西祠玩的更舒服</span>
+    <a href="http://www.xici.net/d174003348.htm" class="blue">点击查看这里&gt;&gt;</a>
+    <a href="javascript:;" class="close_top_showtip"></a>
+</div>
+
+</div>
+<!--header_bar:end-->
+<div class="head_shadow"></div>
+</div>
+<!--global_header:end-->
+
+<script src="http://imgs.xici.net/_js/jquery-1.7.2.min.js"></script>
+<script src="http://imgs.xici.net/_js/jquery.plugins.js?t=201312061"></script>
+<script src="http://imgs.xici.net/_js/comm.js?t=20140912"></script>
+<div id="warp" class="warp">
+
+    <iframe width=1 height=1 marginwidth=0 marginheight=0 frameborder=0 scrolling=no src="/xiciservice/verify.asp"></iframe>
+
+<script language=javascript>
+
+    function PointCity(baseurl,url,setcityid,setlat,setlng,setrange) {
+        var Cfrm = document.citychangeform;
+        Cfrm.action = baseurl;
+        Cfrm.setcityid.value = setcityid;
+        Cfrm.setlat.value = setlat;
+        Cfrm.setlng.value = setlng;
+        Cfrm.setrange.value = setrange;
+        Cfrm.url.value = url;
+        
+        if(top != window){
+            parent.parent.notcity = setcityid;
+        }
+        
+        document.getElementById("submitcity").click();
+        parent.parent.updateFavs();
+    }
+</script>
+<form action="" method="post" name="citychangeform" style="display:none">
+    <input type="hidden" name="t" value="c" />
+    <input type="hidden" name="url" value="" />
+    <input type="hidden" name="setcityid" value="" />
+    <input type="hidden" name="setlat" value="" />
+    <input type="hidden" name="setlng" value="" />
+    <input type="hidden" name="setrange" value="" />
+    <input type="submit" name="submitcity" id="submitcity" value="确定" />
+</form>
+<script language="javascript">var xici_hotcity = new Array('南京;\/asia\/china\/huadong\/jiangsu\/nanjing','北京;\/asia\/china\/huabei\/beijing','上海;\/asia\/china\/huadong\/shanghai','苏州;\/asia\/china\/huadong\/jiangsu\/suzhou','深圳;\/asia\/china\/zhongnan\/guangdong\/shenzhen','南通;\/asia\/china\/huadong\/jiangsu\/nantong','扬州;\/asia\/china\/huadong\/jiangsu\/yangzhou','广州;\/asia\/china\/zhongnan\/guangdong\/guangzhou','无锡;\/asia\/china\/huadong\/jiangsu\/wuxi','成都;\/asia\/china\/xinan\/sichuan\/chengdu','济南;\/asia\/china\/huadong\/shandong\/jinan','徐州;\/asia\/china\/huadong\/jiangsu\/xuzhou','杭州;\/asia\/china\/huadong\/zhejiang\/hangzhou','芜湖;\/asia\/china\/huadong\/anhui\/wuhu','武汉;\/asia\/china\/zhongnan\/hubei\/wuhan','郑州;\/asia\/china\/zhongnan\/henan\/zhengzhou','盐城;\/asia\/china\/huadong\/jiangsu\/yancheng','常州;\/asia\/china\/huadong\/jiangsu\/changzhou','合肥;\/asia\/china\/huadong\/anhui\/hefei','青岛;\/asia\/china\/huadong\/shandong\/qingdao','西安;\/asia\/china\/xibei\/shannxi\/xian','泰州;\/asia\/china\/huadong\/jiangsu\/taizhou','石家庄;\/asia\/china\/huabei\/hebei\/shijiazhuang','沈阳;\/asia\/china\/dongbei\/liaoning\/shenyang','镇江;\/asia\/china\/huadong\/jiangsu\/zhenjiang','福州;\/asia\/china\/huadong\/fujian\/fuzhou','昆明;\/asia\/china\/xinan\/yunnan\/kunming','重庆;\/asia\/china\/xinan\/chongqing','广东;\/asia\/china\/zhongnan\/guangdong','兰州;\/asia\/china\/xibei\/gansu\/lanzhou','长沙;\/asia\/china\/zhongnan\/hunan\/changsha','淮安;\/asia\/china\/huadong\/jiangsu\/huaian','天津;\/asia\/china\/huabei\/tianjin','贵阳;\/asia\/china\/xinan\/guizhou\/guiyang','哈尔滨;\/asia\/china\/dongbei\/heilongjiang\/haerbin','太原;\/asia\/china\/huabei\/shanxi\/taiyuan','宿迁;\/asia\/china\/huadong\/jiangsu\/suqian','南宁;\/asia\/china\/zhongnan\/guangxi\/nanning','长春;\/asia\/china\/dongbei\/jilin\/changchun','保定;\/asia\/china\/huabei\/hebei\/baoding','佛山;\/asia\/china\/zhongnan\/guangdong\/foshan','厦门;\/asia\/china\/huadong\/fujian\/xiamen','连云港;\/asia\/china\/huadong\/jiangsu\/lianyungang','大连;\/asia\/china\/dongbei\/liaoning\/dalian','宁波;\/asia\/china\/huadong\/zhejiang\/ningbo','南昌;\/asia\/china\/huadong\/jiangxi\/nanchang','温州;\/asia\/china\/huadong\/zhejiang\/wenzhou','烟台;\/asia\/china\/huadong\/shandong\/yantai','泉州;\/asia\/china\/huadong\/fujian\/quanzhou','临沂;\/asia\/china\/huadong\/shandong\/linyi'
+);</script>
+
+<div id="adTop" class="w">
+
+<!--	<IFRAME MARGINHEIGHT=0 MARGINWIDTH=0 FRAMEBORDER=0 WIDTH=960 HEIGHT=90 SCROLLING=NO SRC="http://xiciafp.allyes.com/main/adfshow?user=XiciAFP|8zz|10tlkj11&db=xiciafp&border=0&local=yes"></IFRAME>-->
+</div>
+
+<div id="spT" class="w title">
+
+	<h2>
+	<a href="http://u17197388.xici.net" title="交通事故人身损害赔偿案" class="tit">
+
+	看不见听不懂的角落</a>
+	<A href="http://u17197388.xici.net" onclick="window.external.AddFavorite('http://u17197388.xici.net','看不见听不懂 - 西祠胡同');return false;" class=fav>http://u17197388.xici.net</A>
+    </h2>
+	<p></p>
+</div>
+
+
+<script language="javascript">
+function checksInput(key)
+{
+    if(document.getElementById("s").value == "" &&key==1)
+    {
+        document.getElementById("s").value = '请输入关键词';
+    }
+
+    if (document.getElementById("s").value == "请输入关键词")
+    {
+        return false;
+    }
+    if (key==3)
+    {
+        window.open("/s/?k=" + escape(document.getElementById("s").value));
+        return false;
+    }
+    return true;
+}
+</script>
+<div id="nav" class="w bgn">
+	<span class="l">
+		<a href="/u17197388/" title="首页" class="bgn nor here">首页</a>
+		<a href="p1.htm" title="文章" class="bgn nor ">文章</a>
+		<a href="t1.htm" title="相册" class="bgn nor ">相册</a>
+		<a href="m1.htm" title="彩信" class="bgn nor ">彩信</a>
+	    <a href="/u17197388/addFriend.asp" title="加好友" class="bgn nor " >加好友</a>
+		<a href="javascript:;" onclick="sendMessage.sendDivShow({},true,'看不见听不懂')" title="留言" class="bgn nor ">留言</a>
+		<!--<a href="blogpre.asp?t=5" title="预订" class="bgn nor ">预订</a>-->
+		
+	</span>
+	<form method="get" action="article.asp" name="" class="r">
+
+		<input type="text" value='请输入关键词' class="txt" id="s" name="s" title="西祠胡同搜索" onclick="if (document.getElementById('s').value=='请输入关键词')document.getElementById('s').value=''"/> <input type="submit" onclick="return checksInput(2);" value="搜角落" class="hand" /><input type="button" onclick="return checksInput(3);" value="搜全站" class="hand" />
+	</form>
+</div>
+
+<div id="spCont">
+	<div id="slideA"><div class="midd bor" id="TDocText">
+		<dl class="dl"><dt><a href="/d202066462.htm" target="_blank">求关注</a></dt><dd class="bor"><p class="pd"><!---doc_text--->留个脚印！<!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center">
+<table border="0" cellpadding="0" cellspacing="0"><tr><td class="doc_sign">听说寻觅爱情就像天与地别离和重聚的过程<br>
+就让我们相逢只是偶然.<br>
+等待你的到来<br>
+我在版里沏好茶欢迎你！<br>
+<br>
+</td></tr></table>
+</td></tr>
+<tr><td class="doc_sign" align="center"><a href="http://www.xici.net/b1146638/" target="_blank">保险理赔</a></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d202066462.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_0></span>　跟贴：1　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-04-27 09:49</span></p></dd></dl><dl class="dl"><dt><a href="/d202035652.htm" target="_blank">求关注</a></dt><dd class="bor"><p class="pd"><!---doc_text--->来这了留个脚印<!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center">
+<table border="0" cellpadding="0" cellspacing="0"><tr><td class="doc_sign">听说寻觅爱情就像天与地别离和重聚的过程<br>
+就让我们相逢只是偶然.<br>
+等待你的到来<br>
+我在版里沏好茶欢迎你！<br>
+<br>
+</td></tr></table>
+</td></tr>
+<tr><td class="doc_sign" align="center"><a href="http://www.xici.net/b1146638/" target="_blank">保险理赔</a></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d202035652.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_1></span>　跟贴：3　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-04-26 09:19</span></p></dd></dl><dl class="dl"><dt><a href="/d201620062.htm" target="_blank">费用计算清单</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p style="line-height:18.0pt;margin-left:22.45pt;text-indent:102.0pt;"><span><span>费用计算清单</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>
+<p style="text-indent:120.0pt;"><span>住院伙食补助费</span><span></span></p>
+<p><span>&nbsp;</span><span>住院</span><span>50</span><span>天，护工护理</span><span>28</span><span>天，家属护理</span><span>22</span><span>天。</span><span></span></p>
+<p><span>&nbsp;</span><span>受害人伙食补助费</span><span>&nbsp; 2</span><span>0</span><span>×</span><span>50=1000</span><span>元</span><span></span></p>
+<p><span>&nbsp;</span><span>家属伙食补助费</span><span>&nbsp;&nbsp;&nbsp; 2</span><span>0</span><span>×</span><span>22=440</span><span>元</span><span></span></p>
+<p><span>&nbsp;</span><span>住院订餐费</span><span>820</span><span>元</span><span></span></p>
+<p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+1000+440-820=620</span></p>
+<p><span>&nbsp; </span><span>第二被告赔偿：</span><span>80</span><span>元。</span><span></span></p>
+<p style="text-indent:12.0pt;"><span>少赔偿</span><span> 620-80=540</span><span>元</span><span></span></p>
+<p style="text-indent:12.0pt;"><span>&nbsp;</span></p>
+<p style="text-indent:126.0pt;"><span>营养费</span><span></span></p>
+<p><span>&nbsp;&nbsp; </span><span>营养期间</span><span>120</span><span>天。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 1</span><span>2</span><span>×</span><span>120=1440</span><span>元</span><span></span></p>
+<p><span>&nbsp;&nbsp; </span><span>第二被告赔偿：</span><span>720</span><span>元。</span><span>&nbsp;&nbsp;
+</span></p>
+<p style="text-indent:18.0pt;"><span>少赔偿</span><span>1440-720=720</span><span>元</span><span></span></p>
+<p><span>&nbsp;</span></p>
+<p style="text-indent:132.0pt;"><span>交通费</span><span></span></p>
+<p><span>&nbsp;&nbsp; 1</span><span>、</span><span>2013</span><span>年</span><span>1</span><span>月</span><span>2</span><span>日</span><span>晚，家属李文利去交警二大队处理交通事故，</span><span>11</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 2</span><span>、住院</span><span>50</span><span>天，家人探视送食品、营养品，</span><span>200</span><span>元。</span><span>4*50=200</span></p>
+<p><span>&nbsp;&nbsp; 3</span><span>、到医院复查，</span><span>44</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 4</span><span>、到医院做康复治疗，</span><span>160</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 5</span><span>、去交警二大队调解，</span><span>22</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 6</span><span>、去做伤残鉴定，</span><span>4</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 7</span><span>、去拿鉴定结论，</span><span>4</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 8</span><span>、去理赔中心申请理赔，</span><span>3</span><span>次，</span><span>84</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 9</span><span>、去保监局投诉，</span><span>28</span><span>元。</span><span>&nbsp;&nbsp;
+</span><span>共计：</span><span>601</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp;&nbsp; </span><span>第二被告赔偿：到医院复查</span><span>44</span><span>元，到医院做康复治疗</span><span>160</span><span>元，合计</span><span>204</span><span>元。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>少赔偿</span><span>601-204=397</span><span>元</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>&nbsp;</span></p>
+<p style="text-indent:120.0pt;"><span>护理费</span><span></span></p>
+<p><span>&nbsp;&nbsp; </span><span>护理天数</span><span>120</span><span>天。</span><span></span></p>
+<p style="text-indent:18.0pt;"><span>住院</span><span>50</span><span>天：</span><span>
+</span><span>护工护理</span><span>28</span><span>天，护理费</span><span>2520</span><span>元，每天</span><span>90</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>家人护理</span><span>22</span><span>天。</span><span>8</span><span>0</span><span>×<span>22=1760</span>元<span></span></span></p>
+<p><span>&nbsp;&nbsp; </span><span>出院<span>70</span>天：<span>40</span>×<span>70=2800</span>元<span>&nbsp;&nbsp;&nbsp;
+</span>合计：<span>2520+1760+2800=7090</span>元</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>第二被告赔偿：</span><span>4900</span><span>元。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>少赔偿</span><span>7090-4900=2190</span><span>元</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>&nbsp;</span></p>
+<p style="text-indent:114.0pt;"><span>误工费</span><span></span></p>
+<p><span>误工时间：</span><span>2013</span><span>年</span><span>1</span><span>月</span><span>2</span><span>日到</span><span>7</span><span>月</span><span>11</span><span>日。</span><span>6</span><span>个月</span><span>10</span><span>天。</span><span></span></p>
+<p><span>收入：</span><span>2200</span><span>元</span><span>/</span><span>月，</span><span>
+84.62</span><span>元</span><span>/</span><span>天。</span><span></span></p>
+<p><span>误工费</span><span>220</span><span>0</span><span>×</span><span>6=13200&nbsp;
+84.6</span><span>2</span><span>×</span><span>10=846&nbsp; 13200+846=14046</span><span>元</span><span></span></p>
+<p><span>第二被告赔偿：</span><span>10500</span><span>元。</span><span></span></p>
+<p><span>少赔偿</span><span>14046-10500=3546</span><span>元。</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>合计：<span>540+720+397+2190+3546=7393</span>元</p><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center">
+<table border="0" cellpadding="0" cellspacing="0"><tr><td class="doc_sign">听说寻觅爱情就像天与地别离和重聚的过程<br>
+就让我们相逢只是偶然.<br>
+等待你的到来<br>
+我在版里沏好茶欢迎你！<br>
+<br>
+</td></tr></table>
+</td></tr>
+<tr><td class="doc_sign" align="center"><a href="http://u17197388.xici.net" target="_blank">我的家园欢迎您！</a></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d201620062.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_2></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-04-17 08:09</span></p></dd></dl><dl class="dl"><dt><a href="/d201620029.htm" target="_blank">通费明细单</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p style="text-indent:132.0pt;"><span>交通费明细单</span><span></span></p>
+<p style="text-indent:132.0pt;"><span>&nbsp;</span></p>
+<p><span>&nbsp;&nbsp; 1</span><span>、</span><span>2013</span><span>年</span><span>1</span><span>月</span><span>2</span><span>日</span><span>晚，家属李文利去交警二大队处理交通事故，</span><span>11</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 2</span><span>、住院</span><span>50</span><span>天，家人探视送食品、营养品，</span><span>200</span><span>元。</span><span>4</span><span>×</span><span>50=200</span></p>
+<p><span>&nbsp;&nbsp; 3</span><span>、到医院复查，</span><span>44</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 4</span><span>、到医院做康复治疗，</span><span>160</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 5</span><span>、去交警二大队调解，</span><span>22</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 6</span><span>、去做伤残鉴定，</span><span>4</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 7</span><span>、去拿鉴定结论，</span><span>4</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 8</span><span>、去理赔中心申请理赔，</span><span>3</span><span>次，</span><span>84</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 9</span><span>、去保监局投诉，</span><span>28</span><span>元。</span><span>&nbsp;&nbsp;
+</span><span>共计：</span><span>601</span><span>元。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>第二被告赔偿：到医院复查</span><span>44</span><span>元，到医院做康复治疗</span><span>160</span><span>元，合计</span><span>204</span><span>元。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>&nbsp;</span></p>
+<p style="text-indent:24.0pt;"><span>少赔偿</span><span>601-204=397</span><span>元。</span><span></span></p>
+<p><span>&nbsp;</span></p><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center">
+<table border="0" cellpadding="0" cellspacing="0"><tr><td class="doc_sign">听说寻觅爱情就像天与地别离和重聚的过程<br>
+就让我们相逢只是偶然.<br>
+等待你的到来<br>
+我在版里沏好茶欢迎你！<br>
+<br>
+</td></tr></table>
+</td></tr>
+<tr><td class="doc_sign" align="center"><a href="http://u17197388.xici.net" target="_blank">我的家园欢迎您！</a></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d201620029.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_3></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-04-17 08:07</span></p></dd></dl><dl class="dl"><dt><a href="/d201619981.htm" target="_blank">证据材料</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p style="text-indent:5.0cm;">&nbsp;证据清单</p>
+<p><span>&nbsp;&nbsp; 1</span>、道路交通事故认定书 复印件<span>1</span>份<span>&nbsp;&nbsp; </span>原件提交给第二被告，交警<span>2</span>大队有原件备案。</p>
+<p><span>&nbsp;&nbsp; </span>证明：<span>2013</span>年<span>1</span>月<span>2</span>号，第一被告驾驶牌号为苏<span>A9TA60</span>机动车撞伤原告发生交通事故，第一被告负事故全责的事实和保险凭证号是人保<span>PDAA20123201000222483</span>的事实。</p>
+<p><span>&nbsp;</span></p>
+<p><span>&nbsp;</span></p>
+<p><span>&nbsp;&nbsp; 2</span>、协议书<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>复印件<span>1</span>份<span>&nbsp;&nbsp; </span>原告、被告都有原件。</p>
+<p style="margin-left:105.0pt;text-indent:-105.0pt;"><span>&nbsp;&nbsp; </span>证明如下事实：<span>1</span>、第一被告给付过原告<span>2000</span>元，原告返还第一被告<span>2000</span>元的事实。结合其他证据证明这<span>2000</span>元是第一被告支付给护工的护理费。</p>
+<p style="margin-left:105.0pt;text-indent:-15.75pt;"><span>2</span>、证明第二被告支付原告营养费<span>720</span>元，住院伙食补助费<span>80</span>元，误工费<span>10500</span>元，护理费<span>4900</span>元，交通费<span>204</span>元等事实。</p>
+<p style="margin-left:105.0pt;text-indent:-15.75pt;"><span>3</span>、结合其他证据和事实证明，第二被告违反法律规定，少赔偿原告营养费<span>720</span>元、住院伙食补助费<span>540</span>元、误工费<span>3546</span>元、护理费<span>2190</span>元、交通费<span>397</span>元，获取了不正当利益<span>7393</span>元的事实。</p>
+<p style="margin-left:105.0pt;text-indent:-15.75pt;"><span>4</span>、结合其他证据和事实证明，上诉人受伤后，没有收入，支付了康复治疗费、复查费、交通费、伤残鉴定费等<span>6000</span>多元，陷于困难处境的事实。</p>
+<p style="margin-left:105.0pt;text-indent:-15.75pt;"><span>&nbsp;</span></p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; 3</span>、原告出具给第一被告的收据。原件被第一被告提交给了第二被告。</p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; </span>证明：第一被告给付原告的<span>2000</span>元是支付给护工的护理费的事实。</p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;</span></p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; 4</span>、住院期间护工护理的护理费收据<span>&nbsp;
+</span>复印件<span>1</span>份<span>&nbsp;&nbsp; </span>原件被第二被告收走。</p>
+<p style="margin-left:63.0pt;text-indent:-63.0pt;"><span>&nbsp;&nbsp; </span>证明：<span>1</span>、原告住院期间，护工护理了<span>28</span>天，每天的护理费是<span>90</span>元，支付护工护理费共<span>2520</span>元的事实。结合原告返还第一被告<span>2000</span>元的事实，证明原告垫付了<span>520</span>元护理费的事实。</p>
+<p style="margin-left:63.0pt;text-indent:-63.0pt;"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2</span>、结合其他证据和事实证明，第一被告给付原告的<span>2000</span>元是支付给护工的护理费的事实。</p>
+<p><span>&nbsp;</span></p>
+<p><span>&nbsp;&nbsp; 5</span>、司法鉴定意见书<span>&nbsp;&nbsp;&nbsp;&nbsp; </span>复印件<span>1</span>份<span>&nbsp;&nbsp;
+</span>提交给第二被告原件<span>1</span>份，原告留存原件<span>1</span>份。</p>
+<p style="margin-left:68.25pt;text-indent:-68.25pt;"><span>&nbsp;&nbsp; </span>证明：<span>1</span>、误工期限是从受伤日起到定残日前一天，定残日是<span>2013</span>年<span>7</span>月<span>12</span>日的事实。结合其他证据证明，原告的误工时间是<span>6</span>个月<span>10</span>天的事实。</p>
+<p style="text-indent:47.25pt;"><span>2</span>、原告的护理和营养时间是<span>120</span>天的事实。</p>
+<p style="margin-left:63.0pt;text-indent:-15.75pt;"><span>3</span>、结合其他证据和事实证明，第二被告违反法律规定，少赔偿原告营养费<span>720</span>元、住院伙食补助费<span>540</span>元、误工费<span>3546</span>元、护理费<span>2190</span>元、交通费<span>397</span>元，获取了不正当利益<span>7393</span>元的事实。</p>
+<p style="text-indent:47.25pt;"><span>&nbsp;</span></p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; 6</span>、第二被告的赔偿方案清单<span>&nbsp;&nbsp;&nbsp;
+</span>原件<span>1</span>份</p>
+<p style="margin-left:109.85pt;text-indent:-123.9pt;"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>证明如下事实：<span>1</span>、营养费<span>720</span>元，按每天<span>12</span>元，<span>60</span>天的期限计算。护理费<span>4900</span>元，住院期间按每天<span>50</span>元，<span>50</span>天期限计算，计<span>2500</span>元，出院期间按每天<span>40</span>元，<span>60</span>天期限，计<span>2400</span>元，共计<span>4900</span>元。</p>
+<p style="margin-left:-.1pt;text-indent:94.5pt;"><span>2</span>、交通费<span>204</span>元。</p>
+<p style="margin-left:110.15pt;text-indent:-15.75pt;"><span>3</span>、住院伙食补助费<span>80</span>元，按每天<span>18</span>元，<span>50</span>天期限计算，住院期间的订餐费是<span>820</span>元。</p>
+<p style="margin-left:110.15pt;text-indent:-15.75pt;"><span>4</span>、结合其他证据和事实证明，第二被告违反法律规定，少赔偿原告营养费<span>720</span>元、住院伙食补助费<span>540</span>元、误工费<span>3546</span>元、护理费<span>2190</span>元、交通费<span>397</span>元，获取了不正当利益<span>7393</span>元的事实。</p>
+<p><span>&nbsp;</span></p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; 7</span>、原告的<span>2012</span>年<span>5</span>、<span>6</span>、<span>7</span>月<span>3</span>个月的工资单<span>&nbsp;
+</span>复印件<span>1</span>份<span>&nbsp; </span>原件提交给第二被告。</p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; </span>证明：<span>1</span>、原告的收入是固定收入，每月工资是<span>2200</span>元，每天的工资是<span>84.62</span>元的事实。</p>
+<p style="margin-left:62.9pt;text-indent:-149.1pt;"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2</span>、结合其他证据和事实证明，第二被告违反法律规定，少赔偿原告误工费<span>3546</span>元的事实。</p>
+<p style="text-indent:47.25pt;"><span>3</span>、结合其他证据和事实证明，第二被告获取了不正当利益<span>7393</span>元的事实。</p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;</span></p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; 8</span>、农行借记卡账户明细对账单<span>&nbsp;&nbsp;
+</span>原件<span>1</span>份</p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; </span>证明：<span>1</span>、原告受伤后误工期间没有收入的事实。</p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; 9</span>、交通费单据和明细单<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>原件<span>4</span>份（粘贴在纸上后）</p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; </span>证明：<span>1</span>、原告支出的交通费是<span>601</span>元，被告少赔偿原告<span>397</span>元的事实。</p>
+<p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2</span>、结合其他证据和事实证明，第二被告获取了不正当利益<span>7393</span>元的事实。</p>
+<p><span>&nbsp;</span></p>
+<p><span>&nbsp;&nbsp; 10</span>、出院小结<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;</span>复印件<span>1</span>份<span>&nbsp;&nbsp; </span>原件提交给第二被告，空军<span>454</span>医院有原件备案。</p>
+<p><span>&nbsp;&nbsp; </span>证明：<span>1</span>、原告入院时间是<span>2013</span>年<span>1</span>月<span>2</span>日，出院时间是<span>2013-2-21</span>，住院<span>50</span>天的事实。</p>
+<p style="text-indent:47.25pt;"><span>2</span>、原告的伤情。</p>
+<p style="text-indent:47.25pt;"><span>3</span>、需要进行后期的功能锻炼康复治疗。</p>
+<p><span>&nbsp;</span></p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; 11</span>、<span>454</span>医院门诊病历<span>&nbsp;&nbsp;&nbsp;
+</span>复印件<span>2</span>份（<span>4</span>张病历）<span>&nbsp; </span>原件提交给第二被告，空军<span>454</span>医院有备案。</p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; </span>证明：需要功能锻炼康复治疗的事实。</p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;</span></p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; 12</span>、治疗费单据<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>原件<span>1</span>份<span>&nbsp; </span></p>
+<p style="margin-left:257.25pt;text-indent:-241.5pt;">证明：<span>1</span>、<span>2013</span>年<span>9</span>月<span>3</span>日原告支付康复治疗费<span>
+2000</span>元的事实。</p>
+<p style="margin-left:63.0pt;text-indent:-63.0pt;"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2</span>、结合其他证据和事实证明，原告急需第二被告赔偿的钱去医院做康复治疗的危难处境的事实。</p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;</span></p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; 13</span>、挂号费单据<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>原件<span>1</span>份<span>&nbsp; </span></p>
+<p style="text-indent:21.0pt;">证明：<span>1</span>、<span>2013</span>年<span>9</span>月<span>3</span>日原告支付康复治疗挂号费<span>4.5</span>元。</p>
+<p style="margin-left:68.25pt;text-indent:-68.25pt;"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2</span>、结合其他证据和事实证明，原告急需第二被告赔偿的钱去医院做康复治疗的危难处境的事实。</p>
+<p><span>&nbsp;</span></p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; 14</span>、原告的病历</p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; </span>证明：<span>1</span>、原告<span>2013</span>年<span>9</span>月<span>3</span>日去医院做康复治疗的事实。</p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;</span></p>
+<p style="margin-left:257.25pt;text-indent:-257.25pt;"><span>&nbsp;&nbsp; 15</span>、<span>2013</span>年<span>9</span>月份的农行对账单转账记录</p>
+<p style="margin-left:63.0pt;text-indent:-63.0pt;"><span>&nbsp;&nbsp; </span>证明：<span>1</span>、第二被告的赔偿款是<span>2013</span>年<span>9</span>月<span>2</span>日到账的事实和原告<span>2013</span>年<span>9</span>月<span>3</span>日取款的事实。</p>
+<p style="margin-left:63.0pt;text-indent:-63.0pt;"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2</span>、结合其他证据和事实证明，原告急需第二被告赔偿的钱去医院做康复治疗的危难处境的事实。</p>
+<p style="margin-left:63.0pt;text-indent:-63.0pt;"><span>&nbsp;</span></p>
+<p style="margin-left:63.0pt;text-indent:-63.0pt;"><span>&nbsp;&nbsp; </span>备注：<span>1</span><span>-</span><span>13</span>件的证据，第<span>3</span>件证据，请求法院要求第二被告提交，其余的见一审案卷。</p><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center">
+<table border="0" cellpadding="0" cellspacing="0"><tr><td class="doc_sign">听说寻觅爱情就像天与地别离和重聚的过程<br>
+就让我们相逢只是偶然.<br>
+等待你的到来<br>
+我在版里沏好茶欢迎你！<br>
+<br>
+</td></tr></table>
+</td></tr>
+<tr><td class="doc_sign" align="center"><a href="http://u17197388.xici.net" target="_blank">我的家园欢迎您！</a></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d201619981.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_4></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-04-17 08:04</span></p></dd></dl><dl class="dl"><dt><a href="/d201619904.htm" target="_blank">交通事故人身损害赔偿案-----民事上诉状</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p style="text-indent:105.0pt;">民<span>&nbsp;&nbsp;&nbsp; </span>事<span>&nbsp;&nbsp;&nbsp;
+</span>上<span>&nbsp;&nbsp;&nbsp; </span>诉<span>&nbsp;&nbsp;&nbsp; </span>状</p>
+<p><span>&nbsp;&nbsp; </span>上诉人：陈长顺，男，<span>1963</span>年<span>1</span>月<span>13</span>日生，居民身份证号码<span>320103196301132012</span>，汉族，无业，住本市秦淮区天坛村<span>14</span>幢<span>703</span>室。现住御道街<span>78</span>号<span>219</span>室，电话，<span>18913919939</span></p>
+<p><span>&nbsp;</span></p>
+<p><span>&nbsp;&nbsp; </span>第一被上诉人，柳方鑫，男，<span>1984</span>年<span>3</span>月<span>8</span>日生，居民身份证号码<span>332529198403087011</span>，汉族，无业，户籍所在地浙江省丽水市莲都区祝村大坑<span>6</span>号，现住本市江宁区凤仪路<span>2</span>号<span>14</span>幢<span>301</span>室。</p>
+<p><span>&nbsp;</span></p>
+<p><span>&nbsp;&nbsp; </span>第二被上诉人，中国人民财产保险股份有限公司南京分公司，住所地本市玄武区龙蟠中路<span>37</span>、<span>69</span>号。负责人娄伟民，公司总经理。</p>
+<p><span>&nbsp;</span></p>
+<p><span>&nbsp;&nbsp; </span>上诉人因机动车交通事故一案，不服（<span>2013</span>）秦民初字第<span>4308</span>号民事判决，现依法提起上诉。</p>
+<p><span>&nbsp;</span></p>
+<p><span>&nbsp;&nbsp; </span>上诉请求：</p>
+<p style="margin-left:45.75pt;text-indent:-30.0pt;"><span>1、<span style="font-family:'Times New Roman';line-height:normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>请求撤消一审判决，依法撤销上诉人与被上诉人签订的协议书的第<span>1</span>条、第<span>3</span>条、第<span>5</span>条或者确认无效。</p>
+<p style="margin-left:45.75pt;text-indent:-30.0pt;"><span>2、<span style="font-family:'Times New Roman';line-height:normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>要求被上诉人赔偿营养费<span>720</span>元、住院伙食补助费<span>540</span>元、误工费<span>3546</span>元、护理费<span>2190</span>元、交通费<span>397</span>元，共计<span>7393</span>元。</p>
+<p style="margin-left:45.75pt;text-indent:-30.0pt;"><span>3、<span style="font-family:'Times New Roman';line-height:normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>要求被上诉人赔偿康复治疗费<span>2000</span>元。</p>
+<p><span>&nbsp;</span></p>
+<p style="text-indent:15.75pt;">上诉的事实和理由如下：</p>
+<p style="text-indent:15.75pt;">上诉人认为一审法院在认定事实和适用法律方面都有错误。上诉人认为本案的主要问题是要查明协议的内容<span>2</span>个方面的问题：<span>1</span>、协议的内容是否合法、公平合理；<span>2</span>、协议的内容是不是当事人的真实意思表示。如果这两个方面都没有问题，上诉人的所有诉讼请求都不能成立。</p>
+<p style="text-indent:15.75pt;">协议书第<span>1</span>条约定：第二被上诉人一次性向上诉人支付赔款营养费<span>720</span>元、住院伙食补助费<span>80</span>元、误工费<span>10500</span>元、护理费<span>4900</span>元，交通费<span>204</span>元。</p>
+<p style="text-indent:15.75pt;">协议书第<span>1</span>条中关于误工费、护理费、住院伙食补助费和营养费的约定违反了《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》第<span>20</span>条、第<span>21</span>条、第<span>23</span>条和第<span>24</span>条的规定。</p>
+<p align="left" style="line-height:18pt;text-indent:24pt;">《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》第<span>20</span>条规定：<span
+style="color:rgb(51, 51, 51);">误工费根据受害人的误工时间和收入状况确定。</span><span style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">误工时间根据受害人接受治疗的医疗机构出具的证明确定。受害人因伤致残持续误工的，误工时间可以计算至定残日前一天。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">受害人有固定收入的，误工费按照实际减少的收入计算。受害人无固定收入的，按照其最近三年的平均收入计算；受害人不能举证证明其最近三年的平均收入状况的，可以参照受诉法院所在地相同或者相近行业上一年度职工的平均工资计算。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p style="text-indent:15.75pt;">上诉人是固定收入，每月工资是<span>2200</span>元，每天的工资是<span>84.62</span>元，有上诉人的工资单为证。误工时间是<span>6</span>个月<span>10</span>天，有上诉人的伤残鉴定报告书为证。上诉人受伤住院后就没有收入，有上诉人的农行的工资转账单为证。</p>
+<p style="text-indent:15.75pt;">上诉人的误工费应该是：<span>2200</span>×<span>6=13200&nbsp;
+84.62</span>×<span>10=846.2&nbsp; 13200+846.2=14046.2</span></p>
+<p style="text-indent:15.75pt;">第二被上诉人赔偿的误工费是<span>10500</span>元。少赔偿了<span>14046.2</span>―<span>10500=3546.2</span>元。<span></span></p>
+<p style="text-indent:15.75pt;"><span>&nbsp;</span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;">《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》第<span>21</span>条规定：<span
+style="color:rgb(51, 51, 51);">护理费根据护理人员的收入状况和护理人数、护理期限确定。</span><span style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">护理人员有收入的，参照</span><span
+style="color:#333333;font-family:Arial;"><a href="http://xici800.cn/arubJ3"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">误工费</span></a></span><span
+style="color:rgb(51, 51, 51);">的规定计算；护理人员没有收入或者雇佣护工的，参照当地护工从事同等级别护理的劳务报酬标准计算。护理人员原则上为一人，但医疗机构或者鉴定机构有明确意见的，可以参照确定护理人员人数。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">护理期限应计算至受害人恢复</span><span
+style="color:#333333;font-family:Arial;"><a href="http://xici800.cn/Ys5oU"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">生活自理能力</span></a></span><span
+style="color:rgb(51, 51, 51);">时止。受害人因残疾不能恢复</span><span style="color:#333333;font-family:Arial;"><a
+href="http://xici800.cn/Ys5oU"  target="_blank" rel="external nofollow " target="_blank"><span style="color:#136EC2;font-family:宋体;">生活自理能力</span></a></span><span
+style="color:rgb(51, 51, 51);">的，可以根据其年龄、健康状况等因素确定合理的护理期限，但最长不超过二十年。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">受害人定残后的护理，应当根据其护理依赖程度并结合配制</span><span
+style="color:#333333;font-family:Arial;"><a href="http://xici800.cn/G9r4t3"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">残疾辅助器具</span></a></span><span
+style="color:rgb(51, 51, 51);">的情况确定护理级别。</span><span style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">护理费的标准：住院期间应该是每天</span><span
+style="color:#333333;font-family:Arial;">80</span><span style="color:rgb(51, 51, 51);">元，出院以后是每天</span><span
+style="color:#333333;font-family:Arial;">40</span><span style="color:rgb(51, 51, 51);">元。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">上诉人住院时间是</span><span
+style="color:#333333;font-family:Arial;">50</span><span style="color:rgb(51, 51, 51);">天，有出院小结为证。护理期限是</span><span
+style="color:#333333;font-family:Arial;">120</span><span style="color:rgb(51, 51, 51);">天，有伤残鉴定报告书为证。出院后需要护理的时间是</span><span
+style="color:#333333;font-family:Arial;">120</span><span style="color:rgb(51, 51, 51);">―</span><span
+style="color:#333333;font-family:Arial;">50=70</span><span style="color:rgb(51, 51, 51);">天。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">第二被上诉人应该赔偿的护理费应该是：</span><span
+style="color:#333333;font-family:Arial;">8</span><span style="color:rgb(51, 51, 51);">0</span><span
+style="color:rgb(51, 51, 51);">×<span>50=4000 40</span>×<span>70=2800&nbsp; 4000+2800=6800</span>元。<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">第二被上诉人赔偿的护理费是<span>4900</span>元，认定的护理期限是<span>110</span>天，有其理赔清单为证。少赔了<span>6800</span>―<span>4900=1900</span>元。<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">&nbsp;</span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;">《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》第<span>23</span>条规定：<span
+style="color:#333333;font-family:Arial;"><a href="http://xici800.cn/LVk8B"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">住院伙食补助费</span></a></span><span
+style="color:rgb(51, 51, 51);">可以参照当地国家机关一般工作人员的出差伙食补助标准予以确定。</span><span style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">受害人确有必要到外地治疗，因客观原因不能住院，受害人本人及其陪护人员实际发生的住宿费和伙食费，其合理部分应予赔偿。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<h1 style="line-height:12.0pt;margin:0cm;margin-bottom:.0001pt;"><span><span
+style="font-weight:normal;">《江苏省省级机关差旅费管理暂行办法》第</span></span><span><span style="font-family:Arial;font-weight:normal;">18</span></span><span><span
+style="font-weight:normal;">条规定，不分途中和住勤，伙食补助费每人每天补助标准为：省内</span></span><span><span
+style="font-family:Arial;font-weight:normal;">20</span></span><span><span style="font-weight:normal;">元、省外</span></span><span><span
+style="font-family:Arial;font-weight:normal;">40</span></span><span><span style="font-weight:normal;">元。</span></span><span><span
+style="font-family:Arial;font-weight:normal;"></span></span></h1>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">第二被上诉人赔偿住院期间的伙食补助费应该是：上诉人的伙食补助费：</span><span
+style="color:#333333;font-family:Arial;">2</span><span style="color:rgb(51, 51, 51);">0</span><span
+style="color:rgb(51, 51, 51);">×<span>50=1000</span>元，家属的伙食补助费：<span>20</span>×<span>22=440</span>元，合计：<span>1440</span>元。上诉人住院<span>50</span>天，护工护理了<span>28</span>天，有护理费收据为证，家属护理了<span>22</span>天。住院期间的订餐费是<span>820</span>元，有理赔清单为证。<span>1440-820=620</span>元。<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">第二被上诉人赔偿的住院期间的伙食补助费是<span>80</span>元，每天按<span>18</span>元的标准赔偿，该事实有赔偿清单为证，少赔了<span>620-80=540</span>元。<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">&nbsp;</span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;">《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》第<span>24</span>条规定：<span><span
+style="color:#333333;font-family:Arial;"><a href="http://xici800.cn/QuN314"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">营养费</span></a></span></span><span><span
+style="color:rgb(51, 51, 51);">根据受害人伤残情况参照医疗机构的意见确定。</span></span><span><span
+style="color:#333333;font-family:Arial;"></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span><span style="color:rgb(51, 51, 51);">上诉人的营养期限是</span></span><span><span
+style="color:#333333;font-family:Arial;">120</span></span><span><span style="color:rgb(51, 51, 51);">天，有伤残鉴定报告书为证。</span></span><span><span
+style="color:#333333;font-family:Arial;"></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span><span style="color:rgb(51, 51, 51);">营养费应该是</span></span><span><span
+style="color:#333333;font-family:Arial;">1</span></span><span><span style="color:rgb(51, 51, 51);">2</span></span><span><span
+style="color:rgb(51, 51, 51);">×<span>120=1440</span>元。<span></span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span><span style="color:rgb(51, 51, 51);">第二被上诉人认定的营养期限是<span>60</span>天，该事实有理赔清单为证。赔偿的营养费是<span>720</span>元，少赔了<span>1440-720=720</span>元。<span></span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span><span style="color:rgb(51, 51, 51);">&nbsp;</span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span><span style="color:rgb(51, 51, 51);">上述事实证明，协议书中第一条中：约定的赔偿上诉人的误工费<span>10500</span>元违反了</span></span>《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》第<span>20</span>条规定，少赔了<span>3546.2</span>元；约定的赔偿上诉人护理费<span>4900</span>元<span><span
+style="color:rgb(51, 51, 51);">违反了</span></span>《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》第<span>21</span>条规定，少赔了<span>1900</span>元；约定的赔偿上诉人住院伙食补助费<span>80</span>元违反了《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》第<span>23</span>条规定和<span>《江苏省省级机关差旅费管理暂行办法》第</span><span><span
+style="font-family:Arial;">18</span></span><span>条规定；约定的赔偿上诉人营养费</span><span><span
+style="font-family:Arial;">720</span></span><span>元违反了</span>《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》第<span>24</span>条规定，少赔了<span>720</span>元。<span
+style="color:#333333;font-family:Arial;"></span></p>
+<p style="text-indent:15.75pt;">《民法通则》第<span>3</span>条规定：<span>当事人在民事活动中的地位平等。第</span><span><span>4</span></span><span>条规定：民事活动应当遵循自愿、公平、等价有偿、诚实信用的原则。第</span><span><span>6</span></span><span>条规定：民事活动必须遵守法律，法律没有规定的，应当遵守国家政策。</span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">被上诉人与上诉人在协议书第</span><span
+style="color:#333333;font-family:Arial;">1</span><span style="color:rgb(51, 51, 51);">条中约定的有关误工费、护理费、住院伙食补助费和营养费的内容，使上诉人少获得误工费赔偿</span><span
+style="color:#333333;font-family:Arial;">3546</span><span style="color:rgb(51, 51, 51);">元、护理费赔偿</span><span
+style="color:#333333;font-family:Arial;">1900</span><span style="color:rgb(51, 51, 51);">元、住院伙食费赔偿</span><span
+style="color:#333333;font-family:Arial;">540</span><span style="color:rgb(51, 51, 51);">元、营养费赔偿</span><span
+style="color:#333333;font-family:Arial;">720</span><span style="color:rgb(51, 51, 51);">元，合计</span><span
+style="color:#333333;font-family:Arial;">6706</span><span style="color:rgb(51, 51, 51);">元，使其获得不正当利益</span><span
+style="color:#333333;font-family:Arial;">6706</span><span style="color:rgb(51, 51, 51);">元。上述约定严重损害上诉人的合法利益，明显违反了《民法通则》第</span><span
+style="color:#333333;font-family:Arial;">4</span><span style="color:rgb(51, 51, 51);">条规定的公平合理的原则。在平等自愿的条件下，上诉人是不会签字作出该意思表示的。上述事实证明这些内容不是上诉人的真实意思表示。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">《民法通则》第</span><span
+style="color:#333333;font-family:Arial;">54</span><span style="color:rgb(51, 51, 51);">条规定：</span><span>民事法律行为是公民或者法人设立、变更、终止民事权利和民事义务的合法行为。</span><span><span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>第<span>55</span>条规定：</span><span>民事法律行为应当具备下列条件：<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　（一）行为人具有相应的民事行为能力；<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　（二）意思表示真实；<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　（三）不违反法律或者社会公共利益。<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">被上诉人与上诉人在协议书第</span><span
+style="color:#333333;font-family:Arial;">1</span><span style="color:rgb(51, 51, 51);">条中约定的误工费、护理费、住院伙食补助费和营养费的内容明显损害上诉人的合法利益，违反了《民法通则》第</span><span
+style="color:#333333;font-family:Arial;">4</span><span style="color:rgb(51, 51, 51);">条规定的公平合理原则，不是在平等、自愿的条件下做出的约定，违反了《民法通则》第</span><span
+style="color:#333333;font-family:Arial;">3</span><span style="color:rgb(51, 51, 51);">条中地位平等的规定和《民法通则》第</span><span
+style="color:#333333;font-family:Arial;">4</span><span style="color:rgb(51, 51, 51);">条规定的自愿原则，不是上诉人的真实意思表示。被上诉人和上诉人的行为，违反了《民法通则》</span><span>第</span><span><span>55</span></span><span>条第</span><span><span>2</span></span><span>款、第</span><span><span>3</span></span><span>款的规定，不是民事法律行为。</span><span><span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span
+style="color:#333333;">《民法通则》</span><span>第<span>59</span>条规定：</span><span>下列民事行为，一方有权请求人民法院或者仲裁机关予以变更或者撤销：<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　（一）行为人对行为内容有重大误解的；<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　（二）显失公平的。<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　被撤销的民事行为从行为开始起无效。<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;text-indent:21.0pt;"><span>第<span>61</span>条规定：　民事行为被确认为无效或者被撤销后，当事人因该行为取得的财产，应当返还给受损失的一方。有过错的一方应当赔偿对方因此所受的损失，双方都有过错的，应当各自承担相应的责任。<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　双方恶意串通，实施民事行为损害国家的、集体的或者第三人的利益的，应当追缴双方取得的财产，收归国家、集体所有或者返还第三人。<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">依据上述事实和《民法通则》第</span><span
+style="color:#333333;font-family:Arial;">59</span><span style="color:rgb(51, 51, 51);">条、</span><span
+style="color:#333333;font-family:Arial;">61</span><span style="color:rgb(51, 51, 51);">条的规定，上诉人要求贵院撤销被上诉人与上诉人的上述约定，要求被上诉人赔偿上诉人少获得的赔偿，返还其不当得利的理由是成立的。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">上诉人共支付了交通费是</span><span
+style="color:#333333;font-family:Arial;">601</span><span style="color:rgb(51, 51, 51);">元，明细如下：</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:#333333;font-family:Arial;">1</span><span
+style="color:rgb(51, 51, 51);">、</span><span style="color:#333333;font-family:Arial;">2013</span><span
+style="color:rgb(51, 51, 51);">年</span><span style="color:#333333;font-family:Arial;">1</span><span
+style="color:rgb(51, 51, 51);">月</span><span style="color:#333333;font-family:Arial;">2</span><span
+style="color:rgb(51, 51, 51);">日</span><span style="color:rgb(51, 51, 51);">晚，家属李文利去交警二大队与上诉人、第一被上诉人一同处理交通事故，</span><span
+style="color:#333333;font-family:Arial;">11</span><span style="color:rgb(51, 51, 51);">元。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:#333333;font-family:Arial;">2</span><span
+style="color:rgb(51, 51, 51);">、上诉人住院</span><span style="color:#333333;font-family:Arial;">50</span><span
+style="color:rgb(51, 51, 51);">天，家人探视送食品、营养品。</span><span style="color:#333333;font-family:Arial;">200</span><span
+style="color:rgb(51, 51, 51);">元。（每天</span><span style="color:#333333;font-family:Arial;">4</span><span
+style="color:rgb(51, 51, 51);">元。</span><span style="color:rgb(51, 51, 51);">4</span><span
+style="color:rgb(51, 51, 51);">×<span>50=200</span>）<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">3</span><span
+style="color:rgb(51, 51, 51);">、上诉人去医院复查，<span>44</span>元。<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">4</span><span
+style="color:rgb(51, 51, 51);">、上诉人到医院做康复治疗，<span>160</span>元。<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">5</span><span
+style="color:rgb(51, 51, 51);">、上诉人与第一被上诉人去交警二大队调解，<span>22</span>元。<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">6</span><span
+style="color:rgb(51, 51, 51);">、上诉人去做伤残鉴定，<span>4</span>元。<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">7</span><span
+style="color:rgb(51, 51, 51);">、上诉人去拿鉴定结论，<span>4</span>元。<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">8</span><span
+style="color:rgb(51, 51, 51);">、上诉人与第一被上诉人去第二被上诉人处申请理赔，去了<span>3</span>次，<span>84</span>元。<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">9</span><span
+style="color:rgb(51, 51, 51);">、上诉人去保监局投诉第二被上诉人，<span>28</span>元。<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">共计：<span>601</span>元。<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">第二被上诉人认定赔偿了第<span>3</span>项、第<span>4</span>项，合计<span>204</span>元。<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;text-indent:21.0pt;"><span
+style="color:#333333;">《民法通则》第</span><span style="color:#333333;font-family:Arial;">106</span><span
+style="color:#333333;">条规定</span><span style="color:#333333;">：</span><span>公民、法人违反合同或者不履行其他义务的，应当承担民事责任。<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　公民、法人由于过错侵害国家的、集体的财产，侵害他人财产、人身的，应当承担民事责任。<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　没有过错，但法律规定应当承担民事责任的，应当承担民事责任。<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">第</span><span
+style="color:#333333;font-family:Arial;">119</span><span style="color:rgb(51, 51, 51);">条规定：</span><span>侵害公民身体造成伤害的，应当赔偿医疗费、因误工减少的收入、残废者生活补助费等费用；造成死亡的，并应当支付丧葬费、死者生前扶养的人必要的生活费等费用。</span><span><span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span>第</span><span><span>134</span></span><span>条第</span><span><span>7</span></span><span>款规定：承担民事责任的方式主要有：（七）赔偿损失；</span><span><span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span>上诉人认为，即使第二被上诉人依据保险合同和法律规定，认定赔偿上诉人</span><span><span>204</span></span><span>元交通费，拒赔其他交通费的理由成立，其他的交通费也应该由第一被上诉人赔偿。</span><span><span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span>被上诉人与上诉人在协议书第</span><span><span>1</span></span><span>条中约定：赔偿上诉人交通费</span><span><span>204</span></span><span>元，在协议书第</span><span><span>5</span></span><span>条约定：本案一次性结案，所有赔偿项目一次性处理结束，三方再无其他争议，免除了第二被告的赔偿责任，侵害了上诉人的合法权益。该约定违反了《民法通则》第</span><span><span>4</span></span><span>条规定的公平合理的原则，不是上诉人的真实意思表示。</span><span><span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span>协议书第</span><span><span>3</span></span><span>条约定：本案第一被上诉人一次性赔偿上诉人鉴定费</span><span><span>1560</span></span><span>元，因前期第一被上诉人已支付上诉人</span><span><span>2000</span></span><span>元现金，故上诉人应实际返还第一被上诉人</span><span><span>440</span></span><span>元。</span><span><span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span>要求上诉人返还第一被上诉人</span><span><span>2000</span></span><span>元，完全是一个无理要求。</span><span><span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span>第一被上诉人给上诉人的</span><span><span>2000</span></span><span>元是什么钱？上诉人为什么要返还给第一被上诉人？</span><span><span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span>第一被上诉人给上诉人的</span><span><span>2000</span></span><span>元是支付给护工的护理费，该事实有上诉人出具给第一被上诉人的收据和护工出具给上诉人的收据为证。护工出具的收据证明，护工护理的天数是</span><span><span>28</span></span><span>天，每天的护理费是</span><span><span>90</span></span><span>元，</span><span><span>28</span></span><span>天的护理费是</span><span><span>2520</span></span><span>元。上诉人给第一被上诉人的收条证明，上诉人收到其支付的护理费</span><span><span>2000</span></span><span>元，该证据第一被上诉人提交给了第二被上诉人。上诉人已经将</span><span><span>2000</span></span><span>元支付给了护工并垫付了</span><span><span>520</span></span><span>元，为什么要返还给第一被上诉人？</span><span><span></span></span></p>
+<p><span>上诉人与第一被上诉人之间是侵害人身权的法律关系，第一上诉人有向上诉人依法赔偿的责任和义务，第一被上诉人与第二被上诉人之间是保险合同的法律关系，第二被告依法或者依据保险合同的约定，有替第一被上诉人向上诉人赔偿的责任和义务。第一被上诉人已经支付了的护理费，第二被上诉人应该直接向第一被上诉人赔偿，不应该再向上诉人赔偿。被上诉人在协议书中与上诉人约定，上诉人返还护理费给第一被上诉人，再由第二被上诉人赔偿护理给上诉人，而且是上诉人返还的多，被上诉人赔偿的少，显然是不合理的。</span><span><span>2000</span></span><span>元是护工</span><span><span>20</span></span><span>天的护理费，第二被上诉人赔偿的是</span><span><span>50</span></span><span>元一天，</span><span><span>20</span></span><span>天是</span><span><span>1000</span></span><span>元，该事实有护理费收据和理赔清单为证。</span><span><span></span></span></p>
+<p style="text-indent:21.75pt;"><span>该约定损害上诉人的合法权益，违反了《民法通则》第</span><span><span>4</span></span><span>条规定的公平合理的原则，不是上诉人的真实意思表示。</span><span><span></span></span></p>
+<p style="text-indent:21.75pt;"><span>协议书第</span><span><span>5</span></span><span>条约定：本案一次性结案，上诉人就此次事故所造成的所有赔偿项目一次性处理结束，上诉人、第一被上诉人、第二被上诉人三方再无其他争议。</span><span><span></span></span></p>
+<p style="text-indent:21.75pt;"><span>这是一条免责条款，免除了第一被上诉人应该赔偿上诉人交通费的责任和义务，也免除了第二被上诉人赔偿上诉人后期康复治疗等费用的责任和义务，损害上诉人的合法权益，违反了《民法通则》第</span><span><span>4</span></span><span>条规定的公平合理原则，不是上诉人的真实意思表示。</span><span><span></span></span></p>
+<p style="text-indent:21.75pt;"><span>作出一个意思表示，应该有明确的目的，一条内容如果对自己没有意义或者有损害，在平等自愿的条件下，是不可能作出该意思表示的。</span><span><span></span></span></p>
+<p style="text-indent:21.75pt;"><span>作出这条内容的约定，被上诉人的目的是什么？上诉人的目的是什么？</span><span><span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;">《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》第<span>17</span>条规定：<span
+style="color:rgb(51, 51, 51);">受害人遭受人身损害，因就医治疗支出的各项费用以及因误工减少的收入，包括医疗费、</span><span
+style="color:#333333;font-family:Arial;"><a href="http://xici800.cn/arubJ3"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">误工费</span></a></span><span
+style="color:rgb(51, 51, 51);">、</span><span style="color:#333333;font-family:Arial;"><a
+href="http://xici800.cn/1M5IW4"  target="_blank" rel="external nofollow " target="_blank"><span style="color:#136EC2;font-family:宋体;">护理费</span></a></span><span
+style="color:rgb(51, 51, 51);">、</span><span style="color:#333333;font-family:Arial;"><a
+href="http://xici800.cn/b8pqi"  target="_blank" rel="external nofollow " target="_blank"><span style="color:#136EC2;font-family:宋体;">交通费</span></a></span><span
+style="color:rgb(51, 51, 51);">、住宿费、</span><span style="color:#333333;font-family:Arial;"><a
+href="http://xici800.cn/LVk8B"  target="_blank" rel="external nofollow " target="_blank"><span style="color:#136EC2;font-family:宋体;">住院伙食补助费</span></a></span><span
+style="color:rgb(51, 51, 51);">、必要的</span><span style="color:#333333;font-family:Arial;"><a
+href="http://xici800.cn/QuN314"  target="_blank" rel="external nofollow " target="_blank"><span style="color:#136EC2;font-family:宋体;">营养费</span></a></span><span
+style="color:rgb(51, 51, 51);">，赔偿义务人应当予以赔偿。</span><span style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">受害人因伤致残的，其因增加生活上需要所支出的必要费用以及因</span><span
+style="color:#333333;font-family:Arial;"><a href="http://xici800.cn/JBJ0B4"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">丧失劳动能力</span></a></span><span
+style="color:rgb(51, 51, 51);">导致的收入损失，包括</span><span style="color:#333333;font-family:Arial;"><a
+href="http://xici800.cn/uWH8F"  target="_blank" rel="external nofollow " target="_blank"><span style="color:#136EC2;font-family:宋体;">残疾赔偿金</span></a></span><span
+style="color:rgb(51, 51, 51);">、</span><span style="color:#333333;font-family:Arial;"><a
+href="http://xici800.cn/ey4pN1"  target="_blank" rel="external nofollow " target="_blank"><span style="color:#136EC2;font-family:宋体;"><span>残疾辅<span>助器具费</span></span></span></a></span><span
+style="color:rgb(51, 51, 51);">、</span><span style="color:#333333;font-family:Arial;"><a
+href="http://xici800.cn/9shuo"  target="_blank" rel="external nofollow " target="_blank"><span style="color:#136EC2;font-family:宋体;">被扶养人生活费</span></a></span><span
+style="color:rgb(51, 51, 51);">，以及因康复护理、继续治疗实际发生的必要的康复费、护理费、</span><span style="color:#333333;font-family:Arial;"><a
+href="http://xici800.cn/IsCIO4"  target="_blank" rel="external nofollow " target="_blank"><span style="color:#136EC2;font-family:宋体;">后续治疗费</span></a></span><span
+style="color:rgb(51, 51, 51);">，赔偿义务人也应当予以赔偿。</span><span style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">受害人死亡的，赔偿义务人除应当根据抢救治疗情况赔偿本条第一款规定的相关费用外，还应当赔偿</span><span
+style="color:#333333;font-family:Arial;"><a href="http://xici800.cn/bYX783"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">丧葬费</span></a></span><span
+style="color:rgb(51, 51, 51);">、被扶养人生活费、死亡补偿费以及受害人亲属办理丧葬事宜支出的交通费、住宿费和误工损失等其他合理费用。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span style="color:rgb(51, 51, 51);">第</span><span
+style="color:#333333;font-family:Arial;">19</span><span style="color:rgb(51, 51, 51);">条规定：医疗费根据医疗机构出具的医药费、住院费等收款凭证，结合病历和诊断证明等相关证据确定。赔偿义务人对治疗的必要性和合理性有异议的，应当承担相应的举证责任。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">医疗费的赔偿数额，按照一审法庭辩论终结前实际发生的数额确定。器官功能恢复训练所必要的康复费、适当的整容费以及其他</span><span
+style="color:#333333;font-family:Arial;"><a href="http://xici800.cn/IsCIO4"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">后续治疗费</span></a></span><span
+style="color:rgb(51, 51, 51);">，赔偿权利人可以待实际发生后另行起诉。但根据医疗证明或者鉴定结论确定必然发生的费用，可以与已经发生的医疗费一并予以赔偿。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">被上诉人和上诉人都明确知道上诉人仍然需要做康复治疗，有上诉人的病历、出院小结为证；被上诉人有赔偿上诉人后续康复费的责任和义务，后续的康复费现在也不能确定，现在不可能一次性结案，作出这一约定，就免除了被上诉人的赔偿责任和义务，使上诉人失去获得赔偿的权利。被上诉人的目的是免除自己的赔偿责任和义务，难道上诉人的目的是使自己失去获得赔偿的权利？在平等自愿的条件下，上诉人会做出该意思表示？</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">协议书第</span><span
+style="color:#333333;font-family:Arial;">3</span><span style="color:rgb(51, 51, 51);">条、第</span><span
+style="color:#333333;font-family:Arial;">5</span><span style="color:rgb(51, 51, 51);">条的约定，都违反了《民法通则》第</span><span
+style="color:#333333;font-family:Arial;">4</span><span style="color:rgb(51, 51, 51);">条规定的公平原则，严重损害了上诉人的合法权益，不是上诉人的真实意思表示。依据《民法通则》第</span><span
+style="color:#333333;font-family:Arial;">59</span><span style="color:rgb(51, 51, 51);">条的规定，上诉人申请撤销该民事行为的理由是成立的。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;text-indent:15.75pt;"><span
+style="color:#333333;">《民法通则》第</span><span style="color:#333333;font-family:Arial;">58</span><span
+style="color:#333333;">条规定：</span><span>下列民事行为无效：<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　（一）无民事行为能力人实施的；<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　（二）限制民事行为能力人依法不能独立实施的；<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　（三）一方以欺诈、胁迫的手段或者乘人之危，使对方在违背真实意思的情况下所为的；<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　（四）恶意串通，损害国家、集体或者第三人利益的；<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　（五）违反法律或者社会公共利益的；<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　（六）经济合同违反国家指令性计划的；<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　（七）以合法形式掩盖非法目的的。<span></span></span></p>
+<p style="line-height:17.25pt;margin-bottom:7.5pt;margin-left:0cm;margin-right:0cm;margin-top:7.5pt;"><span>　　无效的民事行为，从行为开始起就没有法律约束力。<span></span></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">协议书的第</span><span
+style="color:#333333;font-family:Arial;">1</span><span style="color:rgb(51, 51, 51);">条、第</span><span
+style="color:#333333;font-family:Arial;">3</span><span style="color:rgb(51, 51, 51);">条、第</span><span
+style="color:#333333;font-family:Arial;">5</span><span style="color:rgb(51, 51, 51);">条的内容都违反了《民法通则》第</span><span
+style="color:#333333;font-family:Arial;">4</span><span style="color:rgb(51, 51, 51);">条规定的公平原则，依据《民法通则》第</span><span
+style="color:#333333;font-family:Arial;">58</span><span style="color:rgb(51, 51, 51);">条第</span><span
+style="color:#333333;font-family:Arial;">5</span><span style="color:rgb(51, 51, 51);">款的规定，被上诉人与上诉人约定的第</span><span
+style="color:#333333;font-family:Arial;">1</span><span style="color:rgb(51, 51, 51);">条、第</span><span
+style="color:#333333;font-family:Arial;">3</span><span style="color:rgb(51, 51, 51);">条和第</span><span
+style="color:#333333;font-family:Arial;">5</span><span style="color:rgb(51, 51, 51);">条的行为，可以确认为无效民事行为。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">被上诉人在签订协议书的过程中，采取了胁迫的手段。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">协议书的内容是第二被上诉人提出的要约，行为的内容，明显违反公平合理的原则，严重损害上诉人合法权益，在平等自愿的条件下，上诉人不会接受，第二被上诉人明知道上诉人不会接受，任然实施了该行为，该事实证明第二被上诉人主观上有实施侵害的故意，有把自己意志强加给上诉人的故意。行为的结果，严重损害了上诉人的合法权益，第二被上诉人获得了不正当的利益，该事实证明，第二被上诉人实施了侵害行为，上诉人的行为不是在平等自愿的条件下作出的。上诉人从受伤住院，就没有收入，生活不能自理，出院后，因生活不能自理，要解决护理的问题，第一被上诉人没有及时支付护理费，给上诉人的生活带来很大的困难，复查、康复治疗、做伤残鉴定，上诉人自己支付了</span><span
+style="color:#333333;font-family:Arial;">6000</span><span style="color:rgb(51, 51, 51);">多元的费用，这些事实有协议书、病历等证据为证。上诉人已无力支付后期的康复治疗费，第二被上诉人的赔偿款</span><span
+style="color:#333333;font-family:Arial;">2013</span><span style="color:rgb(51, 51, 51);">年</span><span
+style="color:#333333;font-family:Arial;">9</span><span style="color:rgb(51, 51, 51);">月</span><span
+style="color:#333333;font-family:Arial;">2</span><span style="color:rgb(51, 51, 51);">号到账，上诉人</span><span
+style="color:#333333;font-family:Arial;">9</span><span style="color:rgb(51, 51, 51);">月</span><span
+style="color:#333333;font-family:Arial;">3</span><span style="color:rgb(51, 51, 51);">号才交了</span><span
+style="color:#333333;font-family:Arial;">2000</span><span style="color:rgb(51, 51, 51);">元康复治疗费给医院，继续治疗，这些事实有医院的病历、缴费收据和农行的转账、取款记录为证。上述事实证明，上诉人的危难处境，急于获得赔偿，解决困难，有被迫违背真实意思作出不真实意思表示的条件。上述事实相互印证，足以证明第二被上诉人采取了胁迫的手段。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">一审法院没有查明上述事实，认定协议书是依法成立的合同是错误的。</span><span
+style="color:#333333;font-family:Arial;"></span></p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span style="color:rgb(51, 51, 51);">上诉人认为，本案是侵害人身权的民事案件，应该适用《民法通则》和</span>《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》的相关法律规定，以及《合同法》第<span>3</span>条、第<span>5</span>条、第<span>7</span>条、第<span>52</span>条、第<span>53</span>条、第<span>54</span>条的规定，不应该适用《合同法》第<span>8</span>条的规定。</p>
+<p align="left" style="line-height:18pt;text-indent:24pt;">综上所述，上诉人认为一审法院有认定事实不全面，适用法律不当的错误。根据《中华人民共和国民事诉讼法》第<span>164</span>条的规定，上诉人依法提起上诉，请求南京市中级人民法院依法撤销一审判决，支持上诉人的上诉请求。</p>
+<p align="left" style="line-height:18pt;text-indent:24pt;"><span>&nbsp;</span></p>
+<p style="text-indent:15.75pt;">此致</p>
+<p><span>&nbsp;</span></p>
+<p>南京市中级人民法院</p>
+<p style="margin-left:220.5pt;">上诉人 陈长顺</p>
+<p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2013<span><span>年</span></span>12<span><span>月</span></span>11<span><span>日</span></span></span></p>
+<p style="text-indent:21.75pt;"><span style="color:#333333;font-family:Arial;">&nbsp;</span></p><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center">
+<table border="0" cellpadding="0" cellspacing="0"><tr><td class="doc_sign">听说寻觅爱情就像天与地别离和重聚的过程<br>
+就让我们相逢只是偶然.<br>
+等待你的到来<br>
+我在版里沏好茶欢迎你！<br>
+<br>
+</td></tr></table>
+</td></tr>
+<tr><td class="doc_sign" align="center"><a href="http://u17197388.xici.net" target="_blank">我的家园欢迎您！</a></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d201619904.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_5></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-04-17 07:58</span></p></dd></dl><dl class="dl"><dt><a href="/d201616628.htm" target="_blank">南京市秦淮区法院判决书</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p style="text-indent:56.0pt;"><span style="font-size:16pt;">南</span><span
+style="font-size:16.0pt;">&nbsp; </span><span style="font-size:16pt;">京</span><span
+style="font-size:16.0pt;">&nbsp; </span><span style="font-size:16pt;">市</span><span
+style="font-size:16.0pt;">&nbsp; </span><span style="font-size:16pt;">秦</span><span
+style="font-size:16.0pt;">&nbsp; </span><span style="font-size:16pt;">淮</span><span
+style="font-size:16.0pt;">&nbsp; </span><span style="font-size:16pt;">区</span><span
+style="font-size:16.0pt;">&nbsp; </span><span style="font-size:16pt;">人</span><span
+style="font-size:16.0pt;">&nbsp; </span><span style="font-size:16pt;">民</span><span
+style="font-size:16.0pt;">&nbsp; </span><span style="font-size:16pt;">法</span><span
+style="font-size:16.0pt;">&nbsp; </span><span style="font-size:16pt;">院</span><span
+style="font-size:16.0pt;"></span></p>
+<p style="text-indent:56.0pt;"><span style="font-size:16.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><b><span style="font-size:16pt;">民</span></b><b><span style="font-size:16.0pt;">&nbsp;
+</span></b><b><span style="font-size:16pt;">事</span></b><b><span style="font-size:16.0pt;">&nbsp;
+</span></b><b><span style="font-size:16pt;">判</span></b><b><span style="font-size:16.0pt;">&nbsp;
+</span></b><b><span style="font-size:16pt;">决</span></b><b><span style="font-size:16.0pt;">&nbsp;
+</span></b><b><span style="font-size:16pt;">书</span></b><b><span style="font-size:16.0pt;"></span></b></p>
+<p style="text-indent:36.9pt;"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></b><b>（</b><b><span>2013</span></b><b>）秦民初字第</b><b><span>4308</span></b><b>号</b><b><span></span></b></p>
+<p style="text-indent:36.9pt;"><b><span>&nbsp;</span></b></p>
+<p><b><span style="font-size:16.0pt;">&nbsp;&nbsp; </span></b>原告陈长顺，男，<span>1963</span>年<span>1</span>月<span>13</span>日生，居民身份证号码<span>320103196301132012</span>，汉族，无业，住本市秦淮区天坛村<span>14</span>幢<span>703</span>室。<span></span></p>
+<p><span>&nbsp;</span></p>
+<p style="text-indent:21.75pt;">被告柳方鑫，男，<span>1984</span>年<span>3</span>月<span>8</span>日生，居民身份证号码<span>332529198403087011</span>，汉族，无业，户籍所在地浙江省丽水市莲都区祝村大坑<span>6</span>号，现住本市江宁区风仪路<span>2</span>号<span>14</span>幢<span>301</span>室。<span></span></p>
+<p style="text-indent:21.75pt;">被告中国人民财产保险股份有限公司南京分公司，住所地本市玄武区龙蟠中路<span>37</span>、<span>69</span>号。<span></span></p>
+<p style="text-indent:21.75pt;">负责人娄伟民，公司总经理。<span></span></p>
+<p style="text-indent:21.75pt;">委托代理人陶靖，江苏高的律师事务所律师。<span></span></p>
+<p style="text-indent:21.75pt;"><span>&nbsp;</span></p>
+<p style="text-indent:21.75pt;"><span>&nbsp; </span>原告陈长顺与被告柳方鑫、中国人民财产保险股份有限公司南京分公司（以下简称人保财险南京分公司）机动车交通事故责任纠纷一案，原告陈长顺于<span>2013</span>年<span>9</span>月<span>27</span>日起诉，本院于<span>2013</span>年<span>10</span>月<span>8</span>日立案受理。依法由代理审判员陈君君适用简易程序于<span>2013</span>年<span>11</span>月<span>28</span>日公开开庭进行了审理。原告陈长顺、被告柳方鑫、人保财险南京分公司的委托代理人陶靖到庭参加诉讼。本案现已审理终结。<span></span></p>
+<p style="text-indent:21.75pt;"><span>&nbsp;</span>原告陈长顺诉称，<span>2013</span>年<span>1</span>月<span>2</span>日下午，被告柳方鑫驾驶牌号为苏<span>A9TA60</span>的机动车沿象房村路由西向北左转，上解放南路过程中遇陈长顺在路口由西向东通过路口时发生事故，导致原告陈长顺受伤。南京市公安局交通管理局二大队（以下简称交警二大队）出具道路交通事故认定书，认定柳方鑫负事故全责。此后，原告与被告柳方鑫、人保财险南京分公司虽然于<span>2013</span>年<span>8</span>月<span>27</span>日达成赔偿协议，并已赔付完毕，但原告认为该协议书的内容有失公平，故诉至法院。现请求判决：<span>1</span>、确认原告与柳方鑫、人保财险南京分公司于<span>2013</span>年<span>8</span>月<span>27</span>日签订的协议书中关于“（<span>1</span>）营养费、住院伙食补助费、误工费、护理费、交通费的赔偿金额；（<span>3</span>）陈长顺应实际返还柳方鑫<span>440</span>元；（<span>5</span>）本案一次性结案。乙方（陈长顺）就此次事故所造成的所有赔偿项目一次性处理结束，甲（柳方鑫）、乙（陈长顺）、丙（人保财险南京分公司三方再无其他争议”的约定内容无效；<span>2</span>、被告人保财险南京分公司赔偿原告损失<span>8355</span>元（误工费<span>3546</span>元<span>+</span>交通费<span>297</span>元<span>+</span>住院伙食补助费<span>540</span>元<span>+</span>营养费<span>1360</span>元<span>+</span>护理费<span>2612</span>元）；<span>3</span>、被告人保财险南京分公司赔偿原告签订协议后发生的医疗费<span>2004.5</span>元、交通费<span>104</span>元、误工费<span>2064</span>元。<span></span></p>
+<p style="text-indent:21.75pt;"><span>&nbsp;</span>被告柳方鑫辩称，柳方鑫系肇事车车主，对事故发生及道路交通事故认定书不持异议。但因原告陈长顺与被告柳方鑫、人保财险南京分公司已经就赔偿项目及金额达成协议，并已赔付完毕，故原告诉至法院后请求确认协议无效及再支付赔偿，没有依据。请求判决驳回原告的诉讼请求。<span></span></p>
+<p style="text-indent:21.75pt;">被告人保财险南京分公司辩称，原、被告在自愿的基础上已经就赔偿项目及金额达成协议，各项赔偿均已支付完毕。原告没有确认该协议无效或可撤销的理由。因此，请求法院判决驳回原告的诉讼请求。<span></span></p>
+<p style="text-indent:21.75pt;">经审理查明，<span>2013</span>年<span>1</span>月<span>2</span>日<span>18</span>时许，被告柳方鑫驾驶牌号为苏<span>A9TA60</span>的轿车行驶至本市象房村路由西向北左转，上解放南路过程中，遇行人陈长顺在路口北由西向东通过路口时发生事故，致陈长顺受伤。交警二大队出具编号为<span>320103130000848</span>的道路交通事故认定书，认定柳方鑫应负事故全责。事故发生当日，原告入住中国人民解放军第四五四医院治疗，入院诊断为：<span>1</span>、左肱骨外科颈骨折，<span>2</span>、右桡骨远端骨折，<span>3</span>、右尺骨茎突骨折。<span>2013</span>年<span>7</span>月<span>12</span>日，南京医科大学司法鉴定所鉴定：<span>1</span>、陈长顺左上肢功能丧失<span>10</span><span>%</span>以上构成十级伤残；右上肢功能丧失<span>10</span><span>%</span>以上构成十级伤残；<span>2</span>、陈长顺误工期限自受伤之日起至定残日前一天止，伤后<span>120</span>日需他人护理并适当补充营养。<span></span></p>
+<p style="text-indent:21.75pt;">另查明，苏苏<span>A9TA60</span>轿车车主系被告柳方鑫，该车在被告人保财险南京分公司投保了交强险。<span>2013</span>年<span>8</span>月<span>27</span>日，原告陈长顺与被告柳方鑫、人保财险南京分公司就<span>2013</span>年<span>1</span>月<span>2</span>日柳方鑫与陈长顺发生的机动车交通事故纠纷的赔偿项目及金额达成协议，内容为：（<span>1</span>）本案丙方（人保财险南京市分公司）一次性向乙方（陈长顺）支付赔款人民币医药费<span>4943</span>元、营养费<span>720</span>元、住院伙食补助费<span>80</span>元、残疾赔偿金<span>65289.4</span>元、交通费<span>204</span>元，合计<span>91636.4</span>元；（<span>2</span>）本案丙方一次性返还甲方（柳方鑫）垫付款人民币医药费<span>2980.5</span>元（经医保审核）；（<span>3</span>）本案甲方一次性赔偿乙方鉴定费<span>1560</span>元。因前期甲方已支付乙方<span>2000</span>元现金，故乙方应实际返还甲方<span>440</span>元；（<span>4</span>）综上，丙方赔偿乙方人民币<span>91196.4</span>元，返还甲方人民币<span>3420.5</span>元；（<span>5</span>）本案一次性结案。乙方就此次事故所造成的所有赔偿项目一次性处理结束，甲、乙、丙三方再无其他争议；（<span>6</span>）本协议一式四份，甲、乙方各一份，丙方二份，甲、乙、丙三方签字、盖章后生效。陈长顺、柳方鑫在该协议书上签字并捺手印，人保财险南京市分公司在该协议书上盖章确认。<span></span></p>
+<p style="text-indent:21.75pt;">审理过程中，陈长顺、柳方鑫、人保财险南京市分公司均确认上述协议书约定的赔偿金额已经支付完毕。<span></span></p>
+<p style="text-indent:21.75pt;">本院认为，依法成立的合同，受法律保护，对当事人具有法律约束力。当事人应当按照约定履行自己的义务，不得擅自变更或者解除合同。有下列情形之一的，合同无效：（一）一方以欺诈、胁迫的手段订立合同，损害国家利益；（二）恶意串通，损害国家、集体或者第三人利益；（三）以合法形式掩盖非法目的的；（四）损害社会公共利益的；（五）违反法律、行政法规的强制性规定。本案中，原告陈长顺主张协议约定的赔付金额有失公平，然而，本院认为，南京医科大学司法鉴定所对陈长顺的伤残等级及误工、营养、护理期限作出鉴定结论之后，陈长顺对自己可获得的赔偿项目及金额应当已经知晓。在此情况下，陈长顺与柳方鑫、人保财险南京市分公司在自愿的基础上就赔偿项目及金额达成的协议，受法律保护，对签署协议各方均具有法律约束力。该协议涉及赔偿金额已经赔付完毕后，陈长顺主张涉诉协议系在胁迫的情况下签署，协议中部分条款无效，但陈长顺并未提供受到胁迫的有关证据，故本院对于陈长顺因受胁迫签署协议的陈述不予采信。因此，陈长顺提出确认协议部分条款无效的请求，本院不予支持。<span></span></p>
+<p style="text-indent:21.75pt;">由于陈长顺、柳方鑫、人保财险南京市分公司在<span>2013</span>年<span>8</span>月<span>27</span>日的协议（<span>5</span>）中约定“本案一次性结案。乙方（陈长顺）就此次事故所造成的所有赔偿项目一次性处理结束，甲（柳方鑫）、乙（陈长顺）、丙（人保财险南京市分公司）三方再无其他争议
+”，结合协议涉及款项已经全部赔付的事实，本院认为，陈长顺在涉诉机动车交通事故中所受损失的获赔事宜已全部处理完毕。原告陈长顺再次要求被告赔偿其误工费、交通费、住院伙食补助费、营养费、护理费、医疗费方面的损失，没有事实及法律依据，本院不予支持。综上，依照《中华人民共和国合同法》第八条、第五十二条《中华人民共和国民事诉讼法》第一百四十二的规定，判决如下：<span></span></p>
+<p style="text-indent:21.75pt;">驳回陈长顺的诉讼请求。<span></span></p>
+<p style="text-indent:21.75pt;">案件受理费<span>400</span>元，减半收取<span>200</span>元，由陈长顺负担。<span></span></p>
+<p style="text-indent:21.75pt;">如不服本判决，可在判决书送达之日起十五日内，向本院递交上诉状，并按对方当事人的人数提出副本，上诉于江苏省南京市中级人民法院，同时根据《诉讼费用缴纳办法》的有关规定，向该院预交上诉案件受理费（江苏省南京市中级人民法院开户行：农行南京市鼓楼支行，帐号：<span>10105901040001276</span>）。<span></span></p>
+<p style="text-indent:21.75pt;"><span>&nbsp;</span></p>
+<p style="text-indent:21.75pt;"><span>&nbsp;</span></p>
+<p style="text-indent:21.75pt;"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>代理审判员<span>&nbsp;&nbsp;&nbsp;
+</span>陈君君<span></span></p>
+<p style="text-indent:21.75pt;"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></p>
+<p style="text-indent:21.75pt;"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>二<span>O</span>一三年十二月六<span> </span></p>
+<p style="text-indent:21.75pt;"><span>&nbsp;</span></p>
+<span style="font-family:&quot;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span>见习书记员</span><span
+style="font-family:&quot;">&nbsp;&nbsp;&nbsp; </span><span>薛文健</span><span style="font-family:&quot;">&nbsp;
+&nbsp; &nbsp;</span><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center">
+<table border="0" cellpadding="0" cellspacing="0"><tr><td class="doc_sign">听说寻觅爱情就像天与地别离和重聚的过程<br>
+就让我们相逢只是偶然.<br>
+等待你的到来<br>
+我在版里沏好茶欢迎你！<br>
+<br>
+</td></tr></table>
+</td></tr>
+<tr><td class="doc_sign" align="center"><a href="http://u17197388.xici.net" target="_blank">我的家园欢迎您！</a></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d201616628.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_6></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-04-17 00:57</span></p></dd></dl><dl class="dl"><dt><a href="/d201611473.htm" target="_blank">交通事故人身损害赔偿案</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p style="text-indent:114.45pt;"><b><span>民</span></b><b><span>&nbsp;&nbsp; </span></b><b><span>事</span></b><b><span>&nbsp;&nbsp;
+</span></b><b><span>诉</span></b><b><span>&nbsp;&nbsp; </span></b><b><span>状</span></b><span></span></p>
+<p style="text-indent:24.0pt;"><span>原告：陈长顺，男，</span><span>50</span><span>岁，汉族，工人，住南京市秦淮区御道街</span><span>78</span><span>号</span><span>219</span><span>室，电话，</span><span>18913919939&nbsp;
+</span><span>邮编</span><span>210000</span></p>
+<p style="text-indent:24.0pt;"><span>第一被告：柳方鑫，男，</span><span>29</span><span>岁，汉族，司机，住</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span>电话：</span><span>13611505451</span></p>
+<p style="text-indent:24.0pt;"><span>第二被告：中国人民财产保险股份有限公司南京分公司，法人代表，娄伟民，单位地址，南京市玄武区龙蟠中路</span><span>37</span><span>、</span><span>69</span><span>号，电话，</span><span>025-68508311
+</span><span>邮编</span><span>210000</span></p>
+<p style="text-indent:24.0pt;"><span>&nbsp;</span></p>
+<p style="text-indent:24.0pt;"><span>诉讼请求：</span><span></span></p>
+<p style="margin-left:66.0pt;text-indent:-42.0pt;"><span>1、<span style="font-family:'Times New Roman';line-height:normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span>请求法院确定</span><span>3</span><span>方签订的协议书的第一项内容的“本案丙方一次性向乙方支付人民币营养费</span><span>720</span><span>元，住院伙食补助费</span><span>80</span><span>元，误工费</span><span>10500</span><span>元，护理费</span><span>4900</span><span>元，交通费</span><span>204</span><span>元”的行为、第三项内容的“因前期甲方已支付乙方</span><span>2000</span><span>元现金，故乙方应实际返还甲方</span><span>440</span><span>元。”的行为和第五项的行为，为无效民事行为。</span><span></span></p>
+<p style="margin-left:66.0pt;text-indent:-42.0pt;"><span>2、<span style="font-family:'Times New Roman';line-height:normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span>要求第二被告赔偿原告的损失</span><span>9815</span><span>元。</span><span></span></p>
+<p style="margin-left:66.0pt;text-indent:-42.0pt;"><span>3、<span style="font-family:'Times New Roman';line-height:normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span>要求第二被告赔偿签订协议书后发生的医疗费</span><span>2004.5</span><span>元，交通费</span><span>104</span><span>元，误工费</span><span>2064</span><span>元。</span><span></span></p>
+<p style="margin-left:24.0pt;"><span>&nbsp;</span></p>
+<p style="margin-left:24.0pt;"><span>事实和理由：</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>2013</span><span>年</span><span>1</span><span>月</span><span>2</span><span>日</span><span>下午，原告在象房村十字路口过斑马线时，被第一被告驾驶的牌号为苏</span><span>A9TA60</span><span>的机动车撞伤，造成原告</span><span>3</span><span>处骨折，住院治疗</span><span>50</span><span>天。事故责任认定是第一被告全责。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>第一被告撞伤原告后，把原告送到空军</span><span>454</span><span>医院，拍片检查后，带着原告并通知了原告家属李文利去交警二大队处理事故。之后，把原告送到</span><span>454</span><span>医院住院治疗。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>住院期间，原告双手都打上了石膏，生活不能自理，吃饭要别人帮助喂饭。原告要求第一被告安排护工护理。第一被告和</span><span>454</span><span>医院的护工吴某某谈好由其护理，护理费是每天</span><span>90</span><span>元。吴某某护理了</span><span>28</span><span>天，因嫌钱少，不再继续护理，其它时间是原告的家人护理。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>吴某某护理期间，曾打电话给第一被告催要过护理费。第一被告送来</span><span>2000</span><span>元，要求原告交给吴某某。原告就打了收条给第一被告，把钱交给了吴某某。护理到</span><span>28</span><span>天，吴某某表示不继续护理，接了其他病人。</span><span>28</span><span>天的护理费是</span><span>2520</span><span>元，原告垫付了</span><span>520</span><span>元护理费。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>出院后，原告遵照医嘱进行了复查和康复治疗，支付了医疗费</span><span>4943</span><span>元，交通费</span><span>204</span><span>元。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>2013</span><span>年</span><span>6</span><span>月</span><span>14</span><span>日</span><span>上午，原告和第一被告去交警二大队调解。原告提出申请做伤残鉴定。人保公司派驻在交警二大队的工作人员，要求原告去南医大司法鉴定所做伤残鉴定。原告接受。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>6</span><span>月</span><span>20</span><span>号，原告向南医大司法鉴定所申请做伤残鉴定。伤残鉴定费是</span><span>1560</span><span>元。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>鉴定结论是：</span><span>2</span><span>处构成</span><span>10</span><span>级伤残。误工期限自受伤之日起至定残日前一天止，伤后</span><span>120</span><span>日需他人护理并适当补充营养。定残日是</span><span>7</span><span>月</span><span>12</span><span>日。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>2013</span><span>年</span><span>8</span><span>月</span><span>13</span><span>日</span><span>上午，原告和第一被告去第二被告处申请理赔。第二被告的工作人员汤琦和另一名工作人员接待。原告的赔偿要求是：</span><span>1</span><span>、医疗费</span><span>4943</span><span>元。</span><span>2</span><span>、护理费</span><span>7512</span><span>元。</span><span>3</span><span>、误工费</span><span>13846.2</span><span>元。</span><span>4</span><span>、交通费</span><span>501</span><span>元。</span><span>5</span><span>、住院伙食补助费</span><span>620</span><span>元。</span><span>6</span><span>、营养费</span><span>6000</span><span>元。</span><span>7</span><span>、精神损害费</span><span>10000</span><span>元。</span><span>8</span><span>、伤残鉴定费</span><span>1560</span><span>元。</span><span>9</span><span>、残疾赔偿金</span><span>79909.4</span><span>元。</span><span>10</span><span>、增加残疾赔偿金</span><span>7</span><span>万元。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>汤琦对原告的要求进行了审核。对原告的精神损害费和伤残鉴定费拒绝赔偿，理由是不属于保险公司的理赔范围，应该由侵权方赔偿。对交通费、住院伙食补助费的部分；对增加残疾赔偿金的要求也拒赔。没有出具书面拒赔通知。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>汤琦提出了一个理赔方案：</span><span>1</span><span>、医疗费</span><span>4943</span><span>元。</span><span>2</span><span>、交通费</span><span>204</span><span>元。</span><span>3</span><span>、住院伙食补助费</span><span>80</span><span>元。</span><span>4</span><span>、伤残赔偿金</span><span>65289.4</span><span>元。</span><span>5</span><span>、护理费</span><span>4900</span><span>元，按每天</span><span>50</span><span>元算。</span><span>6</span><span>、误工费应为原告没有提供全相关凭证当时没有计算。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>原告和第一被告提出护工护理的</span><span>28</span><span>天是按</span><span>90</span><span>元</span><span>/</span><span>天支付的，第二被告按每天</span><span>50</span><span>元理赔，相差的部分谁来承担？汤琦要原告和第一被告协商，说与保险公司没关系。第一被告明确表示不愿承担，也不会赔偿精神损害费和伤残鉴定费。</span><span>&nbsp;&nbsp;&nbsp;
+</span><span>原告表示回去考虑后再给其答复。原告要考虑的问题主要是残疾赔偿金的计算问题。第二被告是按江苏省的去年人均可支配性收入计算的，原告是按南京市去年人均可支配性收入计算的，想核实清楚那种计算方法是符合有关法律规定的。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>汤琦对原告说，赔偿就是他给出的这么多，要求超出这个范围就不用过来了，直接走诉讼程序。</span><span></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span>原告回去考虑后，决定接受第二被告的赔偿方案。原因是：</span><span>1</span><span>、核实后，第二被告计算残疾赔偿金的方法是正确的。</span><span>2</span><span>、认为第二被告拒赔的可以向第一被告要求赔偿。</span><span>3</span><span>、不清楚第二被告提出的护理费每天</span><span>50</span><span>元，营养费每天</span><span>12</span><span>元的标准是不是符合国家规定，不清楚第一被告和第二被告的保险合同是如何约定保险责任的，认为护工护理的</span><span>28</span><span>天的护理费每天差的</span><span>30</span><span>元，应该由第一被告承担。</span><span>5</span><span>、第二被告计算的护理期限、营养期限少于伤残鉴定的结论</span><span>120</span><span>天，住院的伙食补助标准也低于规定的</span><span>20</span><span>元标准。原告是不愿接受的。但第二被告的不接受它的要求，就不赔偿，让走诉讼程序的威胁，使原告产生恐惧心理。</span><span><span>原告伤后，一直不能工作，没有收入，到医院复查、康复治疗花去的医疗费，交通费，做伤残鉴定的鉴定费，垫付的护理费，花去的费用快近</span></span><span><span
+style="font-family:Arial;">6000</span></span><span><span>元，给原告的生活造成很大的困难，如果不能及时拿到赔偿，连后期的康复费都拿不出来了。如果走诉讼程序，耗费的时间很长，一审结案就要</span></span><span><span
+style="font-family:Arial;">6</span></span><span><span>个月，原告根本耗不起。再说请律师要花律师费。原告咨询过律师，先要缴付</span></span><span><span
+style="font-family:Arial;">1500</span></span><span><span>元代理费，结案后，要按照诉讼的标的的</span></span><span><span
+style="font-family:Arial;">20</span></span><span><span>%</span></span><span><span>缴付案件代理费，</span></span><span><span>争取来的利益，不抵律师费，不划算，现在拿出律师费，也有困难。原告心想大的赔偿部分残疾赔偿金不差，小的部分少就少些，早点赔了算了。</span></span><span>权衡利弊，原告觉得还是接受第二被告的赔偿方案要好些。</span><span
+style="font-family:Arial;"></span></p>
+<p style="text-indent:24.0pt;"><span>2013</span><span>年</span><span>8</span><span>月</span><span>15</span><span>日</span><span>上午，原告打电话给第一被告表示接受第二被告的赔偿方案，一起去第二被告处申请理赔。第二被告安排了另一位工作人员接待。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>原告表示：把护工护理的</span><span>28</span><span>天的护理费，理赔给第一被告。原告垫付的</span><span>520</span><span>元护理费，原告向第一被告要。接受第二被告的其他理赔方案。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>第二被告的工作人员把原告和第一被告的医药费单据收去贴好后交给审核处审核后，第一被告要求退回他的单据，表示不申请理赔了。他不接受护工护理的</span><span>28</span><span>天的护理费向他理赔，同时认为精神损害费和伤残鉴定费不该由他出，应该是第二被告出，让原告起诉他和第二被告。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>第二被告的工作人员就把原告的单据也退给原告，不受理原告的理赔。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>原告和该工作人员产生争执。他说第一被告不接受调解精神损害费和伤残鉴定费，保险费是他交的，不能接受原告的理赔申请。原告认为，依据保险法第</span><span>65</span><span>条的规定，原告有权利要求第二被告向原告赔偿，被告有义务对原告依法进行理赔。而精神损害费和伤残鉴定费应该由谁出的问题是第一被告和第二被告之间的争议。第二被告要跟原告调解他和第一被告之间的争议，以此为由拒绝向原告理赔，非常荒唐。原告认为其故意不作为，违反保险法有关规定，损害原告权益。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>8</span><span>月</span><span>21</span><span>日</span><span>上午，原告到省保监局递交了投诉材料，投诉第二被告的违法违规行为。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>8</span><span>月</span><span>26</span><span>日</span><span>下午，第二被告的工作人员汤琦打电话给原告，让原告和第一被告</span><span>8</span><span>月</span><span>27</span><span>号下午去处理理赔的事情，表示</span><span>5000</span><span>元精神损害费由第二被告出，让第一</span><span>
+</span><span>被告出</span><span>1560</span><span>元的伤残鉴定费。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>8</span><span>月</span><span>27</span><span>日</span><span>下午</span><span>1</span><span>点</span><span>30</span><span>分，原告去第二被告处，第一被告还没到。原告递交了有关理赔的凭证和对方第一次核算后提出的理赔方案的一张单子。原告提交了：</span><span>3</span><span>个月的工资单，一个月是满勤工资是</span><span>2200</span><span>元，另</span><span>2</span><span>个月都是因事假、病假缺勤好几天，工资不到</span><span>2200</span><span>元。工资单上每天的工资是</span><span>84.62</span><span>元。</span><span>1</span><span>份工作牌的复印件，上面写明原告的工作单位是路多机械厂，工作岗位是加工中心操作工。</span><span>1</span><span>份农行的工资卡转账记录，证明原告从伤后到现在没有收入。汤琦对原告的误工费进行了审核计算。他按原告递交的</span><span>3</span><span>个的工资单，取平均值核算为原告的收入为每天</span><span>70</span><span>元，按误工</span><span>150</span><span>天计算原告的误工费。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>原告对其算法提出异议。如果按固定收入算，应该按每月工资</span><span>2200</span><span>元算，每天的工资是</span><span>84.62</span><span>元；如果不按固定收入算，应该按最近</span><span>3</span><span>年的平均收入算，不能举证最近</span><span>3</span><span>年的平均收入，按相同行业的平均工资算。按</span><span>3</span><span>个月的平均收入算，没有法律依据。他坚持要按他提出的每天</span><span>70</span><span>元算。原告提出，如果他认为他是对的，坚持按他提出的</span><span>70</span><span>元算，那么双方就在协议中约定：所有要约都是第二被告提出来的，第二被告承若其行为符合法律规定，没有损害原告的合法权益，如果违反这条约定，第二被告按协议的标的向原告支付违约金。他当即表示，那我们今天就不办理了，你就走诉讼程序。你不要以为你投诉到保监局了就有用，一点用没有，我很容易处理，我就按双方达不成协议，走司法程序处理。这种事我们处理的多呢。原告想早点拿到赔偿只好接受了他的要求。第一被告来了后，他要求第一被告支付原告伤残鉴定费</span><span>1560</span><span>元，要求原告返还第一被告支付的</span><span>2000</span><span>元护理费。第一被告同意后，原告也只好表示同意。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>他把原告的交通事故责任认定书、出院小结和病历等相关凭证的原件都收走后，准备好</span><span>4</span><span>份协议。</span><span>3</span><span>方都在协议书上签了字。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>协议书的主要内容是：</span><span></span></p>
+<p style="margin-left:66.0pt;text-indent:-42.0pt;"><span>1、<span style="font-family:'Times New Roman';line-height:normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span>本案丙方一次性向乙方支付赔款人民币医药费</span><span>4943</span><span>元，营养费</span><span>720</span><span>元，住院伙食补助费</span><span>80</span><span>元，残疾赔偿金</span><span>65289.4</span><span>元，精神损害抚慰金</span><span>5000</span><span>元，误工费</span><span>10500</span><span>元，护理费</span><span>4900</span><span>元，交通费</span><span>204</span><span>元，合计</span><span>91636.4</span><span>元。</span><span></span></p>
+<p style="margin-left:63.0pt;text-indent:-39.0pt;"><span>2、<span style="font-family:'Times New Roman';line-height:normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span>&nbsp;</span><span>本案丙方一次性返还甲方垫付款人民币</span><span>2980.5</span><span>元。</span><span></span></p>
+<p style="margin-left:63.0pt;text-indent:-39.0pt;"><span>3、<span style="font-family:'Times New Roman';line-height:normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span>本案甲方一次性赔偿乙方鉴定费</span><span>1560</span><span>元。因前期甲方已支付乙方</span><span>2000</span><span>元现金，故乙方应实际返还甲方</span><span>440</span><span>元。</span><span></span></p>
+<p style="margin-left:63.0pt;text-indent:-39.0pt;"><span>4、<span style="font-family:'Times New Roman';line-height:normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span>综上，丙方赔偿乙方人民币</span><span>91196.4</span><span>元，返还甲方人民币</span><span>3420.5</span><span>元。</span><span></span></p>
+<p style="margin-left:63.0pt;text-indent:-39.0pt;"><span>5、<span style="font-family:'Times New Roman';line-height:normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span>本案一次性结案。乙方就此事故所造成的所有赔偿项目一次性处理结束，甲、乙、丙三方再无其他争议。</span><span></span></p>
+<p style="margin-left:24.0pt;"><span>&nbsp;</span></p>
+<p style="margin-left:24.0pt;"><span>9</span><span>月</span><span>2</span><span>日</span><span>赔偿款到账后，</span><span>9</span><span>月</span><span>3</span><span>日</span><span>，原告向医院交了</span><span>2000</span><span>元康复治疗费，继续做康复治疗。医院开了</span><span>1</span><span>个月的病假。</span><span></span></p>
+<p style="margin-left:24.0pt;"><span>&nbsp;</span></p>
+<p style="text-indent:24.0pt;"><span>协议书中：第一项中的“丙方向乙方支付赔款护理费</span><span>4900</span><span>元”和第三项“甲方赔偿乙方鉴定费</span><span>1560</span><span>元，因前期甲方已支付乙方</span><span>2000</span><span>元现金，故乙方应实际返还甲方</span><span>440</span><span>元。”的内容，实际的意思就是第二被告赔偿原告全部护理费</span><span>4900</span><span>元，原告退还第一被告支付的护理费</span><span>2000</span><span>元。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>原告的护理天数共是</span><span>120</span><span>天。护工护理的天数是</span><span>28</span><span>天。护工的护理费是按每天</span><span>90</span><span>元支付的，付给护工的护理费一共是</span><span>2520</span><span>元。第一被告支付了</span><span>2000</span><span>元，原告垫付了</span><span>520</span><span>元。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>第二被告按每天</span><span>50</span><span>元赔偿原告，</span><span>120</span><span>天的护理费是</span><span>6000</span><span>元，</span><span>4900</span><span>元是怎么算出来的？</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>第二被告赔偿给原告</span><span>28</span><span>天的护理费是</span><span>1400</span><span>元，原告和第一被告一起付给护工的护理费是</span><span>2520</span><span>元，让原告返还给第一被告</span><span>2000</span><span>元护理费，原告实际上是自己贴了</span><span>1120</span><span>元护理费。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>原告是受害人，第一被告是侵权人，侵权人一分钱不要掏，受害人自己贴钱付护理费，有这样的道理吗？</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>&nbsp;</span></p>
+<p style="text-indent:24.0pt;"><span>原告和第一被告是侵权的法律关系，第一被告和第二被告是保险合同的法律关系。三者之间是</span><span>2</span><span>个法律关系。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>第一被告侵害了原告的人身权，造成伤害，就应该承担民事责任，有义务赔偿原告的损失。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>《民法通则》第</span><span>106</span><span>条</span><span>2</span><span>款规定：公民、法人由于过错侵害国家的、集体的财产，侵害他人财产、人身的，应当承担民事责任。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span><span>　　第</span></span><span><span>119</span></span><span><span>条　侵害公民身体造成伤害的，应当赔偿医疗费、因误工减少的收入、残废者生活补助费等费用；造成死亡的，并应当支付丧葬费、死者生前扶养的人必要的生活费等费用。</span></span><span><span></span></span></p>
+<p style="text-indent:24.0pt;"><span><span>《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》</span></span><span><span></span></span></p>
+<p style="text-indent:24.0pt;"><span><span>第</span></span><span><span>1</span></span><span><span>条</span></span><span>&nbsp;
+</span><span>因生命、健康、身体遭受侵害，赔偿权利人起诉请求赔偿义务人赔偿</span><span><a href="http://xici800.cn/sCXXa2"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:rgb(19, 110, 194);">财产损失</span></a></span><span>和</span><span><a
+href="http://xici800.cn/JZqrr2"  target="_blank" rel="external nofollow " target="_blank"><span style="color:rgb(19, 110, 194);">精神损害</span></a></span><span>的，人民法院应予</span><span><a
+href="http://xici800.cn/kQ4yu1"  target="_blank" rel="external nofollow " target="_blank"><span style="color:rgb(19, 110, 194);">受理</span></a></span><span>。</span><span></span></p>
+<p style="line-height:18.0pt;text-indent:22.5pt;"><span>本条所称</span><span style="font-family:Arial;">“</span><span>赔偿权利人</span><span
+style="font-family:Arial;">”</span><span>，是指因</span><span style="font-family:Arial;"><a
+href="http://xici800.cn/2r5UO"  target="_blank" rel="external nofollow " target="_blank"><span style="color:#136EC2;font-family:宋体;">侵权行为</span></a></span><span>或者其他致害原因直接遭受人身损害的受害人、依法由受害人承担扶养义务的被扶养人以及死亡受害人的</span><span
+style="font-family:Arial;"><a href="http://xici800.cn/itwHd3"  target="_blank" rel="external nofollow " target="_blank"><span
+style="color:#136EC2;font-family:宋体;">近亲属</span></a></span><span>。</span><span
+style="font-family:Arial;"></span></p>
+<p style="line-height:18.0pt;text-indent:22.5pt;"><span>本条所称</span><span>“</span><span>赔偿义务人</span><span>”</span><span>，是指因自己或者他人的侵权行为以及其他致害原因依法应当承担</span><span><a
+href="http://xici800.cn/GZ4eH2"  target="_blank" rel="external nofollow " target="_blank"><span style="color:rgb(19, 110, 194);">民事责任</span></a></span><span>的</span><span><a
+href="http://xici800.cn/8ZgnH3"  target="_blank" rel="external nofollow " target="_blank"><span style="color:rgb(19, 110, 194);">自然人</span></a></span><span>、</span><span><a
+href="http://xici800.cn/ZJdFL2"  target="_blank" rel="external nofollow " target="_blank"><span style="color:rgb(19, 110, 194);">法人</span></a></span><span>或者其他组织。</span><sup><span
+style="color:#3366CC;"></span></sup></p>
+<p style="line-height:18.0pt;text-indent:22.5pt;"><span>第</span><span style="font-family:Arial;">17</span><span>条</span><span
+style="font-family:Arial;">&nbsp; </span><span>受害人遭受人身损害，因就医治疗支出的各项费用以及因误工减少的收入，包括医疗费、</span><span
+style="font-family:Arial;"><a href="http://xici800.cn/arubJ3"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">误工费</span></a></span><span>、</span><span
+style="font-family:Arial;"><a href="http://xici800.cn/1M5IW4"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">护理费</span></a></span><span>、</span><span
+style="font-family:Arial;"><a href="http://xici800.cn/b8pqi"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">交通费</span></a></span><span>、住宿费、</span><span
+style="font-family:Arial;"><a href="http://xici800.cn/LVk8B"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">住院伙食补助费</span></a></span><span>、必要的</span><span
+style="font-family:Arial;"><a href="http://xici800.cn/QuN314"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">营养费</span></a></span><span>，赔偿义务人应当予以赔偿。</span><span
+style="font-family:Arial;"></span></p>
+<p style="line-height:18.0pt;text-indent:22.5pt;"><span>依据上述法律规定和事实，第一被告应该给付原告垫付的</span><span
+style="font-family:Arial;">520</span><span>元护理费，然后，依据保险合同的约定，向第二被告要求理赔。</span><span
+style="font-family:Arial;"></span></p>
+<p style="line-height:18.0pt;text-indent:22.45pt;"><span><span>《保险法》第</span></span><span><span
+style="font-family:Arial;">65</span></span><span><span>条规定：保险人对责任保险的被保险人给第三者造成的损害，可以依照法律规定或者合同的约定，直接向该第三者赔偿保险金。责任保险的被保险人给第三者造成损害，被保险人对第三者应负的赔偿责任确定的，根据被保险人的请求，保险人应当直接向该第三者赔偿保险金。被保险人怠于请求的，第三者有权就其应获赔偿部分直接向保险人请求赔偿保险金。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:22.45pt;"><span><span>责任保险是指以被保险人对第三者依法应负的赔偿责任为保险标的的保险。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:22.45pt;"><span><span>根据上述规定和原告、第一被告向第二被告申请赔偿的事实，第二被告有义务依据法律规定向原告进行赔偿。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:22.45pt;"><span><span>原告家人护理了</span></span><span><span
+style="font-family:Arial;">92</span></span><span><span>天。南京市护工从事同等级别护理的劳务报酬标准是每天</span></span><span><span
+style="font-family:Arial;">76</span></span><span><span>元。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:22.45pt;"><span style="color:rgb(54, 54, 54);">《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》</span><span
+style="color:#363636;font-family:Simsun;"></span></p>
+<p style="line-height:18.0pt;margin-left:0cm;text-indent:22.45pt;"><span><span
+style="font-family:Arial;">第21条<span style="font-family:'Times New Roman';line-height:normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span><span>护理费根据护理人员的收入状况和护理人数、护理期限确定。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:22.45pt;"><span><span>护理人员有收入的，参照</span></span><span><span
+style="font-family:Arial;"><a href="http://xici800.cn/arubJ3"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">误工费</span></a></span></span><span><span>的规定计算；护理人员没有收入或者雇佣护工的，参照当地护工从事同等级别护理的劳务报酬标准计算。护理人员原则上为一人，但医疗机构或者鉴定机构有明确意见的，可以参照确定护理人员人数。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:22.45pt;"><span><span>护理期限应计算至受害人恢复</span></span><span><span
+style="font-family:Arial;"><a href="http://xici800.cn/Ys5oU"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">生活自理能力</span></a></span></span><span><span>时止。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span><span>依据上述法律规定和事实，原告家人护理的</span></span><span><span
+style="font-family:Arial;">92</span></span><span><span>天，第二被告应该按照每天</span></span><span><span
+style="font-family:Arial;">76</span></span><span><span>元的标准，赔偿原告</span></span><span><span
+style="font-family:Arial;">6992</span></span><span><span>元护理费。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span>原告应得的赔偿的护理费应该是</span></span><span><span
+style="font-family:Arial;">6992+520=7512</span></span><span><span>元，第二被告实际赔偿给原告的是</span></span><span><span
+style="font-family:Arial;">2900</span></span><span><span>元。原告得到的赔偿少了</span></span><span><span
+style="font-family:Arial;">4612</span></span><span><span>元。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.45pt;text-indent:12.0pt;"><span><span>原告和第二被告非亲非故，平白无故的就把这</span></span><span><span
+style="font-family:Arial;">4612</span></span><span><span>元送给第二被告了？</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;text-indent:21.0pt;"><span>协议书中：第一项中的“丙方向乙方支付赔款护理费</span><span>4900</span><span>元”和第三项“甲方赔偿乙方鉴定费</span><span>1560</span><span>元，因前期甲方已支付乙方</span><span>2000</span><span>元现金，故乙方应实际返还甲方</span><span>440</span><span>元。”的内容，</span><span><span>行为的结果，直接损害了原告的合法权益，不是原告的真实意思表示。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;text-indent:21.0pt;"><span><span
+style="font-family:Arial;">&nbsp;</span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;text-indent:21.0pt;"><span
+style="color:rgb(54, 54, 54);">《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》第</span><span style="color:#363636;font-family:Simsun;">20</span><span
+style="color:rgb(54, 54, 54);">条规定：</span><span style="color:#363636;font-family:Simsun;"><a
+href="http://xici800.cn/YS4ZK"  target="_blank" rel="external nofollow "><span style="color:#363636;font-family:宋体;">误工费</span></a></span><span
+style="color:rgb(54, 54, 54);">根据受害人的误工时间和收入状况确定。</span><span style="color:#363636;font-family:Simsun;"></span></p>
+<p align="left" style="line-height:19.2pt;margin:12pt 0cm;word-break:break-all;"><span
+style="color:#363636;font-family:Simsun;">&nbsp; </span><span style="color:rgb(54, 54, 54);">误工时间根据受害人接受治疗的医疗机构出具的证明确定。受害人因伤致残持续误工的，误工时间可以计算至定残日前一天。</span><span
+style="color:#363636;font-family:Simsun;"></span></p>
+<p align="left" style="line-height:19.2pt;word-break:break-all;"><span style="color:rgb(54, 54, 54);">　　受害人有固定收入的，</span><span
+style="color:#363636;font-family:Simsun;"><a href="http://xici800.cn/YS4ZK"  target="_blank" rel="external nofollow "><span
+style="color:#363636;font-family:宋体;">误工费</span></a></span><span style="color:rgb(54, 54, 54);">按照实际减少的收入计算。受害人无固定收入的，按照其最近三年的平均收入计算；受害人不能举证证明其最近三年的平均收入状况的，可以参照受诉法院所在地相同或者相近行业上一年度职工的平均工资计算。</span><span
+style="color:#363636;font-family:Simsun;"></span></p>
+<p style="line-height:18.0pt;"><span style="color:rgb(54, 54, 54);">　原告向第二被告提供了工作牌复印件，上面有原告的工作单位和工作岗位。提供了</span><span
+style="color:#363636;font-family:Simsun;">3</span><span style="color:rgb(54, 54, 54);">个月的工资单和农行账户明细对账单。工资单上明确原告日工资是</span><span
+style="color:#363636;font-family:Simsun;">84.62</span><span style="color:rgb(54, 54, 54);">元，每月按</span><span
+style="color:#363636;font-family:Simsun;">26</span><span style="color:rgb(54, 54, 54);">天算，工资是</span><span
+style="color:#363636;font-family:Simsun;">2200</span><span style="color:rgb(54, 54, 54);">元。</span><span
+style="color:#363636;font-family:Simsun;">3</span><span style="color:rgb(54, 54, 54);">个月的工资单，一个月是满勤</span><span
+style="color:#363636;font-family:Simsun;">25</span><span style="color:rgb(54, 54, 54);">天，</span><span
+style="color:#363636;font-family:Simsun;">1</span><span style="color:rgb(54, 54, 54);">天是节假日，工资是</span><span
+style="color:#363636;font-family:Simsun;">2200</span><span style="color:rgb(54, 54, 54);">元，另</span><span
+style="color:#363636;font-family:Simsun;">2</span><span style="color:rgb(54, 54, 54);">个月有缺勤几天，应为病、事假缺勤，工资被扣，不到</span><span
+style="color:#363636;font-family:Simsun;">2200</span><span style="color:rgb(54, 54, 54);">元。</span><span
+style="color:#363636;font-family:Simsun;"></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span style="color:rgb(54, 54, 54);">原告的收入只要满勤基本上就是</span><span
+style="color:#363636;font-family:Simsun;">2200</span><span style="color:rgb(54, 54, 54);">元，没有加班费，也没有计件工资，应该按固定收入计算。</span><span
+style="color:#363636;font-family:Simsun;"></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span style="color:rgb(54, 54, 54);">误工时间：从受伤日到定残日的前一天，即</span><span
+style="color:#363636;font-family:Simsun;">2013</span><span style="color:rgb(54, 54, 54);">年</span><span
+style="color:#363636;font-family:Simsun;">1</span><span style="color:rgb(54, 54, 54);">月</span><span
+style="color:#363636;font-family:Simsun;">2</span><span style="color:rgb(54, 54, 54);">日到</span><span
+style="color:#363636;font-family:Simsun;">2013</span><span style="color:rgb(54, 54, 54);">年</span><span
+style="color:#363636;font-family:Simsun;">7</span><span style="color:rgb(54, 54, 54);">月</span><span
+style="color:#363636;font-family:Simsun;">11</span><span style="color:rgb(54, 54, 54);">日，共</span><span
+style="color:#363636;font-family:Simsun;">6</span><span style="color:rgb(54, 54, 54);">个月</span><span
+style="color:#363636;font-family:Simsun;">10</span><span style="color:rgb(54, 54, 54);">天。误工费是</span><span
+style="color:#363636;font-family:Simsun;">14046</span><span style="color:rgb(54, 54, 54);">元。</span><span
+style="color:#363636;font-family:Simsun;"></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span style="color:rgb(54, 54, 54);">如果按不是固定收入算。依据第</span><span
+style="color:#363636;font-family:Simsun;">20</span><span style="color:rgb(54, 54, 54);">条的规定，不能举证证明最近</span><span
+style="color:#363636;font-family:Simsun;">3</span><span style="color:rgb(54, 54, 54);">年平均收入状况的，可以参照受诉法院所在地相同行业上一年度职工的平均工资计算。</span><span
+style="color:#363636;font-family:Simsun;"></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span style="color:rgb(54, 54, 54);">加工中心操作工的上一年度平均工资是</span><span
+style="color:#363636;font-family:Simsun;">3000</span><span style="color:rgb(54, 54, 54);">元。照此计算，原告的误工费远多于</span><span
+style="color:#363636;font-family:Simsun;">14046</span><span style="color:rgb(54, 54, 54);">元。</span><span
+style="color:#363636;font-family:Simsun;"></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span style="color:rgb(54, 54, 54);">被告认定原告是无固定收入，按</span><span
+style="color:#363636;font-family:Simsun;">3</span><span style="color:rgb(54, 54, 54);">个月的平均收入算成原告每日收入</span><span
+style="color:#363636;font-family:Simsun;">70</span><span style="color:rgb(54, 54, 54);">元，不符合法律规定。</span><span
+style="color:#363636;font-family:Simsun;"></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span style="color:rgb(54, 54, 54);">如果原告</span><span
+style="color:#363636;font-family:Simsun;">3</span><span style="color:rgb(54, 54, 54);">个月都是满勤，每个月收入不同，被告照此认定和计算也可以算是合理，原告也能接受。满勤的工资每月肯定不会少于</span><span
+style="color:#363636;font-family:Simsun;">2200</span><span style="color:rgb(54, 54, 54);">元。</span><span
+style="color:#363636;font-family:Simsun;"></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span style="color:rgb(54, 54, 54);">协议书中约定的误工费是按每天</span><span
+style="color:#363636;font-family:Simsun;">70</span><span style="color:rgb(54, 54, 54);">元计算，共计</span><span
+style="color:#363636;font-family:Simsun;">10500</span><span style="color:rgb(54, 54, 54);">元，比原告应该得到赔偿的误工费少</span><span
+style="color:#363636;font-family:Simsun;">3546</span><span style="color:rgb(54, 54, 54);">元，损害了原告的合法权益，该约定不是原告的真实意思表示。</span><span
+style="color:#363636;font-family:Simsun;"></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span style="color:rgb(54, 54, 54);">协议书中第一项中约定的“……营养费</span><span
+style="color:#363636;font-family:Simsun;">720</span><span style="color:rgb(54, 54, 54);">元，住院伙食补助费</span><span
+style="color:#363636;font-family:Simsun;">80</span><span style="color:rgb(54, 54, 54);">元，交通费</span><span
+style="color:#363636;font-family:Simsun;">204</span><span style="color:rgb(54, 54, 54);">元”和第</span><span
+style="color:#363636;font-family:Simsun;">5</span><span style="color:rgb(54, 54, 54);">项的约定“本案一次性结案。乙方就此事故所造成的所有赔偿项目一次性处理结束，甲、乙、丙三方再无其他争议。”也不是原告的真实意思表示。</span><span
+style="color:#363636;font-family:Simsun;"></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span style="color:rgb(54, 54, 54);">原告要求赔偿的交通费是</span><span
+style="color:#363636;font-family:Simsun;">501</span><span style="color:rgb(54, 54, 54);">元，内容包括：</span><span
+style="color:#363636;font-family:Simsun;">1</span><span style="color:rgb(54, 54, 54);">、</span><span
+style="color:#363636;font-family:Simsun;">2013</span><span style="color:rgb(54, 54, 54);">年</span><span
+style="color:#363636;font-family:Simsun;">1</span><span style="color:rgb(54, 54, 54);">月</span><span
+style="color:#363636;font-family:Simsun;">2</span><span style="color:rgb(54, 54, 54);">日晚家属李文利去交警二大队处理交通事故，交通费</span><span
+style="color:#363636;font-family:Simsun;">11</span><span style="color:rgb(54, 54, 54);">元，</span><span
+style="color:#363636;font-family:Simsun;">2</span><span style="color:rgb(54, 54, 54);">、原告住院</span><span
+style="color:#363636;font-family:Simsun;">50</span><span style="color:rgb(54, 54, 54);">天，家属探视送食品、营养品的交通费</span><span
+style="color:#363636;font-family:Simsun;">200</span><span style="color:rgb(54, 54, 54);">元。</span><span
+style="color:#363636;font-family:Simsun;">3</span><span style="color:rgb(54, 54, 54);">、原告出院后到医院复查的交通费</span><span
+style="color:#363636;font-family:Simsun;">44</span><span style="color:rgb(54, 54, 54);">元。</span><span
+style="color:#363636;font-family:Simsun;">4</span><span style="color:rgb(54, 54, 54);">、原告到医院做康复治疗的交通费</span><span
+style="color:#363636;font-family:Simsun;">160</span><span style="color:rgb(54, 54, 54);">元。</span><span
+style="color:#363636;font-family:Simsun;">5</span><span style="color:rgb(54, 54, 54);">、原告和第一被告去交警二大队调解的交通费</span><span
+style="color:#363636;font-family:Simsun;">22</span><span style="color:rgb(54, 54, 54);">元。</span><span
+style="color:#363636;font-family:Simsun;">6</span><span style="color:rgb(54, 54, 54);">、原告去做伤残鉴定和去拿鉴定报告的交通费</span><span
+style="color:#363636;font-family:Simsun;">8</span><span style="color:rgb(54, 54, 54);">元。</span><span
+style="color:#363636;font-family:Simsun;">7</span><span style="color:rgb(54, 54, 54);">、原告和第一被告去第二被告申请理赔的交通费</span><span
+style="color:#363636;font-family:Simsun;">56</span><span style="color:rgb(54, 54, 54);">元。</span><span
+style="color:#363636;font-family:Simsun;"></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span style="color:rgb(54, 54, 54);">第二被告认定的是原告到医院复查的交通费</span><span
+style="color:#363636;font-family:Simsun;">44</span><span style="color:rgb(54, 54, 54);">元和去医院做康复治疗的交通费</span><span
+style="color:#363636;font-family:Simsun;">160</span><span style="color:rgb(54, 54, 54);">元，合计</span><span
+style="color:#363636;font-family:Simsun;">204</span><span style="color:rgb(54, 54, 54);">元，其他的拒赔。原告当时认为，如果拒赔的理由成立，其他的交通费就应该由第一被告赔偿。协议的第</span><span
+style="color:#363636;font-family:Simsun;">5</span><span style="color:rgb(54, 54, 54);">项的内容，剥夺了原告要求第一被告赔偿的权利。</span><span
+style="color:#363636;font-family:Simsun;"></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span style="color:rgb(54, 54, 54);">住院伙食补助费原告要求赔偿的是</span><span
+style="color:#363636;font-family:Simsun;">620</span><span style="color:rgb(54, 54, 54);">元，第二被告赔偿的是</span><span
+style="color:#363636;font-family:Simsun;">80</span><span style="color:rgb(54, 54, 54);">元。</span><span
+style="color:#363636;font-family:Simsun;"></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span style="color:rgb(54, 54, 54);">原告是以此依据为标准计算的。住院</span><span
+style="color:#363636;font-family:Simsun;">50</span><span style="color:rgb(54, 54, 54);">天，护工护理</span><span
+style="color:#363636;font-family:Simsun;">28</span><span style="color:rgb(54, 54, 54);">天，家属护理</span><span
+style="color:#363636;font-family:Simsun;">22</span><span style="color:rgb(54, 54, 54);">天。住院订餐的费用是</span><span
+style="color:#363636;font-family:Simsun;">820</span><span style="color:rgb(54, 54, 54);">元。　</span><span
+style="color:#363636;font-family:Simsun;"></span></p>
+<p style="line-height:18.0pt;"><span style="color:rgb(54, 54, 54);">　《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》第</span><span
+style="color:#363636;font-family:Simsun;">23</span><span style="color:rgb(54, 54, 54);">条规定，</span><span
+style="color:#363636;font-family:Simsun;">“</span><span style="color:rgb(54, 54, 54);">住院伙食补助费可以参照当地国家机关一般工作人员的出差伙食补助标准予以确定。</span><span
+style="color:#363636;font-family:Simsun;">”“</span><span style="color:rgb(54, 54, 54);">受害人确有必要到外地治疗，因客观原因不能住院，受害人本人及其陪护人员实际发生的住宿费和伙食费，其合理部分应予赔偿。</span><span
+style="color:#363636;font-family:Simsun;">”</span></p>
+<h1 style="line-height:12.0pt;margin:0cm;margin-bottom:.0001pt;"><span><span
+style="font-weight:normal;">《江苏省省级机关差旅费管理暂行办法》第</span></span><span><span style="font-family:Arial;font-weight:normal;">18</span></span><span><span
+style="font-weight:normal;">条规定，不分途中和住勤，伙食补助费每人每天补助标准为：省内</span></span><span><span
+style="font-family:Arial;font-weight:normal;">20</span></span><span><span style="font-weight:normal;">元、省外</span></span><span><span
+style="font-family:Arial;font-weight:normal;">40</span></span><span><span style="font-weight:normal;">元。</span></span><span><span
+style="font-family:Arial;font-weight:normal;"></span></span></h1>
+<h1 style="line-height:12.0pt;margin:0cm;margin-bottom:.0001pt;"><span><span
+style="font-family:Arial;font-weight:normal;">&nbsp; </span></span><span><span
+style="font-weight:normal;">原告伙食补助费</span></span><span><span style="font-family:Arial;font-weight:normal;">
+20</span></span><span><span style="font-weight:normal;">X</span></span><span><span
+style="font-family:Arial;font-weight:normal;">50=1000</span></span><span><span
+style="font-weight:normal;">元</span></span><span><span style="font-family:Arial;font-weight:normal;">-</span></span><span><span
+style="font-weight:normal;">订餐费</span></span><span><span style="font-family:Arial;font-weight:normal;">820</span></span><span><span
+style="font-weight:normal;">元</span></span><span><span style="font-family:Arial;font-weight:normal;">=180</span></span><span><span
+style="font-weight:normal;">元</span></span><span><span style="font-family:Arial;font-weight:normal;"></span></span></h1>
+<h1 style="line-height:12.0pt;margin:0cm;margin-bottom:.0001pt;"><span><span
+style="font-family:Arial;font-weight:normal;">&nbsp; </span></span><span><span
+style="font-weight:normal;">家属伙食补助费</span></span><span><span style="font-family:Arial;font-weight:normal;">20</span></span><span><span
+style="font-weight:normal;">X</span></span><span><span style="font-family:Arial;font-weight:normal;">22=440</span></span><span><span
+style="font-weight:normal;">元</span></span><span style="color:#333333;font-family:微软雅黑;"></span></h1>
+<p style="line-height:18.0pt;"><span><span style="font-family:Arial;">&nbsp;180+440=620</span></span><span><span>元</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;"><span><span style="font-family:Arial;">&nbsp;
+</span></span><span><span>第二被告的计算</span></span><span><span style="font-family:Arial;">&nbsp;
+18</span></span><span><span>X</span></span><span><span style="font-family:Arial;">50=900</span></span><span><span>元</span></span><span><span
+style="font-family:Arial;">-820</span></span><span><span>元</span></span><span><span
+style="font-family:Arial;">=80</span></span><span><span>元</span></span><span><span
+style="font-family:Arial;"> </span></span><span><span>家属伙食补助费拒绝赔偿</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;"><span><span style="font-family:Arial;">&nbsp;</span></span><span><span>原告认为第二被告没有理由拒赔住院期间家属护理的家属的伙食补助费，第二被告给的每天</span></span><span><span
+style="font-family:Arial;">18</span></span><span><span>元低于国家规定的每天</span></span><span><span
+style="font-family:Arial;">20</span></span><span><span>元的标准。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;"><span><span style="font-family:Arial;">&nbsp;
+</span></span><span><span>原告应得的住院伙食补助费应该是</span></span><span><span style="font-family:Arial;">620</span></span><span><span>元，第二被告只支付</span></span><span><span
+style="font-family:Arial;">80</span></span><span><span>元，损害了原告的权益。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;"><span><span style="font-family:Arial;">&nbsp;
+</span></span><span><span>营养费</span></span><span><span style="font-family:Arial;">720</span></span><span><span>元，第二被告是按每天</span></span><span><span
+style="font-family:Arial;">12</span></span><span><span>元，营养期间按</span></span><span><span
+style="font-family:Arial;">60</span></span><span><span>天算的。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;"><span><span style="font-family:Arial;">&nbsp;
+</span></span><span><span>原告对营养费的法律规定的标准每天是多少不清楚。伤残鉴定结论的营养期间是</span></span><span><span
+style="font-family:Arial;">120</span></span><span><span>天。按每天</span></span><span><span
+style="font-family:Arial;">12</span></span><span><span>元算，</span></span><span><span
+style="font-family:Arial;">12</span></span><span><span>X</span></span><span><span
+style="font-family:Arial;">120=1440</span></span><span><span>元。原告应得到营养费</span></span><span><span
+style="font-family:Arial;">1440</span></span><span><span>元，第二被告只支付</span></span><span><span
+style="font-family:Arial;">720</span></span><span><span>元，损害了原告的权益。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;"><span><span style="font-family:Arial;">&nbsp;
+</span></span><span><span>原告受伤后，一直不能从事原岗位的工作，还在医院做患肢功能康复治疗。如果治疗一段时间还不能从事原岗位的工作，伤残就造成职业妨害严重影响原告劳动就业。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:12.0pt;"><span style="color:rgb(54, 54, 54);">《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》</span><span><span>第</span></span><span><span
+style="font-family:Arial;">19</span></span><span><span>条规定，</span></span><span><span
+style="font-family:Arial;"> </span></span><span>医疗费根据医疗机构出具的医药费、住院费等收款凭证，结合病历和诊断证明等相关证据确定。赔偿义务人对治疗的必要性和合理性有异议的，应当承担相应的举证责任。</span><span
+style="font-family:Arial;"></span></p>
+<p style="line-height:18.0pt;text-indent:22.5pt;"><span>医疗费的赔偿数额，按照一审法庭辩论终结前实际发生的数额确定。器官功能恢复训练所必要的康复费、适当的整容费以及其他</span><span
+style="font-family:Arial;"><a href="http://xici800.cn/IsCIO4"  target="_blank" rel="external nofollow "
+target="_blank"><span style="color:#136EC2;font-family:宋体;">后续治疗费</span></a></span><span>，赔偿权利人可以待实际发生后另行起诉。但根据医疗证明或者鉴定结论确定必然发生的费用，可以与已经发生的医疗费一并予以赔偿。</span><span
+style="font-family:Arial;"></span></p>
+<p style="line-height:18.0pt;text-indent:22.5pt;"><span><span>第</span></span><span><span
+style="font-family:Arial;">25</span></span><span><span>条</span></span><span><span
+style="font-family:Arial;">2</span></span><span><span>款规定，受害人因伤致残但实际收入没有减少，或者伤残等级较轻但造成职业妨害严重影响其劳动就业的，可以对残疾赔偿金作相应调整。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:22.5pt;"><span><span>协议书中第</span></span><span><span
+style="font-family:Arial;">5</span></span><span><span>项的约定，剥夺了原告通过司法途径要求第一被告和第二被告赔偿康复费和要求增加残疾赔偿金的权利。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;"><span><span style="font-family:Arial;">&nbsp;</span></span></p>
+<p style="line-height:18.0pt;text-indent:18.0pt;"><span><span>在签订协议书的过程中，第二被告采取了欺诈和胁迫的手段。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;"><span><span style="font-family:Arial;">&nbsp;&nbsp;
+</span></span><span><span>第二被告对保险理赔的法律法规是非常熟悉的，其应该本着诚实信用的原则，告知原告有关的规定，并按照国家有关法律法规的规定提出赔偿。其故意隐瞒实情，没有履行告知义务。第二被告没有依据法律和有关规定提出赔偿，而是降低了赔偿标准。目的是想利用原告和第一被告对有关规定不了解，减少赔偿，获取不当利益。其主观上有实施侵害的故意。其行为的结果，使原告产生错误认识，接受了其要求的部分内容。其行为构成欺诈行为。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:12.0pt;"><span><span>原告误以为护工护理期间的每天相差的</span></span><span><span
+style="font-family:Arial;">30</span></span><span><span>元护理费应该由第一被告承担，家人护理期间每天</span></span><span><span
+style="font-family:Arial;">50</span></span><span><span>元的护理费原告也误以为符合规定的，拒赔的交通费</span></span><span><span
+style="font-family:Arial;">301</span></span><span><span>元，精神抚慰金，伤残鉴定费，住院期间家属护理的家属伙食补助费，应该由第一被告赔偿。由于上述认识接受了第二被告的理赔方案的部分行为的内容。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;"><span><span style="font-family:Arial;">&nbsp;&nbsp;&nbsp;
+</span></span><span><span>同时，第二被告也采取了胁迫的手段。</span></span><span><span style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span><span>依据伤残鉴定结论，护理期限和营养期限，应该是</span></span><span><span
+style="font-family:Arial;">120</span></span><span><span>天。第二被告认定的远远少于</span></span><span><span
+style="font-family:Arial;">120</span></span><span><span>天。有关法律规定，住院伙食补助费是每天</span></span><span><span
+style="font-family:Arial;">20</span></span><span><span>元，第二被告给的是每天</span></span><span><span
+style="font-family:Arial;">18</span></span><span><span>元。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span><span>第二被告应该赔偿原告：营养费</span></span><span><span
+style="font-family:Arial;">1440</span></span><span><span>元，住院伙食补助费</span></span><span><span
+style="font-family:Arial;">620</span></span><span><span>元，误工费</span></span><span><span
+style="font-family:Arial;">14046</span></span><span><span>元，护理费</span></span><span><span
+style="font-family:Arial;">7512</span></span><span><span>元，交通费</span></span><span><span
+style="font-family:Arial;">601</span></span><span><span>元，各项合计</span></span><span><span
+style="font-family:Arial;">24219</span></span><span><span>元。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span><span>第二被告实际赔偿原告：营养费</span></span><span><span
+style="font-family:Arial;">720</span></span><span><span>元，住院伙食补助费</span></span><span><span
+style="font-family:Arial;">80</span></span><span><span>元，误工费</span></span><span><span
+style="font-family:Arial;">10500</span></span><span><span>元，交通费</span></span><span><span
+style="font-family:Arial;">204</span></span><span><span>元，护理费</span></span><span><span
+style="font-family:Arial;">4900</span></span><span><span>元减去原告退给第一被告的</span></span><span><span
+style="font-family:Arial;">2000</span></span><span><span>元，实际得到的护理费</span></span><span><span
+style="font-family:Arial;">2900</span></span><span><span>元，各项合计</span></span><span><span
+style="font-family:Arial;">14404</span></span><span><span>元。少赔偿原告</span></span><span><span
+style="font-family:Arial;">9815</span></span><span><span>元。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span><span style="font-family:Arial;">&nbsp;</span></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span><span>这些内容都损害了原告的利益。证明第二被告主观上有实施侵害的故意。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span><span>原告伤后，一直不能工作，没有收入，到医院复查、康复治疗花去的医疗费，交通费，做伤残鉴定的鉴定费，垫付的护理费，花去的费用快近</span></span><span><span
+style="font-family:Arial;">6000</span></span><span><span>元，给原告的生活造成很大的困难，如果不能及时拿到赔偿，连后期的康复费都拿不出来了。如果走诉讼程序，会耗费时间很长，原告耗不起。这些事实证明原告的处境具备被迫接受第二被告要求的条件。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span><span style="font-family:Arial;">&nbsp;</span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span>从行为的内容上看，第二被告提出的要约条件，违反国家法律法规的规定，严重损害原告的合法权益，证明其主观上有实施侵害的故意。</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span><span>第二被告通过</span></span><span><span
+style="font-family:Arial;">3</span></span><span><span>方签订的协议书获取不正当利益</span></span><span><span
+style="font-family:Arial;">9715</span></span><span><span>元，原告损失</span></span><span><span
+style="font-family:Arial;">9715</span></span><span><span>元的赔偿。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span style="font-family:Simsun;">&nbsp;</span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span>从行为的结果看，严重损害原告的合法权益，第二被告获得了不正当的利益，证明不是原告的真实意思表示。</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.45pt;text-indent:12.0pt;"><span><span>以上事实足以证明，第二被告采取了胁迫的手段，迫使原告违背真实意思作出了不真实的意思表示。</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p style="line-height:18.0pt;text-indent:24.0pt;"><span><span style="font-family:Simsun;">&nbsp;
+</span></span><span><span>第二被告的目的，是想通过三方签订一份损害原告和第一被告的合法权益的赔偿协议，获取不正当利益。</span></span><span><span
+style="font-family:Arial;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span style="font-family:Simsun;">&nbsp;</span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span>民法通则第</span></span><span><span
+style="font-family:Simsun;">58</span></span><span><span>条规定：下列民事行为无效：</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span>第</span></span><span><span
+style="font-family:Simsun;">3</span></span><span><span>款：一方以欺诈、胁迫的手段或者乘人之危，使对方在违背真实意思的情况下所为的，</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span>第</span></span><span><span
+style="font-family:Simsun;">5</span></span><span><span>款：以合法形式掩盖非法目的的。</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span>无效的民事行为，从行为开始起就没有法律约束力。</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span style="font-family:Simsun;">60</span></span><span><span>条规定：民事行为部分无效的，不影响其他部分的效力的，其他部分任然有效。</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span>第二被告通过欺诈和胁迫的手段，通过</span></span><span><span
+style="font-family:Simsun;">3</span></span><span><span>方签订一份损害原告和第一被告的合法权益的赔偿协议，获取了不正当利益，其行为构成以合法形式掩盖其非法目的。</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span style="font-family:Simsun;">&nbsp;</span></span><span><span>综上所述，</span></span><span><span
+style="font-family:Simsun;">3</span></span><span><span>方签订的协议书的内容，不是原告真实意思表示的部分，都是无效的。</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span>民法通则第</span></span><span><span
+style="font-family:Simsun;">61</span></span><span><span>条规定：民事行为被确认为无效或者被撤销后，当事人因该行为取得的财产，应当返还给受损失的一方。有过错的一方应当赔偿对方因此所受的损失，双方都有过错的，应当各自承担相应的责任。</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span>依据上述法律规定和事实，第二被告应当赔偿原告的损失</span></span><span><span
+style="font-family:Simsun;">9715</span></span><span><span>元。</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span style="font-family:Simsun;">&nbsp;</span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span>第二被告有义务赔偿原告签订协议书后的康复治疗费</span></span><span><span
+style="font-family:Simsun;">2000</span></span><span><span>元，挂号费</span></span><span><span
+style="font-family:Simsun;">4.5</span></span><span><span>元，交通费</span></span><span><span
+style="font-family:Simsun;">104</span></span><span><span>元，误工费</span></span><span><span
+style="font-family:Simsun;">2064</span></span><span><span>元。</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span style="font-family:Simsun;">&nbsp;</span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span>康复治疗期间误工费的计算：</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span>原告的工资</span></span><span><span
+style="font-family:Simsun;">2200</span></span><span><span>元一个月。病假</span></span><span><span
+style="font-family:Simsun;">1</span></span><span><span>个月。原告得到的残疾赔偿金是：</span></span><span><span
+style="font-family:Simsun;">1</span></span><span><span>年的赔偿金</span></span><span><span
+style="font-family:Simsun;">=29677*0.11=3264.47</span></span><span><span>元。</span></span><span><span
+style="font-family:Simsun;">1</span></span><span><span>个月的赔偿金</span></span><span><span
+style="font-family:Simsun;">=3264.47/12=272.039</span></span><span><span>元。</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span>残疾赔偿金的定义是收入减少和生活补助费</span></span><span><span
+style="font-family:Simsun;">2</span></span><span><span>部分。去掉生活补助费的部分就是收入减少的部分。</span></span><span><span
+style="font-family:Simsun;">272.039*50%=136</span></span><span><span>元。原告得到的收入减少的赔偿是每个月</span></span><span><span
+style="font-family:Simsun;">136</span></span><span><span>元。</span></span><span><span
+style="font-family:Simsun;">2200-136=2064</span></span><span><span>元就是原告收入减少后的剩余的部分。如果不能工作，这部分就是误工费。</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p style="line-height:18.0pt;margin-left:22.5pt;"><span><span>费用计算清单</span></span><span><span
+style="font-family:Simsun;"></span></span></p>
+<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></p>
+<p style="text-indent:120.0pt;"><span>住院伙食补助费</span><span></span></p>
+<p><span>&nbsp;</span><span>住院</span><span>50</span><span>天，护工护理</span><span>28</span><span>天，家属护理</span><span>22</span><span>天。</span><span></span></p>
+<p><span>&nbsp;</span></p>
+<p><span>&nbsp;</span><span>受害人伙食补助费</span><span>&nbsp; 20*50=1000</span><span>元</span><span></span></p>
+<p><span>&nbsp;</span><span>家属伙食补助费</span><span>&nbsp;&nbsp;&nbsp; 20*22=440</span><span>元</span><span></span></p>
+<p><span>&nbsp;</span><span>住院订餐费</span><span>820</span><span>元</span><span></span></p>
+<p><span>&nbsp;1000+440-820=620</span><span>元</span><span></span></p>
+<p><span>&nbsp;</span></p>
+<p><span>&nbsp; </span><span>第二被告认定：每天</span><span>18</span><span>元，共计</span><span>80</span><span>元。相差</span><span>620-80=540</span><span>元</span><span></span></p>
+<p><span>&nbsp;</span></p>
+<p style="text-indent:126.0pt;"><span>营养费</span><span></span></p>
+<p><span>&nbsp;&nbsp; </span><span>营养期间</span><span>120</span><span>天。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 12*120=1440</span><span>元</span><span></span></p>
+<p><span>&nbsp;</span></p>
+<p><span>&nbsp;&nbsp; </span><span>第二被告认定：</span><span>720</span><span>元，每天</span><span>12</span><span>元。</span><span>&nbsp;&nbsp;
+</span><span>相差</span><span>1440-720=720</span><span>元</span><span></span></p>
+<p><span>&nbsp;</span></p>
+<p style="text-indent:132.0pt;"><span>交通费</span><span></span></p>
+<p><span>&nbsp;&nbsp; 1</span><span>、</span><span>2013</span><span>年</span><span>1</span><span>月</span><span>2</span><span>日</span><span>晚，家属李文利去交警二大队处理交通事故，</span><span>11</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 2</span><span>、住院</span><span>50</span><span>天，家人探视送食品、营养品，</span><span>200</span><span>元。</span><span>4*50=200</span></p>
+<p><span>&nbsp;&nbsp; 3</span><span>、到医院复查，</span><span>44</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 4</span><span>、到医院做康复治疗，</span><span>160</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 5</span><span>、去交警二大队调解，</span><span>22</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 6</span><span>、去做伤残鉴定，</span><span>4</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 7</span><span>、去拿鉴定结论，</span><span>4</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 8</span><span>、去理赔中心申请理赔，</span><span>3</span><span>次，</span><span>84</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; 9</span><span>、去保监局投诉，</span><span>28</span><span>元。</span><span>&nbsp;&nbsp;
+</span><span>共计：</span><span>601</span><span>元。相差</span><span>601-204=397</span><span>元</span><span></span></p>
+<p><span>&nbsp;</span></p>
+<p><span>&nbsp;&nbsp;&nbsp; </span><span>第二被告认定：到医院复查</span><span>44</span><span>元，到医院做康复治疗</span><span>160</span><span>元，合计</span><span>204</span><span>元。</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>&nbsp;</span></p>
+<p style="text-indent:120.0pt;"><span>护理费</span><span></span></p>
+<p><span>&nbsp;&nbsp; </span><span>护理天数</span><span>120</span><span>天。护工护理</span><span>28</span><span>天，护理费</span><span>2520</span><span>元，每天</span><span>90</span><span>元。第一被告支付了</span><span>2000</span><span>元，原告垫付了</span><span>520</span><span>元。</span><span></span></p>
+<p><span>&nbsp;&nbsp; </span><span>家人护理</span><span>92</span><span>天。计算方法：</span><span>76*92+520=6992+520=7512</span><span>元</span><span></span></p>
+<p><span>&nbsp;</span></p>
+<p style="text-indent:24.0pt;"><span>第二被告认定：</span><span>4900</span><span>元</span><span>-</span><span>返还给第一被告的</span><span>2000</span><span>元</span><span>=2900</span><span>元。相差</span><span>4612</span><span>元</span><span></span></p>
+<p style="text-indent:24.0pt;"><span>&nbsp;</span></p>
+<p style="text-indent:114.0pt;"><span>误工费</span><span></span></p>
+<p><span>误工时间：</span><span>2013</span><span>年</span><span>1</span><span>月</span><span>2</span><span>日到</span><span>7</span><span>月</span><span>11</span><span>日。</span><span>6</span><span>个月</span><span>10</span><span>天。</span><span></span></p>
+<p><span>收入：</span><span>2200</span><span>元</span><span>/</span><span>月，</span><span>
+84.62</span><span>元</span><span>/</span><span>天。</span><span></span></p>
+<p><span>误工费</span><span>2200*6=13200&nbsp; 84.62*10=846&nbsp; 13200+846=14046</span><span>元</span><span></span></p>
+<p><span>&nbsp;</span></p>
+<p style="text-indent:24.0pt;"></p>
+<p><span>第二被告认定：</span><span>10500</span><span>元，每天</span><span>70</span><span>元。相差</span><span>14046-10500=3546</span><span>元。</span><span></span></p><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center">
+<table border="0" cellpadding="0" cellspacing="0"><tr><td class="doc_sign">听说寻觅爱情就像天与地别离和重聚的过程<br>
+就让我们相逢只是偶然.<br>
+等待你的到来<br>
+我在版里沏好茶欢迎你！<br>
+<br>
+</td></tr></table>
+</td></tr>
+<tr><td class="doc_sign" align="center"><a href="http://u17197388.xici.net" target="_blank">我的家园欢迎您！</a></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d201611473.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_7></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-04-16 21:14</span></p></dd></dl><dl class="dl"><dt><a href="/d153099499.htm" target="_blank">修机床</a></dt><dd class="bor"><p class="pd"><!---doc_text--->上午去六合修机床，下午四点多回来，累的一米，还没修好。<!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center">
+<table border="0" cellpadding="0" cellspacing="0"><tr><td class="doc_sign">听说寻觅爱情就像天与地别离和重聚的过程<br>
+就让我们相逢只是偶然.<br>
+等待你的到来<br>
+我在版里沏好茶欢迎你！<br>
+<br>
+</td></tr></table>
+</td></tr>
+<tr><td class="doc_sign" align="center"><a href="http://u17197388.xici.net" target="_blank">我的家园欢迎您！</a></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d153099499.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_8></span>　跟贴：1　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：11-09-14 20:29</span></p></dd></dl><dl class="dl"><dt><a href="/d152927967.htm" target="_blank">诚招合作经销商</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p align="left" style="text-align:left;text-autospace:none;text-indent:100.4pt;"><b><u><span
+style="color:red;font-family:宋体;">玉林机床有限公司诚招经销商合作</span></u></b></p>
+<p align="left" style="text-align:left;text-autospace:none;"><span style="font-family:宋体;">盐城市玉林机床有限公司是一家集设计、制造、安装、调试及售后服务于一体的企业。主要生产　C6136A
+C6136B型普通车床，CJK6136 6140 6150 数控车床。本公司以技术力量雄厚，质量管理严谨，生产制造精良，售后服务完善著称．本着科技、质量、诚信的宗旨热情为客户服务，我们将坚持”创华东第一品牌”的目标，以优质、高效的服务引领机床行业的新潮流。公司在省内苏州，无锡，常州，南京，扬州，徐州等城市，省外上海，淅江，广东，湖南，湖北，四川，重庆，安徽，河南，河北，山东，北京，天津等省和直辖市都设有办事处。</span></p>
+<p align="left" style="text-align:left;text-autospace:none;"><span style="font-family:宋体;">现诚招南京市及周边地区的合作伙伴，欢迎有意向的朋友来电详询！</span></p>
+<p align="left" style="text-align:left;text-autospace:none;"><span style="font-family:宋体;">&nbsp;</span></p>
+<p align="left" style="text-align:left;text-autospace:none;"><b><u><span style="color:red;font-family:宋体;">玉林机床有限公司南京办事处
+</span></u></b><b><u><span style="color:red;font-family:宋体;"></span></u></b></p>
+<p align="left" style="text-align:left;text-autospace:none;"><b><u><span style="color:red;font-family:宋体;">联系人
+陈先生 电话：18913919939 QQ:467778775 邮箱：467778775@qq.com</span></u></b><b><u><span style="color:red;"></span></u></b></p>
+<p align="left" style="text-align:left;text-autospace:none;"><b><span style="color:red;font-family:宋体;">&nbsp;</span></b></p><!---doc_text---><div align="right"><table border="0" cellpadding="0" cellspacing="0">
+<tr><td class="doc_sign" align="center">
+<table border="0" cellpadding="0" cellspacing="0"><tr><td class="doc_sign">听说寻觅爱情就像天与地别离和重聚的过程<br>
+就让我们相逢只是偶然.<br>
+等待你的到来<br>
+我在版里沏好茶欢迎你！<br>
+<br>
+http://b1146638.xici.net</td></tr></table>
+</td></tr>
+<tr><td class="doc_sign" align="center"><a href="http://b1146638.xici.net" target="_blank">温馨家园</a></td></tr>
+</table></div></p><p class="pb"><span class="l"><samp>[</samp><a href="/d152927967.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_9></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：11-09-11 10:12</span></p></dd></dl><script language=javascript>function SetValue(sValues) {var arrvs = sValues.split(',');for (var i = 0; i < arrvs.length; i++) {document.getElementById("c_" + i).innerHTML = arrvs[i];};};SetValue('121,188,60,84,74,1044,858,232,156,56');</script><div class="alg_r"><b>1</b> <a href="/u17197388/p2.htm">2</a> <a href="/u17197388/p3.htm">3</a> <a href="/u17197388/p2.htm">下一页</a> <input style="border:solid 1px #333333;font-size:12px;" id="pnBox" type="text" size="1"> <a href=# onClick="RePage('/u17197388/p',pnBox.value);">翻页</a> 共 3 页</div></div>
+
+		
+	</div>	
+	<div id="slideB"><div class="widget bor"><h2 class="tit bgn" title="我的名片">我的名片</h2><div class="cul"><a href="/u17197388"><img src="http://icons.xici.net/u17197388/files/photo_l.pic" alt=看不见听不懂 /></a><p class="name">看不见听不懂</p><ul class="ul"><li>ID　　号：17197388</li><li>注册时间：09-07-27</li><li>上次登陆：14-04-29</li><!--li>今日人气：12345</li--><!--li>今日排名：12345</li--></ul></div></div><div class="widget bor"><h2 class="bgn tit">文章分类</h2><ul class="ul pul"></ul></div><div class="widget bor"><h2 class="tit bgn">讨论版</h2><ul class="ul pul"></ul></div></div><div id="slideC"><div class="widget bor"><h2 class="tit bgn">讨论版</h2><ul class="ul pul"></ul></div><div class="widget bor"><h2 class="tit bgn">讨论版</h2><ul class="ul pul"></ul></div><div class="widget bor"><h2 class="tit bgn" title="好友链接">好友链接</h2><ul class="pic_ul flink"></ul></div><div class="widget bor"><h2 class="tit bgn" title="好友链接">好友链接</h2><ul class="pic_ul flink"></ul></div><div class="widget bor"><h2 class="tit bgn" title="好友链接">好友链接</h2><ul class="pic_ul flink"></ul></div></div>
+	
+</div>
+<script language=javascript>
+localStorage.removeItem("noticeNum" + G_UID);
+try{
+ImgsFix();
+}catch(e){}
+jQuery(function (){
+	jQuery("#blog_bottom").show();
+	var a_h,b_h,c_h;
+	var typeA = jQuery("#slideA").css("display");
+	var typeB = jQuery("#slideB").css("display");
+	var typeC = jQuery("#slideC").css("display");
+	if(typeA == "block"){
+		a_h = jQuery('#slideA').height();
+	}else{
+		a_h = 0;
+	}
+
+	if(typeB == "block"){
+		b_h = jQuery('#slideB').height();
+	}else{
+		b_h = 0;
+	}
+
+	if(typeC == "block"){
+		c_h = jQuery('#slideC').height();
+	}else{
+		c_h = 0;
+	}
+	jQuery('#spCont').css("height", Math.max(a_h,b_h,c_h));
+})
+</script>
+
+<span id="blog_bottom" style="display:none;">
+</div>
+<script type="text/javascript">var lCityId=142440100;var lClubId=1;var lATimes=1;var strRefer='http://user.xici.net/u17197388/';var refer='';if(refer=='fav') {strRefer='menu.asp';} var strFirstRefer='Xici';var maintag = (typeof(StatMainTag)=='undefined')?'':StatMainTag;var sbookDate = (typeof(bookDate)=='undefined')?'4':bookDate;var sLogondays = (typeof(Logondays)=='undefined')?'0':Logondays;var screenResolution = screen.width+'*'+screen.height;var str_img={rnd:"2015-12-21|13:48:00",runtime:{pub_1:"0.016",pub_2:"0.000",d_bconn:"0.000",d_bvsql:"0.000",d_besql:"0.000",HttpTimer_Raw1:"0.000",ATime:"0.109",DTime:"0.000",FTime:"0.000",AppSvr:"",AppRun:""},stat:{dn:"www.xici.net",uname:"",uid:"0",s:"A3B6EAEE5EB4253E",h:"",ct:"142440100",ch:"1",ats:"1",fr:"Xici",frurl:"http://user.xici.net/u17197388/",cus:"http://www.xici.net/u17197388/",rf:escape(strRefer),mt:escape(maintag),bdt:sbookDate,lds:sLogondays,scr:screenResolution}};str_img="<img src='http://data.xici.net/1x1.gif?"+JSON.stringify(str_img)+"' style='display:none;' />";if(typeof(lBdId)=="undefined") {document.write(str_img);}else{document.write(str_img.replace(/(\/d([^/]+)\.htm)/,'/b'+lBdId+'$1'));}</script>
+	<script type="text/javascript">
+	window.onload = function () {
+			var SessionID = 'A3B6EAEE5EB4253E';
+			if (SessionID != "" && window.localStorage){
+				var key = localStorage.getItem("key");
+				if (key!=SessionID){
+					localStorage.setItem("key",SessionID);
+					localStorage.setItem("count",1);
+				}else{
+					var value = Number(localStorage.getItem("count"));
+					localStorage.setItem("count",value+1);
+					if ((value % 6)==0){
+						bdAccessLogon(location.href.substring(location.host.length + 8),'_self');
+					}
+				}
+			}
+		}
+	</script>
+<img alt="" src="" width="0" height="0" />
+<div id="ofooter" class="w">
+	<span><a href="/" target="_blank" title="西祠首页">胡同口</a>|<a href="/help/law.asp" target="_blank" title="网民法规提示">法规</a>|<a href="http://service.xici.net/" target="_blank" title="广告服务">广告服务</a>|<a href="/help/partner.asp" target="_blank" title="合作伙伴">合作伙伴</a>|<a href="/help/contact.asp" target="_blank" title="联系我们">联系我们</a>|<a href="/b566135/" target="_blank" title="加入我们">加入我们</a>
+	</span>
+</div>
+
+<script type="text/javascript">    
+//google代码统计
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+jQuery(function (){
+	if (typeof gastatic !== "undefined") {
+		gastatic();
+	}
+});
+</script>
+<!--[if IE 6]>
+<script src="http://imgs.xici.net/_js/DD_belatedPNG.js"></script>
+<script type="text/javascript">
+   DD_belatedPNG.fix('.logo_top, .logo a');
+</script>
+<![endif]-->
+
+</span>
+<script src="http://imgs.xici.net/_js/xici.common.analysis-baidu.js" type="text/javascript"></script>
+</body>
+</html>

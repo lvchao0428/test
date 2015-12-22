@@ -1,0 +1,150 @@
+<!--UINFO: http://www.hupub.com/thread-4749316-1-1.html	length=12710&last_modified=0&time_saved=1450676751&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>提示信息 -  北京论坛 —— 北京生活消费门户 -  Powered by Discuz!</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",北京论坛 —— 北京生活消费门户" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://www.hupub.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?TIl" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_viewthread.css?TIl" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'TIl', charset = 'gbk', discuz_uid = '0', cookiepre = 'PEBG_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = '', creditnotice = '1|威望|', defaultstyle = '', REPORTURL = 'aHR0cDovL3d3dy5odXB1Yi5jb20vdGhyZWFkLTQ3NDkzMTYtMS0xLmh0bWw=', SITEURL = 'http://www.hupub.com/', JSPATH = 'static/js/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="static/js/common.js?TIl" type="text/javascript"></script>
+<meta name="application-name" content="北京论坛 —— 北京生活消费门户" />
+<meta name="msapplication-tooltip" content="北京论坛 —— 北京生活消费门户" />
+<meta name="msapplication-task" content="name=首页;action-uri=http://www.hupub.com;icon-uri=http://www.hupub.com/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=导航;action-uri=http://www.hupub.com/forum.php;icon-uri=http://www.hupub.com/static/image/common/bbs.ico" />
+<link rel="archives" title="北京论坛 —— 北京生活消费门户" href="http://www.hupub.com/archiver/" />
+<script src="static/js/forum.js?TIl" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://www.hupub.com/');">设为首页</a><a href="http://www.hupub.com/"  onclick="addFavorite(this.href, '北京论坛 —— 北京生活消费门户');return false;">收藏本站</a></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到宽版" class="switchwidth">切换到宽版</a>
+</div>
+</div>
+</div>
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="北京论坛 —— 北京生活消费门户"><img src="static/image/common/logo.png" alt="北京论坛 —— 北京生活消费门户" border="0" /></a></h2><script src="static/js/logging.js?TIl" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<span class="ftid">
+<select name="fastloginfield" id="ls_fastloginfield" width="40" tabindex="900">
+<option value="username">用户名</option>
+<option value="email">Email</option>
+</select>
+</span>
+<script type="text/javascript">simulateSelect('ls_fastloginfield')</script>
+</td>
+<td><input type="text" name="username" id="ls_username" autocomplete="off" class="px vm" tabindex="901" /></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />自动登录</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password" class="z psw_w">密码</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;"><em>登录</em></button></td>
+<td>&nbsp;<a href="member.php?mod=register" class="xi2 xw1">注册</a></td>
+</tr>
+</table>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</div>
+</div>
+</form>
+
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(0);})">快捷导航</a>
+<ul><li id="mn_portal" onmouseover="navShow('portal')"><a href="http://www.hupub.com" hidefocus="true" title="Portal"  >首页<span>Portal</span></a></li><li class="a" id="mn_forum" onmouseover="navShow('forum')"><a href="http://www.hupub.com/forum.php" hidefocus="true" title="BBS"  >导航<span>BBS</span></a></li><li id="mn_N09cc" ><a href="forum-6-1.html" hidefocus="true" title="北京杂谈"  >杂谈<span>北京杂谈</span></a></li><li id="mn_Nc4f3" ><a href="forum-5-1.html" hidefocus="true" title="北京美食"  >美食<span>北京美食</span></a></li><li id="mn_N55c6" ><a href="forum-20-1.html" hidefocus="true" title="房产楼市"  >房产<span>房产楼市</span></a></li><li id="mn_N4df3" ><a href="forum-48-1.html" hidefocus="true" title="家居装修"  >家居<span>家居装修</span></a></li><li id="mn_Na4aa" ><a href="http://www.hupub.com/forum.php?gid=44" hidefocus="true" title="北京旅游"  >旅游<span>北京旅游</span></a></li><li id="mn_N93be" ><a href="forum-50-1.html" hidefocus="true" title="谈婚论嫁"  >婚嫁<span>谈婚论嫁</span></a></li><li id="mn_N2386" ><a href="forum-19-1.html" hidefocus="true" title="孕宝亲子"  >亲子<span>孕宝亲子</span></a></li><li id="mn_Nc56c" ><a href="forum-17-1.html" hidefocus="true" title="服饰搭配"  >服饰<span>服饰搭配</span></a></li><li id="mn_N66df" ><a href="forum-24-1.html" hidefocus="true" title="车友之家"  >汽车<span>车友之家</span></a></li><li id="mn_N803d" ><a href="forum-26-1.html" hidefocus="true"  >数码</a></li><li id="mn_Nd408" ><a href="http://it.hupub.com" hidefocus="true" title="科技" target="_blank"  >科技<span>科技</span></a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+<ul class="cl current" id="snav_mn_forum" style="display:">
+<li><a href="forum-6-1.html" hidefocus="true" >北京杂谈</a></li><li><a href="forum-5-1.html" hidefocus="true" >北京美食</a></li><li><a href="forum-4-1.html" hidefocus="true" >生活百科</a></li><li><a href="forum-27-1.html" hidefocus="true" >情感生活</a></li><li><a href="forum-17-1.html" hidefocus="true" >服饰搭配</a></li><li><a href="forum-18-1.html" hidefocus="true" >美容美发</a></li><li><a href="forum-56-1.html" hidefocus="true" >纤体瘦身</a></li><li><a href="forum-24-1.html" hidefocus="true" >车友之家</a></li><li><a href="forum-31-1.html" hidefocus="true" >投资理财</a></li><li><a href="forum-21-1.html" hidefocus="true" >宠物乐园</a></li><li><a href="forum-10-1.html" hidefocus="true" >电脑技术</a></li><li><a href="forum-26-1.html" hidefocus="true" >数码家电</a></li><li><a href="forum-29-1.html" hidefocus="true" >游戏世界</a></li><li><a href="forum-20-1.html" hidefocus="true" >房产楼市</a></li><li><a href="forum-48-1.html" hidefocus="true" >家居装修</a></li><li><a href="forum-49-1.html" hidefocus="true" >房屋租售</a></li><li><a href="forum-23-1.html" hidefocus="true" >出游计划</a></li><li><a href="forum-45-1.html" hidefocus="true" >游记攻略</a></li><li><a href="forum-46-1.html" hidefocus="true" >户外装备</a></li><li><a href="forum-50-1.html" hidefocus="true" >谈婚论嫁</a></li><li><a href="forum-19-1.html" hidefocus="true" >孕宝亲子</a></li><li><a href="forum-8-1.html" hidefocus="true" >北京征婚</a></li><li><a href="forum-25-1.html" hidefocus="true" >教育培训</a></li><li><a href="forum-12-1.html" hidefocus="true" >求职招聘</a></li></ul>
+</div></div>
+</div>
+
+
+<div id="wp" class="wp">
+<div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p>抱歉，指定的主题不存在或已被删除或正在被审核</p>
+<script type="text/javascript">
+if(history.length > (BROWSER.ie ? 0 : 1)) {
+document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ 点击这里返回上一页 ]</a></p>');
+} else {
+document.write('<p class="alert_btnleft"><a href="./">[ 北京论坛 —— 北京生活消费门户 首页 ]</a></p>');
+}
+</script>
+</div>
+</div>
+</div>
+</div>	</div>
+<div class="wp a_f"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2013737004811530";
+/* 帖子一楼 */
+google_ad_slot = "1150420161";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div><div class="wp a_f"><img src="http://www.hupub.com/images/ad/love.gif" border="0"><br>北京市公安局海淀分局备案:1101082119</div><div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="http://www.hupub.com/forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><strong><a href="http://www.hupub.com/" target="_blank">北京论坛</a></strong>
+( <a href="http://www.miitbeian.gov.cn/" target="_blank">京ICP备09007359号</a> )&nbsp;<a href="http://discuz.qq.com/service/security" target="_blank" title="防水墙保卫网站远离侵害"><img src="static/image/common/security.png"></a><span class="pipe">|</span><script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F819e38dcc5c30de5332230666c3cff5d' type='text/javascript'%3E%3C/script%3E"));
+</script><span class="pipe">|</span><script src="http://s96.cnzz.com/stat.php?id=937399&web_id=937399" language="JavaScript"></script><span class="pipe">|</span><a href="http://www.hupub.com/thread-33486-1-1.html" target="_blank">广告业务</a><span class="pipe">|</span><a href="mailto:hupub2008@gmail.com">联系我们</a><!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=0&amp;uid=6482458" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+</script>
+<!-- Baidu Button END --></p>
+<p class="xs0">
+GMT+8, 2015-12-21 13:45<span id="debuginfo">
+, Processed in 0.039298 second(s), 0 queries
+, Memcache On.
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.2</em></p>
+<p class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1450676751" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '43446228|X3.2|0.6||0||0|7|1450676751|27ab80352478d3f1795111f7434f0f20|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>

@@ -1,0 +1,3225 @@
+<!--UINFO: http://club.kdnet.net/dispbbs.asp?page=1&boardid=25&id=11337832	length=204415&last_modified=0&time_saved=1450676755&charset=GB2312-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>[原创]关于广州北斗导航技术有限公司投诉信的分析 【律师之窗】-凯迪社区</title>
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.kdnet.net/content-25-11337832.html" />
+<meta name="author" content="凯迪网络">
+<meta name="keywords" content="凯迪社区,凯迪网络">
+<meta name="description" content="凯迪社区">
+<meta name="copyright" content="凯迪网络版权所有" />
+<link rel="icon" href="http://imgcdn.kdnet.net/webset/www/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://imgcdn.kdnet.net/webset/www/favicon.ico" type="image/x-icon" />
+<link rel="bookmark" href="http://imgcdn.kdnet.net/webset/www/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://imgcdn.kdnet.net/webset/club/include/g_images/fav.png"/>
+<link rel="apple-touch-icon-precomposed" href="http://imgcdn.kdnet.net/webset/club/include/g_images/fav.png"/>
+<!-- sunny modify 20130710 收藏 begin -->
+<!-- link href="http://imgcdn.kdnet.net/webset/www/g_style/base8.css" rel="stylesheet" type="text/css" / -->
+<link href="http://upfile1.kdnet.net/webset/www/g_style/base10_v5_20140516.css" rel="stylesheet" type="text/css" />
+<!-- sunny modify 20130710 收藏 end -->
+<link href="http://imgcdn.kdnet.net/webset/www/g_style/face.css" rel="stylesheet" type="text/css" />
+<link href="http://upfile1.kdnet.net/webset/club/include/style/club_v5.1.4_20141022.css" rel="stylesheet" type="text/css" /><!-- sunny 20131021 share-->
+	<style type="text/css">
+		/* sunny 20140113 不着调 B */
+		.unreliable-title { margin: 0; padding: 0; padding-left: 100px; height: 40px; line-height: 20px; position: relative; } 
+		.unreliable-title i { font-size: 14px; font-weight: bold; color: #05111a; font-style: normal; display: block; }
+		.unreliable-title span { font-size: 12px; color: #76797b; }
+		.unreliable-title b { display: block; position: absolute; top: 0; left: 0; width: 90px; height: 40px; background: url('unreliable.png') no-repeat 0 0; _background: url('unreliable.gif') no-repeat 0 0; }
+		.unreliable-title.kop b { background-position: 0 0; }
+		.unreliable-title.nokop b { background-position: 0 -40px; }
+		p.unreliable-cont { border-top: 1px solid #bad8d8; margin-top: 10px; padding-top: 10px; }
+		/* sunny 20140113 不着调 E */
+
+		/* sunny 20140211 元宵节 B */
+		.lantern-festival-tit{ height:32px; width:100%;}
+		.lantern-festival-tit b{ display:block; height:32px; text-indent:-9999px; background:url('http://user.kdnet.net/valentine/images/lantern_festival.png') no-repeat 9999em 0; overflow:hidden;}
+		.lantern-festival-tit.love b{ width:202px; background-position: 0 0;}
+		.lantern-festival-tit.family b{ width:185px; background-position: 0 -32px;}
+		.lantern-festival-tit.other b{ width:90px; background-position: 0 -64px;}
+		.lantern-festival-cont{ border-top:1px solid #bad8d8; margin-top:10px; padding-top:10px;}
+		/* sunny 20140211 元宵节 E */
+	</style>
+
+<style type="text/css">
+.wlad-list { 
+	border: 1px solid #fff;
+	padding: 3px 10px;
+}
+.wlad-list li { 
+	float: left;
+	width: 33%;
+	line-height: 22px;
+}
+</style>
+
+
+
+</head>
+<body id="ClubCont"> 
+<!-- sunny 打赏 B -->
+<div id="re_test">
+	<div class="reward-fixed-box reward-fixed" style="display:none;">
+		<form id="t_form" name="t_form" method="post" action="http://upfile1.kdnet.net/giving_do.asp?action=sre&method=fastreply&BoardID=25">
+		<div class="reward-fixed-main" style="margin-left:-200px;">
+			<div class="reward-fixed-cont">
+				<div class="reward-title">打赏<b class="REclose" onclick="closeR();"></b></div>
+				<div class="fixed-cont">
+					<div class="reward-choose">
+
+						<input type="hidden" id="username" name="username" value="" />
+						<input type="hidden" id="password" name="password" value="" />
+						<input type="hidden" id="boardid" name="boardid" value="25" />
+						<input type="hidden" id="followup" name="followup" value="" />
+						<input type="hidden" id="rootid" name="rootid" value="11337832" />
+						<input type="hidden" id="totalusetable" name="totalusetable" value="DV_BBS8" />
+						<input type="hidden" id="lay" name="lay" value="" />
+
+						<input type="hidden" name="aid" id="aid" value="" />
+						<label><span class="lf Rad"><input type="radio" name="RadioGroup1" value="10" id="RadioGroup1" onclick="chk_integral();" checked="checked" /></span><span class="number">10</span></label>
+						<label><span class="lf Rad"><input type="radio" name="RadioGroup1" value="50" id="RadioGroup1" onclick="chk_integral();" /></span><span class="number">50</span></label>
+						<label><span class="lf Rad"><input type="radio" name="RadioGroup1" value="100" id="RadioGroup1" onclick="chk_integral();" /></span><span class="number">100</span></label>
+						<label><span class="lf Rad"><input type="radio" name="RadioGroup1" value="200" id="RadioGroup1" onclick="chk_integral();" /></span><span class="number">200</span></label>
+						<label><span class="lf Rad"><input type="radio" name="RadioGroup1" value="500" id="RadioGroup1" onclick="chk_integral();" /></span><span class="number">500</span></label>
+						<label><span class="lf Rad"><input type="radio" name="RadioGroup1" value="1000" id="RadioGroup1" onclick="chk_integral();" /></span><span class="number">1000</span></label>
+						<label><span class="lf Rad"><input type="radio" name="RadioGroup1" value="" id="RadioGroup1" onclick="chk_integral();"  /></span><input type="text" id="input_integral" class="custom-reward" placeholder="自定义" onkeyup="checkNum(this);chk_integral();" /></label>
+					</div>
+					<div class="reward-reply"><textarea id="reply-words" name="reply-words" cols="" rows="" class="reply-words" placeholder="说点什么吧！"></textarea></div>
+					<div class="lh25px clearfix"><span class="lf">您（@）目前可用积分：<strong>2048890</strong><br><b class="red" id="notenough_memo"></b></span><span class="rf"><label class="reply-yes-no"><input id="rpy_checkbox" name="rpy_checkbox" type="checkbox" value="rpl"  checked="checked" /><b>跟帖回复</b></label><span class="reward-btn-s-box"><a href="javascript:viod(0);" class="reward-btn-big reward-btn-big2" id="butsubmit" onclick="butsubmit()">赏了</a></span></span></div>
+				</div>
+			</div>
+		</div>
+	  </form>
+	</div>
+
+	<div class="reward-userfixed-box reward-fixed" style="display:none;">
+		<div class="reward-userfixed-main">
+			<div class="reward-fixed-cont">
+				<div class="reward-title">最近打赏记录<b class="REclose" onclick="closeR()"></b></div>
+				<div class="userfixed-cont">
+					<div class="titBox">
+						<div class="userID">ID</div>
+						<div class="userTime">时间</div>
+						<div class="rewNum">打赏</div>
+						<div class="rewMsg">留言</div>
+					</div>
+					<div class="userList">
+						<ul id="userList">
+
+						</ul>
+					</div>
+					<div class="userRewNum" id="userRewNum">共获得打赏：<b class="red"></b></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- sunny 打赏 E -->
+
+<div  id="recipientsTips" class="tips-input c-main" style="position:absolute;display:none;z-index:9999;"><div class="suggest_title c-sub">选择最近@的朋友帐号，或直接输入</div><ul id="autoTipsUserList"></ul></div>
+<!--[if IE]>
+   <style type="text/css">
+   .integral {
+       background:transparent;
+       filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#333333,endColorstr=#333333);
+       zoom: 1;
+    }
+    </style>
+<![endif]--> 
+
+<!--定位消息-->
+<div class="fixed-outer">
+	<div class="fixed-inner"  id="ajax_header_msg">
+		<div class="msg-box clearfix" style="display:none;" id="ajax_header" >
+		</div>
+	</div>
+</div>
+<!--定位消息 End-->
+
+<!--帮助层-->
+<div id="OverlayHelp" style="display:none">
+	<div class="contentWrap">
+	    
+		<div class="help-show"><img src="http://upfile1.kdnet.net/webset/club/include/images/help_login.png" alt="" /></div>
+		
+	</div>
+</div>
+<!--帮助层 End-->
+
+<div id="hidden_frame" style="display:none;"><iframe id="_frame" width="950" height="545" allowTransparency="true" frameborder="0" vspace="0" marginheight="0" marginwidth="0" src=""></iframe></div>
+
+
+
+<!-- 顶部导航栏 -->
+<div class="top-fixed-nav">
+	<div class="nav-con ">
+		<div class="nav-menu-left ">
+			<a href="http://www.kdnet.net" target="_blank" class="lf nav-logo" title="凯迪网络 主流声音">凯迪网络 主流声音</a>
+
+			<!-- 智能首页 -->
+			<ul class="nav-menu nav-menu-intelligent lf now-in-intelligent">
+				<li class="btn-l"><a href="http://club.kdnet.net/myhome.asp" class="nav-option not-new"><b class="nav-icon nav-op-intelligent"></b>智能首页</a></li>
+				<li class="btn-c"><a href="http://hot.kdnet.net/hottopiclist.asp" class="nav-option in-new"><b class="nav-icon nav-op-hot-post"></b>今日热帖</a></li>
+			
+				<li class="btn-c" ><a href="http://club.kdnet.net/list.asp?boardid=99" class="nav-option in-kdgz"><b class="nav-icon"></b>上海会馆<b class="icon-try-con nav-t-new"></b></a></li>
+			
+
+				<!-- li class="btn-r thinker"><a href="http://special.kcis.cn">思享者</a></li -->
+			</ul>
+			<!-- 智能首页 END-->
+
+		</div>
+		
+		<div class="nav-menu-right">
+			
+			<div class="nav-user-msg-f rf">
+				
+                <div class="login-f"><a href="http://uc.kdnet.net/?redirect=http://club.kdnet.net%2Fdispbbs%2Easp%3Fpage%3D1%26boardid%3D25%26id%3D11337832" target="_blank" class="btn-gb">登录</a><a href="http://uc.kdnet.net/?redirect=http://club.kdnet.net%2Fdispbbs%2Easp#formRegister" target="_blank">注册新用户</a></div>
+
+				<div class="nav-menu-ex-f clearfix nav-menu-login">
+					<div class="nav-menu-ex">
+						<i class="dot-ex dot-ex-login"></i>
+						<a href="http://uc.kdnet.net/?redirect=http://club.kdnet.net%2Fdispbbs%2Easp%3Fpage%3D1%26boardid%3D25%26id%3D11337832"><b class="nav-icon nav-op-kdnet"></b>凯迪登录</a>
+						<a href="http://data.kdnet.net/sina/auto_bind_sina.php"><b class="nav-icon nav-op-sina"></b>新浪微博登录</a>
+						<a href="http://3g.kdnet.net/qq_connect/example/oauth/index.php"><b class="nav-icon nav-op-qq"></b>QQ登录</a>
+					</div>
+				</div>
+				<!-- 头部登录后右二列表 END-->
+				
+			</div>
+
+			<form id="form1" action="http://search.kdnet.net" method="get" target="_blank" class="sear-box-trans rf pore">
+				<a href="javascript:;" class="sear-bg">
+				<input type="submit" name="sa" id="searchsubmit" value="" class="sear-go"/>
+				<input name="q" type="text" id="s" onfocus="javascript:if(this.value=='发生山体滑坡'){this.value='';this.className='sear-input sear-in';}" onblur="javascript:if(this.value==''){this.value='发生山体滑坡';this.className='sear-input'}" value="发生山体滑坡" class="sear-input"/>
+				</a>
+			</form>
+			
+		</div>
+	</div>
+	<div class="nav-opacity"></div>
+	<div class="nav-line-b"></div>
+
+    
+</div>
+
+<div class="nav-space-t"></div>
+<!-- 顶部导航栏 end -->
+
+		<!-- **************************************weizi [2013-10-14] 新增加社区内容页左侧广告 *************************************************** -->
+        <!--<div class="ad-banner-left clearfix">
+        	<div class="ad-banner-left-box">
+                <div class="ad-banner-left-cont" id="ad-banner-left-cont">
+				
+				<div id="dispbbs87">
+					<script type="text/javascript">
+						 document.write('<a style="display:none!important" id="tanx-a-mm_34021018_3435525_14416284"></a>');
+						 tanx_s = document.createElement("script");
+						 tanx_s.type = "text/javascript";
+						 tanx_s.charset = "gbk";
+						 tanx_s.id = "tanx-s-mm_34021018_3435525_14416284";
+						 tanx_s.async = true;
+						 tanx_s.src = "http://p.tanx.com/ex?i=mm_34021018_3435525_14416284";
+						 tanx_h = document.getElementsByTagName("head")[0];
+						 if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild);
+					</script>
+				</div>
+				
+
+				<div class="kd-app-code close-code">
+                	<p class="close" title="关闭" onclick="$(this).parent('.close-code').hide();"><b class="ico-newshare"></b></p>
+                    <a href="http://3g.kdnet.net/app.php" target="_blank"><img src="http://upfile1.kdnet.net/webset/club/include/images/kd_app_1024.gif" width="94" height="94" /></a>
+                    <div><a href="http://3g.kdnet.net/app.php" target="_blank">凯迪社区客户端<br />点击或扫描下载</a></div>
+                </div>
+
+				</div>
+                </div>
+        </div>-->
+
+		<div class="ad-banner-left clearfix">
+        	<!--<div class="ad-banner-left-box" style="top:405px;"><!--对联物料-->
+			<div class="ad-banner-left-box" style="top:100px;"><!--不是对联-->
+                <div class="ad-banner-left-cont" id="ad-banner-left-cont">
+				
+				<div id="dispbbs87">
+					<div id="BDad-left">
+						<!--<script type="text/javascript" >
+							//联盟对联广告1024及以下的分辨率不加载
+							//if(document.documentElement.clientWidth>=1280) { 
+							document.write('<scri'+'pt type="text/javascript">BAIDU_CLB_SLOT_ID = "833859";</s'+'cript>');
+							document.write('<scri'+'pt src="http://cbjs.baidu.com/js/o.js" type="text/javascript"></s'+'cript>');
+							//}
+						</script>-->
+					</div>
+				</div>
+				
+
+				<div class="kd-app-code close-code">
+                	<p class="close" title="关闭" onclick="$(this).parent('.close-code').hide();"><b class="ico-newshare"></b></p>
+                    <div class="code-pans">
+                    	<div>
+                        	<img src="http://upfile1.kdnet.net/webset/club/include/images/kd_app_1024.gif" width="94" height="94" />
+                    		<div class="code-text-box"><a href="http://3g.kdnet.net/app.php" target="_blank">凯迪社区客户端<br />v2.1版新鲜出炉<br />点击或扫描下载</a></div>
+                        </div>
+                        <div>
+                        	<img src="http://upfile1.kdnet.net/webset/club/include/images/kd_gongzhong.gif" width="94" height="94" />
+                    		<div class="code-text-box">凯迪微信公众号<br />扫描二维码关注<br />发现信息价值</div>
+                        </div>
+                    </div>
+                    <div class="code-tabs">
+                    	<a href="javascript:void(0);">客户端</a>
+                        <a href="javascript:void(0);">公众账号</a>
+                    </div>
+                </div>
+
+				</div>
+                </div>
+        </div>
+
+        <style>
+         	.ad-banner-left{ height:0; width:1030px; margin:0 auto; position:relative;}
+			.ad-banner-left-box{width:120px; height:240px; position:absolute; left:-120px; z-index:1000;}
+			.ad-banner-left-cont{ width:120px; height:240px; position:absolute;}
+        </style>
+        <!-- **************************************weizi [2013-10-14] 新增加社区内容页左侧广告 ********************************************** End -->
+
+
+
+<div id="TopScrollDiv" class="topscroll-div"> </div>
+
+<!-- 内容 -->
+<div class="wrapper clearfix w1030px">
+  <!-- // 左边内容 -->
+  <div class="lf w840px">
+	<!--主导航-->
+	<div class="globalnav c-white clearfix">
+			<span><a href="javascript:;" onclick="setHomepage();">收藏</a> </span>
+                        <ul class="globalnav-ul">
+			            <li><a href="http://www.kdnet.net" class="current">首页</a> |</li>
+            			<li><a href="http://club.kdnet.net">社区</a> |</li>
+            			<li><a href="http://www.kcis.cn">云情报</a> |</li>
+            			<!--<li><a href="http://video.kdnet.net"><b class="c-alarm">视频</b></a> |</li>
+            			<li><a href="http://t.kdnet.net">微评</a> |</li>-->
+            			<li><a href="http://chat.kdnet.net">夜话</a> |</li>
+            			<li><a href="http://special.kdnet.net">专题</a> |</li>
+            			<li><a href="http://blog.kdnet.net">博客</a> |</li>
+            			<!--<li><a href="http://weekly.kdnet.net">周刊</a> |</li>-->
+            			<!--li><a href="http://www.kdnet.net/redirect_ad.asp?page=club"><b class="c-alarm">小说</b></a> |</li-->
+            			<li><a href="http://school.kdnet.net">凯迪小学</a> |</li>
+						<li><a href="http://lun.kdnet.net/">猫论天下</a> |</li>
+						<li class="globalnav-last">
+            				<a href="javascript:;" id="globalnav-more-btn">更多</a>
+            				<ul>
+							    <li><a href="http://shop.kdnet.net">凯迪商城</a> </li>
+            					<!--li><a href="http://school.kdnet.net">凯迪小学</a></li-->
+            					<li><a href="http://research.kdnet.net">传播研究院</a></li>
+								<li><a href="http://3g.kdnet.net/intro.php">手机凯迪网</a></li>
+            				</ul>
+            			</li>
+						</ul>
+	</div>
+	<!--//主导航-->
+	
+	<!--头部-->
+		<div class="header clearfix">
+			<div class="logo" title="凯迪社区：全球华人最具影响力的言论及媒体平台">
+				<a href="http://club.kdnet.net">凯迪社区：全球华人最具影响力的言论及媒体平台</a><div class="logo-ms"></div>
+			</div>
+			<div class="forum" title="律师之窗"><a href="list.asp?boardid=25#forum25">律师之窗</a></div>
+
+			<div style="width:550px;margin:0 auto; margin-top:10px; height:90px;overflow:hidden;"><!--modify sunny 20131231 ad-->
+			<div id="club73" style="width:0;height:0;visibility:hidden;overflow:hidden;"><!--modify sunny 20131231 ad-->
+				<div style="width:468px;margin:0 auto; margin-top:15px; height:60px;overflow:hidden;">
+				
+					<script type="text/javascript">//<![CDATA[
+					ac_as_id = 96837;
+					ac_format = 0;
+					ac_mode = 1;
+					ac_group_id = 1;
+					ac_server_base_url = "afp.csbew.com/";
+					//]]></script>
+					<script type="text/javascript" src="http://s.csbew.com/k.js"></script>
+				
+				</div>
+			</div>
+			</div><!--modify sunny 20131231 ad-->
+
+		</div>
+	<!--头部 End-->
+	
+	<!--注册人数、注册/登录链接-->
+	<div class="login-box clearfix">
+		<div class="num-info c-white">
+		<img class="leader-icon" title="注册用户" src="http://www.kdnet.net/g_images/transparent.gif"><span class="leader fB">14038805</span> 位注册用户，目前在线 <span class="fB">200236</span> 人  &nbsp;&nbsp;
+		</div>
+		<div class="login-info">
+		<span class="c-alarm lf" id="dispbbs71" style="width:0;height:0;visibility:hidden;overflow:hidden;"></span>
+		</div>
+	</div>
+	<!--注册人数、、注册/登录链接 End-->
+<input type="hidden" id="quote_num" value="5" />
+<input type="hidden" id="topicid" value="11337832" />
+<input type="hidden" id="valid_integral" value="2048890" />
+<div id="update_flag" style="display:none"></div>
+<script>
+var duf_40_40 = 'http://imgcdn.kdnet.net/upload/userface/NoPic_40_40.jpg';
+var defaults = true;
+var x=window.x||{};
+x.personalInfo=function(info,detailinfo,userid){
+	var oinfo=document.getElementById(info);
+	var odetailinfo=document.getElementById(detailinfo);
+	 oinfo.t=null;
+	 oinfo.v=null;
+	oinfo.onmouseover=function(){   
+		clearTimeout(oinfo.v);
+		oinfo.style.zIndex=999;
+		
+		if(defaults == true) {
+		defaults = false;
+		oinfo.t=setTimeout(function(){
+			var hg = oinfo.getBoundingClientRect().top;		
+			if(hg > 180 )	{	
+			odetailinfo.style.display="block";
+			odetailinfo.className = "usertips clearfix box1";
+			}
+		    else {
+			odetailinfo.style.display="block";
+			odetailinfo.className = "usertips clearfix box2";
+			}
+		},300);
+
+		if ($("#"+detailinfo).html() == '') {
+		                var data = {'userid':userid};
+						$.getJSON("http://jsapi.kdnet.net/ajax_dangchu.asp?jsoncallback=?",
+							data,
+							function(obj){
+							    $("#"+detailinfo).html(obj.Ajax_Dangchu);
+							}); 
+	     }
+		};
+		}
+	
+	oinfo.onmouseout=function(){
+	    defaults = true;
+		clearTimeout(oinfo.t);
+		oinfo.v=setTimeout(function(){
+		oinfo.style.zIndex=500;
+		odetailinfo.style.display="none";
+		},300);
+		}
+	}
+</script>
+
+		    <!--当前位置-->
+		    <div class="club-location clearfix">
+			    <div class="c-main"><a href="http://www.kdnet.net">首页</a></div>
+			    <div class="arrow"></div>
+		    	<div class="c-main"><a href="http://club.kdnet.net">凯迪社区</a></div>
+				<div class="arrow"></div>
+		    	<div class="c-main"><a href="http://club.kdnet.net/index.asp#68" target="_blank">猫论天下</a></div>
+		    	<div class="arrow"></div>
+		    	<div class="c-main"><a href="list.asp?boardid=25">律师之窗</a></div>
+		    	<div class="arrow"></div>
+			    <div><a href="dispbbs.asp?id=11337832&boardid=25">[原创]关于广州北斗导航技术有限公司投诉信的分析</a></div>  
+		    </div>
+		    <!--//当前位置-->
+
+			<div class="clubcont-line "></div>
+			<div class="banner b-border" id="club_dispbbs_l_1">
+			
+                    <!-- 推荐广告 111-->
+					<div class="slide-banner" style="display:none">
+						<ul>
+							<li class="p1" id="dispbbs28" style="width:0;height:0;visibility:hidden;overflow:hidden;">
+								<a href="" target="_blank" class="url_28">
+								<img src="" class="m1 ff_simg_p_28"/>
+								<img src="" class="m2 ff_bimg_p_28"/>
+								</a>
+							</li>
+							<li class="p2" id="dispbbs77" style="width:0;height:0;visibility:hidden;overflow:hidden;">
+								<a href="" target="_blank" class="url_77">
+								<img src="" class="m1 ff_simg_p_77"/>
+								<img src="" class="m2 ff_bimg_p_77"/>
+								</a>
+							</li>
+							<li class="p3" id="dispbbs78" style="width:0;height:0;visibility:hidden;overflow:hidden;">
+								<a href="" target="_blank" class="url_78">
+								<img src="" class="m1 ff_simg_p_78"/>
+								<img src="" class="m2 ff_bimg_p_78"/>
+								</a>
+							</li>
+							<li class="p4" id="dispbbs79" style="width:0;height:0;visibility:hidden;overflow:hidden;">
+								<a href="" target="_blank" class="url_79">
+								<img src="" class="m1 ff_simg_p_79"/>
+								<img src="" class="m2 ff_bimg_p_79"/>
+								</a>
+							</li>
+						</ul>
+					</div>
+					<!-- 推荐广告 end -->
+			
+			</div>
+			
+			
+
+			<!--发帖等操作-->
+			<div class="operating clearfix">
+	    		<div class="btn-publish" title="发布新帖">
+                <a target="_blank" href="http://upfile2.kdnet.net/textareaeditor/post_ubb.asp?action=new&boardid=25">发布新帖</a>
+				</div>
+	    		<div class="btn-reply" title="跟帖回复"><a href="#Preply">跟帖回复</a></div>
+				
+				<div class="btn-jiashi top-btn-new" title="百姓家史公益抄写">
+				<a href="http://jiashi.kdnet.net/chao.php" target="_blank">百姓家史公益抄写<b class="icon-try-con nav-t-new"></b></a>
+			    </div>
+				<div class="pages-go"><input value="2" type="text" class="input-boder" id="page_input" /><input name="submit" type="submit" class="btn-pages" value="GO" onclick="goPage(this,'dispbbs.asp?id=11337832&boardid=25&page={pagenum}&uid=&usernames=&userids=&action=');"/></div><div class="pages"><div class="pagesmodule"> <span class="current">1</span> <a href="dispbbs.asp?id=11337832&boardid=25&page=2&uid=&usernames=&userids=&action=">2</a></div></div> 
+			</div>
+			<!--发帖等操作 End-->
+
+			
+	    	<div class="posted-box-add" >
+		    	<div class="posted-box clearfix">
+				   <a name="54670302"></a>
+		    		<div class="posted-info c-sub" >					
+					发帖人：<span class="name" id="userinfo_1">
+				    
+					<div class="usertips clearfix box1" id="detailinfo_1"></div>
+					<span class="name c-main">
+					<a href="http://user.kdnet.net/index.asp?userid=15676960" target="_blank">揭开真相ASD</a></span>
+					<a href="http://user.kdnet.net/index.asp?userid=15676960" target="_blank"><img class="phone-icon" title="手机绑定用户" src="http://www.kdnet.net/g_images/transparent.gif" /></a></span>&nbsp;|&nbsp;
+					  <a
+					  
+					 onclick ="openSesPopup_new()" href="javascript:;"
+					
+					 >只看此人</a>
+					</div> 
+					
+		    		<div class="posted-floor">
+					<span class="c-sub"><span id="dispbbs33" style="width:0;height:0;visibility:hidden;overflow:hidden;"></span>
+					</span>&nbsp;&nbsp;&nbsp;楼主
+					</div>
+		    	</div>
+	
+				<div class="c-sub minor-control">
+				<!-- sunny add 20130710 begin -->
+				<!-- 收藏 -->
+				<div class="collection-f prompt-f">
+					<span class="collection-btn"><a href="javascript:;" title="收藏" onclick="openLoginPopup();">收藏</a></span>
+					<span class="coll-pormpt prompt-ok" style="display:none;"><span class="prompt-content"><i></i>添加分类成功！</span></span>
+					<div class="coll-box coll-box-b">
+						<a href="javascript:;" class="nav-icon-s2 close-coll"></a>
+						<div class="coll-succeed"><i></i>收藏成功</div>
+						<div class="add-tag clearfix">
+							<div class="input-box-f lf">
+								<label id="label1" class="label-msg" onMouseover="overInput('#addTag');" onMouseout="outInput('#addTag')" onCLick="checkInput('#label1','#addTag')">分类标签，6个字以内</label>
+								<input name="addTag" id="addTag" type="text" class="input-text" maxlength="6"
+									onfocus="checkFocus('#label1','#addTag');"
+									onKeyup="checkKeyDownUp('#label1','#addTag');seltag();"
+									onKeydown="checkKeyDownUp('#label1','#addTag');"
+									onblur="checkBlur('#label1','#addTag');" />
+							</div>
+							<a href="javascript:;" class="add-btn rf" onclick="addtag();">添加</a>
+						</div>
+						<div id="id_nowtag" class="now-tag">
+							添加标签来管理你的收藏吧！
+						</div>
+						
+						<i class="nav-icon-s2 coll-dot"></i>
+					</div>
+				</div>
+				<!-- 收藏 end -->
+				<!-- sunny add 20130710 end -->
+				
+				<b class="c-sub">|</b> <a href="javascript:window.location.reload()">刷新</a> <b class="c-sub">|</b> <a href="javascript:doZoom(-2)">字体缩小</a> <b class="c-sub">|</b> <a href="javascript:doZoom(2)">字体变大</a>
+				</div>
+		    	
+		    	<div class="postspecific">
+		    		<div class="posts-title">[原创]关于广州北斗导航技术有限公司投诉信的分析</div>  
+					
+
+		    		<div class="posts-stat-box">
+		    			<div class="posts-stat-t"></div>
+		    			<div class="posts-stat-c">
+			    			<div><span class="f10px fB c-alarm">7473</span> 次点击</div>  
+							
+						   <div  class="forward-wblog"><span class="f10px fB c-alarm">18</span> 个回复</div>  
+						   
+			    			<div>
+								
+			    			</div>
+							<div class="forward-wblog"></div>
+		    			</div>
+		    			<div class="posts-stat-b"></div>
+		    		</div>
+
+		    		<div class="posts-posted"><span class="c-main"><a href="http://user.kdnet.net/index.asp?userid=15676960" target="_blank">揭开真相ASD</a></span> 于  2015-12-11 10:58:25 发布在 <span class="c-main"><a href="http://club.kdnet.net">凯迪社区 </a> &gt; <a href="list.asp?boardid=25">律师之窗</a></span></div> 
+			        
+						
+		    		
+					<div class="posts-cont" style="word-spacing: 2px;">
+					 导语：广州北斗导航技术有限公司2015年11月23日和12月3日分别在广东第一政民互动平台网络问政发表了《关于对揭阳市政府违约履行政府购合同，致国家重点项目不能顺利实施的投诉》，ZZ01210233（c包）该政府采购项目的立项和实施过程是否如该投诉所言，现把我们对该投诉的分析供大家参考。<br>（注：本文内容已由揭阳运营商向广东省政府、广东省财政厅等监管部门提交，虽然部分事实缺乏书面证据，但发帖人主观上认为是事实，仅供专业人士及政府机构人员参考，具体事实认定以行政机关所作具体为准）<br>林秋城以广东省政协委员、广州北斗大三通导航科技有限公司（现已更名为：广州北斗导航技术有限公司，以下简称“北斗导航公司”）法定代表人（现任该公司董事长）的身份，打着慈善家和政协委员的旗号，忽悠政府有关领导，促成有关部门于2011年将其“捐赠”的企业平台作为“揭阳市重点车辆市级综合监控平台”（以下简称“市级平台”），并为其刻章。按照法律相关规定、技术规范及行政法的相关原则，这是不合适的，“揭阳市重点车辆监控平台”是目前唯一一个由企业出资、企业经营管理的市级平台（广东省类似的由企业建设的河源市级平台因违法被省政府行政复议撤销，清远、湛江由当地自行撤消）。<br>广东省经信委在广东省交通厅已为全省各地提供运政网平台、且当地运营商已成熟使用北斗终端设备和应用软件的情况下，仍越俎代庖地为揭阳市 “操心费力”，拟购买终端设备却以购买终端设备（货物）设计、生产、安装等服务的方式开展政府采购（见招标文件第53页），得到的还是北斗导航公司从其他公司采购的终端设备。就好比明明只需要采购公务用车，却委托一个小公司去研究、生产汽车――费用成倍增加了，效果却跟别人低价买到的车一样（实际上这个小公司就是直接跟别的公司买的）。市价不超过叁拾万元的应用软件开发，每部350元左右的北斗双模车载终端，经过省经信委某些领导的周密安排，居然身价翻了好几番。最最重点的是，政府财政出钱“设计、生产”的终端设备，发多少、发给谁、什么时候发，完全取决于北斗导航公司！在终端设备的生产技术与应用软件开发都已经相当成熟的2013年，省经信委越俎代庖、舍近求远，实际上是不是省经信委某些领导在想方设法给北斗导航技公司谋福利？关于该项目存在的违法嫌疑陈述如下:<br>广东省经信委存在违反政府采购法规定的采购程序嫌疑：<br>1、&nbsp;项目合同主体与公示内容不一致。<br>该政府采购项目招标公告及招标文件所附合同格式中公示的的出资方（采购人）只有广东省经信委，而《珠三角卫星导航应用示范系统项目合同书》（以下简称“项目合同”）签订时居然有两个出资人！揭阳市政府未经预算、未经公告居然被广东省经信委拉进来了！（见招标文件第28页和项目合同)。<br>2、&nbsp;政府采购所得国有资产被违法处置。<br>本来政府采购所得的货物为国有资产，采购人应先行验收、登记，并由行政单位占有、使用；项目合同却违法规定由北斗导航公司“负责……监控管理系统的运营，并享有运营收益” （项目合同5. 经营，)负责管理和使用“项目建设过程中形成的有形与无形资产”（见项目合同七-4.），违反《行政单位国有资产管理暂行办法》第十七条、第七条规定。<br>广东省经信委不但在招标文件 “采购人需求”及合同格式中均未确定供应商的主要义务及履行方式和履行期限，甚至在项目合同也不要求交付终端设备和服务成果及期限，造成国有资产在未经登记的情况下就被“发放”，是否发放，发放给谁，数量多少等等都未经经信委具体审查就由北斗导航公司处置。该行为违反《行政单位国有资产管理暂行办法》第十七条“行政单位资产管理部门应当对购置的资产进行验收、登记，并及时进行账务处理”的规定。<br>3、&nbsp;项目合同对采购标的及类型约定不明、供应商义务约定模糊缺乏约束力。<br>同时，广东省经信委不但在招标文件 “采购人需求”及合同格式中均未确定供应商的主要义务及履行方式和履行期限，甚至在项目合同也不要求交付终端设备和服务成果及期限，项目合同未明确采购标的及履行的方式、期限，招标文件（招标文件第第25页“系统软硬件配置要求”）所要求提供的采购“详细清单”在项目合同中也未予约定。据《政府采购法》第二条“本法所称采购，是指以合同方式有偿取得货物、工程和服务的行为，包括购买、租赁、委托、雇用等”，采购货物的应采用购买或租赁的形式；采购工程的，应采用委托的形式，并且提交相关图纸和技术要求作为合同附件；采购服务的，应采用雇佣合同等形式。而该项目合同既未采用标准的合同格式，按《合同法》第十二条“合同的内容由当事人约定，一般包括以下条款： (一)当事人的名称或者姓名和住所; (二)标的; (三)数量; (四)质量; (五)价款或者报酬; (六)履行期限、地点和方式；……”对标的的数量、质量标准及单价和交付的期限没有约定，甚至只用“拟”、”建议”等模糊表述（见招标文件第22页第6（1）点），对是否需要提供终端设备都未予明确更别说数量和交付的时间；工程的规模、造价、图纸、验收标准等也未见提供；服务雇佣服务的内容、期限、服务费也不见约定；合同的履行期限与招标文件中合同格式主要条款不一致。<br>与招标文件不一致、供应商模糊的义务范围和弹性的履行方式及履行期限是该项目合同的特征，对采购人利益严重不利，不管是否能查实私相授受的行为，都违反了《政府采购货物和服务招标投标管理办法》第十八条第（五）（六）（七）条的规定。<br>4、&nbsp;项目合同违法将行政监管职能及收益权授予企业。<br>政府采购合同中采购人的合同义务应仅限于支付价款，广东省经信委却在项目合同中将政府采购所形成国有资产的使用权及行政管理监管职能违法授予企业（项目合同定：由北斗导航公司“负责……监控管理系统的运营，并享有运营收益”、负责管理和使用“项目建设过程中形成的有形与无形资产”），并把政府国有资产的经营（本身就已违反《中共中央、国务院关于进一步制止党政机关和党政干部经商、办企业的规定》）收益违法授予北斗导航公司。【私自增加的上述条款同时违反了《政府采购货物和服务招标投标管理办法》第六十四条及第六十八条第（七）项的规定。】<br>5、&nbsp;项目合同签订时间违反政府采购法规定。<br>《政府采购法》第四十六条规定“采购人与中标、成交供应商应当在中标、成交通知书发出之日起三十日内，按照采购文件确定的事项签订政府采购合同”，广东省经信委应于中标日（2013年4月25日）后30天内签订项目合同，而该项目合同因违法的条款太多太明显，尽管经广东省经信委和林秋城多次修订、大力推动也无法说服相关法规部门，导致逾期8个多月后于2013年12月19日才签订。<br>6、&nbsp;以不合理的条件对供应商实行差别待遇或者歧视待遇，排除潜在的竞争者。<br>项目招标文件《评标程序》中的《技术评定》《商业评定》均设定与项目合同不直接相关的评价方式，为北斗导航公司量体裁衣地设立评分标准，排除潜在的竞争者。<br>（1）技术评定（见招标文件第43页）第1点评审内容“项目建设实施经验及能力”评审说明为：<br>“1、投标人具有实施地的地级市政府车辆综合监控平台的建设经验（提供相关证明文件），有得20分，没有得0分；<br>2、投标人具有广东省安全生产委员会办公室分配的《生产商运营商BIT编码方案》的编码，提供证明材料的，有得6分，没有得0分；<br>3、投标人具有公安部安全防范报警系统产品监督检验测试中心‘GPS监控公共服务平台’软件检验报告的（提供检验报告），有得6分，没有得0分；” <br>4、投标人具有国家商标局颁发的注册商标证的，提供证书复印件，有得6分，没有得0分。<br>……”<br>上述第1项，因“实施地的地级市政府车辆综合监控平台的建设”是由北斗导航公司完成并“捐赠”给揭阳市的，具有唯一指向性，属于《中华人民共和国政府采购法实施条例》第二十条所禁止“采购需求中的技术、服务等要求指向特定供应商”的情形，而第2、3、4项属于《中华人民共和国政府采购法实施条例》第二十条所禁止“设定的资格、技术、商务条件与合同履行无关”的情形【其中第3项涉及的产品按“交运发〔2011〕80号”、“交运发〔2011〕158号”文应适用《道路运输车辆卫星定位系统平台技术要求》（JT/T796-2011）】，皆属于《中华人民共和国政府采购法实施条例》第二十条规定可认定为“以不合理的条件对供应商实行差别待遇或者歧视待遇”的情形。<br>（2）技术评定（见招标文件第43页）第2点评审内容“项目负责人经验及能力”评审说明为：<br>“1、投标人项目负责人具有高级工程师职称，提供证书复印件，有得2分，没有得0分；<br>2、投标人项目负责人2011年至今获得省级或以上卫星定位应用科技奖项的，提供证书复印件，有得3分，没有得0分。”<br>上述第1点中，职称并不是执业资格，而且跟项目没有直接关系，属于《中华人民共和国政府采购法实施条例》第二十条所禁止“设定的资格、技术、商务条件与合同履行无关”的情形。第2点中，关于奖项的获得时间跟项目没有直接关系，属于《中华人民共和国政府采购法实施条例》第二十条所禁止“设定的资格、技术、商务条件与合同履行无关”的情形。<br>（3）技术评定（见招标文件第43-44页）第4点评审内容“卫星定位终端能力要求”评审说明为：<br>“投标人相关产品采用国际标准产品标志证书及认可证书的，有得2分，没有得0分；<br>投标人选用的北斗/GPS终端遵循国家标准GB/T19056-2012《汽车行驶记录仪》，设备功能满足招标要求（需要提供公安部交通安全产品质量监督检测中心产品检测合同书（附上检测报告），有得6分，没有得0分。”<br>政府采购项目的类型为“服务”，该两项关于终端产品的内容与合同履行不直接相关。<br>（4）技术评定（见招标文件第44页）第5点评审内容“运营管理服务能力” 评审说明为：<br>“投标人具有《中小企业信息化示范服务商》证书的，有得5分，没有得0分；<br>投标人具有多年运营服务能力，已有用户数量达2万台以上（提供第三方组织或机构证明材料），有得10分，没有得0分。”<br>上述“运营管理服务能力”既不是技术标准，也不是流程标准；以与技术无关的证书作为技术评审的指标，属于《中华人民共和国政府采购法实施条例》第二十条所禁止“设定的资格、技术、商务条件与合同履行无关”的情形。<br>（6）技术评定（见招标文件第44页）第6点评审内容“演示评价” 评审说明为： “系统原型和车载终端演示符合招标文件要求，评价能否与原有系统安全、可靠地实现无缝连接，优得12分，良得8分，中得3分，差得0分。”<br>招标过程中既不存在项目“系统原型和车载终端演示”的环节，上述“演示评价”说明中也未将 “原有系统”（即揭阳市重点车辆监控平台）的相关资料提供给投标人作为系统原型和车载终端开发的参考对象。该要求不可行且属在开标时无法评定的内容，属于《中华人民共和国政府采购法实施条例》第二十条所禁止“设定的资格、技术、商务条件与合同履行无关”的情形。<br>（7）商务评分表（见招标文件第45页）第2点“商业信誉”要求：<br>“1、具有连续3年（2009年至今）工商管理部门颁发的守合同重信用企业证书，省级或以上（5分）、市级（3分）、县级（2分）、无的（0分）；”<br>2、投标人具有政府有关部门批准建设“广东省卫星导航产业示范基地”文件的企业，有得5分，没有得0分。”<br>“广东省卫星导航产业示范基地”由北斗导航公司承办（见北斗导航公司网站截图），上述第2点具有唯一指向性。<br>（8）商务评分表（见招标文件第45页）第3点“承担同类项目的能力”要求：<br>“2008年至今，投标人：<br>1、承担过 “北斗/GPS双模智能导航定位信息系统”科技计划项目或科学技术项目的，每有一个得3分，最高得4分，没有得0分；<br>2、承担过“北斗（BD）/GPS双模卫星定位汽车行驶记录仪应用及重点车辆监管平台建设示范”科学技术经费项目的，有得3分，没有0分；<br>3、承担过 “基于车载智能终端的集成管理系统”科技项目或专项资金扶持项目的，每有一个得3分，最高得4分，没有得0分；<br>4、承担过“卫星导航定位技术公共服务平台”的专项资金服务体系建设项目的，每有一个得4分，没有得0分；<br>5、承担过“基于移动通信的汽车多通道智能监控系统”科技项目，有得3分，没有得0分；<br>以上业绩均需提供相关政府证明材料，最高得18分。”<br>上述5项全部由林秋城承担（见林秋城《公司手册》），具有唯一指向性。<br>（9）商务评分表（见招标文件第45-46页）第4点“技术研发能力”要求：<br>“1、2011年至今投标人获得省政府科学技术奖奖励证书的，有得2分，没有得0分；<br>2、投标人具有卫星导航定位监控系统发明专利证书、卫星导航装置实用新型专利证书，有一种得3分，没有得0分，共6分；<br>4、投标人具有国家版权局颁发的与本项目相关的计算机软件著作权登记证书的，每有一个证书得2分，最高得24分，没有得0分。”<br>（10）商务评分表（见招标文件第46页）第5点“用户评价”要求：<br>“投标人具有项目实施地重点车辆监控平台运营能力，获得良好评价的（提供市级重点车辆综合监控平台证明材料），有得20分，没有得0分”。<br>项目实施地（揭阳市）重点车辆监控平台于2011年有关部门曾指定由北斗导航公司管理，故上述要求属于具有唯一指向性的条件，违反《政府采购法》第二十二条第二款“不得以不合理的条件对供应商实行差别待遇或者歧视待遇”的规定。<br>（11）商务评分表（见招标文件第46页）第6点“服务能力”要求：<br>“1、投标人具有提供400或具有同等功能的服务热线的（提供相关证明材料），得6分，没有得0分；<br>2、投标人在本项目实施地有分支机构的（提供分支机构的有效营业执照），有得4分，没有得0分。” <br>上述第2点排除了揭阳市本地企业，GPS行业仅有广东天之阳公司和北斗导航公司符合这个条件，违反《政府采购法》第二十二条第二款“不得以不合理的条件对供应商实行差别待遇或者歧视待遇”的规定。<br>商务评定应指就投标报价文件对招标文件中合同主要条款中标的、数量、质量、交付方式、履行期限、违约责任问题等主要问题的响应是否符合项目要求。<br>招标文件的“商务评定”一项“商业信誉”、“承担同类项目的能力”、“技术研发能力”、“用户评价”、“服务能力”【上述第（7）-（11）项】等评审内容不但未就合同履行的方式、期限等商务条款设定明确的标的响应要求和商务评审要点，而且将作出明确唯一指向北斗导航公司的要求。<br>综上，招标文件的技术评定及商务评定不但未合理、明确设定项目合同履行应包含的主要技术、商务要求，反而被用以作出对北斗导航公司有利、甚至唯一指向性的规定。属于《中华人民共和国政府采购法实施条例》第二十条所禁止“设定的资格、技术、商务条件与合同履行无关”、“以不合理的条件对供应商实行差别待遇或者歧视待遇”的情形。<br>二、&nbsp;专项资金使用违法：<br>1、&nbsp;立项依据、申报流程违法。<br>不知是林秋城忽悠还是广东省经信委故意，将已被《广东省政府行政复议决定书》（粤府行复[2011]280号，见附件十四第51页）认定授权第三人管理“市级平台”行为违法的“揭安委明电[2011]2号”文作为其招标文件的项目依据[“项目建设依据”第（7）-（11），（见招标文件第29页）；其中第（9）项《关于印发揭阳市重点车辆综合监控管理系统管理暂行办法的通知》（揭安委[2011]4号）查无该文件。另外，根据《广东省战略性新兴产业发展专项资金管理办法》（以下简称《专项资金管理办法》）第十位条“各地级以上市政府（不含深圳）组织当地企业按照申报指南要求进行申报”，揭阳市政府并未在当地公开组织企业申报，招标公告亦未声明政府扶持的性质，一切都在静悄悄地进行。未经揭阳市政府公开组织当地企业的申报情况下，直接由广东省经信委为揭阳市重点车辆监控管理系统项目“遴选”项目承担单位，违反《专项资金管理办法》。<br>2、&nbsp;专项资金使用方式和扶持对象未予明确和公示。<br>《专项资金管理办法》第十二条“专项资金根据项目实际采用贷款贴息、无偿补助、以奖代补等方式安排使用。为放大财政资金使用效应，应优先采用贷款贴息方式支持形成产业项目”，该项目既未明确扶持资金使用的方式，也未以规范的方式事先公示拟扶持的对象。<br>3、&nbsp;北斗导航公司不符合扶持资金的申请条件。<br>《专项资金管理办法》第十一条“申请专项资金必须符合以下条件：……（五）项目承担企业必须具备良好的生产条件、先进的生产及研发设备”，同时，项目合同中“设计费”、“材料费”“试验费”的表述和项目合同相应的条款均表明揭阳市重点车辆监控管理系统的软件及终端设备均应由北斗导航公司设计、生产。据我们了解，北斗导航公司现在没有自行开发软件、生产终端设备的能力，相关软件和终端设备均为外部采购。北斗导航公司所“开发”的平台也未按《道路运输车辆动态监督管理办法》（交通运输部、公安部、安监总局令2014年第五号）通过交通部检测备案。请对北斗导航公司的生产场地、设备及其设计、生产能力和通过示范项目阶段性检搜槭盏娜碛布欠翊锏较喙丶际跻笥枰缘鞑椋院耸当倍返己焦臼欠穹仙昵胱ㄏ钭式鸬奶跫<br>4、&nbsp;专项扶持资金未以真实、合法的发票予以划支。<br>项目合同中对应支付资金的表述为“经费”，则费用的支取、发放理应以报销的形式进行。项目最大开支“材料费”壹仟壹佰柒拾肆万叁仟肆佰伍拾叁元陆角壹分（&yen;11,743,453.61元：10,739,999.56+1,003,454.05元）根据行业成本水平，是绝对远远达不到这金额的50%的（据调查，通过交通部检测、获得公安部3C认证的北斗双模行车记录仪厂商批发价不高于人民币360元/部）。系统软件的设计开发，委托任何一家软件公司，其价款也不超过人民币叁拾万元（&yen;300,000.00元），而该项目“设计费”列支壹佰叁拾陆万叁仟叁佰陆拾捌元零柒分（&yen;1,363,368.07元：1,236,544.35+126，823.72元）。按照项目合同约定由北斗导航公司设计开发项目终端设备（见项目合同），则其材料应是从外部采购，材料费发票亦应由外部公司开具。另外，作为政府采购的采购人、揭阳市重点车辆监控管理系统的所有权人，广东省经信委并未要求供应商北斗公司在具体的时间交付货物（10500台终端设备），北斗导航公司实际也未生产该货物。那么，上述“经费”是怎么发放出去的呢？请核实经费各具体科目的相关发票和调查招标文件、项目合同规定于2014年10月份前要完成安装的10500台终端至今实际免费安装的项目终端设备数量，彻查广东省经信委经办人员对该经费的划支是否符合相应条件并追究其违法发放项目经费的责任。 <br>5、&nbsp;林秋城的北斗导航公司执行项目弄虚作假。<br>除上述经费估算的明显水分外，其阶段性验收也存在弄虚作假问题：为应付项目验收，北斗导航公司利用管理市级平台、发放市级平台证明的便利，强迫揭阳维嘉顺、日宁、广东天之阳电子技术有限公司揭阳分公司（以下简称“天之阳公司”）、穗达、粤山这几家运营商，在已安装终端设备的车辆上额外再安装一部项目终端设备，至2014年10月止，整个揭阳市没有一部真正只安装该项目终端设备的车辆，即使将重复安装的计算在内，使用该项目终端设备并接入市级平台的车辆也不足150台，骗取项目经费。更令人瞠目结舌的是，林秋城在未经揭阳市政府授权的情况下，居然冒充“揭阳市政府重点车辆监控中心”招摇撞骗、公开拉客上述情况可到揭阳各部门、企业核实。<br>三、&nbsp;广东省经信委授权企业管理市级平台违法：<br>1、&nbsp;将行政单位国有资产授权企业管理、营利违法。<br>按照政府采购的性质及项目合同约定的情况，广东省经信委规定由北斗导航公司负责“……监控管理系统的运营，并享有运营收益”、负责管理和使用“项目建设过程中形成的有形与无形资产”的含义是广东省经信委将政府采购所得“市级平台”无偿且无限期地借给企业使用，并将市级平台的管理权授予了北斗导航公司且授权其用政府平台这一行政监管平台经营营利，结合市级平台强制接入的规定，广东省经信委授权北斗导航公司经营市级平台的行为实质是赋予其垄断揭阳市。广东省经信委的行为既违反了行政授权/委托的相关法律，也违反了《行政单位国有资产管理暂行办法》第二十四、二十五条的规定， 更构成了《反不正当竞争法》所禁止的滥用行政权力限制竞争的行为。<br>2、&nbsp;该“市级平台”及终端设备若是企业财产，广东省经信委不能将其作为市级平台，更不能越权要求市政府将全市重点车辆纳入企业平台。<br>若按照专项扶持资金的性质，项目成果（市级平台系统软硬件）归北斗导航公司所有。项目成果=市级平台=企业财产！这就形成了市级平台由企业无限期地享有经营权、管理权和收益权的利益输送局面，项目合同也正是这么规定的。广东省经信委要求“将揭阳市10500台重点监控车辆纳入乙方所建设之监控管理系统统一管理”（见见项目合同），“……并享有运营收益”（见见项目合同，实质上是要求揭阳市全部重点车辆购买北斗导航公司提供的服务，同样构成《反不正当竞争法》第七条、《反垄断法》第三十二条、第三十七条禁止的滥用行政权力限制竞争的行为。<br>综上，广东省经信委某些领导额外在省交通管理部门已为揭阳市提供市级平台的基础上，为北斗导航公司量身定制了ZZ01210233（c包）政府采购项目并授权北斗导航公司管理该市级平台并享有营利的做法，不管相关领导有没有收受相关利益，他们客观上导致了广东省经信委违法开展政府采购、违规使用广东省战略性新兴产业发展专项资金的后果是毋容置疑的，更给以普通百姓和揭阳运营商一种“省经信委就是我林某人的提款机”的感觉。<br>以上分析，不知道是否能解释揭阳市政府不敢“履行”合同、林委员不去告广东省经信委呢？<br>
+		    		</div>
+
+				
+
+				<!--转贴-->
+				<!-- sunny 20131021 share begin -->
+				<!--分享、app下载 S-->
+				<div class="new-share-main">
+					<div class="new-share">
+						<span class="lf">分享：</span>
+						<a href="javascript:void(0)" onclick="postToWb('sina', '25', '11337832');" title="分享到新浪微博" class="ico-newshare ico-sina">分享到新浪微博</a>
+						<a href="javascript:void(0)" onclick="postToWb('tx', '25',  '11337832');" title="分享到腾讯微博" class="ico-newshare ico-qqt">分享到腾讯微博</a>
+						<span class="code-main">
+							<a href="javascript:;" title="分享给朋友" class="ico-newshare ico-shareurl" onclick="$('.shareurl-code').show();">分享给朋友</a>
+							<div class="shareurl-code close-code" style="display: none;">
+								<b class="ico-newshare close" title="关闭" onclick="$(this).parent('.close-code').hide();"></b>
+								<div class="shareurl-text clearfix">
+									<img src="http://app.kdnet.net/2weima/create.php?data=http%3A%2F%2Fclub.kdnet.net%2Fdispbbs.asp%3Fid%3D11337832%26boardid%3D25" width="74" height="74" />
+									<p>用手机看帖文，请扫一扫。用微信/易信等扫描还可以分享至好友和朋友圈。</p>
+								</div>
+							</div>
+						</span>
+						
+					</div>
+					<div class="kd-app-download"><a href="http://3g.kdnet.net/app.php" target="_blank" title="凯迪社区APP下载"><img src="http://upfile1.kdnet.net/webset/club/include/images/kd_app_download.gif" alt="凯迪社区APP下载" /></a></div>
+				</div>
+				<!--分享、app下载 E--> 
+				<!-- sunny 20131021 share end -->
+
+				<!-- Sunny Modify Begin 
+				<div align=right>
+					<span>分享到</span>					 
+					<a href="javascript:void(0)" onclick="postToWb('tx', '25',  '11337832');" title="分享到腾讯微博"><img src="http://v.t.qq.com/share/images/s/weiboicon16.png" style="margin-bottom:-4px"></a>
+					<a href="javascript:void(0)" onclick="postToWb('sina', '25', '11337832');" title="分享到新浪微博"><img src="http://www.sinaimg.cn/blog/developer/wiki/LOGO_16x16.png" style="margin-bottom:-4px"></a>
+					<span class="change_btn"><span class="type3 showNum"><span id="count_p" class="number"><em id="count">0</em><img src="http://simg.sinajs.cn/platformstyle/images/common/transparent.gif" class="arrow" alt="" /></span></span></span>
+				</div>
+				Sunny Modify End -->
+	           <!--转贴结束-->
+				
+
+					<!--sunny 打赏 B -->
+					
+					
+					<!--chung 打赏 B -->
+
+
+
+
+    <!-- ?????? -->
+    <div id="re_test">
+        <style>
+		.reward-fixed-main {
+                height : auto;
+            }
+
+            .donate-cont {
+                padding    : 40px 50px;
+                background : #efffff;
+                font-size  : 14px;
+            }
+
+            .donate-cont .donate-input-wrap {
+                border        : 1px solid #C0DFE1;
+                border-radius : 4px;
+                background    : #fff;
+                overflow      : hidden;
+                margin-bottom : 20px;
+
+            }
+
+            .donate-cont .donate-input-wrap .donate-input {
+                padding       : 10px;
+                border-bottom : 1px solid #C0DFE1;
+            }
+
+            .donate-cont .donate-input-wrap .donate-input label {
+                height : 30px;
+            }
+
+            .donate-cont .donate-input-wrap .donate-input label i {
+                display        : inline-block;
+                background     : url("donate-ico.jpg") no-repeat;
+                width          : 30px;
+                height         : 30px;
+                margin-right   : 10px;
+                vertical-align : middle;
+
+            }
+
+            .donate-cont .donate-input-wrap .donate-input input {
+                color     : #FF9326;
+                font-size : 18px;
+                border    : none;
+
+            }
+
+            .donate-textarea textarea {
+                padding : 12px 15px;
+                border  : none;
+                width   : 100%;
+                color   : #C1C4CB;
+                height  : 70px;
+
+            }
+
+            .donate-btn-warp{
+                text-align: center;
+
+
+            }
+            .donate-Main .donate-btn{
+
+                height: 50px;
+                line-height : 50px;
+                text-align: center;
+                color: #fff;
+                font-size: 22px;
+                width: 150px;
+                display: block;
+                background : #d95f4c;
+                margin : 0 auto 20px;
+                border-radius: 30px;
+            }
+            .donate-btn-warp p{
+                font-size: 14px;
+                margin-bottom : 16px;
+            }
+
+            .donate-btn-warp span b{
+
+                color: #E53C0F;
+            }
+            .donate-more{
+                width: 490px;
+                margin: 20px auto;
+
+            }
+            .donate-more h2{
+                font-size: 12px;
+                margin-bottom : 10px;
+            }
+
+            .donate-more ul li{
+                float : left;
+                width: 40px;
+                height: 40px;
+                border-radius: 50%;
+                margin: 0 10px 10px 0;
+                overflow: hidden;
+                background : #eee;
+
+            }
+
+            .donate-more .last{
+                background : url("donate-more.jpg") no-repeat;
+            }
+		.reward-cont {
+			padding: 20px;
+			margin: 0 auto;
+			    background: #efffff;
+    border-radius: 0 0 5px 5px;	
+		}
+		.reward-cont .reward-user-head {
+			text-align: center;
+			margin: 20px 0 30px;
+		}
+		.reward-cont .reward-img-box {
+			display: inline-block;
+		    width: 60px;
+		    height: 60px;
+		    border-radius: 60px;
+		    border: 1px solid #ccc;
+		    text-align: center;
+		    margin-bottom: 10px;
+		}
+		.reward-cont .reward-head-img {
+			width: 60px;
+		    height: 60px;
+		    border-radius: 60px;
+		}
+		.reward-cont .reward-user-name {
+			font-size: 14px;
+		}
+		.reward-cont .reward-in {
+			
+			margin: 20px 0 30px;
+		}
+		.reward-cont .reward-money {
+			text-align: center;
+			margin: 0 40px;
+		}
+		.reward-cont .reward-money li {
+			display: inline-block;
+			margin: 0 10px 10px;
+		}
+		.reward-cont .reward-money li a {
+			display: inline-block;
+			width: 90px;
+			height: 34px;
+			border-radius: 4px;
+			border: 1px solid #5DAFBC;
+			background-color: #fff;
+			line-height: 34px;
+			text-align: center;
+			font-size: 16px;
+			font-family: 'Arial';
+			font-weight: bold;
+		}
+		.reward-cont .reward-money li a:hover {
+			background-color: #5DAFBC;
+			text-decoration: none;
+			color: #fff;
+		}
+		
+		.reward-cont .reward-custom {
+			display: none;
+			position: relative;
+		}
+		.reward-cont #rewardTip {
+			font-size: 12px;
+			position: absolute;
+			top: 5px;
+			left: 340px;
+			width: 100px;
+			line-height: 24px;
+			color: #e63922;
+		}
+		.reward-cont .reward-custom-input {
+			position: relative;
+		    width: 200px;
+		    margin: 0 auto 10px;
+		    border: 1px solid #5DAFBC;
+		    background-color: #fff;
+		    border-radius: 4px;
+		    line-height: 34px;
+		    font-size: 18px;
+		    font-weight: bold;
+		    font-family: 'Arial';
+		    vertical-align: middle;
+		}
+		.reward-cont .icon-mon {
+			display: inline-block;
+		    position: relative;
+		    width: 32px;
+		    height: 34px;
+		    text-align: center;
+		    line-height: 34px;
+		}
+		.reward-cont .reward-num {
+		    width: 160px;
+		    background: none;
+		    position: relative;
+		    height: 34px;
+		    line-height: 34px;
+		    outline: none;
+		    border: none;
+		    font-size: 18px;
+		    font-weight: bold;
+		}
+		.reward-cont .reward-pay {
+		    display: block;
+		    width: 200px;
+		    margin: 0 auto;
+		    height: 34px;
+		    background-color: #D95F4C;
+		    text-align: center;
+		    border-radius: 4px;
+		    color: #fff;
+		    font-size: 14px;
+		    line-height: 34px;
+		    text-decoration: none;
+		}
+
+		.reward-cont .reward-pay:hover {
+		    background-color: #EC6854;
+		}
+		.reward-cont .reward-pay-bt {
+			margin: 10px 20px;
+		}
+    
+		
+	</style>
+        <!-- ?????? -->
+        <!-- ??html -->
+        <div class="donate-Main clearfix">
+            <div class="donate-btn-warp">
+                <p>有启发就赞赏一下</p>
+                <a onclick="donateBtn();" class="reward-btn-big  donate-btn " href="javascript:void(0);">赞赏</a>
+                <!--span>?? <b class="donate">23</b> ???</span-->
+            </div>
+            <div class="donate-more">
+                
+            </div>
+        </div>
+        <div class="reward-fixed-box reward-fixed" style="display:none;">
+            <form id="donate_form" name="t_form" method="post" action="http://qianbao.kdnet.net/topic/donatepay" target="_blank">
+                <div class="reward-fixed-main" >
+					<div class="reward-fixed-cont">
+						<div class="reward-title">赞赏<b class="REclose donate-close"></b></div>
+						<div class="reward-cont">
+					<div class="reward-user-head">
+					
+						<a class="reward-img-box" href="http://user.kdnet.net/index.asp?userid=15676960" target="_blank">
+							<img class="reward-head-img" src="http://imgcdn.cat898.com/upload/userface/15676960_190_190.jpg" onerror="this.src='http://imgcdn.kdnet.net/upload/userface/NoPic_190_190.jpg'">
+						</a>
+						<p class="reward-user-name"><a href="http://user.kdnet.net/index.asp?userid=15676960" target="_blank">揭开真相ASD</a></p>
+					
+					</div>
+					<div class="reward-in">
+						<ul class="reward-money">
+							<li><a class="donate-money" href="javascript:void(0);" data-money="5" >5元</a></li>
+							<li><a class="donate-money" href="javascript:void(0);" data-money="10">10元</a></li>
+							<li><a class="donate-money" href="javascript:void(0);" data-money="20">20元</a></li>
+							<li><a class="donate-money" href="javascript:void(0);" data-money="50">50元</a></li>
+							<li><a class="donate-money" href="javascript:void(0);" data-money="100">100元</a></li>
+							<li><a href="javascript:void(0);" id="rewardCus">其他</a></li>
+						</ul>
+						<div class="reward-custom">
+							<div class="reward-custom-input">
+								<label class="icon-mon" for="rewardNum">￥</label><input id="rewardNum" class="reward-num" type="text" name="money" value="8.80">
+							</div>
+							<span id="rewardTip" style="display:none"></span>
+							<a href="javascript:void(0);" class="reward-pay" action-type="submit">立即支付</a>
+							<input name="tid" value="11337832" type="hidden">
+						</div>
+					</div>
+					<div class="reward-pay-bt">
+						<label>
+							<input type="checkbox" name="is_guest" value="1"> 匿名赞赏
+						</label>
+					</div>
+				</div>
+					</div>
+                   
+               </div>
+            </form>
+        </div>
+
+        <!-- 赞赏html -->
+
+
+
+    </div>
+    </body>
+	<script src="http://lib.sinaapp.com/js/jquery/1.9.1/jquery-1.9.1.min.js"></script>
+<script>
+
+
+
+    $(function(){
+        $('a[action-type="submit"]').click( function () {
+            var money = $('#rewardNum').val() * 100;
+            if (money && money >= 1 ) {
+                $('#donate_form')[0].submit();
+            } else {
+                alert('请输入有效金额');
+            }
+        });
+
+		$('.donate-close').click( function() {
+			$('.reward-fixed').fadeOut(300);
+		});
+
+		$('#rewardCus').click( 
+			function () { 
+				$('.reward-in .reward-money').hide(); 
+				$('.reward-in .reward-custom').fadeIn(); 
+			}
+		);
+
+		$('.donate-money').click(function () {
+			var money = $(this).attr('data-money'),
+				regex = /^\d+$/;
+
+			if (regex.test(money))
+			{
+				$('#rewardNum').val(money);
+				$('#donate_form')[0].submit();
+			} else {
+				alert("金额输入有误");
+			}
+		});
+
+		// ????
+		var m = document.getElementById("rewardNum");
+        m.onkeyup = function() {
+            var regex = /^\d+\.?\d{0,2}$/;
+            if (!regex.test(this.value))
+            {
+                document.getElementById("rewardTip").innerHTML = "金额输入有误";
+                document.getElementById("rewardTip").style.display=""; 
+                this.value = "";
+                this.focus();
+            } else {
+            	document.getElementById("rewardTip").style.display="none"; 
+            }  
+        };
+
+$.get("http://qianbao.kdnet.net/api/donate/aspinit.json?tid=11337832&page=1", function(data){
+        if (data.data.personal) {
+				$('.donate-more').append('<h2>赞赏搂主的人</h2>').append('<ul></ul>');
+            $.each(data.data.personal, function (key, value) {
+                if (value.is_guest) {
+					var html = '<li><img src="http://imgcdn.kdnet.net/upload/userface/NoPic_40_40.jpg" alt="" /></li>';
+                } else {
+                    var html = '<li><a target="_blank" href="http://user.kdnet.net/index.asp?userid=' + value.UserID +'"><img src="http://imgcdn.kdnet.net/upload/userface/' + value.UserID + '_40_40.jpg?t=14:15:50" onerror="this.src= duf_40_40" /></a></li>';
+                }
+                    $('.donate-more ul').append(html);
+            });
+
+            if (data.data.personal_count >= 17) {
+                $('.donate-more ul').append('<li class="last" id="donate_last" data-tid="11337832"><a href="javascript:void(0);"></a></li>');
+            }
+
+        }
+}, 'jsonp');
+
+		$('#donate_last').click(function () {
+            $.get('donate_more.asp', {tid: 11337832}, function (json) {
+                if (json.data.personal) {
+                    $('#donate_last').remove();
+					 $('.donate-more ul').empty();
+                    $.each(json.data.personal, function (key, value) {
+                        if (value.is_guest) {
+					var html = '<li><img src="http://imgcdn.kdnet.net/upload/userface/NoPic_40_40.jpg" alt="" /></li>';
+                        } else {
+                            var html = '<li><a href="http://user.kdnet.net/index.asp?userid=' + value.UserID +'" target="_blank"><img src="http://imgcdn.kdnet.net/upload/userface/' + value.UserID + '_40_40.jpg?t=14:15:50" alt="" onerror="this.src = duf_40_40;" /></a></li>';
+                        }
+                            $('.donate-more ul').append(html);
+                    });
+                }
+            }, 'json');
+        });
+
+    });
+
+    function donateBtn(){
+        $('.reward-fixed-box').fadeIn(300);
+        $('.reward-fixed-main').css({'margin-left':'-'+($('.reward-fixed-main').outerWidth()/2)+'px','margin-top':'-'+($('.reward-fixed-main').height()/2)+'px'});
+    }
+
+    function closeR(){
+        $('.reward-fixed').fadeOut(300);
+    }
+</script>
+
+
+
+					<!--chung 打赏 E -->
+
+
+
+					<!--sunny 打赏 E -->
+		    	</div>
+		    	
+		    	<div class="posts-control c-sub manange-panel">
+
+				<!-- IP,曾用名 -->
+				<div style="float:left;">
+				 
+				
+				</div>
+				<!-- // IP,曾用名 -->
+				<!--sunny local 20131112 B-->
+				
+
+				<script language="javascript">
+					//sunny local 20131112 B
+					function push(boardid, rootid,posttable,t,div) {
+						$.ajax({
+							url: "push_dispbbs.asp?boardid="+boardid+"&rootid="+rootid+'&posttable='+posttable+'&t='+t+'&div='+rootid,
+							type: "GET",
+							cache: false,
+							success: function(html){
+							$('[id=push_'+rootid+']').html(html);
+							}
+						});
+					}
+					//sunny local 20131112 E
+
+				</script>
+				<!--sunny local 20131112 E-->
+
+				<span id="result"></span>
+				<span id="ding_54670302"></span>
+				
+				<!--<b class="c-sub">|</b>-->
+				<a href="#Preply" title="回复">回复</a>
+				 | 
+				<a href="http://upfile1.kdnet.net/textareaeditor/quote.asp?boardid=25&followup=54670302&rootid=11337832&lay=1">引用</a>
+                
+                <b class="c-sub">|</b> <span class="c-alarm fB" title="举报"><a href="javascript:;"  onclick="openLoginPopup();" title="举报">举报</a></span>
+							
+               
+				</div>  
+		    	</div>
+				
+		    	<div class="interval-line"></div>
+
+				<div class="banner b-border">
+				<div id="dispbbs29" style="width:820px;height:0;visibility:hidden;overflow:hidden;">
+
+				<div style="height:10px;border:1px solid #fff;border-width:0 1px 0 1px;"></div>
+
+				
+					<div style="width:728px;margin:0 auto; height:90px; overflow:hidden;">
+					<script type="text/javascript">//<![CDATA[
+					ac_as_id = 101899;
+					ac_format = 0;
+					ac_mode = 1;
+					ac_group_id = 1;
+					ac_server_base_url = "afp.csbew.com/";
+					//]]></script>
+					<script type="text/javascript" src="http://s.csbew.com/k.js"></script>
+					</div>
+				
+				
+				</div>
+				</div>
+				<a name="Preply" id="Preply"></a>
+				<div style="height:10px;border:1px solid #fff;border-width:0 1px 0 1px;"></div>
+
+				<div class="banner b-border">
+				<div id="dispbbs113" style="width:820px;visibility:hidden;overflow:hidden;">
+					
+					<!--内容页METRO：2014-07-31-->
+				<div style="width:728px;margin:0 auto; height:90px; overflow:hidden;">
+					<script type="text/javascript">//<![CDATA[
+						ac_as_id = 101123;
+						ac_format = 0;
+						ac_mode = 1;
+						ac_group_id = 1;
+						ac_server_base_url = "afp.csbew.com/";
+						//]]></script>
+						<script type="text/javascript" src="http://s.csbew.com/k.js"></script>
+				</div>
+				<div style="height:10px;border:1px solid #fff;border-width:0 1px 0 1px;"></div>
+				
+					
+				</div>
+				<div class="banner b-border" style="border-bottom:1px solid #fff;">
+				
+				</div>
+				</div>
+				
+<script>x.personalInfo('userinfo_1','detailinfo_1','15676960','arrow');</script>			    	
+		    	<!--回复-->
+		    	<div class="reply-box" id="54670670" style="display:block">
+
+
+					<div class="posted-box clearfix"><a name="54670670"></a>
+		    		<div class="posted-info c-sub" >回帖人：<div class="name" id="userinfo_2">
+					
+					
+				    <div class="usertips clearfix box1" id="detailinfo_2"></div>	
+					<span class="name c-main">
+					<a  href="http://user.kdnet.net/index.asp?userid=15676960" target="_blank">揭开真相ASD</a></span>
+					
+					<a href="http://user.kdnet.net/index.asp?userid=15676960" target="_blank"><img class="phone-icon" title="手机绑定用户" src="http://www.kdnet.net/g_images/transparent.gif" /></a>&nbsp;</div>
+					<span class="c-sub">|</span> <span><a
+					
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					>只看此人</a></span> 
+					
+					<span class="c-sub">|</span> <span><a
+                     
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					
+					>不看此人</a></span> 
+					
+
+					<span class="c-sub">|</span> 2015-12-11 11:08:57 &nbsp;&nbsp; 
+					<a href="http://3g.kdnet.net/app.php" target="_blank">跟帖回复：</a>
+					
+					</div> 
+					
+                    <div class="posted-floor"><span class="c-sub"><span id="dispbbs34" style="width:0;height:0;visibility:hidden;overflow:hidden;"></span></span>&nbsp;&nbsp;&nbsp;<span><a href="#" onclick="javascript:showExposeMask('54670670', '1');return false;" id="floor1">沙发</a></span></div>
+					
+		    	</div>
+			    	<div class="replycont-box clearfix">
+                  					
+			    		<div class="replycont-box-l">
+			    			<span class="c-main">
+							</span>
+			    		</div>
+                  
+			    		<div class="replycont-box-r">    		
+					<div class="replycont-text" style="word-spacing: 2px;"><br><img src="http://imgcdn.kdnet.net/UploadSmall/2015/12/11/1449803185620435.jpg" alt="" border="0" / onclick="javascript:if((!(this.width<600))||(!(this.width<100)&&!(this.height<100)))window.open('http://club.kdnet.net/atlas/index.asp?id=11337832&pic='+escape(this.src.replace('.cat898.com/','.kdnet.net/').replace('/UploadSmall/','/Upload/')));"  class="img-src"   onload="javascript:if (this.width>=600 || (this.width>=100 && this.height>=100)){this.style.cursor='pointer';}if(this.width>=600){this.height=parseInt(this.height*600/this.width);this.width=600;}"><br><br><img src="http://imgcdn.kdnet.net/UploadSmall/2015/12/11/14498031981451450.jpg" alt="" border="0" / onclick="javascript:if((!(this.width<600))||(!(this.width<100)&&!(this.height<100)))window.open('http://club.kdnet.net/atlas/index.asp?id=11337832&pic='+escape(this.src.replace('.cat898.com/','.kdnet.net/').replace('/UploadSmall/','/Upload/')));"  class="img-src"   onload="javascript:if (this.width>=600 || (this.width>=100 && this.height>=100)){this.style.cursor='pointer';}if(this.width>=600){this.height=parseInt(this.height*600/this.width);this.width=600;}"><br><br><img src="http://imgcdn.kdnet.net/UploadSmall/2015/12/11/14498032172726369.JPG" alt="" border="0" / onclick="javascript:if((!(this.width<600))||(!(this.width<100)&&!(this.height<100)))window.open('http://club.kdnet.net/atlas/index.asp?id=11337832&pic='+escape(this.src.replace('.cat898.com/','.kdnet.net/').replace('/UploadSmall/','/Upload/')));"  class="img-src"   onload="javascript:if (this.width>=600 || (this.width>=100 && this.height>=100)){this.style.cursor='pointer';}if(this.width>=600){this.height=parseInt(this.height*600/this.width);this.width=600;}"><br><br>这样的政协委员能否参好政，议好政，做好政府示范项目？</div>
+
+					<!--sunny 打赏 B -->
+					
+					<!--sunny 打赏 E -->
+
+						</div>
+			    	</div>
+		    	
+			    	<div class="c-main posts-control c-sub">
+
+				<!-- IP,曾用名 -->
+				<div style="float:left;">
+				
+				
+				</div>
+				<!-- // IP,曾用名 -->
+				
+				<!-- sunny 打赏 E -->
+
+			   <span id="ding_54670670"></span>
+				
+					<!--<b class="c-sub">|</b>-->
+					<a href="#Preply" onclick="openLoginPopup();">回复</a> 
+					
+				     | <a href="http://upfile1.kdnet.net/textareaeditor/quote.asp?boardid=25&followup=54670670&rootid=11337832&lay=2">引用</a>
+					
+					<b class="c-sub">|</b> <span class="c-alarm fB" title="举报"><a href="javascript:;"  onclick="openLoginPopup();" title="举报">举报</a></span>
+										
+
+					</div>
+		    	</div>
+		    	<!--回复 End-->
+<script>x.personalInfo('userinfo_2','detailinfo_2','15676960','arrow');</script>			    	
+		    	<!--回复-->
+		    	<div class="reply-box nobg" id="54671239" style="display:block">
+
+
+					<div class="posted-box clearfix"><a name="54671239"></a>
+		    		<div class="posted-info c-sub" >回帖人：<div class="name" id="userinfo_3">
+					
+					
+				    <div class="usertips clearfix box1" id="detailinfo_3"></div>	
+					<span class="name c-main">
+					<a  href="http://user.kdnet.net/index.asp?userid=15676960" target="_blank">揭开真相ASD</a></span>
+					
+					<a href="http://user.kdnet.net/index.asp?userid=15676960" target="_blank"><img class="phone-icon" title="手机绑定用户" src="http://www.kdnet.net/g_images/transparent.gif" /></a>&nbsp;</div>
+					<span class="c-sub">|</span> <span><a
+					
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					>只看此人</a></span> 
+					
+					<span class="c-sub">|</span> <span><a
+                     
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					
+					>不看此人</a></span> 
+					
+
+					<span class="c-sub">|</span> 2015-12-11 11:22:58 &nbsp;&nbsp; 
+					<a href="http://3g.kdnet.net/app.php" target="_blank">跟帖回复：</a>
+					
+					</div> 
+					
+					<div class="posted-floor">
+					<span class="rf">&nbsp;&nbsp;&nbsp;第 <span class="c-alarm"><a href="#" onclick="javascript:showExposeMask('54671239', '3');return false;" id="floor3">3</a></span> 楼</span>
+					<span class="rf" id="dispbbs35" style="width:0;height:0;visibility:hidden;overflow:hidden;">
+						<!-- iframe src=" http://wake.hiapk.com/iframe/ibbs.html" scrolling="no" width="200px" height="15px" allowtransparency="true" frameborder="0" style="padding-top:3px;overflow:hidden;"></iframe -->
+					</span>
+				    </div>
+					
+		    	</div>
+			    	<div class="replycont-box clearfix">
+                  
+			    		<div class="replycont-box-r">    		
+					<div class="replycont-text" style="word-spacing: 2px;">ZZ01210233（c包）该政府采购项目中标单位是《广州北斗导航技术有限公司》，法定代表人林晓〔林秋城的儿子〕。工商资料显示：该公司成立日期2005年12月19日，原登记名称《广州大零导航科技有限公司》，注册资金100万元，股东林静华出资90万元，孙乐出资10万元。2006年6月14日，《广州大零导航科技有限公司》申请涓伞豆阒萏旆榈己娇萍加邢薰尽罚ǘù砣肆志不鲎90万元，孙乐出资10万元。2007年3月28日进行增资，林静华出资900万元，孙乐出资100万元。2008年8月6日，林秋城天烽公司登报声明“注册号4401042007402营业执照” 遗失作废，2008年9月26日，天烽公司进行股权涓志不900万元股权转让给林秋城，孙乐将100万元股权转让给陈奕斌，并涓久莆豆阒荼倍反笕ǖ己娇萍加邢薰尽罚智锍俏ㄈ恕2010年12月10日，林秋城和陈奕斌将股权100%转让给《广东伽利略卫星导航股份有限公司》，法人林秋城。 《广东伽利略卫星导航股份有限公司》再将100%股权投资《广州北斗大三通导航科技有限公司》，工商资料显示法人林秋城独资，这样不管是《广东伽利略卫星导航股份有限公司》还是《广州北斗大三通导航科技有限公司》，实际都是同一主体。<br>2011年8月中旬，揭阳的运营商向广东省人民政府申请行政复议，《广州北斗大三通导航科技有限公司》作为被申请人，2011年8月20日，林秋城大三通公司再次在信息时报登报声明“注册号440108000035167营业执照” 遗失作废，2011年8月25日，《广州北斗大三通导航科技有限公司》申请涓伞豆阒荼倍返己郊际跤邢薰尽罚ㄈ肆智锍牵啥豆愣だ晕佬堑己焦煞萦邢薰尽罚2011年8月31日，公司涓赴讣锹荚俅蜗允尽耙攀Р沽臁奔锹迹2012年8月6日，《广州北斗导航技术有限公司》股东《广东伽利略卫星导航股份有限公司》将900万股权转让给林晓，100万股权转让给林锋，法人涓窒<br>2005年12月19日至2012年8月6日，不够7年的时间，《广州北斗导航技术有限公司》进行了四次的名称变更，四次的股权变更，二次的遗失营业执照涓<br>2005年至2012年，除了上述公司，参与政府扶持项目活动的还有《广东大三通科技有限公司》，该公司涓胺ㄈ肆智锍牵鲎式鸲180万元，占股权90%，林钊文出资20万元，占股权10%，2006年11月1日，《广东大三通科技有限公司》进行股权涓羌牵涓螅诸任某鲎式鸲180万元，占股权90%，林静珍出资20万元，占股权10%，林钊文为法定代表人，该公司2012年7月5日营业执照被吊销。<br>不管公司资料如何变更，公司的真正操作控制人都是广东省政协委员、民革常委、民革经济委主任林秋城。<br></div>
+
+					<!--sunny 打赏 B -->
+					
+					<!--sunny 打赏 E -->
+
+						</div>
+			    	</div>
+		    	
+			    	<div class="c-main posts-control c-sub">
+
+				<!-- IP,曾用名 -->
+				<div style="float:left;">
+				
+				
+				</div>
+				<!-- // IP,曾用名 -->
+				
+				<!-- sunny 打赏 E -->
+
+			   <span id="ding_54671239"></span>
+				
+					<!--<b class="c-sub">|</b>-->
+					<a href="#Preply" onclick="openLoginPopup();">回复</a> 
+					
+				     | <a href="http://upfile1.kdnet.net/textareaeditor/quote.asp?boardid=25&followup=54671239&rootid=11337832&lay=3">引用</a>
+					
+					<b class="c-sub">|</b> <span class="c-alarm fB" title="举报"><a href="javascript:;"  onclick="openLoginPopup();" title="举报">举报</a></span>
+										
+
+					</div>
+		    	</div>
+		    	<!--回复 End-->
+<script>x.personalInfo('userinfo_3','detailinfo_3','15676960','arrow');</script>			    	
+		    	<!--回复-->
+		    	<div class="reply-box" id="54671300" style="display:block">
+
+
+					<div class="posted-box clearfix"><a name="54671300"></a>
+		    		<div class="posted-info c-sub" >回帖人：<div class="name" id="userinfo_4">
+					
+					
+				    <div class="usertips clearfix box1" id="detailinfo_4"></div>	
+					<span class="name c-main">
+					<a  href="http://user.kdnet.net/index.asp?userid=15676960" target="_blank">揭开真相ASD</a></span>
+					
+					<a href="http://user.kdnet.net/index.asp?userid=15676960" target="_blank"><img class="phone-icon" title="手机绑定用户" src="http://www.kdnet.net/g_images/transparent.gif" /></a>&nbsp;</div>
+					<span class="c-sub">|</span> <span><a
+					
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					>只看此人</a></span> 
+					
+					<span class="c-sub">|</span> <span><a
+                     
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					
+					>不看此人</a></span> 
+					
+
+					<span class="c-sub">|</span> 2015-12-11 11:24:43 &nbsp;&nbsp; 
+					<a href="http://3g.kdnet.net/app.php" target="_blank">跟帖回复：</a>
+					
+					</div> 
+					
+					<div class="posted-floor"><span class="c-sub"><span id="dispbbs36" style="width:0;height:0;visibility:hidden;overflow:hidden;"></span></span>&nbsp;&nbsp;&nbsp;第 <span class="c-alarm"><a href="#" onclick="javascript:showExposeMask('54671300', '4');return false;" id="floor4">4</a></span> 楼</div>
+					
+		    	</div>
+			    	<div class="replycont-box clearfix">
+                  
+			    		<div class="replycont-box-r">    		
+					<div class="replycont-text" style="word-spacing: 2px;"><br><img src="http://imgcdn.kdnet.net/UploadSmall/2015/12/11/14498042462131023.jpg" alt="" border="0" / onclick="javascript:if((!(this.width<600))||(!(this.width<100)&&!(this.height<100)))window.open('http://club.kdnet.net/atlas/index.asp?id=11337832&pic='+escape(this.src.replace('.cat898.com/','.kdnet.net/').replace('/UploadSmall/','/Upload/')));"  class="img-src"   onload="javascript:if (this.width>=600 || (this.width>=100 && this.height>=100)){this.style.cursor='pointer';}if(this.width>=600){this.height=parseInt(this.height*600/this.width);this.width=600;}"><br><br>这样的政协委员能否参好政，议好政，做好政府示范项目？.</div>
+
+					<!--sunny 打赏 B -->
+					
+					<!--sunny 打赏 E -->
+
+						</div>
+			    	</div>
+		    	
+			    	<div class="c-main posts-control c-sub">
+
+				<!-- IP,曾用名 -->
+				<div style="float:left;">
+				
+				
+				</div>
+				<!-- // IP,曾用名 -->
+				
+				<!-- sunny 打赏 E -->
+
+			   <span id="ding_54671300"></span>
+				
+					<!--<b class="c-sub">|</b>-->
+					<a href="#Preply" onclick="openLoginPopup();">回复</a> 
+					
+				     | <a href="http://upfile1.kdnet.net/textareaeditor/quote.asp?boardid=25&followup=54671300&rootid=11337832&lay=4">引用</a>
+					
+					<b class="c-sub">|</b> <span class="c-alarm fB" title="举报"><a href="javascript:;"  onclick="openLoginPopup();" title="举报">举报</a></span>
+										
+
+					</div>
+		    	</div>
+		    	<!--回复 End-->
+<script>x.personalInfo('userinfo_4','detailinfo_4','15676960','arrow');</script>			    	
+		    	<!--回复-->
+		    	<div class="reply-box nobg" id="54671407" style="display:block">
+
+
+					<div class="posted-box clearfix"><a name="54671407"></a>
+		    		<div class="posted-info c-sub" >回帖人：<div class="name" id="userinfo_5">
+					
+					
+				    <div class="usertips clearfix box1" id="detailinfo_5"></div>	
+					<span class="name c-main">
+					<a  href="http://user.kdnet.net/index.asp?userid=15676960" target="_blank">揭开真相ASD</a></span>
+					
+					<a href="http://user.kdnet.net/index.asp?userid=15676960" target="_blank"><img class="phone-icon" title="手机绑定用户" src="http://www.kdnet.net/g_images/transparent.gif" /></a>&nbsp;</div>
+					<span class="c-sub">|</span> <span><a
+					
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					>只看此人</a></span> 
+					
+					<span class="c-sub">|</span> <span><a
+                     
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					
+					>不看此人</a></span> 
+					
+
+					<span class="c-sub">|</span> 2015-12-11 11:27:45 &nbsp;&nbsp; 
+					<a href="http://3g.kdnet.net/app.php" target="_blank">跟帖回复：</a>
+					
+					</div> 
+					
+					<div class="posted-floor"><span class="c-sub"><span id="dispbbs37" style="width:0;height:0;visibility:hidden;overflow:hidden;"></span></span>&nbsp;&nbsp;&nbsp;第 <span class="c-alarm"><a href="#" onclick="javascript:showExposeMask('54671407', '5');return false;" id="floor5">5</a></span> 楼</div>
+					
+		    	</div>
+			    	<div class="replycont-box clearfix">
+                  
+			    		<div class="replycont-box-r">    		
+					<div class="replycont-text" style="word-spacing: 2px;"><br><img src="http://imgcdn.kdnet.net/UploadSmall/2015/12/11/14498043476519849.JPG" alt="" border="0" / onclick="javascript:if((!(this.width<600))||(!(this.width<100)&&!(this.height<100)))window.open('http://club.kdnet.net/atlas/index.asp?id=11337832&pic='+escape(this.src.replace('.cat898.com/','.kdnet.net/').replace('/UploadSmall/','/Upload/')));"  class="img-src"   onload="javascript:if (this.width>=600 || (this.width>=100 && this.height>=100)){this.style.cursor='pointer';}if(this.width>=600){this.height=parseInt(this.height*600/this.width);this.width=600;}"><br><br>政府平台政明要盖上政协委员林秋城的私章，是示范项目还是垄断经营？</div>
+
+					<!--sunny 打赏 B -->
+					
+					<!--sunny 打赏 E -->
+
+						</div>
+			    	</div>
+		    	
+			    	<div class="c-main posts-control c-sub">
+
+				<!-- IP,曾用名 -->
+				<div style="float:left;">
+				
+				
+				</div>
+				<!-- // IP,曾用名 -->
+				
+				<!-- sunny 打赏 E -->
+
+			   <span id="ding_54671407"></span>
+				
+					<!--<b class="c-sub">|</b>-->
+					<a href="#Preply" onclick="openLoginPopup();">回复</a> 
+					
+				     | <a href="http://upfile1.kdnet.net/textareaeditor/quote.asp?boardid=25&followup=54671407&rootid=11337832&lay=5">引用</a>
+					
+					<b class="c-sub">|</b> <span class="c-alarm fB" title="举报"><a href="javascript:;"  onclick="openLoginPopup();" title="举报">举报</a></span>
+										
+
+					</div>
+		    	</div>
+		    	<!--回复 End-->
+<script>x.personalInfo('userinfo_5','detailinfo_5','15676960','arrow');</script>			    	
+		    	<!--回复-->
+		    	<div class="reply-box" id="54693868" style="display:block">
+
+
+					<div class="posted-box clearfix"><a name="54693868"></a>
+		    		<div class="posted-info c-sub" >回帖人：<div class="name" id="userinfo_6">
+					
+					
+				    <div class="usertips clearfix box1" id="detailinfo_6"></div>	
+					<span class="name c-main">
+					<a  href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank">释正义</a></span>
+					
+					<a href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank"><img class="phone-icon" title="手机绑定用户" src="http://www.kdnet.net/g_images/transparent.gif" /></a>&nbsp;</div>
+					<span class="c-sub">|</span> <span><a
+					
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					>只看此人</a></span> 
+					
+					<span class="c-sub">|</span> <span><a
+                     
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					
+					>不看此人</a></span> 
+					
+
+					<span class="c-sub">|</span> 2015-12-12 0:50:01 &nbsp;&nbsp; 
+					<a href="http://3g.kdnet.net/app.php" target="_blank">跟帖回复：</a>
+					
+					</div> 
+					
+					<div class="posted-floor">第 <span class="c-alarm"><a href="#" onclick="javascript:showExposeMask('54693868', '6');return false;" id="floor6">6</a></span> 楼</div>
+					
+		    	</div>
+			    	<div class="replycont-box clearfix">
+                  
+			    		<div class="replycont-box-r">    		
+					<div class="replycont-text" style="word-spacing: 2px;">林秋城是利用政协委员身份上欺政府领导、中坑合作伙伴下压公司员工、客户的高手。欺骗领导驾轻就熟，用省政协委员身份，动用在省经信委及相关资源，利用某些地方政府领导希望做出实事但对科技产品不精通、法律规定不熟悉的漏洞，将其公司进行的业务吹得高大上，选择性的引导相关负责人对其业务及结构的兴趣，只告诉好处，半点不谈项目是否真实可行或者可能涉及违法，钱到手项目就烂尾甚至被认定违法。到此时政府部门的负责人才幡然醒悟，但木已成舟，且林秋城经常拿着和省委常委及纪委主要领导人、部队某将领的合照、录像招摇过市“敲打”官员，政府不得不吃下这个哑巴亏。坑骗合作伙伴也是其强项：以质量不理想拖欠欠款，拖延保修直至不了了之、甚至以举报怂笆侄谓型玻死嫡耍俦ㄒ婪恼ㄈ嘶韭┧埃晃⒍辖已粑佬堑己叫幸凳谐。唇嶂XX，用揭阳政府平台车主资料到省工商、国税、地税举报依法经营的广东日宁、天之阳，揭阳慧眼通、泽润，普宁赛迪、梅州粤山等。对客户和员工最是无良，对客户保修要求故意拖延、直至保修期限期满，还有拖欠公司员工和协会员工赖以养家的工资，败诉后就变更公司名称，员工只能跳楼讨薪。……这样的政协委员能否参好政、议好政有待政府相关部门调查做出结论。<br><br></div>
+
+					<!--sunny 打赏 B -->
+					
+					<!--sunny 打赏 E -->
+
+						</div>
+			    	</div>
+		    	
+			    	<div class="c-main posts-control c-sub">
+
+				<!-- IP,曾用名 -->
+				<div style="float:left;">
+				
+				
+				</div>
+				<!-- // IP,曾用名 -->
+				
+				<!-- sunny 打赏 E -->
+
+			   <span id="ding_54693868"></span>
+				
+					<!--<b class="c-sub">|</b>-->
+					<a href="#Preply" onclick="openLoginPopup();">回复</a> 
+					
+				     | <a href="http://upfile1.kdnet.net/textareaeditor/quote.asp?boardid=25&followup=54693868&rootid=11337832&lay=6">引用</a>
+					
+					<b class="c-sub">|</b> <span class="c-alarm fB" title="举报"><a href="javascript:;"  onclick="openLoginPopup();" title="举报">举报</a></span>
+										
+
+					</div>
+		    	</div>
+		    	<!--回复 End-->
+<script>x.personalInfo('userinfo_6','detailinfo_6','15626823','arrow');</script>			    	
+		    	<!--回复-->
+		    	<div class="reply-box nobg" id="54699963" style="display:block">
+
+
+					<div class="posted-box clearfix"><a name="54699963"></a>
+		    		<div class="posted-info c-sub" >回帖人：<div class="name" id="userinfo_7">
+					
+					
+				    <div class="usertips clearfix box1" id="detailinfo_7"></div>	
+					<span class="name c-main">
+					<a  href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank">释正义</a></span>
+					
+					<a href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank"><img class="phone-icon" title="手机绑定用户" src="http://www.kdnet.net/g_images/transparent.gif" /></a>&nbsp;</div>
+					<span class="c-sub">|</span> <span><a
+					
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					>只看此人</a></span> 
+					
+					<span class="c-sub">|</span> <span><a
+                     
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					
+					>不看此人</a></span> 
+					
+
+					<span class="c-sub">|</span> 2015-12-12 10:43:27 &nbsp;&nbsp; 
+					<a href="http://3g.kdnet.net/app.php" target="_blank">跟帖回复：</a>
+					
+					</div> 
+					
+					<div class="posted-floor">第 <span class="c-alarm"><a href="#" onclick="javascript:showExposeMask('54699963', '7');return false;" id="floor7">7</a></span> 楼</div>
+					
+		    	</div>
+			    	<div class="replycont-box clearfix">
+                  
+			    		<div class="replycont-box-r">    		
+					<div class="replycont-text" style="word-spacing: 2px;">请广东省政协委员、民革常委、广州北斗导航技术有限公司董~长、该公司实际控制人林秋城先生网上公开回应，不要玩阴的，玩阴的谁都玩不过你，你也可把三方合同晒到网上，让大家知道事情真相，评评理，不要老是用政协委员身份高招设局，忽悠政府和有关部门，让他们承担责任，你却躲在有关部门背后敛财，违法违规后，你又变换公司，……？</div>
+
+					<!--sunny 打赏 B -->
+					
+					<!--sunny 打赏 E -->
+
+						</div>
+			    	</div>
+		    	
+			    	<div class="c-main posts-control c-sub">
+
+				<!-- IP,曾用名 -->
+				<div style="float:left;">
+				
+				
+				</div>
+				<!-- // IP,曾用名 -->
+				
+				<!-- sunny 打赏 E -->
+
+			   <span id="ding_54699963"></span>
+				
+					<!--<b class="c-sub">|</b>-->
+					<a href="#Preply" onclick="openLoginPopup();">回复</a> 
+					
+				     | <a href="http://upfile1.kdnet.net/textareaeditor/quote.asp?boardid=25&followup=54699963&rootid=11337832&lay=7">引用</a>
+					
+					<b class="c-sub">|</b> <span class="c-alarm fB" title="举报"><a href="javascript:;"  onclick="openLoginPopup();" title="举报">举报</a></span>
+										
+
+					</div>
+		    	</div>
+		    	<!--回复 End-->
+<script>x.personalInfo('userinfo_7','detailinfo_7','15626823','arrow');</script>			    	
+		    	<!--回复-->
+		    	<div class="reply-box" id="54720185" style="display:block">
+
+
+					<div class="posted-box clearfix"><a name="54720185"></a>
+		    		<div class="posted-info c-sub" >回帖人：<div class="name" id="userinfo_8">
+					
+					
+				    <div class="usertips clearfix box1" id="detailinfo_8"></div>	
+					<span class="name c-main">
+					<a  href="http://user.kdnet.net/index.asp?userid=15676960" target="_blank">揭开真相ASD</a></span>
+					
+					<a href="http://user.kdnet.net/index.asp?userid=15676960" target="_blank"><img class="phone-icon" title="手机绑定用户" src="http://www.kdnet.net/g_images/transparent.gif" /></a>&nbsp;</div>
+					<span class="c-sub">|</span> <span><a
+					
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					>只看此人</a></span> 
+					
+					<span class="c-sub">|</span> <span><a
+                     
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					
+					>不看此人</a></span> 
+					
+
+					<span class="c-sub">|</span> 2015-12-12 23:41:42 &nbsp;&nbsp; 
+					<a href="http://3g.kdnet.net/app.php" target="_blank">跟帖回复：</a>
+					
+					</div> 
+					
+					<div class="posted-floor">第 <span class="c-alarm"><a href="#" onclick="javascript:showExposeMask('54720185', '8');return false;" id="floor8">8</a></span> 楼</div>
+					
+		    	</div>
+			    	<div class="replycont-box clearfix">
+                  
+			    		<div class="replycont-box-r">    		
+					<div class="replycont-text" style="word-spacing: 2px;">附件一：林秋城企业平台变身“市级平台”的背景介绍<br>〔一〕“揭阳市重点车辆综合监控平台”的设立和运营历史：　<br>&nbsp;&nbsp;&nbsp;&nbsp;为了保障交通运输安全，预防和减少重特大交通事故，2009年3月9日，由广东省八厅局联合签发的粤安监［2009］69号文件《关于强制推广应用带有卫星定位功能的汽车行驶记录仪的通知》发布后，根据文件“各部门工作职责与分工” 规定职能：“交通部门负责组织、指导辖区内的运输企业县〔区〕际以上客运班车、旅游包车、道路危险货物运输车辆、教练车安装使用符合爰夜娣逗臀沂〉胤奖曜嫉奈佬嵌ㄎ黄敌惺患锹家牵匆笙蛳喙毓芾聿棵盘峁┘嗫毓芾淼耐ㄐ沤涌诤图嗫厥荨薄<font color=#e5362b>揭阳市交通部门于2010年4月已经建成功能意义上的市级平台并投入使用、统一接收了全市重点车辆监控数据，各运输企业和社会服务化运营监控平台也已根据相关文件到运政网省级平台申请备案和上传车辆实时行驶数据，运政网省级平台数据已实现全省互联共享，市级交通部门可通过运政网市级平台对辖区内的重点车辆进行监控，有关政府监管部门亦可以通过安装该平台客户端软件获取各自权限内的监控信息。</font>2011年，广州北斗大三通导航科技有限公司〔下简称“北斗大三通”〕法定代表人、广东省政协委员、民革常委林秋城为垄断揭阳卫星定位市场，忽悠政府有关部门，用捐赠市级平台的形式，由揭阳市安委会于2011年2月17日以［揭安委明电（2011）2号］文件另行在交通部门的运政网监控平台外指定由北斗大三通建设、管理具有行政管理职能的“揭阳市重点车辆综合监控平台”，并要求已经向揭阳市交通运输局提交监控数据的企业及车主重复向大三通公司建设管理的“市级平台”提交监控数据和车主联系方式等商业秘密，未加盖北斗大三通公司掌控的“揭阳市重点车辆综合监控平台”印章的“揭阳市重点车辆综合监控平台卫星定位汽车行驶记录仪安装有效性证明”则车辆无法通过年审。重点车辆车主及卫星定位运营商为使车辆通过年检不得不以高于市场价购买北斗大三通公司不符合标准的大三通803和805车载终端以获取该“平台证明”。<font color=#e5362b>更为甚者，将空白“平台证明”未经任何检测和手续就加盖“揭阳市重点车辆综合监控平台”印章后以每张100至150元的价格出售各重点车辆车主和其他运营商。</font>“揭阳市重点车辆综合监控平台”实质上是林秋城用空手套白狼方式设立的：2010年底，林秋城用广东伽利略卫星导航股份有限公司和广东天之阳揭阳分公司签订了揭阳政府平台合作分成合同，利用了广东天之阳揭阳分公司现有的场地，人员，设备，林秋城不花1分钱的投入，在天之阳揭阳分公司的门口挂了一块“揭阳市重点车辆市级综合监控平台”牌匾便将天之阳揭阳分公司的技防报警中心变成了“市级平台”。<br>林秋城利用掌控市级平台接入证明和市级平台印鉴的权力，为全面控制揭阳市重点车辆卫星定位市场，林秋城和合作伙伴于2011年1月份筹划在普宁市成立广州北斗大三通导航科技有限公司普宁分公司及揭阳市重点车辆监控中心普宁分中心，并于2011年2月22日注册了广州北斗大三通导航科技有限公司揭阳分公司，实现了揭阳地区北斗大三通全覆盖，林秋城利用政协委员光环和政府平台公权垄断经营，强买强卖，非法敛财，偷税漏税，<font color=#e5362b>要求购买设备的企业按指定的银行账号【有关部门调查揭阳运营商可提供卡号和开户名】进行汇款和异地存款方式逃避税务监管。</font>林秋城在揭阳成立的两家分公司，未予申报缴纳税款。<br>有关企业于2011年8月22日向广东省人民政府提出行政复议申请，林秋城为掩人耳目，于2011年8月25日将被行政复议列为第三人的“广州北斗大三通导航科技有限公司”申请变更成“广州北斗导航技术有限公司”。2011年11月22日，省政府行政复议决定认定由北斗大三通公司管理市级平台违法。林秋城在揭阳隐瞒了被行政复议和变更公司名称的事实，2011年底将市级平台搬到安监局宣教中心，并一直保管使用平台印章。当时所谓“市级平台”说白了就是林秋城聘用的一个临时工、半张办公桌和一台电脑（补充说明功能情况）， “揭阳市重点车辆综合监控平台” 的牌匾只能放在林秋城聘用临时工坐椅后面。林秋城“苦心”经营多年的“市级平台”名存实亡，令各企业重复提交监控数据的行为也增加了企业的负担，提高了守法成本，降低了市场的活力和积极性。车主怨声载道：该平台既未被交通管理部门和其他行政管理部门作为监控信息的唯一来源，也未向其他运营商提供数据接口的“市级平台”，被省府行政复议认定由北斗大三通公司管理违法的平台，在广东全省由企业出资建设的四个市级平台中，河源平台由省政府行政复议取消，清远、湛江平台由当地市政自行撤消的背景下，林秋城的揭阳“市级平台”却能够得到广东省经信委再次为其量身定制专项资金扶持项目，在“政府采购”程序的遮盖下，再次由林秋城的北斗导航公司公司中标了该项目。<br>〔二〕揭阳市重点车辆监控管理系统的立项和履行情况<br>林秋城在省经信委某些领导支持下，继续谋求对揭阳“市级平台”的控制经营一直未放弃，至少从2011年8月其将北斗大三通公司变更为北斗导航公司就显露无疑。<br>由广东省经信委作为采购人的《珠三角卫星导航应用示范系统项目》（C包）招标文件“项目背景”对“揭阳市重点车辆监控平台”&nbsp;&nbsp;作了很多夸大其词的赞扬和不符合实际的描述，不但对林秋城公司管理市级平台被认定违法的事实避而不提，更以项目招标文件《评标程序》中的《技术评定》《商业评定》为北斗导航公司量体裁衣设立了评分标准。项目招标文件中还有多处可以充分印证广东省经信委对省政协委员林秋城的北斗导航公司量身定制、格外关照的规定。另外，我们事后发现参加投标的广州日滨科技发展有限公司是示范项目的终端供应商，其是否是林秋城投标的合作伙伴不得而知。<br>该项目招标公告及招标文件所附合同格式中公示的的出资方（采购人）只有广东省经信委，而《珠三角卫星导航应用示范系统项目合同书》签订时居然有两个出资人！揭阳市政府未经预算、未经公告居然被广东省经信委和林秋城拉进来了<font color=#e5362b>！《政府采购法》规定应于中标日（2013年4月25日）后30天内签订合同，而该项目合同因违法的条款太多太明显，经广东省经信委和林秋城多次修订、大力推动也无法说服相关法规部门，导致逾期8个多月后于2013年12月19日才签订。</font>林秋城利用示范项目和“平台证明”、平台印鉴企图垄断市场，利用政协委员光环和示范项目对质疑垄断合法性的运营商进行恐吓，林秋城明目张胆的说<font color=#e5362b>：“我有政府作靠山，有能耐你们再去告政府，让政府部门整都整死你”！ </font>2014年10月29日，林秋城对运营商已装北斗双模或部标终端设备并已接入监控平台的车辆，拒绝出具平台证明给车主年审，严重影响了车主的生产运营，车主对此怨声载道。下午，运营商无奈向市安监局领导反映情况，安监局领导也当场指示对已接入平台车辆，必须先开平台证明给车主年审，林秋城却用广东省经信委示范项目名义拒不执行。<br>2014年11月3日，广州北斗导航技术有限公司林秋城在揭阳日报第五版发布了《重点车辆安装北斗卫星定位汽车行驶记录仪通告》和《声明》称“广州北斗导航技术有限公司是揭阳市政府重点车辆北斗卫星唯一中标单位”，利用示范项目“揭阳市政府重点车辆监控中心”名义误导车主、限制竟争。林秋城未经工信部备案和政府有关部门授权，招摇撞骗，冒充揭阳市政府重点车辆监管平台网站。经调查：林秋城私自命名设立的“揭阳市政府重点车辆监管平台”未经过有关部门审批备案，揭阳编制委也搜坏礁玫ノ幻疲闷教ㄋ泄ぷ魅嗽币彩橇智锍枪镜脑惫ぁ<br>揭阳卫星定位六家运营商联名实名于2014年11月14日，向广东省经信委反映了林秋城的劣迹和示范项目的违法违规情况，邮寄挂号信单号XA87661731644， 未见回复，2015年1月19日，运营商再次联名实名向广东省经信委邮寄举报材料，邮寄挂号信单号XA87665616444，同样未见回复。<br>2014年11月9日和10日，揭阳市六家运营商根据揭府办［2014］50号文件精神，再次联名实名向有关部门呈送了《关于贯彻实施“揭阳市推广北斗卫星导航应用工作方案的通知” (揭府办［2014］50号) 文件碰到的若干问题的请示》，并对林秋城利用政府平台违法违规敛财和垄断经营行为作了举报。11月9日，林秋城打电话给天之阳公司揭阳负责人进行恐吓利诱，晚19时左右又打电话给普宁赛迪负责人，林秋城威胁说: “你们去安监局闹事，都被安监局录了像并报案，现在公安已立案，我们是好朋友，我劝你赶紧不要参与，去说明情况，我们可以合作”。<br>林秋城新的合作伙伴――周钦灿等在普宁注册了“普宁市祥安科技有限公司”，林秋城利用周钦灿到处散布谣言，说揭阳的卫星定位运营商都要被揭阳政府取缔，林秋城的广州北斗导航技术有限公司是揭阳政府指定的唯一合法运营商，并用网名“祥安火山”对揭阳的运营商进行无中生有的攻击和诬告。2014年11月13日上午8时45分至9时30分，周钦灿先后用手机号码18128313889发短信对揭阳的运营商进行税务举报威胁。<br>2014年11月，揭阳四家运营商被举报销售“三无”产品，受到工商部门调耍涣智锍乔恐葡鄞罅看笕ú环DB44产品的天之阳和赛迪幸免被调查。<br>2014年12月，按林秋城出具平台证明要求备案的揭阳六家运营商车主信息被作为证据被进行税务举报，揭阳六家运营商受到税务部门调恕<br>2014年12月22日，林秋城用广东省政协委员身份给揭阳市原主要领导写了《关于对揭阳市政府违约履行政府购合同，致国家重点项目不能顺利实施的投诉》信，信中拉虎皮作大旗，尽显林秋城用政协委员身份、示范项目名义忽悠政府、威胁有关部门之能事。信中对因对项目合法性持保留态度而拒绝协助林秋城利用示范项目垄断市场的有关政府部门诬陷为“官商勾结、贪污腐败、欺骗消费者”，对依法已接入省运政网和政府平台并已依法运营几年甚至十几年的运营商诬陷为黑恶势力，将依法向有关部门申诉的运营商诬陷为攻击政府，将公安局对其他运营商依法向政府申诉行为不予处罚的行为诬陷为不作为。为逃避违法违规责任，用广东省经信委示范项目和项目合同缚架政府，继续骗取项目资金。林秋城在信中这样说：“……仅项目产品软件研发一项就投入近500多万元”，行业人士都清楚，示范项目招标文件对系统的要求也仅达到行业的基本技术要求，请软件开发公司进行开发的市场价仅10万元左右。<br>为继续给政府施压，林秋城再次利用广东省民革常委、经济委主任和广东省政协委员光环，于2015年01月07日在人民网22期“界别圆桌汇”这样说：“我的公司争取到一个国家项目，准备落户到某地级市。合同都签好了，但项目到了地市之后就变成了一个‘大皮球’”。 2015年02月09日，在政协记者会上，林秋城又这样说:“自己的企业与某地市政府签订了一项合作合同，参与建设该市重点车辆监控管理系统的服务平台。自己的企业通过了公开招投标，和政府签订了合同，最后没通过公开招投标的企业却承接了该项目，给自己的企业带来巨大的损失” 。林秋城认为，地方政府越位行为，阻碍了依法行政的推进。林秋城贼喊捉贼的言论蛊惑了不少不明真相的媒体和民众，博得了部分不明真相的媒体乱追捧，网上阵阵喝彩、点赞的同时，林秋城出尽了风头。林秋城为了要挟政府助其垄断揭阳重点车辆卫星定位市场，骗取示范项目资金，不惜造谣中伤，让原来支持他工作的揭阳父母官蒙羞。<br>2015年4月15日，揭阳市运营商向广东省财政厅、经信委面呈《关于珠三角卫星导航应用示范系统工程第2期省财政配套资金安排计划-揭阳市重点车辆监控管理系统项目的异议》，并向经信委宋海明处长面谈近二小时，举报了林秋城在示范项目和项目合同中的违法违规行为，4月19日次向广东省财政厅、经信委宋海明处长递送了《异议补充说明》，至今未有实质性纠正，举报人及许百凯未收到回复。<br>2015年8月21日，举报人（揭阳运营商）受揭阳重点车辆车主委托，向示范项目中标单位北斗导航公司递交了以下资料：1、委托人（车主）按指印的授权举报人领取项目终端设备的委托书原件；2、举报人(代理人)授权员工领取项目终端设备的委托书原件；3、委托人车辆已安装接入市级平台的信息表原件；4、委托人签名的车辆有效证件；5、委托人按指印的身份证复印件，6、举报人（代理人）被授权员工的身份证复印件；7、举报人(代理人)营业执照复印件。林秋城公司员工明确答复了以下问题：1、在政府平台上班的工作人员是林秋城公司的员工，2、示范项目的免费终端只能由中标单位直接向车主发放，并每部每年收取700元的服务费，并把车辆纳入示范项目中标单位进行收费和管理，车主必需向示范项目中标单位购买服务，3、示范项目目前没有领取项目终端设备的公开规定程序，4、以上这些规定是中标单位老板林秋城定的。<br>&nbsp;&nbsp; <font color=#e5362b> 北斗导航公司现在没有自行开发软件、生产终端设备的能力，相关软件和项目终端设备均为外部采购。北斗导航公司通过示范项目阶段性检搜槭盏恼嗫仄教ㄒ参シ戳恕兜缆吩耸涑盗径喽焦芾戆旆ā罚煌ㄔ耸洳俊⒐膊俊布嘧芫至2014年第五号），该政府监控平台功能、性能、技术指标以及数据交换符合JT/T796-2011、JT/T809-2011和JT/T808-2011标准规定的政府监控平台的相关技术要求未通过交通部检测备案，政府相关职能部门也末收到分配进入平台帐号。到目前为止，作为市政府平台的车辆数据未在省平台备案上传。</font>林秋城在阶段性验收过程也存在弄虚作假问题：为应付项目验收，北斗导航公司利用发放市级平台接入证明的便利，强迫揭阳维嘉顺、日宁、天之阳、穗达、粤汕这几家运营商，在已安装车载终端的车辆上额外再安装一部项目车载终端，至2014年10月止，整个揭阳市没有一部真正只安装该项目终端设备的车辆，即使将重复安装的计算在内，使用该项目终端设备、接入系统的车辆也不足150台；招标文件和项目合同规定10500台完成安装时间超过1年多的今天，示范项目真正安装的车辆估计也只几百部。<br>林秋城能够用既无软件开发人才，更无硬件生产场地和能力，连起码的维修能力都没有，办公场地连阁楼不足200平方米的空壳公司中标了国家示范项目，这背后黑幕，确实令人浮想连翩。<br><br></div>
+
+					<!--sunny 打赏 B -->
+					
+					<!--sunny 打赏 E -->
+
+						</div>
+			    	</div>
+		    	
+			    	<div class="c-main posts-control c-sub">
+
+				<!-- IP,曾用名 -->
+				<div style="float:left;">
+				
+				
+				</div>
+				<!-- // IP,曾用名 -->
+				
+				<!-- sunny 打赏 E -->
+
+			   <span id="ding_54720185"></span>
+				
+					<!--<b class="c-sub">|</b>-->
+					<a href="#Preply" onclick="openLoginPopup();">回复</a> 
+					
+				     | <a href="http://upfile1.kdnet.net/textareaeditor/quote.asp?boardid=25&followup=54720185&rootid=11337832&lay=8">引用</a>
+					
+					<b class="c-sub">|</b> <span class="c-alarm fB" title="举报"><a href="javascript:;"  onclick="openLoginPopup();" title="举报">举报</a></span>
+										
+
+					</div>
+		    	</div>
+		    	<!--回复 End-->
+<script>x.personalInfo('userinfo_8','detailinfo_8','15676960','arrow');</script>			    	
+		    	<!--回复-->
+		    	<div class="reply-box nobg" id="54745025" style="display:block">
+
+
+					<div class="posted-box clearfix"><a name="54745025"></a>
+		    		<div class="posted-info c-sub" >回帖人：<div class="name" id="userinfo_9">
+					
+					
+				    <div class="usertips clearfix box1" id="detailinfo_9"></div>	
+					<span class="name c-main">
+					<a  href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank">释正义</a></span>
+					
+					<a href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank"><img class="phone-icon" title="手机绑定用户" src="http://www.kdnet.net/g_images/transparent.gif" /></a>&nbsp;</div>
+					<span class="c-sub">|</span> <span><a
+					
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					>只看此人</a></span> 
+					
+					<span class="c-sub">|</span> <span><a
+                     
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					
+					>不看此人</a></span> 
+					
+
+					<span class="c-sub">|</span> 2015-12-13 20:54:11 &nbsp;&nbsp; 
+					<a href="http://3g.kdnet.net/app.php" target="_blank">跟帖回复：</a>
+					
+					</div> 
+					
+					<div class="posted-floor">第 <span class="c-alarm"><a href="#" onclick="javascript:showExposeMask('54745025', '9');return false;" id="floor9">9</a></span> 楼</div>
+					
+		    	</div>
+			    	<div class="replycont-box clearfix">
+                  
+			    		<div class="replycont-box-r">    		
+					<div class="replycont-text" style="word-spacing: 2px;">附件二：中标单位实际控制人林秋城和他操控的公司工商登记信息<br>由广东省经信委作为采购人的《珠三角卫星导航应用示范系统项目》（C包），表面中标单位是《广州北斗导航技术有限公司》，法定代表人林晓〔林秋城的儿子〕。项目的真正操作控制人是广东省政协委员、民革常委、民革经济委主任林秋城。2005年12月19日至2012年8月6日，不够7年的时间，《广州北斗导航技术有限公司》进行了四次的名称变更，四次的股权变更，二次的遗失营业执照涓<br>工商资料显示：该公司成立日期2005年12月19日，原登记名称《广州大零导航科技有限公司》，注册资金100万元，股东林静华出资90万元，孙乐出资10万元。2006年6月14日，《广州大零导航科技有限公司》申请涓伞豆阒萏旆榈己娇萍加邢薰尽罚ǘù砣肆志不鲎90万元，孙乐出资10万元。2007年3月28日进行增资，林静华出资900万元，孙乐出资100万元。2008年8月6日，林秋城天烽公司登报声明“注册号4401042007402营业执照” 遗失作废，2008年9月26日，天烽公司进行股权涓志不900万元股权转让给林秋城，孙乐将100万元股权转让给陈奕斌，并涓久莆豆阒荼倍反笕ǖ己娇萍加邢薰尽罚智锍俏ㄈ恕2010年12月10日，林秋城和陈奕斌将股权100%转让给《广东伽利略卫星导航股份有限公司》，法人林秋城。 《广东伽利略卫星导航股份有限公司》再将100%股权投资《广州北斗大三通导航科技有限公司》，工商资料显示法人林秋城独资，这样不管是《广东伽利略卫星导航股份有限公司》还是《广州北斗大三通导航科技有限公司》，实际都是同一主体。<br>2011年8月中旬，揭阳的运营商向广东省人民政府申请行政复议，《广州北斗大三通导航科技有限公司》作为被申请人，2011年8月20日，林秋城大三通公司再次在信息时报登报声明“注册号440108000035167营业执照” 遗失作废，2011年8月25日，《广州北斗大三通导航科技有限公司》申请涓伞豆阒荼倍返己郊际跤邢薰尽罚ㄈ肆智锍牵啥豆愣だ晕佬堑己焦煞萦邢薰尽罚2011年8月31日，公司涓赴讣锹荚俅蜗允尽耙攀Р沽臁奔锹迹2012年8月6日，《广州北斗导航技术有限公司》股东《广东伽利略卫星导航股份有限公司》将900万股权转让给林晓，100万股权转让给林锋，法人涓窒<br>2005年至2012年，除了上述公司，参与政府扶持项目活动的还有《广东大三通科技有限公司》，该公司涓胺ㄈ肆智锍牵鲎式鸲180万元，占股权90%，林钊文出资20万元，占股权10%，2006年11月1日，《广东大三通科技有限公司》进行股权涓羌牵涓螅诸任某鲎式鸲180万元，占股权90%，林静珍出资20万元，占股权10%，林钊文为法定代表人，该公司2012年7月5日营业执照被吊销。<br>林秋城操控的公司存在骗取国家项目和专项扶持资金，逃避税务监管和违法追究嫌疑。由于林秋城善于高招设局，用虚假宣传并以慈善家及政协委员的名义斡旋，骗取专项资金，并把有关部门拖入被认定违法境地；林秋城躲在有关部门的背后敛财，却让有关部门为他的违法违规行为作垫背并承担违法违规产生的责任，被迫做了林秋城“冤大头”的政府有关部门为避免受林秋城牵连而对林秋城的违法违规行为不敢追究或不追究，这是林秋城娄次骗取政府财政资金后至今能够逃避制裁的高明手段。<br></div>
+
+					<!--sunny 打赏 B -->
+					
+					<!--sunny 打赏 E -->
+
+						</div>
+			    	</div>
+		    	
+			    	<div class="c-main posts-control c-sub">
+
+				<!-- IP,曾用名 -->
+				<div style="float:left;">
+				
+				
+				</div>
+				<!-- // IP,曾用名 -->
+				
+				<!-- sunny 打赏 E -->
+
+			   <span id="ding_54745025"></span>
+				
+					<!--<b class="c-sub">|</b>-->
+					<a href="#Preply" onclick="openLoginPopup();">回复</a> 
+					
+				     | <a href="http://upfile1.kdnet.net/textareaeditor/quote.asp?boardid=25&followup=54745025&rootid=11337832&lay=9">引用</a>
+					
+					<b class="c-sub">|</b> <span class="c-alarm fB" title="举报"><a href="javascript:;"  onclick="openLoginPopup();" title="举报">举报</a></span>
+										
+
+					</div>
+		    	</div>
+		    	<!--回复 End-->
+<script>x.personalInfo('userinfo_9','detailinfo_9','15626823','arrow');</script>			    	
+		    	<!--回复-->
+		    	<div class="reply-box" id="54745094" style="display:block">
+
+
+					<div class="posted-box clearfix"><a name="54745094"></a>
+		    		<div class="posted-info c-sub" >回帖人：<div class="name" id="userinfo_10">
+					
+					
+				    <div class="usertips clearfix box1" id="detailinfo_10"></div>	
+					<span class="name c-main">
+					<a  href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank">释正义</a></span>
+					
+					<a href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank"><img class="phone-icon" title="手机绑定用户" src="http://www.kdnet.net/g_images/transparent.gif" /></a>&nbsp;</div>
+					<span class="c-sub">|</span> <span><a
+					
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					>只看此人</a></span> 
+					
+					<span class="c-sub">|</span> <span><a
+                     
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					
+					>不看此人</a></span> 
+					
+
+					<span class="c-sub">|</span> 2015-12-13 20:56:14 &nbsp;&nbsp; 
+					<a href="http://3g.kdnet.net/app.php" target="_blank">跟帖回复：</a>
+					
+					</div> 
+					
+					<div class="posted-floor">第 <span class="c-alarm"><a href="#" onclick="javascript:showExposeMask('54745094', '10');return false;" id="floor10">10</a></span> 楼</div>
+					
+		    	</div>
+			    	<div class="replycont-box clearfix">
+                  
+			    		<div class="replycont-box-r">    		
+					<div class="replycont-text" style="word-spacing: 2px;">附件三：中标单位实际控制人林秋城和他操控的公司的光辉历史简介<br>据相关人士透露：“2009年，政府拨款，由广州北斗大三通林秋城承建的广东省卫星导航产业示范基地至今踪迹全无，牌匾则挂在林秋城现公司门口。2008年至2010年，林秋城操控的公司在‘广东省信息产业专向扶持项目’ 和‘广州市科技计划项目’ 等承建的四个项目都未通过验收，其中两个项目烂尾” 。 2011年，林秋城利用管理揭阳政府平台之权力，强制销售不符合文件要求的大三通产品，将象征政府尊严的平台证明当作私人财产变相定价出卖敛财。 2014年，林秋城利用经信委北斗示范项目，再次违法违规操作、再次私自设立政府平台证明、利用政府平台名义越权违规滥用行政权力，限定车主或者其他运营商购买其服务，拒不向依法经营的运营商分配帐号密码，排除、限制竞争，将政府支持揭阳车主推进北斗示范项目的10500部北斗免费终端视为私人财产变相或指使其合作伙伴出售。林秋城利用广东省经信委示范项目，招摇撞骗，冒充设立政府网站。林秋城每一次骗取政府资金后便变更公司名称，每一次都平安无事，变更公司名称后便用新的公司名称申报项目，这里面背后的黑幕离不开内外勾结进行利益输送嫌疑。<br>林秋城操控的公司在行业更是劣迹斑斑：2005年，林秋城作为广东大三通科技有限公司法定代表人时，因拖欠工人20多万元工资被告上法庭，经过仲裁、天河区法院一审、广州市中级人民法院终审判决，但由于林秋城利用政协委员身份恶意变更法人代表、欺骗政府、转移个人资产、变更企业名称导致工人无法拿到血汗钱，最终柳华、罗香旺等用跳楼方式，以死抗争。 2007年，林秋城的公司再次出现董其武在林秋城公司华盛大厦13楼因讨欠工资以死抗争事件，该事件上了当时的媒体报纸和电视台，全省人人皆知。<br>当车载终端广东省地方标准DB44即将推行时，2010年7月19日，林秋城借用深圳华宝科技有限公司的地标产品送检，通过检测将华宝公司的科技成果窃为已有，然后利用出具揭阳市重点车辆监控平台年审证明的权力，高于市场价在揭阳强制销售，经林秋城销售的地标产品，都没有注明生产厂家、地址，跟三无产品没什么区别。林秋城又利用平台证明权力要挟运营商出具华宝产品存在质量问题证明，以质量问题懒账和税务举报威胁拒付货款，华宝公司150多万的货款林秋城至今未予支付。<br>林秋城在揭阳卫星导航行业更是臭名昭著，他先后合作过揭西张大斌、揭阳慧眼通、广东天之阳、普宁赛迪、梅州粤山等，每合作一个公司，就要想把这个公司吃掉，德信全无，人皆知之。<br>为了让政府为其垄断站台，林秋城用广东省政协委员身份于2014年12月22日给揭阳市原主要领导写了投诉信，颠倒是非、混淆黑白、造谣诬陷，用广东省经信委示范项目忽悠威胁有关部门，信中对未助其垄断行为的有关部门诬陷为“官商勾结、贪污腐败、欺骗消费者”，对依法已接入省运政网和政府平台并已运营几年甚至十几年的运营商诬陷为黑恶势力，对正常向有关部门申请诉求的运营商诬陷为攻击政府，将公安局对运营商依法申诉的行为不予处罚诬陷为不作为。<br>林秋城忽悠政府官员手段是利用政协委员身份，造谣撞骗，拉虎皮作大旗，把本已涉嫌违法的项目政治化。<br>林秋城骗取项目的程序很多是通过广东省卫星应用协会作为跳板。该协会前身是广东省卫星导航行业协会，是由广东省经信委指导，经广东省民政厅批准成立的社会团体组织，成立于2006年，第一任会长叶永城，当时会长单位有：广州新软计算机技术有限公司、广东伽利略卫星导航股份有限公司。林秋城的公司是其中的副会长单位之一，2006年至2009年3年多时间，广东省卫星协会是会员单位最多且取得重大成绩的时光。2009年12月16日，林秋城当选为该协会新任会长，上任第一i，便是将广州北斗大三通替换为会长单位，由于该公司当时连会员资格都没有，用广州北斗大三通公司替换广东伽利略卫星导航股份有限公司作为会长单位，引发了很多会员的不M和争议。林秋城当选新任会长后，由于他把省卫星应用协会作为广州北斗大三通导航科技有限公司的替身，导致许多会员单位退会，目前的广东省卫星应用协会也和揭阳市重点车辆监控平台一样，名存实亡，所谓广东省卫星应用协会会长林秋城也是借一张协会登记证书自行封官罢了，协会会员缴纳的大批会员费去向不明，秘书长和工作人员工资，至今仍有欠付情况，林秋城却用名存实亡的会长印名片招摇撞骗。<br>据调查：“广州北斗导航技术有限公司”目前公司既无软件开发人才，更无硬件生产场地和能力，连起码的维修能力都没有，办公场地不足100平方米。广东省经信委为林秋城量身定做的示范项目：揭阳市重点车辆监控管理系统建设至今两年多，既未按项目要求向重点车辆发放终端设备，也无法接收揭阳市全部重点车辆的监控信息，离立项目的十万八千里，已实际上处于烂尾状态，但林秋城像往常一样，拿着政府专项扶持资金、盆满钵满地看着政府和相关部门为其违法项目擦屁股。<br>广东省经信委俞建飞副巡员早在2009年便频繁到林秋城的公司考察指导，应该对林秋城公司的运营状况非常清楚！<br><br><br><br><br></div>
+
+					<!--sunny 打赏 B -->
+					
+					<!--sunny 打赏 E -->
+
+						</div>
+			    	</div>
+		    	
+			    	<div class="c-main posts-control c-sub">
+
+				<!-- IP,曾用名 -->
+				<div style="float:left;">
+				
+				
+				</div>
+				<!-- // IP,曾用名 -->
+				
+				<!-- sunny 打赏 E -->
+
+			   <span id="ding_54745094"></span>
+				
+					<!--<b class="c-sub">|</b>-->
+					<a href="#Preply" onclick="openLoginPopup();">回复</a> 
+					
+				     | <a href="http://upfile1.kdnet.net/textareaeditor/quote.asp?boardid=25&followup=54745094&rootid=11337832&lay=10">引用</a>
+					
+					<b class="c-sub">|</b> <span class="c-alarm fB" title="举报"><a href="javascript:;"  onclick="openLoginPopup();" title="举报">举报</a></span>
+										
+
+					</div>
+		    	</div>
+		    	<!--回复 End-->
+<script>x.personalInfo('userinfo_10','detailinfo_10','15626823','arrow');</script>			    	
+		    	<!--回复-->
+		    	<div class="reply-box nobg" id="54771294" style="display:block">
+
+
+					<div class="posted-box clearfix"><a name="54771294"></a>
+		    		<div class="posted-info c-sub" >回帖人：<div class="name" id="userinfo_11">
+					
+					
+				    <div class="usertips clearfix box1" id="detailinfo_11"></div>	
+					<span class="name c-main">
+					<a  href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank">释正义</a></span>
+					
+					<a href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank"><img class="phone-icon" title="手机绑定用户" src="http://www.kdnet.net/g_images/transparent.gif" /></a>&nbsp;</div>
+					<span class="c-sub">|</span> <span><a
+					
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					>只看此人</a></span> 
+					
+					<span class="c-sub">|</span> <span><a
+                     
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					
+					>不看此人</a></span> 
+					
+
+					<span class="c-sub">|</span> 2015-12-14 17:12:38 &nbsp;&nbsp; 
+					
+					
+					</div> 
+					
+					<div class="posted-floor">第 <span class="c-alarm"><a href="#" onclick="javascript:showExposeMask('54771294', '11');return false;" id="floor11">11</a></span> 楼</div>
+					
+		    	</div>
+			    	<div class="replycont-box clearfix">
+                  
+			    		<div class="replycont-box-r">    		
+					<div class="replycont-text" style="word-spacing: 2px;">附件四“揭阳市重点车辆监控管理系统”项目令人浮想连翩<br>在广东省原建有的河源平台由省政府行政复议取消，清远、湛江，由当地市政自行撤消的背景下，作为曾经被广东省政府认定由企业管理违法的市级平台，居然能得到广东省经信委再次立项，而且为北斗导航公司量体裁衣设立了评分标准，从中标过程的重重迷雾，到项目实施的种种奇怪现象（广东省经信委和林秋城违法逾期8个多月才签订项目合同、招标文件中合同格式条款中的主体从甲乙两方到平白无故地多了个丙方，广东省经信委揭阳示范项目的实质就是用财政拨款，用政府采购合同的形式授权林秋城公司管理具有行政管理职能的政府平台，同时由政府购方式用1699万元资金购买相关货物，提供给林秋城操控的这样一家劣迹斑斑的公司收益并助其垄断经营形成规范态势……）。揭阳市北斗示范项目存在种种的耐人寻味却百思不得其解的现象，从原揭阳运营商多次向广东省经信委实名举报林秋城违法违规未见回复，林秋城为所欲为利用示范项目违法违规无人监管，林秋城违法违规致示范项目处于烂尾状态没有被追究，到广东省政协委员林秋城一句“我有政府作靠山，有能耐你们去告政府，让政府部门整都整死你” 让人浮想连篇？！这背后黑幕，是否存在利益输送，内外勾结骗取财政资金的黑幕？<br>代表广东省经信委在项目合同上签字的俞建飞副巡视员，早在2010年便频繁到林秋城的公司考察和指导，应该对林秋城公司的实力和规模非常了解，“广州北斗导航技术有限公司”是否有能力完成软件开发和配套？软硬件是否符合招标文件“项目枝术要求”,已通过阶段性检查验收的软件系统能否实现同时显示并远程访问20000台车的传输要求？软件是按标书要求开发还是市场普通翻版软件有待项目合同责任人和验收单位作出结论！<br>林秋城是利用政协委员身份上欺政府领导、中坑合作伙伴下压公司员工、客户的高手。欺骗领导驾轻就熟，用省政协委员身份，动用在广东省经信委及相关资源，利用某些地方政府领导希望做出实事但对科技产品不精通、法律规定不熟悉的漏洞，将其公司进行的业务吹得高大上，选择性的引导相关负责人对其业务及结构的兴趣，只告诉好处，半点不谈项目是否真实可行或者可能涉及违法，钱到手项目就烂尾甚至被认定违法。到此时政府部门的负责人才幡然醒悟，但木已成舟，且林秋城经常拿着和省委常委及纪委主要领导人、部队某将领的合照、录像招摇过市“敲打”官员，政府不得不吃下这个哑巴亏。坑骗合作伙伴也是其强项：以质量不理想拖欠货款，甚至以举报怂笆侄谓型玻死嫡耍俦ㄒ婪恼ㄈ嘶韭┧埃晃⒍辖已粑佬堑己叫幸凳谐。唇嶂XX，用揭阳政府平台车主资料到省工商、国税、地税举报依法经营的广东日宁安防科技有限公司、广东天之阳电子技术有限公司揭阳分公司，揭阳市慧眼通电子科技有限公司、揭阳市泽润电子有限公司，普宁市赛迪电子科技有限公司、揭阳市粤山电子产品有限公司等。林秋城对客户和员工最是无良：对客户保修要求故意拖延、直至保修期限期满后不了了之；拖欠公司员工和协会员工赖以养家的工资，败诉后就变更公司名称，员工只能跳楼讨薪。……以上省政协委员劣迹的介绍，有点选择性――其光环可以网上去查查，想了解情况请到广州的同业圈子、揭阳的同业圈子甚至各政府相关部门调查。<br></div><!-- 楼主编辑 --><p class="cue-min-box"><span class="rf">此贴已经被作者于 2015/12/15 12:16:19 编辑过</span></p><!-- 楼主编辑 end -->
+
+					<!--sunny 打赏 B -->
+					
+					<!--sunny 打赏 E -->
+
+						</div>
+			    	</div>
+		    	
+			    	<div class="c-main posts-control c-sub">
+
+				<!-- IP,曾用名 -->
+				<div style="float:left;">
+				
+				
+				</div>
+				<!-- // IP,曾用名 -->
+				
+				<!-- sunny 打赏 E -->
+
+			   <span id="ding_54771294"></span>
+				
+					<!--<b class="c-sub">|</b>-->
+					<a href="#Preply" onclick="openLoginPopup();">回复</a> 
+					
+				     | <a href="http://upfile1.kdnet.net/textareaeditor/quote.asp?boardid=25&followup=54771294&rootid=11337832&lay=11">引用</a>
+					
+					<b class="c-sub">|</b> <span class="c-alarm fB" title="举报"><a href="javascript:;"  onclick="openLoginPopup();" title="举报">举报</a></span>
+										
+
+					</div>
+		    	</div>
+		    	<!--回复 End-->
+<script>x.personalInfo('userinfo_11','detailinfo_11','15626823','arrow');</script>			    	
+		    	<!--回复-->
+		    	<div class="reply-box" id="54793503" style="display:block">
+
+
+					<div class="posted-box clearfix"><a name="54793503"></a>
+		    		<div class="posted-info c-sub" >回帖人：<div class="name" id="userinfo_12">
+					
+					
+				    <div class="usertips clearfix box1" id="detailinfo_12"></div>	
+					<span class="name c-main">
+					<a  href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank">释正义</a></span>
+					
+					<a href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank"><img class="phone-icon" title="手机绑定用户" src="http://www.kdnet.net/g_images/transparent.gif" /></a>&nbsp;</div>
+					<span class="c-sub">|</span> <span><a
+					
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					>只看此人</a></span> 
+					
+					<span class="c-sub">|</span> <span><a
+                     
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					
+					>不看此人</a></span> 
+					
+
+					<span class="c-sub">|</span> 2015-12-15 12:17:57 &nbsp;&nbsp; 
+					<a href="http://3g.kdnet.net/app.php" target="_blank">跟帖回复：</a>
+					
+					</div> 
+					
+					<div class="posted-floor">第 <span class="c-alarm"><a href="#" onclick="javascript:showExposeMask('54793503', '12');return false;" id="floor12">12</a></span> 楼</div>
+					
+		    	</div>
+			    	<div class="replycont-box clearfix">
+                  
+			    		<div class="replycont-box-r">    		
+					<div class="replycont-text" style="word-spacing: 2px;">附件五&nbsp;&nbsp; 关于“揭阳市重点车辆监控管理系统” 项目立项的质疑<br>广东省交通厅已为全省各地市提供了运政网平台、且当地运营商已成熟使用北斗终端设备和应用软件，广东省类似的由企业建设的河源市级平台因违法被广东省政府行政复议撤销，林秋城的公司也被广东省人民政府行政复议(粤府行复2011-280号) 认定管理揭阳市重点车辆监控平台行为违法。但广东省经信委个别领导却在《珠三角卫星导航应用示范系统项目》（C包）标书为林秋城“操心费力”、量体裁衣地制订了评标标准, 让林秋城通过变更被省府认定行为违法的公司名称和法人, 中标了该示范项目。<br>该示范项目实质上是省经信委某些领导想方设法给北斗导航公司谋福利！市场上通过交通部检测的北斗双模终端市场价每部是300多元，按标书10500部计，终端设备总成本也只有叁百多万元，软件开发成本市场价也只需10-30万元，但该项目标书总款1699万多元，经过省经信委某些领导的周密安排，居然身价翻了好几番。最最重点的是，政府财政出钱“设计、生产”的终端设备，发多少、发给谁、什么时候发，完全取决于北斗导航公司！这些资金那里去了？该示范项目就好比明明只需要采购公务用车，省经信委某些领导却委托一个小公司去研究、生产汽车――费用成倍增加了，效果却跟别人低价买到的车一样（实际上这个小公司就是直接跟别的公司买的）。<br>据有关人士透露,善于空手套白狼的政协委员林秋城,凭借经信委让其运营收益的承诺，和北京某软件公司以运营收益服务费分成的模式进行合作，软件开发实际不用投入一分钱。终端设备是参加该示范项目投标的广州日滨科技发展有限公司生产的，其是否是林秋城投标的合作伙伴不得而知。该示范项目的办公场地是广东省安监局拨款装修的，作为项目招标和监督单位的广东省经信委，根据《广东省战略性新兴产业发展专项资金管理办法》，是否该查一查该专项资金的去向？<br>据有关人士透露，2014年，林秋城在骗取示范项目专项资金的同时，还准备将该项目经营再次转卖给联通公司，但最终由于林秋城狮子大开口未能成交。<br>林秋城能够用既无软件开发人才，更无硬件生产场地和能力，连起码的维修能力都没有，办公场地连阁楼不足200平方米的空壳公司中标了国家示范项目，广东省经信委宋海明处长将已被《广东省政府行政复议决定书》（粤府行复[2011]280号，认定授权第三人管理“市级平台”行为违法的“揭安委明电[2011]2号”文作为其招标文件的项目依据[“项目建设依据”第（7）-（11），（见招标文件第29页）；这背后黑幕，确实令人浮想连翩。<br></div>
+
+					<!--sunny 打赏 B -->
+					
+					<!--sunny 打赏 E -->
+
+						</div>
+			    	</div>
+		    	
+			    	<div class="c-main posts-control c-sub">
+
+				<!-- IP,曾用名 -->
+				<div style="float:left;">
+				
+				
+				</div>
+				<!-- // IP,曾用名 -->
+				
+				<!-- sunny 打赏 E -->
+
+			   <span id="ding_54793503"></span>
+				
+					<!--<b class="c-sub">|</b>-->
+					<a href="#Preply" onclick="openLoginPopup();">回复</a> 
+					
+				     | <a href="http://upfile1.kdnet.net/textareaeditor/quote.asp?boardid=25&followup=54793503&rootid=11337832&lay=12">引用</a>
+					
+					<b class="c-sub">|</b> <span class="c-alarm fB" title="举报"><a href="javascript:;"  onclick="openLoginPopup();" title="举报">举报</a></span>
+										
+
+					</div>
+		    	</div>
+		    	<!--回复 End-->
+<script>x.personalInfo('userinfo_12','detailinfo_12','15626823','arrow');</script>			    	
+		    	<!--回复-->
+		    	<div class="reply-box nobg" id="54807934" style="display:block">
+
+
+					<div class="posted-box clearfix"><a name="54807934"></a>
+		    		<div class="posted-info c-sub" >回帖人：<div class="name" id="userinfo_13">
+					
+					
+				    <div class="usertips clearfix box1" id="detailinfo_13"></div>	
+					<span class="name c-main">
+					<a  href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank">释正义</a></span>
+					
+					<a href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank"><img class="phone-icon" title="手机绑定用户" src="http://www.kdnet.net/g_images/transparent.gif" /></a>&nbsp;</div>
+					<span class="c-sub">|</span> <span><a
+					
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					>只看此人</a></span> 
+					
+					<span class="c-sub">|</span> <span><a
+                     
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					
+					>不看此人</a></span> 
+					
+
+					<span class="c-sub">|</span> 2015-12-15 20:31:03 &nbsp;&nbsp; 
+					<a href="http://3g.kdnet.net/app.php" target="_blank">跟帖回复：</a>
+					
+					</div> 
+					
+					<div class="posted-floor">第 <span class="c-alarm"><a href="#" onclick="javascript:showExposeMask('54807934', '13');return false;" id="floor13">13</a></span> 楼</div>
+					
+		    	</div>
+			    	<div class="replycont-box clearfix">
+                  
+			    		<div class="replycont-box-r">    		
+					<div class="replycont-text" style="word-spacing: 2px;">附件六&nbsp;&nbsp;对政协委员林秋城存在骗取政府项目资金嫌疑的质疑<br>据相关人士透露：“2009年，政府拨款，由广州北斗大三通林秋城承建的广东省卫星导航产业示范基地至今踪迹全无，牌匾则挂在林秋城现公司门口。2008年至2010年，林秋城操控的公司在‘广东省信息产业专向扶持项目’ 和‘广州市科技计划项目’ 等承建的四个项目都未通过验收，其中两个项目烂尾” 。每一次林秋城骗取资金后都通过变更公司名称逃避违法违规追究。<br>从2011年林秋城能够神通广大的通过涓还愣∪嗣裾隙ü芾硎屑镀教ㄐ形シǖ墓久坪头ㄈ耍尤荒艿玫焦愣【盼霰鹆斓剂刻宀靡碌匚智锍枪局贫┝似辣瓯曜,再次立项。从广东省经信委宋处长能够将已被《广东省政府行政复议决定书》（粤府行复[2011]280号，认定授权第三人管理“市级平台”行为违法的“揭安委明电[2011]2号”文作为其招标文件的项目立项依据，到违规8个多月才订立的存在违法违规嫌疑的合同书，从揭阳运营商多次向广东省经信委实名举报林秋城利用示范项目违法违规没有得到回复，到林秋城胆敢明目张胆威胁运营商：“我有政府作靠山，有能耐你们再去告政府，让政府部门整都整死你” 。等等举不胜举的林常委劣迹和林常委变换公司名称以及上述四个项目的立项时间，是否可以怀疑示范项目为林秋城量身定做的其中四个项目就是让政府蒙受损失，烂尾和未经过验收的项目:<br>〔1〕&nbsp;广东省经济和信息化委员会：基于车载智能终端的集成管理系统；<br>〔2〕基于车载智能终端动态管理系统的集成与产业化；<br>〔3〕卫星导航定位技术公共服务平台；<br>〔4〕BD-2/GPS多模兼容定位终端；<br>林常委每一次骗取政府资金后便变更公司名称，每一次都平安无事，变更公司名称后便用新的公司名称申报项目，代表广东省经信委在项目合同上签字的俞建飞副巡视员，早在2010年便频繁到林秋城的公司考察和指导，应该对林秋城公司的实力和规模非常了解。<br>林秋城善于高招设局，用虚假宣传并以慈善家及政协委员的名义斡旋，骗取专项资金，并把有关部门拖入被认定违法境地；林秋城躲在有关部门的背后敛财，却让有关部门为他的违法违规行为作垫背并承担违法违规产生的责任，被迫做了林秋城“冤大头”的政府有关部门为避免受林秋城牵连而对林秋城的违法违规行为不敢追究或不追究，这是林秋城娄次骗取政府财政资金后至今能够逃避制裁的高明手段。<br>这里面背后的黑幕离不开内外勾结进行利益输送嫌疑。<br><br></div>
+
+					<!--sunny 打赏 B -->
+					
+					<!--sunny 打赏 E -->
+
+						</div>
+			    	</div>
+		    	
+			    	<div class="c-main posts-control c-sub">
+
+				<!-- IP,曾用名 -->
+				<div style="float:left;">
+				
+				
+				</div>
+				<!-- // IP,曾用名 -->
+				
+				<!-- sunny 打赏 E -->
+
+			   <span id="ding_54807934"></span>
+				
+					<!--<b class="c-sub">|</b>-->
+					<a href="#Preply" onclick="openLoginPopup();">回复</a> 
+					
+				     | <a href="http://upfile1.kdnet.net/textareaeditor/quote.asp?boardid=25&followup=54807934&rootid=11337832&lay=13">引用</a>
+					
+					<b class="c-sub">|</b> <span class="c-alarm fB" title="举报"><a href="javascript:;"  onclick="openLoginPopup();" title="举报">举报</a></span>
+										
+
+					</div>
+		    	</div>
+		    	<!--回复 End-->
+<script>x.personalInfo('userinfo_13','detailinfo_13','15626823','arrow');</script>			    	
+		    	<!--回复-->
+		    	<div class="reply-box" id="54871547" style="display:block">
+
+
+					<div class="posted-box clearfix"><a name="54871547"></a>
+		    		<div class="posted-info c-sub" >回帖人：<div class="name" id="userinfo_14">
+					
+					
+				    <div class="usertips clearfix box1" id="detailinfo_14"></div>	
+					<span class="name c-main">
+					<a  href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank">释正义</a></span>
+					
+					<a href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank"><img class="phone-icon" title="手机绑定用户" src="http://www.kdnet.net/g_images/transparent.gif" /></a>&nbsp;</div>
+					<span class="c-sub">|</span> <span><a
+					
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					>只看此人</a></span> 
+					
+					<span class="c-sub">|</span> <span><a
+                     
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					
+					>不看此人</a></span> 
+					
+
+					<span class="c-sub">|</span> 2015-12-17 18:37:34 &nbsp;&nbsp; 
+					<a href="http://3g.kdnet.net/app.php" target="_blank">跟帖回复：</a>
+					
+					</div> 
+					
+					<div class="posted-floor">第 <span class="c-alarm"><a href="#" onclick="javascript:showExposeMask('54871547', '14');return false;" id="floor14">14</a></span> 楼</div>
+					
+		    	</div>
+			    	<div class="replycont-box clearfix">
+                  
+			    		<div class="replycont-box-r">    		
+					<div class="replycont-text" style="word-spacing: 2px;"><br><b><font color=#e5362b>附件七 有关部门已对政协委员林秋城操控的公司违法违规嫌疑进行调查</font></b>林秋城操控的公司存在骗取国家项目和专项扶持资金，逃避税务监管和违法追究嫌疑。由于林秋城善于高招设局，用虚假宣传并以慈善家及政协委员的名义斡旋，骗取专项资金，并把有关部门拖入被认定违法境地；林秋城躲在有关部门的背后敛财，却让有关部门为他的违法违规行为作垫背并承担违法违规产生的责任，被迫做了林秋城“冤大头”的政府有关部门为避免受林秋城牵连而对林秋城的违法违规行为不敢追究或不追究，这是林秋城娄次骗取政府财政资金后至今能够逃避制裁的高明手段。<br><br><br><br><br><br><img src="http://imgcdn.kdnet.net/UploadSmall/2015/12/17/14503484136884738.jpg" alt="" border="0" / onclick="javascript:if((!(this.width<600))||(!(this.width<100)&&!(this.height<100)))window.open('http://club.kdnet.net/atlas/index.asp?id=11337832&pic='+escape(this.src.replace('.cat898.com/','.kdnet.net/').replace('/UploadSmall/','/Upload/')));"  class="img-src"   onload="javascript:if (this.width>=600 || (this.width>=100 && this.height>=100)){this.style.cursor='pointer';}if(this.width>=600){this.height=parseInt(this.height*600/this.width);this.width=600;}"><br><br><img src="http://imgcdn.kdnet.net/UploadSmall/2015/12/17/14503484161702209.jpg" alt="" border="0" / onclick="javascript:if((!(this.width<600))||(!(this.width<100)&&!(this.height<100)))window.open('http://club.kdnet.net/atlas/index.asp?id=11337832&pic='+escape(this.src.replace('.cat898.com/','.kdnet.net/').replace('/UploadSmall/','/Upload/')));"  class="img-src"   onload="javascript:if (this.width>=600 || (this.width>=100 && this.height>=100)){this.style.cursor='pointer';}if(this.width>=600){this.height=parseInt(this.height*600/this.width);this.width=600;}"><br><br></div>
+
+					<!--sunny 打赏 B -->
+					
+					<!--sunny 打赏 E -->
+
+						</div>
+			    	</div>
+		    	
+			    	<div class="c-main posts-control c-sub">
+
+				<!-- IP,曾用名 -->
+				<div style="float:left;">
+				
+				
+				</div>
+				<!-- // IP,曾用名 -->
+				
+				<!-- sunny 打赏 E -->
+
+			   <span id="ding_54871547"></span>
+				
+					<!--<b class="c-sub">|</b>-->
+					<a href="#Preply" onclick="openLoginPopup();">回复</a> 
+					
+				     | <a href="http://upfile1.kdnet.net/textareaeditor/quote.asp?boardid=25&followup=54871547&rootid=11337832&lay=14">引用</a>
+					
+					<b class="c-sub">|</b> <span class="c-alarm fB" title="举报"><a href="javascript:;"  onclick="openLoginPopup();" title="举报">举报</a></span>
+										
+
+					</div>
+		    	</div>
+		    	<!--回复 End-->
+<script>x.personalInfo('userinfo_14','detailinfo_14','15626823','arrow');</script>			    	
+		    	<!--回复-->
+		    	<div class="reply-box nobg" id="54879738" style="display:block">
+
+
+					<div class="posted-box clearfix"><a name="54879738"></a>
+		    		<div class="posted-info c-sub" >回帖人：<div class="name" id="userinfo_15">
+					
+					
+				    <div class="usertips clearfix box1" id="detailinfo_15"></div>	
+					<span class="name c-main">
+					<a  href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank">释正义</a></span>
+					
+					<a href="http://user.kdnet.net/index.asp?userid=15626823" target="_blank"><img class="phone-icon" title="手机绑定用户" src="http://www.kdnet.net/g_images/transparent.gif" /></a>&nbsp;</div>
+					<span class="c-sub">|</span> <span><a
+					
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					>只看此人</a></span> 
+					
+					<span class="c-sub">|</span> <span><a
+                     
+					onclick ="openSesPopup_new()" href="javascript:;"
+					
+					
+					>不看此人</a></span> 
+					
+
+					<span class="c-sub">|</span> 2015-12-17 23:13:27 &nbsp;&nbsp; 
+					<a href="http://3g.kdnet.net/app.php" target="_blank">跟帖回复：</a>
+					
+					</div> 
+					
+					<div class="posted-floor">第 <span class="c-alarm"><a href="#" onclick="javascript:showExposeMask('54879738', '15');return false;" id="floor15">15</a></span> 楼</div>
+					
+		    	</div>
+			    	<div class="replycont-box clearfix">
+                  
+			    		<div class="replycont-box-r">    		
+					<div class="replycont-text" style="word-spacing: 2px;">林秋城2007年以来能够利用广东省政协委员、民革常委、民革经济委主任光环，高招设局，用虚假宣传并以慈善家及政协委员的名义斡旋，忽悠政府，骗取专项资金，他承接4个政府扶持项目致两个烂尾，四个免经过验收。特别是2011年林秋城的公司被广东省人民政府行政复议(粤府行复2011-280号) 认定管理揭阳市重点车辆监控平台行为违法，林秋城通过涓久坪头ㄈ耍俅沃斜旯沂痉断钅浚智锍抢霉愣【盼痉断钅浚幸∽财⒍暇俺渖枇⒄荆构项目成本并违法使用项目资金，现国家示范项目已处于烂尾状态！<br>林秋城每一次骗取政府资金后都平安无事，变更公司名称后便用新的公司名称再次申报政府扶持项目，足见广东省政协委员林秋城的能耐不小！<br>广东省经信委俞建飞副巡员早在2009年便频繁到林秋城的公司考察指导，应该对林秋城公司的运营状况非常清楚！。<br>.回复 </div>
+
+					<!--sunny 打赏 B -->
+					
+					<!--sunny 打赏 E -->
+
+						</div>
+			    	</div>
+		    	
+			    	<div class="c-main posts-control c-sub">
+
+				<!-- IP,曾用名 -->
+				<div style="float:left;">
+				
+				
+				</div>
+				<!-- // IP,曾用名 -->
+				
+				<!-- sunny 打赏 E -->
+
+			   <span id="ding_54879738"></span>
+				
+					<!--<b class="c-sub">|</b>-->
+					<a href="#Preply" onclick="openLoginPopup();">回复</a> 
+					
+				     | <a href="http://upfile1.kdnet.net/textareaeditor/quote.asp?boardid=25&followup=54879738&rootid=11337832&lay=15">引用</a>
+					
+					<b class="c-sub">|</b> <span class="c-alarm fB" title="举报"><a href="javascript:;"  onclick="openLoginPopup();" title="举报">举报</a></span>
+										
+
+					</div>
+		    	</div>
+		    	<!--回复 End-->
+<script>x.personalInfo('userinfo_15','detailinfo_15','15626823','arrow');</script>
+<!-- sunny 20130925 begin -->
+<!-- 弹窗 -->
+<div id="uplBoxF"  class="upl-box-f">
+	<div id="uplBoxFC" class="upl-box">
+		<div id="editorSay" class="show-window" style="width:500px;">
+			<div class="w-title">
+				<span style="font-weight:bold;cursor:default;" id="w-title"></span>
+				<a class="rf close-x" onClick="hideExposeMask();"></a>
+			</div>
+			<div class="w-content">
+				<div style="padding-top:0; padding-bottom:0; margin-top:-5px; line-height:30px;">
+					<div style="padding:1px 1px 1px 1px; margin-top:3px;">
+						<input type="text" name="w-content" id="w-content" size="70" />
+					</div>
+				</div>
+				<div class="rf btn-group clearfix">
+					<input class="button" style="width:80px; margin-right:10px;" type="button" id="yesButton" name="yesButton" onclick='copyToClipboard();' value=" 复制 ">
+					<input class="button-c" type="button" name="noButton" onclick="hideExposeMask();" value=" 取消 ">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="exposeMask"></div>
+<!-- sunny 20130925 end -->
+<!-- 弹窗 end -->
+			
+			<!--发帖/分页-->
+				<div class="operating clearfix">
+					<div class="btn-publish" title="发布新帖">
+                <a target="_blank" href="http://upfile2.kdnet.net/textareaeditor/post_ubb.asp?action=new&boardid=25">发布新帖</a>
+					</div>
+					<div class="pages-go"><input value="2" type="text" class="input-boder" id="page_input" /><input name="submit" type="submit" class="btn-pages" value="GO" onclick="goPage(this,'dispbbs.asp?id=11337832&boardid=25&page={pagenum}&uid=&usernames=&userids=&action=');"/></div><div class="pages"><div class="pagesmodule"><span class="c-sub">共 <span class="c-alarm">7473</span> 次点击，<span class="c-alarm">18</span> 个回复</span>&nbsp; <span class="current">1</span> <a href="dispbbs.asp?id=11337832&boardid=25&page=2&uid=&usernames=&userids=&action=">2</a></div></div> 
+				</div>
+				<!--发帖/分页 End-->
+
+                <!--社区统计-->
+				<div class="statistics-club clearfix">
+					<div class="lf">
+						本版块主题总数：99418 / 帖子总数：2280314<br />
+			    	    今日论坛共发帖：<span class="c-alarm">12932</span> / 昨日发帖：29156 / 最高日发帖：75754
+					</div>
+					<div class="clublist-selected">跳转论坛至：  
+		    		<select onchange="if(this.options[this.selectedIndex].value!=''){location = 'list.asp?boardid='+this.options[this.selectedIndex].value;}">
+			    	    <option value="68" >╋猫论天下</option><option value="1" >&nbsp;&nbsp;├猫眼看人</option><option value="88" >&nbsp;&nbsp;├商业创富</option><option value="89" >&nbsp;&nbsp;├时局深度</option><option value="3" >&nbsp;&nbsp;├经济风云</option><option value="2" >&nbsp;&nbsp;├文化散论</option><option value="52" >&nbsp;&nbsp;├原创评论</option><option value="24" >&nbsp;&nbsp;├中间地带</option><option value="25" selected="selected">&nbsp;&nbsp;├律师之窗</option><option value="15" >&nbsp;&nbsp;├股市泛舟</option><option value="44" >&nbsp;&nbsp;├会员阅读</option><option value="96" >&nbsp;&nbsp;├史海钩沉</option><option value="101" >&nbsp;&nbsp;├舆情观察</option><option value="67" >╋生活资讯</option><option value="92" >&nbsp;&nbsp;├杂货讨论</option><option value="9" >&nbsp;&nbsp;├健康社会</option><option value="29" >&nbsp;&nbsp;├家长里短</option><option value="35" >&nbsp;&nbsp;├旅游时尚</option><option value="45" >&nbsp;&nbsp;├职场生涯</option><option value="60" >&nbsp;&nbsp;├咱们女人</option><option value="62" >&nbsp;&nbsp;├家有宝宝</option><option value="63" >&nbsp;&nbsp;├消费观察</option><option value="61" >&nbsp;&nbsp;├房产家居</option><option value="30" >&nbsp;&nbsp;├车友评车</option><option value="58" >&nbsp;&nbsp;├猫眼鉴宝</option><option value="69" >╋影音娱乐</option><option value="33" >&nbsp;&nbsp;├图画人生</option><option value="86" >&nbsp;&nbsp;├猫影无忌</option><option value="26" >&nbsp;&nbsp;├影视评论</option><option value="40" >&nbsp;&nbsp;├网络剧场</option><option value="27" >&nbsp;&nbsp;├音乐之声</option><option value="16" >&nbsp;&nbsp;├网友风采</option><option value="7" >&nbsp;&nbsp;├猫兄鼠妹</option><option value="10" >&nbsp;&nbsp;├笑话人生</option><option value="56" >&nbsp;&nbsp;├游戏天地</option><option value="70" >╋文化广场</option><option value="55" >&nbsp;&nbsp;├菁菁校园</option><option value="4" >&nbsp;&nbsp;├甜蜜旅程</option><option value="6" >&nbsp;&nbsp;├心灵驿站</option><option value="5" >&nbsp;&nbsp;├原创文学</option><option value="54" >&nbsp;&nbsp;├原创小说</option><option value="31" >&nbsp;&nbsp;├汉诗随笔</option><option value="32" >&nbsp;&nbsp;├闲话国粹</option><option value="8" >&nbsp;&nbsp;├体育观察</option><option value="41" >&nbsp;&nbsp;├开心科普</option><option value="18" >&nbsp;&nbsp;├IT 数码</option><option value="74" >╋地方频道</option><option value="85" >&nbsp;&nbsp;├会馆工作讨论区</option><option value="73" >&nbsp;&nbsp;├凯迪华南</option><option value="75" >&nbsp;&nbsp;├凯迪西南</option><option value="77" >&nbsp;&nbsp;├海口会馆</option><option value="80" >&nbsp;&nbsp;├凯迪广州</option><option value="97" >&nbsp;&nbsp;├凯迪深圳</option><option value="98" >&nbsp;&nbsp;├北京会馆</option><option value="99" >&nbsp;&nbsp;├上海会馆</option><option value="104" >&nbsp;&nbsp;├河南会馆</option><option value="105" >&nbsp;&nbsp;├苏州会馆</option><option value="106" >&nbsp;&nbsp;├贵州会馆</option><option value="107" >&nbsp;&nbsp;├杭州会馆</option><option value="123" >&nbsp;&nbsp;├香港会馆</option><option value="124" >&nbsp;&nbsp;├台湾会馆</option><option value="125" >&nbsp;&nbsp;├美洲会馆</option><option value="109" >╋凯迪重庆</option><option value="108" >&nbsp;&nbsp;├重庆会馆</option><option value="110" >&nbsp;&nbsp;├猫眼观渝</option><option value="111" >&nbsp;&nbsp;├山城拍客</option><option value="112" >&nbsp;&nbsp;├重庆教育</option><option value="113" >&nbsp;&nbsp;├巴渝情缘</option><option value="114" >&nbsp;&nbsp;├猫人游记</option><option value="115" >&nbsp;&nbsp;├健康养生</option><option value="116" >&nbsp;&nbsp;├重庆车友</option><option value="117" >&nbsp;&nbsp;├两江房产</option><option value="118" >&nbsp;&nbsp;├渝民新婚</option><option value="119" >&nbsp;&nbsp;├麻辣吃货</option><option value="120" >&nbsp;&nbsp;├渝财有道</option><option value="121" >&nbsp;&nbsp;├时尚渝女</option><option value="122" >&nbsp;&nbsp;├公益重庆</option><option value="37" >╋站务</option><option value="13" >&nbsp;&nbsp;├站务专区</option><option value="72" >&nbsp;&nbsp;├企业家园</option><option value="46" >&nbsp;&nbsp;├十大美帖</option><option value="57" >&nbsp;&nbsp;├视频创作</option><option value="91" >&nbsp;&nbsp;├商品发布</option> 
+			    	</select>
+					</div>
+				</div>
+				<!--社区统计 End-->
+
+				<!--modify sunny 20131231 ad B-->
+				<div class="banner b-border">
+				<div id="dispbbs30" style="width:0;height:0;visibility:hidden;overflow:hidden;">
+				<div style="width:728px;margin:0 auto; height:90px; overflow:hidden;">
+				
+					<div style="position: relative; display: inline; border: none; padding: 0px; margin: 0px; visibility: visible; overflow: hidden;">
+						<script type="text/javascript">//<![CDATA[
+						ac_as_id = 101125;
+						ac_format = 0;
+						ac_mode = 1;
+						ac_group_id = 1;
+						ac_server_base_url = "afp.csbew.com/";
+						//]]></script>
+						<script type="text/javascript" src="http://s.csbew.com/k.js"></script>
+					</div>
+				
+				</div>
+				</div>
+				</div>
+				<!--modify sunny 20131231 ad E-->
+				<a name="Preply" id="Preply"></a>
+				<div style="height:10px;border:1px solid #fff;border-width:0 1px 0 1px;"></div>
+				
+				<div class="clubcont-line "></div>
+
+				<div class="banner b-border">
+				<div id="dispbbs31" style="width:0;height:0;visibility:hidden;overflow:hidden;">
+				<div style="width:728px;margin:0 auto; height:90px; overflow:hidden;">
+				
+				<script language="javascript" type="text/javascript">
+							yigao_width = 728;
+							yigao_height = 90;
+							yigao_sid = "22e6655c17414fd0";
+							yigao_msid = "ecad956c42debdf5";
+							yigao_uid = 73214;
+							yigao_zid = 149257;
+							yigao_pid = 2;
+							yigao_type = 1;
+							yigao_adamount = 1;
+							yigao_cols = 1;
+						</script>
+						<script language="javascript" src="http://monitor.yigao.com/info.js"></script>
+				
+				</div>
+				</div>
+				</div>
+
+		    	<!--发表回复-->
+				<div class="quick-reply">
+				<div class="title ">快速回复：[原创]关于广州北斗导航技术有限公司投诉信的分析</div>
+				<script>document.domain = 'kdnet.net';</script>
+				
+				<div  id="recipientsTips" class="tips-input c-main" style="position:absolute;display:none;z-index:9999;"><div class="suggest_title c-sub">选择最近@的朋友帐号，或直接输入</div><ul id="autoTipsUserList"></ul></div>
+				<iframe src="http://upfile1.kdnet.net/textareaeditor/GetPostFast_ubb.asp?boardid=25&followup=54670302&rootid=11337832&star=1&TotalUseTable=DV_BBS8&UserName=&topicname=律师之窗&pages=2&lay=20" width="100%" height="780"  name="baidu" id="baidu" scrolling="no" allowtransparency="true" frameborder="0"></iframe>
+                
+				</div>
+				<!-- //发表回复 -->
+
+				<div class="clubcont-line "></div>
+				<div class="clearfix" style="border-left:1px solid #fff; border-right:1px solid #fff;">
+				<div style="margin:0 auto; overflow:hidden;">
+					<div id="dispbbs91">
+					<div style="width:800px; overflow:hidden;"><!-- modify sunny 20131231 ad -->
+					
+						<!--object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="800" height="100" id="myFlash">
+						<param name="movie" value="http://user.kdnet.net/800-100.swf" />
+						<param name="quality" value="high" />
+						<param name="allowFullScreen" value="true" />
+						<param name="wmode" value="Transparent" />
+						<embed src="http://user.kdnet.net/800-100.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="800" height="100" wmode="Transparent" name="myFlash" swLiveConnect="true"></embed>
+						</object-->
+
+						<!--<script type="text/javascript" >BAIDU_CLB_SLOT_ID = "840523";</script>
+						<script type="text/javascript" src="http://cbjs.baidu.com/js/o.js"></script>-->
+					
+					</div>
+					</div>
+				</div>
+				</div>
+
+		    	<!--声明-->
+				<div class="site-statement">
+					<span class="c-alarm">本站声明：</span>本站BBS互动社区的文章由网友自行帖上，文责自负，对于网友的贴文本站均未主动予以提供、组织或修改；本站对网友所发布未经确证的商业宣传信息、广告信息、要约、要约邀请、承诺以及其他文字表述的真实性、准确性、合法性等不作任何担保和确认。因此本站对于网友发布的信息内容不承担任何责任，网友间的任何交易行为与本站无涉。任何网络媒体或传统媒体如需刊用转帖转载，必须注明来源及其原创作者。特此声明！<br /><br />
+					<span class="c-alarm">【管理员特别提醒】</span> 发布信息时请注意首先阅读 ( 琼B2-20060022 )：<br />
+					<a href="http://www.kdnet.net/announce/index.asp?id=5489" target="_blank">1.全国人大常委会关于维护互联网安全的决定</a>；<a href="http://www.kdnet.net/announce/index.asp?id=5490" target="_blank">2.凯迪网络BBS互动区用户注册及管理条例</a>。谢谢！
+				</div>
+				
+				<!--声明 End-->
+
+
+
+        <div class="banner b-border" id="club_dispbbs_l_5"></div>
+		<!--尾部-->
+		<div class="footer-club">
+			本站律师声明：本站互动区域原创内容版权属作者和本站共同所有。<br />
+			网络非盈利转载须注明作者姓名和文章的来源出处，其他媒体利用除注明作者姓名和文章的来源出处外还须按规定付酬。侵权必究。<br />
+			法律顾问：广信君达律师事务所 刘东栓 赵广群律师<br /><br />
+
+			Copyright &copy; 2000~2015 <span class="c-main"><a href=""http://www.kdnet.net">kdnet.net</a></span> corporation. All Rights Reserved<br />
+
+			<span class="c-sub"><a href="http://about.kdnet.net/brief.php" target=_blank>关于凯迪</a> <span class="c-secsub">|</span> <a href="http://about.kdnet.net/join.php" target=_blank>联系我们</a> <span class="c-secsub">|</span> <a href="http://about.kdnet.net/join.php" target=_blank>广告服务</a> <span class="c-secsub">|</span> <a href="http://about.kdnet.net/copyright.php" target=_blank>法律声明</a> <span class="c-secsub">|
+		</span> <a href="http://about.kdnet.net/join-us.php" target=_blank>加入凯迪</a> <span class="c-secsub">|
+		</span> <a href="http://about.kdnet.net/sitemap.php" target=_blank>网站地图</a></span>
+		</div>
+		<!--尾部 End-->
+		
+	</div>
+    <!-- // 左边内容 -->
+
+<div class="rf w188px web-right clearfix">
+
+
+	<!-- 右边内容 -->
+	<div class="rf w180px clearfix">
+        <div class="space10"></div>
+		<div id="dispbbs39" style="width:0;height:0;visibility:hidden;overflow:hidden;">
+		  
+
+				<!-- 93937：内容页固定位――右矩形1 类型：固定广告位 尺寸：200x200-->
+				<script type="text/javascript">//<![CDATA[
+				ac_as_id = 93937;
+				ac_format = 0;
+				ac_mode = 1;
+				ac_group_id = 1;
+				ac_server_base_url = "afp.csbew.com/";
+				//]]></script>
+				<script type="text/javascript" src="http://s.csbew.com/k.js"></script>
+		  
+		</div>
+        <div class="space10"></div>
+		<div id="dispbbs112" style="width:0;height:0;visibility:hidden;overflow:hidden;">
+		  
+			<!--内容页右矩形2 2014-05-13-->
+			<div  style="position: relative; display: inline; border: none; padding: 0px; margin: 0px; 
+			visibility: visible; overflow: hidden;">
+			<script type="text/javascript">//<![CDATA[
+				ac_as_id = 101093;
+				ac_format = 0;
+				ac_mode = 1;
+				ac_group_id = 1;
+				ac_server_base_url = "afp.csbew.com/";
+				//]]></script>
+				<script type="text/javascript" src="http://s.csbew.com/k.js"></script>
+			</div>
+		<!--内容页右矩形2 2014-05-13 end-->
+			  
+		</div>
+		<div class="space10"></div>
+		<!--最新热点-->
+		
+		<div class="gb-coffee">
+			<div class="gb-t">
+		    	<div class="gb-tl"></div>
+		        <div class="title"><a href="http://www.kcis.cn" target=_blank>KCIS公共观察</a></div>
+		    	<div class="gb-tr"></div>
+		    </div>
+		    <div class="gb-c">
+  <ul class="hot-list-club">
+<li>
+<a href="http://www.kcis.cn/club/11351047" title="四年来首次公布对台售武，美国在盘算什么？" target="_blank">四年来首次公布对台售武，美国在盘算什么？</a>
+</li>
+<li>
+<a href="http://www.kcis.cn/club/11346086" title="2015中国创业心态调查报告" target="_blank">2015中国创业心态调查报告</a>
+</li>
+<li>
+<a href="http://www.kcis.cn/club/11336440" title="《时代》选择了默克尔" target="_blank">《时代》选择了默克尔</a>
+</li>
+</ul>
+</div>
+			
+			<div class="gb-b">
+		    	<div class="gb-bl"></div>
+		    	<div class="gb-br"></div>
+		    </div>
+		</div>
+
+		<div class="space10"></div>
+		
+		<div id="dispbbs40" style="width:0;height:0;visibility:hidden;overflow:hidden;">
+			
+				<!--内容页右矩形3：2014-7-4-->
+				<div style="position: relative; display: inline; border: none; padding: 0px; margin: 0px; visibility: visible; overflow: hidden;">
+				<script type="text/javascript">//<![CDATA[
+				ac_as_id = 101099;
+				ac_format = 0;
+				ac_mode = 1;
+				ac_group_id = 1;
+				ac_server_base_url = "afp.csbew.com/";
+				//]]></script>
+				<script type="text/javascript" src="http://s.csbew.com/k.js"></script>
+				</div>
+			
+		</div>
+
+		<div class="space10"></div>
+		
+  		<div class="gb-coffee">
+			<div class="gb-t">
+		    	<div class="gb-tl"></div>
+		        <div class="title"><a href=" http://www.kdnet.net" target="_blank">精彩推荐</a></div>
+		    	<div class="gb-tr"></div>
+		    </div>
+		    <div class="gb-c">
+				<ul class="hot-list-club">
+					<li>
+						<div id="dispbbs43" style="width:0;height:0;visibility:hidden;overflow:hidden;"></div>
+					</li>
+					<li>
+						<div id="dispbbs44" style="width:0;height:0;visibility:hidden;overflow:hidden;"></div>
+					</li>
+					<li>
+						<div id="dispbbs45" style="width:0;height:0;visibility:hidden;overflow:hidden;"></div>
+					</li>
+					<li class="no-border">
+						<div id="dispbbs46" style="width:0;height:0;visibility:hidden;overflow:hidden;"></div>
+					</li>
+				</ul>
+			</div>
+
+			<div class="gb-b">
+		    	<div class="gb-bl"></div>
+		    	<div class="gb-br"></div>
+		    </div>
+		</div>
+        
+		<!--最新热点 End-->
+
+		<div id="dispbbs41" style="width:0;height:0;visibility:hidden;overflow:hidden;">
+		
+
+			<script type="text/javascript">//<![CDATA[
+			ac_as_id = 101117;
+			ac_format = 0;
+			ac_mode = 1;
+			ac_group_id = 1;
+			ac_server_base_url = "afp.csbew.com/";
+			//]]></script>
+			<script type="text/javascript" src="http://s.csbew.com/k.js"></script>
+
+		
+		</div>
+
+		<div class="space10"></div>
+         
+		<div class="space10"></div>
+		<div style="width:100%; position:relative;">
+		<div>
+
+		<div id="dispbbs42" style="width:0;height:0;visibility:hidden;overflow:hidden;">
+		
+			<script type="text/javascript">//<![CDATA[
+			ac_as_id = 101121;
+			ac_format = 0;
+			ac_mode = 1;
+			ac_group_id = 1;
+			ac_server_base_url = "afp.csbew.com/";
+			//]]></script>
+			<script type="text/javascript" src="http://s.csbew.com/k.js"></script>
+		
+		</div>
+		</div>
+		</div>
+
+		<div class="space10"></div>
+		
+		<div class="space10"></div>
+
+		<div class="space10"></div>
+
+		<div style="height:600px;margin:0 auto;position:relative;" class="clearfix" >
+			<div  class="scllor-banner"><!-- id="Scllor-banner" 悬停ID-->
+				<div id="dispbbs85" style="width:0;height:0;visibility:hidden;overflow:hidden;">
+				
+				<div style="position: relative; display: inline; border: none; padding: 0px; margin: 0px; visibility: visible; overflow: hidden;">
+
+					<script type="text/javascript">//<![CDATA[
+					ac_as_id = 96975;
+					ac_format = 0;
+					ac_mode = 1;
+					ac_group_id = 1;
+					ac_server_base_url = "afp.csbew.com/";
+					//]]></script>
+					<script type="text/javascript" src="http://s.csbew.com/k.js"></script>
+				</div>
+				
+				</div>	
+			</div>
+		</div>
+		<div class="space10"></div>
+		</div>
+	</div>
+	<!-- //右边内容 -->
+</div>
+<!-- //内容 -->
+<script type="text/javascript" language="javascript" src="http://imgcdn.kdnet.net/webset/www/g_javascript/club.js"></script>
+<script type="text/javascript" src="http://super.cat898.com/js/loger.js"></script>
+<script type="text/javascript" language="javascript" src="http://imgcdn.kdnet.net/webset/www/g_javascript/jquery.tools.min.js"></script><!--jquery.tools-->
+
+<script>
+//改变尺寸时进行相关操作
+function reTopNav(){
+	var sWidth = document.body.scrollWidth, oWidth = document.body.offsetWidth;
+	if($.browser.mozilla){ sWidth=$(document).width(); oWidth=$(window).width(); }
+	if(document.body.style.overflow != "hidden" && document.body.scroll!="no" && sWidth > oWidth){
+		$('.top-fixed-nav').addClass('top-fixed-nav-s2');
+		var allHeight = $('.top-fixed-nav').height();
+		$('.nav-opacity').css({'height':allHeight+'px'});
+		$('.nav-line-b').css({'top':allHeight+'px'});
+		$('.nav-space-t').css({'padding-top':(allHeight+2)+'px'});
+		$('.msg-box').css({'margin-top':(allHeight+2)+'px'});
+	} else {
+		$('.top-fixed-nav').removeClass('top-fixed-nav-s2');
+		var allHeight = $('.top-fixed-nav').height();
+		$('.nav-opacity').css({'height':allHeight+'px'});
+		$('.nav-line-b').css({'top':allHeight+'px'});
+		$('.nav-space-t').css({'padding-top':(allHeight+2)+'px'});
+		$('.msg-box').css({'margin-top':(allHeight+2)+'px'});
+	}
+}
+//改变尺寸时进行判断
+//reTopNav();
+//添加浏览器滚动判断
+var scrollY = 0;
+function showHideTopNav(){
+	if(typeof(document.body.style.minWidth) != 'undefined') {
+		$(window).scroll(function(){
+			if($(window).scrollTop()==0 || $(window).scrollTop()<($('.top-fixed-nav').height()+2)){
+				$('.top-fixed-nav').stop().css({'position':'absolute','top':'0px'});
+				$('.top-fixed-nav .nav-opacity').stop().css({'position':'absolute','top':'0px'});
+				$('.top-fixed-nav .tooltip').stop().show().css({'opacity':'1'});
+				$('#ajax_header').stop().show().css({'opacity':'1'});
+			} else {
+				if(scrollY > $(window).scrollTop()){
+					$('.top-fixed-nav').css({'position':'fixed'});
+					$('.top-fixed-nav .nav-opacity').css({'position':'fixed'});
+					if(!$('.top-fixed-nav').is(":animated")){
+						$('.top-fixed-nav, .nav-opacity').animate({top:'0px'});
+						$('.top-fixed-nav .tooltip').fadeIn(500);
+						$('#ajax_header').fadeIn(500);
+					}
+				} else {
+					if(!$('.top-fixed-nav').is(":animated")){
+						$('.top-fixed-nav .tooltip').fadeOut(500);
+						$('#ajax_header').fadeOut(500);
+						$('.top-fixed-nav, .nav-opacity').animate({top:'-'+($('.top-fixed-nav').height()+2)+'px'});
+					}
+				}
+			}
+			scrollY = $(window).scrollTop();
+		});
+	}
+}
+showHideTopNav();
+</script>
+
+
+<!-- push content begin-->
+
+<div id="fmedia_club_detail"></div>
+<div id="jsId"></div>
+<!--<script type="text/javascript">
+var fmedia_ad="http://panda.kdnet.net/data/fmedia/fmedia_club_detail.js";
+</script>-->
+<!-- script type="text/javascript" src="http://super.cat898.com/?c=ad&a=fmedia&popcontents=1&min=1"></script -->
+
+<!-- push content end -->
+
+
+
+<script src="http://tracking.cat898.com/about/log.js"></script>
+<script>
+var tracking_starttime = "1450705552";
+tracking_log();
+</script>
+
+
+<script type="text/javascript" src="http://super.cat898.com/js/jquery.flash.min.js"></script>
+<script type="text/javascript">
+$(function(){
+	var $adident = {"page":"view","ident":[["dispbbs28",1],["dispbbs29",1],["dispbbs30",1],["dispbbs31",1],["dispbbs33",1],["dispbbs34",1],["dispbbs35",1],["dispbbs36",1],["dispbbs37",1],["dispbbs39",1],["dispbbs112",1],["dispbbs40",1],["dispbbs41",1],["dispbbs42",1],["dispbbs43",1],["dispbbs44",1],["dispbbs45",1],["dispbbs46",1],["dispbbs71",1],["club73",1],["dispbbs77",1],["dispbbs78",1],["dispbbs79",1],["dispbbs85",1],["dispbbs87",1],["dispbbs91",1],["dispbbs113",1]]};
+	$.ajax({
+		url:'http://super.cat898.com/?c=ad',
+		dataType:'script',
+		data:$adident,
+		timeout:5000,
+		success:function(e){
+                 $(".slide-banner").css('display','block'); 
+		}
+	});
+});
+</script>
+
+<div id="panda_club_dispbbs_l_5" style="display:none"><script type="text/javascript" src="http://super.kdnet.net/data/position/p61.js"></script></div>
+
+<script type="text/javascript" src="http://www.kdnet.net/g_javascript/globalpanda.js"></script>
+<script>
+	    document.onmousemove=function (){document.getElementById('update_flag').innerHTML=1;};
+		document.onscroll=function (){document.getElementById('update_flag').innerHTML=1;};
+</script>
+	
+	<script type="text/javascript">
+	//------ 推荐广告 ----------------
+	var pubX = ['0px','205px','410px','615px'];
+	var slidePubLi = $('.slide-banner li');
+	slidePubLi.hover(
+	function(){
+	var way = '0px';
+	for(i=0;i<slidePubLi.length;i++){
+	if(slidePubLi.eq(i).attr('class') == $(this).attr('class')){
+	slidePubLi.eq(i).animate({left:way},700).children().children('.m2').animate({opacity:1});
+	way = '810px';
+	}else{
+	slidePubLi.eq(i).stop().animate({left:way},700);
+	}
+	}
+	},
+	function(){
+	$(this).stop().children().children('.m2').stop();
+	for(i=0;i<slidePubLi.length;i++){ slidePubLi.eq(i).stop().children().children('.m2').stop(); }
+	for(i=0;i<slidePubLi.length;i++){
+	slidePubLi.eq(i).animate({left:pubX[i]},700).children().children('.m2').animate({opacity:0});
+	}
+	}
+	);
+	</script>
+    
+
+<script type="text/javascript">
+<!--
+ $(document).ready(function () {
+
+			//modify sunny 20131231 ad B
+			//左侧普通物料 + 右侧 悬停
+			function tools(){
+			var adBannerH=$(".nav-con").height()+$(".proving-n-msg").outerHeight();
+			var ScllorbannerH=$(".web-right").outerHeight()-600;
+			var top=$(document).scrollTop();
+			if(($.browser.msie==true)&&($.browser.version==6.0)){
+				if(top>adBannerH)$("#ad-banner-left-cont").css({position:"absolute",top:100});
+				//if(top>adBannerH)$("#ad-banner-left-cont").css({position:"absolute",top:top-adBannerH});
+				if(top>ScllorbannerH)$("#Scllor-banner").css({position:"absolute",top:top-adBannerH});
+			}else{
+				if(top>adBannerH)$("#ad-banner-left-cont").css({position:"fixed",top:100});
+				//if(top>adBannerH)$("#ad-banner-left-cont").css({position:"fixed",top:adBannerH});
+				if(top>ScllorbannerH)$("#Scllor-banner").css({position:"fixed",top:adBannerH});
+			}
+			if(top<=adBannerH)$("#ad-banner-left-cont").css({position:"static",top:100});
+			//if(top<=adBannerH)$("#ad-banner-left-cont").css({position:"static",top:-adBannerH});
+			if(top<=ScllorbannerH)$("#Scllor-banner").css({position:"static",top:0});
+			}
+
+
+
+			/*
+			
+			//左侧对联物料 + 右侧 悬停
+			function tools(){
+			var adBannerH=$(".nav-con").height()+$(".proving-n-msg").outerHeight();
+			var ScllorbannerH=$(".web-right").outerHeight()-600;
+			var top=$(document).scrollTop();
+			if(($.browser.msie==true)&&($.browser.version==6.0)){
+				if(top>adBannerH)$("#ad-banner-left-cont").css({position:"absolute",top:top-405});
+				if(top>ScllorbannerH)$("#Scllor-banner").css({position:"absolute",top:top-adBannerH});
+			}else{
+				if(top>adBannerH)$("#ad-banner-left-cont").css({position:"fixed",top:447});
+				if(top>ScllorbannerH)$("#Scllor-banner").css({position:"fixed",top:adBannerH});
+			}
+			if(top<=adBannerH)$("#ad-banner-left-cont").css({position:"fixed",top:447});
+			if(top<=ScllorbannerH)$("#Scllor-banner").css({position:"fixed",top:0});
+			}
+			//modify sunny 20131231 ad E
+*/
+
+
+
+
+
+
+
+
+			$(function(){
+				window.onscroll=tools;
+				window.onresize=tools;
+			});
+
+	//展开浮动导航栏下拉列表
+	var showTopNavMenu = function(){
+		$('.top-fixed-nav .nav-menu li').hover(
+			function(){ $(this).find('.nav-menu-ex-f').stop(false,true).fadeIn(200); },
+			function(){ $(this).find('.nav-menu-ex-f').stop(false,true).fadeOut(200); }
+		);
+		$('.nav-user-msg-f').hover(
+			function(){ $(this).find('.nav-menu-ex-f').stop(false,true).fadeIn(200); },
+			function(){ $(this).find('.nav-menu-ex-f').stop(false,true).fadeOut(200); }
+		);
+	};
+	showTopNavMenu();
+
+	upheader_total(0);
+	setInterval("upheader_total(1)",60000); 
+    $(".globalnav-ul li").hover(
+        function () {
+            $("ul", this).show();
+            $(this).addClass("hover");
+        }, 
+        function () {
+            $("ul", this).hide();  
+            $(this).removeClass("hover");       
+        }
+    );
+
+	$(function(){
+		window.onscroll=tools;
+		window.onresize=tools;
+	});
+	
+	$("#OverlayHelp").overlay({ mask:{color:'#000', opacity:0.5 },top:"0",right:"50",closeOnClick:true,closeOnEsc:true});
+	$("#OverlayHelp").click(function(){ $("#OverlayHelp").overlay().close(); })
+
+		//浏览器长度自判断
+		if(typeof(document.body.style.minWidth) != 'undefined') {
+			//改变尺寸时进行判断
+			reTopNav();
+			$(window).resize(function(){
+				reTopNav();
+			});
+		}
+});
+
+	//鼠标移动定位
+	$('.coll-box').hover( function(){ isclose=false; }, function(){ isclose=true; } );
+	
+	//关闭收藏框
+	$('.close-coll').click(function(){
+		$('.coll-box').hide();
+		isclose=true;
+	});
+
+function keydown(e){
+　 var e=e||event;
+　 var currKey=e.keyCode||e.which||e.charCode;
+　 if((currKey>7&&currKey<14)||(currKey>31&&currKey<47))
+　 {
+　 　   switch(currKey)
+   　 　 { 
+	         case 37:document.location.href="go.asp?boardid=25&sid=11337832"; break;
+    　 　 　 case 39:document.location.href="go.asp?boardid=25&sid=11337832&action=next"; break;
+    　 　 　 default:keyName = "";    break;
+　 　   }
+　 }
+}
+
+document.onkeydown = keydown;
+
+var maxDay=365;
+var doc = document;
+function $id(s1, s2) { return s2 ? s1.getElementById(s2) : doc.getElementById(s1); }
+function $name(s1, s2) { return s2 ? s1.getElementsByName(s2) : doc.getElementsByName(s1); }
+function $tag(s1, s2) { return s2 ? s1.getElementsByTagName(s2) : doc.getElementsByTagName(s1); }
+
+$(document).ready(function(){
+	$('#more_btn').click(function(){
+		if ($("title").overlay().isOpened()) {
+			$("title").overlay().close();
+		} else {
+			$("title").overlay().load();
+		}
+	});
+});
+
+//更多个人信息显示、隐藏
+$('.more-show').click(function(){
+	$(this).hide();
+	$('.detailed-more-cont').fadeIn();
+});
+$('.more-hide').click(function(){
+	$('.more-show').fadeIn();
+	$('.detailed-more-cont').hide();
+});
+//-->
+</script>
+<!-- for ji_fen_huan_piao begin -->
+<script type="text/javascript">
+window.setInterval("reinitIframe()", 200);
+window.setInterval("SetWinHeight()", 200);
+</script>
+<!-- for ji_fen_huan_piao end-->
+
+
+<script type="text/javascript">
+$(".img-box").mouseover(function(){
+	if($(this).children(".img-src").attr('width')>=600) $(this).children(".enlarge").show(); //wxl:判断
+});
+$(".img-box").mouseout(function(){
+	if($(this).children(".img-src").attr('width')>=600) $(this).children(".enlarge").hide();
+});
+
+<!--
+function goPage(el,link){
+	document.location = link.replace('{pagenum}',$(el).prev().val());
+}
+
+function checkurl(tha) {
+url=tha.href;
+
+if(url.indexOf("kdnet")>=0)
+return true;
+else {
+return true;
+}
+}
+//-->
+</script>
+<script type="text/javascript">
+
+</script>
+<script type="text/javascript" language="javascript" src="http://upfile1.kdnet.net/webset/www/g_javascript/FunLib.js"></script><!-- 公共JS -->
+<script type="text/javascript" language="javascript" src="http://upfile1.kdnet.net/webset/www/g_javascript/dispbbs_FunLib.js"></script><!-- 内容页专用JS -->
+<script>
+$(document).ready(function(){
+var tips_status = false;
+var timer; 
+timer = null;
+$('span').find('a.tips').hover(function(){
+       //鼠标移动上面执行
+       //鼠标移动时 
+       //获取到需要弹出浮动框的元素obj 	    
+		if ( tips_status == false ){
+		    if ($('#description').size() > 0 ) closeDiv("description");
+			clearTimeout(timer);
+		    divobj =  $(this);
+			//获取obj的位置，left及top，IE及FF3.0以上都支持 
+			divobjleft = divobj.offset().left;
+			divobjtop = divobj.offset().top + divobj.outerHeight(); 
+			//为弹出的div的left，top赋值 
+			divobjx = divobjleft + 0	//弹出的div距离obj左边的距离，取实际值 ; 
+			divobjy = divobjtop - 35	//弹出的div距离obj顶部的距离，取实际值 ;
+			//计算对象可见高度
+			var hg =  this.getBoundingClientRect().top;
+			
+			var cs = '';
+						if(hg > 180 ){
+							  cs = "usertips clearfix box1";
+							  divobjy = divobjy + 20;
+							  if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) 
+							  {
+								   divobjy = divobjy - 120;
+							  }
+						}
+						else{
+							  cs =  "usertips clearfix box2";
+							  divobjy = divobjy + 40;
+						}
+          timer = setTimeout(function(){
+						if ($('#description').size() == 0 ){
+						var data = {'username':escape(divobj.attr('title')),'width':escape(divobjx),'height':escape(divobjy),'class':escape(cs)};
+													$.getJSON("http://jsapi.kdnet.net/ajax_dangchu_username.asp?jsoncallback=?",
+														data,
+														function(obj){
+														  
+														   if ($('#description').size() == 0 ) document.body.insertAdjacentHTML("afterBegin", obj.Ajax_Dangchu); 
+														}); 
+						}
+		//通过insertAdjacentHTML来写入到html内（这个参数火狐不支持，但是可能通过兼容代码 让火狐兼容insertAdjacentHTML 属性，兼容代码不长，就几十行） 
+		
+		tips_status = true;
+		},500);
+	  }
+},function(){
+    //鼠标移开事件默认状态false
+	tips_status = false;
+	window.clearTimeout(timer);
+    
+    //浮窗事件
+	$('#description').hover(function(){
+		tips_status = true;
+	},function(){
+	    //浮窗移开事件
+		if ($('#description').size() > 0 ) closeDiv("description");
+		tips_status = false;
+	}); 
+    
+    //延时判断状态
+	setTimeout(function(){ 
+		if (tips_status == false  && $('#description').size() > 0) closeDiv("description");
+	}, 100); 
+    
+}) ;
+
+//浮窗事件
+$('#description').hover(function(){
+	tips_status = true;
+},function(){ 
+    //浮窗移开事件
+	if ($('#description').size() > 0) closeDiv("description");
+	tips_status = false; 
+}); 
+
+//Start 兼容代码 让火狐兼容insertAdjacentHTML 属性
+if (typeof HTMLElement != "undefined" && !HTMLElement.prototype.insertAdjacentElement) { 
+    HTMLElement.prototype.insertAdjacentElement = function (where, parsedNode) { 
+        switch (where) { 
+            case "beforeBegin": 
+                this.parentNode.insertBefore(parsedNode, this); 
+                break; 
+            case "afterBegin": 
+                this.insertBefore(parsedNode, this.firstChild); 
+                break; 
+            case "beforeEnd": 
+                this.appendChild(parsedNode); 
+                break; 
+            case "afterEnd": 
+                if (this.nextSibling) { 
+                    this.parentNode.insertBefore(parsedNode, this.nextSibling); 
+                } else { 
+                    this.parentNode.appendChild(parsedNode); 
+                } 
+                break; 
+        } 
+    }; 
+    HTMLElement.prototype.insertAdjacentHTML = function (where, htmlStr) { 
+        var r = this.ownerDocument.createRange(); 
+        r.setStartBefore(this); 
+        var parsedHTML = r.createContextualFragment(htmlStr); 
+        this.insertAdjacentElement(where, parsedHTML); 
+    }; 
+    HTMLElement.prototype.insertAdjacentText = function (where, txtStr) { 
+        var parsedText = document.createTextNode(txtStr); 
+        this.insertAdjacentElement(where, parsedText); 
+    }; 
+} 
+// End 兼容代码 让火狐兼容insertAdjacentHTML 属性
+});
+
+//延伸阅读tab转换
+tabChange();
+
+//隐藏提示--另外用cookice控制只显示一次	
+hideTooltip();
+
+$(".shieldshowposted").click( 
+	function () { 
+		$(this).parents('.posted-box-add').hide(); 
+		$(this).parents('.posted-box-add').prev('.posted-box-add').fadeIn(); 
+	}
+);
+$(".shieldshow").click( 
+	function () { 
+		$(this).parents('.reply-box').hide(); 
+		$(this).parents('.reply-box').prev('.reply-box').fadeIn(); 
+	}
+);
+</script>
+<script>$('[id=ding_54670302]').html('<a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="赞" class="agree"><span>赞</span></a><b class="c-sub"> | </b><a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="踩" class="against"><span>踩</span></a><b class="c-sub"> | </b>');$('[id=ding_54670670]').html('<a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="赞" class="agree"><span>赞</span></a><b class="c-sub"> | </b><a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="踩" class="against"><span>踩</span></a><b class="c-sub"> | </b>');$('[id=ding_54671239]').html('<a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="赞" class="agree"><span>赞</span></a><b class="c-sub"> | </b><a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="踩" class="against"><span>踩</span></a><b class="c-sub"> | </b>');$('[id=ding_54671300]').html('<a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="赞" class="agree"><span>赞</span></a><b class="c-sub"> | </b><a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="踩" class="against"><span>踩</span></a><b class="c-sub"> | </b>');$('[id=ding_54671407]').html('<a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="赞" class="agree"><span>赞</span></a><b class="c-sub"> | </b><a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="踩" class="against"><span>踩</span></a><b class="c-sub"> | </b>');$('[id=ding_54693868]').html('<a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="赞" class="agree"><span>赞</span></a><b class="c-sub"> | </b><a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="踩" class="against"><span>踩</span></a><b class="c-sub"> | </b>');$('[id=ding_54699963]').html('<a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="赞" class="agree"><span>赞</span></a><b class="c-sub"> | </b><a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="踩" class="against"><span>踩</span></a><b class="c-sub"> | </b>');$('[id=ding_54720185]').html('<a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="赞" class="agree"><span>赞</span></a><b class="c-sub"> | </b><a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="踩" class="against"><span>踩</span></a><b class="c-sub"> | </b>');$('[id=ding_54745025]').html('<a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="赞" class="agree"><span>赞</span></a><b class="c-sub"> | </b><a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="踩" class="against"><span>踩</span></a><b class="c-sub"> | </b>');$('[id=ding_54745094]').html('<a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="赞" class="agree"><span>赞</span></a><b class="c-sub"> | </b><a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="踩" class="against"><span>踩</span></a><b class="c-sub"> | </b>');$('[id=ding_54771294]').html('<a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="赞" class="agree"><span>赞</span></a><b class="c-sub"> | </b><a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="踩" class="against"><span>踩</span></a><b class="c-sub"> | </b>');$('[id=ding_54793503]').html('<a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="赞" class="agree"><span>赞</span></a><b class="c-sub"> | </b><a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="踩" class="against"><span>踩</span></a><b class="c-sub"> | </b>');$('[id=ding_54807934]').html('<a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="赞" class="agree"><span>赞</span></a><b class="c-sub"> | </b><a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="踩" class="against"><span>踩</span></a><b class="c-sub"> | </b>');$('[id=ding_54871547]').html('<a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="赞" class="agree"><span>赞</span></a><b class="c-sub"> | </b><a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="踩" class="against"><span>踩</span></a><b class="c-sub"> | </b>');$('[id=ding_54879738]').html('<a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="赞" class="agree"><span>赞</span></a><b class="c-sub"> | </b><a href="javascript:;" onClick="openLoginPopup();" onmouseover="cancelAgreewxf(this);" title="踩" class="against"><span>踩</span></a><b class="c-sub"> | </b>');</script>
+<script>
+if(top.window.location.href   !=   window.location.href   )    
+{top.window.location.href   =   window.location.href }
+$(function(){
+	//隐藏提示--另外用cookice控制只显示一次	
+	 hideTooltip()
+})
+
+//请“赞”我一下吧！tips隐藏	
+$(".manange-panel .hide-tooltip").click( function () { $(".manange-panel .tooltip").fadeOut("fast"); });
+
+</script>
+<script language="javascript">
+//弹出层控制
+function dingwxf(announceid,topicid,flagdc) {
+	$.ajax({
+		  url: "dingwxf.asp?announceid="+announceid+'&topicid='+topicid+'&flagdc='+flagdc,
+		  type: "GET",
+		  cache: false,
+		  success: function(html){
+			$('[id=ding_'+announceid+']').html(html);
+		  }
+		});
+}
+//sunny 20130925 begin
+function showExposeMask (str_id, str_lay) {
+	var _floor = $('#floor'+str_lay);
+	var x = _floor.offset().top;
+	var y = _floor.offset().left;
+
+	var scrollTop = document.documentElement.scrollTop || window.pageYOffset || document.body.scrollTop;
+	var exposeMask = document.getElementById('exposeMask');
+	var uplBoxF = document.getElementById('uplBoxF');
+	var bodyn = document.getElementsByTagName('body')[0];
+
+	var _thisurl = window.location.href;
+	if (_thisurl.indexOf('#') >= 0){
+		var newrul = _thisurl.substr(0, _thisurl.indexOf('#') + 1) +str_id;
+	}
+	else {
+		var newrul = _thisurl + '#'+str_id;
+	}
+
+	if (str_lay == 0) {
+		$('#w-title').html('复制楼主的地址');
+	}
+	else if (str_lay == 1) {
+		$('#w-title').html('复制沙发的地址');
+	}
+	else if (str_lay > 1) {
+		$('#w-title').html('复制第 '+str_lay+' 楼的地址');
+	}
+	$('#w-content').val(newrul);
+
+	$('#exposeMask').show(0).css({'filter':'alpha(opacity=50)'});
+	$('#uplBoxFC').show(0);
+	$('#uplBoxF').show(0);
+	$('body').css({'overflow-x':'hidden','overflow-y':'hidden'});
+	bodyn.scroll = 'no';
+	exposeMask.style.width = bodyn.offsetWidth+'px';
+	exposeMask.style.height = bodyn.scrollHeight+'px';
+
+	uplBoxFC.style.top = x+'px';
+	uplBoxFC.style.left = (($(window).width() - 500)/2 - 500)+'px';
+
+	window.scrollTo(0,scrollTop);
+}
+
+function hideExposeMask(){
+	$('#exposeMask').fadeOut(300);
+	$('#uplBoxF').fadeOut(300);
+	$('body').css({'overflow-x':'auto','overflow-y':'auto'});
+	document.getElementsByTagName('body')[0].scroll = 'auto';
+}
+
+function copyToClipboard() { 
+	var _data = $('#w-content').val();
+
+	if (window.clipboardData){             //处理费IE浏览器
+		var flag = window.clipboardData.setData("text",_data);
+		if(flag == true){
+			alert("复制成功。");
+		}else{
+			alert("复制失败。");
+		}
+	 }else{
+		alert("您使用的浏览器不支持此复制功能，请使用Ctrl+C或鼠标右键。");
+	} 
+} 
+//sunny 20130925 end
+
+//当浏览器分辨率小于1280，左侧联盟广告隐藏  20131106 B
+function rePub(){
+	if ($(document).width()<1280) {$("#cs_left_couplet").css("display","none")} 
+	else {$("#cs_left_couplet").css("display","block")} 
+}
+$(function(){
+	$(window).bind('resize',function(){
+		rePub()
+	});
+	rePub();
+});
+//当浏览器分辨率小于1280，左侧联盟广告隐藏  20131106 E
+
+//sunny 打赏 B
+function rewardBtn(aid, lay){
+	var valid_integral = $("#valid_integral").attr("value");
+
+	document.getElementById("followup").value = aid;
+	document.getElementById("lay").value = lay;
+	document.getElementById("aid").value = aid;
+
+	$('.reward-fixed-box').fadeIn(300);
+	$('.reward-fixed-main').css({'margin-left':'-'+($('.reward-fixed-main').outerWidth()/2)+'px','margin-top':'-'+($('.reward-fixed-main').height()/2)+'px'});
+
+	if (valid_integral == 0 || valid_integral < 10) {
+		document.getElementById("butsubmit").attributes["onclick"].value = '';
+		document.getElementById("butsubmit").attributes["class"].value = "reward-btn-big reward-btn-big2 forbidden-btn";
+		$("#notenough_memo").html('您的积分不够，<a href="http://user.kdnet.net/index.asp#chongzhi" target="_blank" class="c-2477b3">充值</a> 获得。');
+	}
+}
+
+//赏了
+function butsubmit(){
+	//document.getElementById("butsubmit").attributes["onclick"].value = '';
+	document.getElementById("butsubmit").attributes["class"].value = "reward-btn-big reward-btn-big2 forbidden-btn";
+
+	//判断
+	var errmsg = "";
+
+	////打赏积分
+	var valid_integral = $("#valid_integral").attr("value");
+	
+	var this_integral = '';
+	var arr_radio = $("input[name='RadioGroup1']");
+	for (var i = 0 ; i < arr_radio.length; i++){
+		if (arr_radio[i].checked) {
+			this_integral = arr_radio[i].value;
+		}
+	}
+	if (this_integral == '') this_integral = $("#input_integral").val();
+
+	if (this_integral != '') {
+		if (parseInt(valid_integral) < parseInt(this_integral)) {
+			errmsg = "您的积分不够，请先充值再打赏。";
+		}
+	} else {
+		errmsg = "请选择或填写打赏的积分数。";
+	}
+	
+	if (errmsg == "") {
+		////是否跟帖回复
+		var reply_words = $("#reply-words").val();
+		var rpy_check = $("input[name='rpy_checkbox']");
+		if (rpy_check[0].checked &&　reply_words == '') {
+			errmsg = "您选择跟帖回复，请说点什么吧。";
+		}
+	}
+
+	if (errmsg != "") {
+		document.getElementById("butsubmit").attributes["class"].value = "reward-btn-big reward-btn-big2";
+		alert(errmsg);
+		return;
+	} else {
+		document.getElementById("butsubmit").attributes["onclick"].value = '';
+		if (rpy_check[0].checked || (rpy_check[0].checked == false && reply_words != '')) {	//跟帖回复
+			document.t_form.attributes["action"].value = 'http://upfile1.kdnet.net/giving_do.asp?action=sre&method=fastreply&BoardID=25&intetral='+this_integral+'&valid_integral='+valid_integral; 
+			//alert(document.t_form.attributes["action"].value);
+			document.t_form.submit(); 
+		} else {	//不跟贴回复，直接打赏
+			document.t_form.attributes["action"].value = 'http://club.kdnet.net/giving.asp?rootid=11337832&posttable=8&intetral='+this_integral+'&valid_integral='+valid_integral; 
+			//alert(document.t_form.attributes["action"].value);
+			document.t_form.submit(); 
+		}
+	}
+}
+
+//清除积分弹窗
+function closeR(){
+	document.getElementById("input_integral").value = "";
+	document.getElementById("reply-words").value = "";
+	document.getElementById("butsubmit").attributes["onclick"].value = 'butsubmit();';
+	document.getElementById("butsubmit").attributes["class"].value = "reward-btn-big reward-btn-big2";
+	$("#notenough_memo").html('');
+	
+	$('.reward-fixed').fadeOut(300);
+};
+
+//判断积分是否够
+function chk_integral(){
+	document.getElementById("butsubmit").attributes["onclick"].value = '';
+	document.getElementById("butsubmit").attributes["class"].value = "reward-btn-big reward-btn-big2 forbidden-btn";
+	var valid_integral = $("#valid_integral").attr("value");
+	
+	var this_integral = '';
+	var arr_radio = $("input[name='RadioGroup1']");
+	for (var i = 0 ; i < arr_radio.length; i++){
+		if (arr_radio[i].checked) {
+			try{
+				if(arr_radio[i].value=="q")
+				{
+					this_integral ="";
+				}
+				else
+				{
+					this_integral = parseInt(arr_radio[i].value);
+				}
+			}
+			catch(e){}
+		}
+	}
+	if (this_integral == '') this_integral = $("#input_integral").val();
+
+	if (this_integral != '') {
+		if (parseInt(valid_integral) < parseInt(this_integral)) {
+			document.getElementById("butsubmit").attributes["onclick"].value = '';
+			document.getElementById("butsubmit").attributes["class"].value = "reward-btn-big reward-btn-big2 forbidden-btn";
+			
+			$("#notenough_memo").html('您的积分不够，<a href="http://user.kdnet.net/index.asp#chongzhi" target="_blank" class="c-2477b3">充值</a> 获得。');
+		}
+		else {
+			document.getElementById("butsubmit").attributes["onclick"].value = 'butsubmit();';
+			document.getElementById("butsubmit").attributes["class"].value = "reward-btn-big reward-btn-big2";
+
+			$("#notenough_memo").html('');
+		}
+	}
+}
+
+//正则正整数
+function checkNum(obj){
+	var re = /^[1-9]\d*$/;
+	if (!re.test(obj.value)){
+		alert("必须为正整数!");
+		obj.value="";
+		obj.focus();
+		return false;
+	}
+} 
+
+//全部打赏弹窗加入body
+function showall (rootid, announcedid, t_integral,total_num) {
+	var data = "a=show&rootid="+rootid+"&show_announceid=" + announcedid + "&t_integral="+t_integral;
+
+	$.ajax({
+		url: "http://club.kdnet.net/dispbbs_func.asp",
+		type: "POST",
+		data: data,
+		cache: false,
+		success: function(html){
+			//alert(html);
+			var s_html = html.split("|||||");
+			$("#userList").html(s_html[0]);
+
+			var strtmp = '共<b class="red">'+total_num+'</b>人打赏 <b class="red">'+s_html[1]+'</b> 分';
+			$("#userRewNum").html(strtmp);
+
+			//$('body').append(html);
+			$('.reward-userfixed-box').fadeIn(300);
+			$('.reward-userfixed-main').css({'margin-left':'-'+($('.reward-userfixed-main').outerWidth()/2)+'px','margin-top':'-'+($('.reward-userfixed-main').height()/2)+'px'});			
+		}
+	});
+}
+//sunny 打赏 E
+
+</script><script language="javascript" src="http://my.kdnet.net/client/index.php"></script>
+<script type="text/javascript">//<![CDATA[
+ac_as_id = 93499;
+ac_format = 0;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "afp.csbew.com/";
+//]]></script>
+<script>
+if(document.documentElement.clientWidth>1180 && deviceType!="phone")
+{
+    document.write("<script language='javascript' src='http://s.csbew.com/k.js'><\/script>");
+}
+</script>
+</body>
+<script type="text/javascript">
+	//公众号二维码和app二维码tabs
+	$(".code-tabs").tabs("div.code-pans > div", {initialIndex:0});
+</script>
+<link href="http://upfile2.kdnet.net/kdnet_mz/css/kdmz_plugin.css" rel="stylesheet" type="text/css">
+<script src="http://upfile2.kdnet.net/kdnet_mz/js/mzinkd.js"></script>
+
+<!-- Start Alexa Certify Javascript -->
+
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"qlI7j1a4ZP00wT", domain:"kdnet.net",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qlI7j1a4ZP00wT" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  
+
+</html>

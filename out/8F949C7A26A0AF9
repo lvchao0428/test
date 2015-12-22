@@ -1,0 +1,1024 @@
+<!--UINFO: http://bbs.jrj.com.cn/msg,98387955,1.html	length=67317&last_modified=0&time_saved=1450676761&charset=gbk-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+		<title>6.12炒股必看的政策个股信息-绿荫看盘-金融界股票论坛</title>
+		<meta name="keywords" content="6.12炒股必看的政策个股信息,股票论坛,股市分析,预测明日大盘走势,个股分析">
+		<meta name="description" content="6.12炒股必看的政策个股信息&nbsp;&nbsp;&nbsp;&nbsp;【海外】美国股市道指上涨0.22%。纽约黄金期货下跌6.20美元"/>
+		<script type="text/javascript" src="http://js.jrj.com.cn/myjrj/js/jquery.js"></script>
+		<script src="http://js.jrj.com.cn/bbsnew/bbs120626.js" type="text/javascript"></script>
+		<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/LoginDialog-min.js"></script>
+		<link rel="stylesheet" id="skin" type="text/css" href="http://js.jrj.com.cn/bbsnew/css/essay120605.css" />
+		<script type="text/javascript" src="http://js.jrj.com.cn/myjrj/js/api/myjrj_api_1.js"></script>
+		<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/dialogs-2.js"></script>
+		<script src="http://js.jrj.com.cn/bbsnew/article/staticpage140102.js" type="text/javascript"></script>
+		<link rel="stylesheet" type="text/css" href="http://js.jrj.com.cn/lib/ui/dialog-cool.css" />
+		<link href="http://js.jrjimg.cn/common/bottombar.css" rel="stylesheet" /><!-- 底部通用导航新加样式 -->
+		<style type="text/css">
+	    	.jbtext{background:url(http://i0.jrjimg.cn/istock/igjb.png) no-repeat 0 center;padding:0 20px 0 20px;cursor:pointer;}
+	    	.fcfcnew{z-index:9999;display:none;background:url(http://i0.jrjimg.cn/bbsnew/img/fcfcnew.png) no-repeat 0 0;width:490px;height:350px;position:fixed;top:50%;left:50%;margin-left:-245px;_position:absolude;margin-top:-175px;}
+			.fcfcnew .hd{height:104px;position:relative;}
+			.fcfcnew .hd a.clear{position:absolute;top:8px;right:14px;width:15px;height:15px;display:block;}
+			.fcfcnew .hd i{font-family:"微软雅黑","宋体";font-sizE:24px;position:absolute;top:53px;left:245px;color:#fff;}
+			.text-new1{padding:25px 60px 0;}
+			.text-new1 p{line-height:21px;}
+			.text-new1 p.cur{padding:0 0 20px;}
+			.fhbox{position:fixed;margin-left:480px;left:50%;top:40%;_position:absolute;}
+			.fhbox a{display:block;background:url(http://i0.jrjimg.cn/istock/fhtopnew.jpg) no-repeat;width:66px;height:68px;}
+			.fhbox a.fh02{background-position:0 -68px;margin-top:9px;}
+			.fhbox a.fh01:hover{background-position:-66px 0;}
+			.fhbox a.fh02:hover{background-position:-66px -68px;}
+			.sharetos {
+			    background: none repeat scroll 0 0 transparent;
+			    cursor: pointer;
+			    display: inline-block;
+			    font-size: 12px;
+			    height: 25px;
+			    margin-right: 5px;
+			    padding-left: 2px;
+			    vertical-align: middle;
+			}
+			.mpll {
+			    margin: 38px 0 5px;
+			    overflow: hidden;
+			    text-align: center;
+			}
+	    </style>
+	    <script type="text/javascript" src="http://js.jrjimg.cn/js.do?f=/lib/jrjbase-min.js,/lib/util/ie6fixed-nojq-min.js,/lib/ui/ScrollLeft-min.js,/lib/ui/PopupMsgBox-nojq-1.0.min.js"></script>
+	    
+<script>
+$(document).ready(function(){
+	var ie6Fixed = JRJ.util.ie6Fixed;
+	ie6Fixed.fixed($(".fcfcnew"), "cc");
+	//$(".jbtext").click(function(){
+	//		$(".fcfcnew").show();
+	//		return false;
+	//});
+	$(".clear").click(function(){
+			$(".fcfcnew").hide();
+			return false;
+	});
+  $("#helpbutton").css("right",($(window).width()-$("#topIndex").width())/2-$("#helpbutton").width()-2);
+  if(jQuery.browser.msie && jQuery.browser.version == 6) {
+    Followmod.follow();
+  }
+  $("#helpbutton").show();
+});
+Followmod = {
+  follow : function(){
+    $("#helpbutton").css("position","absolute");
+    $(window).scroll(function(){
+      var mtop = $(window).scrollTop() + $(window).height() - $("#helpbutton").outerHeight()-260;
+      var mleft = ($(window).width()-$("#topIndex").width())/2-$("#helpbutton").width()-2;
+      $("#helpbutton").css({"top":mtop,"right":mleft});
+    });
+  }
+}
+function imgsize(img){
+	img.width=Math.min(img.width,900);
+	if(img.width==900){
+		img.style.cursor="pointer";
+		img.title="点击查看原图";
+	}
+}
+
+function imggo(img){
+	if(img.width>=900){
+		window.open(img.src);
+	}
+}
+</script>
+	</head>
+	<body>
+	<script type="text/javascript" src="http://js.jrjimg.cn/home/click.js"></script>
+	<div class="fcfcnew" id="fcfcnew">
+    	<div class="hd"><a href="javascript:void(0);" class="clear"></a><i>金融界论坛</i></div>
+        <div class="bd">
+        	<div class="text-new1">
+        		<strong>尊敬的用户：</strong>
+                <p class="cur">如您在使用金融界网站论坛的过程中发现色情，反动言论，伪造他人言论，广告欺诈等帖子，为便于网友反馈问题，特将金融界论坛管理员联系方式公布如下，欢迎大家有问题或者建议随时联系。</p>
+                <p>金融界客户服务中心邮箱：jrjhudong@jrj.com.cn</p>
+                <p>论坛客服电话010-58325388-1532</p>
+                <p>金融界论坛官方账户：管理员01</p>
+                <p>金融界论坛客服QQ:2632547546</p>
+                
+            </div>
+        </div>
+    </div>
+	<p class="cnav bbs">
+	<a href="http://www.jrj.com/" target="_blank">首页</a>|
+	<a href="http://i.jrj.com.cn/" target="_blank">我的金融界</a>|
+	<a href="http://blog.jrj.com.cn/" target="_blank">博客</a>|
+	<a href="http://bbs.jrj.com.cn/" target="_blank">论坛</a>|
+	<a href="http://istock.jrj.com.cn/" target="_blank">爱股</a>|
+	<a href="http://itougu.jrj.com.cn?from=itougu-20141227-rc-bbs-sydh-wzl-051" target="_blank">爱投顾</a>|
+	<a href="http://zhibo.jrj.com.cn/" target="_blank">实盘直播</a>|
+	<a href="http://v.jrj.com.cn/" target="_blank">微视频</a>|
+	<a href="http://pic.jrj.com.cn/" target="_blank">图片</a>
+
+			<span>[<a href="http://www.m.jrj.com.cn/" target="_blank">手机金融界</a>]
+			[<a href="http://bbs.jrj.com.cn/bbsmap.html" target="_blank">网站地图</a>]
+			[<a href="javascript:void(0);" onclick="javascript:addFav();">收藏本页</a>]</span>
+		</p>
+		<div class="ban bbs">
+			<a href="http://bbs.jrj.com.cn" class="logo"><a href="http://bbs.jrj.com.cn"></a></a>
+			<div class="fr" id="adDiv"></div>
+      <script>
+             window.onload=function(){
+             var div = document.getElementById("adDiv");
+             div.innerHTML = '<div class="ad1"><iframe width="547" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=27&op=1" ></iframe></div>'
++'<div class="ad2"><iframe width="195" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=28&op=1" ></iframe></div>';
+         }               
+     </script>                       
+	</div>
+	<div class="Bbs_Thread bdnav fw1">
+			<select class="fr" name="history" onchange="windowOPENTO(this)">
+				<option>
+					最近访问版区
+				</option>
+			</select>
+						<!-- a href="http://www.jrj.com.cn">金融界</a><i>&gt;</i --><a href="http://bbs.jrj.com.cn">金融界论坛</a><i>&gt;</i><a href="/gupiao">股票论坛</a><i>&gt;</i><a href="/745">绿荫看盘</a>		</div>
+	<div class="Bbs_Thread bbs flist">
+			<div id="login">
+			</div>	
+<form action="/article/searchArticle.jspa" class="search" method="get" onsubmit="return checkData(this)">
+<select id="searchtype" name="searchtype">
+	<option value="author">
+		作者
+	</option>
+	<option value="title">
+		标题
+	</option>
+	<option value="tag">
+		标签
+	</option>
+</select>
+<input class="text" value="请输入搜索内容" name="typeValue" onfocus="onSelected(this)" onblur="onLeave(this)" id="typeValue" type="text"/>
+<input type="hidden" name="from" value="search"/>
+<input type="hidden" name="cid" value="1" />
+<input class="btn" value="搜索" type="submit"/>
+</form>
+</div>
+<div class="navlist" id="loginlist" onmouseover="showloginlist()" onmouseout="outMenuDiv(this, event)" style="display:none">
+<ul><li><a href="/author,1," target="_blank" id="mymsg">我的帖子</a></li><li><a href="/jiangu" target="_blank">我的荐股</a></li></ul>
+</div>
+
+<script>
+	setValue('1','745','0','98387955','080926010087617600','/article/getMsgReply.jspa?msgid=98387955&itemid=0&forumid=745&cid=1&status=0&count=$totalCount');
+	showLogin('thread');
+</script>
+		<div class="Bbs_Thread fun button1">
+			<span class="fl">
+			<!-- a href="javascript:void(0);" onclick="goToReplyDiv('replyDiv')" class="reply" target="_top">回复</a -->
+			<a href="#" onclick="return newthread('/article/sendPreStock.jsp');" class="reply">荐股</a>
+			<a href="#" onclick="return newthread('/article/sendMsgMain.jsp?cid=1&forumid=745&itemid=0');" class="pub">发新帖</a>
+			<a href="javascript:void(0);" onclick="javascript:window.location.reload();" class="break">刷新</a>
+			<a href="/doldmsg/1_98387955.html" class="acol" target="_blank">以旧版方式浏览</a>
+			<a href="http://www.m.jrj.com.cn" class="acol" target="_blank" style="background:url(http://i0.jrjimg.cn/bbsnew/img/phone.gif) no-repeat;padding:5px 0 0 25px;margin:0 0 0 10px">手机上论坛</a>
+			</span>
+			<span class="fr" id="adReplySpan">
+				<!--	<a href="#">预留广告位预留广告位</a>-->
+			</span>
+		</div>
+
+		<div class="Bbs_Thread lcd zhengwen" id="topIndex">
+			<div class="ltit">
+				<h1><i class="w_ico2">&nbsp;</i><b>『原创』主题： 6.12炒股必看的政策个股信息</b></h1>
+				<span>
+					<a class="jbtext" id="jubao" onclick="javascript:$('.fcfcnew').show();">举报</a>
+					<a href="javascript:void(0);" onclick="javascript:addFav();">收藏本页</a><!-- a href="javascript:void(0)" onclick="doFavorite('98387955','0','745','1')">收藏</a--> 
+				</span>
+			</div>
+			<div class="author">
+			<!-- a href="http://i.jrj.com.cn/app/trace/traceforum.jspa?user=080926010087617600" target=_blank -->
+			<a href="/author,1,绿荫梧桐" target=_blank>
+						<img src="http://i5.jrjimg.cn/201101/26/hp/hp_12960422399941_xs.jpg" alt="" />
+						</a>
+			<p class="name"><b><a href="/author,1,绿荫梧桐" name="users" id="1-080926010087617600" onmouseover="showUserinfo('080926010087617600','topIndex','1','25','745')" target="_blank" ref="080926010087617600">绿荫梧桐</a><a target="_blank" href="/msg,66497993.html" title="实名认证用户"><span class="fsp4"></span></a></b><!--a href="#">查看他的牛股池</a--><a href="/author,1,绿荫梧桐" id="track1-080926010087617600" target="_blank">查看TA的论坛文集</a>&nbsp;&nbsp;<a href="/jiangu,绿荫梧桐" target="_blank">查看TA的荐股记录</a><span class="fr">发表日期：2015-06-12 08:51:02</span></p>
+			<p>头衔：社区男爵<em id="jifen">积分：213741</em>
+			<a href="#" id="attentionBut" onclick="checkLogin('080926010087617600','绿荫梧桐',1);">关注</a><a href="#" id="frientBut" onclick="checkLogin('080926010087617600','绿荫梧桐',2);">加为好友</a>
+			<span class="fr">
+			<a href="#" name="admin" id="admin-98387955" onmouseover='getOperation("98387955",1,1,0,0)' style="display:none">管理</a>
+			<a href="javascript:void(0)" target="_top" onclick="return quoto('绿荫梧桐','msgMainContent','2015-06-12 08:51:02');">引用</a>
+			<span class="pingfen">
+			<a href="javascript:void(0)" onclick='msgScoreShow("98387955","0","1")'>评分</a>
+			<span class="pop" style="display:none"><strong id="pingfenClose" title="关闭"></strong>点击这里可对本文评分<em></em></span>
+			</span>
+			<script type="text/javascript">
+			$(function() {
+				var pingfenVal = getCookie('threadMsgMain_pingfen');
+				if(pingfenVal != null && pingfenVal != ''){
+					$(".pop").css('display','none');
+				}else {
+					$(".pop").css('display','inline');
+				}
+				$("#pingfenClose").click(function(){
+					addCookie('threadMsgMain_pingfen',1,241000);
+					$(".pop").css('display','none');
+				});
+			});
+			</script>  
+			<a href="#" onclick='return onlyViewUserThread("98387955","1","080926010087617600")'>只看该作者</a>			<ul class='admin' id='only98387955' style="display:none"></ul>
+			</span></p>
+			</div>
+			<!--帖子内容-->
+			
+			<div id="msgcoin_98387955" class="pf_result"> </div>
+			
+			<div class="content" id="msgMainContent">
+				&nbsp;&nbsp;&nbsp;&nbsp;【海外】美国股市道指上涨0.22%。纽约黄金期货下跌6.20美元，跌幅0.5%，报每盎司1180.40美元。纽约原油期货下跌66美分或1.1%，收于每桶60.77美元。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;周五早盘日本股市上涨0.2%；周五早盘韩国股市上涨0.6%；周五早盘澳大利亚股市下跌0.2%；<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;希腊股市大涨8.2% 周四欧股上涨0.7%；希腊与IMF分歧巨大债务谈判不欢而散；中国香港恒生指数周四(6月11日)收盘上涨0.83%，报26,908点；主板成交金额1,243亿港元；<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;末日博士鲁比尼：金融市场面临流动性定时炸弹；日本股市日经225指数周四收盘上涨1.68%，报20383点。澳大利亚股市周四上涨1.4%。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;韩国央行6月11日宣布降息25个基点至纪录低点1.50%。在此次降息之前，韩国央行曾在3月份意外降息，然后于4、5月份按兵不动。韩联社分析认为，韩国央行决定降息是因为最近韩国经济复苏势头疲软，中东呼吸综合征（MERS）疫情给经济带来的冲击比预期更大而引发经济下行担忧。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;新西兰降息25个基点，四年来首次。6月11日，新西兰联储公布利率决议，降息25个基点，意外将基准利率下调至3.25%。这是该行2011年以来首次降息。新西兰四年来首次降息，纽元盘中闻讯暴跌150余点，跌幅超2%。面对中国经济增速大幅放缓和本国头号出口产品乳制品价格下跌，新西兰联储四年多以来首次降息，纽元重挫至五年以来的最低水平。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;中国概念股周四收盘普涨 创梦天地涨19%；中概股密集私有化：向着牛市奔跑；<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;特斯拉公布超级充电建设规划；沙特石油官员：已准备好增产；波音上调未来20年飞机需求预期至3.8万架；<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;阿里巴巴收购国内安全公司翰海源；泰国驻华大使：中泰双轨铁路项目将于年底奠基；韩国经济因MERS疫情遭受重创 旅游业首当其冲。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;【国内】总理李克强：以&ldquo;零容忍&rdquo;的举措惩治食品安全违法犯罪。全国食品安全宣传周也将召开。食品安全政策将密集出台切实加强食品安全监管；<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;浦东国资国企改革&ldquo;18条&rdquo;浦东金桥外高桥复牌。浦东国资国企改革&ldquo;18条&rdquo;正式发布，首批直属公司改革方案出炉。陆家嘴、上工申贝、浦东建设等有望受关注。另悉，外高桥集团纳入外高桥股份整体上市；南发集团划入浦发集团；海洋高新公司并入港城集团、南汇工业园区公司将并入金桥集团。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;经济弱增长货币政策仍有放松空间；央行：人民币资本项目可兑换并不遥远，考虑推出合格境内个人投资者(QDII2)境外投资试点。李小加：考虑灵活计算沪港通额度；央行：完善沪港通推出深港通 考虑推出QDII2；<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;《中国保监会关于保险公司发行优先股有关事项的通知》将于近期正式发布。九银行15日起发行首批大额存单利率高于定存；多家银行酝酿混改拆分业务成新看点；&ldquo;刷脸时代&rdquo;牵出人脸识别千亿市场；外媒：建行计划发行300亿元人民币1年期大额存单；<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;预计国务院6月份出台银行业混改政策；5月份信贷弹升至9008亿元何时再降息降准需观察；中小板公司中期业绩增幅料创近5年新高；外资加码A股成市场热点，海外投资机构已经加快在A股布局，新增资金正在流向A股市场。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;前5月全国商品房销售额去年以来首次正增长；下半年资本市场可期待的十大政策红利；<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;第八批新股预计冻资超6万亿 机构建议优选小盘股；年内第八批新股将于下周起发行，发行家数创去年IPO再启以来的最高水平。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;中国制造2025配套政策将出 2015年投资主题；电动车扶持政策望加码 充电桩千亿盛宴启幕；中国首发石墨烯可作为太空动力来源相关概念股腾飞在即；政府重拳整治食品安全 监管政策有望密集出台；多家能源央企发力大数据两桶油开启&ldquo;互联网+油气&rdquo;时代；下半年资本市场可期待的十大政策红利；<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;中澳自贸协定将于近日正式签署；医药十三五规划正在制定 重点突破生物医药等领域；商品房销售额15月来首现正增长产业链复苏可期；油品升级步伐加速 产业链公司满产望受益；<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;宏达新材重组内幕信息疑提前泄露；在宏达新材正式公告与分众传媒洽谈借壳重组前数月，宏达新材被分众传媒借壳的消息便被市场获知并有媒体对此进行了报道，而有关报道中披露出的重组方案与分众传媒资产的估值与此次宏达新材公告基本一致。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;航天机电拟募资27亿元投建光伏项目；立案调查逼停股价引擎 金亚科技撤回重组申请；小米乐视内容大战升温贾跃亭回应小米不懂生态；银联高冷回应借壳御银股份传闻：假的。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;【个股信息：利好】<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;实施高送转: 立讯精密002475(10转增5股派0.8元(含税) 股权登记日6月18日)，世纪华通002602(10转增10股派1元 股权登记日6月17日)，特锐德300001(10转增12股派1元股权登记日6月17日)，吉艾科技300309(10转增10股派1.09元(含税) 股权登记日6月18日)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;实施送转: 斯太尔000760(10转增4股 股权登记日6月17日)，生 意 宝002095(10送1转增1股派0.5元(含税) 股权登记日6月18日)，爱建股份600643(10转增3股 股权登记日6月17日)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;业绩增幅较大: 天目药业600671(2014年净利271.34万 较大增长28.69%)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;中标: 西陇化工002584(2015年中石化3903类化学试剂采购中标)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;实施低派现: 深振业Ａ000006(10派1.18元（含税） 股权登记日6月18日)，深科技000021(10股派0.5元 股权登记日6月17日)，建投能源000600(10股派2.5元 股权登记日6月18日)，阳 光城000671(10股派1.6元 股权登记日6月17日)，双环科技000707(10股派0.1元 股权登记日6月18日)，大冶特钢000708(10股派2元 股权登记日6月18日)，长江证券000783(10股派1.5元股权登记日6月17日)，乐通股份002319(10股派0.1元 股权登记日6月18日)，兴民钢圈002355(10派0.1元（含税）股权登记日6月18日)，齐峰新材002521(10股派3元股权登记日6月17日)，完美环球002624(10派0.4元（含税）股权登记日6月17日)，金轮股份002722(10派0.6元（含税）股权登记日6月18日)，中矿资源002738(10派1.5元(含税)股权登记日为6月18日)，机器人300024(10股派0.5元 股权登记日6月17日)，金通灵300091(10股派0.1元 股权登记日6月18日)，元力股份300174(10派0.5元(含税)股权登记日6月17日)，大华农300186(10股派2.975237元 股权登记日6月17日)，武钢股份600005(10派0.5元(含税) 股权登记日6月18日)，冠城大通600067(10派2元(含税)股权登记日6月17日)，金发科技600143(10派1元 股权登记日6月18日)，S佳通600182(10派0.6元(含税) 股权登记日6月18日)，海正药业600267(10派1.1元股权登记日6月17日)，华泰股份600308(10股派 0.16元 股权登记日6月18日)，城投控股600649(10派2元(含税) 股权登记日6月18日)，珠江实业600684(10派0.8元(含税)股权登记日6月18日)，西藏城投600773(10派0.1元（含税）股权登记日6月18日)，东方集团600811(10股派0.3元 股权登记日6月17日)，香溢融通600830(10派0.8元(含税)股权登记日6月17日)，岳阳林纸600963(10派0.04元(含税) 股权登记日6月18日)，四创电子600990(10派0.5元(含税) 股权登记日6月17日)，吉视传媒601929(10派0.5元（含税）股权登记日6月17日)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;签署合作协议:海虹控股000503(签署湛江基本医疗保险支付审核服务委托协议)，拓邦股份002139(子公司与佳华利道签署了电池采购协议)，彩虹精化002256(与华为拟开展多领域合作)，信邦制药002390(子公司卓大医药与遵医附院签订药品耗材集中配送合作框架)，捷顺科技002609(与建亿通数据处理签署战略合作协议)，银江股份300020(与珲春市政府就智慧珲春项目达成合作共识)，隆华节能300263(子公司中电加美签订环保PPP项目协议)，兴发集团600141(与金鹰能源签署合作框架协议)，和邦股份603077(与农业银行就现代农业电子商务项目达成合作协议)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;对外提供资助: *ST天化000912，天业通联002459，首创股份600008，熊猫金控600599。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;授予登记完成: 美的集团000333，三湘股份000863，润邦股份002483，克明面业002661。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;重要高管变更: *ST凤凰000520(选举王涛为董事长)，同仁堂600085(选举高振坤担任董事长)，营口港600317(法定代表人变更为李和忠)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;实施高派现: 五 粮 液000858(10派6元 股权登记日6月18日)，方大特钢600507(10派8元(含税) 股权登记日6月18日)，海螺水泥600585(10派6.5元（含税）股权登记日6月18日)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;经营数据温和增长: 深赤湾Ａ000022(5月货物吞吐551万吨 同增7.4%)，中远航运600428(5月运量123万吨 同增25.5%)，中国平安601318(1-5月保费1828亿 同比增18%)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;实施派现: 华帝股份002035(10股派4元 股权登记日6月17日)，江山股份600389(10派3.1元(含税) 股权登记日 6月18日)，厦门空港600897(10股派 4.7元 股权登记日6月18日)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;融资租赁: 双环科技000707，中泰化学002092。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;行权情况公告: 濮耐股份002225，初灵信息300250。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;获得财政奖励: 精诚铜业002171(收到土地使用税奖励款1084.31万元)，多氟多002407(获得2014年第二批重大科技专项项目经费预算300万元)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;申请贷款: 永太科技002326，西藏天路600326。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;获得资格认证: 益盛药业002566(取得全国工业产品生产许可证)，天银机电300342(公司实验室获得了CNAS认可资格)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;实际控制人变更: 深圳惠程002168。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;股权划拨获批: 宜昌交运002627。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;聘任重要高管: 汇源通信000586(选举徐小文为董事长)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;员工持股计划完成: 万达信息300168。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;产品获得认证: 华神集团000790(制药厂通过新版GMP认证)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;采矿权延续: 横店东磁002056(子公司会理县通安镇叉子硐铜铁矿探矿权证延续获批)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;取得知识产权: 翰宇药业300199(取得一种多肽的制备方法发明专利)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;【个股信息：利空】<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;股东减持: 湖南发展000722(股东湘投控股减持1.31%股份)，金宇车城000803(股东南充市财政局减持3.16%股份)，嘉凯城000918(股东国大集团减持2294.23万股)，南 京港002040(控股股东南京港减持239.45万股)，北斗星通002151(控股股东周儒欣累计减持1%股份)，深圳惠程002168(股东吕晓义减持1500万股)，联化科技002250(股东牟金香累计减持2458万股)，壹桥海参002447(控股股东刘德群减持1500万股)，台基股份300046(控股股东新仪元半导体减持170万股)，万讯自控300112(股东尊威贸易累计减持1.21%股份)，天泽信息300209(股东陈进减持1.98%股份)，新天科技300259(两控股股东合计减持2.02%股份)，戴维医疗300314(控股股东陈云勤减持1.04%股份)，东方通300379(股东涌金实业累计减持逾1%股份)，南方航空600029(控股股东累计减持公司1.69亿股)，大唐电信600198(控股股东电信科学技术研究院累计减持1748万股)，东阳光科600673(股东深圳东阳光及其下属子公司合计减持3%股份)，鲁银投资600784(控股股东莱钢集团累计减持2.26%股份)，九牧王601566(控股股东九牧王投资累计减持2%股份)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;副总离职: 粤 水 电002060(副总经理翟洪波辞职)，大金重工002487(副总经理、董事会秘书唐风华辞职)，白云机场600004(副总经理王利群辞职)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;减持计划: 嘉凯城000918(股东国大集团拟半年内减持5%股份)，中颖电子300327(控股股东拟减持不超1200万股)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;董事离职: 西部牧业300106(独立董事张彦波辞职)，白云机场600004(独立董事梁庆寅辞职)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;高管违规买卖股票: 宁波东力002164。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;贷款逾期: *ST舜船002608。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;业绩预告下调: 海思科002653(业绩预计下调至-10%~5%)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;高管卖出: 科陆电子002121(监事马明芳减持1800股)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;总经理离职: 拓维信息002261(董事长李新宇及总经理宋鹰离职)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;核心技术人员离职: 五矿稀土000831(总工程师廖春生辞职)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;【个股信息：中性】股权激励计划调整: 三湘股份000863，润邦股份002483，岭南园林002717，初灵信息300250。 股东权益变动:天喻信息300205，长方照明300301，恒生电子600570，新华医疗600587。 监事变更: 江钻股份000852，五 粮液000858(选举吴国平出任职工代表监事)，*ST天化000912，雅本化学300261(选举刘植慧为职工代表监事)。 股权激励注销: 实 益 达002137，濮耐股份002225，卓翼科技002369。聘任高管: 永大集团002622(聘任黄佳慧为副总经理)，航天机电600151(提名金琪担任副总)，丹化科技600844(聘任成国俊为董秘)。 经营活动公告:康恩贝600572，海通证券600837(净资本变动)。 高管变更: *ST天化000912，龙溪股份600592。 股份变动通告: 科力远600478，西南药业600666。 股权转让进展:中兴商业000715(停牌：控股股东中兴集团拟转让公司8356.23股股份)，奥康国际603001。 董事变更:拓维信息002261(选举张忠革为第五届董事会董事长、总经理)，新大新材300080(选举宋中学为董事会候补董事)。 业绩报告补充公告: 天目药业600671。 高管离职:昆百大Ａ000560(副总裁苏涛辞职)。 股权激励补充说明: 岭南园林002717。&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;【限售解禁】限售解禁公告提示日:奥飞动漫002292(限售解禁593.24万股6月16日上市)，众生药业002317(限售解禁248.64万股6月15日上市)，华平股份300074(限售解禁3468.58万股6月15日上市)，南方泵业300145(限售解禁53.78万股6月15日上市)，凯利泰300326(限售解禁8709.3万股6月15日上市)，罗顿发展600209(限售解禁4305万股6月19日上市)。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;
+								
+							</div>
+			<div class="content">
+							
+			<div style="height:10px">&nbsp;</div>
+						</div>
+			
+<div class="recommendLink">	<div class="recommendLink_tit">		<h3>推荐阅读</h3>		<div class="olinks">								</div>	</div>	<div class="recommendLink_con">		<div class="piclink" id="S2_R">			<div class="pic">				<a href="http://8.jrj.com.cn/nss/zt/subject/lowrisks.html?tgqdcode=4BUD6HJ8" target="_blank"><img src="http://img.jrjimg.cn/2015/12/20151204112603309.jpg" ></a>			</div>			<div class="txt">				<strong><a target="_blank" href="http://fund.jrj.com.cn/2015/11/05175320030920.shtml">基金1年赚123%</a></strong>			</div>		</div>		<div class="reclist">			<div class="reclist_tit">	<h4>  <a href="http://bbs.jrj.com.cn/msg,99192321.html">主力在下一盘很大的棋</a>  <a href="http://itougu.jrj.com.cn/view/71835.jspa?tgqdcode=P6EV4586">谨防大盘阴跌模式转暴跌</a></h4>	</div>					<div class="reclist_con">		<ul> <li><a  target="_blank" href="http://bbs.jrj.com.cn/msg,99192442.html">休整蓄势 择机低吸</a></li>                  <li><a href="http://bbs.jrj.com.cn/msg,99192394.html">短线转区间脉冲格局</a></li>     <li><a href="http://bbs.jrj.com.cn/msg,99192324.html">明天继续整荡整理</a></li>         <li><a href="http://bbs.jrj.com.cn/msg,99192353.html">春季行情随时爆发</a> </li>        <li><A href="http://itougu.jrj.com.cn/view/71814.jspa?tgqdcode=P6EV4586">明日继续防御为主</A></li> <li><a  target="_blank" href="http://bbs.jrj.com.cn/msg,99189610.html">震荡中再现春耕良机</a> </li> <li><a  target="_blank" href="http://bbs.jrj.com.cn/msg,99189930.html">把握节奏是赢利关键</a></li> <li><a href="http://bbs.jrj.com.cn/msg,99192515.html
+">明天是短线买进时间</a></li>				</ul>			</div>      </div>      <div class="clear"></div>    </div> <div class="data-collect">             		<iframe height="150" marginheight="0" src="http://gold.jrj.com.cn/iframe/zjgjs.html?co=bbs&aid=RWTG4_20130419&fid=bbs" frameborder="0" width="590" marginwidth="0" scrolling="no"></iframe>               </div></div><style type="text/css">    .data-collect{width:590px;height:151px;margin:10px auto  15px;position:relative;}		  .recommendLink {height:auto;width:647px;}		  .recommendLink .recommendLink_tit{width:647px;} 		  .recommendLink .recommendLink_con{width:590px;margin:0 auto}		  .recommendLink .recommendLink_con .reclist{width:422px;margin-left:15px;}		  .recommendLink .recommendLink_con .piclink{padding-left:0}		  .recommendLink .recommendLink_con .reclist .reclist_tit{width:422px}		  .recommendLink .recommendLink_con .reclist .reclist_con{width:422px;overflow:hidden;}		  .recommendLink .recommendLink_con .reclist .reclist_con ul{width:460px;}		  .recommendLink .recommendLink_con .reclist .reclist_con ul li{width:14em;}</style> 
+			<div class="mpll" style="width:625px;margin:0 auto;margin-top:38px;">
+			<span style="float:left;margin-right:5px;" class="digg1" onclick="doDingorCaiAction(0,98387955,1)">文章不错(<i>0</i>)</span>
+			<span style="float:left;" class="digg4" onclick="copyShareUrl()">复制链接</span>
+			<div style="float:left;" class="sharetos">
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+				<span class="bds_more">分享到：</span>
+				<a class="bds_qzone"></a>
+				<a class="bds_tsina"></a>
+				<a class="bds_tqq"></a>
+				<a class="bds_renren"></a>
+				<a class="bds_t163"></a>
+				<a class="shareCount"></a>
+				</div>
+				<span class="refreshs" style="float:left;line-height:25px;">&nbsp;&nbsp;帖子刷新<select id="autoRefreshConfSelect" name="autoRefreshConfSelect" onchange="javascript:refreshConfSet()" >
+					<option value="1" >1分钟</option>
+					<option value="2" >2分钟</option>
+					<option value="3" >3分钟</option>
+					<option value="5" >5分钟</option>
+					<option value="0" >不刷新</option>
+				</select></span>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=6470526" ></script>
+				<script type="text/javascript" id="bdshell_js"></script>
+				<script type="text/javascript">
+				document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+				</script>
+				<!-- Baidu Button END -->
+			</div>
+<script>
+	var inter_variable;
+	function refreshConfSet(){
+		var time = parseFloat($('#autoRefreshConfSelect').val());
+		var date = new Date();
+		date.setTime(date.getTime()+365*24*3600*1000);
+		document.cookie = 'Ref_Msg_Conf=' + time + ';expires=' + date.toGMTString();
+		clearInterval(inter_variable);
+		if(time != 0){
+			inter_variable = setInterval(function(){
+					window.location.href = window.location.href;
+				},time*60*1000);
+		}
+	}
+	function getDefaultRefreshTime(){
+		var cook = document.cookie;
+		var start = cook.indexOf('Ref_Msg_Conf');
+		var time = parseFloat('0');
+		if(start != -1){
+			start += 'Ref_Msg_Conf'.length + 1;
+			var end = cook.indexOf(';',start);
+			if(end == -1){
+				time = parseFloat(cook.substring(start));
+			}else{
+				time = parseFloat(cook.substring(start,end));
+			}
+		}
+		clearInterval(inter_variable);		
+		$('#autoRefreshConfSelect').val(time);
+		if(time != 0){
+			inter_variable = setInterval(function(){
+					window.location.href = window.location.href;
+				},time*60*1000);
+		}
+	}
+	
+	getDefaultRefreshTime();
+</script>
+			</div>
+			<br>
+		</div>
+<div class="floats" id="popdiv" style="display:none">
+<div class="float float1" id="favoriteDiv" style="display:none"> <a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>收藏帖子</span></strong></p>
+    <p class="right" id="favoriteAlert">已经成功收藏本帖！请到<a href="#">我的收藏</a>中查看所有收藏贴</p>
+    <p class="txr">窗口5秒自动关闭</p>
+</div>
+<div id="sharediv" class="float float1" style="display:none"> <a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>复制链接给好友</span></strong></p>
+    <p>本帖连接：<input id="shareurl" type="text" value="http://bbs.jrj.com.cn/msg,98387955.html" class="tex" readonly="readonly"/></p>
+    <p class="p1"><input type="button" value="复制并发送给我的好友" onclick="copyShareUrl()"/></p>
+    <p>分享到：<a href="javascript:void(0)" onclick="javascript:createShare()" class="ic1">我的金融界</a></p>
+</div>
+<div id="shareokdiv" class="float float1" style="display:none" ><a class="close" href="javascript:void(0)" onclick="hiddenPopDiv()">&nbsp;</a>
+    <p class="tt"><strong><span>复制链接给好友</span></strong></p>
+    <p id="sharemsg" class="right p2">帖子地址已经复制，您可以粘贴到QQ，MSN或者邮件发给好友了！每次点击你将获得一个威望。</p>
+    <p class="txr">窗口5秒自动关闭</p>
+</div>
+</div>
+
+		<!--楼主更多贴，论坛精粹-->
+		<div class="Bbs_Thread about">
+			<div class="lcd s1">
+			<p class="ltit">
+				<strong><a href="/author,1,绿荫梧桐" target="_blank">楼主更多贴</a></strong>
+				<ul class="ull" id="louzhumoremsg"></ul>	
+			</p>
+			</div>
+						<div class="lcd s2" style="margin-left:10px;">
+													   	<p class="ltit"><a href="/10993" target="_blank"><strong>荐股大赛</strong></a>
+			   					<div id="injection">
+								   <ul class="ull"><li><a href="/msg,99154925.html" target="_blank">推荐哈高科（600095） 目标价：16.60</a></li><li><a href="/msg,99154622.html" target="_blank">推荐四方股份（601126） 目标价：28.88</a></li><li><a href="/msg,99154611.html" target="_blank">推荐森源电气（002358） 目标价：36.66</a></li><li><a href="/msg,99154605.html" target="_blank">推荐金贵银业（002716） 目标价：25.25</a></li><li><a href="/msg,99154598.html" target="_blank">推荐兴森科技（002436） 目标价：46.65</a></li></ul>
+								</div>
+			   </p>
+			</div>
+						<div class="lcd s3" style="margin-left:10px;">
+				<p class="ltit"><a href="http://itougu.jrj.com.cn/live/index.html" target="_blank"><strong>实盘直播</strong></a></a>
+				<style type="text/css">
+.talkin  ul {
+	width:328px;
+    height:100px;
+    float: left;
+}
+
+.talkin  ul li {
+        width:328px;
+    height:100px;
+}
+
+.talkin {
+    height: 110px;
+    overflow: hidden;
+    padding: 0 10px;
+}
+
+.talkin div.fr {
+    width: 328px;
+    height:80px;
+    float: none;
+    line-height:20px;
+    display:block;
+}
+
+.talkin .s14 {
+    font-size: 14px;
+	padding-left:60px;
+}
+
+.talkin .blk {
+    color: #333333;
+}
+
+.talkin div.p3 {
+    color: #999999;
+    overflow: hidden;
+}
+
+.talkin div.p3 span.fl {
+    width:250px;
+    height:19px;
+    line-height:19px;
+}
+
+.talkin div.p3 span.fl span {
+    margin-left:40px;
+}
+
+.talkin div.p3 span.fl i {
+    font-style:normal;
+} 
+
+.talkin .fl {
+    display: inline;
+    float: left;
+}
+
+.talkin .bt {
+    background: url("http://i0.jrjimg.cn/bbsnew/img/tubg.gif") no-repeat scroll 0 -72px transparent;
+    color: #FFFFFF;
+    float: right;
+    height: 19px;
+    line-height: 19px;
+    margin: 0 0 0 20px;
+    text-align: center;
+    width: 57px;
+    display:block;
+}
+.about .s2 {
+    float: left;
+    height: 140px;
+    overflow: hidden;
+    width: 280px;
+}
+.about .s3 {
+    float: left;
+    height: 140px;
+    overflow: hidden;
+    width: 348px;
+}
+.talkin div.p3 a:hover {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+</style>
+<div id="talkroll" class="talkin">
+</div>
+<script type="text/javascript" src="http://js.jrj.com.cn/lib/ui/ScrollText-min.js"></script>
+<script language="javascript">
+var outvar;
+var rollflag = 0;
+var tarlkscroll1;
+function ajax_talkstock() {
+
+var now= new Date();
+var year=now.getFullYear();
+var month=now.getMonth()+1;
+var day=now.getDate();
+var hour=now.getHours();
+var minute=now.getMinutes();
+var second=now.getSeconds();
+
+var nowtime = year+"-"+month+"-"+day+" "+hour+":"+minute+":"+second;
+if (rollflag ==1){
+	tarlkscroll1.stop();
+	rollflag = 0;
+ }
+$.ajax(
+{
+ type: "get",//使用get方法访问后台
+ dataType: "json",//返回json格式的数据
+ url: "/board/boardTalkStock.jspa",//要访问的后台地址
+ data: "tmp="+new Date().getTime(),//要发送的数据
+ success: function(msg){
+ 	//msg为返回的数据，在这里做数据绑定
+ 	var html = '';
+ 	for(var i=0;i<msg.length;i++){
+	msg[i]["answer_content_short"] = msg[i]["answer_content_short"].replace(new RegExp("&nbsp;","gm")," ");
+       if(msg[i]["answer_content_short"].length>45){
+ 		//	msg[i]["answer_content_short"] = msg[i]["answer_content_short"].substr(0,55-msg[i]["username"].length)+"...";
+ 			msg[i]["answer_content_short"] = msg[i]["answer_content_short"].substr(0,55-msg[i]["sso_username"].length)+"...";
+ 		}
+ 		html += '<ul>';
+ 		html += '<li>';
+        html += '<div class="fr">';
+      //  html += '<a href="http://zhibo.jrj.com.cn/'+msg[i]["room_id"]+'" target="_blank"><img width="50" height="50" src="'+msg[i]["face"]+'"></a>';
+        html += '<a href="http://itougu.jrj.com.cn/live/'+msg[i]["room_id"]+'?tgqdcode=784R3EM7" target="_blank"><img width="50" height="50" src="'+msg[i]["headImage"]+'"></a>';
+     //   html += '<p class="s14"><a href="http://itougu.jrj.com.cn/live/'+msg[i]["room_id"]+'?tgqdcode=784R3EM7" target="_blank">'+msg[i]["username"]+'</a>:';
+		html += '<p class="s14"><a href="http://itougu.jrj.com.cn/live/'+msg[i]["room_id"]+'?tgqdcode=784R3EM7" target="_blank">'+msg[i]["sso_username"]+'</a>:';
+       
+        html += '<a href="http://itougu.jrj.com.cn/live/'+msg[i]["room_id"]+'?tgqdcode=784R3EM7" class="blk" target="_blank">'+msg[i]["answer_content_short"]+'</a></p>';
+        html += '</div>';
+        html += '<div class="p3"><span class="fl">更新时间:'+msg[i]["ctime"]+'<span>当前人气:<i class="red">'+msg[i]["uv_number"]+'</i></span></span><a href="http://itougu.jrj.com.cn/live/'+msg[i]["room_id"]+'?tgqdcode=784R3EM7" target="_blank" class="bt">进入直播</a></div>';
+        html += '</li></ul>';
+ 	}
+ 	html += html;
+ 	//html = '<ul>'+html+'</ul>';
+ 	$('#talkroll').html(html);
+ 	
+ 	if (rollflag==0){
+	 	var talkargs = {
+	   	 	speed:5,
+	   	 	timeOut:5000,
+	   	 	lineHeight:110,
+	   	  scrollObjId:"talkroll"
+	 	 }
+	   tarlkscroll1 = new JRJ.ui.ScrollText(talkargs);
+	   rollflag = 1;
+   }
+ 	
+ }});
+ 
+ 	if (outvar) clearTimeout(outvar);
+	outvar = setTimeout("ajax_talkstock()",30000); 
+}
+ajax_talkstock() ;
+</script>
+
+				</p>
+			</div>
+					</div>
+		
+		<!--zhibo
+		<div class="Bbs_Thread about" style="height:75px;margin:10px auto 9px;overflow: hidden;width: 953px;">
+			<iframe width="950" height="75" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.jrj.com.cn/s?z=jrj&c=472&op=1" ></iframe>
+		</div>-->
+		
+		<!--回帖信息列表-->
+				<div class="Bbs_Thread lcd tlyd">
+			<p class="ltit">
+				<strong>讨论园地</strong>
+				</p>
+			<p class="pn"><a href="/msg,98387955,1.html">首页</a><a href="#" class="next">&lt;&lt;上一页</a><a href="#" class="cur">1</a><a href="#" class="next">下一页&gt;&gt;</a><a href="/msg,98387955,1.html">末页</a></p>
+			<ul class="booklist" id="replyMsgList">
+													<li id="98388462">
+					<p class="tit">
+					<span class="fl">&nbsp;
+						<a name="#98388462" href="/article/getMsgMain.jspa?msgid=98387955&cid=1&pn=1#98388462">1楼</a>
+						<a href="/author,1,火热上线" class="auor" id="2-150424010027510749" name="users" onmouseover="showUserinfo('150424010027510749','98388462','1','d','745')" target="_blank" ref="150424010027510749">火热上线</a>
+						<a>2015-06-12 09:34:22</a>
+					</span>
+					<span class="fr">
+						<a href="#" name="admin" id="admin-98387955-98388462" onmouseover='getOperation("98388462",0,0,98387955,0)' style="display:none">管理</a>
+						<a href="javascript:void(0)" target="_top" onclick="return quoto('火热上线','content0','2015-06-12 09:34:22');">引用</a>
+						<a href="javascript:void(0)" onclick='msgScoreShow("98388462","98387955","1")'>评分</a>
+												<a href="#" onclick='return onlyViewUserThread("98387955","1","150424010027510749")'>只看该作者</a>
+												<ul class='admin' id='only98388462' style="display:none"><li><a href='javascript:void(0)' onclick='doDingorCaiAction(3,"98387955-98388462",1)'>删除</a></li></ul>
+</span></p>
+<div id="msgcoin_98388462" class="pf_result"></div>
+					<div class="fay" id="content0">
+						火热上线<img onload="imgsize(this)" onclick="imggo(this)" src="http://i5.jrjimg.cn/201506/12/bbs_attach_img/bbs_attach_img_14340728615781.gif" alt="">
+ 
+
+						
+												<br/>
+											</div>
+					</li>
+												</ul>
+		</div>
+				<div class="Bbs_Thread fun button2">
+			<span class="fl">
+				<!-- a href="javascript:void(0);" onclick="goToReplyDiv('replyDiv')" target="_top"  class="reply">回复</a -->
+				<a href="#" onclick="return newthread('/article/sendPreStock.jsp');" class="reply">荐股</a>
+				<a href="#" onclick="return newthread('/article/sendMsgMain.jsp?cid=1&forumid=745&itemid=0');" class="pub">发新帖</a>
+				<a href="javascript:window.location.reload();" class="break">刷新</a>
+				<a href="/doldmsg/1_98387955.html" class="acol" target="_blank">以旧版方式浏览</a> 
+		       	</span>
+			<p class="pn pn2"><a href="/msg,98387955,1.html">首页</a><a href="#" class="next">&lt;&lt;上一页</a><a href="#" class="cur">1</a><a href="#" class="next">下一页&gt;&gt;</a><a href="/msg,98387955,1.html">末页</a>共1页&nbsp;到<input id="gopage2" type="text" size=2>页<input type="button" value="提交" onclick="javascript:goPage(2);"></p>
+		</div>
+		<div class="Bbs_Thread blue2">
+		<p class="abor">
+				<a href="/">返回论坛首页</a><a href="/745" id="_backTOfirst">返回本版首页</a>
+			</p>
+			<p id="previous">
+				<b>论坛上一帖：</b><a href="javascript:void(0)" id="previousthread" target="_blank">&nbsp;&nbsp;</a>
+			</p>
+			<p id="next">
+				<b>论坛下一帖：</b><a href="javascript:void(0)" id="nextthread" target="_blank">&nbsp;&nbsp;</a>
+			</p>
+		</div>
+
+		<div class="Bbs_Thread lcd tjian" id="S1_R">
+			<p class="ltit"><strong>近期热门话题推荐</strong></p>
+				
+				<ul><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95188719.html"><img src="http://i5.jrjimg.cn/201404/29/bbs_attach_img/bbs_attach_img_13987437656041.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95188719.html">政府关系最硬的民营企业</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95115050.html"><img src="http://i5.jrjimg.cn/201404/24/bbs_attach_img/bbs_attach_img_13983079197391.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95115050.html">盘点年入几十万的小生意</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,95007640.html"><img src="http://i5.jrjimg.cn/201404/16/bbs_attach_img/bbs_attach_img_13976176535951.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,95007640.html">中国社会七大灰色产业链</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,94971037.html"><img src="http://i5.jrjimg.cn/201404/14/bbs_attach_img/bbs_attach_img_13974442464991.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,94971037.html">中国九大最好赚钱的产业</a></p></li><li><a target="_blank" href="http://bbs.jrj.com.cn/msg,94922538.html"><img src="http://i5.jrjimg.cn/201404/10/bbs_attach_img/bbs_attach_img_13971002679111.jpg" class="imgb" width="150" height="100" alt="" /></a><p><a target="_blank" href="http://bbs.jrj.com.cn/msg,94922538.html">中国人变穷的四大真相</a></p></li></ul><ul class="ull"><li><a target="_blank" href="http://bbs.jrj.com.cn/picshow">更多劲爆图片</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbmsg">论坛热帖</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbzqt">精准高手</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/tag">热门股票</a></li><li><a target="_blank" href="http://bbs.jrj.com.cn/phbps_5">人气高手</a></li></ul>
+		</div>
+
+		<div class="Bbs_Thread cc">
+			<div id="ReplyIframeDiv" class="fl" >
+			<iframe id="replyPostDetal" name="replyPostDetal" width="100%" height="368px;" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes" src="/article/getMsgReply.jspa?msgid=98387955&itemid=0&forumid=745&cid=1&status=0&count=$totalCount"> 
+			</iframe>
+			<script type="text/javascript">
+				var attachNum=0;
+				var delIndex=null;
+				var sourcetext = "";
+				 
+				 function insertAttach(fileName,fileUrl){
+				 	 attachNum++;
+				 	 
+				 	var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+				 	 var atts = editdoc.getElementById("fileAttach");
+				 	 
+				 	 if (attachNum==1){
+				 	 	sourcetext = atts.innerHTML;
+				 	 }
+				 	 
+				 	 atts.innerHTML += '<li id="attach_'+attachNum+'">附件：<a href="'+fileUrl+'"><img src="http://js.jrj.com.cn/bbsnew/fckeditor/editor/skins/default/toolbar/uploadfile.gif" width="15px" height="15px"></img>'
+				 	   +'&nbsp;'+fileName+'</a>&nbsp;&nbsp;<a href="javascript:void(0)" name="delete" onclick="parent.delAttach('+attachNum+')">删除附件</a>&nbsp;&nbsp;&nbsp;&nbsp;售价（铜板）：<input name="filecoin_'+attachNum+'" id="filecoin_'+attachNum+'" type="text" style="width:30px" /> 最高1000</li>';
+				 	 atts.innerHTML = atts.innerHTML.replace(sourcetext,"") + sourcetext;
+				 	   
+				 	   var sAnnex = editdoc.getElementById("annxe");
+				 	   if(!sAnnex){
+					 	   var form1 = editdoc.getElementById("form1");
+							var textHidden = editdoc.createElement("input");
+							textHidden.type = "hidden";
+							textHidden.name ="annxe";
+							textHidden.id = "annxe";
+							textHidden.value = "";
+							form1.appendChild(textHidden);
+							sAnnex = textHidden;
+					   }
+				 	  var value = sAnnex.value;
+				 	  if(value!="") {
+							value += "|";
+					  }
+				 	  value += attachNum+","+fileUrl+","+ fileName + "," + "http://js.jrj.com.cn/bbsnew/fckeditor/editor/skins/default/toolbar/uploadfile.gif";
+				 	  sAnnex.value = value;
+				 	  
+						var pTar = document.getElementById("replyPostDetal");
+					    if (pTar.contentDocument && pTar.contentDocument.body.offsetHeight){  
+					      pTar.height = pTar.contentDocument.body.offsetHeight;   
+					    }else if (pTar.Document && pTar.Document.body.scrollHeight){  
+					      pTar.height = pTar.Document.body.scrollHeight;
+					    }
+				 }
+				 function delAttach(index){           
+         			 delIndex=index;
+         			 var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+         			 var sAnnex = editdoc.getElementById("annxe");
+         			 if(sAnnex) {
+						var sValue = sAnnex.value;
+						var iIndex = sValue.indexOf("|"+index);
+						if (index==1) iIndex = 0;
+						var iEndIndex = sValue.indexOf("|",iIndex+1);
+						if(iEndIndex==-1) {
+							iEndIndex = sValue.length;
+							}
+						var firstStr = sValue.substring(0,iIndex);
+						var endStr = sValue.substring(iEndIndex+1);
+						if (index!=1){
+							sAnnex.value = firstStr +"|"+ endStr;
+						}else{
+							sAnnex.value = firstStr + endStr;
+						}
+						
+						var pTar = document.getElementById("replyPostDetal");
+					    if (pTar.contentDocument && pTar.contentDocument.body.offsetHeight){  
+					      pTar.height = pTar.contentDocument.body.offsetHeight;   
+					    }else if (pTar.Document && pTar.Document.body.scrollHeight){  
+					      pTar.height = pTar.Document.body.scrollHeight;  
+					    }
+             		 }
+         			 delCallBack();
+				 }
+				 function delCallBack(){
+					 var editdoc = document.getElementById("replyPostDetal").contentWindow.document;
+				   	var atts = editdoc.getElementById("fileAttach");
+				 	 var att = editdoc.getElementById("attach_"+delIndex);
+				 	 atts.removeChild(att);
+				 }
+				 function goPage(pagename){
+				 	var gopage = document.getElementById("gopage"+pagename).value;
+				 	if(gopage!=null && gopage!=""){
+        				var r,re;
+        				re = /\d*/i;
+        				r = gopage.match(re);
+        				if (r!=gopage){
+        					alert("请输入数字页码");
+        					return;
+        				}
+    				}else{
+    					alert("请输入数字页码");
+    					return;
+    				}
+    				//window.location.href= "/dmsg/1_98387955_"+gopage+".html";
+				 	window.location.href= "/msg,98387955,"+gopage+".html";
+				 }
+				</script>
+			</div>
+	<div class="fr">
+				<ul class="ltit">
+			<li class="hover" id="jh2" onmouseover="setTab('jh',2,2)"  onclick="window.open('/phbps');"><strong>荐股牛人榜</strong></li>
+			<li id="jh1" onmouseover="setTab('jh',1,2)" onclick="window.open('/gupiao_celite');"><strong>最新精华帖</strong></li>
+		</ul>
+		<ul class="ull" id="con_jh_1" style="display:none">
+		<li><img src="http://i0.jrjimg.cn/myjrj/loading2.gif"/></li>
+		</ul>
+		<div id="con_jh_2" style="height:339px">
+			<table class="jghtab" id="niuren">
+			<tr><th width="32"><span>排名</span></th><th width="60"><span>ID</span></th><th width="83"><span>荐股段位</span></th><th width="55"><span>推荐股</span></th></tr>
+			<tr><td></td><td class="tl"><a target="_blank" href="/jiangu,小心买坚决卖">小心买坚</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,小心买坚决卖" style="color:#000000;">14160.32%</a></span></td><td><a href="/stock,1,601218" target="_blank">吉鑫科技</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,年前的今天">年前的今</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,年前的今天" style="color:#000000;">21800.65%</a></span></td><td><a href="/stock,1,000026" target="_blank">飞亚达Ａ</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,meiriwanbao">meiriwan</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,meiriwanbao" style="color:#000000;">8622.90%</a></span></td><td><a href="/stock,1,600981" target="_blank">汇鸿集团</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,baibuchuayan">baibuchu</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,baibuchuayan" style="color:#000000;">56588.00%</a></span></td><td><a href="/stock,1,601126" target="_blank">四方股份</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,牛股王子">牛股王子</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,牛股王子" style="color:#000000;">14128.26%</a></span></td><td><a href="/stock,1,002298" target="_blank">鑫龙电器</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,10天">10天</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,10天" style="color:#000000;">23077.19%</a></span></td><td><a href="/stock,1,600550" target="_blank">保变电气</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,风漂">风漂</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,风漂" style="color:#000000;">5801.41%</a></span></td><td><a href="/stock,1,002745" target="_blank">木林森</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,经济规律">经济规律</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,经济规律" style="color:#000000;">8007.60%</a></span></td><td><a href="/stock,1,600961" target="_blank">株冶集团</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,股农168">股农168</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,股农168" style="color:#000000;">6173.18%</a></span></td><td><a href="/stock,1,002263" target="_blank">大 东 南</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,红旗插上三千点">红旗插上</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,红旗插上三千点" style="color:#000000;">73466.47%</a></span></td><td><a href="/stock,1,600784" target="_blank">鲁银投资</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,dong12301230">dong1230</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,dong12301230" style="color:#000000;">9353.04%</a></span></td><td><a href="/stock,1,002324" target="_blank">普利特</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,审时夺势">审时夺势</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,审时夺势" style="color:#000000;">9426.90%</a></span></td><td><a href="/stock,1,002263" target="_blank">大 东 南</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,xiaoluokuang">xiaoluok</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,xiaoluokuang" style="color:#000000;">4857.38%</a></span></td><td><a href="/stock,1,600959" target="_blank">江苏有线</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,为股走天下">为股走天</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,为股走天下" style="color:#000000;">4135.70%</a></span></td><td><a href="/stock,1,600000" target="_blank">浦发银行</a></td></tr><tr><td></td><td class="tl"><a target="_blank" href="/jiangu,六月331">六月331</a></td><td><span><a class="m3" title="荐股9段" href="/help/gaoshou.html" target="_blank">&nbsp;</a><a target="_blank" href="/jiangu,六月331" style="color:#000000;">8945.15%</a></span></td><td><a href="/stock,1,300187" target="_blank">永清环保</a></td></tr>
+			</table>
+			<!--
+			<div class="coExtension">
+    <p class="tit">
+    <strong>合作推广</strong>
+    </p>
+    <ul class="jrj-list">
+        <li><a href="http://pic.jrj.com.cn/keji/8989.html">揭秘仿真人皮制作全过程</a></li>
+        <li><a href="http://pic.jrj.com.cn/keji/3476.html">中外互联网大佬们的青葱照</a></li>
+        <li><a href="http://pic.jrj.com.cn/junshi/8201.html">韩国阅兵和中国对比不堪入目</a></li>
+        <li><a href="http://pic.jrj.com.cn/tiyu/4241.html">体坛的长腿漂亮美女们</a></li>
+    </ul>
+</div>
+			<center><a href="/msg,70253827.html" target="_blank"><img src="http://i0.jrjimg.cn/bbsnew/img/joinniuren.gif"/></a></center>
+			-->
+		</div>		
+			</div>
+		</div>
+		
+			  	<div class="Bbs_Thread lcd jgtop">
+			<p class="ltit"><strong>荐股人气榜</strong></p>
+			<p class="jgmore"><a href="/msg,71265953.html" target="_blank"><strong>我要上榜</strong></a> | <a href="/phbps_5" target="_blank">更多>></a></p>
+				
+			<div class="jgtop_list">
+				<p><a href="/jiangu,小心买坚决卖" target="_blank"><img src="http://i5.jrjimg.cn//200908/27/hp/hp_12513818310261_m.JPG" width="120" height="120" /></a><span><a href="/jiangu,小心买坚决卖" target="_blank">小心买坚决卖</a> <a style="display:inline-block;width:18px;height:18px;background:url(http://i0.jrjimg.cn/bbsnew/img/fsp_4.png) no-repeat;position:relative;*top:-3px;_top:-1px;_margin-top:6px; overflow:hidden; text-indent:-9999px;background-position:0 3px;" title="荐股13段" href="/help/gaoshou.html" target="_blank">&nbsp;</a></span><br />荐股大赛排名：1<br/>总收益率：14160.32%<br />平均收益率：30.00%<br />推荐次数：472<br />成功次数：456<br />今日访问量：198<br /><span class="top1"></span></p><p><a href="/jiangu,牛股王子" target="_blank"><img src="http://i5.jrjimg.cn//sys/default_m.jpg" width="120" height="120" /></a><span><a href="/jiangu,牛股王子" target="_blank">牛股王子</a> <a style="display:inline-block;width:18px;height:18px;background:url(http://i0.jrjimg.cn/bbsnew/img/fsp_3.png) no-repeat;position:relative;*top:-3px;_top:-1px;_margin-top:6px; overflow:hidden; text-indent:-9999px;background-position:0 3px;" title="荐股12段" href="/help/gaoshou.html" target="_blank">&nbsp;</a></span><br />荐股大赛排名：5<br/>总收益率：14128.26%<br />平均收益率：27.28%<br />推荐次数：518<br />成功次数：481<br />今日访问量：120<br /><span class="top2"></span></p><p><a href="/jiangu,年前的今天" target="_blank"><img src="http://i5.jrjimg.cn//sys/female/default_m.jpg" width="120" height="120" /></a><span><a href="/jiangu,年前的今天" target="_blank">年前的今天</a> <a style="display:inline-block;width:18px;height:18px;background:url(http://i0.jrjimg.cn/bbsnew/img/fsp_4.png) no-repeat;position:relative;*top:-3px;_top:-1px;_margin-top:6px; overflow:hidden; text-indent:-9999px;background-position:0 3px;" title="荐股13段" href="/help/gaoshou.html" target="_blank">&nbsp;</a></span><br />荐股大赛排名：2<br/>总收益率：21800.65%<br />平均收益率：29.95%<br />推荐次数：728<br />成功次数：701<br />今日访问量：108<br /><span class="top3"></span></p>
+			</div>
+		</div>
+				
+		<div class="Bbs_Thread bdnav fw2">
+			<select class="fr" name="history" onchange="windowOPENTO(this)">
+				<option>
+
+					最近访问版区
+				</option>
+			</select>
+		<a href="http://www.jrj.com.cn">金融界</a><i>&gt;</i><a href="/gupiao">股票论坛</a><i>&gt;</i><a href="/745">绿荫看盘</a>		</div>
+
+<!-- 回到顶部&刷新 start 
+<div class="helpbutton" id="helpbutton" style="display:none">
+  <div class="gotop"><a href="javascript:void(0);" alt="回到顶部" onclick="javascript:window.scrollTo(0,0);">回到顶部</a></div>
+  <div class="refresh"><a href="javascript:void(0);" alt="刷新" onclick="javascript:window.location.reload();">刷新</a></div>
+</div>-->
+<!--
+<div class="fhbox" id="helpbutton"><a href="javascript:void(0);" class="fh01" alt="回到顶部" onclick="javascript:window.scrollTo(0,0);"></a><a href="http://survey.jrj.com.cn/channel/pub/q1832m2w0h0.html" class="fh02" target="_blank"></a></div>
+-->
+<!-- 回到顶部&刷新 end -->
+
+		<!-- 不能删除的div模板-->
+		<div class="infor" style="display:none">
+		</div>
+<script type="text/javascript">
+	goToFirstPage(window.location+"");
+        var _globalImgPath = "http://i0.jrjimg.cn/bbsnew/";
+	var _messageshow="thread";
+	var itemid=_itemid;
+	var forumid=_forumid;
+	var cid=_cid;
+	var divid = "history";
+	var forumname="绿荫看盘";
+
+	getMainMsgInfo(_msgid,_cid);
+	ajax_getEssList(0,_cid);
+</script>
+<script>
+	var ads={"list":[{"title":"","link":""},{"title":"","link":""}]}
+fixUpRecommendReply();
+</script>
+	<script src="/editorInc/stock/floater_fd.js" type="text/javascript"></script>
+<script type="text/javascript">
+	showFloater(1);
+	function newthread(url){
+		if(typeof(flag)=='undefined' || flag=='notlogin'){
+			loginDlg.show();
+			return true;
+		}
+		window.location.href=url;
+	}
+	function checkLogin(uid,username,type) {
+		if(uid&&username&&uid.length>0&&username.length>0) {
+			if(typeof(flag)=='undefined' || flag=='notlogin'){
+				loginDlg.show();
+			}else {
+				ajax_getLoginUser(uid,username,type,loginDlg);
+			}
+		}else{
+			loginDlg.show();
+		}
+	}
+	var toDiv = document.getElementById('toooo');
+	if(toDiv) {
+		var div = getAbsPoint(toDiv);
+		if(div) {
+			window.scrollTo(0,div['y']);
+		}
+	}
+	ajax_JustLoginUser('080926010087617600');
+	dealIMG();
+	Popularize();
+	
+</script>
+
+		<div class="f">
+			<script src="http://js.jrjimg.cn/common/foot/v2.js" type="text/javascript"></script>
+		</div>
+
+		<img width="1" height="1" src="http://i0.jrjimg.cn/bbsnew/img/null.gif" id="countimg" alt=""/>
+<script src="http://js.jrj.com.cn/bbsnew/tongji_bbs.js" type="text/javascript"></script>
+
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛左浮标 Begin -->
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=29" ></script>
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛左浮标 End -->
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛右浮标 Begin -->
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=30" ></script>
+<!-- AdSame ShowCode: 金融界网站 / 论坛 / 论坛右浮标 End -->
+
+<input type="hidden" id="ms_msgid" value="">
+<input type="hidden" id="ms_parentid" value="">
+<input type="hidden" id="fsfileid" value="">
+
+<!---------------------底部通用导航html-------------------------->
+<!--
+<div class="bottom_nav">
+
+    <div id="BBar_Main" class="open" style="display:none">
+
+    <iframe frameborder="0" scrolling="no" style="position:absolute; visibility:inherit; top:0px; left:0px; width:100%; height:31px;background:none;border:none;display:none;_display:block; z-index:-1; filter:alpha(opacity=0);-moz-opacity:0;-khtml-opacity:0;opacity:0;background:none;"></iframe>
+
+    <div class="left-box">
+
+    	<strong>实盘直播</strong>  
+
+    </div>
+
+	<div class="right-box">
+
+    	<a id="BBar_Open_Btn" href="javascript:;" class="develop"></a>
+
+    	<p class="btn"><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/main" target="_blank">我的金融界</a><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/stock/group/index.jspa" target="_blank">我的自选股</a><a href="http://sso.jrj.com.cn/sso/ssologin?ReturnURL=http://i.jrj.com.cn/app/myfund/index.jspa" target="_blank">自选基金</a><a href="http://pay.jrj.com.cn/coin/rechage.jspa" target="_blank">金币充值</a></p>
+
+        <b id="BBar_Msg_Tip" class="off"></b>
+
+    </div>
+
+    <div class="center-box">
+
+    	<div class="pab01">
+
+    		<div id="stock_scroll" class="scroll">
+
+              	<table>
+
+                    <tbody>
+
+	  	  				<tr>
+
+	  	  					<td id="stock_scroll_content1">
+
+	  	  					</td>
+
+	  	  					<td id="stock_scroll_content2"></td>
+
+	  	  				</tr>
+
+	  				</tbody>
+
+  				</table>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    </div>
+
+    <div id="BBar_Close_Cont" class="close" style="display:none"><input id="BBar_Close_Btn" type="button" /></div>
+
+</div>
+-->
+	<div id="popMsgBox" class="mb" style="display:none;right:20px;">
+
+	   <div id="popMsgBox_Titlebar" class="mbhd">
+
+		   <span id="popMsgBox_Title" class="title">系统消息</span>
+
+		   <b id="popMsgBox_Close" class="option"></b>
+
+	   </div>
+
+	   <div id="popMsgBox_Content" class="mnbd">
+
+	   	  <div class="tit-mb">
+
+            <p></p>
+
+            <p class="pr"><a href="http://i.jrj.com.cn/main/systemMessages.jspa" target="_blank">查看</a></p>
+
+          </div>
+
+	   </div>
+
+	</div>
+
+<!---------------------------END 底部通用导航html--------------------------->
+
+    
+
+<!---------------------------   底部通用导航页面js   ---------------------------> 
+
+
+<!--<script type="text/javascript" src="http://js.jrjimg.cn/lib/bottom-bar/BottomBar-min.1.7.js"></script>-->
+
+
+<!---------------------------  END 底部通用导航页面js   ------------------------> 
+
+<script type="text/javascript" src="http://same.jrj.com.cn/s?z=jrj&c=484" ></script>
+	</body>
+</html>
+
+

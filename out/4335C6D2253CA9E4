@@ -1,0 +1,248 @@
+<!--UINFO: http://bbs.373.cn/forum.php?mod=viewthread&amp;tid=1075876&amp;page=1	length=15714&last_modified=0&time_saved=1450677193&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>提示信息 -  牧野论坛 -  Powered by Discuz!</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",牧野论坛" />
+<meta name="generator" content="Discuz! X3" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.373.cn/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?uZ4" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_viewthread.css?uZ4" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'uZ4', charset = 'gbk', discuz_uid = '0', cookiepre = 'rZZE_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'login|sendpm|newthread|reply|viewratings|viewwarning|viewthreadmod|viewvote|tradeorder|activity|debate|nav|usergroups|task', creditnotice = '2|新港币|枚', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy4zNzMuY24vZm9ydW0ucGhwP21vZD12aWV3dGhyZWFkJmFtcDt0aWQ9MTA3NTg3NiZhbXA7cGFnZT0x', SITEURL = 'http://bbs.373.cn/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?uZ4" type="text/javascript"></script>
+<meta name="application-name" content="牧野论坛" />
+<meta name="msapplication-tooltip" content="牧野论坛" />
+<meta name="msapplication-task" content="name=门户;action-uri=http://bbs.373.cn/portal.php;icon-uri=http://bbs.373.cn/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=论坛;action-uri=http://bbs.373.cn;icon-uri=http://bbs.373.cn/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=家园;action-uri=http://home.373.cn;icon-uri=http://bbs.373.cn/static/image/common/home.ico" /><link rel="archives" title="牧野论坛" href="http://bbs.373.cn/archiver/" />
+<link rel="stylesheet" id="css_widthauto" type="text/css" href="data/cache/style_1_widthauto.css?uZ4" />
+<script type="text/javascript">HTMLNODE.className += ' widthauto'</script>
+<script src="data/cache/forum.js?uZ4" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://bbs.373.cn/');">设为首页</a><a href="http://bbs.373.cn/"  onclick="addFavorite(this.href, '牧野论坛');return false;">收藏本站</a><script type="text/javascript">var _speedMark = new Date();</script></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到窄版" class="switchwidth">切换到窄版</a>
+</div>
+</div>
+</div>
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">立即注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="牧野论坛"><img src="static/image/common/logo.png" alt="牧野论坛" border="0" /></a></h2><script src="data/cache/logging.js?uZ4" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="pwmd5('ls_password');return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<span class="ftid">
+<select name="fastloginfield" id="ls_fastloginfield" width="40" tabindex="900">
+<option value="username">用户名</option>
+<option value="email">Email</option>
+</select>
+</span>
+<script type="text/javascript">simulateSelect('ls_fastloginfield')</script>
+</td>
+<td><input type="text" name="username" id="ls_username" autocomplete="off" class="px vm" tabindex="901" /></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />自动登录</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password" class="z psw_w">密码</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;"><em>登录</em></button></td>
+<td>&nbsp;<a href="member.php?mod=register" class="xi2 xw1">立即注册</a></td>
+</tr>
+</table>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</div>
+</div>
+</form>
+
+<script src="data/cache/md5.js?uZ4" type="text/javascript" reload="1"></script>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu();})">快捷导航</a>
+<ul><li class="a" id="mn_forum" ><a href="http://bbs.373.cn" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li><li id="mn_N9c7f" ><a href="http://bbs.373.cn/index.html" hidefocus="true"  >聚合版</a></li><li id="mn_home" ><a href="http://home.373.cn" hidefocus="true" title="Space"  >家园<span>Space</span></a></li><li id="mn_userapp" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'mn_userapp','pos':'43!','ctrlclass':'a','duration':2});showUserApp();})"><a href="userapp.php" hidefocus="true" title="Manyou"  >应用<span>Manyou</span><b class="icon_down"></b></a></li><li id="mn_N12a7" ><a href="misc.php?mod=ranklist" hidefocus="true" title="Ranklist"  >排行榜<span>Ranklist</span></a></li><li id="mn_N48a9" ><a href="http://life.373.cn" hidefocus="true" target="_blank"   style="font-weight: bold;">生活网</a></li><li id="mn_Nf157" ><a href="http://bbs.373.cn/thread-296355-1-1.html" hidefocus="true"   style="color: cyan">版主招聘</a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div><div class="a_mu"><table width="100%" height="72" border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td height="60" align="center" valign="middle"><table width="100%" height="60" border="0" cellpadding="0" cellspacing="0" >
+      <tr>
+        <td  bgcolor="#FFE877"><a href="http://mp.weixin.qq.com/s?__biz=MzA5MDY0NTQwNg==&mid=203353983&idx=1&sn=bdfe615df70de913df7c28687de5ab98#rd" target="_blank" ><img src="http://img1.shangdu.com/2015/03/09/self_20150309_1.jpg"  border="0" ></a></td>
+      </tr>
+    </table></td>
+  </tr>
+</table></div><div id="scbar" class="scbar_narrow cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="c42a95d2" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%BE%C5%D5%AF%B9%B5&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">九寨沟</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%C2%CC%B6%BC&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">绿都</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%B4%BA%BD%DA%D4%C6%C4%CF&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">春节云南</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%C5%AF%C6%F8&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">暖气</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%C6%AF%C1%F7&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">漂流</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%B9%B7%C1%FD&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">狗笼</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%C9%E3%CF%F1%CD%B7&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">摄像头</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%C7%E0%BA%A3%BA%FE&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">青海湖</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%D7%D4%BC%DD%D3%CE&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">自驾游</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%B5%E7%CA%D3%CB%FE%C6%C2&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">电视塔坡</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=http&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">http</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CA%D3%C6%B5&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">视频</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%BA%C9%D6%AE%D2%B6&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">荷之叶</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CE%E4%BC%D2%CD%E5&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">武家湾</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%BA%E3%B4%F3&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">恒大</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%B3%E0%D3%A5%BB%A7%CD%E2&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">赤鹰户外</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%D3%D7%B6%F9%D4%B0&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">幼儿园</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CA%C2%B9%CA&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">事故</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%B6%FE%D6%D0%B2%F0%C7%A8&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">二中拆迁</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CE%F7%B9%B5&amp;formhash=c42a95d2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">西沟</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="article">文章</a></li><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p>抱歉，指定的主题不存在或已被删除或正在被审核</p>
+<script type="text/javascript">
+if(history.length > (BROWSER.ie ? 0 : 1)) {
+document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ 点击这里返回上一页 ]</a></p>');
+} else {
+document.write('<p class="alert_btnleft"><a href="./">[ 牧野论坛 首页 ]</a></p>');
+}
+</script>
+</div>
+</div>
+</div>
+</div>	</div>
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="http://bbs.373.cn/archiver/" >Archiver</a><span class="pipe">|</span><a href="http://bbs.373.cn/forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><a href="http://bbs.373.cn/forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><strong><a href="http://www.373.cn" target="_blank">新乡信息港</a></strong>
+( <a href="http://www.miitbeian.gov.cn/" target="_blank">豫ICP备08001384号</a> )&nbsp;<a href="http://discuz.qq.com/service/security" target="_blank" title="防水墙保卫网站远离侵害"><img src="static/image/common/security.png"></a>&nbsp;&nbsp;<span id="tcss"></span><script type="text/javascript" src="http://tcss.qq.com/ping.js?v=1VERHASH" charset="utf-8"></script><script type="text/javascript" reload="1">pgvMain({"discuzParams":{"r2":"1227846","ui":0,"rt":"forum","md":"viewthread","pn":1,"qq":"000","logo":11},"extraParams":""});</script><!--信息港统计开始-->
+<script type="text/javascript" src="http://js.tongji.linezing.com/721078/tongji.js"></script><noscript><a href="http://www.linezing.com"><img src="http://img.tongji.linezing.com/721078/tongji.php"/></a></noscript>
+<script type="text/javascript" src="http://js.tongji.linezing.com/319725/tongji.js"></script><noscript><a href="http://www.linezing.com"><img src="http://img.tongji.linezing.com/319725/tongji.gif"/></a></noscript>
+<!--信息港统计结束--></p>
+<p class="xs0">
+GMT+8, 2015-12-21 13:53<span id="debuginfo">
+, Processed in 0.078000 second(s), 6 queries
+.
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3</em></p>
+<p class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1450677191" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '1227846|X3|0.6||0||0|7|1450677191|df84deb21dee68190e4c29e8bf946e8d|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>

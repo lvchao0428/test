@@ -1,0 +1,814 @@
+<!--UINFO: http://www.xici.net/u19005800/	length=141064&last_modified=0&time_saved=1450676918&charset=gb2312-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="alternate" type="application/rss+xml" title="订阅高淳维修网的角落"  href="rss.asp">
+<meta http-equiv="content-type" content="text/html; charset=gb2312" />
+<meta http-equiv="content-language" content="gb2312" />
+<meta name="robots" content="all" />
+<meta name="author" content="http://www.xici.net/" />
+<meta name="copyright" content="xici.net 版权所有，未经授权禁止链接、复制或建立镜像。" />
+<meta name="description" content=" 高淳维修网的角落 西祠胡同 xici.net"/>
+<meta name="keywords" content=" 高淳维修网的角落 西祠胡同 xici.net"/>
+<title>高淳维修网的角落 - 西祠胡同</title>
+
+<link rel="icon" href="http://imgs.xici.net/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://imgs.xici.net/favicon.ico" type="image/x-icon" />
+<script language=javascript src="http://imgs.xici.net/_js/pub.js?t=20140915"></script>
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://imgs.xici.net/_common/styles/person.css?t=201301161" />
+
+<style type="text/css">
+
+	/*空间背景区*/
+    body{
+	    color:#666; /*文本字体*/
+	    background-color:#fff; /*背景明度值*/
+	  /*background-image:url("/_img/blog/s01/bg_body.jpg");*/
+	    background-repeat:no-repeat;
+		background-attachment : scroll;/* scroll | fixed */
+    }
+    body a{color:#069;} /*链接字体*/
+
+    .tit{color:#09c;} /*标题字体*/
+
+	/*空间主题区*/
+    .title{
+		color:#09c;/*空间简介明度值*/
+		background-color:transparent;background-image:url("http://www.xici.net/blog/files/blogimg.asp?f=t2&color=6699EE");background-repeat:no-repeat;
+	}
+	.title h2{color:#09c;} /*空间名称明度值*/
+
+	/*导航区*/
+
+    .bgn{background-color:transparent;background-image:url("http://www.xici.net/blog/files/blogimg.asp?f=n2&color=6699EE");}
+    .nor{color:#fff;} /*其他*/
+    .nor:hover{color:#06c;} /*当前TAB字体*/
+    .here{color:#06c;} /*当前TAB字体*/
+
+	/*Widget*/
+    .bor{
+		color:#666;/*文本字体*/
+		background-color:#fff;/*背景*/
+		border-width:1px;
+		border-color:#9cf;/*边框明度值*/
+		border-style:solid;
+	}
+    .bor .tit{color:#09c}/*标题字体*/
+    .bor a{color:#069}/*链接字体*/
+	.midd .dl .pb{color:#666}
+	.midd .dl .pb samp{color:#9cf}
+
+     #slideA{width:770px;position:absolute;top:0px;left:190px}
+     #slideB{width:180px;position:absolute;top:0px;left:0px}
+
+	.doc_sign {display:none}
+</style>
+
+</head>
+<body>
+<script src="http://imgs.xici.net/_js/doc.js?t=20120905"></script>
+<script language=javascript>
+function RePage(url,key){
+    if(key == 1){
+        document.location = url + "1.htm";
+    }else{
+        if ( key < 1 || key.toString == "" ){
+            key = 1;
+        }
+        document.location = url + key.toString() + ".htm";
+    }
+    return false;
+}
+</script>
+<script language="javascript" type="text/javascript" src="http://imgs.xici.net/_js/pub.js?t=20120906"></script>
+<script language="javascript">{var d = new Date();d.setTime((new Date()).getTime() + 108000000);document.cookie = "desktop=1; domain=xici.net; path=/; expires=" + d.toGMTString();}</script>
+<script language="javascript">var strPageUrl = '/u19005800/';</script>
+<link href="http://imgs.xici.net/_common/styles/base.css?t=201301151" rel="stylesheet" />
+<link href="http://imgs.xici.net/_common/styles/style.css?t=201404281" rel="stylesheet" />
+<script src="http://imgs.xici.net/_js/GA.js?t=201401011"></script>
+
+<!--global_header:begin-->
+<div id="global_header">
+	<!--header_bar:begin-->
+	<div class="header_bar" id="header_bar">
+       <div class="header_logo" node-type="LOGO{$$}topnav" data-type="ga"><a class="logo_top" href="/" title="胡同口"></a></div>
+       <!--top_nav:begin-->
+       <ul class="top_nav">
+        <li node-type="胡同口{$$}topnav" data-type="ga"><a href="/" class="link">胡同口</a></li>
+        <li node-type="menu_list">
+        	
+            <!--chanel_box:begin-->
+             
+            <a href="javascript:;" class="link" id="cityname">广州<em></em></a>
+            <div class="tip_box o_city_box">
+            	<ul class="tip_list clear" id="hot_list">
+                </ul>
+            </div>
+        </li>
+        <!-- <li node-type="menu_list">
+        	<a href="javascript:;" class="link">游戏<em></em></a>
+			<div class="tip_box o_city_box" node-type="优惠频道{$$}topnav" data-type="ga">
+            	<ul class="tip_list">
+                <li><a href="http://huajia.xici.net/" target="_blank">结婚省米</a></li>
+                <li><a href="http://youxi.xici.net" target="_blank">游戏频道</a></li>
+                <li><a href="http://qipai.xici.6998.com/" target="_blank">网页棋牌</a></li>
+                <li><a href="http://www.xici.net/b1449976/" target="_blank">安卓游戏</a></li>
+                </ul>
+            </div>
+        </li> -->
+        <li node-type="手机版{$$}topnav" data-type="ga"><a href="/app.asp" class="link">手机版</a></li>
+    </ul>
+    <!--top_nav:end-->
+    <div class="top_search">
+       <input type="text" class="txt_search" id="search" node-type="公共头搜索{$$}topnav" data-type="ga" value="搜索版名、版号、关键词" />
+       <input type="button" value=" " node-type="公共头搜索{$$}topnav" data-type="ga" class="btn_search" onclick="doSearch();" />
+   </div>
+   <!--判断是否登录用户-->  
+           
+   <ul class="user_login">
+     <li class="mr-10" node-type="居委会{$$}topnav" data-type="ga"><a href="/b2488/" class="link">居委会</a></li>
+     <li class="mr-10" node-type="登录{$$}topnav" data-type="ga"><a title="登录" href="http://account.xici.net/login?refer=http://www.xici.net/u19005800/" class="link">登录</a></li>
+     <li node-type="注册{$$}topnav" data-type="ga"><a href="http://account.xici.net/register?refer=http://www.xici.net/u19005800/" title="注册" class="link">注册</a></li>
+ </ul>
+ 
+<!--飞语提示，默认先隐藏掉-->
+<div class="top_showtip" style="display:none" node-type="提示气泡{$$}topnav" data-type="ga"><p></p><a href="javascript:;" class="close_top_showtip" id = "notice_close"></a></div>
+<div id="global_notice" node-type="global_showtip"  style="display:none">
+    <span>尊敬的IE6/7/8浏览器的用户，胡同大妈教你在新版西祠玩的更舒服</span>
+    <a href="http://www.xici.net/d174003348.htm" class="blue">点击查看这里&gt;&gt;</a>
+    <a href="javascript:;" class="close_top_showtip"></a>
+</div>
+
+</div>
+<!--header_bar:end-->
+<div class="head_shadow"></div>
+</div>
+<!--global_header:end-->
+
+<script src="http://imgs.xici.net/_js/jquery-1.7.2.min.js"></script>
+<script src="http://imgs.xici.net/_js/jquery.plugins.js?t=201312061"></script>
+<script src="http://imgs.xici.net/_js/comm.js?t=20140912"></script>
+<div id="warp" class="warp">
+
+    <iframe width=1 height=1 marginwidth=0 marginheight=0 frameborder=0 scrolling=no src="/xiciservice/verify.asp"></iframe>
+
+<script language=javascript>
+
+    function PointCity(baseurl,url,setcityid,setlat,setlng,setrange) {
+        var Cfrm = document.citychangeform;
+        Cfrm.action = baseurl;
+        Cfrm.setcityid.value = setcityid;
+        Cfrm.setlat.value = setlat;
+        Cfrm.setlng.value = setlng;
+        Cfrm.setrange.value = setrange;
+        Cfrm.url.value = url;
+        
+        if(top != window){
+            parent.parent.notcity = setcityid;
+        }
+        
+        document.getElementById("submitcity").click();
+        parent.parent.updateFavs();
+    }
+</script>
+<form action="" method="post" name="citychangeform" style="display:none">
+    <input type="hidden" name="t" value="c" />
+    <input type="hidden" name="url" value="" />
+    <input type="hidden" name="setcityid" value="" />
+    <input type="hidden" name="setlat" value="" />
+    <input type="hidden" name="setlng" value="" />
+    <input type="hidden" name="setrange" value="" />
+    <input type="submit" name="submitcity" id="submitcity" value="确定" />
+</form>
+<script language="javascript">var xici_hotcity = new Array('南京;\/asia\/china\/huadong\/jiangsu\/nanjing','北京;\/asia\/china\/huabei\/beijing','上海;\/asia\/china\/huadong\/shanghai','苏州;\/asia\/china\/huadong\/jiangsu\/suzhou','深圳;\/asia\/china\/zhongnan\/guangdong\/shenzhen','南通;\/asia\/china\/huadong\/jiangsu\/nantong','扬州;\/asia\/china\/huadong\/jiangsu\/yangzhou','广州;\/asia\/china\/zhongnan\/guangdong\/guangzhou','无锡;\/asia\/china\/huadong\/jiangsu\/wuxi','成都;\/asia\/china\/xinan\/sichuan\/chengdu','徐州;\/asia\/china\/huadong\/jiangsu\/xuzhou','济南;\/asia\/china\/huadong\/shandong\/jinan','杭州;\/asia\/china\/huadong\/zhejiang\/hangzhou','芜湖;\/asia\/china\/huadong\/anhui\/wuhu','武汉;\/asia\/china\/zhongnan\/hubei\/wuhan','郑州;\/asia\/china\/zhongnan\/henan\/zhengzhou','盐城;\/asia\/china\/huadong\/jiangsu\/yancheng','常州;\/asia\/china\/huadong\/jiangsu\/changzhou','合肥;\/asia\/china\/huadong\/anhui\/hefei','青岛;\/asia\/china\/huadong\/shandong\/qingdao','沈阳;\/asia\/china\/dongbei\/liaoning\/shenyang','西安;\/asia\/china\/xibei\/shannxi\/xian','泰州;\/asia\/china\/huadong\/jiangsu\/taizhou','石家庄;\/asia\/china\/huabei\/hebei\/shijiazhuang','镇江;\/asia\/china\/huadong\/jiangsu\/zhenjiang','福州;\/asia\/china\/huadong\/fujian\/fuzhou','昆明;\/asia\/china\/xinan\/yunnan\/kunming','广东;\/asia\/china\/zhongnan\/guangdong','重庆;\/asia\/china\/xinan\/chongqing','兰州;\/asia\/china\/xibei\/gansu\/lanzhou','天津;\/asia\/china\/huabei\/tianjin','哈尔滨;\/asia\/china\/dongbei\/heilongjiang\/haerbin','贵阳;\/asia\/china\/xinan\/guizhou\/guiyang','长沙;\/asia\/china\/zhongnan\/hunan\/changsha','淮安;\/asia\/china\/huadong\/jiangsu\/huaian','南宁;\/asia\/china\/zhongnan\/guangxi\/nanning','长春;\/asia\/china\/dongbei\/jilin\/changchun','太原;\/asia\/china\/huabei\/shanxi\/taiyuan','宿迁;\/asia\/china\/huadong\/jiangsu\/suqian','保定;\/asia\/china\/huabei\/hebei\/baoding','佛山;\/asia\/china\/zhongnan\/guangdong\/foshan','连云港;\/asia\/china\/huadong\/jiangsu\/lianyungang','大连;\/asia\/china\/dongbei\/liaoning\/dalian','厦门;\/asia\/china\/huadong\/fujian\/xiamen','泉州;\/asia\/china\/huadong\/fujian\/quanzhou','南昌;\/asia\/china\/huadong\/jiangxi\/nanchang','温州;\/asia\/china\/huadong\/zhejiang\/wenzhou','宁波;\/asia\/china\/huadong\/zhejiang\/ningbo','烟台;\/asia\/china\/huadong\/shandong\/yantai','临沂;\/asia\/china\/huadong\/shandong\/linyi'
+);</script>
+
+<div id="adTop" class="w">
+
+<!--	<IFRAME MARGINHEIGHT=0 MARGINWIDTH=0 FRAMEBORDER=0 WIDTH=960 HEIGHT=90 SCROLLING=NO SRC="http://xiciafp.allyes.com/main/adfshow?user=XiciAFP|8zz|10tlkj11&db=xiciafp&border=0&local=yes"></IFRAME>-->
+</div>
+
+<div id="spT" class="w title">
+
+	<h2>
+	<a href="http://u19005800.xici.net" title="" class="tit">
+
+	高淳维修网的角落</a>
+	<A href="http://u19005800.xici.net" onclick="window.external.AddFavorite('http://u19005800.xici.net','高淳维修网的角落 - 西祠胡同');return false;" class=fav>http://u19005800.xici.net</A>
+    </h2>
+	<p></p>
+</div>
+
+
+<script language="javascript">
+function checksInput(key)
+{
+    if(document.getElementById("s").value == "" &&key==1)
+    {
+        document.getElementById("s").value = '请输入关键词';
+    }
+
+    if (document.getElementById("s").value == "请输入关键词")
+    {
+        return false;
+    }
+    if (key==3)
+    {
+        window.open("/s/?k=" + escape(document.getElementById("s").value));
+        return false;
+    }
+    return true;
+}
+</script>
+<div id="nav" class="w bgn">
+	<span class="l">
+		<a href="/u19005800/" title="首页" class="bgn nor here">首页</a>
+		<a href="p1.htm" title="文章" class="bgn nor ">文章</a>
+		<a href="t1.htm" title="相册" class="bgn nor ">相册</a>
+		<a href="m1.htm" title="彩信" class="bgn nor ">彩信</a>
+	    <a href="/u19005800/addFriend.asp" title="加好友" class="bgn nor " >加好友</a>
+		<a href="javascript:;" onclick="sendMessage.sendDivShow({},true,'高淳维修网')" title="留言" class="bgn nor ">留言</a>
+		<!--<a href="blogpre.asp?t=5" title="预订" class="bgn nor ">预订</a>-->
+		
+	</span>
+	<form method="get" action="article.asp" name="" class="r">
+
+		<input type="text" value='请输入关键词' class="txt" id="s" name="s" title="西祠胡同搜索" onclick="if (document.getElementById('s').value=='请输入关键词')document.getElementById('s').value=''"/> <input type="submit" onclick="return checksInput(2);" value="搜角落" class="hand" /><input type="button" onclick="return checksInput(3);" value="搜全站" class="hand" />
+	</form>
+</div>
+
+<div id="spCont">
+	<div id="slideA"><div class="midd bor" id="TDocText">
+		<dl class="dl"><dt><a href="/d118649936.htm" target="_blank">女警官宋秀玲致公安部孟建柱部长的一封实..</a></dt><dd class="bor"><p class="pd"><!---doc_text---><h1><font face="Verdana">
+<div align="left"><font face="Verdana">
+<div>
+<p><strong>尊敬的孟部长您好：</strong></p>
+<p>&nbsp;&nbsp;&nbsp; 首先向您说声对不起！您在百忙工作中给您添麻烦了，这也是我实属无奈，请您一定要多多谅解。您是全国公安警察的领袖，是我们的家长，您爱警爱民，我深表敬重，作为一名老公安战士我有难处有冤屈就得和您诉说：我是1976年到黑龙江省公安厅，在预审――监管工作，我爱人是上海知青，1970年就在公安厅工作（现督察），我们都是一直在公安厅兢兢业业、任劳任怨工作了三十多年的老干部，我们把一生的青春和热血都贡献给了我们所热爱的公安事业，可是到了晚年即将退休的我，因为公安厅党委在2006年提拔处级干部中的腐败行为，（由于怕打击报复，当时有很多人写匿名信向上级领导反映情况，）在众多的举报人中唯有我是按着组织程序公开实名举报，因为我反映情况真实且有证据在手，从此我受尽迫害与屈辱（停职、不能享受正常工资待遇、现在我连工作了三十多年的单位大门都进不去了，还在众目睽睽之下被强行押上警车）、我也曾盼望着从公安部新调来的厅长孙友波能够重视广大干警的强烈呼吁，注重民声，能够公正合理地处理好这一遗留问题，这也是验证他的执政能力时候，可是孙友波厅长却不注重信访工作，回避矛盾，在接见我时公开说他新官上任不管以前的事情，这让我非常失望，同时也伤害了全公安厅老同志们的心，而且把问题再度激化，并被新闻媒体多次曝光。在我走投无路的情况下迫使我多次进京上访，这也是在黑龙江省公安厅的历史上从未发生过的事情，做为公安厅长的孙友波有着不可推卸的责任。</p>
+<p>&nbsp;&nbsp;&nbsp; <strong>我在此声明：</strong>事情闹到今天的程度，实属不是我的本意，我心中充满了自责和内疚…但是为了尊严、为了人格，我会坚定信心一路走下去，相信乌云过后总会有“青天”。</p>
+<p>&nbsp;&nbsp;&nbsp; <strong>尊敬的孟部长：</strong>我从未想过要打扰您，今天实在是被逼无奈，希望您能够重视一位老公安战士的遭遇，我代表黑龙江省公安厅所有的老干警们谢谢您！！！</p>
+<p align="right"><strong>黑龙江省公安厅</strong></p>
+<p align="right"><strong>实名举报人：宋秀玲</strong></p>
+<p align="right"><strong>二OO九年六月十六日</strong></p>
+</div>
+</font></div>
+</font></h1><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d118649936.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_0></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：10-05-05 09:35</span></p></dd></dl><dl class="dl"><dt><a href="/d118598872.htm" target="_blank">各级政府维稳恶性循环:大力度维稳却越维...</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p>标题来自搜狐网，内容略。介绍几个跟帖与网友共享：<br />
+</p>
+<h3><span><a href="/t.asp?http://t.sohu.com/people/!emhwZmp4bUBzb2h1LmNvbQ==" target="_blank"><font
+color="#003399">搜狐微博:zhpfjxm</font></a></span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span
+style="color:#fff;">138585921</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2010-04-19
+06:31:54</span></h3>
+<p>分配不公，贫富差距进一步扩大，没有公平、公正、公开可言，为富不仁，腐败猖獗，遍地贪官，总之根子不除再怎么维都不会稳，只会导致政府、社会、百姓都付出高昂的代价，两败俱伤，<br />
+</p>
+<h3><span><a href="/t.asp?http://t.sohu.com/people/!emh5bGluZzU3QHNvaHUuY29t" target="_blank"><font
+color="#003399">搜狐微博:zhyling57</font></a></span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span
+style="color:#fff;">138585830</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2010-04-19
+06:12:31</span></h3>
+<p>非常正常，各级政府不也在大力反腐，却越反越腐吗？大力度维稳却越维越不稳，大力度反腐却越反越腐败，大力度压房价却越压价越高，近年来，政府大力度去做的，为什么多数结果都相反呢？？？关键是腐败！！！要下决心、下狠心反腐！！！在这一点上可能还要向台湾学习。<br />
+</p>
+<h3><span><a href="/t.asp?http://t.sohu.com/people/!Y2hlbmppbmxpbl8yMDA1QHNvaHUuY29t"
+target="_blank"><font color="#1111cc">搜狐微博:微博新人7204593</font></a></span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span
+style="color:#fff;">138593488</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2010-04-19
+10:42:03</span></h3>
+<p>保护社会生态环境宣言<br />
+援助受损的个体，谴责滥用的权力，养护你我公民意识，保护社会生态环境。<br />
+依赖自身实力，不走后门，不搞关系，追求法治，消磨权力的威力，净化社会风气。<br />
+跟自然界一样，社会也是一个生态系统，各种社会力量需要保持平衡。金钱、权力、宗教、道德、民意、任何力量膨胀都导致社会生态的恶化，直至崩溃。 跟自然生态环境一样，社会生态环境的恶化也是全覆盖的，无论你贫穷还是富有，是尊贵还是卑贱，你要么成为可恶的作孽人，要么成为无辜的受害者。在此，没有人能独善其身，除非你离开这个社会。<br />
+看看你我的财产、健康、自由、生命、理想等处在一个怎样的社会环境之中吧：<br />
+暴力强拆民房，光天化日之下，“活埋”湖北老人王翠云，“自焚”四川企业家唐福珍；黑龙江靳丽霞、福建何全通、山东张永霞、北京席新柱、江苏曾焕为陶会西都被逼上绝路，纷纷引火自焚。天津张熙玲被告诫“在中国，你说不拆，肯定把你拆了”……财产被侵夺，贫民无奈，富豪无法。引车卖浆、贩夫走卒古来正当的小摊小贩，财产经常被剥夺，新疆乌苏市李庆红三轮车被没收，人还被殴打；山东富豪邱照轩，被胁迫放弃了4600万应收款；辽宁富豪高文华被陷害，被追捕，亿万财产被侵吞；浙江煤老板煤矿被低价强行吞并……<br />
+毒奶粉刚歇息，北京家属郭利维权却被判刑了五年；毒疫苗出现了，山西家属王明亮维权被山西警方追捕；地沟油出现了，大学教授也被迫缄默了……谁放任着，放纵着，豢养着这款款“毒品”。作为个体的你我都不知道有多少款“毒品”带着温柔的面纱，更不知道还有多少“毒品”会依次登场……<br />
+一位位同胞，失去过、失去了自由。湖北襄阳懂绪山等维权被拘禁于法制学习班，江苏苏州维权代表被拘禁于法制学习班，浙江丽水张建平维权被拘……上海村名刘新娟维权被送进精神病院，江西农民叶正生报警被送进精神病院，湖北彭玉泉被警察送进精神病院，内蒙警察高作喜被公安送进精神病院……河南灵宝王帅网上举报被拘，湖北郧西陈永刚批评政府被拘，山东段磊网上发帖举报被拘，陕西洛阳张国庆网上批评公安被拘，内蒙吴保全网上举报获罪，福建莆田林国奋举报获罪，安徽五河李茂余手机举报获罪，重庆彭水秦中飞手机批评获罪，山东高唐懂伟网上举报获罪，山西稷山薛志敬举报获罪，河南孟州籍东平举报获罪，福建“三网民”助人伸冤获罪……<br />
+一条条鲜活生命，在保护民权的国家羁押之下，纷纷离奇消逝：海南罗静波“洗澡”死了，河南穆大民“冲凉”死了，福建温龙辉“睡觉”死了，福建学生“睡姿不对”死了，吉林王国春“睡梦”死了，江西李文言“噩梦”死了，湖北薛宏福“洗脸”死了，内蒙任怀光“如厕”死了，河南王亚辉“喝水”死了，江西陈绪金“如厕”死了，陕西女子王会侠“激动”死了，广东林立峰“发狂”死了，山东于维平“扣粉刺”，内蒙少女“妊娠”死了，云南李桥明“躲猫猫”死了，内蒙云南邢鲲鞋带“自缢”死了，四川蒲泽民“证据不足”死了……<br />
+这仅仅是公开的逝去的生命！这些同胞，没等到得到法庭宣判，就永远的停止了呼吸 。还有，河南平民解华平“被自杀”，云南科长魏静玲“被自杀”，河南主任刘云峰“被自杀”，安徽局长李国福“被自杀”，</p><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d118598872.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_1></span>　跟贴：1　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：10-05-04 17:28</span></p></dd></dl><dl class="dl"><dt><a href="/d118598508.htm" target="_blank">全国最贪县委书记落马 “报销王”连袜子...</a><img src="http://imgs.xici.net/_img/blog/pic.gif" width="15" height="15" hspace="3"></dt><dd class="bor"><p class="pd"><!---doc_text---><strong><img border="0" src="http://files.xici.net/d118598508.0/1.jpg" /><br />
+<br />
+核心提示:</strong> 云南文山壮族苗族自治州麻栗坡县原县委书记、文山州民政局原局长赵仕永贪污受贿近500万落马，被称为全国最贪县委书记。 <br />
+<p>云南文山壮族苗族自治州麻栗坡县原县委书记、文山州民政局原局长赵仕永贪污受贿近500万落马，被称为全国最贪县委书记。17日记者获悉，其情妇文山州委办公室人事教育科原科长郑娅琳因犯贪污罪被法院判处有期徒刑2年，赵仕永曾为讨“红颜”欢心一掷千金送给郑娅琳的别墅、汽车、名表、实木家具等全部上缴国库。</p>
+<p>赵仕永因犯贪污、受贿罪被法院一审判处有期徒刑18年。据了解，此案创下两项之最：赵仕永贪污、受贿近500万(不包括上千万来历不明的房产)，是全国县委书记职务犯罪要案贪污受贿数额之最;其二，麻栗坡县是国家扶贫开发重点县，该县农民人均纯收入去年是1879元，而作为该县“一把手”的赵仕永，不但肆无忌惮地数十次伸手索贿受贿，而且变着方法用公款报销的方式贪污公款。大到万元以上的彩电、冰箱、皮包、手表，小到几元的洗漱品、袜子等，赵仕永都公然以公款报销，创下贪官中的报销之最，是名副其实的“报销王”。</p>
+<p>赵仕永在文山有妻有女，但他还有一个叫郑娅林的地下情人。法院查明：从2005年8月至2008年9月期间，赵仕永为郑娅琳在昆明、文山等地购买家具、电器、服装、食品等私人生活用品。“被告人郑娅琳利用他人(赵仕永)职务之便，在国家机关报销私人购物生活支出费用296587.31元，其行为已构成贪污罪。”法院审理认为，在贪污犯罪中，郑娅琳是在赵仕永的授意下，报销各种费用，在共同犯罪中起次要作用，属从犯。其次考虑到她有自首情节，案发后积极退出部份涉案资金，可依法从轻处罚。</p>
+<p>法院以郑娅琳犯贪污罪判处有期徒刑两年，没收个人财产50万;随案扣押的人民币179522.01，其中涉案176587.31元予以没收，上缴国库，余款2934.7元折抵没收财产款，上缴国库。此外，随案移送的也是赵仕永曾经送给郑的索尼笔记本电脑、洗衣机、平板电视机、欧米茄手表、金格百货购物卡9张(每张5000元)等全部予以没收，上缴财政;其名下的一幢别墅、福特车一辆、实木家俱等，都是赵仕永案件中流向郑娅琳处的资金购买的物资，依法处置后，其中1051222.36元折抵赵仕永一案的没收财产款，其余折抵本案没收财产款。</p>
+<p>一审宣判后，郑娅琳服判未提出上诉。</p>
+<p>云南文山壮族苗族自治州麻栗坡县原县委书记、文山州民政局原局长赵仕永贪污受贿近500万落马，被称为全国最贪县委书记。17日记者获悉，其情妇文山州委办公室人事教育科原科长郑娅琳因犯贪污罪被法院判处有期徒刑2年，赵仕永曾为讨“红颜”欢心一掷千金送给郑娅琳的别墅、汽车、名表、实木家具等全部上缴国库。</p>
+<p>赵仕永因犯贪污、受贿罪被法院一审判处有期徒刑18年。据了解，此案创下两项之最：赵仕永贪污、受贿近500万(不包括上千万来历不明的房产)，是全国县委书记职务犯罪要案贪污受贿数额之最;其二，麻栗坡县是国家扶贫开发重点县，该县农民人均纯收入去年是1879元，而作为该县“一把手”的赵仕永，不但肆无忌惮地数十次伸手索贿受贿，而且变着方法用公款报销的方式贪污公款。大到万元以上的彩电、冰箱、皮包、手表，小到几元的洗漱品、袜子等，赵仕永都公然以公款报销，创下贪官中的报销之最，是名副其实的“报销王”。</p>
+<p>赵仕永在文山有妻有女，但他还有一个叫郑娅林的地下情人。法院查明：从2005年8月至2008年9月期间，赵仕永为郑娅琳在昆明、文山等地购买家具、电器、服装、食品等私人生活用品。“被告人郑娅琳利用他人(赵仕永)职务之便，在国家机关报销私人购物生活支出费用296587.31元，其行为已构成贪污罪。”法院审理认为，在贪污犯罪中，郑娅琳是在赵仕永的授意下，报销各种费用，在共同犯罪中起次要作用，属从犯。其次考虑到她有自首情节，案发后积极退出部份涉案资金，可依法从轻处罚。</p>
+<p>法院以郑娅琳犯贪污罪判处有期徒刑两年，没收个人财产50万;随案扣押的人民币179522.01，其中涉案176587.31元予以没收，上缴国库，余款2934.7元折抵没收财产款，上缴国库。此外，随案移送的也是赵仕永曾经送给郑的索尼笔记本电脑、洗衣机、平板电视机、欧米茄手表、金格百货购物卡9张(每张5000元)等全部予以没收，上缴财政;其名下的一幢别墅、福特车一辆、实木家俱等，都是赵仕永案件中流向郑娅琳处的资金购买的物资，依法处置后，其中1051222.36元折抵赵仕永一案的没收财产款，其余折抵本案没收财产款。</p>
+<p>一审宣判后，郑娅琳服判未提出上诉。</p>
+<p>赵仕永除了大肆贪污受贿外，还在其他两个方面较其他贪官表现得更“贪”、更“无耻”：其一，赵仕永虽和大多数贪官一样，也“养情妇”，但赵仕永对“红颜”不但一掷千金，还让情妇拥有了令多少羡慕的“报销权”，这实在是令人难以想象。其二，赵仕永把“人民公仆”的福利享受到了极致，不但“吃喝嫖赌全报销”，连日常用品也都由“主人”买单了。</p>
+<p>无论是此前马红妹的荒唐逻辑，还是如今赵仕永的身体力行;无论重庆市原宣传部长张宗海长期公款住五星级宾馆、包养未婚女大学生，还是原中石化董事长陈同海个人每月“理直气壮”地消费120万元，均暴露出目前某些实权派官员，权力已经失去了监督，权力边际已经无限化，从而导致他们在享受“公仆”待遇时，没有了界限;在他们的眼里，想怎么享受就可以怎么享受，更是没有什么不可以报销。</p>
+<p>反腐机构应该反思：如果有了“财政全裸”，赵仕永买袜子、马红妹买卫生巾的费用还能报销吗?</p>
+<p>放过小贪等于纵容大贪。香港廉政公署的经典口号“贪一块钱也不行”为人们所熟知。 对腐败犯罪“以赃计罪”，并规定较高“起刑点”，实际上是扭曲了腐败犯罪的最本质特征，会助长腐败分子的犯罪意念。打击腐败需要的就是“一钱斩吏”的决心和“零度容忍”的理念。这样看来，哪怕是小小的一双“袜子”、一根“葱”，也应当成为让腐败分子闻之色变的“绊马桩”，这才是反腐的真谛。</p><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d118598508.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_2></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：10-05-04 17:24</span></p></dd></dl><dl class="dl"><dt><a href="/d118598340.htm" target="_blank">【版友原创】诛九族又何妨！（+4分）</a></dt><dd class="bor"><p class="pd"><!---doc_text---><strong><font color="#0a060b" face="楷体_GB2312" size="4">今天看郑渊洁的博客，郑渊洁：忘记成功&nbsp;&nbsp;牢记灾难里面说：中国重庆市公安局副局长文强被法院一审判处死刑。中国国家开发银行副行长王益一审被法院判处死刑（缓期2年执行）。中国的反腐败力度明显加大。为官要清廉，否则可能上断头台。<br />
+中国的法律公平吗？他们给国家造成那么多的损失也就是个死缓，许霆案才算什么啊，开始就上来给他个无期，太过分了吧，以后中国的法律要改改，贪污的，发现就枪毙，家人连带受罚！现在不是酒驾的通行的还要有责任吗？那贪污的他家人也该为此负责啊！过去皇帝诛九族的法律看来还是有必要的啊！</font></strong><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d118598340.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_3></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：10-05-04 17:22</span></p></dd></dl><dl class="dl"><dt><a href="/d118598101.htm" target="_blank">民间反腐者：网络反腐要冷静与理智 重视...</a></dt><dd class="bor"><p class="pd"><!---doc_text---><strong><font size="3">网络反腐那一面</font></strong>
+<p><font size="3">　　2010年3月13日，“日记门”男主角韩峰被捕，“2010年网络反腐第一案”再次证明“咱们网友有力量”。与此同时，无辜被牵连其中的21岁女孩吴美俞却陷入人生低谷：不敢上街，不敢去找工作……不知道该去哪里澄清事实。</font></p>
+<p><font size="3">　　姜焕文、李新德都是民间反腐者，他们以“替人抱打不平”为业。网络，是他们工作的重要阵地。他们用自己的成功经验，告诉网友，反腐必须既有事实，又有证据，炒作坏人的违法事实不能伤害无辜。</font></p>
+<p><font size="3">　　两会上，方工、凤凰卫视刘长乐、浙江高院院长齐齐等多名人大代表和政协委员接受了本刊专访。他们表示，网络是监督政府的一个重要渠道。尽管如何正确引导网络反腐尚是重要课题，但“网络问政”已是大势所趋。</font></p>
+<p><font size="3">　　<strong>民间网络反腐者</strong></font></p>
+<p><font size="3">　　本刊记者/孙欣</font></p>
+<p><font size="3">　　有这样一些人，不是官员，不是记者，不隶属于任何职能部门，但他们却做着社会监督的工作，而且他们中的某些人无疑在这个领域已经取得令人瞩目的成绩。他们的头衔，是民间反腐者。</font></p>
+<p><font size="3">　　从最初的举报信，到如今的网络反腐，他们在寻找着一切最便利、最有效的方式，来完成自己作为一名公民的行使监督权的使命。姜焕文、李新德，作为民间反腐的著名人士，他们反腐的成功经验也许可以给网民们的热情注入冷静和理智。</font></p>
+<p><font size="3">　　<strong>发帖有讲究</strong></font></p>
+<p><font size="3">　　姜焕文：中国民间举报网创办人，被媒体称为“中国民间第一举报人”。</font></p>
+<p><font size="3">　　20多年举报生涯，涉及4000多起案件，曾于2007年通过网络举报扳倒云南个旧市副市长。</font></p>
+<p><font size="3">　　记者联系到姜焕文的时候，他正在牡丹江，调查一鱼塘可能被违法侵占的事情。他说自己每接手一个活就必须到现场调查，把事实搞清楚，把证据搞扎实，然后才能去举报，才能上网。他把这一点称为自己作为职业举报人的必要素质。</font></p>
+<p><font size="3">　　姜焕文的这份职业要从“读者来信”说起。</font></p>
+<p><font size="3">　　工人出身的姜焕文有个最大的特点：爱管闲事。哪里路不平啦，什么地方堆满垃圾没人管啦……他都要过问一下，而且过问的方式很特别：给报纸写“读者来信”。上世纪80年代的时候，媒体上“读者来信”很风行，而且很见效，“只要登出来，很快就解决”。</font></p>
+<p><font size="3">　　显著的效果让姜焕文很有成就感。可是这一招到90年代就不管用了，媒体毕竟不是执法机关，没有约束力，越来越多的问题刊登后石沉大海。姜焕文沉不住气了，就自己主动去找执法机关请求解决，“那时候叫反映情况，现在叫举报”。</font></p>
+<p><font size="3">　　他反映的还是些生活中的小问题，比如某酒店门前的马路上有个坑，妨碍行人走路。为确定影响有多大，他特意用一上午的时间蹲在马路上观察，发现果然有几名行人不小心被坑绊脚了，他用块砖头把坑垫上，转身就给市政打电话。第二天，这个坑就被补平了。</font></p>
+<p><font size="3">　　这些事情的快速处理，奠定了他对职能部门解决问题的诚意和能力的信心。从那以后，他养成了个习惯，只要面对牢骚满腹的当事人，就忍不住“教育”人家：“要相信政府，不相信你还反映问题干嘛！”</font></p>
+<p><font size="3">　　1996年离开工厂后，失去生活来源的他做了两年法律工作者，这形成了他事事站在法律角度说话的作风。</font></p>
+<p><font size="3">　　这个时候房地产行业开始兴起，姜焕文很快发现这个暴利行业偷税情况很普遍，出于义愤，他逐个举报。没想到，税务部门很快给他颁发了奖金，而且数额不小，于是一段时间内，这成了他的主要生活来源。他大概算了一下，自己靠举报偷税所得奖金应该有20多万元。而他的病退工资每个月才几百元，两者的天壤之别让他意识到举报也可以成为一种养家糊口的职业。“而且举报既可以帮助受害者，也可以起到社会监督的作用，帮助政府清明政治，一举两得”。</font></p>
+<p><font size="3">　　2004年网络的使用逐渐普遍，四十多岁的姜焕文第一次走进网吧。无所不及的网络触角让他意识到，又一个举报方式变革的时代到来了。他想到如果把举报材料发到网络上，让更多的人看到，不是能产生更广泛的影响力吗？</font></p>
+<p><font size="3">　　第一次触电，姜焕文最苦恼的是不会打字，拼音也不熟悉。于是，字典成了他的必备工具。</font></p>
+<p><font size="3">　　随着进军网络，他的业务范围也已经走出沈阳，走出辽宁。广泛的客源又让他有了新的想法：开办自己的网站。2004年他花2000元买了个域名，又花2000元请公司设计了网站。为慎重起见，他根据有关规定，去公安局、工商局等部门逐个审批。7月20日，他宣布第一家举报网站开通。</font></p>
+<p><font size="3">　　姜焕文以举报成功率高而著名，他说这跟自己的策略有关：利用网络，又不能全靠网络。他的诀窍是信件与发帖并进。一边给各主管领导寄去挂号的举报信，信中会提到该材料在网上已经贴出，并注明发帖地址，便于领导查询；过两三天估摸信快寄到了，他就把材料精简后发到网上，发多个比较活跃的论坛，管理员审核一天左右放出时，正好是领导收到信的时候。</font></p>
+<p><font size="3">　　为了让网帖引人瞩目，增高点击率，姜焕文透露了一个诀窍――标题。他说自己的标题都要有主标题和副标题。主标题使用煽情性字眼：选择能引起民愤的字眼，容易得到网友共鸣；副标题说明是发生在什么地方。</font></p>
+<p><font size="3">　　他特别说明，自己从来不雇佣网络推手，“他们是利益至上，我们是事实至上”。“没有违法事实的事情我绝对不碰，网络再万能也要建立在事实的基础上”，姜焕文强调他的举报绝对是有违法事实的存在。他说这样的帖子网友们才愿意跟，才有炒作的基础。</font></p>
+<p><font size="3">　　一个看似普通的帖子，姜焕文说里面包含了自己无数的心血。他接手的案子有个最低标准――事实清楚，有部分证据能证明被举报人违法。有了这个基础，他会进行深入调查，查阅相关法律、政策，“我自己先必须搞清楚，才能下笔写材料”。他对委托人有个古怪的要求，“24小时开机，随时接听我的电话”。因为他写材料写到半夜有不明白的地方，马上就会给委托人打电话，一定要把事情搞明白才能睡得着。</font></p>
+<p><font size="3">　　经常上网，姜焕文注意到有部分网友也在利用网络反映自己遇到的不公事情，但是因为不专业，即使事情让人同情，也往往没人顶帖，很快沉下去。他发现问题在于，这些举报人太感情用事，激愤、抱怨的话占了帖子大半部分。“网友哪有时间看？不仅没时间看，有时间也看不明白。一定要把事情说清楚，如何不合法，违反了什么，应怎么办。讲理，也符合法律。”</font></p>
+<p><font size="3">　　姜焕文强调，发到网上的材料一定要简短，几百个字把问题说清楚就好，没有网友愿意看洋洋千言的帖子。而且发帖之前一定要把文章审查好，因为发在公众论坛上的帖子自己没法撤下来。还需要注意是否会侵权，尤其是涉及普通人的，一定不能把其真实姓名和家庭住址等写出来。</font></p>
+<p><font size="3">　　他说作为职业举报人，这是应该具备的职业素质和法律素质。</font></p>
+<p><font size="3">　　2009年最高检、中纪委连续公布举报网址，姜焕文认为此举说明政府已经认识到网络是个监督的重要阵地，是个获取线索的好的平台，所以，他也会更好地利用网络继续自己的事业。但是，展望事业的前景，他说，最希望的还是“我的网站早点关闭”，因为那个时候说明“咱们国家各个职能部门已经在正确履行自己的职能了”。</font></p>
+<p><font size="3">　　<strong>成功源于证据</strong></font></p>
+<p><font size="3">　　李新德：中国舆论监督网创办人，被媒体称为“民间反腐第一人”。</font></p>
+<p><font size="3">　　2004年在网上发表《下跪的副市长――山东济宁市副市长李信丑行录》46天后，李信被宣布逮捕，而且被判处无期徒刑，此事称为网络监督标志性事件。
+2006年8月发表《“两头通吃”的湖南省郴州市纪委书记曾锦春》，当年的9月20日曾锦春被“双规”，后被判死刑。2007年9月，介入贵州六盘水警察枪杀陈军案件，2009年10月，受害人获得赔偿。</font></p>
+<p><font size="3">　　李新德的成名成就于贪官李信的下跪。</font></p>
+<p><font size="3">　　2004年6月10日，当掌握有材料和照片的李新德，把《下跪的副市长――山东济宁市副市长李信丑行录》一文发布到中国舆论监督网上以后，马上引起网民的轰动，各地媒体争相转载。&nbsp;&nbsp;</font></p>
+<p><font size="3">　　46天后，李信被逮捕，审判之后被判处无期徒刑。</font></p>
+<p><font size="3">　　尽管此前李新德也曾写过一些批评文章在报纸等媒体上发表，但都是小打小闹，影响不大，而这篇文章的风行和事情的结果让李新德意识到了网络的强大，让他看到“互联网的生命力和发稿的自由快捷”。</font></p>
+<p><font size="3">　　自从下跪副市长事件以后，不断有人找李新德投诉，有的时候他一天甚至可以接到多达400多封投诉信。从此，他走上专职的反腐败新闻调查的道路。</font></p>
+<p><font size="3">　　2006年8月16日，李新德写了湖南省郴州市纪委书记曾锦春的案件，标题是《“两头通吃”的郴州市纪委书记曾锦春》，一个月以后曾锦春被双规。有人说是新华社的内参起到了作用，但李新德强调是中国舆论监督网第一家公开报道曾锦春事件的。那个时候，一个副厅级的纪委书记是没有人敢公开报道的。</font></p>
+<p><font size="3">　　六盘水警察杀人案件，李新德在网上发布之后又得到网友和媒体的呼应，之后中央政法委和贵州省政法委进行了监督。2009年，当地政府赔偿当事人合计81万元。</font></p>
+<p><font size="3">　　为了让自己报道的事情得到更多的舆论支持，李新德除了自己的网站，还利用论坛、博客发布文章。有时候，他的博客多达150多个，至今还有20多个博客存活在网络里。</font></p>
+<p><font size="3">　　接受采访时，李新德特别提到：“网络是一个反腐败的好工具，但网络也存在管理方面的问题。比如，有一些别有用心的人会利用网络混淆是非，对自己的仇家进行诬陷和诽谤。”他说他本人也是一个受害者，曾被人在网上和某媒体上攻击说他收了封口费50万元、小金猪等。对此，他已经提起诉讼，二审判决该媒体败诉。</font></p>
+<p><font size="3">　　所以，李新德提醒网友：“不管是什么人，虽然都可以利用网络发布消息，但一定要对事实负责，否则就会受到道德和法律的审判。”</font></p>
+<p><font size="3">　　他在接手投诉的时候有个底线：“不管任何人向我投诉，都要向我提供证据。”他说自己对证据的审查是非常严格的，“比如，你投诉某领导受贿，主要证据是录音和录像，另外还有证人等”。对于没有证据、道听途说的案件，李新德从来都不会报道，他说这也是他至今从没有败诉过的原因。</font></p>
+<p><font size="3">　　李新德说：“我的亲身经历告诉我，网络是自由的，同时也是平等的，大家都需要在法律的范围内活动，尤其是一个反腐名人，首先要严格要求自己，如果为所欲为，放松警惕，迟早会受到惩罚。”</font></p>
+<p><font size="3">　　(摘自《法律与生活》半月刊4月上半月期)</font></p><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d118598101.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_4></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：10-05-04 17:20</span></p></dd></dl><dl class="dl"><dt><a href="/d118597773.htm" target="_blank">只许官员腐败不许百姓举报，打击报复举报..</a></dt><dd class="bor"><p class="pd"><!---doc_text---><div><strong><strong><font size="4"><span>只许官员腐败不许百姓举报，打击报复举报人比踩死蚂蚁还容易</span></font></strong></strong></div>
+<div><strong><strong><font size="4">&nbsp;&nbsp;&nbsp; 徐州副市长李荣启腐败太明显，但举报太难，报复举报人太容易，徐州已不像是共产党领导的天下，党和政府颜面丢尽――自曝副省长徐鸣充当其保护伞，</font></strong><font
+size="4"><strong>传言中组部部长李源潮是保护伞，腐败官员</strong><strong>徐州常务副市长李荣启后台硬逍遥法外</strong></font></strong></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div align="left"><strong><strong><font size="3">【内容简介】</font></strong></strong></div>
+<div><strong><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 徐州市在任的市委委常委、常务副市长李荣启因“房子多”、“子女多”、“钱多”，简称“李三多”（住房多，仅徐州市区拥有福利六套房，子女多，即超生拥有三个子女），在长期通过正常途径举报无效情况下，而被知名举报人王培荣网上实名举报。</font></strong></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 王培荣举报近二年上百封举报信，没有任何部门向王培荣了解情况和通报查处结果，得到的只是李荣启的威胁和疯狂的打击报复。</strong><strong>2010</strong><strong>年</strong><strong>3</strong><strong>月</strong><strong>24</strong><strong>日，王培荣公开部分了举报李荣启违法犯罪的举报证据：其中向中纪委举报</strong><strong>10</strong><strong>次，最高人民检察院举报</strong><strong>6</strong><strong>次，向中共中央组织部</strong><strong>“12380”</strong><strong>举报</strong><strong>4</strong><strong>次，向省委书记信箱举报</strong><strong>10</strong><strong>次，向省长信箱举报</strong><strong>10</strong><strong>次，向市委书记信箱举报</strong><strong>10</strong><strong>次，向市长信箱举报</strong><strong>10</strong><strong>次</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong><strong>李荣启腐败证据确凿，早已大白于天下，</strong><strong>&nbsp;</strong><strong>李荣启部分违法犯罪证据已在网络公开一年了，在</strong><strong>google</strong><strong>搜索“李荣启腐败”，出现</strong><strong>64200</strong><strong>条与“李荣启腐败”有关的文章，全世界都知道的徐州市委常务、常务副市长李荣启是腐败官员，但在徐州没有腐败官员李荣启办不成的事，全世界都知道的腐败市长李荣启理所当然地能长期逍遥法外。<br />
+</strong></font></div>
+<p><br />
+<strong><font size="3">全世界都知道的腐败市长李荣启能长期逍遥法外，问题出在哪里？在徐州，决定全世界都知道的腐败市长李荣启命运的，既不是国家的法律法规，也不是党和政府政策、反腐的决定，更不是徐州的百姓，而是个别的官老爷，这些官老爷难以听到真话，极个别是不愿听真话。个别官员充当李荣启保护伞，暗箱操作就能轻易地使腐败官员李荣启长期逍遥法外。徐州腐败官员李荣启自曝副省长徐鸣充当其保护伞，甚至有传言政治局委员中组部部长李源潮是李荣启的保护伞。</font></strong></p>
+<div><font size="3"><strong>&nbsp;</strong><strong>被举报的</strong><strong>徐州腐败官员李荣启逍遥法外的同时，著名反腐举报人王培荣遭李荣启疯狂报复被失业。王培荣被迫用“自杀式”举报方式，举报腐败真相大白天下的徐州腐败官员李荣启。</strong></font></div>
+<div><strong><font size="3"></font></strong>&nbsp;</div>
+<div align="center"><strong><font size="3"></font></strong>&nbsp;</div>
+<div align="center"><strong><font size="3">目录</font></strong></div>
+<div><strong><font size="3">一、从反腐举报人王培荣网上公开徐州副市长李荣启腐败证据看出十分明显涉嫌刑事犯罪</font></strong></div>
+<div><strong><font size="3">二、使党和政府颜面丢尽徐州腐败官员副市长李荣启向美国之音诉苦：我们是弱势群体。徐州腐败官员李荣启利用美国之音推脱罪责，仍不忘诽谤举报人王培荣</font></strong></div>
+<div><font size="3"><strong>三、徐州腐败官员李荣启妖怪成精了：近二年</strong><strong>60</strong><strong>封实名举报信均石沉大海，近５万条网络揭露毫无效果，著名反腐举报人王培荣遭报复被失业</strong></font></div>
+<div><strong><font size="3">四、中国反腐之痛：著名反腐举报人王培荣被迫用“自杀式”举报方式，举报腐败真相大白天下的徐州腐败官员李荣启（现任徐州市委常委、常务副市长）</font></strong></div>
+<div><strong><font size="3">――这是一场腐败者与反腐败者的生死决斗，这是一场正义与邪恶的较量，这是一场权与法的搏弈</font></strong></div>
+<div><strong><font size="3">五、</font></strong><strong><font color="#993300" size="3">著名反腐举报人王培荣网上公开的只是徐州副市长李荣启腐败问题冰山一角</font></strong></div>
+<div><strong><font size="3">六、</font></strong><strong><font color="#993300" size="3">腐败官员李荣启自曝充当保护伞的正是创造徐州官场腐败多项世界奇迹的副省长徐鸣</font></strong></div>
+<div><font size="3"><strong>七、</strong><strong>&nbsp;</strong><strong>中组部部长李源潮有责任查徐州腐败官员李荣启，使“李源潮是保护伞”的传言不攻自破，尽快查处徐州市委常委、常务副市长李荣启等徐州腐败官员，维护党纪国法的尊严，维护党和政府的形象，同时也维护政治局委员中组部部长李源潮形象</strong></font></div>
+<div><font size="3"><strong>八</strong><strong>、【乌有之乡推荐】请尽快将徐州“反腐人士”王培荣绳之以法</strong></font></div>
+<div><strong><font size="3">九、<font size="3"><strong><font size="3"><font size="4"><strong>向<font
+size="3">徐州</font>市建设局、<font size="3">徐州市</font>房管局举报徐州常务副市长李荣启以权谋私得外单位集资房</strong></font></font></strong></font></font></strong></div>
+<div><strong><font size="3">十、</font><font size="4">用民告官突破徐州腐败官员常务副市长李荣启铜墙铁壁式的保护伞</font></strong></div>
+<div><strong><font size="4">――著名反腐举报人王培荣行政起诉<strong>徐州市建设局、</strong>徐州市房产管理局，希望<strong><font
+size="4">用民告官突破腐败官员李荣启铜墙铁壁式的保护伞</font></strong></font></strong></div>
+<div><strong><font size="3"></font></strong>&nbsp;</div>
+<div align="left"><strong><font size="3">一、从反腐举报人王培荣网上公开徐州副市长李荣启腐败证据看出十分明显涉嫌刑事犯罪</font></strong></div>
+<div align="left"><font size="3"></font>&nbsp;</div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<strong>按国家有关法律法规和政策，外单位的集资房李荣启和李荣启老婆均没有资格买，一个平米也不能买。著名反腐举报人王培荣提供并在网上公开了证据（在徐州市房管局产权管理处档案材料：李荣启夫妇的星光大厦</strong><strong>302</strong><strong>、</strong><strong>303</strong><strong>《房屋所有权登记表》），李荣启夫妇至今还住在以权谋私的外单位福利房（星光大厦</strong><strong>302</strong><strong>、</strong><strong>303</strong><strong>），查李荣启以权谋私腐败十分容易的。<br />
+在徐州市房管局产权管理处档案材料：李荣启夫妇的星光大厦<strong>302</strong><strong>、</strong><strong>303</strong><strong>《房屋所有权登记表》（下简称《房屋所有权登记表》）可以看出李荣启明显的以权某私的违法犯罪：</strong>
+<div><font size="3"><strong>1</strong><strong>、《房屋所有权登记表》中产权来源项为：集资建房。即国家政策规定的给本单位职工的福利房，只有本单位职工才有权购买，只卖给住房困难的职工，而且夫妇双方只能购买一套。</strong></font></div>
+<div><strong><font size="3">可以看出李荣启明显的以权谋私违法犯罪：</font></strong></div>
+<div><font size="3"><strong>（</strong><strong>1</strong><strong>）李荣启夫妇的星光大厦</strong><strong>302</strong><strong>、</strong><strong>303</strong><strong>是徐州市建设局的集资房，李荣启夫妇均不是徐州市建设局职工，李荣启夫妇从来没有在徐州市建设局工作过（没房李荣启当时是徐州市委常委、市宣传部部长，现任徐州市委常委常务副市长，李荣启老婆一直是徐州市总工会职工），没有资格买建设局的集资房。</strong></font></div>
+<div><font size="3"><strong>（</strong><strong>2</strong><strong>）李荣启不是住房困难的职工，在李荣启夫妇以权谋私非法购买徐州市建设局的集资房星光大厦</strong><strong>302</strong><strong>、</strong><strong>303</strong><strong>前，李荣启已有三套福利房，市委家属院二套、康居小区一套，房屋面积超过</strong><strong>238</strong><strong>平方米。即李荣启使是建设局职工，也不能购买集资房星光大厦</strong><strong>302</strong><strong>、</strong><strong>303</strong><strong>。</strong></font></div>
+<div><font size="3"><strong>（</strong><strong>3</strong><strong>）即使本单位的夫妇双方也只能购买一套集资建房。《房屋所有权登记表》可以看出星光大厦</strong><strong>302</strong><strong>是李荣启老婆王亚玲的产权，</strong><strong>303</strong><strong>是李荣启的产权，这是李荣启明显的以权谋私违法犯罪的铁证。</strong></font></div>
+<div><font size="3"><strong>2</strong><strong>、《房屋所有权登记表》中登记类型项为：转移登记。</strong></font></div>
+<div><font size="3"><strong>李荣启夫妇买星光大厦</strong><strong>302</strong><strong>、</strong><strong>303</strong><strong>是买新房，不是二手房。买新房应该是房产登记，买二手房当产权变更时才是转移登记。为什么李荣启夫妇买新房星光大厦</strong><strong>302</strong><strong>、</strong><strong>303</strong><strong>是转移登记？因为李荣启买的是外单位集资房（福利房）是非法的，要转移登记使其“合法化”。</strong></font></div>
+<div><font size="3"><strong>3</strong><strong>、《房屋所有权登记表》中产别项为：私产。</strong></font></div>
+<div><font size="3"><strong>说明李荣启夫妇以权谋私，通过大量违法操作使星光大厦</strong><strong>302</strong><strong>、</strong><strong>303</strong><strong>为李荣启夫妇私产。</strong></font></div>
+<div><font size="3"><strong>4</strong><strong>、当时市场价每平米超过</strong><strong>5000</strong><strong>元的房屋，依据举报人举报星光大厦</strong><strong>302</strong><strong>、</strong><strong>303</strong><strong>共</strong><strong>280</strong><strong>平方米外单位二套集资房李荣启只付了三十万，李荣启没有拿出任何证据只是口头声称是以</strong><strong>2580</strong><strong>元</strong><strong>/m<sup>2</sup></strong><strong>买的，明显低于市场价按照最高人民法院、最高人民检察院发布的《关于办理受贿刑事案件适用法律若干问题的意见》，十种行为被明确以受贿论处。从王培荣网络举报而落马被判刑的泉山区委书记董锋的判决书可以看出，董锋低价购买的房屋，以受贿论处。</strong></font></div>
+<div><font size="3"><strong>《中国共</strong> <strong>产</strong> <strong>党党员领导干部廉洁从政若干准则》，该准则第一条第六款规定：</strong></font></div>
+<div><strong><font size="3">第一条禁止利用职权和职务上的影响谋取不正当利益。不准有下列行为：</font></strong></div>
+<div><strong><font size="3">（六）违反规定多占住房，或者违反规定买卖经济适用房、廉租住房等保障性住房。</font></strong></div>
+<div><font size="3"><strong>在</strong><strong>1997</strong><strong>年</strong><strong>3</strong><strong>月发布的《中国共</strong>
+<strong>产</strong> <strong>党党员领导干部廉洁从政若干准则（试行）》第一条党员领导干部要廉洁奉公，忠于职守。禁止利用职权和职务上的影响谋取不正当利益。</strong></font></div>
+<div><font size="3"><strong>&nbsp;</strong><strong>徐州市副市长李荣启以权谋私腐败是党纪国法所不容的，但李荣启涉嫌十分明显刑事犯罪却无人查处。</strong></font></div>
+<div><font size="3"><strong>5</strong><strong>、李荣启不仅涉嫌受贿，而且是主动索贿。在矿大办公楼，在矿大领导在场情况下，李荣启本人对王培荣讲了如何以徐州市委市政府名义取得建设局锦绣嘉园内层高</strong><strong>22</strong><strong>层的星光大厦二套集资房的过程：</strong></font></div>
+<div><font size="3"><strong>当时李荣启任市委常委、宣传部长，有市委二套房子（一套</strong><strong>60</strong><strong>多平米，另一套</strong><strong>40</strong><strong>多平米），还有康居小区</strong><strong>138</strong><strong>平米一套市委福利房，李荣启夫妇住在康居小区，父母住市委房子。考虑到照顾父母不便，李荣启向当时常务副市长庄华平（现徐州市政协主席）提出解决住房困难，由庄华平安排，市政府秘书长兼建设局局长杨军操作，得到二套</strong><strong>280</strong><strong>平米建设局集资房，一套在李荣启名下，另一套在李荣启老婆名下。</strong></font></div>
+<div><strong><font size="3">&nbsp;&nbsp;&nbsp;&nbsp; 李荣启一再声称：他得到的二套建设局集资房是市委市政府同意的，是合法的，但拿不出任何证据。</font></strong></div>
+<div><strong><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 李荣启以权谋私违法犯罪，为了逃避法律惩处还恶意陷害党和政府组织</font></strong></div>
+<div><strong><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 李荣启如果住房真正有困难，应该自己去社会买商品房解决。</font></strong></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 从李荣启自己叙述的取得建设局集资房过程，十分明显是以权谋私取得的。李荣启当时是市委常委、宣传部长，是市委的人，有</strong><strong>240</strong><strong>多平米三套福利住房的李荣启如认为住房还有“困难”，理应向市委后勤部门申请解决。李荣启有什么权力直接向外单位的当时常务副市长庄华平提出解决住房“困难”。作为常务副市长庄华平更没有权力给外单位的有</strong><strong>240</strong><strong>多平米三套福利住房的李荣启再安排建设局二套</strong><strong>280</strong><strong>多平米的福利房。这是徐州官场严重腐败的表现之一。</strong></font></div>
+<div><font size="3"><strong>6</strong><strong>、李荣启在徐州市区以权某私至少取得六套福利房，其中四套低价买，高价卖，非法谋取私利。</strong></font></div>
+<div><font size="3"></font>&nbsp;</div>
+<div><strong><font size="3">二、使党和政府颜面丢尽徐州腐败官员副市长李荣启向美国之音诉苦：我们是弱势群体。徐州腐败官员李荣启利用美国之音推脱罪责，仍不忘诽谤举报人王培荣</font></strong></div>
+<div><font size="3"></font>&nbsp;</div>
+<div><strong><font size="3">详情请看网页：</font></strong></div>
+<div><strong><font color="#993300" size="3">美国之音：被举报的徐州常务副市长李荣启自称是弱势群体，骂举报人王培荣精神上有问题</font></strong></div>
+<div><strong><font color="#993300" size="3">http://blog.cnfol.com/fanfujiehei/article/10500887.html</font></strong></div>
+<div><strong><font color="#993300" size="3">王培荣再次公开实名向中纪委等举报李荣启，并揭露李荣启对美国之音记者的谎言</font></strong></div>
+<div><strong><font color="#993300" size="3">http://blog.cnfol.com/fanfujiehei/article/10524940.html</font></strong></div>
+<div><strong><font color="#993300" size="3">史上最牛的被举报腐败官员李荣启在美国之音面前成了弱势群体</font></strong></div>
+<div><strong><font color="#993300" size="3">http://blog.cnfol.com/fanfujiehei/article/10529328.html</font></strong></div>
+<div><strong><font color="#993300" size="3">【评论】弱势群体：徐州常务副市长李荣启的最新雷人官腔</font></strong></div>
+<div><strong><font color="#993300" size="3">http://blog.cnfol.com/fanfujiehei/article/10540274.html</font></strong></div>
+<div><strong><font size="3"></font></strong>&nbsp;</div>
+<div><font size="3"><strong>三、徐州腐败官员李荣启妖怪成精了：近二年</strong><strong>60</strong><strong>封实名举报信均石沉大海，近５万条网络揭露毫无效果，著名反腐举报人王培荣遭报复被失业</strong></font></div>
+<div><font size="3">&nbsp;</font><strong><font size="3">详情请看网页：</font></strong></div>
+<div><strong><font color="#993300" size="3">http://blog.cnfol.com/fanfujiehei/article/10370153.html</font></strong></div>
+<div>
+<div><strong><font size="3"><strong><font color="#993300" size="3">香港凤凰网：中国矿大教授王培荣长期网上举报官员被失业</font></strong></font></strong></div>
+<div><strong><font color="#993300" size="3">http://blog.cnfol.com/fanfujiehei/article/9691697.html</font></strong></div>
+</div>
+<div><strong><font size="3">四、中国反腐之痛：著名反腐举报人王培荣被迫用“自杀式”举报方式，举报腐败真相大白天下的徐州腐败官员李荣启（现任徐州市委常委、常务副市长）</font></strong></div>
+<div><strong><font size="3">――这是一场腐败者与反腐败者的生死决斗，这是一场正义与邪恶的较量，这是一场权与法的搏弈</font></strong></div>
+<div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 王培荣实名网络反腐十多年，受到社会的广泛关注和肯定，被官方媒体称誉为“著名网络反腐举报人”、“江苏网络反腐举报第一人”。著名网络反腐举报人王培荣入选最高人民检察院主管的正义网发起的2009年度中国正义人物候选人，王培荣网络得票排名第四，王培荣受到评委高度评价。王培荣实名网络反腐不但得到国内媒体广泛报道，也得到世界著名媒体</strong></font><font
+color="#993300"><font size="3"><strong>日本《读卖新闻》和法兰西24电视台</strong></font><font size="3"><strong>国外媒体的关注。有关的国内媒体报道多达二百多篇，详细目录请看网络连接（</strong></font></font><strong><font
+color="#993300"><font size="3">http://blog.cnfol.com/fanfujiehei/article/5940540.html</font><font
+size="3">，</font></font></strong><font color="#993300" size="3"><strong>http://blog.cnfol.com/fanfujiehei/article/5929647.html）。</strong></font><font
+size="3"><strong>等</strong></font></div>
+<div align="left"><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp; 2009年10月25日，江苏电视台在报道王培荣网络反腐视频的网页上是这样介绍王培荣的：“全国著名的网络反腐斗士王培荣是中国矿业大学理学院的副教授。多年以来，为了党和人民的利益，为了国家的长治久安，积极置身于反腐的伟大事业。并且取得了很大的成绩。例如全国最荒淫无耻的区委书记---江苏省徐州市泉山区原区委书记董锋在长期举报得不到查处的情况下，被王培荣在网络上举报后，很快得到了查处，为党清除了一害。”</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp; 2009年10月27日，《中国青年报》报道“著名网络反腐举报人”王培荣得情况：</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp; 中国矿业大学理学院教师王培荣在徐州是家喻户晓的人物。因为他从2000年开始，已有过12次民告官的经历。2008年7月6日晚，他通宵发出了几千封电子邮件和帖子，反映时任江苏徐州泉山区区委书记董锋的作风问题。一个多月后，董锋被正式逮捕。王培荣也因此被称为“著名网络反腐举报人”。</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;王培荣举报的一个最大特点就是实名。即使在网上发帖，他也贴出真实姓名和联系电话，“我会为真实性承担责任，这样也避免造谣诽谤。我不怕承担风险，只要大家都敢站出来，腐败分子肯定会越来越少。”</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;“举报人的目前生存状态很不好。很多怕遭到报复，就带着材料来找我，希望我替他们举报。我只能通过我个人的力量，提醒有关部门重视保护举报人，鼓励老百姓参与到反腐败的行列中来。”王培荣说。</strong></font></div>
+<div><font size="3"><strong>在文章结尾写道：</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp; 这段时间，王培荣一直在关注新出台的一系列反腐政策制度。“为什么我敢实名举报？就因为我对反腐是有信心的，我坚信党和政府会坚决惩治腐败。可能中间会有挫折，但社会正义一定会战胜邪恶。”</strong></font></div>
+<div><font size="3"><strong></strong></font>&nbsp;</div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp; 王培荣的实名举报与反腐博客，给王培荣带来了天大的麻烦。首先是遭遇了来自被举报人李荣启亲家雇佣的黑社会对王培荣实施人身伤害；再就是王培荣因实名举报丢了工作，成为反腐败的殉葬品。</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp; 香港凤凰网转载《时代周报》记者宋阳标报道：《中国矿大教授王培荣长期网上举报官员被失业》，</strong><font
+color="#993300"><strong>http://news.ifeng.com/society/5/201002/0224_2579_1554412.shtml</strong><strong>。2010年2月28日《南充日报》时评：让举报人下课，</strong></font><strong><font
+color="#993300">http://www.cnncw.cn/pdf/ncwbnew/html/2010-02/28/content_147310.htm</font></strong></font></div>
+<div><font size="3"><strong>　　素有“著名网络反腐举报人”、“江苏网络反腐第一人”之称的中国矿业大学理学院副教授王培荣，所在学校在前所未有的强大压力下，被迫向长期被王培荣网络举报的官员屈服，以不停止‘网络举报’为由，对王培荣作出行政处分：终止教学，调离教学岗位。</strong></font></div>
+<div><font size="3"><strong>　　王培荣被停课，我们无意指责学校的无理行为，因为在强大的压力之下学校也是无奈之举，学校在很多方面都有求于当地政府官员，得罪了他们就等于给自己堵了路，学校的生存境地也会时时处处被政府官员掣肘。一方面是拥有绝对权力的政府机关和官员群体，一方面是单枪匹马的普通教授，在利弊权衡之下，校方只能以牺牲个人利益来换取学校的长久平安。举报是宪法赋予公民的一项基本权利，在王培荣身上，我们看到了他行使权利的正义和神圣，也看到了他为此付出的巨大代价，当举报成为一件极为风险的事情时，无疑需要有关方面进行反思。</strong></font></div>
+</div>
+<div><strong><font size="3">详情请看网页：</font></strong></div>
+<div><strong><font color="#993300" size="3">http://blog.cnfol.com/fanfujiehei/article/10579334.html</font></strong></div>
+<div><strong><font size="3">五、</font></strong><strong><font color="#993300" size="3">著名反腐举报人王培荣网上公开的只是徐州副市长李荣启腐败问题冰山一角</font></strong></div>
+<div><strong><font size="3">详情请看网页：</font></strong></div>
+<div><strong><font color="#993300" size="3">http://blog.cnfol.com/fanfujiehei/article/10642488.html</font></strong></div>
+<div><strong><font size="3">六、</font></strong><strong><font color="#993300" size="3">腐败官员李荣启自曝充当保护伞的正是创造徐州官场腐败多项世界奇迹的副省长徐鸣</font></strong></div>
+<div><strong><font size="3">详情请看网页：</font></strong></div>
+<div><strong><font color="#993300" size="3">http://blog.cnfol.com/fanfujiehei/article/10665058.html</font></strong></div>
+<div><strong><font size="3"></font></strong>&nbsp;</div>
+<div><font size="3"><strong>七、</strong><strong>&nbsp;</strong><strong>中组部部长李源潮有责任查徐州腐败官员李荣启，使“李源潮是保护伞”的传言不攻自破，尽快查处徐州市委常委、常务副市长李荣启等徐州腐败官员，维护党纪国法的尊严，维护党和政府的形象，同时也维护政治局委员中组部部长李源潮形象</strong></font></div>
+<div><strong><font size="3"></font></strong>&nbsp;</div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2010</strong><strong>年</strong><strong>4</strong><strong>月</strong><strong>8</strong><strong>日晚，著名反腐举报人王培荣收到电子邮件，全文如下：</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong> <strong>“您好尊敬的王教授，对你的义举我一直怀着十分崇敬的心情，现我想对腐败分子李荣启的事情说一下我自己的看法：腐败分子李荣启原沛县县委书记，在沛县时就恶贯满盈、贪污腐败（但是我们没有确凿的证据），在他升任徐州市副市长后，和腐败分子徐鸣为一丘之貉，王教授在您坚持不懈的努力下，两腐败分子仍逍遥法外，不知道王教授是否想过，他们之所以能逍遥法外在他们后面是不是有更黑恶的保护伞呢，李荣启之所以当副市长是因为徐鸣的提拔，而徐鸣当副省长是不是现中组部部长李源潮的提拔呢，如果李荣启倒了很可能徐鸣也坐不稳，拔出徐鸣这棵萝卜带出哪些泥呢，我觉得那么长时间没有结果的原因也许就在这里。</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> <strong>以上不知妥否，请王教授指教！</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> <strong>在这里祝王教授身体健康！深深的祝愿。</strong><strong>&nbsp;”</strong></font></div>
+<div><strong><font size="3"></font></strong>&nbsp;</div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> <strong>此前，王培荣也听到过一些“李源潮是李荣启保护伞”的传言，而且王培荣还听到关于徐州前组织部长陆正方买官卖官案的传言，一百多向陆正方买官徐州徐州官员，除逮了五个外，其余的都不处理了，传言是原江苏省委书记、现政治局委员中组部部长李源潮说了一百多腐败官员全逮了徐州没有办法开展工作了。</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;</strong> <strong>下面王培荣谈谈对上述传言的个人看法：</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp; 1</strong><strong>、中国共</strong><strong>产</strong><strong>党与腐败“水火不容”、</strong><strong>&nbsp;</strong><strong>对任何腐败分子，都必须依法严惩，决不姑息！惩治腐败是党和政府的决策，事关党和国家生死存亡的大事，任何人没有权力给腐败官员开口子，使腐败官员逍遥法外。</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp; 2</strong><strong>、有效地惩治腐败，是党和政府有生命力的表现，会提升党和国家的形象和信誉。</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> <strong>给腐败官员开口子，使腐败官员逍遥法外，是对党和国家的犯罪，严重破坏党纪国法的尊严，严重破坏党和政府的形象。</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp; 3</strong><strong>、李源潮原是江苏省省委书记，李荣启是徐州市委常委副市长，徐鸣原是徐州市委书记，原来有过工作关系很正常，但不能说就是李源潮就是他们的保护伞。传言“李源潮是李荣启保护伞”、“一百多向陆正方买官徐州徐州官员，除逮了五个外，李源潮说其余的都不处理了”，是李荣启等腐败官员所希望的，这些腐败官员为了逍遥法外，千方百计不择手段造声势，企图阻止被查处，这是徐州腐败官员为达到逃避党纪国法制裁有意“抹黑”</strong><strong>政治局委员中组部部长李源潮。</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> <strong>这里王培荣举一个事例：</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong> <strong>拿王培荣</strong><strong>08</strong><strong>年网络成功举报的一夫多妻徐州泉山区委书记董锋案为例。</strong></font></div>
+<div><strong><font size="3">董锋曾多次威胁其家属，说“徐州、南京、北京我都拿钱买通了，你敢举报，我一个电话就叫你坐牢”，当时董锋家属把董锋说过李源潮是他的保护伞这一消息告诉著名反腐举报人王培荣。后来董锋被查处的事实说明李源潮不但不是董锋所说的保护伞，而且李源潮还指示董锋案向全国通报，教育警示全国党员干部，这一指示后来没有得到贯彻执行，原因在江苏省副省长兼徐州市委书记徐鸣本身。相关情况详情请看网页：</font></strong><strong><font
+color="#993300" size="3">徐州官场接连出现震惊世界的贪官淫官的八大原因，</font></strong><strong><font color="#993300"
+size="3">http://blog.cnfol.com/fanfujiehei/article/9345458.html</font></strong></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4</strong><strong>、政治局委员中组部部长李源潮管的是中央直管干部，对象是省级干部。徐州市委常委常务副市长李荣启和一百多向陆正方买官徐州徐州官员，是省管干部。工作上说，没有直接关系。李源潮没有机会说不查徐州腐败官员李荣启。</strong></font></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp; 5</strong><strong>、徐州市在任的市委委常委、常务副市长李荣启因“房子多”、“子女多”、“钱多”，简称“李三多”（住房多，仅徐州市区拥有福利六套房，子女多，即超生拥有三个子女），在长期通过正常途径举报无效情况下，而被知名举报人王培荣网上实名举报。王培荣举报近二年，没有任何部门向王培荣了解情况和通报查处结果，得到的只是李荣启的威胁和疯狂的打击报复。</strong></font></div>
+<div><font size="3"><strong>徐州副市长李荣启腐败太明显，但举报太难，报复举报人太容易，徐州已不像是共</strong><strong>产</strong><strong>党领导的天下，而且</strong></font><strong><font
+color="#993300" size="3">腐败官员李荣启自曝充当保护伞的正是创造徐州官场腐败多项世界奇迹的副省长徐鸣详情请看网页：</font></strong><strong><font
+color="#993300" size="3">http://blog.cnfol.com/fanfujiehei/article/10665058.html</font></strong><strong><font
+color="#993300" size="3">。</font></strong></div>
+<div><font size="3"><strong>&nbsp;&nbsp;&nbsp;&nbsp; 6</strong><strong>、李荣启虽然是省管干部，但其保护伞副省长徐鸣是政治局委员中组部部长李源潮管的是中央直管干部，而且这二位曾经是李源潮的部下，社会上传言李源潮是李荣启的保护伞的情况下，中组部部长李源潮有责任查徐州腐败官员市委常委、常务副市长李荣启，使“李源潮是李荣启保护伞”的传言不攻自破，维护党纪国法的尊严，维护党和政府的形象，同时也维护政治局委员中组部部长李源潮形象。</strong></font></div>
+<div><font size="3"><strong></strong></font>&nbsp;</div>
+<div><font size="3"><strong>&nbsp;</strong><strong>八、</strong><strong>【乌有之乡推荐】请尽快将徐州“反腐人士”王培荣绳之以法</strong></font></div>
+<div><font size="3"><strong>&nbsp;</strong><strong><font color="#993300">http://www.wyzxsx.com/Article/Class22/201004/143423.html</font></strong></font></div>
+<div><font size="3"><strong>&nbsp;</strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<strong>以举报“二妻书记”而名扬天下的徐州“反腐人士”王培荣，不遗余力地举报当地另一官员已达二年之久。之所以在“反腐人士”四字上加了引号，是因为我也不知道王培荣这次的举报情况是否属实。在真相大白或大象真白之前，还是稳妥一点的好。　　</strong></font></div>
+<div><strong><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 王培荣举报属实吗？在此，　支农　先生郑重声明，本人坚决不知道。甚至本人也没那个好奇心，非得知道不可。但有关方面必须知道，且必须有一个说法。举报腐败是一个绝对的零和游戏，只能一方胜而另一方负，不可能双赢或双输。但王培荣实名举报了二年多，据其博客，曾经写过信的部门有检察院、纪委、监察部门，但竟无一个部门公开站出来说，王培荣举报属实，正在调查，或是王培荣举报不实，查无此事，又或是王培荣是恶意诬陷，应当由司法部门追究刑事责任。出现前述三种结果，均是可以接受的，但恰恰是第四种结果，没人应声，各有关方面不约而同地采取了同样的态度，十锥子扎不出一滴血来，十脚踹不出一个屁来，请问要你们何用？难道拿着两年多的工资，就是要你们在这样的问题上选择沉默？我呸！　　</font></strong></div>
+<div><strong><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 王培荣实名举报了二年多，应当着手查处了，但就目前情形看，尚未。未采取措施的理由，显然不是“无论职务多高，无论牵涉到谁”的决心出了问题。因为比王培荣的举报对象官大的人，去年都被拿下了8个。我估计一下原因，可能是王培荣的举报对象的不法行为情节太轻了。按举报材料看，也不过就几套福利房，其中可能存在有低价购房的问题，另外就是超生。超生虽然违纪，也不算犯罪行为，犯罪行为还查不过来呢，违纪的就以教育或自我批评为主吧。如果低价购房情况属实，可能构成犯罪，但情节也并不重。但无论重与不重，也得查完了再说，像现在这样不哼不喘，总不是个路。又或许这是反腐的一种策略，抓主要矛盾，抓大放小，先抓大的，不四面出击，以免四面树敌？但普通干部涉案数额上万元，也有被判刑的。莫非对什么级别可以腐败到什么程度也有内部规定？不超过这个程度就应当认定为清廉？大官可以多贪，小官只能少贪，否则就“无论职务多高”？若是这样，那么即使王培荣举报属实，该官员也绝对是清官了。一个厅级干部就搞那么几套房子算个屁啊！简直应该作为清官典型大肆宣传，且应该让他巡回演讲，告诉各地官员他是怎样改造自己的人生观、世界观才如此清廉的。抱歉，我需要再呸一下。呸！　　</font></strong></div>
+<div><strong><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 反腐是真反还是假反？如是真反，贪一分也是贪，不构成犯罪不追究刑事责任，情节超轻也可不予以纪律处分，但批评教育还是应当的。如此，对于王培荣的举报就必须认真调查。若是假反，也得做出真反的样子，至少让外人看起来是真反。所以也必须做做调查的“秀”。　　</font></strong></div>
+<div><strong><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 王培荣人品如何？本人还是不清楚。但在其举报“二妻书记”的事件中，他是一位并非为了个人私利去反腐的义士。举报“二妻书记”不会让他得到任何好处。想时下之中国，还有谁是这样反腐的？我们看到的贪官被抓，哪一个不是情妇或其他受害人举报出来的？如果王培荣在本次举报中依然扮演这样的角色，那么他依然是反腐义士。真正的反腐义士，全中国也仅此一人而已。有关方面有理由对此人的连篇举报予以忽视吗？腐败最主要的不是危害私人利益，却正是危害公共利益，因此既要把查办案件的希望寄望于群众举报，也应当更多地寄望于王培荣这样的义士，而不是寄望于马桶、小偷、情妇、及其他受害人。有关方面二年来一直对此事保持沉默，难道不怕有叶公好龙的嫌疑吗？难道就不怕其他举报人寒了心？难道就不怕十三亿人都寒了心？　　</font></strong></div>
+<div><strong><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 如果不怕，那么请尽快把王培荣抓起来吧！至于调查不调查的，也不是什么大事。只要说调查过，绝无此事就行了。　　</font></strong></div>
+<div><strong><font size="3">&nbsp;</font></strong>
+<div><strong><font size="3"><strong><font size="3">九、<font size="3"><strong><font
+size="3"><font size="4"><strong>向<font size="3">徐州</font>市建设局、<font size="3">徐州市</font>房管局举报徐州常务副市长李荣启以权谋私得外单位集资房</strong></font></font></strong></font></font></strong></font></strong></div>
+<div><strong><font size="3">1、要求徐州市建设局依法收回李荣启以权谋私得到的徐州市建设局集资房</font></strong>
+<div><strong><font size="3"><strong>&nbsp;&nbsp;</strong> <strong>李荣启以权谋私得到的徐州市建设局集资房</strong><strong>星光大厦</strong><strong>302</strong><strong>、</strong><strong>303</strong><strong>，违反国家法律法规和相关政策，要求徐州市建设局依法收回</strong><strong>星光大厦</strong><strong>302</strong><strong>、</strong><strong>303</strong><strong>，维护</strong><strong>国家法律法规和相关政策尊严，维护社会的正义。</strong></font></strong></div>
+<div>2、<strong><strong>要求</strong>徐州市房管局权属市场管理处</strong>依法撤销李荣启以权谋私得到的徐州市建设局集资房的产权证
+<div><strong>&nbsp;</strong><strong>&nbsp; 李荣启以权谋私得到的徐州市建设局集资房</strong><strong>星光大厦</strong><strong>302</strong><strong>、</strong><strong>303</strong><strong>，违反国家法律法规和相关政策，要求要求</strong>徐州市房管局权属市场管理处依法撤销李荣启夫妇以权谋私得到的徐州市建设局集资房<strong>星光大厦</strong><strong>302</strong><strong>、</strong><strong>303</strong><strong>的产权证</strong><strong>，维护</strong><strong>国家法律法规和相关政策尊严，维护社会的正义。</strong></div>
+</div>
+<div>&nbsp;</div>
+</div>
+<div><strong><font size="3">十、</font><font size="4">用民告官突破徐州腐败官员常务副市长李荣启铜墙铁壁式的保护伞</font></strong></div>
+<div><strong><font size="4">――著名反腐举报人王培荣行政起诉<strong>徐州市建设局、</strong>徐州市房产管理局，希望<strong><font
+size="4">用民告官突破腐败官员李荣启铜墙铁壁式的保护伞</font></strong></font></strong></div>
+<div><font size="4">详情请看网页：<font color="#993300">http://blog.cnfol.com/fanfujiehei/article/10937074.html</font></font></div>
+</div>
+<div><font size="3"><strong></strong></font><br />
+&nbsp;</div>
+<div>
+<div><strong><font size="3"><font size="3"><strong>请有正义感的记者与王培荣联系，共同揭露真相，捍卫国家财产和百姓利益。请网友帮助举报和转帖，清除腐败分子和黑恶势力及保护伞，还徐州良好的社会环境。</strong></font></font></strong></div>
+<div><font size="3"><strong>全国著名反腐揭黑举报人王培荣联系方式：</strong></font></div>
+<div><font size="3"><strong>电话：0516-83884475 E-mail:</strong><strong><font color="#993300">peirongwang@sina.com</font></strong></font></div>
+<div><font size="3"><strong></strong></font>&nbsp;</div>
+<div><font size="3"><strong>点击量超70万的著名反腐揭黑举报人王培荣博客</strong></font></div>
+<div><font color="#993300" size="3"><strong>http://blog.sina.com.cn/daheichue</strong></font></div>
+<div><font size="3"><strong>点击量超60万的反腐揭黑举报人王培荣新博客</strong></font></div>
+<div><font color="#993300" size="3"><strong>http://blog.cnfol.com/fanfujiehei</strong></font></div>
+<div><font size="3"><strong>&nbsp;</strong></font>
+<div>
+<div><strong><font size="3">徐州腐败官员常务副市长李荣启和主动索贿二套住房的锦绣嘉园内高层星光大厦像片</font></strong></div>
+</div>
+</div>
+</div>
+</strong></font></div><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d118597773.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_5></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：10-05-04 17:17</span></p></dd></dl><dl class="dl"><dt><a href="/d118597426.htm" target="_blank">专家：高薪就能养廉是一种误解</a></dt><dd class="bor"><p class="pd"><!---doc_text--->根据高薪养廉原理，“高薪”要高到足以使官员珍惜其“高薪”差事，而不敢轻易去贪污
+<p>　　“高薪养廉”话题，争议颇多，论者各执其词，莫衷一是。笔者抛砖引玉，提出一些粗浅的看法，愿与读者共同探讨。　</p>
+<p>　　为什么提出“高薪养廉”　</p>
+<p>　　“高薪养廉”这个话题不是现代人的新理念，其实古代早已有之，那时叫做“厚薪养廉”。　</p>
+<p>　　古今中外，都存在程度不同的贪污腐败现象。于是，人们就想出各种整治官吏腐败的办法，“厚薪养廉”或“高薪养廉”就是其中的一种办法。　</p>
+<p>　　腐败现象在经济尚不发达的状况下，主要是由于官吏工薪偏低而造成的。西汉宣帝结合他治吏的经验说:“今小吏皆勤事，而俸禄薄，欲其毋侵渔百姓，难矣。”宋代王安石也曾指出，一般下级官员俸禄之薄，不足以应付养生丧死婚姻葬送之事，是促成贪污腐败的重要原因。　</p>
+<p>　　在国外，新加坡领导人一再指出，如果是在建国初期的非常年代，要求官员多作牺牲，多讲贡献，那是必要的，而且也是可能的。但是，在进入和平建设年代后，如果继续这样要求政府领导人，那就是很不现实的一种理想主义的做法。他们坚持认为，薪酬过低，就不可能保持政府廉洁。所以，他们提倡“高薪养廉”。　</p>
+<p>　　在我国，建国初期实行的是低工资广就业政策。随着社会生产力的发展，低薪政策很快就显现出它的弊病来。那就是不能激励竞争，人们的积极性调动不起来，生产发展迟缓，腐败现象滋生、蔓延。上世纪五六十年代，农村一些干部工资很低，却盖了房子。哪来的钱?这是不言而喻的。一些干部由于薪金低，家庭负担重，而手中又握有实权，就容易产生以权谋私、权钱交易。　</p>
+<p>　　高薪养廉的观点提出后，有人又简单地以为，只要政府给“高薪”，就能养廉。其实，这是一种误解。“高薪”只是养廉的必要条件，而非充分条件。在和平建设时期，采取低薪制，容易产生腐败;如果采取高薪制而又没有相应的制约措施，高薪仍然不能保证官员廉洁。　</p>
+<p>　　在经济发展到一定阶段，企业的管理人员也就是“白领”薪酬一般较高的情况下，“高薪”对公务员的吸引力不大，远不能满足一些官员的私欲。在这种情况下，如果仍依靠“高薪”政策来养廉就未必能奏效。这时，必须依靠严密的管理和有效的监督。　</p>
+<p>　　“高薪”如何界定　</p>
+<p>　　关于给官员多少薪酬为宜，古人有个说法。王安石认为，在官府里当差的老百姓，“其禄已足以代其耕矣”，即他们的俸禄要赶得上他们种田的收入。然后，俸禄逐级增加，“使其足以养廉耻而离于贪鄙之行”。这就是说，给官吏的薪酬，不仅要保障官吏本人的衣食水平，使之无冻馁之虞，还应满足其赡养老人、哺育儿女及日常交往之需，使其全心从政而无后顾之忧。　</p>
+<p>　　在现代，随着生产力的高度发展，官员的薪酬就不能以“足以代其耕”为标准了。那么，多高的薪才叫“高薪”?才能养廉?笔者认为，“高薪”不能理解成一个绝对的数字。新加坡总理年薪约82万美元，我们哪能比得了?“高薪”应根据各国的国情尤其是经济实力而定。根据高薪养廉原理，“高薪”要高到足以使官员珍惜其“高薪”差事，而不敢轻易去贪污，即王安石所说的“足以养廉耻而离于贪鄙之行”。因此，单就工薪高低而言，理应是薪金越高腐败越少。香港有一富翁被歹徒伤害，愿花5万元港币请警察破案，警察没有收，说:“案子会给你破，但钱不能收。”我认为这样做不一定是办案的警察思想好，主要是因为香港警察的工薪也很高，他们怕丢失这份“高薪”美差。这就是“高薪”起的作用。如果官员薪酬太低，尤其是在市场经济的今天，公务员的工资和公司企业管理人员的薪酬相差悬殊，那就有可能去贪污受贿了。　</p>
+<p>　　建立科学的管理机制　</p>
+<p>　　有人认为只要思想好，就不会贪污，如方志敏等。不错，思想好固然不会贪污，可是全国有千千万万个干部，怎么可能人人的思想都能像方志敏呢?何况，人的思想是会变的。解放初期，绝大多数干部都是好的，但到了后来，随着形势的发展，一些干部的思想起了变化。有人经得住真枪实弹，却经不住“糖衣炮弹”，于是出现了“59岁现象”。　</p>
+<p>　　为了防治腐败，如果总是把希望寄托在思想好或者像包拯那样少数清官身上，那是不能解决问题的。作为一个政府，为保证全体官员的清廉，必须建立一套科学的、严密的廉政管理制度，来约束官员，使他们无漏洞可钻而无法贪污，以此遏制腐败之风。　</p>
+<p>　　贪污腐败是由于权力过大、滥用权力所致。因此，我们要把权力化解到科学管理制度之中，变领导决定为制度管理。也就是说，将原先由领导者个人决定执行，变成领导者为组织者和执行决议者。这时领导者的职责在于，根据上级精神、原则，经过集体讨论决定，制定具体政策、规则、审批标准程序等并公之于众。然后，按这些标准程序办事。符合条件的，限时批准，不需要上级批条，更不需要“托人情”、“找关系”。比如，福利分房之初，公房由管房者配给。后来改由分房委员会集体讨论，制定评分标准，然后由高分到低分，按分数高低选房。这种做法，就是把少数人的决定权，化解到具体规则之中，做到公平、公正、公开。　</p>
+<p>　　干部的选拔、任用，如果只由个别领导选定，就会有诸多弊端:如不能从广泛人群中选出真正思想好、有才干的能人;再如容易被人用来以权谋私，进行买官卖官，敛取钱财。因此，必须把选拔、任用干部的权力交给人民。让人民自己选择自己信得过的、德才兼备的优秀干部。　</p>
+<p>　　现在，我们的干部任用和待遇往往是“职务只上不下、薪金只增不减”。实行“高薪”制后，就要按职务高低、能力强弱、贡献大小给予相应薪金。在官员任职期间，实行定期考核。如果他工作能力强，能创造显著政绩，就要给他高薪;如果他能力差或不作为，那就安排与他能力相当的职务，降到相应职务的薪金。　</p>
+<p>　　建立多层次多方位的监督机制　</p>
+<p>　　权力缺乏监督，必然导致腐败。因此，为保证高薪养廉能实现，必须建立有效的监督机制。那么，谁来监督?怎么监督?现行的是上级监督下级，以及设立专门的监督机构。这是应该的，也是必要的。例如各级党的组织设纪检部门，各级政府设监察等专门机构，对党内和政府官员进行监督。可如今发现，监督别人的干部也会发生腐败，那么又要谁再来监督他们呢?所以，单靠党政机关的内部监督是不够的，还必须依靠不受政府制约的外部力量，进行多层次多方位的监督。特别是要调动各方群体检举揭发腐败的积极性，形成强大的反腐阵势，围而歼之。　</p>
+<p>　　反腐败，发扬民主是至关重要的。在封建社会里，由于没有民主，管理监督又跟不上，所以，企图用“高薪”来养廉，就很难从整体上实现官员的廉洁。　</p>
+<p>　　新修订的《人民检察院举报工作规定》，给予举报人以精神和物质奖励。这是一项调动群众积极举报的好措施，应该发扬。但国家对举报人要有立法保护措施，保护举报人及其家属的人身、财产不受侵害，使此项政策得以顺利实施。　</p>
+<p>　　舆论监督是人民群众监督的重要部分，媒体要充分发挥在反腐败中的作用。许多腐败问题，正是首先由媒体曝光，才得到领导的重视和解决。　</p>
+<p>　　思想道德教育不能放松　</p>
+<p>　　在官员管理上，用行政和法律手段只能起到强制和约束作用，使官员克制腐败犯罪行为，免于受到惩罚，使其“不敢贪”;运用经济手段，保障官员过上相对体面的生活，使其“不必贪”。但严刑峻法和高薪养廉，都不能从思想上解决根本问题，使官员“不想贪”。所以，高薪养廉也好，依靠法律制度反腐也好，对官员的思想道德教育都不能或缺。　</p>
+<p>　　十年“文革”动乱，导致思想阵线发生混乱，“造反有理”、“打砸抢”成风，造成信仰危机、是非不分、无所适从;不讲真理和信仰，不讲正气与文明。改革开放以来，政治思想教育又有所放松，向钱看的风气有所抬头，只认钱不认人。要改变这种社会风气，让人人讲道德讲文明，让官员遵守职业道德，就必须加强理想信念和社会主义荣辱观教育。在全社会尤其是官员中宣扬好人好事，多宣传焦裕禄、沈浩式的好干部好榜样，树立新风尚。使每个干部都树立崇高理想信念和高尚的道德情操，树立正确的权力观和金钱观，正确对待自己的待遇问题，充分认识贪污腐败的可耻和所产生的严重后果，以此自觉地约束自己的行为。</p><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d118597426.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_6></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：10-05-04 17:13</span></p></dd></dl><dl class="dl"><dt><a href="/d118597317.htm" target="_blank">陷入泥潭</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p>政府已陷入维稳沼泽地</p>
+<p><font face="Times New Roman"></font></p>
+<p>牟传珩</p>
+<p><font face="Times New Roman"></font></p>
+<p>今年已经成为中国官民冲突风起云涌的迭起年。它标志着社会开始进入了秩序动荡的高风险时期。中国社会的<font face="Times New Roman">"</font>管治危机<font
+face="Times New Roman">"</font>警报已经拉响。近日，清华大学社会学系举行了首届“清华社会发展论坛”，社会发展研究课题组在会上发布了《以利益表达制度化实现社会的长治久安》报告：“近些年来，我们实际上已经陷入‘维稳的怪圈’：各级政府将大量的人力物力财力用于维稳，但社会矛盾和社会冲突的数量非但没减，反而不断增加，在某种意义上已经陷入‘越维稳越不稳’的恶性循环。”（<font
+face="Times New Roman">4</font>月<font face="Times New Roman">19</font>日<font face="Times New Roman">
+</font>《中国青年报》）<br />
+<br />
+</p>
+<p>去年，中国官方通讯社新华社下属新闻《了望》新闻周刊发表题为《<font face="Times New Roman">2009</font>各类社会矛盾将碰头叠加》的文章。文章称：<font
+face="Times New Roman">2009</font>年，中国受到金融危机的冲击和国内问题积累<font face="Times New Roman">"</font>社会风险因素增多，矛盾碰头叠加，治安形势严峻复杂、社会治安综合治理任务繁重艰巨<font
+face="Times New Roman">"</font>。<font face="Times New Roman"> <br />
+<br />
+</font></p>
+<p>其实，<font color="red">胡锦涛</font>早在年<font face="Times New Roman">2006</font>年度第十二次中央政治局组织生活会议上就承认：执政党正面临着前所未有的三大危机的沉重压力和冲突。这三大危机是：政治危机、社会基础危机和管治危机。三大危机互为条件，但集中体现在管治危机上。近年来，<font
+color="red">胡锦涛</font>又再三强调<font face="Times New Roman">"</font>忧患意识<font face="Times New Roman">"</font>。这表明中国的执政者，对当下官民冲突频发局面已陷入焦灼与恐慌状态。尽管这些年来官方维稳经费不断攀升，大把大把地浪费纳税人的血汗钱，但“越维稳越不稳”，政府已陷入维稳沼泽地。</p>
+<p><font face="Times New Roman"></font></p>
+<p><font face="Times New Roman"></font>冲突本系社会发展之常态，正是由于社会冲突的存在，社会整合才得以完成，社会变迁才得以实现。然而，从杨佳到杨勇，如此不断发生的官民冲突事件，还有上访、罢工、请愿等，甚至局势难以控制“无直接利益冲突”群体事件，早已越出了社会常态冲突的范围，显示出今日社会群体躁动的明显特征。今日社会，当政者拒绝走宪政民主道路，打压、封杀异议声音，社会整体腐败已无法遏制。官权滥用，社会不公，民间积压的不满情绪已接近临界点，但喊冤渠道却被堵塞。贫困者端起碗来喝汤，放下碗来骂娘；富有者端起碗来吃肉，放下碗来也骂娘。极端事件井喷式爆发。</p>
+<p><font face="Times New Roman"></font></p>
+<p>最高检副检察长借在全国政协十一届三次会议接受记者采访之际向社会发问：“为什么这么不相信法制的力量呢？”其实在真正的法治国家，法制体现的是一种规则与秩序。规则与秩序本是一种在公民约定基础上的合意状态。当一种社会规则与秩序的公正性受到普遍怀疑时，当多数公民蔑视这些规则与秩序，就意味着社会合意状态的崩溃，意味着公民对如此“法制”现状的否定。</p>
+<p><font face="Times New Roman"></font></p>
+<p>如今中国之所以公共危机引爆进入倒计时，而官方发起的新一轮“核心价值”宣传又遭遇“草泥马”阻截，强行推行“发展就是硬道理”与“让一部分人先富起来”政策导向，致使“稳定”压倒正义，“发展”逼退公平。因此今日中国社会贫富对立、官民对抗已成为两大主要矛盾爆发出来。<br />
+<br />
+<font face="Times New Roman">20</font>多年以来，中国贫富差距畸形发展，迅速拉大，到<font face="Times New Roman">90</font>年代中后期，相对贫困人口增多日趋明显。此据国家统计局公布的保守数据表明，全国居民基尼系数，<font
+face="Times New Roman">1978</font>年仅为<font face="Times New Roman">0.16</font>，但到了<font
+face="Times New Roman">90</font>年代末期，中国的基尼系数开始以每年<font face="Times New Roman">0.001</font>个点的速度提高，<font
+face="Times New Roman">1999</font>年已高达<font face="Times New Roman">0.457</font>，<font
+face="Times New Roman">2000</font>年为<font face="Times New Roman">0.458</font>，<font
+face="Times New Roman">2001</font>年为<font face="Times New Roman">0.459</font>，<font
+face="Times New Roman">2002</font>年为<font face="Times New Roman">0.460</font>。<font
+face="Times New Roman">2004</font>年<font face="Times New Roman">8</font>月<font
+face="Times New Roman">17</font>日《光明日报》载文指出：中国的基尼系数已达到<font face="Times New Roman">0.53</font>或<font
+face="Times New Roman">0.54</font>，近年来已接近<font face="Times New Roman">0.6</font>。据联合国<font
+face="Times New Roman">2004</font>年报告，中国的基尼系数不仅高于印度、印尼、埃及、韩国等国家，甚至高于美国、法国和日本等最发达国家。按照前几年劳动人事部统计局和工商管理局联合调查<font
+face="Times New Roman">150</font>万人得出的结论，占人口<font face="Times New Roman">8.6%</font>最富有的家庭占有全部金融资产的<font
+face="Times New Roman">60.47%</font>，而另外<font face="Times New Roman">43.73%</font>最贫困家庭只占有<font
+face="Times New Roman">2.9%</font>，这两组人群的平均相差是<font face="Times New Roman">103</font>倍，如果我们把资产这部分考虑进去，贫富差距就更明显了。曾有学者撰文称：“号称社会主义的中国在两极分化方面超过了资本主义的美国。”基尼系数是衡量居民收入差距大小的一个定量指标。按照国际标准，基尼系数在<font
+face="Times New Roman">0.2</font>以下为绝对平均，<font face="Times New Roman">0.2</font>―<font
+face="Times New Roman">0.3</font>为相对平均，属于平均状态；<font face="Times New Roman">0.3</font>―<font
+face="Times New Roman">0.4</font>为比较合理，属于正常状态；<font face="Times New Roman">0.4</font>为警戒线，超过<font
+face="Times New Roman">0.4</font>就算警戒状态；<font face="Times New Roman">0.4</font>―<font
+face="Times New Roman">0.5</font>为差距偏大，<font face="Times New Roman">0.5</font>―<font
+face="Times New Roman">0.6</font>为差距悬殊，达到<font face="Times New Roman">0.6</font>则属于社会动乱随时可能发生的危局状态。由此可见，中国贫富“两极分化”这颗社会动乱的定时炸弹的引爆，现已进入倒计时。如今网上流行一份<font
+face="Times New Roman">"</font>中国大陆高官子女<font face="Times New Roman">"</font>名单，在册收录了大陆高官子女多达<font
+face="Times New Roman">700</font>多人的佐实材料。他们中许多都是利用权力资源发财暴富的。云南省原省长李嘉廷之子李勃有句<font
+face="Times New Roman">"</font>名言<font face="Times New Roman">"</font>：<font face="Times New Roman">"</font>高干子弟哪个不做生意，没个千儿八百<font
+face="Times New Roman"> </font>万就干脆别在<font face="Times New Roman">\'</font>太子党<font
+face="Times New Roman">\'</font>里混，别的高干子弟也瞧不起你。<font face="Times New Roman">"</font>那些在位高干或已退休高干腐败分子背后都能牵出一串贪子女、贪配偶。<font
+face="Times New Roman">"</font>老革命<font face="Times New Roman">"</font>的子女借助其权势，继续掌权或以经商为名不择手段地掠钱、洗钱、捞钱，已成为中国越来越腐败的一种现象。人民网旗下《人民论坛》最近登了一篇文章，第一次承认了中国的三大类富豪中间，红色家族是其中一个主体。<br />
+<font face="Times New Roman"></font></p>
+<p>如今，面对公民的知情权需求和反腐败、要民主形势的严峻挑战，以及网上一场场公民力量联合行动的集体宣示，当局应当清醒了：中国发生接二连三的激起民愤恶性公共事件的根本原因，就是拒绝三权分立，民主监督的宪政制度改革，导致的权力执行者胡作非为。它最终危害的正是执政者的根本利益。当政者拒绝宪政改革，就等于是在自毁权力基础。因此，本文毫不夸张地说，“越维稳越不稳”的恶性循环正在撞击中南海的朱红色大门。</p><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d118597317.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_7></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：10-05-04 17:12</span></p></dd></dl><dl class="dl"><dt><a href="/d118597063.htm" target="_blank">特供官员奢侈品形成产业链 送礼行贿手法...</a></dt><dd class="bor"><p class="pd"><!---doc_text---><strong>官本位催生<span>“</span>特供奢侈品<span>”</span><span style="font-family:宋体;"></span></strong>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">诸如虎骨酒、天价烟和文物，几乎是为权力<span>“</span>量身定做<span>”</span>，可称为<span>“</span>特供奢侈品<span>”</span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">《了望东方周刊》记者顾佳<span> | </span>上海报道<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">4</span><span style="font-family:宋体;">月<span>14</span>日</span><span
+style="font-family:宋体;">，重庆市公安局原副局长、司法局原局长文强涉嫌包庇纵容黑社会性质组织罪、受贿罪、巨额财产来源不明罪、强奸罪一案，在重庆市第五中级人民法院一审被判处死刑。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">此前，文强收受赃物曾公开展示，堆成小山的钞票之外，还有数以百计的名烟名酒、<span>36</span>件现代工艺品、<span>9</span>件文物、<span>69</span>幅字画，曾被人称为<span>“</span>超级震撼<span>”</span>。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">2009</span><span style="font-family:宋体;">年，全国纪检监察机关共立案<span>134504</span>起，结案<span>132808</span>起，给予政纪处分<span>37581</span>人，其中省部级干部和中管企业主要领导<span>10</span>人，厅局级干部<span>220</span>人，刷新改革开放以来反腐年度纪录。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">解读高官落马原委，大都是文强式<span>“</span>朝中有人做官，市场有人经商<span>”</span>的故事。除了赤裸裸收受现金，还有相当部分贿赂是通过一些特殊礼物的馈赠实现。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">北京一家媒体曾随机抽取该市法院<span>2005~2007</span>年间审理的<span>100</span>件受贿案进行分析，结果表明，官员过年时收受的礼单中，轿车与房子分列第二和第三，名列第一的是<span>“</span>小件奢侈品<span>”</span>。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><b><span
+style="font-family:宋体;">“</span></b><b><span style="font-family:宋体;">贿物<span>”</span>品种三变</span></b><span
+style="font-family:宋体;"></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">改革开放以来，贪官接受的<span>“</span>贿物<span>”</span>历经三变。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">纪检人员中流传着这样的说法：<span>20</span>世纪<span>90</span>年代初期，在贪官家称金银、数钞票，要当会计师；世纪之交，去查贪官家外有几个家，办案需要<span>“</span>狗仔队<span>”</span>精神；收藏热和文物市场量价齐升之后，去贪官家搜古董字画，得成为文物鉴定专家。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">字画<span>195</span>件，包括齐白石、张大千、潘天寿、吴昌硕、任伯年、谢稚柳、弘一、李可染等众多书画家作品；古瓷器<span>23</span>件，包括清雍正霁红小杯、青花缠枝莲小罐、青花灵芝纹瓜麦小罐、清粉彩花卉过枝碗，清乾隆青花八宝纹香壶等；西方艺术品<span>4</span>件，鸡血石<span>5</span>块，邮票<span>3</span>本，银圆<span>457</span>枚，金币<span>38</span>枚；其他各种文物<span>352</span>件，古陶器<span>220</span>件，贵重首饰<span>48</span>件，名酒<span>261</span>瓶<span>??</span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">这是浙江省温州市鹿城区原公安局长王天义落马时的查抄物品，华丽阵容媲美博物馆的馆藏目录。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">王天义于<span>2002</span>年被判处死刑，而类似礼单在诸多反贪案卷中一再重现。字画古玩对应着某些干部<span>“</span>知识化<span>”</span>的需要，领时尚潮流的国际顶级奢侈品则对应着<span>“</span>年轻化<span>”</span>的需要。登喜路中国区总裁瑟里加尔说：<span>“</span>登喜路一直是广受中国商人和政府官员喜爱的品牌。<span>”</span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">2004</span><span style="font-family:宋体;">年德国人斯蒂芬把<span>90</span>副<span>LOTOS</span>眼镜带到北京王府井投石问路。斯蒂芬说，在<span>LOTOS</span>最大的市场日本，很多政府官员是这些每副<span>10</span>万<span>~50</span>万欧元的眼镜的主顾。他坚持认为，在中国，<span>“</span>这<span>(</span>政府官员<span>)</span>将是一块潜在市场<span>”</span>。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><b><span
+style="font-family:宋体;">送礼手法<span>“</span>创新<span>”</span></span></b><span style="font-family:宋体;"></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">为了给<span>“</span>不太方便<span>”</span>在奢侈品店自由购物的官员提供方便，以奢侈品送礼行贿的手法也在<span>“</span>务实创新<span>”</span>。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">奢侈品店的一个潜规则是，商人在店里开一个私人账户，这个账户代码在同品牌所有门店通用，如有<span>“</span>关系官员<span>”</span>购物，只要说出代码，就可将账单记在商人名下。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">古玩店有自己的洗钱流程。<span>“</span>关系官员<span>”</span>把收到的古玩字画<span>(</span>不论真假<span>)</span>放在古玩店或拍卖行代售，送礼者再以真品价格买下。古玩真假难辨，市场价格弹性极大；新艺术品的价值判断主观性极强。正是基于此，古玩艺术品以其容易变现又相对隐蔽的特点，成为高端贿赂的<span>“</span>新宠<span>”</span>。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">烟杂店里寄售名烟名酒则是<span>“</span>小打小闹<span>”</span>。中国民用航空江苏管理局原局长崔学宏曾说：<span>“</span>我有个春节情结，过年除了收红包，还收名烟名酒<span>??</span>拿到民航餐厅卖，一个春节就能收入<span>10</span>万元。<span>”</span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">古玩店、拍卖行是高层次贪官的变现银行，烟杂店是低层次贪官的<span>ATM</span>机，各有各的生财之道。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">还有旁门左道：北京城乡建设集团原总经理聂玉河收到藏在鱼肚里的<span>10</span>万元；中国农业银行总行培训部原副总经理魏湘滨则在<span>“</span>好猫<span>”</span>烟里发现同额礼金；给国家体育彩票管理中心原副主任张伟华的月饼盒里装的是<span>1</span>万美元；一名官员将礼品干货篮摆在阳台长达一年，待纪检人员登门，他才发现篮子里是百万现金。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">据反腐部门统计，节日、婚丧嫁娶、生日、搬家、生病，是给官员送礼的最常用借口，其中春节、中秋的节礼尤为<span>“</span>丰厚<span>”</span>。披上人情外衣后，那些有贪心的官员就往往在收受礼物的性质是否是受贿上分辩不清，而贪官则<span>“</span>抗辩<span>”</span>不已。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">安徽省原副省长王怀忠说：<span>“</span>都是礼尚往来，怎么是受贿？<span>”</span>沈阳市原市长慕绥新在<span>“</span>忏悔书<span>”</span>中写：<span>“</span>有<span>180</span>余人<span>--</span>每逢年节给我送钱送物，不好意思拒绝。<span>”</span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">遭遇<span>“</span>抗辩<span>”</span>最厉害的是<span>“</span>雅贿<span>”</span>，一句<span>“</span>我以为是不值钱的赝品<span>”</span>，贪官们据此瞒天过海。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><b><span
+style="font-family:宋体;">贪腐官员拉动奢侈品<span>“</span>创新<span>”</span></span></b><span
+style="font-family:宋体;"></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">“</span><span style="font-family:宋体;">雅贿<span>”</span>古已有之。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">明人沈德符《万历野获编》记载，奸臣严嵩的受贿物品有<span>“</span>碧玉白玉围棋数百副，金银象棋亦数百副<span>??</span>然收藏书法名画最多，至以《清明上河图》起大狱而终不得。<span>”</span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">研究晚清官场会发现，晚清京官普遍受贿，并认为取诸地方和下级官员是理所当然。节庆送礼是主要形式之一，寒暑变迁有冰敬、炭敬，平日有别敬，婚丧喜庆有贺礼。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">比如，盛宣怀想升为尚书，其心腹报告，摄政王载沣号称<span>“</span>极廉洁<span>”</span>，但其妻<span>“</span>八姑则专爱钻戒，两弟则既爱财，又爱马<span>--</span>只要派一可靠之人进京运动，一拍即合。<span>”</span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">官本位思想主导，升迁的决定权掌握在长官手里，下级不得不巴结上级，这就造成了官场送礼的习气；而商人经营若得不到官府支持会遇到许多麻烦，商人贿赂官员，官员从中谋利，于是官商勾结。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">华东师范大学法律系副教授戴克霆说，贪腐官员不仅是普通奢侈品的终端消费者，而且是拉动奢侈品创新的一个原动力。诸如虎骨酒、天价烟和文物等，几乎是为权力<span>“</span>量身定做<span>”</span>，可称为<span>“</span>特供奢侈品<span>”</span>。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><b><span
+style="font-family:宋体;">财产申报能否成为突破口</span></b><span style="font-family:宋体;"></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">特供官员的奢侈品经过环环周转、层层过滤而变现，这个过程已经在一次次实践中衍生出了日渐完整的<span>“</span>产业链<span>”</span>。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">为<span>“</span>雅贿<span>”</span>变现服务甚至是一些古玩艺术品店的主营业务，类似的还有<span>“</span>专营虫草、燕窝、虎骨酒回收代售<span>”</span>的保健品店。而一些烟杂店门口树一块不起眼的硬纸牌：回收名烟名酒，也成了社会默认了的<span>“</span>行规<span>”</span>。这些半地下业务也会常因某些特定事件受到有关部门打击，但总体看，生命力仍然旺盛。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">要消灭贿物<span>“</span>创新<span>”</span>及变现的产业链，必先杜绝官员收大礼。而怎样杜绝官员收礼？北京大学法学院教授王锡锌等学者认为，官员财产申报是<span>“</span>终极反腐<span>”</span>措施，是一种制度化反腐的要求。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">今年全国<span><a href="/t.asp?http://news.qq.com/zt/2010/2010lianghui/%20%20"
+target="_blank"><span><span><font color="#1111cc">两会</font></span></span></a></span>期间，官员财产申报立法是热门话题之一。早在<span>1994</span>年，全国人大已将《财产收入申报法》列入立法项目，然而至今尚未正式立法。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><b><span
+style="font-family:宋体;">原因在哪里？</span></b><span style="font-family:宋体;"></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">清华大学公共管理学院廉政与治理研究中心主任、北京市纪检监察学会副会长任建明认为，实行官员财产申报制还有许多问题未解决，如向有关机构报告、向公众公开和具体问责办法等，因此，在地方遇阻属意料之中。四川西昌学院法学教授王明雯认为，在中国建立完善的财税制度是实行官员财产申报的前提，否则无法实现有效监督。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">任建明等把推行官员财产申报称为一场<span>“</span>革命<span>”</span>，<span>“</span>革命<span>”</span>已在一些地方进入进行时。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">2009</span><span style="font-family:宋体;">年<span>5</span>月，新疆阿勒泰地区纪委出台《县<span>(</span>处<span>)</span>级领导干部财产申报的规定<span>(</span>试行<span>)</span>》，随后规定范围内官员的财产申报在网上进行了公示。下半年，上海浦东新区出台试点县处级官员财产公示的意见征求稿。<span>12</span>月，重庆市在司法领域试点干部财产申报。<span></span></span></p>
+<p align="left" style="margin:0cm 0cm 0pt;text-align:left;text-indent:24pt;"><span
+style="font-family:宋体;">有人提出，公示家庭财产可从新被列为后备干部的官员、新被提拔的官员起步，这样可减少阻力，推动变革。<span></span></span></p>
+<span style="font-family:宋体;">&nbsp;&nbsp;&nbsp; “</span><span style="font-family:宋体;">双新<span>”</span>，或是建立官员财产申报制的突破口、消灭<span>“</span>特供奢侈品<span>”</span>灰色产业链的第一步</span><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d118597063.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_8></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：10-05-04 17:10</span></p></dd></dl><dl class="dl"><dt><a href="/d118596809.htm" target="_blank">要怜悯和拯救贪官</a></dt><dd class="bor"><p class="pd"><!---doc_text--->人民论坛杂志在今年十一月份，发起了“盛世危言：未来10年10个最严峻挑战”调查。该杂志通过两个步骤来形成这个调查：1、请各个领域的专家、学者列出20个排名靠前的问题，作为调查选项。2、专题调查在人民网、人民论坛网上推出。调查推出后，共有8128人参与了投票，按照票数的多少，列出了中国未来发展面临的十个最严峻的挑战。3、要求相关领域专家对该问题进行专业性解读。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;其中，占受访人数的82.3%的受访者认为“腐败问题突破民众承受底线”是最严重的问题。如果我投票，我会将政治体制改革放到第一重要的位置。当然，这个调查值得信任的地方在于：它直面问题的严重性：在肯定了政府反腐败的决心的前提下，用“腐败的‘出生率’大于‘死亡率’”这个客观结果，来说明的问题的严重性。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;学者王明高认为，反腐败效果不佳“主要原因有三”：一是制度设计不科学；二是制度执行没有刚性；三是反腐败工作没有一部统一的纲领性法律。他不但针对性地开出了药方，而且说明了该药方的“副作用”。特别重要的是他提出了其药方中的逻辑基础：人性本恶论。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;我认为，新制度经济学对人性的理解，既不是儒家的“人性本善”论，也不是所谓的“人性本恶”论，而是“人性利己”论。这就是说，人的本性不是“道德”问题，而是“算计”问题。任何人都是理性有限的经济人，无论他是消费者、是生产商还是政府官员，他们做决策的时候都是会最大化自己的利益。威廉姆森直接将人性定义为“机会主义者”。这就是说：人们在做决策时，不但会尽量利己，甚至在可能的条件下，用损人的方式利己。只有后者才是被视为“恶”。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;居民也会用损人的方式利己，比如俗话说的“坑蒙拐骗偷”；企业家也会用损人的方式利己，比如生产“假冒伪劣”产品；政府官员也会用损人的方式利己，比如中饱私囊，比如用公权力进行“寻租”，换取私人利益。我们所指的“腐败”，其实是针对最后这种。它与前两种不同的地方在于：它损害公民的利益时，具有规模化。它最危险的地方在于：它损伤了执政的合法性。所以各国都会将反腐放到政治高度和法律高度。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;客观地讲，中国历朝历代的政府，都非常注重反腐败问题。比如朱元璋颁布《大明律》，把《受赃》专设一篇，条目详尽严谨，惩罚苛刻残酷，并且，在《大明律》之后，又相继颁布《大诰》、《大诰续篇》、《大诰三篇》等等，这一切便构成了对官吏贪污行为的超强律法罗网。律法内所规定的刑罚手段，其残酷程度骇人听闻，实施之中，不少官员被凌迟、阉割、剁手、挑筋。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;封建专制政府的反腐，表面上看似乎有充足的动力，因为贪官所贪之财，正是国库；贪官所损之人，正是皇帝。但朱元璋自己就说过，早上刚砍了一批贪官的头，晚上又冒一批。其实，朱元璋之所以将反腐当做头等大事来抓，目标未必真的反腐，而是培养官僚们对皇权的畏惧和忠诚，是为他儿子接班铺路。所以，当他儿子劝告他不要“杀人太多”时，他气愤得把一枝荆棘摔在地上，让太子拣起来。荆棘多刺，太子难以下手，朱元璋把荆棘上的刺全部削光，把光秃秃的荆棘塞到太子手里，说：“我这些做法，都是在为你削除荆棘上的尖刺啊。”<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;官员们为什么被拖下水？前几年张宇燕用“俘虏理论”进行了解释：主要是因为他的手中握有大量公共资源，其中包括财政预算支出、诸如土地和矿产等公共财产、非中性的法律规章制度的设立等；同时，运转政府的公职人员在分配公共资源的过程中拥有一定的自由裁量权。作为一个等级结构，政府各层次的公职人员之间存在着严重的信息不对称，从而使对其的有效监督变得困难。所有这些，都为官商勾结以牟取私利提供了强大的空间和激励。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<font color="#0000ff"><b>文献《制度腐败和盗窃型政府》则认为：统治者把科层官僚看成是汲取财富的通道。统治者担忧三点：首先担忧官僚们向下掠夺、向上输送财富的时候缺乏动力；其次是担忧各级官僚在向上输送财富的途中“截取”太多；最担忧的是官僚阶层造反夺权。因此，下级官员的腐败，上级可以“假装不知道”。这样的好处是：一来可以将腐败当作胡萝卜以培养下层的忠诚；二来可以鼓励被抽税者向上层举报，导致腐败的信息为上级所垄断。三来可以让上级在将“腐败”当作大棒挥舞时，力度完全由上级所掌握。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;因此，贪官的尾巴被“上级”夹住了，他们在“上级”面前像哈巴狗一样毫无尊严，而对待老百姓则像疯狗一样凶残。从本质上说，他们是值得怜悯和拯救的。</b></font><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;“寻租理论”、“俘虏理论”和“科层掠夺理论”有一个共同点，那就是将一个国家的公民看成是腐败的受害者，而不是将统治者看成是腐败的受害者。这就意味着，<b><font
+color="#0000ff">反腐败的主体不应该是统治者，而应该是该国的公民。整个统治系统自身都必须是公民反腐败的对象</font>。</b><br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;这就意味着：建立在这种反腐败理论基础上的反腐败制度，才是一种彻底的反腐败制度。而不是那种将“反腐败”当做“胡萝卜加大棒”的机会主义选择。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;因此，用这种理论来扫描学者王明高开的反腐败药方，我们认为他开的药方存在一些不完善的方面：<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>1、公共财政制度</b>。这意味着财政是为公共服务提供资金来源的，并不是为“统治者”提供财富。这就要求各级政府财政的收入和支出都必须公示，广州市政府已经在这个方面迈出了第一步。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>2、应该用“官员家庭财产公示制度”替代官员财产申报制度</b>，因为“公示”是向全体公民负责，而“申报”只是对上负责。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>3、媒体对公权力运行过程的自由监督制度</b>。这和目前的“行政公开”不同。行政公开是“我给什么媒体才能报道什么”，而“自由监督”是媒体想知道什么，官方就必须显示什么。这样，官员的自由裁量权才会受到有效限制。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>4、官员获得职位的公开竞争制度</b>；即使是党内民主，也必须是面向公民社会公开竞争职位。因为所有的公权力都必须为纳税人服务，而不能被理解为是上级“私相授予”。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b>5、检察院等反腐败机构应该跟行政系统脱钩</b>。只要打官员的板子不在“上级”那里，官员就无需效忠于上级。<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;这样的话，当官就没什么很大意思了。所有那些指望通过当官来脱贫致富的人，都会因为处处受制度钳制而望而却步。实际上，在一个正常的社会中，最杰出的人才在从商和从事科研。只有衣食无忧而又对公共事务感兴趣、有能力的人，才会去从事行政管理。只要上级政府不能将腐败当做胡萝卜，那么腐败就不会被当做大棒。<br /><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d118596809.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_9></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：10-05-04 17:08</span></p></dd></dl><script language=javascript>function SetValue(sValues) {var arrvs = sValues.split(',');for (var i = 0; i < arrvs.length; i++) {document.getElementById("c_" + i).innerHTML = arrvs[i];};};SetValue('2611,233,165,114,127,1275,120,409,167,238');</script><div class="alg_r"><b>1</b> <a href="/u19005800/p2.htm">2</a> <a href="/u19005800/p3.htm">3</a> <a href="/u19005800/p4.htm">4</a> <a href="/u19005800/p5.htm">5</a> <a href="/u19005800/p6.htm">6</a> <a href="/u19005800/p2.htm">下一页</a> <input style="border:solid 1px #333333;font-size:12px;" id="pnBox" type="text" size="1"> <a href=# onClick="RePage('/u19005800/p',pnBox.value);">翻页</a> 共 6 页</div></div>
+
+		
+	</div>	
+	<div id="slideB"><div class="widget bor"><h2 class="tit bgn" title="我的名片">我的名片</h2><div class="cul"><a href="/u19005800"><img src="http://icons.xici.net/u19005800/files/photo_l.pic" alt=高淳维修网 /></a><p class="name">高淳维修网</p><ul class="ul"><li>ID　　号：19005800</li><li>注册时间：10-04-17</li><li>上次登陆：10-05-05</li><!--li>今日人气：12345</li--><!--li>今日排名：12345</li--></ul></div></div><div class="widget bor"><h2 class="tit bgn" title="个人资料">个人资料</h2><ul class="iul"></ul></div><script src='http://api.map.baidu.com/api?key=&v=1.1&services=true'></script><script src='http://imgs.xici.net/_controls/maps/baiduMap.js'></script><div class='widget bor'><h2 class='bgn tit' title='我的位置'>这里是哪呢？</h2><div class='map' id='dituContent' style='width:180px;height:150px'><script>baiduMap.createMap(118.8638303,31.32837085,11);</script></div></div><div class='widget bor'><h2 class='bgn tit' title='最新发表的文章'>最新发表文章</h2><ul class='iul'><li><a href='/d118649936.htm' title="女警官宋秀玲致公安部孟建柱部长的一封实名举报信" target='_blank'>女警官宋秀玲致公安部孟建..</a></li><li><a href='/d118598872.htm' title="各级政府维稳恶性循环:大力度维稳却越维越不稳" target='_blank'>各级政府维稳恶性循环:大...</a></li><li><a href='/d118598508.htm' title="全国最贪县委书记落马 “报销王”连袜子都贪了(图)" target='_blank'>全国最贪县委书记落马 “...</a></li><li><a href='/d118598340.htm' title="【版友原创】诛九族又何妨！（+4分）" target='_blank'>【版友原创】诛九族又何妨..</a></li><li><a href='/d118598101.htm' title="民间反腐者：网络反腐要冷静与理智 重视证据" target='_blank'>民间反腐者：网络反腐要冷..</a></li><li><a href='/d118597773.htm' title="只许官员腐败不许百姓举报，打击报复举报人比踩死蚂蚁还容易" target='_blank'>只许官员腐败不许百姓举报..</a></li><li><a href='/d118597426.htm' title="专家：高薪就能养廉是一种误解" target='_blank'>专家：高薪就能养廉是一种..</a></li><li><a href='/d118597317.htm' title="陷入泥潭" target='_blank'>陷入泥潭</a></li><li><a href='/d118597063.htm' title="特供官员奢侈品形成产业链 送礼行贿手法创新!" target='_blank'>特供官员奢侈品形成产业链..</a></li><li><a href='/d118596809.htm' title="要怜悯和拯救贪官" target='_blank'>要怜悯和拯救贪官</a></li></ul></div><div class="widget bor"><h2 class="tit bgn" title="标题">文章归档</h2><ul class="ul pul"><li><samp>・</samp><a href="a201005.htm">2010年05月</a> (49)</li><li><samp>・</samp><a href="a201004.htm">2010年04月</a> (4)</li></ul></div></div><div id="slideC"></div>
+	
+</div>
+<script language=javascript>
+localStorage.removeItem("noticeNum" + G_UID);
+try{
+ImgsFix();
+}catch(e){}
+jQuery(function (){
+	jQuery("#blog_bottom").show();
+	var a_h,b_h,c_h;
+	var typeA = jQuery("#slideA").css("display");
+	var typeB = jQuery("#slideB").css("display");
+	var typeC = jQuery("#slideC").css("display");
+	if(typeA == "block"){
+		a_h = jQuery('#slideA').height();
+	}else{
+		a_h = 0;
+	}
+
+	if(typeB == "block"){
+		b_h = jQuery('#slideB').height();
+	}else{
+		b_h = 0;
+	}
+
+	if(typeC == "block"){
+		c_h = jQuery('#slideC').height();
+	}else{
+		c_h = 0;
+	}
+	jQuery('#spCont').css("height", Math.max(a_h,b_h,c_h));
+})
+</script>
+
+<span id="blog_bottom" style="display:none;">
+</div>
+<script type="text/javascript">var lCityId=142440100;var lClubId=1;var lATimes=1;var strRefer='http://www.xici.net/u19005800';var refer='';if(refer=='fav') {strRefer='menu.asp';} var strFirstRefer='Xici';var maintag = (typeof(StatMainTag)=='undefined')?'':StatMainTag;var sbookDate = (typeof(bookDate)=='undefined')?'4':bookDate;var sLogondays = (typeof(Logondays)=='undefined')?'0':Logondays;var screenResolution = screen.width+'*'+screen.height;var str_img={rnd:"2015-12-21|13:48:34",runtime:{pub_1:"0.000",pub_2:"0.000",d_bconn:"0.000",d_bvsql:"0.000",d_besql:"0.000",HttpTimer_Raw1:"0.000",ATime:"0.141",DTime:"0.000",FTime:"0.000",AppSvr:"",AppRun:""},stat:{dn:"www.xici.net",uname:"",uid:"0",s:"5C4EAA235ADDB173",h:"",ct:"142440100",ch:"1",ats:"1",fr:"Xici",frurl:"http://www.xici.net/u19005800",cus:"http://www.xici.net/u19005800/",rf:escape(strRefer),mt:escape(maintag),bdt:sbookDate,lds:sLogondays,scr:screenResolution}};str_img="<img src='http://data.xici.net/1x1.gif?"+JSON.stringify(str_img)+"' style='display:none;' />";if(typeof(lBdId)=="undefined") {document.write(str_img);}else{document.write(str_img.replace(/(\/d([^/]+)\.htm)/,'/b'+lBdId+'$1'));}</script>
+	<script type="text/javascript">
+	window.onload = function () {
+			var SessionID = '5C4EAA235ADDB173';
+			if (SessionID != "" && window.localStorage){
+				var key = localStorage.getItem("key");
+				if (key!=SessionID){
+					localStorage.setItem("key",SessionID);
+					localStorage.setItem("count",1);
+				}else{
+					var value = Number(localStorage.getItem("count"));
+					localStorage.setItem("count",value+1);
+					if ((value % 6)==0){
+						bdAccessLogon(location.href.substring(location.host.length + 8),'_self');
+					}
+				}
+			}
+		}
+	</script>
+<img alt="" src="" width="0" height="0" />
+<div id="ofooter" class="w">
+	<span><a href="/" target="_blank" title="西祠首页">胡同口</a>|<a href="/help/law.asp" target="_blank" title="网民法规提示">法规</a>|<a href="http://service.xici.net/" target="_blank" title="广告服务">广告服务</a>|<a href="/help/partner.asp" target="_blank" title="合作伙伴">合作伙伴</a>|<a href="/help/contact.asp" target="_blank" title="联系我们">联系我们</a>|<a href="/b566135/" target="_blank" title="加入我们">加入我们</a>
+	</span>
+</div>
+
+<script type="text/javascript">    
+//google代码统计
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+jQuery(function (){
+	if (typeof gastatic !== "undefined") {
+		gastatic();
+	}
+});
+</script>
+<!--[if IE 6]>
+<script src="http://imgs.xici.net/_js/DD_belatedPNG.js"></script>
+<script type="text/javascript">
+   DD_belatedPNG.fix('.logo_top, .logo a');
+</script>
+<![endif]-->
+
+</span>
+<script src="http://imgs.xici.net/_js/xici.common.analysis-baidu.js" type="text/javascript"></script>
+</body>
+</html>

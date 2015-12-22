@@ -1,0 +1,1383 @@
+<!--UINFO: http://bbs.edu.163.com/bbs/jiaoyu/534227491,1.html	length=108339&last_modified=0&time_saved=1450677000&charset=gbk-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk"/>
+<meta http-equiv="pragma" content="no-cache" />
+
+
+<link rel="stylesheet" type="text/css" href="http://img1.cache.netease.com/bbs/static/20150917/form_tie.css" charset="GBK"/>
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="http://img1.cache.netease.com/bbs/static/20150917/tie_ie6.css" charset="GBK"/>
+<![endif]-->
+
+<title>开心百育：积极贯彻教育部2015年工作要点</title>
+<script type="text/javascript" src="http://img1.cache.netease.com/bbs/static/20150917/bbsntes_jslib.js" charset="GBK"></script>
+<script type="text/javascript" src="http://img1.cache.netease.com/bbs/static/20150917/jquery_bbs.js" charset="GBK"></script>
+</head>
+<body>
+   <iframe src="http://t.163.com/crossdomain.html" style="display:none;"  id="iframeProxy"></iframe>
+<link type="text/css" rel="stylesheet" media="screen" href="http://img1.cache.netease.com/common/css/common_nav_v1.0.1.css" />
+<style>.NTES-nav {width: auto; margin-left: 5px;}</style>
+<div class="NTES-nav">
+    <span class="nav-link"><a href="http://www.163.com/">网易首页</a>-<a href="http://news.163.com/">新闻</a>-<a href="http://sports.163.com/">体育</a>-<a href="http://sports.163.com/nba/">NBA</a>-<a href="http://ent.163.com/">娱乐</a>-<a href="http://money.163.com/">财经</a>-<a href="http://money.163.com/stock/">股票</a>-<a href="http://auto.163.com/" id="_link_auto">汽车</a>-<a href="http://tech.163.com/">科技</a>-<a href="http://mobile.163.com/">手机</a>-<a href="http://lady.163.com/">女人</a>-<a href="http://bbs.163.com/">论坛</a>-<a href="http://v.163.com/">视频</a>-<a href="http://blog.163.com/">博客</a>-<a href="http://house.163.com/" id="houseUrl">房产</a>-<a id="homeUrl" href="http://home.163.com/">家居</a>-<a href="http://edu.163.com/">教育</a>-<a href="http://book.163.com/">读书</a>-<a href="http://game.163.com/" id="_link_game">游戏</a>-<a href="http://www.lofter.com/?act=qb163rk_20141031_05" target="_blank">LOFTER</a> |</span>
+    <div class="rightCon">
+        <div class="NTES-link">
+            <a href="http://email.163.com/" class="cBlue">免费邮箱</a> - <a href="http://reg.163.com/" class="cBlue">通行证登录</a>
+        </div>
+        <a href="http://www.163.com/rss"><img width="26" height="14" border="0" src="http://img3.cache.netease.com/cnews/img07/rss.gif" class="rss" alt="Rss"></a>
+    </div>
+</div>
+<script type="text/javascript">
+    //<![CDATA[
+    NTES.ready( function($){
+        var P_INFO = NTES.cookie.get("P_INFO");
+        var S_INFO = NTES.cookie.get("S_INFO");
+        if(P_INFO){
+            var mailconfig = {
+                "163.com":"http://entry.mail.163.com/coremail/fcg/ntesdoor2?verifycookie=1&lightweight=1",
+                "126.com" : "http://entry.mail.126.com/cgi/ntesdoor?verifycookie=1&lightweight=1&style=-1",
+                "vip.126.com" : "http://reg.vip.126.com/enterMail.m",
+                "yeah.net" : "http://entry.yeah.net/cgi/ntesdoor?verifycookie=1&lightweight=1&style=-1",
+                "188" : "http://reg.mail.188.com/servlet/enter",
+                "vip.163.com" : "http://reg.vip.163.com/enterMail.m?enterVip=true-----------"
+            };
+            var passport =  P_INFO.substr(0, P_INFO.indexOf("|"));
+            var username =  passport.substr(0, P_INFO.indexOf("@"));
+            var logstate = P_INFO.split("|")[2];
+            var logiframe = "";
+            var pspt = passport.length >= 6 ? passport.substr(0,6)+"..." : passport;
+            /@([^*]+)/.test(passport);
+            var logdomain = RegExp.$1;
+            if(P_INFO && S_INFO || logstate=="1") {
+                var entrylink_html = '<a href=\"http://reg.163.com/Main.jsp?username='+passport+'\">进入通行证</a>';
+                if(mailconfig[logdomain] != undefined) {
+                    entrylink_html += '<a href=\"'+mailconfig[logdomain]+'\">进入我的邮箱</a>';
+                }
+                if(logdomain == "popo.163.com" || mailconfig[logdomain] != undefined) {
+                    entrylink_html += '<a href="http://blog.163.com/passportIn.do?entry=163">进入我的博客</a><a href="http://photo.163.com/?username='+passport+'\">进入我的相册</a>';
+                }
+                entrylink_html += '<a href="http://yuehui.163.com/">进入我的约会</a><a href="http://t.163.com">进入我的微博</a>';
+                if(logdomain == "163.com" || logdomain == "126.com" || logdomain == "yeah.net") {
+                    logiframe = '<iframe allowTransparency=\"true\" style=\"width: 56px; height:26px; float:left; vertical-align: middle;\" id=\"ifrmNtesMailInfo\" border=\"0\" src=\"http://p.mail.'+logdomain+'/mailinfo/shownewmsg_www_1222.htm\" frameBorder=\"0\" scrolling=\"no\"></iframe>';
+                }
+                var login_html = '<div class=\"ntes-usercenter\"><div class=\"ntes-usercenter-logined\"><strong id=\"ntes_usercenter_name\" class=\"ntes-usercenter-name\" title=\"欢迎你，'+passport+'\">'+pspt+'</strong></div><div id=\"ntes_usercenter_entry\" class=\"ntes-usercenter-entry\"><span class=\"user-entry\">'+entrylink_html+'</span></div></div>'+logiframe+'|<a class=\"ntes-usercenter-loginout\" href=\"http://reg.163.com/Logout.jsp?username='+passport+'\" target=\"_self\">退出</a></div>';
+                NTES(".NTES-link")[0].innerHTML = login_html;
+
+                NTES("#ntes_usercenter_name").addEvent("click", function(e){
+                    NTES("#ntes_usercenter_entry").style.display = NTES("#ntes_usercenter_entry").style.display == "block" ? "none" : "block";
+                    e.preventDefault();
+                    e.cancelBubble = true;
+                    document.onclick = function(){
+                        NTES("#ntes_usercenter_entry").style.display = "none";
+                    }
+                })
+            };
+        }
+    })
+    //]]>
+    NTES.retire();
+</script>
+    <div id="topNav">
+                    <input type="hidden" name="boardid" id="boardid" value="jiaoyu"/>
+                <input type="hidden" name="boardname" id="boardname" value="教育大家谈"/>
+                    <input type="hidden" name="threadId" id="threadId" value="534227491"/>
+                <input type="hidden" name="channel" id="channel" value="education"/>
+
+        <input type="hidden" value="2" id="list_page_num">
+        <div class="nav-bar">
+            <a href="http://bbs.163.com" class="logo"></a>
+            <a href="http://www.163.com">网易首页</a> &gt;
+            <a href="http://edu.163.com/">网易教育</a> &gt;
+            <a href="http://bbs.edu.163.com">网易教育论坛</a> &gt;
+			            <a href="http://bbs.edu.163.com/boardset/jiaoyu.html">教育大家谈</a>
+        </div>
+        <div class="nav-info" style="display:none;">
+            <a href="http://bbs.163.com/user/personalCenter.do" class="info-username" target="_blank"></a>
+    		<a href="#" class="info-mark info-sign">签到</a> |
+            <table class="info-manage" cellspacing="0" cellpadding="0" border="0">
+            <tr><td valign="middle">
+                <div class="dd-window dd-window-expand1">
+    			    <a href="http://bbs.163.com/user/personalCenter.do" target="_blank">我的管理中心</a>
+    				<em class="icon-arrow-up"></em>
+                    <div class="board-menu">
+                        <div class="board-menu-connect"></div>
+                        <div class="board-menu-container">
+                            <div class="board-menu-nav">
+                              	  个人管理 &gt;
+                            </div>
+                            <ul class="board-menu-sub-nav">
+                                <li><a target="_blank" href="http://bbs.163.com/user/personalCenter.do">管理中心</a></li>
+                                <li><a target="_blank" href="http://bbs.163.com/user/gift/newUserTask.do">新手任务</a></li>
+                                <li><a target="_blank" href="http://bbs.163.com/user/gift/giftShop.do">礼物商店</a></li>
+                                <li><a target="_blank" href="http://bbs.163.com/user/upgrade.do">升级中心</a></li>
+                            </ul>
+                        </div>
+                        <div class="board-menu-container last">
+                            <div class="board-menu-nav">
+                                个人收藏 &gt;
+                            </div>
+                            <ul class="board-menu-sub-nav like-list">
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </td></tr>
+            </table> |
+            <!--<a href="http://t.163.com/?f=bbsnav" class="info-weibo">我的网易微博</a>(<span class="red weibo-count">99+</span>) |-->
+            <a href="http://www.lofter.com/entry?act=qb163rk_20141031_05&logined=true" target="_blank">我的LOFTER</a><span class="js-lofter-sec">(<span class="red lofter-count">99+</span>)</span> |
+            <div class="info-message-box">
+                <div class="dd-window dd-window-expand1">
+                    <a href="http://bbs.163.com/user/msg.do?msgType=2">消息中心</a>(<span class="red message-count">6</span>)
+    				<em class="icon-arrow-up"></em>
+                    <ul class="info-message-box-list">
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=2">用户消息 <span class="em">2</span></a>
+                        </li>
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=1">评论消息 <span class="em">2</span></a>
+                        </li>
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=0">系统消息 <span class="em">2</span></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="message_alert_box">
+                    <span class="message_arrow"></span>
+                    <a class="message_alert_btn" href="">X</a>
+                    <ul class="message_alert_list">
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=2">用户消息 <span class="em">0</span></a>
+                        </li>
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=1">评论消息 <span class="em">0</span></a>
+                        </li>
+                        <li>
+                            <a href="http://bbs.163.com/user/msg.do?msgType=0">系统消息 <span class="em">0</span></a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div> |
+            <a href="/bbs/user/logout.jsp">退出</a> |
+            <a href="/list/tyro.html" id="forumhelp">帮助</a>
+            <a href="http://help.3g.163.com/bbs/">手机版</a>
+        </div>
+        <div class="nav-login">
+            [<a href="#" class='login-button'>登录</a>]
+            <a href="#" class="info-mark info-sign">签到</a>  |
+            <a  href="/list/tyro.html" >帮助</a> |
+            <a href="http://help.3g.163.com/bbs/">手机版</a>
+        </div>
+    </div>
+ <input type="hidden" value="开心百育：积极贯彻教育部2015年工作要点" id="threadTitle"/>
+ <input type="hidden" value="a51377310@126.com" id="authorEmail"/>
+<div id="tie_bd">
+    <div id="tie_wrapper">
+        <div class="tie-tab-bottom-nav">
+            <a class="tile-tab-nav-back" title="返回版面 教育大家谈" href="/boardset/jiaoyu.html">&lt;&lt;返回教育大家谈</a>
+            <div class="tie-write">
+                <div class="dd-window">
+                    <a class="top" href="/post/jiaoyu/publish/common-">发 帖</a>
+                    <ul class="tie-menu">
+                        <li><a href="/post/jiaoyu/publish/common-">新帖子</a></li>
+                        <li class="pos-rel"><a href="/post/jiaoyu/publish/album-">新图集</a><em class="pos-abs new-icon"></em></li>
+                        <li><a href="/post/jiaoyu/publish/ask-">新问答</a></li>
+                        <li><a href="/post/jiaoyu/publish/debate-">新辩论</a></li>
+                        <li class="noBg"><a href="/post/jiaoyu/publish/vote-">新投票</a></li>
+                    </ul>
+                </div>
+            </div>
+			            <div class="tie-page">
+                共 <span class="red">253</span> 浏览 <span class="red">0</span> 回帖&nbsp;&nbsp;
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                
+                                                                        
+                
+        
+
+            
+            
+            
+            
+
+                                            </div>
+        </div>
+
+            <div class="tie-item tie-first-item">
+            <div class="tie-author">
+               <div class="tie-author-column">
+                   <a title="崔希cx" target="_blank" href="http://bbs.163.com/user/a51377310@126.com">
+                        <img width="100" alt="崔希cx" src="http://image.bbs.163.com/face/a51377310@126.com" />
+                   </a>
+                   <span class="info-name" title="崔希cx">
+                       <em class="icon_transparent_people"></em>
+					   																						                       <a target="_blank" href="http://bbs.163.com/user/a51377310@126.com" class="js-tieauthor">崔希cx</a>
+
+								
+						                   </span>
+                   <a class="info-message" title="给 崔希cx 发送消息" href="javascript:;" passport="18iQh" nickname="崔希cx">
+                      <span class="info-act-wraper">  
+                        <em class="icon_transparent_message"></em>发送消息
+                       </span>
+                   </a>
+                   <!--a href="javascript:;" target="_blank"  name="a51377310@126.com" title="崔希cx 的微博" class="info-weibo js-info-weibo">
+                       <span class="info-act-wraper">
+                         <em class="icon_transparent_weibo"></em>TA的微博
+                       </span>
+                   </a-->
+                                      <a href="http://a51377310.lofter.com?act=qb163rk_20141107_01" target="_blank"  title="崔希cx 的LOFTER" title="LOFTER" class="info-lofter">
+                       <span class="info-act-wraper">
+                         <em class="icon_transparent_lofter"></em>他的LOFTER
+                       </span>
+                   </a>
+                                      <div class="info-collection">
+                        <div class="info-class"><span class="info-class-title">等级:</span>
+                        <!-- 等级图标-->
+                             <div class="info-class-bar">
+                                <img src="http://img2.cache.netease.com/utf8/bbs/image/star_1.jpg" alt="叶" title="等级:0"  />
+                             </div>
+                        </div>
+                        <p>积分: 68  </p>
+														<p>发帖: 1 篇</p>
+						                   
+                        <p>在线时长: 2 小时</p>
+                        
+                   </div>
+               </div>
+            </div>
+            <div class="tie-con">
+                <div class="tie-con-hd ">
+                    <div class="tie-con-hd-panel ">
+                                                	                        		<a href="/thread/jiaoyu-534227491-1|18iQh.html">只看楼主</a>
+                        	                                                <span class="time" id="floor-$item.floor">楼主 &nbsp;&nbsp; 2015-04-22 11:42:09</span>
+                         <a name="1" href="javascript:;" class="report-whistle btn-dialog js-report" title="举报" action="report" data='{"boardId":"jiaoyu","threadId":534227491 }'>举报</a>
+                                                <div class="board-manage">
+                            <div class="dd-window js-dd-wraper">
+                                管理<em class="icon-arrow-up"></em>
+                                <ul class="board-menu">
+                                    <script type="text/template" class="js-postTemp">
+                                      <%for(var i=0;i<list.length;i++){%>
+                                                                                            <%if(list[i].opId=="top"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="topThread" title="置顶" data='{"boardId":"jiaoyu","threadId":"534227491"}'>置顶</a></li>
+                                                <%}else if(list[i].opId=="push"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="topallThread" title="总置顶" data='{"boardId":"jiaoyu","threadId":"534227491"}'>总置顶</a></li>
+                                                <%}else if(list[i].opId=="elite"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="eliteThread" title="精华" data='{"boardId":"jiaoyu","threadId":"534227491"}'>精华</a></li>
+                                                <%}else if(list[i].opId=="commend"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="recommendThread" title="推荐"  data='{"boardId":"jiaoyu","threadId":"534227491"}'>推荐</a></li>
+                                                <%}else if(list[i].opId=="relative"){%>
+                                                <li class="gt-master"><a href="/bbs/about.jsp?boardid=jiaoyu&threadid=534227491" action="related" title="相关">相关</a></li>
+                                                <%}else if(list[i].opId=="move"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="moveThread" title="迁移" data='{"boardId":"jiaoyu","threadId":"534227491"}'>迁移</a></li>
+                                                <%}else if(list[i].opId=="lock"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="lockThread" title="锁定" data='{"boardId":"jiaoyu","threadId":"534227491"}'>加锁</a></li>
+                                                <%}else if(list[i].opId=="forbidden"){%>
+                                                <li class="gt-editor"><a href="javascript:;" class="btn-dialog" action="limitThread" title="限制" data='{"boardId":"jiaoyu","threadId":"534227491"}'>限制</a></li>
+                                                <%}else if(list[i].opId=="down"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog" action="downThread" title="下沉" data='{"boardId":"jiaoyu","threadId":"534227491"}'>下沉</a></li>
+                                                <%}%>
+                                                                                                                                           <%if(list[i].opId=="modify"){%>
+                                                <li class="gt-editor"><a href="/post/jiaoyu/publish/common-534227491" title="修改">修改</a></li>
+                                                <%}%>
+                                                                                                <%if(list[i].opId=="delete"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="deleteThread" title="删除" data='{"boardId":"jiaoyu","threadId":"534227491" ,"isMain":1 ,"floor":""}' title="删除">删除</a></li>
+                                                <%}else if(list[i].opId=="black"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="addBlackList" title="加黑"  data='{"boardId":"jiaoyu","threadId":"534227491" ,"isMain":1 ,"passport":"a51377310@126.com","nickname":"崔希cx","userId":"18iQh"}'>加黑</a></li>
+                                                <%}else if(list[i].opId=="iplimit"){%>
+                                                <li class="gt-master"><a href="javascript:;" class="btn-dialog"  action="addIpLimit" title="IP限制"  data='{"boardId":"jiaoyu","threadId":"534227491" ,"isMain":1 ,"nickname":"崔希cx","userId":"18iQh"}'>IP</a></li>
+                                                <%}else if(list[i].opId=="enjoin"){%>
+                                                                                                 <%}%>
+
+                                     <%}%>
+                                    </script>
+                                </ul>
+                            </div>
+                        </div>
+                                                <em class="icon_manange_print"></em>
+                        <a href="/bbs2009/printArticle.jsp?boardid=jiaoyu&articleid=534227491" class="button-print">打印</a>
+                                            </div>
+                                        <h2 class="tie-con-hd-title js-tietitle" style="color:#333;">开心百育：积极贯彻教育部2015年工作要点</h2>
+                                    </div>
+                <div class="tie-con-bd">
+                                                                                    <div class="tie-content">
+                        <h1><p>2015年教育工作的总体要求是：高举中国特色社会主义伟大旗帜，以邓小平理论、“三个代表”重要思想、科学发展观为指导，全面贯彻党的十八大和十八届三中、四中全会精神，深入学习贯彻习近平总书记系列重要讲话精神，坚持稳中求进工作总基调，主动适应经济发展新常态，全面深化综合改革，全面推进依法治教，全面加强教育系统党的建设，着力促进教育公平、着力调整教育结构、着力提高教育质量，坚定不移沿着中国特色社会主义教育道路前进，为基本实现教育现代化而奋斗。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">一、深入学习宣传习近平总书记系列重要讲话精神，切实加强党的建设</strong></p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">1.掀起学习宣传贯彻习近平总书记系列重要讲话精神的热潮。</strong>把学习宣传习近平总书记系列重要讲话精神引向深入，切实领会精神实质，内化于心，外化于行。把讲话精神作为党委（党组）中心组学习的重要内容，纳入干部培训教学计划。分专题、分领域举办学习习近平总书记系列重要讲话精神培训班。组织高校开展习近平总书记系列重要讲话精神和十八届三中、四中全会精神的重大理论和实践问题专题研究。深化中国特色社会主义和中国梦宣传教育，推动社会主义核心价值观进教材进课堂进头脑，形成培育和践行社会主义核心价值观长效机制。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">2.加强教育系统党的建设。</strong>深入贯彻习近平总书记关于高校党建工作重要指示精神，推动落实第23次全国高校党建工作会议各项部署。落实中办印发的《关于坚持和完善普通高等学校党委领导下的校长负责制的实施意见》，做好督促检查工作。印发《关于加强和改进高校基层党支部建设的意见》，切实推进高校基层服务型党组织建设。抓好院（系）基层党组织负责人培训。研究制订《高校学生党建工作标准》。加强中小学党建工作。加强民办学校党组织负责人队伍建设。切实落实党建工作责任制，完善党建工作考评办法。严格党员领导干部民主生活会和党员组织生活会制度，切实提高党内生活质量。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">3.做好教育系统宣传思想工作。</strong>贯彻落实中办国办印发的《关于进一步加强和改进新形势下高校宣传思想工作的意见》。健全高校党委意识形态工作责任制，完善课堂教学、报告会、研讨会、讲座、论坛、网络管理办法，召开全国高校思想政治工作会议。扎实做好“马克思主义理论与建设工程”重点教材编写和使用工作，开展教材使用情况专项督查。研究制订《马克思主义理论学科领航计划》和高校马克思主义学院建设标准。制订实施高校思政课建设体系创新计划，修订高校思政课建设标准，启动重点马克思主义学院建设，推进高校思政课特聘教授试点，实施高校思政课择优项目。推进“大学生思想政治教育质量提升工程”，实施“高校实践育人共同体建设计划”“大学生心理健康素质提升计划”。实施“易班”推广行动计划和中国大学生在线引领工程，加强网络思想文化阵地和内容建设。组织高校辅导员骨干示范培训。研制加强高校校园文化建设的办法。印发《关于进一步加强和改进高校出版工作的意见》。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">4.巩固和拓展党的群众路线教育实践活动成果。</strong>落实习近平总书记在群众路线教育实践活动总结大会上的讲话精神，巩固和拓展教育实践活动成果，深入落实密切联系群众等作风建设制度，形成作风建设新常态。落实中央八项规定精神，坚决纠正“四风”问题。认真贯彻中央《厉行节约反对浪费条例》等文件精神和制度要求。认真组织开展“三严三实”专题教育。抓紧推动“两方案一计划”落实。对整改落实情况进行全面监督检查，持续深入抓好整改落实。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">5.加强领导班子和干部队伍建设。</strong>进一步加强部机关、直属高校、直属单位、驻外干部队伍建设统筹力度，突出正确用人导向，继续深化干部选任制度改革，积极推进干部交流。加强后备干部队伍建设。配合研究制订高等学校领导人员管理暂行办法。加强干部管理监督，严肃整治选人用人不正之风。加强和改进干部教育培训，提高培训质量。研究制订直属高校、直属事业单位人事制度改革指导意见。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">6.加强党风廉政建设和反腐败斗争。</strong>按照全面从严治党的要求，大力加强领导班子和领导干部政治纪律、组织纪律和廉政纪律建设。全面落实党风廉政建设主体责任和监督责任，出台《关于党风廉政建设责任追究实施办法》，细化责任内容，实行“一案双查”。开展“两个责任”执行情况检查。加强教育系统纪检监察组织建设。加大巡视工作力度，紧紧围绕“四个着力”发现问题，形成震慑。强化权力运行的监督制约，进一步推进直属机关和高校廉政文化教育，深入推进惩治和预防腐败体系建设。加大案件查处及问题线索审查处置力度，加强招生、基建、干部任用、校办企业等重点领域和关键环节的监督检查。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">7.加强政风行风学风建设。</strong>进一步减少会议、文件，提高工作质量。完善督查制度，强化重点工作过程监控，认真开展机关作风评议工作。推进政务公开，提高工作透明度。健全群众来信来访接待受理工作机制。落实窗口服务单位首问负责制。制订《教育行业信用体系建设实施意见》，推进教育行业信用体系建设。加强学风建设综合治理，发布学校学术不端行为处理办法。推动厉行节约、节能环保工作，形成节约型校园建设新常态。进一步加强离退休干部工作。支持关心下一代工作。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">二、全面深化教育综合改革，推动基本实现教育现代化</strong></p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">8.科学编制教育“十三五”规划。</strong>按照编制工作方案，研究起草教育“十三五”规划文本。加强对经济社会发展和教育改革发展重大问题的研究，提高规划编制的科学性、前瞻性、操作性，提升通过规划对教育进行宏观指导和统筹推进的能力。加强对推进区域教育现代化的指导和监测，组织第三方机构研制教育现代化年度监测报告。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">9.推动各省（区、市）和高校教育综合改革。</strong>组织开展《教育规划纲要》中期总结评估。继续跟踪指导上海市、北京大学、清华大学综合改革取得实质进展。指导各省（区、市）和高校制订实施教育综合改革方案并做好报备工作。加强综合改革典型经验总结和推广。研究制订推动京津冀教育协同发展的实施意见。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">10.深入推进考试招生制度改革。</strong>落实《国务院关于深化考试招生制度改革的实施意见》，指导督促各省（区、市）和有关高校研究制订考试招生制度改革实施方案，指导上海、浙江做好高考综合改革试点。加快推进高职院校分类考试。探索制订职业院校学生进入高层次学校学习的办法。研究出台《关于深化高中阶段学生考试招生制度改革的指导意见》。全面实施普通高中学业水平考试和综合素质评价。指导和督促各地大幅减少高考加分项目，取消体育、艺术等特长生加分项目。完善自主招生，做好全国统一高考后开展自主招生的组织工作。继续推进研究生招生制度改革。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">11.深入推进管办评分离。</strong>发布《关于推进管办评分离提高教育治理水平的若干意见》。进一步简政放权，深入落实《教育部职能转变方案》。实行清单管理，依法明确权力清单和责任清单。推进教育事业单位分类改革。加快现代学校制度建设，推动所有高校完成章程制定工作，实现一校一章程。推动普通高中、中等职业学校章程建设。开展义务教育学校章程建设试点。加强学校章程执行情况的督促检查。深入贯彻落实《高等学校学术委员会规程》《高等学校理事会规程（试行）》《学校教职工代表大会规定》。深入落实《高等学校信息公开事项清单》制度，深化招生、财务、干部任用等信息公开，完善监督检查机制。推进高等学校质量报告发布制度建设。启动全国义务教育质量监测工作。开展职业院校和普通高校评估。扩大社会参与教育评价的领域，委托第三方参与教育评价。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">12.推动高等教育布局结构优化和地方高校转型发展。</strong>推进“中西部高等教育振兴计划”。优化东中西部高等学校布局。继续做好“中西部高校基础能力建设工程”“中西部高校提升综合实力工程”和对口支援西部地区高校工作。印发引导部分地方本科高校向应用技术型高校转型发展改革试点的指导意见，启动改革试点，有序引导部分有条件、有意愿的地方高校转型发展。推动修订《普通高等学校设置暂行条例》，制订高校分类体系和设置标准，加快建立高等教育分类设置、评价、指导制度，促进高校科学定位、办出特色。推动各地优化城市基础教育学校和中等职业学校布局结构。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">13.鼓励社会力量兴办教育。</strong>出台鼓励社会力量兴办教育的政策文件，召开全国民办教育工作会议。研究制订民办学校分类管理配套政策。推进独立学院规范发展。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">14.继续扩大教育对外开放。</strong>加强教育国际合作交流综合改革试验区和高等教育国际化示范区建设。推进高级别人文交流框架内的教育合作。贯彻全国留学工作会议精神，制订《国家公派出国留学管理规定》。启动来华留学质量认证体系建设。加快外语非通用语种人才和国际组织人才培养。加强中外合作办学和自费出国留学中介服务机构监管。稳步推进境外办学。加大国别和区域研究基地建设。探索完善外籍教师服务和管理机制。加强与港澳台地区的教育交流与合作。加强示范孔子学院和网络孔子学院建设。拓展与联合国教科文等国际组织的合作交流。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">15.加快推进教育信息化。</strong>推进“三通两平台”建设与应用，力争基本实现学校互联网全覆盖。加快教育管理公共服务平台建设、国家教育决策服务系统建设和教育统计基础数据库建设。完善国家教育资源云服务体系。继续加大优质数字教育资源开发和应用力度，探索在线开放课程应用带动机制。加强“慕课”建设、使用和管理。推动高校仪器设备和优质实验教学资源开放共享系统建设。实施全国中小学教师信息技术应用能力提升工程。深入开展“一师一优课、一课一名师”活动，深化教学应用。提高中小学生学籍信息管理系统应用水平。推动实施《职业院校数字校园建设规范》。继续办好全国职业院校信息化教学大赛。召开第二次全国教育信息化工作会，举办国际教育信息化大会。加强信息技术安全工作和教育信息化标准建设。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">16.不断提高教育经费保障与管理水平。</strong>督促各地落实法定增长，推动各地建立各级教育生均拨款制度，依法保障财政教育投入。规范学校收费调整，完善非义务教育阶段成本分担机制，加强教育经费统计工作。健全监管体系，加强预算管理、国有资产管理，强化内部审计。加强教育财务队伍建设，加快推进直属高校和直属单位总会计师委派工作，完善总会计师管理制度，开展全员培训。推进教育财务管理信息化建设。推动学校实行“阳光财务”。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">三、全面推进依法治教，引领、保障教育事业改革发展</strong></p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">17.加强教育法治建设。</strong>以党的十八届四中全会精神为指导，制订关于全面推进依法治教的文件，全面推进教育法治化进程。推动教育法律一揽子修订，加快《职业教育法》修订、《残疾人教育条例》修订和《校园安全条例》《国家教育考试条例》立法进程，积极推动《学前教育法》起草和《学位条例》修订。制（修）订发布《中小学教材编写审定管理暂行办法》《学校招收和培养国际学生规定》《高等学校国际学生勤工助学管理办法》《教师申诉办法》等规章。设立依法治教示范区。推进教育行政执法体制机制改革。出台《关于加强法律顾问制度建设的意见》。开展依法治校示范校创建活动。全面开展教育系统法治教育培训。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">18.加强青少年学生法治教育。</strong>把法治教育纳入国民教育体系，在中小学设立法治知识课程。制订法治教育大纲，统筹大中小学法治教育。组织编写宪法教育读本。建设国家青少年法治教育校外实践基地。推进教育部全国青少年普法网建设。开展青少年法律知识大赛、高校法治文化节等活动。实施中小学法治教育专任教师能力提高工程。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">19.创新法治人才培养方式。</strong>坚持用马克思主义法学思想和中国特色社会主义法治理论全方位占领高校法学教育和研究阵地，研究制订《高等法学教育贯彻十八届四中全会精神教学指导》。召开全国高等法学教育工作会议，全面部署高等法学教育综合改革。深入实施卓越法律人才教育培养计划，加强卓越法律人才教育培养基地、校外法学实践教学基地建设。加大法学专业骨干教师培训力度。继续推进高校与法律实务部门人员互聘“双千计划”。积极推进法律硕士专业学位研究生培养与司法考试制度的有机衔接。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">20.依法健全教育督导体系。</strong>深入实施《教育督导条例》，加快形成督政、督学、评估监测三位一体的教育督导体系。开展地方政府履行教育职责督导评价。做好义务教育均衡发展督导认定。制订《督学管理办法》。健全责任督学挂牌督导制度，开展全国中小学校责任督学挂牌督导工作创新县（市、区）工作。开展中小学素质教育督导评估试点。做好专项督导。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">21.推进国家教育标准体系建设。</strong>研究发布国家教育标准体系框架，制订教育标准制定审核办法，探索建立国家教育标准核准委员会。组织编制中小学学校建设标准。印发《义务教育学校安全规范》。制定关于规范中小学校服工作的意见，研制《中小学校服基本安全技术规范》。加快基础教育装备标准化建设。启动高职专业教学标准修（制）订工作，发布部分职业教育专业顶岗实习标准。公布92个本科专业类教学质量国家标准，探索建立有关专业认证标准。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">22.依法保障校园和谐稳定。</strong>创新校园安全管理，深化平安校园建设，积极培育平安校园建设优秀成果，运用法治方式研究解决平安校园建设面临的问题。加强学生安全法治教育，建立完善校园安全综合防控体系。开展校园周边治安突出问题集中整治行动，净化校园周边环境。加强学校安全形势分析研判，建立完善教育舆情处置和通报工作制度。完善学校突发事件应急管理机制。加强教育防灾减灾能力建设。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">四、全面提高教育质量，促进各级各类教育内涵发展</strong></p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">23.切实加强和改进中小学德育。</strong>深入开展“爱学习、爱劳动、爱祖国”教育活动和中华优秀传统文化教育，继续推进中华经典诵读活动。开展“少年传承中华传统美德”系列教育活动和“圆梦蒲公英”农村学生看县城活动。继续做好义务教育德育、语文、历史教材编写、修订、审查工作。贯彻实施新修订的中等职业学校德育大纲，发布《中等职业学校学生公约》。推进中小学心理健康教育示范区建设。制订《关于加强中小学劳动教育的意见》。继续支持校外教育，推进中小学研学旅行试点工作。鼓励学校组织学生参观博物馆。指导家庭教育。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">24.切实加强学校体育工作。</strong>印发《关于强化体育课和课外锻炼深化学校体育改革的实施意见》《关于加快发展青少年校园足球的实施意见》。探索推进体育考核制度改革，着力提升学校体育工作水平和学生健康水平。推进落实高校体育工作基本标准，健全学生体质健康监测、学校体育工作评估和年度报告制度。研究制订学校体育风险管理办法。研究学校体育场地开放及与社会场地、设施的共享机制和新型安全保险制度。推进国防教育。研究制订深化学生军事训练改革意见，修订完善普通高等学校军事课教学大纲。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">25.改进美育教学。</strong>印发《关于全面改进美育教学提高学生审美和人文素养的意见》，召开全国学校艺术教育工作会议。开齐开足艺术课，多渠道解决艺术师资短缺问题。建立艺术教育工作评价制度。推进全国农村学校艺术教育试验县工作。开展好全国大中小学生艺术展演、高雅艺术进校园、中华优秀文化艺术传承学校创建等活动。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">26.加强教师队伍建设。</strong>推动各地落实完善师德建设长效机制。探索建立国家教师荣誉制度。加强乡村教师队伍建设，启动实施乡村教师支持计划，落实乡村教师生活补助。开展寻找最美乡村教师活动。深化教师培养培训改革。制订进一步加强高校高层次人才队伍建设的指导意见，建立新的长江学者奖励计划体系，统筹实施高校高层次人才计划。推进高素质教育人才培养工程。提升教师教学水平，继续实施职业院校教师素质提升计划。完善部属师范大学师范生免费教育政策。全面推开中小学教师职称制度改革。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">27.大力发展学前教育。</strong>推动各地实施好第二期学前教育三年行动计划。继续实施好国家学前教育重大项目，重点支持中西部地区和学前教育薄弱环节。利用信息管理系统加强学前教育动态监管。推动各地建立学前教育教研指导责任区。做好《3-6岁儿童学习与发展指南》实验区建设。办好全国学前教育宣传月活动。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">28.推动义务教育均衡发展。</strong>绘制义务教育均衡发展备忘录进展态势图，定期通报各地均衡发展情况。推进义务教育学校标准化建设。因地制宜保留并办好必要的村小学和教学点。进一步健全机制，做好留守儿童关爱和帮扶工作。指导各地科学规划学校建设，均衡配置教育资源。研究新型城镇化背景下义务教育学校布局，推动落实城镇新建小区配套学校建设政策，缓解城市大班额问题。推动义务教育阶段学校联盟、集团化办学取得新进展。推动学校特色发展，提升学校品质。研制《关于新形势下加强基础教育装备工作的意见》《关于加强新时期中小学图书馆建设与应用的意见》。研制关于加强中小学实验教学工作的指导意见。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">29.全面提高高中阶段教育普及水平。</strong>推动各地普职招生大体相当，以加快发展中等职业教育为重点，普及高中阶段教育。继续实施好普通高中改造计划和民族地区教育基础薄弱县普通高中建设项目。支持集中连片特困地区改善高中学校办学条件。指导地方推动普通高中多样化发展。研究制订普通高中工作规程。全面推进普通高中课程标准修订。开展高中创新实验室建设和创新活动平台建设。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">30.加快构建现代职业教育体系。</strong>制订校企合作促进办法。制订行业企业办学指导意见，分类制订行业职业教育指导意见。加快推进现代学徒制度试点。健全职业院校学生实习责任保险制度。研制中等职业学校部分公共基础课课程标准，组织编写修订相关教材。审定公布“十二五”职业教育国家规划教材。实施中等和高等职业教育人才培养衔接行动计划、高等职业教育创新发展行动计划、职业院校规范管理行动计划。印发《关于深化职业教育教学改革全面提高人才培养质量的若干意见》。开展职业院校人才培养诊断改进工作。出台《职业学校教师企业实践规定》。完成第三批国家中职和高职示范校验收工作。推进职业院校示范专业点建设。办好全国职业院校技能大赛。研究设立全国职业教育活动周，推动各地办好相关活动。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">31.着力推进高等教育内涵发展。</strong>坚持中国特色、一流标准，统筹推进世界一流大学和一流学科建设的组织实施。继续推进医教、农教协同等协同育人，深化高校人才培养机制改革。探索推进医学教育分阶段考试改革试点，做好医学教育整体衔接。深化专业学位研究生培养模式改革，加快建设研究生质量保障体系。巩固本科教学基础地位，加强本科教学管理。进一步调整和优化高等教育学科专业结构和人才培养类型结构，建立本科专业动态调整和专业预警机制。推进试点学院综合改革取得突破性进展。继续实施基础学科拔尖学生培养试验计划、系列卓越人才教育培养计划。加快产业行业急需人才培养。继续推进学位授权动态调整工作。认真落实《教育部关于深化高等学校创新创业教育的实施意见》。继续推进高校学生创新创业训练计划。支持创业学生转入相关专业学习。面向自主创业学生实行“弹性学习年限制度”。聘请各行业优秀人才担任学生创业就业指导教师。建设一批大学生创业园、创业孵化基地和实习实践基地。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">32.充分发挥高校在创新驱动发展战略中的作用。</strong>扎实推进“2011计划”，加快构建完善高校科研创新体系。全面落实《中国特色新型高校智库建设推进计划》，深化人文社会科学重点研究基地管理方式和组织形式改革，启动高端智库建设。深化高校科研评价改革，完善高校科研项目和科研经费管理使用政策。组织开展第七届高校科学研究优秀成果奖（人文社会科学）评选。制订《关于全面深化高校哲学社会科学科研领域综合改革的意见》《关于推进高等学校哲学社会科学话语体系创新的意见》。充分发挥普通高校及其新农村发展研究院、职业院校在科研成果转化中的作用。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">33.大力发展继续教育。</strong>推动出台国家继续教育改革发展的文件。办好开放大学，拓展推进广播电视大学系统整体转型升级，推动普通高校继续教育改革发展。开展不同类型学习成果认证、学分积累和转换试点。研究制订老年教育发展规划。推动各地开展学习型城市建设，办好2015年全民终身学习活动周。印发《关于进一步推进社区教育改革发展的意见》，开展社区教育实验区、示范区遴选工作。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">34.全面推进语言文字工作。</strong>研制《&lt;国家通用语言文字法&gt;实施办法》《外国语言文字使用管理规定》《信息技术产品语言文字使用管理规定》。加强语言文字规范标准建设，做好《通用规范汉字表》的宣传实施，开展国家通用语言文字规范标准、公共服务领域外文译写规范相关工作。实施“中华思想文化术语传播工程”。进一步推进语言文字工作纳入教育督导评估。加强语言文字监管体制机制和监测平台建设，发布年度中国语言生活状况报告。开展中华经典资源库二期、三期工程建设和“书法名家进校园”活动、第18届推普周活动、《国家通用语言文字法》15周年宣传活动。联合中央电视台办好“中国汉字听写大会”“中国成语大会”等节目。完善语言文字应用能力测评体系。开展视障人员普通话水平测试，加强手语主持人才培养。推进中国语言资源保护工程建设。做好语言国情调查。做好民族地区语言文字培训工作。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">五、大力促进教育公平，逐步缩小区域、城乡、校际差距</strong></p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">35.公平配置教育资源。</strong>让贫困家庭的孩子都能接受公平的有质量的教育。启动实施加快中西部教育发展行动计划。国家教育经费向边疆地区、民族地区、革命老区倾斜。全面改善农村义务教育薄弱学校基本办学条件。加快发展面向农村的职业教育，大力培养新型职业农民。推动国家级农村职业教育与成人教育示范县（市、区）创建工作。研究扩大营养改善计划实施范围。加快推进义务教育学校校长教师交流轮岗，推动落实城乡统一的中小学教职工编制标准。加大对集中连片贫困地区教育改革发展的支持。继续做好定点联系滇西扶贫工作。实施《国家贫困地区儿童发展规划（2014-2020年）》，编织保障贫困地区儿童成长的安全网。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">36.继续大力推进入学机会公平。</strong>完善随迁子女在当地接受义务教育后在当地参加升学考试的政策。进一步规范义务教育招生入学秩序，指导重点大城市进一步落实就近免试入学方案。改进普通高校招生计划管理，提高中西部和人口大省高考录取率，缩小录取率最低省份与全国平均水平差距。进一步增加农村学生上重点高校人数。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">37.关心支持特殊教育发展。</strong>落实好《特殊教育提升计划（2014-2016年）》。继续实施特殊教育重大项目。扩大普通学校随班就读规模，加强资源教室建设和无障碍设施改造。支持有条件的地区建设孤独症儿童少年特殊教育学校（部）。发布盲、聋和培智三类特殊教育学校课程标准，启动起始年级教材编写。加强特殊教育教师队伍建设。制订残疾人参加普通高考和研究生考试的特殊保障办法。组织开展特殊教育改革实验区工作。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">38.推进民族教育科学发展。</strong>全面贯彻落实中央民族工作会议精神。召开第六次全国民族教育工作会议，出台关于加快发展民族教育的决定。制订学校民族团结教育指导意见。推进双语教育，加强双语教材和资源建设。完善少数民族各类专项招生政策。加强内地民族班教育管理服务。建设合格教师队伍，继续实施好“三区”人才支持计划教师专项计划。夯实教育对口支援工作，推进新疆、西藏和四省藏区教育科学发展。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">39.加强高校毕业生就业创业工作。</strong>加强就业创业指导服务体系建设。建立健全学生创业就业指导服务专门机构。面向全体学生开发开设就业创业指导必修课和选修课。实施好各类基层服务项目。引导和鼓励毕业生到农村就业。鼓励更多学生参军入伍。加强对就业困难毕业生的帮扶。健全鼓励毕业生到基层创业就业的服务保障机制。推动实施“离校未就业促进计划”。完善学生就业信息和学籍信息沟通衔接，提高就业统计的准确性和时效性。</p><p> <strong style="line-height: 24px;word-wrap: break-word !important;">40.落实和完善学生资助政策。</strong>落实好义务教育学校、普通高中、中等职业学校、普通高等学校国家助学政策，推动各地建立健全学前教育资助制度和研究生资助政策体系。突出精准资助，坚决查处申请资助过程中的作假、冒领行为。落实资助标准动态调整机制。继续强化资助资金监管。推动学生资助信息化建设。做好资助政策宣传。</p><p>更多教育内容，敬请关注：百育网</p></h1>
+                        
+                        						                     </div>
+                </div>
+                                                                                        <div class="tie-con-manange">
+                                        <div class="tie-con-manange-panel">
+                        <a href="#editorWraper">回复本帖</a>
+                        <a href="javascript:;" id="tiecopy">复制链接</a>
+                        <a id="send-gift" title="赠送礼物" href="javascript:;" data='{"username": "a51377310@126.com","boardid":"jiaoyu","threadid":"534227491"}'>赠送礼物</a>
+                        <a href="/post/jiaoyu/publish/common-534227491?858" class="js-edit">修改帖子</a>
+                    </div>
+                    <div class="tie-con-manange-share">
+                        <div class="bshare-custom">
+	<!--a title="分享到网易微博" class="bshare-neteasemb"></a-->
+	<a title="分享到QQ空间" class="bshare-qzone"></a>
+	<a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+	<a title="分享到人人网" class="bshare-renren"></a>
+	<a title="分享到腾讯微博" class="bshare-qqmb"></a>
+	<a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+</div>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=a1688878-28e5-42d3-828c-cf5199b14296&amp;pophcol=2&amp;lang=zh"></script>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+<script charset="utf-8" type="text/javascript">
+
+var url=window.location.href,
+isHas=url.indexOf("|") ,
+us=url.split("|");
+
+if(isHas!=-1){
+   url=us[0]+"%7C"+".html";
+}
+
+if(NTES("#photoView")){
+	bShare.addEntry({
+	  	summary:"分享自 网易论坛",
+	  	pic: {
+	  		toString:function(){return NTES("#photo").attr("src")}
+	  	},
+		url:url
+	});
+} else {
+	 if(NTES(NTES(".tie-content")[0]).NTES("img")[0]){
+	 	var src= NTES(NTES(".tie-content")[0]).NTES("img")[0].src;
+	 }else {
+	 	var src = "";
+	 }
+	bShare.addEntry({summary:"分享自 网易论坛",pic:src,url:url});
+};	
+</script>
+
+                    </div>
+                                    </div>
+                	                	
+                	                                       <div style="margin-left:8px;">
+<!--800100-->
+<!-- <iframe src="http://img1.126.net/channel4/html/gonghe_bbs800100.html" width="800" height="100" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"> </iframe> -->
+</div>                                    <div class="clearfix" style="width:908px;">
+                                                               <div style="float:left; width: 580px;" id="tieRecommend" data='{"createTime":"201504","dbname":"bbs_edu","boardId":"jiaoyu","threadId":"534227491"}'>
+                     </div>   
+                                                                                                            <div style="float:left; padding-left:8px; margin-top: 18px;">
+   <!--320320-->
+<!-- <iframe src="http://img1.126.net/channel4/html/gonghe_bbs320320.html" width="320" height="320" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"> </iframe> -->
+</div>                                       </div>
+                  
+                   
+                                                            <div id="thread_inside_ad">
+    <style>
+    #thread_inside_ad {margin-left: 10px;margin-bottom:20px;}
+    .bobo-list{position:relative;height:135px; overflow: hidden;}
+    .bobo-item{display:block;float:left;width:150px;height:135px;margin-left:10px;cursor:pointer;font-size:0;text-decoration:none;}
+    .bobo-item.first{margin-left: 0;}
+    a.bobo-item:hover{_zoom:1; overflow:hidden; border:none;}
+    a.bobo-item:hover .full-hover-show{color:#fff;top:0;z-index: 1;}
+    a.bobo-item:hover .icon-play{left:55px;top:25%;z-index: 1;}
+    .bobo-item, .bobo-item:visited{ position:relative; display:block; overflow:hidden; *zoom:1;*display:inline;}
+    .bobo-item.first .bobo-user .bobo-nick{margin: 0;}
+    .bobo-user .bobo-nick span {color: #f44103;}
+    .bobo-pic .bobo-livestat,.bobo-pic .bobo-usercount i,.bobo-user .bobo-level{background-image:url(http://img6.cache.netease.com/www/v2013/img/icon_bobo_140227-2.png);background-repeat:no-repeat;}
+    .bobo-pic{position:relative;width:100%;height:105px;text-align:center;vertical-align:top;overflow:hidden;}
+    .bobo-pic img.bobo-cover{width:100%;}
+    .bobo-pic .bobo-livestat{width:33px;height:20px;position:absolute;top:0;right:0;background-color:#F44103;background-position:0 -705px;}
+    .bobo-pic .bobo-usercount{position:absolute;left:0;bottom:0;width:100%;height:20px;line-height:22px;color:#FFF;background:rgba(0,0,0,.7);background:#000; opacity: 0.7;filter:alpha(opacity=70);font-size:12px;font-family:Arial, Verdana, sans-serif;}
+    .bobo-pic .bobo-usercount span{display:block;float:right;margin-right:8px;_margin-right:4px;}
+    .bobo-pic .bobo-usercount i{display:block;_display:none;float:right;margin:4px 4px 0 0;width:12px;height:12px;background-position:-5px -687px;}
+    .bobo-user{height:22px;padding:8px 0 0;position:relative;}
+    .bobo-user .bobo-nick{display:block;margin:0 24px 0 0;font-size:12px;line-height:20px;color:#252525;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+    .bobo-item:hover .bobo-nick{text-decoration:underline;}
+    .icon-play { background:url(http://img3.cache.netease.com/cnews/2014/2/bobo_ad/v_btn.png) no-repeat; background-position:0 0; height:42px; width:44px;position:absolute;top:-85%;cursor: pointer;}
+    .semi-trans { background: rgba(255, 255, 255, .8); background:#fff; opacity:0.5; filter:alpha(opacity=50); }
+    .full-hover-show{width: 120px; height: 100px;padding: 6px 15px 0; position:absolute; left:0;  top:-100%;display:block; }
+    .bobo-user .bobo-level{display:block;position:absolute;top:4px;right:0;width:22px;height:22px;background-position:0 0;}
+</style>
+<script type="text/javascript">
+    (function() {
+        var random = Math.floor(Math.random()*10),
+                url = "http://bobo.163.com/a/p2/163.bbssigh/6/boboData/" + random + ".js",
+                boboStatTag = "?from=163.bbsSigh",
+                boboNum = 6,
+                html = "";
+        window.boboData = function(data){
+            hotLive = data.hotLive;
+        };
+        NTES.ajax.importJs(url, function() {
+            var len = hotLive.length;
+            if (hotLive != '' && len != 0){
+                for (var i = 0; i < len; i++) {
+                    var boboItem = hotLive[i],
+                            isLive = boboItem.live,
+                            liveHref = isLive ? boboItem.liveUrl + boboStatTag : "http://bobo.163.com/" + boboStatTag,
+                            boboLiveStat = isLive ? '<div class="bobo-livestat"></div>' : '',
+                            boboHtml = '<a class="bobo-item" title="' + boboItem.anchorExtendTitle + '" target="_blank" href="' +liveHref+ '"><div class="bobo-pic"><img class="bobo-cover" src="'+ boboItem.liveCoverUrl + '" alt="' + boboItem.nick + '"/>' + boboLiveStat + '<div class="bobo-usercount"><span>' + boboItem.onlineUserCount+ '</span><i></i></div></div><div class="bobo-user"><div class="bobo-nick">' + boboItem.anchorExtendTitle + '</div></div><span class="full-hover-show semi-trans"></span><span class="icon-play png24"></span></a>';
+                    html += boboHtml;
+                };
+                NTES(".bobo-list").attr("innerHTML", function() {
+                    return this.innerHTML + html;
+                });
+            }
+        }, "utf-8");
+    })();
+</script>
+<div class="bobo-list">
+    <div class="first bobo-item">
+        <div class="bobo-pic">
+            <a href="http://www.bobo.com/?f=163.bbsSigh" target="_blank"><img width="150" height="105" alt="bobo" src="http://img3.cache.netease.com/bbs/img15/bobo_logo5.png"></a>
+        </div>
+        <div class="bobo-user">
+            <p class="bobo-nick"><a href="http://www.bobo.com/special/android/?f=163.bbsApp" style="color:#F44103;font-weight:bold">手机上和女神视频聊天</a></p>
+        </div>
+    </div>
+</div>
+<!--[if IE 6]>
+<script type="text/javascript" src="http://img1.cache.netease.com/bobo/js/DD_belatedPNG-min.js"></script>
+<script type="text/javascript">
+    DD_belatedPNG.fix('.png24');
+</script>
+<![endif]-->
+</div>                                                </div>
+        </div>
+
+    	<div class="tie-main-ad" style="height:auto">
+		<div id="youdao_ad_art_1" style="display:block"></div>
+		<!--"/htmlfile/side_2009/main_article_ad.html"-->
+	</div>
+    <div class="tie-tab-bottom-nav">
+    <div class="tie-page">
+        共<span class="red">253</span> 浏览 <span class="red">0</span> 回帖&nbsp;&nbsp;
+                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                
+                                                                        
+                
+        
+
+            
+            
+            
+            
+
+                            </div>
+</div>   
+   
+     <!-- 回帖区 -->
+   <div class="reviewBox"  id="div_reply">
+    <style type="text/css">
+#reviewBox_login{ padding-left:40px; display:none;}
+.replylogin_input{ width:140px; height:20px;  border:1px solid #ccc;}
+.replylogin_submit{ padding:0 10px; height:20px; background-color:#313a44; border:1px solid #000; line-height:20px; color:#fff; cursor:pointer;}
+</style>
+<div id="reviewBox_login">
+    <form id="replylogin_form" action="https://reg.163.com/logins.jsp" method="post">
+    <input type="hidden" name="type" value="1" />
+    <input type="hidden" name="url" id="replylogin_url" />
+    <input type="hidden" name="product" value="bbs" />
+    帐号:
+    <input  name="username" type="text" tabindex="11" class="replylogin_input" id="replyloginUsername"/>
+    密码:
+    <input name="password" type="password"  tabindex="12" class="replylogin_input"  id="replyloginPassword"/>
+    <label><input name="savelogin" type="checkbox" value="1" tabindex="13" />下次自动登录</label>
+     <input  type="submit" value="登录" class="replylogin_submit"/>
+    <a href="http://reg.163.com/reg/reg.jsp?product=bbs&loginurl=http://bbs.163.com&url=" target="_blank">注册</a> 
+    </form>
+</div>
+<script type="text/javascript"  charset="GBK">
+(function($){
+
+  $("#replylogin_form").submit(function(){
+    var u=$("#replyloginUsername").val(),
+    p=$("#replyloginPassword").val();
+    if( u==""|| p==""){
+        Dialog.alert("用户名或密码不能为空");
+		return false;
+    }
+    })
+  })(jQuery)
+
+</script>
+    <span class="blank9"></span>
+    <div class="form1 postForms" id="reply">
+        <form id="replyForm" name="frmpost"  method="post" action="/v2/post/doReply" >
+                        <input type="hidden" name="title" value="开心百育：积极贯彻教育部2015年工作要点"/>
+            <input type="hidden" name="replyPostId" id="replyPostId"/>
+                        <style type="text/css">
+.editor-status-bar {text-align: right;line-height: 24px;padding-right: 12px;background: #f5f5f5;}
+.editor-status-bar label {color: #BBB;}
+.editor-status-bar a,.editor-status-bar a:visited {color: #1e50a2;}
+#divComposeEditor{ height:300px;}
+
+
+.upload-wraper{ width: 680px; height:400px; font-size:12px;}
+.load-area{ height:370px;border: 1px solid #9DBBDD;}
+.upload-btn{ padding:20px 0 0 10px; text-align:left; }
+.upload-btn a,.upload-btn a:visited{ height:15px; line-height:15px;display:inline-block;padding:5px 15px;border:1px solid #ccc;text-decoration:none; background-color:#dadada; color:#3e3e3e; font-weight:bold}
+.upload-tab ul { overflow:hidden; zoom:1;margin:0;padding:0;}
+.uploadurl-wraper{ text-align:left;}
+.uploadurl { width:300px;height:25px;border:1px solid #ccc; margin-left:10px;}
+.uploadTips{ padding:10px; text-align:left;}
+.upload-tab li{float:left;height:30px;line-height:30px;padding:0 10px; }
+.upload-local-cur .local-tab,
+.upload-net-cur .net-tab{background-color:#313a44;color:#fff; }
+.local-tab,
+.net-tab{ cursor:pointer;}
+.upload-local-cur  .upload-net-wraper,
+.upload-net-cur .upload-flash-wraper{display:none;}
+.upload-local-cur  .upload-flash-wraper,
+.upload-net-cur .upload-net-wraper{display:block;}
+.upload-flash-wraper{ height:370px;}
+
+
+
+.media-wraper{ width:450px; font-size:12px; text-align:left }
+.media-iput{ width:300px; border:1px solid #ccc; height:25px;}
+.media-tips{ padding-top:5px; margin-bottom:5px;}
+.media-size-s{ margin-top:5px;}
+.media-size-s input{width:50px; border:1px solid #ccc; height:20px;}
+
+
+.html-content{ width:600px; height:300px; border:1px solid #ccc }
+
+
+.uploadIframe{ display:none;}
+.upload-file-panel{ font-size:12px; width:500px;}
+.upload-file-content{ border:1px solid #ccc; width:300px; height:25px;}
+.upload-file-wraper{ padding:5px 0;}
+.upload-button-wraper{ padding-top:10px;}
+.upload-file-tips{ padding:5px 0;}
+.upload-button-wraper input{ display:inline-block;padding:5px 15px;border:1px solid #ccc; background-color:#dadada; color:#3e3e3e; font-weight:bold}
+
+.four-panel{ width:550px;}
+.four-panel-top{ width:550px; height:460px; background:url(http://img5.cache.netease.com/utf8/bbs/image/panel/001.jpg); position:relative;}
+.four-panel-bottom{ width:550px; height:40px; background:url(http://img5.cache.netease.com/utf8/bbs/image/panel/006.jpg);}
+.four-input{ width:90px; height:100px; border:1px solid #ccc; position:absolute;}
+#fourPanelOne{ top:110px; left:180px;}
+#fourPanelTwo{ top:110px; left:290px;}
+#fourPanelThree{ top:315px; left:180px;}
+#fourPanelFour{ top:315px; left:290px;}
+
+
+#editor_dialog_box { padding-bottom: 10px;}
+#editor_dialog_box #editor_dialog_form {padding: 30px 20px 0px;}
+#editor_dialog_box .btn-set {padding-left: 0px;position: relative;display: inline;left: 50%;margin: 10px auto 10px -75px;}
+
+</style>
+<input type="hidden" id="publishcontent" name="content"/>
+<input type="hidden"  name="boardId" value="jiaoyu" id="tieboardId"/>
+<input type="hidden"  name="threadId" value="534227491" id="tiethreadId"/>
+<input type="hidden" id="photoSetImgUrls" name="photoSetImgUrls"/>
+<div  id="editorWraper">
+<div class="frmpostPosition">
+    <div id="divComposeEditor">
+    </div>
+    <div class="editor-status-bar">
+        <label id="autoSaveLabel"> 每30秒自动保存一次内容</label>
+        <a href="javascript:;" id="savenode">手动保存</a> | <a href="javascript:;" id="restorenode">  恢复内容</a> | <a href="javascript:;" id="clearnode">清除内容</a>
+    </div>
+</div>
+<div id="editor_dialog_box">
+    <div id="editor_dialog_form">
+    </div>
+</div>
+<link href="http://img1.cache.netease.com/bbs/css/editor_v1.0.0.css" rel="stylesheet" type="text/css" />
+
+
+<script type="text/javascript" src="http://img1.cache.netease.com/bbs/static/20150917/forum_editor.js" charset="GBK"></script>
+
+
+<script type="text/javascript" src="http://bbs.163.com/bbs/js/prototype.ya.js"></script>
+<script language="javascript" type="text/javascript">
+   
+   
+
+    var boardId = "jiaoyu",
+    threadId = "534227491",
+	channel="no";
+	
+	var mobileRe=[],replyRe=[],boardRe=[];
+	
+		
+	    
+    var oEditor = new EditorView({
+        editorDiv: "#divComposeEditor",
+        toolbar: {
+            basic: ["bold", "italic", "underline", "fontsize", "forecolor", "backcolor","justify", "list", "indent", "link", "bbsformat", "portrait", "bbsimage", "bbsvideo", "bbstcard"].concat(mobileRe,replyRe,boardRe),
+            full: ["undo", "cut", "copy", "fontname", "fontsize", "justify", "list", "indent", "lineheight", "link", "bbsformat", "portrait", "bbsimage", "bbsvideo", "bbstcard"].concat(mobileRe,replyRe,boardRe,["redo", "paste", "bold", "italic", "underline", "forecolor", "backcolor", "insertHorizontalRule", "insertTime","removeFormat", "insertTable"]),
+            fullTBWidth: { ie: 540, other: 495 }
+        }
+    });
+    EditorExtend.addListener(oEditor);
+   // EditorExtend.addPostListener(oEditor);
+
+    (function() {
+        /**
+        * 编辑器内容自动保存
+        */
+        var localStorageAdapter = {
+            storeName: 'NTESBBS',
+            isLocalStorage: window.localStorage ? true : false,
+            dataDOM: this.isLocalStorage ? null : (function() {
+                try {
+                    var dataDOM = document.createElement('input'),
+			    expires = new Date();
+                    dataDOM.type = 'hidden';
+                    dataDOM.style.display = 'none';
+                    //dataDOM.addBehavior('#default#userData');
+                    dataDOM.addBehavior && dataDOM.addBehavior('#default#userData');
+                    document.body.insertBefore(dataDOM, document.body.firstChild);
+                    expires.setDate(expires.getDate() + 30);
+                    dataDOM.expires = expires.toUTCString();
+                    return dataDOM;
+                } catch (ex) {
+                    return null;
+                }
+            })(),
+
+            set: function(key, value) {
+                var dataDOM = this.dataDOM;
+                if (this.isLocalStorage) {
+                    window.localStorage.setItem(key, value);
+                } else {
+                    if (dataDOM) {
+                        dataDOM.load(this.storeName);
+                        dataDOM.setAttribute(key, value);
+                        dataDOM.save(this.storeName);
+                    }
+                }
+            },
+
+            get: function(key) {
+                var dataDOM = this.dataDOM;
+                if (this.isLocalStorage) {
+                    return window.localStorage.getItem(key);
+                } else {
+                    if (dataDOM) {
+                        dataDOM.load(this.storeName);
+                        return dataDOM.getAttribute(key);
+                    }
+                }
+            },
+
+            remove: function(key) {
+                var dataDOM = this.dataDOM;
+                if (this.isLocalStorage) {
+                    window.localStorage.removeItem(key);
+                } else {
+                    if (dataDOM) {
+                        dataDOM.load(this.storeName);
+                        dataDOM.removeAttribute(key);
+                        dataDOM.save(this.storeName);
+                    }
+                }
+            }
+        }
+        var autoSaveTime;
+        function saveContent() {
+            autoSaveTime && clearTimeout(autoSaveTime);
+            var autoSaveLabel = document.getElementById("autoSaveLabel");
+            autoSaveLabel.innerHTML = "正在保存....";
+            var content = oEditor.editor.getContent().replace(/^<br>\s*$|^\s*$|^<DIV><\/DIV>$|^<P>&nbsp;<\/P>$/, '');
+            if (content) {
+                localStorageAdapter.set('bbs_content_autosave', content);
+            }
+            autoSaveTime = setTimeout(function() {
+                autoSaveLabel.innerHTML = "每30秒自动保存一次内容";
+            }, 1000);
+        }
+
+        function restoreContent() {
+            var content = localStorageAdapter.get('bbs_content_autosave');
+            if (content) {
+                oEditor.editor.setContent(content);
+            }
+        }
+
+        function clearContent() {
+            oEditor.editor.setContent('');
+        }
+
+        document.getElementById("savenode").onclick = function() {
+            saveContent();
+        };
+        document.getElementById("restorenode").onclick = function() {
+            restoreContent();
+        };
+        document.getElementById("clearnode").onclick = function() {
+            clearContent();
+        };
+
+        setInterval(function() {
+            saveContent();
+        }, 30000);
+    })();
+    document.domain = location.hostname.replace(/^.*\.([\w]+\.[\w]+)$/, "$1");
+</script>
+</div>
+            <span class="blank9"></span>
+            <div class="form2">
+               <div class="upLoad">
+				 <span class="right">
+                         <img title="看看如何用手机泡论坛" src="http://bbs.163.com/bbs/img/phoneIcon.jpg"/>
+				         <a class="cBlue" target="_blank" href="http://help.3g.163.com/bbs/">如何用手机快速回复？</a>
+				 </span>
+                 <style type="text/css">
+   #checkcodewraper{ display:none; margin-bottom:10px;}
+   .checkinputwraper{ margin-bottom:5px;}
+   .checkcode-input{border:1px solid #ccc; width:100px; height:20px; margin-top:10px;}
+   .code-tips{ color:rgb(0, 0, 255)}
+</style>
+<div id="checkcodewraper">
+<div class="checkinputwraper">验证码 <input type="text" class="checkcode-input" id="checkcodeinput" name="checkcode"/><span class="cRed" id="checkCodeMsg">()</span></div>
+<img alt="看不清，换一张" src="/v2/checkcode/codeimg" id="checkcodeimg"/><a href="javascript:;" id="checkcodenode"> 点击换一张</a>
+</div>
+<script language="javascript">
+    (function($) {
+        var ch=$("#checkcodeimg");
+		$("#checkcodenode").click(function() {
+            ch.attr("src", "/v2/checkcode/codeimg?timestamp=" + new Date().getTime());
+			return false;
+        });
+        $("#checkcodenode").click();
+    })(jQuery);
+</script>		         <span class="ui-button-on" id="btnSubmit"><a href="javascript:;" id="replyTie">回复本帖</a></span>
+		         <!--div class="synTinyblog" id="synBlog">
+                        <label class="synTinyblog-option" for="copytoweibo">
+                            <input type="checkbox" name="copytoweibo" id="copytoweibo"  checked="checked" class="js-check" value="y" />同步到微博
+                        </label>
+                 </div-->
+               </div>
+            </div>
+			<div class="recentBoard" id="visitHistory" style="display:none">您最近去的版：<span id="historyWraper"></span> </div>
+        </form>
+    </div>
+       <!-- 回贴框下广告  -->
+       <div class="comment_bottom_ad">
+    
+</div>
+  </div>
+
+
+    </div>
+
+    <!-- 右侧栏 -->
+    <div id="tie_addtion">
+        <!-- 右侧栏顶部广告 -->
+        <div style="margin-bottom: 10px;">
+            	<div class="ad260" style="height:auto">
+		<!-- bbs -->
+<!-- <div class="widgetBorder adPic">
+<iframe src="http://pro.163.com/html.ng/site=netease&affiliate=news&cat=bbs&type=logo200x200&location=1" width="200" height="200" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no" ></iframe></div> -->
+		<!--"/htmlfile/side/bbs_news/news_bbs.html"-->
+	</div>
+        </div>
+        
+                        <div class="board-widget-container">
+   <div class="hd">
+      <h3>
+                  头条推荐
+      </h3>
+   </div>
+   
+   <div class="bd">
+      <h3 class="news-top-head"><a href="http://bbs.home.163.com/photoalbum/chuishui/590144247.html" target="_blank">法国百姓的真实生活</a></h3>
+      <ul class="news-list">
+                    <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/591694189.html">纽约街头的流浪者</a></li>
+                    <li><a href="http://bbs.news.163.com/boardset/pp.html" target="_blank">[易拍天下]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/pp/590738709.html">雄伟壮观的秦王宫</a></li>
+                    <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/591390140.html">猎豹与黑斑羚和谐相处</a></li>
+                    <li><a href="http://bbs.travel.163.com/boardset/tuyou.html" target="_blank">[图游天下]</a> <a target="_blank" href="http://bbs.travel.163.com/bbs/tuyou/591311918.html">红河元阳梯田</a></li>
+                    <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/591126058.html">少年挑战高楼拍照</a></li>
+                    <li><a href="http://bbs.news.163.com/boardset/pp.html" target="_blank">[易拍天下]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/pp/589728734.html">万安老街</a></li>
+                    <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/591127115.html">实拍俄罗斯壮美夜空</a></li>
+                    <li><a href="http://bbs.travel.163.com/boardset/youji.html" target="_blank">[原创游记]</a> <a target="_blank" href="http://bbs.travel.163.com/bbs/youji/589156960.html">嵩口古镇</a></li>
+                    <li><a href="http://bbs.news.163.com/boardset/photo.html" target="_blank">[新闻贴图]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/photo/590506586.html">废弃监狱成景点</a></li>
+                    <li><a href="http://bbs.news.163.com/boardset/hometown.html" target="_blank">[我的故乡]</a> <a target="_blank" href="http://bbs.news.163.com/bbs/hometown/589863942.html">渔民捕鱼全过程</a></li>
+               </ul>
+   </div>
+</div>
+
+
+<div class="board-widget-container">
+   <div class="hd">
+      <h3>
+               论坛贴图
+      </h3>
+   </div>
+   
+      <div class="bd">
+      <ul class="news-photo-list">
+                  <li title="卢宅的精美木雕">
+            <a href="http://bbs.news.163.com/photoalbum/pp/591359579.html" target="_blank" >
+               <img width="100" height="75" alt="卢宅的精美木雕" src="http://img5.cache.netease.com/cnews/2015/12/21/20151221084112049bc.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/photoalbum/pp/591359579.html" target="_blank">卢宅的精美木雕</a></p>
+         </li>
+                  <li title="嵩口古镇">
+            <a href="http://bbs.travel.163.com/bbs/youji/589156960.html" target="_blank" >
+               <img width="100" height="75" alt="嵩口古镇" src="http://img2.cache.netease.com/cnews/2015/12/18/20151218084446aa5ef.jpg" />
+            </a>
+            <p><a href="http://bbs.travel.163.com/bbs/youji/589156960.html" target="_blank">嵩口古镇</a></p>
+         </li>
+                  <li title="野生娃娃鱼">
+            <a href="http://bbs.news.163.com/photoalbum/photo/590798061.html" target="_blank" >
+               <img width="100" height="75" alt="野生娃娃鱼" src="http://img6.cache.netease.com/cnews/2015/12/17/20151217084848d1fc2.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/photoalbum/photo/590798061.html" target="_blank">野生娃娃鱼</a></p>
+         </li>
+                  <li title="石臼湖的天鹅">
+            <a href="http://bbs.news.163.com/photoalbum/pp/590344232.html" target="_blank" >
+               <img width="100" height="75" alt="石臼湖的天鹅" src="http://img5.cache.netease.com/cnews/2015/12/16/201512160836404dc2c.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/photoalbum/pp/590344232.html" target="_blank">石臼湖的天鹅</a></p>
+         </li>
+                  <li title="资江美景">
+            <a href="http://bbs.news.163.com/bbs/hometown/590344042.html" target="_blank" >
+               <img width="100" height="75" alt="资江美景" src="http://img4.cache.netease.com/cnews/2015/12/15/20151215082944246f6.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/bbs/hometown/590344042.html" target="_blank">资江美景</a></p>
+         </li>
+                  <li title="古代瓷器艺术展">
+            <a href="http://bbs.news.163.com/photoalbum/pp/589781632.html" target="_blank" >
+               <img width="100" height="75" alt="古代瓷器艺术展" src="http://img2.cache.netease.com/cnews/2015/12/14/201512140838039b730.jpg" />
+            </a>
+            <p><a href="http://bbs.news.163.com/photoalbum/pp/589781632.html" target="_blank">古代瓷器艺术展</a></p>
+         </li>
+               </ul>
+   </div>
+   </div>
+
+<div class="board-widget-container">
+   <ul class="hd clearfix" id="js-menuBar">
+      <li class="on">推荐</li>
+      <li>时尚</li>
+      <li>达人</li>
+      <li class="last">应用</li>
+   </ul>
+      <div class="bd" id="js-menuTab">
+      <div class="normal on">
+         <ul class="news-photoTab-list clearfix">
+                        <li title="全民奇迹周年庆" >
+               <a href="http://go.163.com/2015/1208/mu/" target="_blank" >
+                  <img width="100" height="75" alt="全民奇迹周年庆" src="http://img1.cache.netease.com/cnews/2015/12/9/201512091029130ed1c.jpg" />
+               </a>
+               <p><a href="http://go.163.com/2015/1208/mu/" target="_blank">全民奇迹周年庆</a></p>
+            </li>
+                        <li title="纪念抗战胜利"  class="marginR0" >
+               <a href="http://war.163.com/special/dfkangzhan/" target="_blank" >
+                  <img width="100" height="75" alt="纪念抗战胜利" src="http://img4.cache.netease.com/cnews/2015/6/18/20150618172555fb7bd.png" />
+               </a>
+               <p><a href="http://war.163.com/special/dfkangzhan/" target="_blank">纪念抗战胜利</a></p>
+            </li>
+                        <li title="曝光天国阶梯" >
+               <a href="http://bbs.gz.house.163.com/photoalbum/showing/330447225.html" target="_blank" >
+                  <img width="100" height="75" alt="曝光天国阶梯" src="http://img3.cache.netease.com/cnews/2013/6/16/20130616083415c9662.jpg" />
+               </a>
+               <p><a href="http://bbs.gz.house.163.com/photoalbum/showing/330447225.html" target="_blank">曝光天国阶梯</a></p>
+            </li>
+                        <li title="航天员真实生活"  class="marginR0" >
+               <a href="http://bbs.news.163.com/photoalbum/photo/330046625.html" target="_blank" >
+                  <img width="100" height="75" alt="航天员真实生活" src="http://img4.cache.netease.com/cnews/2013/6/16/201306160833555eeb0.jpg" />
+               </a>
+               <p><a href="http://bbs.news.163.com/photoalbum/photo/330046625.html" target="_blank">航天员真实生活</a></p>
+            </li>
+                     </ul>
+      </div>
+             <div class="normal">
+         <ul class="news-photoTab-list clearfix">
+                        <li title="脸小猫OL范" >
+               <a href="http://126.am/5HRRK2" target="_blank" >
+                  <img width="100" height="75" alt="脸小猫OL范" src="http://img4.cache.netease.com/2008/2014/1/24/201401241629526700a.jpg" />
+               </a>
+               <p><a href="http://126.am/5HRRK2" target="_blank">脸小猫OL范</a></p>
+            </li>
+                        <li title="Kayi：赫本风"  class="marginR0" >
+               <a href="http://kayitusiji.blog.163.com/blog/static/212063090201402111222769/" target="_blank" >
+                  <img width="100" height="75" alt="Kayi：赫本风" src="http://img2.cache.netease.com/2008/2014/1/24/201401241630077689a.jpg" />
+               </a>
+               <p><a href="http://kayitusiji.blog.163.com/blog/static/212063090201402111222769/" target="_blank">Kayi：赫本风</a></p>
+            </li>
+                     </ul>
+         <ul class="news-list">
+                        <li>
+               <a href="http://126.am/P0zN74" target="_blank">禁区姐姐：陪伴我度过2013的小伙伴们</a>
+            </li>
+                        <li>
+               <a href="http://aiqinqinxinxin.blog.163.com/blog/static/22860710620140218411024/" target="_blank">亲亲新新：Roses Roses I Love You</a>
+            </li>
+                        <li>
+               <a href="http://yanyan860414.blog.163.com/blog/static/48824314201402115029590/" target="_blank">小夜：美美地迎接新年</a>
+            </li>
+                        <li>
+               <a href="http://lhqmaggie.blog.163.com/blog/static/229469084201402193622688/" target="_blank">北北：给女人特别的呵护</a>
+            </li>
+                        <li>
+               <a href="http://xinxilily.blog.163.com/blog/static/22914008220140204464543/" target="_blank">Lily：抗老从内到外</a>
+            </li>
+                     </ul>
+      </div>
+            <div class="normal">
+         <ul class="news-photoTab-list clearfix">
+                        <li title="vivianxu" >
+               <a href="http://vivianxu1105.blog.163.com/blog/static/13805735520140220481488/" target="_blank" >
+                  <img width="100" height="75" alt="vivianxu" src="http://img3.cache.netease.com/2008/2014/1/24/2014012416284753858.jpg" />
+               </a>
+               <p><a href="http://vivianxu1105.blog.163.com/blog/static/13805735520140220481488/" target="_blank">vivianxu</a></p>
+            </li>
+                        <li title="蜜蜜"  class="marginR0" >
+               <a href="http://pigssss.blog.163.com/blog/static/22919411220140212541428/" target="_blank" >
+                  <img width="100" height="75" alt="蜜蜜" src="http://img3.cache.netease.com/2008/2014/1/24/20140124162906ad2e6.jpg" />
+               </a>
+               <p><a href="http://pigssss.blog.163.com/blog/static/22919411220140212541428/" target="_blank">蜜蜜</a></p>
+            </li>
+                        <li title="许小丫" >
+               <a href="http://iamyababy.blog.163.com/blog/static/17910806620140207484372/" target="_blank" >
+                  <img width="100" height="75" alt="许小丫" src="http://img2.cache.netease.com/2008/2014/1/24/20140124162924fbbbf.jpg" />
+               </a>
+               <p><a href="http://iamyababy.blog.163.com/blog/static/17910806620140207484372/" target="_blank">许小丫</a></p>
+            </li>
+                        <li title="小树幸福"  class="marginR0" >
+               <a href="http://wewe5555.blog.163.com/blog/static/17541245820140211431157/" target="_blank" >
+                  <img width="100" height="75" alt="小树幸福" src="http://img6.cache.netease.com/2008/2014/1/24/201401241629391b725.jpg" />
+               </a>
+               <p><a href="http://wewe5555.blog.163.com/blog/static/17541245820140211431157/" target="_blank">小树幸福</a></p>
+            </li>
+                     </ul>
+      </div>
+            <div class="normal">
+         <ul class="news-photoSml-list clearfix">
+                                    <li title="豌豆荚一览 - 1 分钟看完所有应用的最新内容（高效率阅读头条新闻资讯娱" >
+               <a href="http://m.163.com/iphone/software/32ptl7.html" target="_blank" >
+                  <img width="47" height="47" alt="豌豆荚一览 - 1 分钟看完所有应用的最新内容（高效率阅读头条新闻资讯娱" src="http://imgm.ph.126.net/siHx6VpzclXUzYJxn9K1kw==/6631222796840525255.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32ptl7.html" target="_blank">豌豆荚一览 - 1 分钟看完所有应用的最新内容（高效率阅读头条新闻资讯娱</a></p>
+            </li>
+                                                <li title="蛋糕物语（网易出品最浪漫社交经营手游）" >
+               <a href="http://m.163.com/iphone/software/32pnai.html" target="_blank" >
+                  <img width="47" height="47" alt="蛋糕物语（网易出品最浪漫社交经营手游）" src="http://imgm.ph.126.net/JYLK1RS_RljPhR7xt4s2Xw==/6608901611283602312.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32pnai.html" target="_blank">蛋糕物语（网易出品最浪漫社交经营手游）</a></p>
+            </li>
+                                                <li title="网易财经-股票、基金、证券资讯直播"  class="marginR0" >
+               <a href="http://m.163.com/iphone/software/32n37f.html" target="_blank" >
+                  <img width="47" height="47" alt="网易财经-股票、基金、证券资讯直播" src="http://imgm.ph.126.net/RzSThqXOi_shBqBM7_11FA==/1543890247276055620.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32n37f.html" target="_blank">网易财经-股票、基金、证券资讯直播</a></p>
+            </li>
+                                                <li title="猫和老鼠官方手游——金秋十月，新学堂场景，汤姆大逆袭" >
+               <a href="http://m.163.com/iphone/software/32pn6j.html" target="_blank" >
+                  <img width="47" height="47" alt="猫和老鼠官方手游——金秋十月，新学堂场景，汤姆大逆袭" src="http://imgm.ph.126.net/HuAhNgEImJHiB7Tx1bdWcA==/1077486210866620866.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32pn6j.html" target="_blank">猫和老鼠官方手游——金秋十月，新学堂场景，汤姆大逆袭</a></p>
+            </li>
+                                                <li title="网易考拉海购—全球海淘自营正品" >
+               <a href="http://m.163.com/iphone/software/32plug.html" target="_blank" >
+                  <img width="47" height="47" alt="网易考拉海购—全球海淘自营正品" src="http://imgm.ph.126.net/ARp1nkVOSLrAdFkHkCnbBQ==/983473568645593075.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32plug.html" target="_blank">网易考拉海购—全球海淘自营正品</a></p>
+            </li>
+                                                <li title="魔天记（全新）-1v1斗法竞技手游"  class="marginR0" >
+               <a href="http://m.163.com/iphone/software/32pmf1.html" target="_blank" >
+                  <img width="47" height="47" alt="魔天记（全新）-1v1斗法竞技手游" src="http://imgm.ph.126.net/1MhEusSEWBKQuiwrDwPZyQ==/6619127069422199092.jpg" />
+               </a>
+               <p><a href="http://m.163.com/iphone/software/32pmf1.html" target="_blank">魔天记（全新）-1v1斗法竞技手游</a></p>
+            </li>
+                                                                                                                                                                                                                                 </ul>
+         <ul class="news-list">
+                        <li>
+               <a href="http://miaomiaominy.blog.163.com/blog/static/2291070772014021260109/" target="_blank">喵喵Miny：打开毛孔，接受爱吧</a>
+            </li>
+                        <li>
+               <a href="http://m181819517.blog.163.com/blog/static/187295066201402104155224/" target="_blank">monmon：年前补水美白篇</a>
+            </li>
+                     </ul>
+      </div>
+   </div>
+</div>
+
+<div class="board-widget-container">
+   <div class="hd">
+      <h3>
+                  论坛活动
+      </h3>
+   </div>
+   <div class="bd">
+                            <a href="http://digibbs.tech.163.com/bbs/weisheying/562152679.html" target="_blank" class="news-image-top"><img src="http://img4.cache.netease.com/cnews/2015/6/30/20150630222414ee756.jpg"
+                 alt="网易数码摄影大赛第31期" title="网易数码摄影大赛第31期" />
+           </a>
+                        <ul class="news-list">
+                  <li>
+            <a href="http://bbs.travel.163.com/bbs/tuyou/582474052.html" target="_blank">图游有奖活动【我在秋色中撒娇】</a>
+         </li>
+                  <li>
+            <a href="http://digibbs.tech.163.com/bbs/shumadaren/518753764.html" target="_blank">达人试机团 万元徕卡高端相机免费试用</a>
+         </li>
+                  <li>
+            <a href="http://digibbs.tech.163.com/bbs/shumadaren/518718196.html" target="_blank">说陪伴你身边的智能硬件 赢智能水杯</a>
+         </li>
+                  <li>
+            <a href="http://service.bbs.163.com/bbs/doings/500638832.html" target="_blank">扫码+发帖 赢取小狗电器情人节大礼</a>
+         </li>
+                  <li>
+            <a href="http://service.bbs.163.com/bbs/doings/494023505.html" target="_blank">说出你的旅行梦 七洲网帮你实现</a>
+         </li>
+               </ul>
+   </div>
+</div>
+
+<div class="board-widget-container">
+   <div class="hd">
+      <h3>
+                  热点话题
+      </h3>
+   </div>
+   <div class="bd">
+      <div class="news-top-item">
+                                       <a href="http://digibbs.tech.163.com/bbs/weisheying/562152679.html" target="_blank">
+               <img width="100" height="75" alt="网易数码摄影大赛" title="网易数码摄影大赛" src="http://img3.cache.netease.com/cnews/2015/6/30/2015063022273954a06.jpg">
+             </a>
+             <h3>
+               <a href="http://digibbs.tech.163.com/bbs/weisheying/562152679.html" target="_blank">网易数码摄影大赛</a>
+             </h3>
+             <p>我眼中的似水流年作品征集<span class="red"><a href="http://digibbs.tech.163.com/bbs/weisheying/562152679.html" target="_blank">[详细]</a></span></p>
+                                      </div>
+      <ul class="news-list">
+                  <li>
+            <a href="http://bbs.ent.163.com/bbs/bagua/503674338.html" target="_blank">汪峰章子怡童年照</a>
+         </li>
+                  <li>
+            <a href="http://bbs.gz.house.163.com/photoalbum/trips/502151092.html" target="_blank">最富有的东欧国家</a>
+         </li>
+                  <li>
+            <a href="http://bbs.gz.house.163.com/photoalbum/trips/502208904.html" target="_blank">中国最贫穷的地方</a>
+         </li>
+                  <li>
+            <a href="http://bbs.163.com/special/0015sp/dashumantan_71.html" target="_blank">在香港上公厕有多难</a>
+         </li>
+                  <li>
+            <a href="http://bbs.163.com/special/0015sp/dashumantan_69.html" target="_blank">盖茨劝中国富人做慈善</a>
+         </li>
+               </ul>
+   </div>
+</div>
+
+<div class="board-widget-container" id="user_top">
+   <div class="hd">
+      <h3>
+                  24小时热帖榜
+      </h3>
+   </div>
+   <div class="bd">
+      <ul>
+               </ul>
+   </div>
+</div>
+
+                <!--"/htmlfile/post_side/education.html"-->
+        
+        <!-- 右侧栏底部广告 -->
+        <div class="tie-right-ad">
+            <div id="youdao_ad_art_2" style="display:block;"></div>
+            <!--"/htmlfile/side_2009/article_side_bottom_ad.html"-->
+        </div>
+    </div>
+</div>
+
+   <!--帖子页底部广告-->
+   <div class="tie-bottom-ad">
+       
+       <!--"/htmlfile/bottom/bbs_edu/education_article_bottom.html"-->
+   </div>
+        <div id="footer" class="footer">
+        <div class="police"><img src="http://bbs.163.com/bbs/img/police.gif"><div class="text"><a href="http://www.bj.cyberpolice.cn/index.htm">网络110<br>报警服务</a></div></div>
+        <div class="footText">
+            <a href="http://corp.163.com/">About NetEase</a> - <a href="http://gb.corp.163.com/gb/about/overview.html">公司简介</a> - <a href="http://gb.corp.163.com/gb/contactus.html">联系方法</a> - <a href="http://corp.163.com/gb/job/job.html">招聘信息</a> - <a href="http://help.163.com/ ">客户服务</a> - <a href="http://gb.corp.163.com/gb/legal.html">相关法律</a> - <a href="http://emarketing.biz.163.com/">网络营销</a>  - <a href="http://sitemap.163.com/">网站地图</a><br>
+            网易公司版权所有<br>
+            <span class="cRed">&copy;1997-2015</span>
+        </div>
+    </div>
+        <div id="scroll_to_top"></div>    <div id="dialog_login">
+    <form id="login_form" action="https://reg.163.com/logins.jsp" method="post" >
+        <input type="hidden" name="type" value="1" />
+        <input type="hidden" name="url" id="login_url" />
+        <input type="hidden" name="product" value="bbs" />
+        <div class="row">
+            <label> 帐号:
+                <input id="account" name="username" type="text" tabindex="1" />
+            </label>
+            <a href="http://reg.163.com/reg/reg.jsp?product=bbs&loginurl=http://bbs.163.com&url=" style="color:#BA2636;"  target="_blank">注册通行证</a>
+        </div>
+        <div class="row">
+            <label> 密码:
+                <input name="password" type="password" class="password" tabindex="2" />
+            </label>
+            <a href="http://reg.163.com/RecoverPassword.shtml" target="_blank">忘记密码？</a>
+        </div>
+        <div class="checkbox row">
+            <label>
+                <input name="savelogin" type="checkbox" value="1" tabindex="3" /> 下次自动登录
+            </label>
+            <!--
+            <label>
+                <input name="savelogin" type="checkbox" value="1" tabindex="4" /> 记住密码
+            </label>
+            -->
+        </div>
+        <div class="btn-set">
+            <span class="ui-button btn-login ui-button-on" tabindex="5">登录</span>
+            <span class="ui-button btn-cancel">取消</span>
+        </div>
+    </form>
+</div>    <div id="dialog_box">
+    <div id="dialog_form">
+    </div>
+</div>
+<script type="text/template" id="giftTemplate">
+<div id="giftBox">
+<div class="present_list_article">
+<div id="giftItemWraper"></div>
+<div id="giftpager"></div>
+ <div>赠言(仅限<span style="color: red;">20</span>字以内）
+    <textarea id="remark" name="remark" cols="35" class="gift-text" ></textarea>
+</div>
+</div>
+</div>
+</script>
+<script type="text/template" id="reportTemplate">
+          <div style="margin-bottom:5px;">请注明投诉原因:</div>
+          <textarea name="content" id="reportcontent"></textarea>
+</script>
+<script type="text/template" id="moveTemplate">
+<div class="dialog_c_wraper">
+<table>
+<tr><td>复制到</td></tr>
+<tr><td> <select id="moveChannelName" name="destDbname"></select></td></tr>
+<tr><td><select id="selectBoardid" name="selectBoardid"><option value="-1">请选择</option></select></td></tr>
+<tr><td>自定义版面ID：<input type="text" value="" id="destBoardid" name="destBoardid"></td></tr>
+<tr><td><input type="checkbox" id="isDelete" name="isDelete"><label for="isDelete">删除原始帖子</label></td></tr>
+</table>       
+</script>
+<script type="text/template" id="pushThread">
+   <div class="dialog_c_wraper">
+  <table>
+ <tr>
+ <td>范围:</td>
+ <td>
+     <select name="boardid" id="pushThreadScope">
+    </select>
+ </td></tr>
+ </table>
+ </div>
+ </div>
+</script>
+<script type="text/template" id="blackUserTemplate">
+ <div class="dialog_c_wraper">
+ <table>
+ <tr><td>通行证:</td><td><span id="userpassport"></span></td></tr>
+ <tr><td>昵  称:</td><td><span id="userusername"></span></td></tr>
+ <tr><td>加黑理由:</td><td><textarea id="userreason"></textarea></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="eliteTemplate">
+<div class="dialog_c_wraper">
+ <table>
+ <tr><td><div class="dialog_box_message">选择精华分类:</div></td></tr>
+ <tr><td><select id="eliteChannel">
+ <option value="-1">未分类</option>
+ </select></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="deliteTemplate">
+<div class="dialog_c_wraper">
+ <table>
+ <tr><td><div class="dialog_box_message">取消加精华</div></td></tr>
+ <tr><td><span id="eliteChannelLabel"></span></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="recommendTemplate">
+<div class="dialog_c_wraper">
+ <table>
+ <tr><td><div class="dialog_box_message">选择推荐分类:</div></td></tr>
+ <tr><td><select id="recommendChannel">
+  <option value="-1">未分类</option>
+ </select></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="drecommendTemplate">
+<div class="dialog_c_wraper">
+ <table>
+ <tr><td><div class="dialog_box_message">取消推荐</div></td></tr>
+ <tr><td><span id="recommendChannelLabel"></span></td></tr>
+ </table>
+ </div>
+</script>
+<script type="text/template" id="blackTemplate">
+    <div class="dialog_c_wraper">
+	<table>
+			 <tr><td>范围:</td><td>
+			    <select name="boardid" id="blackBoardId">
+                </select>
+			 </td></tr>
+			 <tr><td>通行证:</td><td><span id="blacklist_passport"></span></td></tr>
+			 <tr><td>昵称</td><td><span id="blacklist_nickname"></span></td></tr>
+			 <tr><td>封权人</td><td><span id="ban_people"></span></td></tr>
+			 <tr><td>加黑时间</td><td>
+			      <select name="deltime">
+                    <option value="1">24小时</option>
+                    <option selected="selected" value="2">3天</option>
+                    <option value="3">一周</option>
+                    <option value="4">一个月</option>
+                    <option value="5">三个月</option>
+                    <option value="6">半年</option>
+                    <option value="7">一年</option>
+                </select>
+			 </td></tr>
+			 <tr><td>加黑理由</td><td>
+			      <select name="reason">
+                    <option value="广告" selected="selected">广告</option>
+                    <option value="色情">色情</option>
+                    <option value="刷屏">刷屏</option>
+                    <option value="谩骂">谩骂</option>
+                    <option value="不和谐">不和谐</option>
+                    <option value="其它违规">其它违规</option>
+                </select>
+			 </td></tr>
+	</table>
+	</div>
+</script>
+<script type="text/template" id="ipTemplate">
+<div class="dialog_c_wraper">   
+   <table>
+			 <tr><td><strong style="width:50px;">发贴用户:</strong></td><td><span id="black_nickname"></span></td></tr>
+			 <tr><td><strong>发贴IP:</strong></td><td><span id="black_ip"></span></td></tr>
+			 <tr><td><strong>加黑理由</strong></td><td><input type="text" size="25" value="广告" id="black_reason"/></td></tr>
+			 <tr><td></td><td><input type="checkbox" id="blackipchk"/> 删除该IP在当前频道3天内的贴子</td></tr>
+	</table>
+</div>
+</script>
+<script type="text/template" id="listTemplate">
+    <table id="listtable" cellpadding="0" cellspacing="0">
+    <thead id="listhead">
+    </thead>
+    <tbody id="listbody">
+    </tbody>
+    </table>
+	<div id="listpager"></div>
+</script>
+
+<script type="text/template" id="sendMessageTemplate">
+    <div class="message_sendbox">
+        <table>
+		<tr>
+		<td></td>
+		<td><input type="text" readonly="readOnly" value="" class="inputBox inputBox-name" name="username" id="message_name" style="display:none;"></td>
+		</tr>
+		<tr>
+		<td><label>昵 称:</label></td>
+		<td><span id="nickname"></span></td>
+		</tr>
+		<tr>
+		<td><label for="message_content">内	容:</label></td>
+		<td><textarea class="inputBox"  id="message_content"></textarea></td>
+		</tr>
+		<tr>
+		<td></td>
+		<td>        
+		<span id="numTips">还可输入<span id="msgBytes">127</span>个字</span>
+	    <div id="errornumTips">已经超出<span id="msgerrorBytes"></span>个字</div>
+		</td>
+		</tr>
+		<tr>
+		<td><label>验证码:</label></td>
+		<td>
+		 <div class="vertifyCode">
+			<input type="text" maxlength="4" class="inputBox inputBox-name"  name="checkcode" id="checkcode" size="20"> <img alt="看不清，换一张" src="/v2/checkcode/codeimg" id="imgcheckcode"><a id="changeCode" style="display:inline;" href="javascript:;">换一张</a>
+		 </div>
+		</td>
+		</tr>
+		</table>
+    </div>
+</script>
+
+<script type="text/template" id="recTemplate">
+     <div class="guess-area">
+         <div class="guess-area-hd"><h3>猜你喜欢</h3></div>
+            <div class="guess-area-bd">
+                <div class="guess-pic">
+                            <a target="_blank" href="<#=headRec.url#>?from=<#=dbname#>top" title="<#=headRec.title#>"><img src="<#=headRec.imgsrc#>" /></a>
+                            <h4><a target="_blank" href="<#=headRec.url#>?from=<#=dbname#>top" title="<#=headRec.title#>"><#=headRec.title#></a></h4>
+                        </div>
+                        <div class="guess-list">
+                              <h4><a target="_blank" title="<#=lineRec.title#>" href="<#=lineRec.url#>?from=<#=dbname#>tol"><#=lineRec.title#></a></h4>
+                            <ul> 
+                            <#for(var i=0;i<recommends.length;i++){#>
+                                <li><a target="_blank" title="<#=recommends[i].title#>" href="<#=recommends[i].url#>?from=<#=dbname#>toc""><#=recommends[i].title#></a></li>
+                            <#}#>
+                            </ul>
+                <a target="_blank" href="http://t.163.com/BBS">关注论坛官方微博 &gt;</a>
+            </div>
+         </div>
+     </div>
+</script>
+    
+   <script type="text/javascript">
+                  var global_channel="jiaoyu";
+                                     var isNeedLoginPost=true;
+                                    
+                  
+                                      var isRecommend=true;
+                                    
+   </script>
+
+
+<script type="text/javascript" src="http://img1.cache.netease.com/bbs/static/20150917/forum_tie.js" charset="GBK"></script>
+<div style="display:none;">
+<iframe height="22" frameborder="no" width="960" scrolling="no" name="ad_pop" marginheight="0" marginwidth="0" border="0" src="http://baby.163.com/?channel=education&type=post"></iframe>
+	<iframe height="0" frameborder="no" width="960" scrolling="no" name="ad_pop" marginheight="0" marginwidth="0" border="0" src="http://puppy.pinpai.taobao.com/#game"></iframe>
+</div> 
+<script type="text/javascript">	
+			oEditor.set({ html: '' });	
+</script>
+
+<script src="http://analytics.163.com/ntes.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+_ntes_nacc = "edu";
+neteaseTracker();
+</script>
+</body>
+</html>	
+

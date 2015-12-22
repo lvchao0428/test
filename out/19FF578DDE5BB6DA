@@ -1,0 +1,1009 @@
+<!--UINFO: http://www.xici.net/u11576610/	length=151548&last_modified=0&time_saved=1450676919&charset=gb2312-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="alternate" type="application/rss+xml" title="订阅除污人的角落"  href="rss.asp">
+<meta http-equiv="content-type" content="text/html; charset=gb2312" />
+<meta http-equiv="content-language" content="gb2312" />
+<meta name="robots" content="all" />
+<meta name="author" content="http://www.xici.net/" />
+<meta name="copyright" content="xici.net 版权所有，未经授权禁止链接、复制或建立镜像。" />
+<meta name="description" content=" 除污人的角落 西祠胡同 xici.net"/>
+<meta name="keywords" content=" 除污人的角落 西祠胡同 xici.net"/>
+<title>除污人 - 西祠胡同</title>
+
+<link rel="icon" href="http://imgs.xici.net/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://imgs.xici.net/favicon.ico" type="image/x-icon" />
+<script language=javascript src="http://imgs.xici.net/_js/pub.js?t=20140915"></script>
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://imgs.xici.net/_common/styles/person.css?t=201301161" />
+
+<style type="text/css">
+
+	/*空间背景区*/
+    body{
+	    color:#666; /*文本字体*/
+	    background-color:#fff; /*背景明度值*/
+	  /*background-image:url("/_img/blog/s01/bg_body.jpg");*/
+	    background-repeat:no-repeat;
+		background-attachment : scroll;/* scroll | fixed */
+    }
+    body a{color:#069;} /*链接字体*/
+
+    .tit{color:#09c;} /*标题字体*/
+
+	/*空间主题区*/
+    .title{
+		color:#09c;/*空间简介明度值*/
+		background-color:transparent;background-image:url("http://www.xici.net/blog/files/blogimg.asp?f=t2&color=6699EE");background-repeat:no-repeat;
+	}
+	.title h2{color:#09c;} /*空间名称明度值*/
+
+	/*导航区*/
+
+    .bgn{background-color:transparent;background-image:url("http://www.xici.net/blog/files/blogimg.asp?f=n2&color=6699EE");}
+    .nor{color:#fff;} /*其他*/
+    .nor:hover{color:#06c;} /*当前TAB字体*/
+    .here{color:#06c;} /*当前TAB字体*/
+
+	/*Widget*/
+    .bor{
+		color:#666;/*文本字体*/
+		background-color:#fff;/*背景*/
+		border-width:1px;
+		border-color:#9cf;/*边框明度值*/
+		border-style:solid;
+	}
+    .bor .tit{color:#09c}/*标题字体*/
+    .bor a{color:#069}/*链接字体*/
+	.midd .dl .pb{color:#666}
+	.midd .dl .pb samp{color:#9cf}
+
+     #slideA{width:770px;position:absolute;top:0px;left:190px}
+     #slideB{width:180px;position:absolute;top:0px;left:0px}
+
+	.doc_sign {display:none}
+</style>
+
+</head>
+<body>
+<script src="http://imgs.xici.net/_js/doc.js?t=20120905"></script>
+<script language=javascript>
+function RePage(url,key){
+    if(key == 1){
+        document.location = url + "1.htm";
+    }else{
+        if ( key < 1 || key.toString == "" ){
+            key = 1;
+        }
+        document.location = url + key.toString() + ".htm";
+    }
+    return false;
+}
+</script>
+<script language="javascript" type="text/javascript" src="http://imgs.xici.net/_js/pub.js?t=20120906"></script>
+<script language="javascript">{var d = new Date();d.setTime((new Date()).getTime() + 108000000);document.cookie = "desktop=1; domain=xici.net; path=/; expires=" + d.toGMTString();}</script>
+<script language="javascript">var strPageUrl = '/u11576610/';</script>
+<link href="http://imgs.xici.net/_common/styles/base.css?t=201301151" rel="stylesheet" />
+<link href="http://imgs.xici.net/_common/styles/style.css?t=201404281" rel="stylesheet" />
+<script src="http://imgs.xici.net/_js/GA.js?t=201401011"></script>
+
+<!--global_header:begin-->
+<div id="global_header">
+	<!--header_bar:begin-->
+	<div class="header_bar" id="header_bar">
+       <div class="header_logo" node-type="LOGO{$$}topnav" data-type="ga"><a class="logo_top" href="/" title="胡同口"></a></div>
+       <!--top_nav:begin-->
+       <ul class="top_nav">
+        <li node-type="胡同口{$$}topnav" data-type="ga"><a href="/" class="link">胡同口</a></li>
+        <li node-type="menu_list">
+        	
+            <!--chanel_box:begin-->
+             
+            <a href="javascript:;" class="link" id="cityname">广州<em></em></a>
+            <div class="tip_box o_city_box">
+            	<ul class="tip_list clear" id="hot_list">
+                </ul>
+            </div>
+        </li>
+        <!-- <li node-type="menu_list">
+        	<a href="javascript:;" class="link">游戏<em></em></a>
+			<div class="tip_box o_city_box" node-type="优惠频道{$$}topnav" data-type="ga">
+            	<ul class="tip_list">
+                <li><a href="http://huajia.xici.net/" target="_blank">结婚省米</a></li>
+                <li><a href="http://youxi.xici.net" target="_blank">游戏频道</a></li>
+                <li><a href="http://qipai.xici.6998.com/" target="_blank">网页棋牌</a></li>
+                <li><a href="http://www.xici.net/b1449976/" target="_blank">安卓游戏</a></li>
+                </ul>
+            </div>
+        </li> -->
+        <li node-type="手机版{$$}topnav" data-type="ga"><a href="/app.asp" class="link">手机版</a></li>
+    </ul>
+    <!--top_nav:end-->
+    <div class="top_search">
+       <input type="text" class="txt_search" id="search" node-type="公共头搜索{$$}topnav" data-type="ga" value="搜索版名、版号、关键词" />
+       <input type="button" value=" " node-type="公共头搜索{$$}topnav" data-type="ga" class="btn_search" onclick="doSearch();" />
+   </div>
+   <!--判断是否登录用户-->  
+           
+   <ul class="user_login">
+     <li class="mr-10" node-type="居委会{$$}topnav" data-type="ga"><a href="/b2488/" class="link">居委会</a></li>
+     <li class="mr-10" node-type="登录{$$}topnav" data-type="ga"><a title="登录" href="http://account.xici.net/login?refer=http://www.xici.net/u11576610/" class="link">登录</a></li>
+     <li node-type="注册{$$}topnav" data-type="ga"><a href="http://account.xici.net/register?refer=http://www.xici.net/u11576610/" title="注册" class="link">注册</a></li>
+ </ul>
+ 
+<!--飞语提示，默认先隐藏掉-->
+<div class="top_showtip" style="display:none" node-type="提示气泡{$$}topnav" data-type="ga"><p></p><a href="javascript:;" class="close_top_showtip" id = "notice_close"></a></div>
+<div id="global_notice" node-type="global_showtip"  style="display:none">
+    <span>尊敬的IE6/7/8浏览器的用户，胡同大妈教你在新版西祠玩的更舒服</span>
+    <a href="http://www.xici.net/d174003348.htm" class="blue">点击查看这里&gt;&gt;</a>
+    <a href="javascript:;" class="close_top_showtip"></a>
+</div>
+
+</div>
+<!--header_bar:end-->
+<div class="head_shadow"></div>
+</div>
+<!--global_header:end-->
+
+<script src="http://imgs.xici.net/_js/jquery-1.7.2.min.js"></script>
+<script src="http://imgs.xici.net/_js/jquery.plugins.js?t=201312061"></script>
+<script src="http://imgs.xici.net/_js/comm.js?t=20140912"></script>
+<div id="warp" class="warp">
+
+    <iframe width=1 height=1 marginwidth=0 marginheight=0 frameborder=0 scrolling=no src="/xiciservice/verify.asp"></iframe>
+
+<script language=javascript>
+
+    function PointCity(baseurl,url,setcityid,setlat,setlng,setrange) {
+        var Cfrm = document.citychangeform;
+        Cfrm.action = baseurl;
+        Cfrm.setcityid.value = setcityid;
+        Cfrm.setlat.value = setlat;
+        Cfrm.setlng.value = setlng;
+        Cfrm.setrange.value = setrange;
+        Cfrm.url.value = url;
+        
+        if(top != window){
+            parent.parent.notcity = setcityid;
+        }
+        
+        document.getElementById("submitcity").click();
+        parent.parent.updateFavs();
+    }
+</script>
+<form action="" method="post" name="citychangeform" style="display:none">
+    <input type="hidden" name="t" value="c" />
+    <input type="hidden" name="url" value="" />
+    <input type="hidden" name="setcityid" value="" />
+    <input type="hidden" name="setlat" value="" />
+    <input type="hidden" name="setlng" value="" />
+    <input type="hidden" name="setrange" value="" />
+    <input type="submit" name="submitcity" id="submitcity" value="确定" />
+</form>
+<script language="javascript">var xici_hotcity = new Array('南京;\/asia\/china\/huadong\/jiangsu\/nanjing','北京;\/asia\/china\/huabei\/beijing','上海;\/asia\/china\/huadong\/shanghai','苏州;\/asia\/china\/huadong\/jiangsu\/suzhou','深圳;\/asia\/china\/zhongnan\/guangdong\/shenzhen','南通;\/asia\/china\/huadong\/jiangsu\/nantong','扬州;\/asia\/china\/huadong\/jiangsu\/yangzhou','广州;\/asia\/china\/zhongnan\/guangdong\/guangzhou','无锡;\/asia\/china\/huadong\/jiangsu\/wuxi','成都;\/asia\/china\/xinan\/sichuan\/chengdu','济南;\/asia\/china\/huadong\/shandong\/jinan','徐州;\/asia\/china\/huadong\/jiangsu\/xuzhou','杭州;\/asia\/china\/huadong\/zhejiang\/hangzhou','芜湖;\/asia\/china\/huadong\/anhui\/wuhu','武汉;\/asia\/china\/zhongnan\/hubei\/wuhan','郑州;\/asia\/china\/zhongnan\/henan\/zhengzhou','盐城;\/asia\/china\/huadong\/jiangsu\/yancheng','常州;\/asia\/china\/huadong\/jiangsu\/changzhou','合肥;\/asia\/china\/huadong\/anhui\/hefei','青岛;\/asia\/china\/huadong\/shandong\/qingdao','西安;\/asia\/china\/xibei\/shannxi\/xian','泰州;\/asia\/china\/huadong\/jiangsu\/taizhou','石家庄;\/asia\/china\/huabei\/hebei\/shijiazhuang','沈阳;\/asia\/china\/dongbei\/liaoning\/shenyang','镇江;\/asia\/china\/huadong\/jiangsu\/zhenjiang','福州;\/asia\/china\/huadong\/fujian\/fuzhou','昆明;\/asia\/china\/xinan\/yunnan\/kunming','重庆;\/asia\/china\/xinan\/chongqing','广东;\/asia\/china\/zhongnan\/guangdong','兰州;\/asia\/china\/xibei\/gansu\/lanzhou','长沙;\/asia\/china\/zhongnan\/hunan\/changsha','淮安;\/asia\/china\/huadong\/jiangsu\/huaian','天津;\/asia\/china\/huabei\/tianjin','贵阳;\/asia\/china\/xinan\/guizhou\/guiyang','哈尔滨;\/asia\/china\/dongbei\/heilongjiang\/haerbin','太原;\/asia\/china\/huabei\/shanxi\/taiyuan','宿迁;\/asia\/china\/huadong\/jiangsu\/suqian','南宁;\/asia\/china\/zhongnan\/guangxi\/nanning','长春;\/asia\/china\/dongbei\/jilin\/changchun','保定;\/asia\/china\/huabei\/hebei\/baoding','佛山;\/asia\/china\/zhongnan\/guangdong\/foshan','厦门;\/asia\/china\/huadong\/fujian\/xiamen','连云港;\/asia\/china\/huadong\/jiangsu\/lianyungang','大连;\/asia\/china\/dongbei\/liaoning\/dalian','宁波;\/asia\/china\/huadong\/zhejiang\/ningbo','南昌;\/asia\/china\/huadong\/jiangxi\/nanchang','温州;\/asia\/china\/huadong\/zhejiang\/wenzhou','烟台;\/asia\/china\/huadong\/shandong\/yantai','泉州;\/asia\/china\/huadong\/fujian\/quanzhou','临沂;\/asia\/china\/huadong\/shandong\/linyi'
+);</script>
+
+<div id="adTop" class="w">
+
+<!--	<IFRAME MARGINHEIGHT=0 MARGINWIDTH=0 FRAMEBORDER=0 WIDTH=960 HEIGHT=90 SCROLLING=NO SRC="http://xiciafp.allyes.com/main/adfshow?user=XiciAFP|8zz|10tlkj11&db=xiciafp&border=0&local=yes"></IFRAME>-->
+</div>
+
+<div id="spT" class="w title">
+
+	<h2>
+	<a href="http://u11576610.xici.net" title="除污人的角落" class="tit">
+
+	除污人的角落</a>
+	<A href="http://u11576610.xici.net" onclick="window.external.AddFavorite('http://u11576610.xici.net','除污人 - 西祠胡同');return false;" class=fav>http://u11576610.xici.net</A>
+    </h2>
+	<p></p>
+</div>
+
+
+<script language="javascript">
+function checksInput(key)
+{
+    if(document.getElementById("s").value == "" &&key==1)
+    {
+        document.getElementById("s").value = '请输入关键词';
+    }
+
+    if (document.getElementById("s").value == "请输入关键词")
+    {
+        return false;
+    }
+    if (key==3)
+    {
+        window.open("/s/?k=" + escape(document.getElementById("s").value));
+        return false;
+    }
+    return true;
+}
+</script>
+<div id="nav" class="w bgn">
+	<span class="l">
+		<a href="/u11576610/" title="首页" class="bgn nor here">首页</a>
+		<a href="p1.htm" title="文章" class="bgn nor ">文章</a>
+		<a href="t1.htm" title="相册" class="bgn nor ">相册</a>
+		<a href="m1.htm" title="彩信" class="bgn nor ">彩信</a>
+	    <a href="/u11576610/addFriend.asp" title="加好友" class="bgn nor " >加好友</a>
+		<a href="javascript:;" onclick="sendMessage.sendDivShow({},true,'除污人')" title="留言" class="bgn nor ">留言</a>
+		<!--<a href="blogpre.asp?t=5" title="预订" class="bgn nor ">预订</a>-->
+		
+	</span>
+	<form method="get" action="article.asp" name="" class="r">
+
+		<input type="text" value='请输入关键词' class="txt" id="s" name="s" title="西祠胡同搜索" onclick="if (document.getElementById('s').value=='请输入关键词')document.getElementById('s').value=''"/> <input type="submit" onclick="return checksInput(2);" value="搜角落" class="hand" /><input type="button" onclick="return checksInput(3);" value="搜全站" class="hand" />
+	</form>
+</div>
+
+<div id="spCont">
+	<div id="slideA"><div class="midd bor" id="TDocText">
+		<dl class="dl"><dt><a href="/d203247265.htm" target="_blank">南京双全科技有限公司成除甲醛领航企业</a></dt><dd class="bor"><p class="pd"><!---doc_text---><div style="background-color:rgb(204, 232, 207);color:rgb(66, 66, 66);font-family:'Microsoft Yahei', 宋体;line-height:24px;margin:0px;padding:0px;text-align:center;">
+<h2 style="color:rgb(34, 34, 34);font-size:18px;font-weight:normal;margin:0px 0px 6px;padding:0px;">南京双全科技有限公司成除甲醛领航企业</h2>
+<p style="color:rgb(126, 126, 126);margin:0px;padding:0px;"><span style="margin:0px 7px;">来源：<span
+style="margin:0px 7px;">中国商业电讯</span></span><span style="margin:0px 7px;">2014年5月15日</span><a
+href="http://xici800.cn/vcur4"  target="_blank" rel="external nofollow "
+style="color:rgb(66, 66, 66);text-decoration:none;">【评论<em style="color:rgb(150, 0, 1);font-style:normal;">0</em>条】</a><span
+style="margin:0px 7px;">字号：<a href="http://xici800.cn/fuIRT4"  target="_blank" rel="external nofollow "
+style="color:rgb(66, 66, 66);text-decoration:none;">T</a><span style="margin:0px 7px;">|</span><a
+href="http://xici800.cn/fuIRT4"  target="_blank" rel="external nofollow " style="color:rgb(66, 66, 66);text-decoration:none;">T</a></span></p>
+</div>
+<div style="background-color:rgb(204, 232, 207);clear:both;color:rgb(34, 34, 34);font-family:'Microsoft Yahei', 宋体;line-height:26px;margin:0px;padding:19px 0px 0px;word-break:normal;word-wrap:break-word;">
+<p style="margin:13px 0px;padding:0px;">　　南京双全科技有限公司成立于2002年，专业从事室内空气净化治理及甲醛检测已有12年历史。双全科技系列专利甲醛清除剂产品，不仅用于室内除甲醛空气净化工程，而且适用于纺织品甲醛超标(SQ-5861\\SQ-5860等)、家具及人造板材以及强化地板的甲醛清除，产品不仅安全无二次污染，而且清除效率高，有效解决工业品尤其是出口成品面料及服装的甲醛超标难题；专利产品智能芯活性炭，投放市场后，深受市场欢迎，解决了活性炭类吸附产品吸附饱和可能二次污染环境的问题；专利产品空调猎醛网，更是受到了市场的追捧，只需很少的投入，即可方便地将普通空调升级为具有净化装修甲醛污染的空调，尤其是对孕母婴房及儿童房的环境净化有独特效果。强化地板甲醛释放量国标是1.5mg/l，其超标难题一直是产品受市场逅病之处，双全科技经过数年技术攻关，研制成功强化复合地板专用甲醛清除剂SQ-68型，使用成本低，效果好，可以确保甲醛释放量《0.3mg/l甚至更低水平，完全超过国标E0级标准水平。公司新近攻关成功家具专用型甲醛清除剂SQ-2000，既能除甲醛又能去异味，深受家具厂欢迎。</p>
+<center>
+  <img height="368" src="http://minnan.sinaimg.cn/cr/2014/0515/2372530380.jpg"
+  width="463" style="border:none;vertical-align:top;" />
+</center>
+<p style="margin:13px 0px;padding:0px;">　　<strong>成长历程</strong></p>
+<p style="margin:13px 0px;padding:0px;">　　双全：取名源于“全心全意，为人民健康服务”中的两个“全”。当然双全还源于成语“文武双全”，意为双全的事业，是天下无敌的事业，是只有成功的事业！</p>
+<div style="clear:both;float:left;height:266px;margin:33px 15px 0px 0px;padding:0px;width:320px;"><iframe
+frameborder="0" height="250" marginheight="0" marginwidth="0" scrolling="no" src="http://mn.sina.com.cn/iframe/66/2012/0619/72.html"
+width="303" style="margin:0px;padding:0px;"></iframe></div>
+<p style="margin:13px 0px;padding:0px;">　　2002年双全科技经过近五年与高等院校科研院所的联合攻关，终于研制成功清除甲醛污染的专利技术，并率先将成果投放市场！在国内首开室内甲醛污染治理先河！</p>
+<p style="margin:13px 0px;padding:0px;">　　2003年，双全科技在品牌、技术、服务上推崇的“双全科技，全心全意为人民健康服务”的理念深入人心，产品迅速为广大消费者和经销代理商接受。</p>
+<p style="margin:13px 0px;padding:0px;">　　2003年，产品通过中国室内装饰协会室内环境检测中心的严格检测，甲醛去除率达99.1%。中国室内装饰协会室内环境检测中心郑重向全国消费者推荐监制，成为中国同行业首批获此殊荣企业。</p>
+<p style="margin:13px 0px;padding:0px;">　　2003年，上海市产品毒性质量监督检验站对双全系列产品毒性进行检测，按照食品毒性的评介标准，证实产品安全，无毒、副作用。</p>
+<p style="margin:13px 0px;padding:0px;">　　2003年，产品通过南京市产品质量监督检验所检测，除甲醛效果高达97%以上；</p>
+<p style="margin:13px 0px;padding:0px;">　　2003年，南京市疾病预防控制中心检测，双全系列产品实际用于污染居室及橱柜的甲醛治理，效果显著；</p>
+<p style="margin:13px 0px;padding:0px;">　　2003年，在南京市首届家装博览会上，双全科技受到消费者和媒体的追捧。</p>
+<p style="margin:13px 0px;padding:0px;">　　2004年，上海室内行业装饰协会经过反复认证，在上海行业内推广使用；</p>
+<p style="margin:13px 0px;padding:0px;">　　2004年，广东装饰材料行业协会经过严格筛选，郑重在广东装饰行业内推广；</p>
+<p style="margin:13px 0px;padding:0px;">　　2004年，无锡市产品质量监督检验所权威检测，甲醛去除率99%以上，试验证明双全产品除甲醛效果：不会反弹！</p>
+<p style="margin:13px 0px;padding:0px;">　　2004年，中国室内装饰协会在人民大会堂举办室内环境技术高峰论坛，双全总工程师王盛良主任所作“室内甲醛污染问题及其对策”一文深受与会专家学者的好评；</p>
+<p style="margin:13px 0px;padding:0px;">　　2004年6月，北京举办的“室内环境技术与产品展览会”会上双全产品受到媒体的关注，“源头治理装修甲醛污染”成为“双全科技”的代名词；</p>
+<p style="margin:13px 0px;padding:0px;">　　2005年，中国室内装饰协会室内环境监测工作委员会作为室内环境净化产品的重点品牌进行推荐。</p>
+<p style="margin:13px 0px;padding:0px;">　　2005年，产品在中国消费者协会举办的行业产品检测评比中，经严格的对比测试，产品除甲醛效果挤身全国四个优秀产品的行列，并郑重向消费者推荐；</p>
+<p style="margin:13px 0px;padding:0px;">　　2005年，天津双全科技参加天津“第五届现代住宅装饰材料博览会”，双全科技在天津备受瞩目；</p>
+<p style="margin:13px 0px;padding:0px;">　　2005年，在南京举办的大型公益性的广场环保咨询活动中，双全科技专家受到了消费者的热情欢迎；</p>
+<p style="margin:13px 0px;padding:0px;">　　2005年，双全系列产品天津推广会在天津市塘沽举行，取得了优异的成果。</p>
+<p style="margin:13px 0px;padding:0px;">　　2005年，泉州双全应泉州市人民广播电台邀请，参加央视CCT2-2在全国范围内发起的“首次家庭装修室内环境污染调查”活动，成为室内环境治理的指定单位。</p>
+<p style="margin:13px 0px;padding:0px;">　　2005年，应“南京晨报”邀请，双全科技再次参与报社举办的大型公益咨询活动。</p>
+<p style="margin:13px 0px;padding:0px;">　　2005年，泉州双全联合《东南早报》举办了以“倡导绿色家居，热心环保工程”为主题的室内空气普查活动。</p>
+<p style="margin:13px 0px;padding:0px;">　　2005年，著名的南京新闻频道金牌栏目“南京零距离”首肯双全科技的产品及服务，唯一指定双全科技为室内环境治理便民合作单位。</p>
+<p style="margin:13px 0px;padding:0px;">　　2005年，武汉双全科技成为武汉装饰协会会员企业，湖北省疾病预防控制中心向消费者首推单位。</p>
+<p style="margin:13px 0px;padding:0px;">　　2005年，双全产品在泉州被广东星艺装饰公司作为“三赢”服务的指定购买品牌。</p>
+<p style="margin:13px 0px;padding:0px;">　　2005年，双全科技应江苏省家具行业协会邀请，对与会家具同行作了“环保家具绿色家具技术壁垒”的专题报告，深得家具厂商的欢迎。</p>
+<p style="margin:13px 0px;padding:0px;">　　2006年，全国各地双全又报来喜讯：在烟台，北京居泰隆装饰公司、烟台好特别装饰公司、烟台好特别装饰公司、北京好易居烟台公司、烟台开元盛饰装饰公司等十几家装饰公司全面跟烟台双全合作！在武汉，武汉澳华装饰、今泰装饰等多家知名品牌装饰公司与武汉双全联手，共同为百姓打造绿色环保健康家居环境。在杭州九鼎装饰等众多品牌大公司成功与杭州双全联手环保产业……　
+短短几年，双全系列产品先后经过湖南、河南、广东、上海、江苏盐城、扬州、无锡等众多权威的产品质量监督检验所、疾病预防控制中心以及建筑建材监督检验所等的检测，众多的检测报告说明了一个问题：双全系列治污产品值得期待。</p>
+<p style="margin:13px 0px;padding:0px;">　　2007年纺织品系列产品研发成功并投放市场，深受市场欢迎，成功解决纺织品尤其是出口纺织品甲醛超标难题，并经权威的SGS等国际谁机构检测。</p>
+<p style="margin:13px 0px;padding:0px;">　　2007年，双全科技智能芯活性炭获国家专利。</p>
+<p style="margin:13px 0px;padding:0px;">　　2008年，双全科技新产品“纳米除味花”通过国家环保产品质量监督检验中心检测，其甲醛去除率高达80%以上，并接受新浪家居频道采访。</p>
+<p style="margin:13px 0px;padding:0px;">　　2009年，双全科技家具系列胶用除甲醛捕捉剂研发成功并投放市场，并在江苏省家具协会的南通会议上进行了交流。</p>
+<p style="margin:13px 0px;padding:0px;">　　2009年，双全科技家具型甲醛清除剂SQ-2000通过国家人造板监督检验中心检测，并顺利投放市场，为解决家具甲醛异味污染带来了希望。</p>
+<p style="margin:13px 0px;padding:0px;">　　2010年，双全科技产品”空调猎醛网“研制成功，并顺利申请国家发明专利并获授权，普通空调只需要投入不到空调5%左右的费用，即可升级为除甲醛空调。这对不通风的环境，尤其是孕妇及母婴儿童房或婚房的甲醛污染问题得到了顺利的解决。</p>
+<p style="margin:13px 0px;padding:0px;">　　2011年，双全科技经过碧桂园房地产公司的实地考察，最终通过公司的层层筛选，选择双全科技作为其凤凰酒店装修后空气净化治理合作企业，先后对滁州、和县以及句容等凤凰酒店以及样板房、售楼中心等进行了甲醛治理，受到了一致的好评。</p>
+<p style="margin:13px 0px;padding:0px;">　　2012年，双全科技更上层楼，先后获得和记皇甫、LG电子、泰尔重工等上市公司的邀请，成为其室内空气净化治理的供货商。并成功对其研发中心、办公大楼、厂房车间以及员工公寓等进行了除甲醛室内空气净化工程。</p>
+<p style="margin:13px 0px;padding:0px;">　　2013年，双全科技应邀为江苏牧羊集团新建厂房及办公大楼进行空气净化，顺利通过省建筑材料检验院的验收。同年，作为南京博物院新馆及办公大楼净化唯一指定合作商，进行了馆内空气净化的施工，时间紧任务重，双全人争分夺秒地顺利完成了这一任务。同年，作为奥体建设50000多平米的精装修楼盘空气净化承揽企业，对整个楼盘在交付前统一进行了空气净化治理，并通过了质量验收，成功交付。</p>
+<p style="margin:13px 0px;padding:0px;">　　双全公司还很年轻，才刚刚萌芽，正健康的成长着。</p>
+<p style="margin:13px 0px;padding:0px;">　　双全没有辉煌的历史，但双全人正在创造着历史的辉煌！</p>
+<p style="margin:13px 0px;padding:0px;">　　<strong>公司经营范围</strong></p>
+<p style="margin:13px 0px;padding:0px;">　　一、除甲醛系列室内环境净化产品生产</p>
+<p style="margin:13px 0px;padding:0px;">　　二、室内环境污染检测及除甲醛治理服务，包括：</p>
+<p style="margin:13px 0px;padding:0px;">　　1、酒店宾馆包括连锁酒店等装修污染除甲醛治理工程；</p>
+<p style="margin:13px 0px;padding:0px;">　　2、银行、影城、商场、会所及KTV等大型公共场所空气净化工程；</p>
+<p style="margin:13px 0px;padding:0px;">　　3、工矿企业及机关、事业单位办公大楼及生产车间整体除醛净化工程；</p>
+<p style="margin:13px 0px;padding:0px;">　　4、学校、幼儿园、培训机构新装修室内除甲醛工程；</p>
+<p style="margin:13px 0px;padding:0px;">　　5、房地产企业售楼处、样板房以及精装修楼盘整体交付前空气净化除甲醛工程服务；</p>
+<p style="margin:13px 0px;padding:0px;">　　6、家装家居尤其是儿童房、婚房除甲醛空气净化服务；</p>
+<p style="margin:13px 0px;padding:0px;">　　7、博物馆、图书馆等特殊场所除甲醛空气净化服务；</p>
+<p style="margin:13px 0px;padding:0px;">　　8、承接各种室内空气甲醛等有害气体检测服务，承接各种纺织品甲醛释释量以及人造板材、家具等甲醛释放量的检测服务；</p>
+<p style="margin:13px 0px;padding:0px;">　　<strong>主打产品</strong></p>
+<p style="margin:13px 0px;padding:0px;"><strong>　　工业除甲醛清除剂</strong></p>
+<p style="margin:13px 0px;padding:0px;">　　<strong>纺织品除甲醛清除剂</strong></p>
+<p style="margin:13px 0px;padding:0px;">　　甲醛清除剂SQ-5860/5861/586型：在植绒、阻燃等面料的生产中，为了达到防皱、防缩、长效阻燃、保持印花染色的持久性、改善手感等，阻剂中常含有一定量的游离甲醛，这样势必造成面料及成品服装中甲醛的残留。纺织品用甲醛清除剂，用于各种植绒、阻燃面料中甲醛的清除，使纺织品甲醛含量降至10ppm甚至更低，达到国际国内规定的标准。</p>
+<p style="margin:13px 0px;padding:0px;">　　<strong>人造板甲醛清除剂</strong></p>
+<p style="margin:13px 0px;padding:0px;">　　强化地板型SQ-08型甲醛清除剂：强化地板在生产过程中，其甲醛释放量已经成为地板质量及环保要求的必检指标之一。尽管在强化地板的生产过程中，选择甲醛释放量低的基材，采用优化的压模工艺，能有效的降低甲醛释放量，达到国家规定的E1级强化地板甲醛释放量标准。但要生产出甲醛释放量达到E0级或更低的F☆☆☆☆级强化地板，显然是需要进行地板生产工艺的改进并采用甲醛捕捉技术。双全科技针对强化地板独家研发成功地板专用型甲醛清除剂，其主要成份均为进口原料精制而成，采用超强活性安醛技术，将formaldehyde
+eliminator安醛分子引用到复合地板生产工艺过程中，利用分子锁铐原理，迅速渗透并将复合地板中残存的甲醛分子进行锁铐固定，生成网格状的高分子聚合物，持续发挥吸附固定游离甲醛分子的作用。</p>
+<p style="margin:13px 0px;padding:0px;">　　<strong>家具除甲醛清除剂</strong></p>
+<p style="margin:13px 0px;padding:0px;">　　家具型净醛王甲醛清除剂SQ-2000：双全牌净醛王SQ-082是双全科技采用德国核心技术开发而成的一项环保技术产品，专供中国家具、三聚氰胺贴面板及橱柜制造商，在不影响家具制作工艺的基础上，有效去除家具生产用板材、饰面纸及胶粘剂中的甲醛，确保家具达到国家规定的甲醛释放标准，甚至生产符合欧洲标准的E0级家具及橱柜，家具既“无异味”又环保，而且对“环境友好”。</p>
+<p style="margin:13px 0px;padding:0px;">　　<strong>装修污染治理产品</strong></p>
+<p style="margin:13px 0px;padding:0px;">　　A型家具除味剂光触媒伴侣：A+型家具除味剂，主要针对光触媒技术在治理居室装修污染尤其是治理已油漆成品家具过程中的难题，直接从源头上清除各种家具的甲醛污染，是双全科技最新研发成功，拥有自主知识产权的光触媒现有技术及产品的配套及更新换代产品。</p>
+<p style="margin:13px 0px;padding:0px;">　　B型壁纸(涂料)除味剂光触媒伴侣：B型光触媒伴侣，即涂料除味剂，主要针对光触媒技术在治理室内装修污染时对涂料及涂料腻子中存在的甲醛等其它TVOC污染难以治理的缺点，由双全科技最新研制成功的高技术产品。B型光触媒伴侣，可有效地清除涂料中可能存在的甲醛污染，降低TVOC总量，吸附清除空气中可能残存的甲醛等异味，与A型光触媒伴侣起协内增效作用。</p>
+<p style="margin:13px 0px;padding:0px;">　　家具除甲醛护理蜡：本品主要用于清除已经油漆处理的地板家具内的甲醛污染，同时对地板家具有清洁上光养护驱虫打蜡养护，对表面划痕有修复作用，使家具光亮如新，并对其甲醛有强力的去除效果。</p>
+<p style="margin:13px 0px;padding:0px;">　　地毯异味净：地毯异味净，专业用于地毯、墙壁纸等异味的清除。地毯异味净，引进进口的异味净特效成份，可有效地与低分子量的含有氨基氮和/或巯基硫化物功能团(氢化硫，硫醇，硫醚，异戊酸，胺基和氨基)的有机化合物直接接触和反应，并且能长时间持续吸收气味，直接将异味源固定。当它还未被气味发生源完全耗尽时，在水性增溶体系下，仍能被激活，发挥优异的除味效果。</p>
+<p style="margin:13px 0px;padding:0px;">　　<strong>成功案例</strong></p>
+<p style="margin:13px 0px;padding:0px;"><strong>　　装修墚治理</strong></p>
+<p style="margin:13px 0px;padding:0px;">　　南京双全科技有限公司成立12年以来，承揽各种除甲醛服务工程，近二年的典型工程有LG电子(18000平米)、南京博物院(32000平米)、A.O史密斯(8000平米)、碧桂园凤凰酒店(56000平米)、镇江国际酒店(19000平米)、奥体建设精装修房(50000平米)、新东方集团(17000平米)、中国银行(12000平米)等。住宅家庭检测治理案例更多。所有治理均通过相关权威检测机构的检测，治理后完全达到国家空气质量标准，并顺利通过验收，获得好评！</p>
+<p style="margin:13px 0px;padding:0px;">　　<strong>工业品合作案例</strong></p>
+<p style="margin:13px 0px;padding:0px;">　　多年来我们为全国各地的外贸出口及纺织面料加工企业，解决了数以百计的出口纺织成品服装或面料的甲醛超标难题。典型企业包括无论是阻燃面料还是植绒面料，无论是牛仔面料还是童装，成品帽子或帽片及皮鞋、窗帘及席梦思等产品甲醛超标难题。典型合作企业有上海鼎天纺织、吴江立盛鞋业、宁波华兴制衣、温岭舜浦帽业、吉奥璐纺织、浙江美盛、北京元龙皮革、浙江依爱夫、佛山南岭无纺布、台山小蜜蜂服饰、虎门圣腾纺织、虎门博美布料、广东揭阳惠万成针织、高密市众和服装、如意控股集团、泰安添锦服饰、迪迪贝贝服饰、天津象隆国际、青岛西立、南通东佳纺织、以纯集团、绍兴天宏布业今童王制衣等。</p>
+</div><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d203247265.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_0></span>　跟贴：1　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：14-05-26 11:19</span></p></dd></dl><dl class="dl"><dt><a href="/d145603718.htm" target="_blank">装修后才知道的事（留着备用）</a></dt><dd class="bor"><p class="pd"><!---doc_text---><span style="border-collapse:collapse;color:rgb(51, 51, 51);font-family:'ms shell dlg', tahoma, sans-serif;line-height:22px;">
+<p style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:5px;margin-left:0px;margin-right:0px;margin-top:5px;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;word-break:break-all;word-wrap:break-word;">&nbsp;&nbsp;
+&nbsp;&nbsp;<font face="楷体_GB2312" size="2" style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;">&nbsp;经验，让你少走弯路。</font></p>
+<p style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:5px;margin-left:0px;margin-right:0px;margin-top:5px;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;word-break:break-all;word-wrap:break-word;"><font
+face="楷体_GB2312" size="2" style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;"></font>&nbsp;</p>
+<p style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:5px;margin-left:0px;margin-right:0px;margin-top:5px;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;word-break:break-all;word-wrap:break-word;"><font
+color="#993399" face="楷体_GB2312" size="2" style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;"><strong
+style="font-family:'ms shell dlg', tahoma, sans-serif;font-weight:700;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;">1.&nbsp;床垫太软<br
+style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+2.&nbsp;如果家中会做饭频率很高的话，尽量放弃开放式厨房，会有油烟问题<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+3.&nbsp;卫生间、厨房小水宝，热水来得快，使用时比较方便<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+4.&nbsp;吸油烟机中式的比欧式的吸力更强<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+5.&nbsp;电源插座能多装尽量多装点，否则家里到处都是拖线板<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+6.&nbsp;马桶边上一定要预留电源插座，否则卫洗丽没法装<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+7.&nbsp;浴缸PK淋浴，二选一的话，还是建议淋浴，浴缸装好，从来也没泡过澡的不是少数。淋浴不是指淋浴房，淋浴房的玻璃擦起来还是很累的，也可以选择挂根浴帘<br
+style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+8.&nbsp;如果有2个卫生间，装一个浴缸还是有必要的，泡泡大件衣物，帮小宝宝洗澡都是不错的选择，按摩浴缸就不必了，泡不了几回，还特别贵<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+9.&nbsp;如果不是不烧饭的人家，厨房最好能装空调<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+10.&nbsp;如果喜欢上网，每个房间的每面墙上，都预留至少2个网口和2个以上的插座。无线路由的确可以解决问题，但是据说有时候还是不稳定</strong></font></p>
+<p style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:5px;margin-left:0px;margin-right:0px;margin-top:5px;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;word-break:break-all;word-wrap:break-word;"><font
+color="#993399" style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;"><strong
+style="font-family:'ms shell dlg', tahoma, sans-serif;font-weight:700;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;"></strong></font><font
+face="楷体_GB2312" size="2" style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;"></font>&nbsp;<span
+style="color:rgb(153, 51, 153);"><strong style="font-family:'ms shell dlg', tahoma, sans-serif;font-weight:700;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;"></strong></span></p>
+<p style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:5px;margin-left:0px;margin-right:0px;margin-top:5px;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;word-break:break-all;word-wrap:break-word;"><strong
+style="font-family:'ms shell dlg', tahoma, sans-serif;font-weight:700;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;"><font
+face="楷体_GB2312" size="2" style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;">11.&nbsp;后悔厨房烟道没有打出去，现在只要楼里有人烧菜，自家的脱排油烟机就必须同时打开，不然满屋子的油烟味</font></strong></p>
+</span>
+<p></p>
+<span style="border-collapse:collapse;color:rgb(153, 51, 153);font-family:'ms shell dlg', tahoma, sans-serif;line-height:22px;"><strong
+style="font-family:'ms shell dlg', tahoma, sans-serif;font-weight:700;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;">
+<p style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:5px;margin-left:0px;margin-right:0px;margin-top:5px;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;word-break:break-all;word-wrap:break-word;"><font
+face="楷体_GB2312" size="2" style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;"><br
+style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+12.&nbsp;房内各种插座的位置，与后来买的家具尺寸有偏差，浪费了很多插座<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+13.&nbsp;如果在商场里都么买到的，就千万不要叫木工做！！！！！除非这个木工手艺相当的好<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+14.&nbsp;地板颜色要略浅的，不容易看到灰，厨卫地砖反而要略深，不容易发现到处都是头发，这样才最耐脏<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+15.&nbsp;餐厅最好装个吊扇，超级舒服</font></p>
+<p style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:5px;margin-left:0px;margin-right:0px;margin-top:5px;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;word-break:break-all;word-wrap:break-word;"><font
+face="楷体_GB2312" size="2" style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;"><span
+style="font-weight:normal;line-height:22px;"><strong style="font-family:'ms shell dlg', tahoma, sans-serif;font-weight:700;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;"></strong></span></font></p>
+<p style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:5px;margin-left:0px;margin-right:0px;margin-top:5px;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;word-break:break-all;word-wrap:break-word;"><font
+face="楷体_GB2312" size="2" style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;"><strong
+style="font-family:'ms shell dlg', tahoma, sans-serif;font-weight:700;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;"><font
+face="楷体_GB2312" size="2" style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;">16.&nbsp;储物空间尽量多一点，入住后需要收纳的杂物会越来越多<br
+style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+17.&nbsp;阳台的墙面最好还是用瓷砖，比涂料更防水<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+18.&nbsp;后悔买了装了那么多灯，其实固定用的就那几个。。。<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+19.&nbsp;厕所的梳洗台是玻璃的，超级容易弄脏<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+20.&nbsp;床头忘了装开关，每次都要下床关灯，冬天很难过的<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+21.&nbsp;浴室五金件,龙头之类的绝对是一分价钱一分货<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+22.&nbsp;装修时尽量不要留擦不到的地方,&nbsp;死角卫生很难搞</font><font face="楷体_GB2312" size="2" style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;"><br
+style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+23.&nbsp;将来打算要孩子的家庭，一定要算好尺寸，在床的旁边要预留可放婴儿床的位置<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+24.&nbsp;建议所有龙头都装冷热水管，装修时多装一点花不了很多钱，事后想补救超级困难<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+25.&nbsp;房间里的不实用的布置越少越好&nbsp;人民币贴上去就撕不下来了&nbsp;早晚过时!<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+26.&nbsp;买任何东西时注意家里面门的大小，别买好了搬不进去<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+27.&nbsp;实木地板脚感好但需要保养，复合地板清洁起来方便<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+28.&nbsp;隐形门是中看不中用的，想开着透气都麻烦</font><font face="楷体_GB2312" size="2" style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:1.6em;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;"><br
+style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+29.&nbsp;步入式衣柜好是好，不过比较容易积灰，敞开式的书架、置物架等（没有门的那种），好看是好看，但是擦起来好痛苦啊，特别是书，一层灰<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+<br style="font-family:'ms shell dlg', tahoma, sans-serif;line-height:normal;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;word-break:break-all;word-wrap:break-word;" />
+30.&nbsp;灯千万不能是冲上的，那个挂上去之后就等着积灰吧。</font></strong></font></p>
+</strong></span>
+<p></p><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d145603718.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_1></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：11-05-03 10:04</span></p></dd></dl><dl class="dl"><dt><a href="/d142799722.htm" target="_blank">家庭室内装饰施工作业指导书</a></dt><dd class="bor"><p class="pd"><!---doc_text---><div>
+<div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+      <td>
+      <div>
+      <div><a href="/t.asp?http://www.eju.cn/weekly/doc/sn.doc">室内装饰施工作业指导书（包括以下所有）</a>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s1.doc">作业指导书------轻钢</a><a href="/t.asp?http://www.cl.eju.cn/product/070103.htm"
+      target="_blank">龙骨</a>石膏板隔墙</p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s2.doc">作业指导书-----轻钢</a><a href="/t.asp?http://www.cl.eju.cn/product/070103.htm"
+      target="_blank">龙骨</a>石膏板吊顶施工方案及工艺</p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s3.doc">作业指导书------ 木骨架罩面板顶棚</a></p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s4.doc">作业指导书-----</a><a href="/t.asp?http://www.cl.eju.cn/product/040402.htm"
+      target="_blank">大理石</a>、<a href="/t.asp?http://www.cl.eju.cn/product/040401.htm" target="_blank">花岗石</a>干挂施工方案及工艺</p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s5.doc">作业指导书------墙面瓷砖粘贴</a></p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s6.doc">作业指导书------玻璃安装</a></p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s7.doc">作业指导书------壁柜、吊柜及固定家具安装</a></p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s8.doc">作业指导书------木</a><a href="/t.asp?http://www.cl.eju.cn/product/0601.htm"
+      target="_blank">窗帘</a>盒、金属<a href="/t.asp?http://www.cl.eju.cn/product/0601.htm" target="_blank">窗帘</a>杆安装</p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s9.doc">作业指导书------木门窗安装</a></p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s10.doc">作业指导书------厕浴间聚氨酯涂膜防水层</a></p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s11.doc">作业指导书------</a><a href="/t.asp?http://www.cl.eju.cn/product/040402.htm"
+      target="_blank">大理石</a>、<a href="/t.asp?http://www.cl.eju.cn/product/040401.htm" target="_blank">花岗石</a>地面施工工艺标准</p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s12.doc">作业指导书------磁砖地面施工工艺标准</a></p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s13.doc">作业指导书------混凝土及抹灰面刷乳胶漆</a></p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s14.doc">作业指导书------木制品清色油漆</a></p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s15.doc">作业指导书------地毯铺设</a></p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s16.doc">作业指导书------活动地板</a></p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s17.doc">作业指导书------卫生洁具安装工艺标准</a></p>
+      <p><a href="/t.asp?http://www.eju.cn/weekly/doc/s18.doc">作业指导书------</a><a href="/t.asp?http://www.cl.eju.cn/product/1001.htm"
+      target="_blank">开关</a>、<a href="/t.asp?http://www.cl.eju.cn/product/1002.htm" target="_blank">插座</a>安装工艺标准</p>
+      </div>
+      <div><span style="color:#ffffff;">关健词：家庭，室</span></div>
+      </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+<div>
+<div></div>
+</div>
+</div><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d142799722.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_2></span>　跟贴：1　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：11-03-14 14:42</span></p></dd></dl><dl class="dl"><dt><a href="/d137589917.htm" target="_blank">选择智能活性炭的理由</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p style="margin:0cm 0cm 0pt 18pt;text-indent:-18pt;"><span><span><font face="Times New Roman">1．<span
+style="font:7pt times new roman;"><font color="#ff0000" size="4">&nbsp; </font></span></font></span></span><span
+style="font-family:宋体;"><font color="#ff0000" size="4">智能型活性</font>炭和普通活性炭，两者有何区别？</span></p>
+<p style="margin:0cm 0cm 0pt 0.1pt;text-indent:17.95pt;"><span style="font-family:宋体;">普通活性炭：普通活性炭我们无法辨别谈的质量是劣质炭还是煤质炭，从外观上我们无法辨别。而且普通炭在包装期间，炭的隙孔里存在着空气和有毒气体，已经有了使用的迹象……</span><span
+style="font-family:宋体;">智能活性炭：纯椰壳活性炭精制，包包具有“心”形专利饱和变色检测芯片，是活性炭类产品的升级换代产品。<span
+style="color:red;">专利技术</span>，解决了目前普通活性炭<span style="color:red;">不知何时</span>会吸附饱和的难题！一旦活性炭吸附饱和，检测芯片就由淡红色变成土灰色，及时警醒使用者，真正做到避免二次污染！</span></p>
+<p style="margin:0cm 0cm 0pt;"><span><font face="Times New Roman"></font></span>&nbsp;</p>
+<p style="margin:0cm 0cm 0pt 18pt;text-indent:-18pt;"><span><span><font face="Times New Roman">2．<span
+style="font:7pt times new roman;">&nbsp; </span></font></span></span><span style="font-family:宋体;">智能活性炭为何都采用真空包装？</span></p>
+<p style="margin:0cm 0cm 0pt 17.95pt;text-indent:2.95pt;"><span style="font-family:宋体;">双全牌活性炭，均采用七层高阻隔技术<span
+style="color:red;">真空包装</span>而成！是目前国内唯一采用此项技术的厂家。真空包装，能最大限度除去活性炭孔隙里的空气，使活性炭更有效地发挥吸附作用。一般非真空包装炭，在生产加工包装过程中，活性炭的孔隙里充满了空气及空气中可能的污染，就象一个已装满水的瓶子，效能当然降低。</span></p>
+<p style="margin:0cm 0cm 0pt 17.95pt;text-indent:2.95pt;"><span><font face="Times New Roman"></font></span>&nbsp;</p>
+<p style="margin:0cm 0cm 0pt;"><span><font face="Times New Roman"></font></span>&nbsp;</p>
+<p style="margin:0cm 0cm 0pt 18pt;text-indent:-18pt;"><span><span><font face="Times New Roman">3．<span
+style="font:7pt times new roman;">&nbsp; </span></font></span></span><span style="font-family:宋体;">普通椰壳炭和智能炭，如何选择？</span></p>
+<p style="margin:0cm 0cm 0pt 17.85pt;"><span style="font-family:宋体;">至于选择智能活性炭还是普通椰壳活性炭，主要看自身的实际情况，想<span
+style="color:red;">更安全更有效</span>的使用活性炭，当然选择智能活性炭！普通活性炭放在居室，究竟<span style="color:red;">能放多久</span>心里也没有数，甚至吸饱和了还有消费者放在那里（反而会二次污染环境，有害无益！）。</span></p>
+<p style="margin:0cm 0cm 0pt;"><span><font face="Times New Roman"></font></span>&nbsp;</p>
+<p style="margin:0cm 0cm 0pt 18pt;text-indent:-18pt;"><span><span><font face="Times New Roman">4．<span
+style="font:7pt times new roman;">&nbsp; </span></font></span></span><span style="font-family:宋体;">买多少盒合适呢？</span></p>
+<p style="margin:0cm 0cm 0pt 17.95pt;"><span style="font-family:宋体;">为方便亲们选购，无论双全牌椰壳炭还是智能活性炭，每盒（包）都是</span><span><font
+face="Times New Roman">600</font></span><span style="font-family:宋体;">克（</span><span><font
+face="Times New Roman">12</font></span><span style="font-family:宋体;">小包×</span><span><font
+face="Times New Roman">50</font></span><span style="font-family:宋体;">克），适用于</span><span><font
+face="Times New Roman">10</font></span><span style="font-family:宋体;">平米。亲们可以根据家里的实际面积进行计算。以实际使用面积</span><span><font
+face="Times New Roman">100</font></span><span style="font-family:宋体;">平米，需要</span><span><font
+face="Times New Roman">10</font></span><span style="font-family:宋体;">盒，如果是</span><span><font
+face="Times New Roman">50</font></span><span style="font-family:宋体;">平米，需要</span><span><font
+face="Times New Roman">5</font></span><span style="font-family:宋体;">盒，以此类推。如果污染严重，可加大用量，效果更佳。</span></p><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d137589917.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_3></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：10-12-09 15:34</span></p></dd></dl><dl class="dl"><dt><a href="/d121098335.htm" target="_blank">又是六一儿童节啦，让儿童远离装修污染吧</a></dt><dd class="bor"><p class="pd"><!---doc_text---><div>白血病患儿激增　装修污染是大祸首</div>
+<div></div>
+<span><font color="#a50010">本报记者　史婷婷　黄苏娟　实习生　徐志萍</font></span> <br />
+<div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+      <td><font>
+      <p>
+      <table align="left" border="0" cellpadding="0" cellspacing="0">
+        <tbody>
+          <tr>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+      　　昨日，记者从南京市消协获悉，在过去的一年中，设计装修污染的投诉成为热点，投诉个案数量居于前列。南京儿童医院有关人士透露，不当装修引起的室内环境污染，是近年来小儿白血病患者明显增加的一个诱因。室内装修污染问题再次敲响了警钟。<br />
+      <br />
+      　　<b>家庭装修污染让孩子遭殃</b><br />
+      <br />
+      　　2004年2月，家住南京市下关区的李先生和太太添了一个宝贝儿子，儿子的出世让李先生一大家子都沉浸在幸福中。为了让宝宝长大后能拥有一个属于自己的生活小天地，李先生早早就替儿子做起了准备。去年年底，李先生与太太商量了一下，找来一个装潢公司，为儿子的卧室搞起了装潢，顺便把整个房子重新粉刷一新。装修完没多久，一家人便高高兴兴搬进了屋。一个月后，李先生的儿子突然整夜整夜哭个不停，可是却没发现孩子有异常。几天过后，李先生把孩子带到该区某医院看病，谁知经过检查，医生竟然告诉李先生一个惊人的噩耗：“孩子血液有问题，可能患有白血病”。几天回不过神来的李先生实在不敢相信医生的话，于是又带着孩子来到江苏省人民医院。在对孩子进行完检查后，医生表示孩子只是血液中某种成分含量过低，并没有患白血病。在得知李先生家的房子刚刚装修过后，医生建议李先生赶紧找相关部门对其装修过的房屋进行检测，并表示，孩子的病可能与房屋装修有关。经检测，李先生家房子中的甲醛与苯轻微超标。为了不让孩子再受害，李先生一家人至今都不敢住进新装修的房子内。<br />
+      <br />
+      　　室内装修污染对人们的危害和因此带来的损失已引起国家有关部门的重视，2003年3月1日，我国首部《室内空气质量标准》正式实施。根据建设部、中国消费者协会已公布的数据表明，2004年关于房屋买卖及装修方面的投诉高达每月1.2万件。同期，全国每年由于室内空气污染引起的死亡人数已达11.1万人，每天大约为304人，相当于全国每天因车祸死亡的人数。而在这些患者当中，儿童成为装修污染中受威胁最大的人群。<br />
+      <br />
+      　　<b>苯与甲醛可能引发白血病</b><br />
+      <br />
+      　　昨天，记者从南京儿童医院了解到，近年来小儿白血病患者有明显增多趋势。该院每年前来就诊的白血病患儿中，大部分的患者家中在半年之内曾经装修过。据该院专家介绍，一些孩子因为不慎接触化学物质而致病，还有的是因家中买了未达到环保要求的新家具，导致血小板减少。儿童医学专家们在经过总结后推测，不当装修引起的室内环境污染是近年来小儿白血病患者明显增加的一个诱因。江苏省人民医院血液科李主任也表示，白血病最大的诱因是辐射和污染，室内污染物中的苯和甲醛确实与白血病的发病有关系，而病毒因素和遗传基因缺陷等诱发白血病的概率远远小于苯与甲醛。<br />
+      <br />
+      　　苯与甲醛究竟对人体有怎样的危害呢？据南京东南大学附属中大医院血液科的专家介绍，甲醛是一种无色易溶的刺激性气体，可经呼吸道吸收。长期接触低剂量甲醛可引起慢性呼吸道疾病、女性月经紊乱、妊娠综合征，引起新生儿体质降低、染色体异常，甚至引起鼻咽癌。高浓度甲醛对神经系统、免疫系统、肝脏等都有毒害。甲醛还有致畸、致癌作用。长期接触甲醛的人，可能引起鼻腔、口腔、鼻咽、咽喉、皮肤和消化道的癌症。甲醛主要来源于建筑材料、装修物品及生活用品等化工产品。<br />
+      <br />
+      　　苯是无色具有特殊芳香味的液体，是室内挥发性有机物的一种。在通风不良的环境中，短时间吸入高浓度苯可引起以中枢神经系统抑制作用为主的急性苯中毒。轻度中毒会造成嗜睡、头痛、头晕、恶心、呕吐、胸部紧束感等，并可有轻度黏膜刺激症状。重度中毒可出现视物模糊、震颤、呼吸浅而快、心律不齐、抽搐和昏迷。严重者可出现呼吸和循环衰竭，心室颤动。苯主要来源于装修中使用的胶、漆、涂料和建筑材料的有机溶剂。<br />
+      <br />
+      　　<b>不合格建材是罪魁祸首</b><br />
+      <br />
+      　　“不合格建材是装修污染原因之首。”江苏省疾病预防控制中心负责环境检测的一位工作人员在接受记者采访时说，引起装修污染的原因很多，包括不合格的建材、家装市场不规范、不当的装潢方法以及人们检测室内环境的意识尚未形成等，其中不合格的建材对人体危害最大。现代居室内空气中挥发性有机化合物达三百多种，其中易对人体造成伤害、甚至致癌的就有二十多种。研究证实，建筑和装饰材料是主要的潜在室内空气污染源，而油漆家具、涂料、合成纤维板等是主要的室内污染物。<br />
+      <br />
+      　　“有些涂料表面上看与正规厂家生产的涂料没有任何区别，使用的效果也相差无几，但涂料的各项指标却严重超标，一旦用于家庭装潢，将对人体造成极大的伤害。”南京市质量技术监督局一位工作人员介绍，近几年中国房地产市场不断升温，建材生产和销售也随之快速增加，于是各种不合格装修装饰材料充斥市场，许多不具备生产资质的厂商，生产出的建材产品有害气体超标，严重危害着消费者的人身健康。<br />
+      <br />
+      　　<b>装修污染可持续15年</b><br />
+      <br />
+      　　由不合格建材引起的室内环境污染还具有长期性的特点。南京市室内环境监测中心主任李B告诉记者，研究表明，缓慢释放造成的污染可以持续4至15年，而且难以觉察。南京的张先生在房屋装修四年后，请室内检测中心为其房子做了次全面检查，检测报告吓人一跳，空气中的甲醛排放仍严重超标。“因此，消费者在选择装潢材料时，一定要挑选品牌过硬的环保材料。”李B说。<br />
+      <br />
+      　　相关人员提醒市民，不要急于入住新装修的房子，要保证一定的通风时间。入住前，如果发现房子内有异常气味，建议请有关部门进行室内环境检测。<br />
+      <br />
+      　　<b>相关链接：</b><br />
+      <br />
+      　　<b>白血病征兆</b><br />
+      <br />
+      　　如果孩子突然出现下列情况，而以前从没有出现过，则可能是白血病的征兆，家长要注意：<br />
+      <br />
+      　　骨头痛。由于白血病会使骨髓膨胀，骨膜受到拉伸，就会引起疼痛。尤其是在膝盖的上下方最明显，常被误认为是关节炎。<br />
+      <br />
+      　　发烧。发烧不规则，时而高烧，时而低烧。发高烧时，用抗生素无法控制。<br />
+      <br />
+      　　容易出血，出血厉害。皮肤出现瘀斑，而且很厉害，鼻子、牙齿出血，身上有淤血，而且是突然发生严重的出血，在一段时间内会持续不停，这种现象还会逐渐加重。<br />
+      <br />
+      　　贫血。因为红血球的减少，孩子会出现贫血现象，比如脸色苍白，口唇、指甲无血色等。<br />
+      <br />
+      　　乏力。精神很差，喜欢静静地待着。即使活动，也没有原先那样兴奋，活动一会就感到疲累。<br />
+      <br />
+      　　胃口差。孩子的胃口越来越差，甚至对自己喜欢的食品也提不起兴趣。<br />
+      <br />
+      　　淋巴结增多增大。通常发生于颈部、腋窝部，一般不会觉得疼痛或压痛。<br />
+      <br />
+      　　《江南时报》&nbsp;(2005年03月21日&nbsp;第十八版) </font></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d121098335.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_4></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：10-06-01 15:48</span></p></dd></dl><dl class="dl"><dt><a href="/d116534219.htm" target="_blank">论光触媒技术在家装污染治理中的应用困境</a></dt><dd class="bor"><p class="pd"><!---doc_text---><h3 align="center" style="margin:auto 0cm;text-align:center;"><span style="color:#009900;font-family:PMingLiU;font-size:24pt;">如何从源头上解决装修污染难题？</span><span
+style="color:black;font-family:PMingLiU;"></span></h3>
+<h3 align="center" style="margin:auto 0cm;text-align:center;"><span style="color:red;">──试论光触媒技术在家装污染治理中的应用困境</span><span
+style="color:black;font-family:PMingLiU;font-size:18pt;"> </span><span style="color:black;font-family:PMingLiU;"></span></h3>
+<p style="margin:auto 0cm;text-indent:24pt;"><span style="color:black;font-family:楷体_GB2312;">光触媒技术也即光催化化氧化技术，利用纳米级的二氧化钛在光照下的特性，可以氧化分解一些有机污染物，多用于工业污染治理中，是很有前途的污染治理技术。目前限制光触媒技术应用的难点主要在于：纳米化的二氧化钛生产技术及光源。</span><span
+style="color:black;font-family:楷体_GB2312;"> </span><span style="color:black;"></span></p>
+<p style="margin:0cm 0cm 0pt;text-indent:21.75pt;"><font size="3"><span style="color:black;font-family:楷体_GB2312;">首先其催化效果与粒子的大小有很大关系。目前国产的纳米级的二氧化钛粒径多在</span><span
+style="color:black;font-family:楷体_GB2312;">10-50</span><span style="color:black;font-family:楷体_GB2312;">微米，催化效率不高，一般在</span><span
+style="color:black;font-family:楷体_GB2312;">5-10</span><span style="color:black;font-family:楷体_GB2312;">微米粒径的二氧化钛催化效率较高。</span><span
+style="color:black;font-family:楷体_GB2312;"> </span><span style="color:black;font-family:Arial;"></span></font></p>
+<p style="margin:auto 0cm;"><span style="color:black;font-family:楷体_GB2312;">其次催化效率与光源有关。一般来说，用紫外光或阳光中的紫外线照射时催化效率最高，普通的灯光及其它散射光催化效率大打折扣。</span><span
+style="color:black;font-family:楷体_GB2312;"> </span><span style="color:black;"></span></p>
+<p style="margin:0cm 0cm 0pt;text-indent:21.75pt;"><font size="3"><span style="color:black;font-family:楷体_GB2312;">第三，还必需在没有任何阻挡的前提下，光照射才会发生催化氧化作用。</span><span
+style="color:black;font-family:楷体_GB2312;"> </span><span style="color:black;font-family:Arial;"></span></font></p>
+<p style="margin:0cm 0cm 0pt;text-indent:21.75pt;"><font size="3"><span style="color:black;font-family:楷体_GB2312;">因此用于装修污染的治理，不会有很好的效果，主要有以下几方面的因素：</span><span
+style="color:black;font-family:楷体_GB2312;"> </span><span style="color:black;font-family:Arial;"></span></font></p>
+<p style="margin:0cm 0cm 0pt;text-indent:21.75pt;"><font size="3"><span style="color:black;font-family:楷体_GB2312;">其一，如许多光触媒产品宣称的那样，只需喷涂在墙壁或天花等的表面，即可有效地去除家装的污染。实际上，这与许多因素有关。比如墙面涂料表面因为不平整，必然会影响光的照射角度，影响光催化效果。最主要的影响在于：</span><b><span
+style="color:red;font-family:楷体_GB2312;">这是一种治标不治本的方式。</span></b><b><span style="color:#ff6600;font-family:楷体_GB2312;">有害污染物必需释放到空气中，再吸附到墙壁的表面</span></b><span
+style="color:black;font-family:楷体_GB2312;">，才能发挥光催化氧化的作用。这也就意味着我们呼吸进去的空气中不得不同时存在大量的污染物甲醛等，</span><span
+style="color:blue;font-family:楷体_GB2312;">污染的源头没有解决，当然源头的污染物不断释放到空气中，</span><span
+style="color:blue;font-family:楷体_GB2312;">15</span><span style="color:blue;font-family:楷体_GB2312;">年之久我们都得生活在这种空气环境中。当空气中的污染物浓度较高时，才会由空气吸附到墙面，光触媒发挥分解氧化作用。</span><b><span
+style="color:black;font-family:楷体_GB2312;">当然这是一种事倍功半的治理方案</span></b><span
+style="color:black;font-family:楷体_GB2312;">。实际治理效果也进行过检测：某装修公司用同样的材料进行两套居室的装修，其中一套用我公司的产品进行装修过程中的源头治理，另一套用光触媒进行治理，同时检测结果用光触媒治理后的居室甲醛含量与不治理的相差无几，超标</span><span
+style="color:black;font-family:楷体_GB2312;">5</span><span style="color:black;font-family:楷体_GB2312;">倍多，而用本公司甲醛一网净从源头进行装修污染治理后的居室空气甲醛含量只有</span><span
+style="color:black;font-family:楷体_GB2312;">0.06-0.04mg/m<sup>3</sup></span><span
+style="color:black;font-family:楷体_GB2312;">，完全达到国家规定的环保标准。</span><span style="color:black;font-family:Arial;"></span></font></p>
+<p style="margin:0cm 0cm 0pt;text-indent:21.75pt;"><font size="3"><span style="color:black;font-family:楷体_GB2312;">其二，光触媒也并不象宣称的那样能一次使用，终身发挥清除污染的作用。这在苛刻的实验条件下是能达到的。但在居室内，每天有哪么多的尘埃粒子散落在空气中，吸附到墙壁表面，慢慢的会在墙面形成浮灰，阻挡住光线照射到纳米级的二氧化钛的表面，当然催化氧化能力必然下降。这也是为什么光触媒产品使用一段时间后会出现污染物浓度反弹的原因之一。</span><span
+style="color:black;font-family:楷体_GB2312;"> </span><span style="color:black;font-family:Arial;"></span></font></p>
+<p style="margin:0cm 0cm 0pt;text-indent:21.75pt;"><font size="3"><span style="color:black;font-family:楷体_GB2312;">其三，如某些使用吸附或光催化过滤网的空气净化设备，刚效果更差强人意，只是一味的炒作一种概念而已。居室空气，如何循环并在循环过程中被吸附或过滤，是涉及到流体力学上很复杂的问题，如何让整个房间里的空气如水一样的流进管子又流出管子，居室空气形成真正意义上的循环，几乎是不可能的。一般均采取室处换新风的方法，也即空气评价中常说的新风量问题，这在空调及中央空调的居室更是如此。</span><span
+style="color:black;font-family:楷体_GB2312;"> </span><span style="color:black;font-family:Arial;"></span></font></p>
+<span style="color:black;font-family:楷体_GB2312;">光触媒在污染治理中确实会发挥越来越大的作用，但决不是眼下的急功近利用于装修污染的治理。成功的在装修污染治理中的应用还有待时日，还存在着很多的技术难点，或配合应用一些其它污染治理技术从源头上清除治理污染，可能才是这一高科技的有希望的明天。</span><span
+style="color:black;font-family:宋体;"> </span><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d116534219.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_5></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：10-04-15 14:00</span></p></dd></dl><dl class="dl"><dt><a href="/d102159715.htm" target="_blank">童装甲醛超标，罪魁是谁</a></dt><dd class="bor"><p class="pd"><!---doc_text---><div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="497" style="width:372.75pt;">
+  <tbody>
+    <tr style="height:54pt;">
+      <td style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;height:54pt;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;">
+      <p align="center" style="line-height:160%;margin:0cm 0cm 0pt;text-align:center;"><b><span
+      style="color:#415382;font-family:宋体;">童装甲醛超标，罪魁是谁？</span></b><span style="color:black;font-family:宋体;line-height:160%;"></span></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;">
+      <p align="center" style="line-height:160%;margin:0cm 0cm 0pt;text-align:center;"><span
+      style="color:black;font-family:宋体;line-height:160%;"></span></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;">
+      <p align="center" style="line-height:160%;margin:0cm 0cm 0pt;text-align:center;"><span
+      style="color:black;font-family:宋体;line-height:160%;">2009-7-15 10:50:00</span><span
+      style="color:black;font-family:宋体;line-height:160%;">　　　发布者：<span><a href="/t.asp?http://www.qianyan.biz/qy-10153872.html"
+      target="_blank"><span style="line-height:160%;"><span>大连开发区大成装修污染检测治理机构</span></span></a></span></span></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;">
+      <p align="left" style="line-height:160%;margin:0cm 0cm 12pt;text-align:left;word-break:break-all;"><span
+      style="color:black;font-family:宋体;line-height:160%;"><br />
+      </span><span style="color:black;font-family:宋体;line-height:160%;">２００３年第三个季度，国家质检总局对服装生产和流通两个领域进行了抽查检测，结果显示有近三成的童装甲醛含量超标。其中不乏知名的童装品牌。虽然大多数消费者对于服装工艺与甲醛之间的关系不甚了解，但作为服装质量问题的一个重要方面，<span>“</span>甲醛超标<span>”</span>一时成了被人们高度关注的热点。<span><br />
+      <br />
+      </span>　　甲醛，一种有机的化合物，其在服装上应用为后期整理剂。主要起抗皱、固色的作用，使服装色泽艳丽、版型平展，大大提高了服装的美感。但甲醛又是一种有毒的物质，服装企业必须按照严格的标准使用，如果甲醛含量超标，存在于衣物上的甲醛将极大地危害儿童的身体健康。据北京儿童医院呼吸科刘主任介绍，儿童接触到甲醛会出现咳嗽、呼吸急促，过敏体质的儿童还会出现哮喘等严重的症状。<span><br />
+      <br />
+      </span>　　时隔半年，这种严重的质量问题到底被解决到何种程度呢？日前，本报记者又做了 一次深入的调查采访 发现企业大都采取了积极有效的措施，将超标服装下柜或进行水洗处理。本报记者在调查中发现，经过本次事件所显现出来的问题不容忽视，那就是，企业应当真正对消费者负起责任，才能做到防患于未然。<span><br />
+      <br />
+      </span>　　购物遭遇尴尬<span><br />
+      </span>　　童装甲醛超标苦了部分较真的家长<span><br />
+      <br />
+      </span>　　本报记者在采访中了解到，大多数消费者认为，只要到大商场购买品牌童装就一定没有问题，当他们发现即使是知名品牌也可能存在质量问题时便茫然不知所措了。本报记者在北京翠微大厦、城乡华懋商厦做了一次市场调查，在所采访的十几位消费者中有近七成的人在听说了甲醛超标的事情后购买童装时不知如何选购。<span><br />
+      <br />
+      </span>　　一位姓刘的女士对本报记者说，在报纸上看了相关的报道，知道甲醛和染料有关，因此她只敢买白色或浅色的童装，但春天已经到来了，面对陈列架上五颜六色的童装却不敢给女儿买，她遗憾地说：<span>“</span>真希望厂家能多为消费者想想，不再出现甲醛超标的现象就好了。<span>”<br />
+      <br />
+      </span>　　在北京翠微大厦，一位怀孕的准妈妈苦不堪言：前一段时间听说过童装甲醛超标的事，但具体情况不太了解，就连派克兰帝、好孩子这样的知名品牌也名列其中让自己实在难以理解。以前总觉得只要到大商场买知名品牌的童装就没有问题，小宝宝即将出生，自己都不敢买童装了。谁知道现在的衣服中甲醛含量是否超标呢？<span><br />
+      <br />
+      </span>　　说法能否站住脚<span><br />
+      </span>　　三家有代表性的生产厂家如是说<span><br />
+      <br />
+      </span>　　童装出现了甲醛含量超标的现象就说生产厂家视儿童健康为儿戏，这未免太危言耸听，但忽视这一问题的重要性，只在服装的款式、花色图案上下工夫，而对于产品的检测只限于面料合格，且对已经经过各种工艺加工的成衣不再做检，或只是走走形式，把这样的企业称之为对消费者不负责任是一点也不过分的。自然，出现这种情况是所有人都不愿看到的，有些消费者看到相关报道后纷纷指责生产厂家一味追求自身经济利益而牺牲消费者的利益，面对这种情况，生产厂家又作何感想呢？<span>
+      <br />
+      <br />
+      </span>　　北京派克兰帝有限责任公司副总裁吕智勇在接受本报记者采访时说，这次被检测出甲醛超标的童装是２００１年的款式，现已不再生产了。他认为，不应用２００３年的标准去衡量２００１年的产品。但他承认以前在产品检测上重视程度不够，才出现了这次甲醛含量超标的事情。他说，公司对此非常重视，现在我们生产的所有服装都经过面料和成衣的双重质检，确保产品的各项指标都符合国家标准。在甲醛含量的国家强制性标准实行后，公司已开始用无甲醛的固色剂来替代甲醛，确保了消费者的身体健康不受侵害。<span><br />
+      <br />
+      </span>　　上海丽婴房童婴用品有限公司总经理助理汪先生对本报记者说，对于这次国家质检总局的检验结果，我们是尊重的。但并不能认为我们对产品质量问题重视不够。我们每一款出厂的产品都是经过当地的国家质检部门检测的，我们认为，造成甲醛含量超标是有多种原因的，例如在用铁路等方式运输的过程中，不能排除我们的产品和其他含甲醛的产品混装而使产品含过多的甲醛，另外，也有其它外界因素如商场装修，涂料中的甲醛和陈列的服装接触等也会造成甲醛超标。<span><br />
+      <br />
+      </span>　　同样被检测出甲醛含量超标的知名企业上海好孩子儿童用品有限公司市场部的一位负责人也表示出不理解，原因是自己公司的产品也是经过当地质检部门的检测合格的，此次国家质检总局却检测成不合格。<span><br />
+      <br />
+      </span>　　对于这些疑问，有的记者从国家质检部门了解到，造成甲醛含量超标的<span>“</span>冤假错案<span>”</span>是不太可能的，本报记者又进一步采访了北京市服装质量监督检验一站的张站长。张站长告诉本报记者，严格地说，国家质检总局的检验结果是完全准确的，但也不能说企业在当地质检部门的检验结果就不准确，这里面有多种因素造成，第一，企业在当地送检的服装样品与接受国家质检总局检验的服装样品是否是同一批产品，如果不是同一批产品，那么有可能在面料选用、工艺加工等方面存在着差距。第二，送检的样品如果是同一批产品，还存在着密封程度不同的问题，例如，从库房提取的样品就是密封着的，企业在当地送检的产品有可能没有密封，而甲醛是可以挥发的，密封程度不同就造成了甲醛含量的不同。张站长认为，不管是哪一种原因，既然已出现了超标的事实，企业就应正确对待，多从自身寻找原因，而不应在追究责任上一味地浪费时间，要本着对消费者负责的态度采取有效措施去解决，以维护消费者的利益，这才是最重要的。<span><br />
+      <br />
+      </span>　　检测力度不够<span><br />
+      </span>　　杜绝超标需要相关企业自己严格把关<span><br />
+      <br />
+      </span>　　对于消费者来讲，责任问题并不是最重要的，他们最关心的是，甲醛超标的现象如何被杜绝，何时能买到放心的服装。在商场购物的王女士说，作为消费者，她可能只关心服装的款式花色，对服装的进一步了解也只能来自于商品标签，关于服装质量的专业知识，消费者就无从知道了。希望有关部门能加大管理力度，整顿童装市场，杜绝甲醛超标的现象，让消费者放心。但另一方面，张站长对本报记者说，国家每年都有两次或两次以上的全国性的服装抽查，但由于经费等各方面原因，检测力度仍然是不够的，例如，对一个生产厂家的产品进行检测，只能检测某一种面料或成衣，并不可能检测到他全部的产品，因此，对于没有检测到的产品是否存在甲醛超标的现象就无从掌握了。而且相对于庞大的童装市场，光靠国家质检部门的抽检是远远不够的，童装生产企业应首先严把产品质量关，这样才能真正保护消费者的利益。<span><br />
+      <br />
+      </span>　　总之，童装甲醛超标的现象让消费者心有余悸，杜绝超标需要社会各界的共同努力。只有国家质检部门加大市场监督、童装生产企业负起责任，才能真正让消费者对童装放心。<span></span></span></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d102159715.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_6></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：09-10-30 11:20</span></p></dd></dl><dl class="dl"><dt><a href="/d88117319.htm" target="_blank">家具甲醛污染的解决之道</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p style="margin:0cm 0cm 0pt;text-indent:119.85pt;"><b><span style="color:black;font-family:宋体;">家具甲醛污染的解决之道</span></b><b><span style="color:black;font-family:&#718;"></span></b>
+<p style="line-height:20pt;margin:0cm 0cm 0pt;text-indent:18pt;"><span style="color:black;font-family:宋体;">二十一世纪是一个绿色世纪，绿色环保已成为人们生活、工作的主要话题，家具环保问题是人们最关心的问题之一，家具中的主要污染物甲醛问题已经引起政府管理部门、家具生产企业和消费者的高度重视，如何解决甲醛污染问题是每个家具生产商必须慎重对待的。</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman"> </font><span><br>
+</span></span><span style="color:black;font-family:宋体;">　</span><span style="color:black;font-family:&#718;"></span>
+<p style="line-height:20pt;margin:0cm 0cm 0pt;text-indent:21.1pt;"><b><span style="color:black;font-family:宋体;">　目前解决家具中甲醛污染问题的主要途径有</span></b><span style="color:black;font-family:宋体;">：</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman"> </font><span><br>
+</span></span><span style="color:black;font-family:宋体;">　　一是采用国产或进口的环保材料未生产家具。这一途径制作的家具其甲醛含量可以达到１．５ｍｇ／Ｌ（干燥器法），０．１２ｍｇ／ｍ３（气候箱法）。但大部分生产厂商反映这一类型的家具结构不牢固。特别反映在连接件连接部位和芯料。因为Ｅ１板是一种低甲醛含量板，Ｅ１板降低甲醛含量的工艺主要是在制作过程中改变制作中用的胶粘剂，降低胶粘剂的克分子比浓度也就是摩尔比。一般的克分子的浓度在１．５－１．８，降低了克分子比浓度后，胶粘剂的粘度就降低了。Ｅ１板的胶粘剂的摩尔比浓度一般降至１．２以下，这样，胶的粘合力下降，板材的握钉力也就差，生产出的家具就握钉力差，结构就不牢固。生产商在制作时为了解决这一问题采用了把连接件连接部位下改用普通板做材料，这样环保家具也就不环保了，甲醛仍然超标。</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman"> </font><span><br>
+</span></span><span style="color:black;font-family:宋体;">　　第二种途径制作家具就是利用普通人造板作材料，经甲醛清除剂甲醛后制作家具，这一种途径制作的家具保证了人造板原来的握钉力和其力学性能不变，又清除了家具材料中的甲醛，所以这一种环保家具结构牢固性能好，真正环保只是在生产制作时增加一个甲醛清除剂处理工序就可以了，而且制作成本不高，效果好，已被大多数制作环保家具的厂商采用。</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman"> </font><span><br>
+</span></span><span style="color:black;font-family:宋体;">　　目前市场上销售甲醛清除产品的公司虽然已有很多，但经过国家环保部门检测，很多在使用后短时间内甲醛释放量降低，几天以后就开始反弹，只是短期捕捉、吸附，没有起到彻底清除的作用。</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman"> </font><span><br>
+</span></span><span style="color:black;font-family:宋体;">　　南京双全科技有限公司开发的双全牌甲醛清除剂系列产品，一经使用彻底清除甲醛，经检测经过南京双全科技有限公司甲醛清除处理后的人造板甲醛含量达到Ｅ</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman">0</font></span><span style="color:black;font-family:宋体;">级标准，而且时间越长效果越好，适合于家具厂商生产环保型家具，现已在一些大型家具企业中成功使用。</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman"> </font><span><font face="Times New Roman"><span>&nbsp;</span><br>
+<span>&nbsp;&nbsp;&nbsp; </span></font></span></span><b><span style="font-family:宋体;">南京双全科技有限公司</span></b><span style="color:black;font-family:宋体;">是一家从事环保材料、生物、电子等高科技产品研究、生产及销售的高新技术企业。</span><span style="font-family:宋体;">双全科技经过近五年与高等院校科研院所的联合攻关，于</span><span><font
+face="Times New Roman">2002</font></span><span style="font-family:宋体;">年终于研制成功清除甲醛污染的专利技术，并率先将成果投放市场！在国内首开室内甲醛污染治理先河！公司所研发的产品绿色环保、安全无毒，广泛适用于生活、医疗、教育、办公、娱乐等场所。</span><span><font
+face="Times New Roman"> </font></span><span style="color:black;font-family:&#718;"><br>
+</span><span style="color:black;font-family:宋体;">　</span><span style="color:black;font-family:宋体;">　</span><b><span style="color:black;font-family:宋体;">上海市产品毒性质量监督检验站对双全</span></b><b><span style="font-family:宋体;">产品进行毒性检测，产品安全，无毒、无副作用</span></b><b><span style="color:black;font-family:&#718;"><br>
+</span></b><b><span style="color:black;font-family:宋体;">　　</span></b><b><span style="font-family:宋体;">产品通过中国室内装饰协会室内环境检测中心的严格检测，甲醛去除率达</span></b><b><span><font
+face="Times New Roman">99.1%</font></span></b><b><span style="color:black;font-family:&#718;"><br>
+</span></b><span style="color:black;font-family:宋体;">　　</span><span style="font-family:宋体;">本公司采用的室内污染治理系列产品，通过物理吸附、化学反应等方式从污染源头进行治理，标本兼治，经多家权威部门检测，对有害气体清除高达</span><span><font
+face="Times New Roman">99%</font></span><span style="font-family:宋体;">左右，无二次污染，高效环保。</span><span style="color:black;font-family:&#718;"><br>
+</span><span style="color:black;font-family:宋体;">　　南京双全科技有限公司生产的</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman">SQ-082</font></span><span style="color:black;font-family:宋体;">型家具升级专用净醛王是专门针对家具生产企业而生产的。</span><span></span>
+<p style="line-height:20pt;margin:0cm 0cm 0pt;text-indent:15.5pt;"><b><span style="font-family:宋体;">经权威机构国家人造板监督检验中心检测，其净醛效果显著！</span></b><span></span>
+<p style="margin:0cm 0cm 0pt;text-indent:18pt;"><span style="color:black;font-family:宋体;">经数家家具生产企业的生产性试验表明：生产中使用</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman">SQ-082</font></span><span style="color:black;font-family:宋体;">型家具升级专用净醛王，可以使家具甲醛释放量降低９７．５％以上，达到世界各国有关家具甲醛释放量的标准，完全符合出口家具有关甲醛释放量的严格要求。</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman"> <br>
+<span>&nbsp;</span></font></span>
+<p style="margin:0cm 0cm 0pt;text-indent:21pt;"><span style="color:black;font-family:&#718;"><span><font
+face="Times New Roman">&nbsp; </font></span></span><b><span style="color:black;font-family:宋体;">工艺便捷性</span></b><span style="color:black;font-family:&#718;"><br>
+</span><span style="color:black;font-family:宋体;">　　在生产中应用</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman">SQ-082</font></span><span style="color:black;font-family:宋体;">型家具升级专用净醛王，在工艺上十分便捷：将该产品在人造板材未贴面、未上漆表面和锯切端面均匀涂刷一遍即可。晾干后就可进入下一道工序。</span><span style="color:black;font-family:&#718;"><br>
+</span><span style="color:black;font-family:宋体;">　</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman"> </font></span>
+<p style="margin:0cm 0cm 0pt;text-indent:21pt;"><span style="color:black;font-family:宋体;">　<b>经济可行性</b></span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman"> </font></span><span style="color:black;font-family:&#718;"><br>
+</span><span style="color:black;font-family:宋体;">　　每公斤</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman">SQ-082</font></span><span style="color:black;font-family:宋体;">型家具升级专用净醛王，可以涂刷板材</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman">100-300</font></span><span style="color:black;font-family:宋体;">平方米，涂刷面积与板材表面状态和材料自身甲醛释放量有关。</span><span style="font-family:宋体;">一个组合大衣柜，以使用六张人造板为例进行计算，双面喷涂净醛王</span><span><font
+face="Times New Roman">SQ</font></span><span style="font-family:宋体;">－</span><span><font
+face="Times New Roman">082</font></span><span style="font-family:宋体;">，每平方米表面喷涂量</span><span><font
+face="Times New Roman">50ml</font></span><span style="font-family:宋体;">，则共需喷涂</span><span><font
+face="Times New Roman">6</font></span><span style="font-family:宋体;">张×</span><font face="Times New Roman"><span>6m<sup>2</sup></span><span>/</span></font><span style="font-family:宋体;">张×</span><span><font
+face="Times New Roman">50ml/m<sup>2</sup></font></span><span style="font-family:宋体;">＝</span><span><font
+face="Times New Roman">1800ml</font></span><span style="font-family:宋体;">净醛王喷剂，以</span><span><font
+face="Times New Roman">20%</font></span><span style="font-family:宋体;">浓度剂，则需要使用净醛王</span><span><font
+face="Times New Roman">SQ</font></span><span style="font-family:宋体;">－</span><span><font
+face="Times New Roman">082</font></span><span style="font-family:宋体;">的量约为</span><span><font
+face="Times New Roman">0.36</font></span><span style="font-family:宋体;">公斤</span><span style="font-family:宋体;">，则需投入</span><span><font
+face="Times New Roman">42</font></span><span style="font-family:宋体;">元</span><span><font
+face="Times New Roman">/kg</font></span><span style="font-family:宋体;">×</span><span><font
+face="Times New Roman">0.36kg</font></span><span style="font-family:宋体;">＝</span><span><font
+face="Times New Roman">15.12</font></span><span style="font-family:宋体;">元。可以确保生产的家具甲醛释放量达到</span><span><font
+face="Times New Roman">E1</font></span><span style="font-family:宋体;">级，甚至</span><span><font
+face="Times New Roman">E0</font></span><span style="font-family:宋体;">级水平，而且家具无刺鼻异味</span><span style="color:black;font-family:宋体;">　用十五多元换来绿色选择认证产品称号是绝对的物超所值。</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman"> </font><span><br>
+</span></span><span style="color:black;font-family:宋体;">　</span><span style="color:black;font-family:&#718;"></span>
+<p style="margin:0cm 0cm 0pt 9.05pt;text-indent:8.85pt;"><b><span style="color:black;font-family:宋体;">　</span></b><b><span style="color:black;font-family:宋体;">对绿色选择认证的促进性</span></b><span style="color:black;font-family:&#718;"><font
+face="Times New Roman"> </font><span><br>
+</span></span><span style="color:black;font-family:宋体;">绿色选择评定标准目录中，家具的主题是：低甲醛、低毒无害。绿色选择家具评定标准中，对于人造板材、涂料、粘合剂、面料都明确提出了甲醛控制标准，可见家具生产企业在进行绿色选择认证时，甲醛含量控制是首要的核心工作。正如业内人士所知：生产不含甲醛的人造板材在经济上和技术上是基本不可能的。用人造板生产家具按常规方法要达到甲醛限量要求非常困难。</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman"> </font><span><br>
+</span></span><span style="color:black;font-family:宋体;">　　而将性</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman">SQ-082</font></span><span style="color:black;font-family:宋体;">型家具升级专用净醛王应用于家具生产，可以便捷地解决甲醛污染问题。对于家具生产企业通过绿色选择评定具有积极的促进作用。</span><span style="color:black;font-family:&#718;"><font
+face="Times New Roman"> </font><span><br>
+<font face="Times New Roman"><span>&nbsp;</span></font></span></span>
+<p style="margin:0cm 0cm 0pt;text-indent:18.05pt;"><b><span style="color:black;font-family:宋体;">　</span></b><b><span style="color:black;font-family:&#718;"><font
+face="Times New Roman">SQ-082</font></span></b><b><span style="color:black;font-family:宋体;">型家具升级专用净醛王在家具生产过程中的使用方法</span></b><b><span style="color:black;font-family:&#718;"><font
+face="Times New Roman"> </font></span></b><span style="color:black;font-family:&#718;"><br>
+</span><span style="color:black;font-family:宋体;">　</span><span style="color:black;font-family:&#718;"><span><font
+face="Times New Roman">&nbsp;&nbsp; </font></span></span><span style="font-family:宋体;">使用前将其溶于水中，配制成浓度</span><span><font
+face="Times New Roman">10%</font></span><span style="font-family:宋体;">―</span><span><font
+face="Times New Roman">30%</font></span><span style="font-family:宋体;">溶液，喷涂在家具用人造板材的正反两面及裸露端面，稍干后再行下道油漆工序。贴面板或饰面板可在贴面前喷涂本品，稍凉干后再行贴面饰面处理。</span><span></span>
+<p style="margin:0cm 0cm 0pt;text-indent:18pt;"><span style="font-family:宋体;">使用效果：</span><span><font
+face="Times New Roman">E2</font></span><span style="font-family:宋体;">级板材升级达到</span><span><font
+face="Times New Roman">E1</font></span><span style="font-family:宋体;">级或使</span><span><font
+face="Times New Roman">E1</font></span><span style="font-family:宋体;">级升级为</span><span><font
+face="Times New Roman">E0</font></span><span style="font-family:宋体;">级板材，因此生产的家具不仅完全能确保达标、环保，而且在仓储运输及销售时不再甲醛“异味”刺鼻。</span><span></span>
+<p style="margin:0cm 0cm 0pt;text-indent:21.1pt;"><b><span><font face="Times New Roman">&nbsp;</font></span></b>
+<p style="margin:0cm 0cm 0pt;text-indent:21.1pt;"><b><span style="font-family:宋体;">施加量</span></b><b><span></span></b>
+<p style="margin:0cm 0cm 0pt;text-indent:18pt;"><span style="font-family:宋体;">施加量根据所使用</span><span><font
+face="Times New Roman">UF</font></span><span style="font-family:宋体;">或</span><span><font
+face="Times New Roman">MUF</font></span><span style="font-family:宋体;">生产的人造板甲醛释放量和人造板的目标甲醛释放量确定，施加量参考如下表：</span><span></span>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" style="width:100%;">
+  <tbody>
+    <tr style="height:46.5pt;">
+      <td width="30%" style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;height:46.5pt;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;width:30.42%;">
+      <p style="margin:0cm 0cm 0pt;text-indent:21pt;"><span style="font-family:宋体;">施加量</span><span><font
+      face="Times New Roman">(kg/m3)</font></span></td>
+      <td style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;height:46.5pt;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;">
+      <p style="margin:0cm 0cm 0pt;text-indent:21pt;"><span><font face="Times New Roman">0</font></span></td>
+      <td style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;height:46.5pt;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;">
+      <p align="center" style="margin:0cm 0cm 0pt;text-align:center;"><span><font face="Times New Roman">0.5</font></span></td>
+      <td style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;height:46.5pt;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;">
+      <p style="margin:0cm 0cm 0pt;text-indent:21pt;"><span><font face="Times New Roman">1</font></span></td>
+      <td style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;height:46.5pt;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;">
+      <p align="center" style="margin:0cm 0cm 0pt;text-align:center;"><span><font face="Times New Roman">1.5</font></span></td>
+      <td style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;height:46.5pt;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;">
+      <p align="center" style="margin:0cm 0cm 0pt;text-align:center;"><span><font face="Times New Roman">2</font></span></td>
+      <td style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;height:46.5pt;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;">
+      <p align="center" style="margin:0cm 0cm 0pt;text-align:center;"><span><font face="Times New Roman">2.5</font></span></td>
+    </tr>
+    <tr style="height:46.5pt;">
+      <td width="30%" style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;height:46.5pt;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;width:30.42%;">
+      <p style="margin:0cm 0cm 0pt;text-indent:21pt;"><span style="font-family:宋体;">原释放量降低比例（</span><span><font
+      face="Times New Roman">%</font></span><span style="font-family:宋体;">）</span></td>
+      <td style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;height:46.5pt;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;">
+      <p style="margin:0cm 0cm 0pt;text-indent:21pt;"><span><font face="Times New Roman">0</font></span></td>
+      <td style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;height:46.5pt;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;">
+      <p align="center" style="margin:0cm 0cm 0pt;text-align:center;"><span style="font-family:宋体;">＞</span><span><font
+      face="Times New Roman">45</font></span></td>
+      <td style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;height:46.5pt;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;">
+      <p align="center" style="margin:0cm 0cm 0pt;text-align:center;"><span style="font-family:宋体;">＞</span><span><font
+      face="Times New Roman">60</font></span></td>
+      <td style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;height:46.5pt;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;">
+      <p align="center" style="margin:0cm 0cm 0pt;text-align:center;"><span style="font-family:宋体;">＞</span><span><font
+      face="Times New Roman">90</font></span></td>
+      <td style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;height:46.5pt;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;">
+      <p align="center" style="margin:0cm 0cm 0pt;text-align:center;"><span style="font-family:宋体;">＞</span><span><font
+      face="Times New Roman">70</font></span></td>
+      <td style="background-color:transparent;border-bottom:#d4d0c8;border-left:#d4d0c8;border-right:#d4d0c8;border-top:#d4d0c8;height:46.5pt;padding-bottom:0cm;padding-left:0cm;padding-right:0cm;padding-top:0cm;">
+      <p align="center" style="margin:0cm 0cm 0pt;text-align:center;"><span style="font-family:宋体;">＞</span><span><font
+      face="Times New Roman">80</font></span></td>
+    </tr>
+  </tbody>
+</table><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d88117319.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_7></span>　跟贴：2　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：09-04-07 15:43</span></p></dd></dl><dl class="dl"><dt><a href="/d77838257.htm" target="_blank">纺织品甲醛清除剂）</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p style="line-height:20pt;margin:0cm 0cm 0pt;"><strong><span style="color:black;font-family:宋体;">简介（</span><span style="color:black;"><font
+face="Times New Roman">INTRODUCTION</font></span></strong><strong><span style="color:black;font-family:宋体;">）</span><span style="color:black;"></span></strong>
+<p style="line-height:20pt;margin:0cm 0cm 0pt;text-indent:20.6pt;"><span style="color:black;font-family:宋体;">在植绒、阻燃等面料的生产中，为了达到防皱、防缩、长效阻燃、保持印花染色的持久性、改善手感等，阻剂中常含有一定量的游离甲醛，这样势必造成面料及成品服装中甲醛的残留。本产品可迅速、彻底地消除各种纺织品中残留的甲醛，对纺织品的外观及理化性能无影响。提高纺织品的环保等级。</span><span style="color:black;font-family:宋体;">本公司生产的纺织品用甲醛一网净―</span><span style="color:black;"><font
+face="Times New Roman">5860</font></span><span style="color:black;font-family:宋体;">型，专用于各种</span><span style="color:black;font-family:宋体;">植绒、阻燃面料</span><span style="color:black;font-family:宋体;">中甲醛的清除，使纺织品甲醛含量降至</span><span style="color:black;"><font
+face="Times New Roman">10ppm</font></span><span style="color:black;font-family:宋体;">甚至更低，达到国际国内规定的标准。</span><b><span style="color:black;"><font
+face="Times New Roman">&nbsp;&nbsp;</font></span></b>
+<p style="line-height:20pt;margin:0cm 0cm 0pt;"><b><span style="color:black;"><font face="Times New Roman">&nbsp;</font></span></b>
+<p style="line-height:20pt;margin:0cm 0cm 0pt;"><b><span style="color:black;font-family:宋体;">性状</span></b><span style="color:black;"><font
+face="Times New Roman">&nbsp;</font></span><b><span style="color:black;font-family:宋体;">（</span><span style="color:black;"><font
+face="Times New Roman">PROPERTY</font></span></b><b><span style="color:black;font-family:宋体;">）</span></b><span style="color:black;"></span>
+<p style="line-height:20pt;margin:0cm 0cm 0pt;"><strong><span style="color:black;font-family:宋体;font-weight:normal;">外观：无色、无味、无毒害（不含联氨类有毒致癌物质）、透明的液体；</span></strong><strong><span style="color:black;font-weight:normal;"></span></strong>
+<p style="line-height:20pt;margin:0cm 0cm 0pt;"><strong><span style="color:black;font-family:宋体;font-weight:normal;">主要成份：甲醛捕捉剂及催化剂；</span></strong><strong><span style="color:black;font-weight:normal;"></span></strong>
+<p style="line-height:20pt;margin:0cm 0cm 0pt;"><strong><span style="color:black;font-family:宋体;font-weight:normal;">固含物：≥</span></strong><strong><span style="color:black;font-weight:normal;"><font
+face="Times New Roman">5%</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">；</span></strong><strong><span style="color:black;font-weight:normal;"><font
+face="Times New Roman">PH</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">值：</span></strong><strong><span style="color:black;font-weight:normal;"><font
+face="Times New Roman">5</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">－</span></strong><strong><span style="color:black;font-weight:normal;"><font
+face="Times New Roman">7</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">；</span></strong><strong><span style="color:black;font-weight:normal;"></span></strong>
+<p style="line-height:20pt;margin:0cm 0cm 0pt;"><strong><span style="color:black;font-family:宋体;font-weight:normal;">贮存期：室温下可贮存一年；</span></strong><strong><span style="color:black;font-weight:normal;"></span></strong>
+<p style="line-height:20pt;margin:0cm 0cm 0pt;"><strong><span style="color:black;font-family:宋体;font-weight:normal;">相溶性：可与多种纺织整理助剂相混溶，不影响助剂的效果。</span></strong><strong><span style="color:black;font-weight:normal;"><font
+face="Times New Roman">&nbsp;</font></span></strong>
+<p style="line-height:20pt;margin:0cm 0cm 0pt;"><span style="color:black;"><font face="Times New Roman">&nbsp;</font></span>
+<p style="line-height:150%;margin:0cm 0cm 0pt;"><b><span style="color:black;font-family:宋体;line-height:150%;">特性及使用方法</span></b><b><span style="color:black;font-family:宋体;">（</span><span style="color:black;"><font
+face="Times New Roman">CHARACTERISTICS</font></span></b><b><span style="color:black;font-family:宋体;">　</span><span style="color:black;"><font
+face="Times New Roman">AND</font></span></b><b><span style="color:black;font-family:宋体;">　</span><span style="color:black;"><font
+face="Times New Roman">USE</font></span></b><b><span style="color:black;font-family:宋体;">）</span></b><b><span style="color:black;line-height:150%;"></span></b>
+<table border="1" cellpadding="0" cellspacing="0" style="border-bottom:medium none;border-collapse:collapse;border-left:medium none;border-right:medium none;border-top:medium none;">
+  <tbody>
+    <tr>
+      <td valign="top" width="189" style="background-color:transparent;border-bottom:windowtext 1pt solid;border-left:windowtext 1pt solid;border-right:windowtext 1pt solid;border-top:windowtext 1pt solid;padding-bottom:0cm;padding-left:5.4pt;padding-right:5.4pt;padding-top:0cm;width:142pt;">
+      <p align="center" style="line-height:20pt;margin:0cm 0cm 0pt;text-align:center;"><strong><span style="color:black;font-family:宋体;font-weight:normal;">纺织品甲醛污染程度（</span></strong><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">ppm</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">）</span></strong><strong><span style="color:black;font-weight:normal;"></span></strong></td>
+      <td valign="top" width="189" style="background-color:transparent;border-bottom:windowtext 1pt solid;border-left:#efdeea;border-right:windowtext 1pt solid;border-top:windowtext 1pt solid;padding-bottom:0cm;padding-left:5.4pt;padding-right:5.4pt;padding-top:0cm;width:142.05pt;">
+      <p align="center" style="line-height:20pt;margin:0cm 0cm 0pt;text-align:center;"><strong><span style="color:black;font-family:宋体;font-weight:normal;">建议用量（</span></strong><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">%</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">）</span></strong><strong><span style="color:black;font-weight:normal;"></span></strong></td>
+      <td valign="top" width="189" style="background-color:transparent;border-bottom:windowtext 1pt solid;border-left:#efdeea;border-right:windowtext 1pt solid;border-top:windowtext 1pt solid;padding-bottom:0cm;padding-left:5.4pt;padding-right:5.4pt;padding-top:0cm;width:142.05pt;">
+      <p align="center" style="line-height:20pt;margin:0cm 0cm 0pt;text-align:center;"><strong><span style="color:black;font-family:宋体;font-weight:normal;">操作工艺</span></strong><strong><span style="color:black;font-weight:normal;"></span></strong></td>
+    </tr>
+    <tr>
+      <td valign="top" width="189" style="background-color:transparent;border-bottom:windowtext 1pt solid;border-left:windowtext 1pt solid;border-right:windowtext 1pt solid;border-top:#efdeea;padding-bottom:0cm;padding-left:5.4pt;padding-right:5.4pt;padding-top:0cm;width:142pt;">
+      <p align="center" style="line-height:20pt;margin:0cm 0cm 0pt;text-align:center;"><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">100</font></span></strong></td>
+      <td valign="top" width="189" style="background-color:transparent;border-bottom:windowtext 1pt solid;border-left:#efdeea;border-right:windowtext 1pt solid;border-top:#efdeea;padding-bottom:0cm;padding-left:5.4pt;padding-right:5.4pt;padding-top:0cm;width:142.05pt;">
+      <p align="center" style="line-height:20pt;margin:0cm 0cm 0pt;text-align:center;"><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">0.5</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">－</span></strong><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">1</font></span></strong></td>
+      <td rowspan="6" valign="top" width="189" style="background-color:transparent;border-bottom:windowtext 1pt solid;border-left:#efdeea;border-right:windowtext 1pt solid;border-top:#efdeea;padding-bottom:0cm;padding-left:5.4pt;padding-right:5.4pt;padding-top:0cm;width:142.05pt;">
+      <p style="line-height:20pt;margin:0cm 0cm 0pt;"><strong><span style="color:black;font-family:宋体;font-weight:normal;">均匀喷雾或按纺织品吸水率将本品按比例稀释后，采用浸扎工艺，然后自然干燥或烘干（</span></strong><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">120</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">－</span></strong><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">180</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">℃×</span></strong><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">1</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">－</span></strong><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">2</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">分钟）。</span></strong><strong><span style="color:black;font-weight:normal;"></span></strong></td>
+    </tr>
+    <tr>
+      <td valign="top" width="189" style="background-color:transparent;border-bottom:windowtext 1pt solid;border-left:windowtext 1pt solid;border-right:windowtext 1pt solid;border-top:#efdeea;padding-bottom:0cm;padding-left:5.4pt;padding-right:5.4pt;padding-top:0cm;width:142pt;">
+      <p align="center" style="line-height:20pt;margin:0cm 0cm 0pt;text-align:center;"><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">200</font></span></strong></td>
+      <td valign="top" width="189" style="background-color:transparent;border-bottom:windowtext 1pt solid;border-left:#efdeea;border-right:windowtext 1pt solid;border-top:#efdeea;padding-bottom:0cm;padding-left:5.4pt;padding-right:5.4pt;padding-top:0cm;width:142.05pt;">
+      <p align="center" style="line-height:20pt;margin:0cm 0cm 0pt;text-align:center;"><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">1</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">－</span></strong><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">2</font></span></strong></td>
+    </tr>
+    <tr>
+      <td valign="top" width="189" style="background-color:transparent;border-bottom:windowtext 1pt solid;border-left:windowtext 1pt solid;border-right:windowtext 1pt solid;border-top:#efdeea;padding-bottom:0cm;padding-left:5.4pt;padding-right:5.4pt;padding-top:0cm;width:142pt;">
+      <p align="center" style="line-height:20pt;margin:0cm 0cm 0pt;text-align:center;"><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">400</font></span></strong></td>
+      <td valign="top" width="189" style="background-color:transparent;border-bottom:windowtext 1pt solid;border-left:#efdeea;border-right:windowtext 1pt solid;border-top:#efdeea;padding-bottom:0cm;padding-left:5.4pt;padding-right:5.4pt;padding-top:0cm;width:142.05pt;">
+      <p align="center" style="line-height:20pt;margin:0cm 0cm 0pt;text-align:center;"><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">2</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">－</span></strong><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">4</font></span></strong></td>
+    </tr>
+    <tr>
+      <td valign="top" width="189" style="background-color:transparent;border-bottom:windowtext 1pt solid;border-left:windowtext 1pt solid;border-right:windowtext 1pt solid;border-top:#efdeea;padding-bottom:0cm;padding-left:5.4pt;padding-right:5.4pt;padding-top:0cm;width:142pt;">
+      <p align="center" style="line-height:20pt;margin:0cm 0cm 0pt;text-align:center;"><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">500</font></span></strong></td>
+      <td valign="top" width="189" style="background-color:transparent;border-bottom:windowtext 1pt solid;border-left:#efdeea;border-right:windowtext 1pt solid;border-top:#efdeea;padding-bottom:0cm;padding-left:5.4pt;padding-right:5.4pt;padding-top:0cm;width:142.05pt;">
+      <p align="center" style="line-height:20pt;margin:0cm 0cm 0pt;text-align:center;"><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">2.5</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">－</span></strong><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">5</font></span></strong></td>
+    </tr>
+    <tr>
+      <td valign="top" width="189" style="background-color:transparent;border-bottom:windowtext 1pt solid;border-left:windowtext 1pt solid;border-right:windowtext 1pt solid;border-top:#efdeea;padding-bottom:0cm;padding-left:5.4pt;padding-right:5.4pt;padding-top:0cm;width:142pt;">
+      <p align="center" style="line-height:20pt;margin:0cm 0cm 0pt;text-align:center;"><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">800</font></span></strong></td>
+      <td valign="top" width="189" style="background-color:transparent;border-bottom:windowtext 1pt solid;border-left:#efdeea;border-right:windowtext 1pt solid;border-top:#efdeea;padding-bottom:0cm;padding-left:5.4pt;padding-right:5.4pt;padding-top:0cm;width:142.05pt;">
+      <p align="center" style="line-height:20pt;margin:0cm 0cm 0pt;text-align:center;"><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">4</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">－</span></strong><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">8</font></span></strong></td>
+    </tr>
+    <tr>
+      <td valign="top" width="189" style="background-color:transparent;border-bottom:windowtext 1pt solid;border-left:windowtext 1pt solid;border-right:windowtext 1pt solid;border-top:#efdeea;padding-bottom:0cm;padding-left:5.4pt;padding-right:5.4pt;padding-top:0cm;width:142pt;">
+      <p align="center" style="line-height:20pt;margin:0cm 0cm 0pt;text-align:center;"><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">1000</font></span></strong></td>
+      <td valign="top" width="189" style="background-color:transparent;border-bottom:windowtext 1pt solid;border-left:#efdeea;border-right:windowtext 1pt solid;border-top:#efdeea;padding-bottom:0cm;padding-left:5.4pt;padding-right:5.4pt;padding-top:0cm;width:142.05pt;">
+      <p align="center" style="line-height:20pt;margin:0cm 0cm 0pt;text-align:center;"><strong><span style="color:black;font-weight:normal;"><font
+      face="Times New Roman">10</font></span></strong></td>
+    </tr>
+  </tbody>
+</table>
+<p style="line-height:20pt;margin:0cm 0cm 0pt;text-indent:11.25pt;"><strong><span style="color:black;font-family:宋体;font-weight:normal;">注：推荐用量用法如上表，可将游甲醛降低</span></strong><strong><span style="color:black;font-weight:normal;"><font
+face="Times New Roman">90%</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">以上，可降到</span></strong><strong><span style="color:black;font-weight:normal;"><font
+face="Times New Roman">10ppm</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">或甚至</span></strong><strong><span style="color:black;font-weight:normal;"><font
+face="Times New Roman">0ppm</font></span></strong><strong><span style="color:black;font-family:宋体;font-weight:normal;">，甲醛超标严重的纺织品可适当加大使用量。</span></strong><strong><span style="color:black;font-weight:normal;"></span></strong>
+<p style="line-height:20pt;margin:0cm 0cm 0pt;"><b><span style="color:black;font-family:宋体;">注意事项</span></b><b><span style="color:black;font-family:宋体;">（</span><span style="color:black;"><font
+face="Times New Roman">POINTS</font></span></b><b><span style="color:black;font-family:宋体;">　</span><span style="color:black;"><font
+face="Times New Roman">FOR</font></span></b><b><span style="color:black;font-family:宋体;">　</span><span style="color:black;"><font
+face="Times New Roman">ATTENTION</font></span></b><b><span style="color:black;font-family:宋体;">）</span></b><b><span style="color:black;"></span></b>
+<p style="line-height:20pt;margin:0cm 0cm 0pt;"><strong><span style="font-family:宋体;font-weight:normal;">本品宜存贮在阴凉处所；本品需密闭保存。</span></strong><strong><span style="font-weight:normal;"></span></strong>
+<p style="line-height:20pt;margin:0cm 0cm 0pt;"><strong><span style="font-family:宋体;font-weight:normal;">喷雾本品时尽可能均匀，喷雾不到的地方有可能影响产品除醛效果。</span></strong><strong><span style="font-weight:normal;"></span></strong>
+<p style="margin:0cm 0cm 0pt;"><strong><span style="font-weight:normal;"><font face="Times New Roman">&nbsp;</font></span></strong><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d77838257.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_8></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：08-09-25 13:51</span></p></dd></dl><dl class="dl"><dt><a href="/d76641712.htm" target="_blank">环保装修警惕八大误区</a></dt><dd class="bor"><p class="pd"><!---doc_text---><p style="line-height:150%;margin:0cm 0cm 0pt;text-indent:20pt;"><span style="font-family:宋体;">当前，在经历了工业煤烟污染和光化学烟雾污染对人们健康的危害之后，人们正经历着以室内空气污染为主要内容的第三次污染时期，许多疾病都与室内空气污染有关。</span><span>2002</span><span style="font-family:宋体;">年的世界卫生组织报告将室内环境污染与高血压、胆固醇过高症及肥胖症等共同列为人类健康的十大威胁。而室内污染主要因住家装修不当引起，尽管当今越来越多的人为了健康很注重环保，但由于缺乏相应的知识，花钱不少但还是陷入某些误区，给健康留下隐患。<span style="color:red;">室内环境专家提出最好边装修边直接进行污染的治理，这样不仅治理效果好，而且也能从源头上真正解决装修污染的难题！</span>但很多装修业主还是很难接受这样的劝戒，因此才有了装修后形形色色的误区，环境专家告诉您注意以下几个方面，您就可以解决室内环境污染给您带来的危害了。</span><span><br>
+</span><b><span style="color:red;font-family:宋体;">误区之一：选择环保材料就可以放心入住</span></b><b><span style="color:red;"><br>
+</span></b><span style="font-family:宋体;">　　秦女士购买一套期房，和某装饰公司签订了装饰合同，提出环保装修。装饰公司答应使用</span><span>3A</span><span style="font-family:宋体;">的大芯板</span><span style="font-family:宋体;">。完工后，秦女士感觉房间气味很大，隔</span><span>4</span><span style="font-family:宋体;">个多月才入住，入住后全家四口就相继患病。在装修一年之后，秦女士请相关部门检测，甲醛超过国家标准</span><span>9</span><span style="font-family:宋体;">倍。原因一是室内设计不合理，人造板制作的家具比较多；二是施工工艺不合理，在实木地板下面铺装了大芯板，成为室内甲醛超标的主要污染源。</span><span><br>
+</span><span style="font-family:宋体;">　<span style="color:red;">　点评：</span>其实消费者真应该睁大眼睛，</span><span>3A</span><span style="font-family:宋体;">的大芯板可不一定是环保板！<span style="color:red;">环保板是指甲醛释放量达到</span></span><span style="color:red;">E1</span><span style="color:red;font-family:宋体;">级水平；</span><span style="font-family:宋体;">其次提出环保装修，先要弄清楚什么是环保装修，<span style="color:red;">应在合同中注明是装修后居室空气中甲醛释放量达到国家空气质量标准</span>。当然除了注意装饰材料的选择外，还要注意科学地确定装修的设计方案和施工工艺。要注意各种建筑装饰材料的合理搭配，房屋空间承载量的计算和室内通风量的计算等等，当然能用双全牌“装修污染预评估软件”进行可能污染的评估，再听听评估专家的建议更好。</span><span><br>
+</span><b><span style="color:red;font-family:宋体;">误区之二：装修设计追求豪华，不考虑安全和环保</span></b><span><br>
+</span><span style="font-family:宋体;">　　家住渝中区的一住户愤怒地砸掉自家的杜鹃绿花岗石。原来该青年结婚后妻子一直不孕，经医院检查是因为其精子成活率偏低，可能受到过量放射性辐射。在他家新房里，客厅和厕所装的都是杜鹃绿花岗石，经检测，杜鹃绿石材放射性辐射远超过国家规定的标准，且放射性元素含量不均匀，长期生活其中，当然对身体造成伤害。</span><span><br>
+</span><span style="font-family:宋体;">　<span style="color:red;">　点评：</span>装修中，人们都希望房间美观豪华，在购买高档材料的同时，却不知有可能伤害你的健康。因此，一定要注意尽可能多地使用环保材料，购买前查阅有关检测报告、数据证明，以减少污染。</span><span><br>
+</span><b><span style="color:red;font-family:宋体;">误区之三：装修后立即入住</span></b><b><span><br>
+</span></b><span style="font-family:宋体;">　　某青年因结婚需要，请某公司对住宅装修，完工</span><span>10</span><span style="font-family:宋体;">天后就搬进新房。两个月后，该青年和其母出现头晕、全身乏力的症状，到医院检查，被诊断为再生障碍性贫血。经检测其住房内空气质量，甲醛超标</span><span>21</span><span style="font-family:宋体;">倍，氨超标</span><span>12.6</span><span style="font-family:宋体;">倍。该青年诉至法院，法院一审判决，被告承担污染损害赔偿的责任。同时法庭认为，该青年在新房装修后仅</span><span>10</span><span style="font-family:宋体;">天左右就匆匆入住，又没有进行及时的污染治理，考虑这一因素，认为该青年应自己承担</span><span>10%</span><span style="font-family:宋体;">的责任。</span><span><br>
+</span><span style="font-family:宋体;">　<span style="color:red;">　点评：</span>装修过程中未能及时进行污染的治理，装修后进行亡羊补牢式的治理，肯定也会受到相当良好的效果。装修后的居室应当有一定时间让材料中的有害气体充分散发，同时保持室内空气流通，有利于有害气体的排出，尽量不要在通风不好的新装修房间里过夜。</span><span><br>
+</span><b><span style="color:red;font-family:宋体;">误区之四：装修完的房间气味不大就是安全的</span></b><b><span><br>
+</span></b><span style="font-family:宋体;">　　某地一座新建的高层住宅楼，在居民们乔迁新居后没几天，所养宠物小猫小狗都莫名其妙地死掉了，多方查找未果，后经检测，发现室内氡含量特别高，甲醛含量也超标，主要来自当地建筑用的矿渣砖。</span><span>
+<br>
+<span>&nbsp;&nbsp; </span><span style="color:red;"><span>&nbsp;</span></span></span><span style="color:red;font-family:宋体;">点评：</span><span style="font-family:宋体;">有时房间装修完感觉气味不大，这有几方面原因，一是冬季有害气体释放量相应较低；二是冬季由于呼吸系统的刺激，人的嗅觉器官相对迟钝。另外还有的室内有害气体如氡等是无味的。还有人刚进入室内感到有些异味，时间长了就闻不到了。其实不是异味消失了，是我们的鼻子欺骗了我们。最好依据权威检测结果来说话，有时低浓度长时间的危害比刺激性浓烈气味的危害更大！</span><span></span>
+<p style="line-height:150%;margin:0cm 0cm 0pt;"><b><span style="color:red;font-family:宋体;">误区之五：采用空气清新剂或菠萝皮桔子皮来净化室内有害气体</span></b><span><br>
+</span><span style="font-family:宋体;">　　艾女士找了一家装饰公司装修，交工后室内气味难闻，一直不敢居住，在房间里呆不到两个小时，就熏得人头疼、流眼泪。先后用茶叶、大葱、水果皮、活性炭粒处理都没有用。经检测，室内空气中甲醛达到了</span><span>0.41</span><span style="font-family:宋体;">毫克／立方米，超过国家规定居室空气中甲醛标准</span><span>5</span><span style="font-family:宋体;">倍多。</span><span><br>
+</span><span style="font-family:宋体;">　　<span style="color:red;">点评：</span>用空气清新剂或菠萝皮来消除室内有害气体并不科学，这样做只起到遮盖作用，即使茶叶等能吸收有害的气体但也只是吸收空气中的污染，源头的问题没有解决，当然效果不会好。建议在专家指导下采取治理措施，从源头上根治污染。</span><span><br>
+</span><b><span style="color:red;font-family:宋体;">误区之六：买了空气净化器室内污染就能解决</span></b><span></span>
+<p style="line-height:150%;margin:0cm 0cm 0pt;"><span style="color:red;font-family:黑体;">　</span><span style="font-family:黑体;">　金先生今年春节前新房装修完工后入住，感觉室内空气污浊，气味刺鼻，致人咽痛咳嗽，遂使用空气净化器。中国室内装饰协会室内环境监测中心对该房进行了实地检测，发现住户虽然使用了空气净化器，但室内空气仍然刺鼻，居室里的甲醛含量超标。</span><span></span>
+<p style="line-height:150%;margin:0cm 0cm 0pt;"><span style="font-family:黑体;">　</span><span><span>&nbsp;
+</span></span><span style="color:red;font-family:黑体;">点评：</span><span style="font-family:黑体;">空气净化器不是治理效果不好，顾名思义是净化空气中的污染，这边在净化，那边污染源源不断地从家具等中往外释放，因此空气中的异味难闻也就理所当然了，好比一个贮水池，一个管子往外放水，一个管子往里进水，这水池里的水当然就难放光？专家建议从源头上杜绝污染，没有污染再往居室空气中释放，开窗通风不就行了吗？既经济又有效。</span><span></span>
+<p style="line-height:150%;margin:0cm 0cm 0pt;"><b><span style="color:red;font-family:黑体;">误区之七：新买的家具有气味是正常的</span></b><b><span style="color:red;"></span></b>
+<p style="line-height:150%;margin:0cm 0cm 0pt;text-indent:20pt;"><span style="font-family:黑体;">北京李女士在福丽特家具城订购了一套布艺沙发，沙发表面没发现质量问题，结果放在房间里时间不长，就发现沙发里散发出一股难闻的气味，呼吸困难，甚至晚上睡觉都会被憋醒。经检测，发现沙发海绵上使用的黏结剂中，苯的挥发量高达每立方米</span><span>20</span><span style="font-family:黑体;">毫克，超过国家相关标准的</span><span>8.3</span><span style="font-family:黑体;">倍。</span><span></span>
+<p style="line-height:150%;margin:0cm 0cm 0pt;text-indent:20pt;"><span style="color:red;font-family:黑体;">点评：</span><span style="font-family:黑体;">装修后选购家具要科学：有强烈刺激气味的家具不要买；价格比较低，砍价特别容易的不要买；不是正规厂家生产或没有出厂检验，没有合格证的不要买。当然从</span><span>2004</span><span style="font-family:黑体;">年</span><span>3</span><span style="font-family:黑体;">月</span><span>1</span><span style="font-family:黑体;">日起，所售家具必需标注甲醛释放量，消费者就更应注意索要。同时，新买的家具最好进行一下污染的综合治理，注意必需是长效不反弹的治理，有些治理产品根本无法附着在油漆面上，如何保证有治理效果呢？</span><span></span>
+<p align="left" style="line-height:150%;margin:0cm 0cm 0pt;text-align:left;"><b><span style="color:red;font-family:黑体;">误区八：生病了只顾看医生忽略了室内环境质量</span></b><b><span style="color:red;"></span></b>
+<p style="line-height:150%;margin:0cm 0cm 0pt;text-indent:20pt;"><span style="font-family:黑体;">吴女士装修以后马上入住。</span><span>4</span><span style="font-family:黑体;">个月后，吴女士</span><span>3</span><span style="font-family:黑体;">岁的儿子患病，开始是咽炎、慢性哮喘，逐渐免疫力下降，身体抵抗力减弱，一个冬天也没上几天幼儿园。当吴女士看到有关室内环境造成儿童伤害的报道后，请专家检测，发现房间在装修</span><span>10</span><span style="font-family:黑体;">个月以后，室内每立方米空气中甲醛还高达</span><span>0.36</span><span style="font-family:黑体;">毫克，超过国家标准</span><span>4</span><span style="font-family:黑体;">倍多。</span><span></span>
+<p><span style="color:red;font-family:黑体;">&nbsp;&nbsp;&nbsp; 点评：</span><span style="font-family:黑体;">大多数的消费者在生病时往往只顾到医院看病，却不想想是否由室内环境质量引起，看来看去，花了不少冤枉钱不说，还找不到真正的病因，无法根治。因此，装修后及时进行室内空气质量检测，发现有污染及时治理，也才能确保健康！</span><!---doc_text---></p><p class="pb"><span class="l"><samp>[</samp><a href="/d76641712.htm" target="_blank">阅读全文</a><samp>]</samp> 　人气：<span id=c_9></span>　跟贴：0　分类：<a href="article.asp?c=%CE%B4%B7%D6%C0%E0" target=_blank>未分类</a>　发表于：08-09-03 11:08</span></p></dd></dl><script language=javascript>function SetValue(sValues) {var arrvs = sValues.split(',');for (var i = 0; i < arrvs.length; i++) {document.getElementById("c_" + i).innerHTML = arrvs[i];};};SetValue('215,64,71,82,241,201,340,287,211,194');</script><div class="alg_r"><b>1</b> <a href="/u11576610/p2.htm">2</a> <a href="/u11576610/p2.htm">下一页</a> <input style="border:solid 1px #333333;font-size:12px;" id="pnBox" type="text" size="1"> <a href=# onClick="RePage('/u11576610/p',pnBox.value);">翻页</a> 共 2 页</div></div>
+
+		
+	</div>	
+	<div id="slideB"><div class="widget bor"><h2 class="tit bgn" title="我的名片">我的名片</h2><div class="cul"><a href="/u11576610"><img src="http://icons.xici.net/u11576610/files/photo_l.pic" alt=除污人 /></a><p class="name">除污人</p><ul class="ul"><li>ID　　号：11576610</li><li>注册时间：06-11-24</li><li>上次登陆：15-10-10</li><!--li>今日人气：12345</li--><!--li>今日排名：12345</li--></ul></div></div><div class="widget bor"><h2 class="tit bgn" title="个人资料">个人资料</h2><ul class="iul"></ul></div><script src='http://api.map.baidu.com/api?key=&v=1.1&services=true'></script><script src='http://imgs.xici.net/_controls/maps/baiduMap.js'></script><div class='widget bor'><h2 class='bgn tit' title='我的位置'>这里是哪呢？</h2><div class='map' id='dituContent' style='width:180px;height:150px'><script>baiduMap.createMap(118.7883181,32.06100636,11);</script></div></div><div class='widget bor'><h2 class='bgn tit' title='最新发表的文章'>最新发表文章</h2><ul class='iul'><li><a href='/d203247265.htm' title="南京双全科技有限公司成除甲醛领航企业" target='_blank'>南京双全科技有限公司成除..</a></li><li><a href='/d145603718.htm' title="装修后才知道的事（留着备用）" target='_blank'>装修后才知道的事（留着备..</a></li><li><a href='/d142799722.htm' title="家庭室内装饰施工作业指导书" target='_blank'>家庭室内装饰施工作业指导书</a></li><li><a href='/d137589917.htm' title="选择智能活性炭的理由" target='_blank'>选择智能活性炭的理由</a></li><li><a href='/d121098335.htm' title="又是六一儿童节啦，让儿童远离装修污染吧" target='_blank'>又是六一儿童节啦，让儿童..</a></li><li><a href='/d116534219.htm' title="论光触媒技术在家装污染治理中的应用困境" target='_blank'>论光触媒技术在家装污染治..</a></li><li><a href='/d102159715.htm' title="童装甲醛超标，罪魁是谁" target='_blank'>童装甲醛超标，罪魁是谁</a></li><li><a href='/d88117319.htm' title="家具甲醛污染的解决之道" target='_blank'>家具甲醛污染的解决之道</a></li><li><a href='/d77838257.htm' title="纺织品甲醛清除剂）" target='_blank'>纺织品甲醛清除剂）</a></li><li><a href='/d76641712.htm' title="环保装修警惕八大误区" target='_blank'>环保装修警惕八大误区</a></li></ul></div><div class="widget bor"><h2 class="tit bgn" title="标题">文章归档</h2><ul class="ul pul"><li><samp>・</samp><a href="a201405.htm">2014年05月</a> (1)</li><li><samp>・</samp><a href="a201105.htm">2011年05月</a> (1)</li><li><samp>・</samp><a href="a201103.htm">2011年03月</a> (1)</li><li><samp>・</samp><a href="a201012.htm">2010年12月</a> (1)</li><li><samp>・</samp><a href="a201006.htm">2010年06月</a> (1)</li><li><samp>・</samp><a href="a201004.htm">2010年04月</a> (1)</li><li><samp>・</samp><a href="a200910.htm">2009年10月</a> (1)</li><li><samp>・</samp><a href="a200904.htm">2009年04月</a> (1)</li><li><samp>・</samp><a href="a200809.htm">2008年09月</a> (2)</li><li><samp>・</samp><a href="a200808.htm">2008年08月</a> (1)</li><li><samp>・</samp><a href="a200801.htm">2008年01月</a> (1)</li><li><samp>・</samp><a href="a200710.htm">2007年10月</a> (2)</li><li><samp>・</samp><a href="a200707.htm">2007年07月</a> (2)</li><li><samp>・</samp><a href="a200705.htm">2007年05月</a> (1)</li><li><samp>・</samp><a href="a200701.htm">2007年01月</a> (1)</li></ul></div></div><div id="slideC"></div>
+	
+</div>
+<script language=javascript>
+localStorage.removeItem("noticeNum" + G_UID);
+try{
+ImgsFix();
+}catch(e){}
+jQuery(function (){
+	jQuery("#blog_bottom").show();
+	var a_h,b_h,c_h;
+	var typeA = jQuery("#slideA").css("display");
+	var typeB = jQuery("#slideB").css("display");
+	var typeC = jQuery("#slideC").css("display");
+	if(typeA == "block"){
+		a_h = jQuery('#slideA').height();
+	}else{
+		a_h = 0;
+	}
+
+	if(typeB == "block"){
+		b_h = jQuery('#slideB').height();
+	}else{
+		b_h = 0;
+	}
+
+	if(typeC == "block"){
+		c_h = jQuery('#slideC').height();
+	}else{
+		c_h = 0;
+	}
+	jQuery('#spCont').css("height", Math.max(a_h,b_h,c_h));
+})
+</script>
+
+<span id="blog_bottom" style="display:none;">
+</div>
+<script type="text/javascript">var lCityId=142440100;var lClubId=1;var lATimes=1;var strRefer='';var refer='';if(refer=='fav') {strRefer='menu.asp';} var strFirstRefer='';var maintag = (typeof(StatMainTag)=='undefined')?'':StatMainTag;var sbookDate = (typeof(bookDate)=='undefined')?'4':bookDate;var sLogondays = (typeof(Logondays)=='undefined')?'0':Logondays;var screenResolution = screen.width+'*'+screen.height;var str_img={rnd:"2015-12-21|13:48:38",runtime:{pub_1:"0.000",pub_2:"0.000",d_bconn:"0.000",d_bvsql:"0.000",d_besql:"0.016",HttpTimer_Raw1:"0.000",ATime:"0.203",DTime:"0.016",FTime:"0.000",AppSvr:"",AppRun:""},stat:{dn:"www.xici.net",uname:"",uid:"0",s:"29C316C71EA27D3D",h:"",ct:"142440100",ch:"1",ats:"1",fr:"",frurl:"",cus:"http://www.xici.net/u11576610/",rf:escape(strRefer),mt:escape(maintag),bdt:sbookDate,lds:sLogondays,scr:screenResolution}};str_img="<img src='http://data.xici.net/1x1.gif?"+JSON.stringify(str_img)+"' style='display:none;' />";if(typeof(lBdId)=="undefined") {document.write(str_img);}else{document.write(str_img.replace(/(\/d([^/]+)\.htm)/,'/b'+lBdId+'$1'));}</script>
+	<script type="text/javascript">
+	window.onload = function () {
+			var SessionID = '29C316C71EA27D3D';
+			if (SessionID != "" && window.localStorage){
+				var key = localStorage.getItem("key");
+				if (key!=SessionID){
+					localStorage.setItem("key",SessionID);
+					localStorage.setItem("count",1);
+				}else{
+					var value = Number(localStorage.getItem("count"));
+					localStorage.setItem("count",value+1);
+					if ((value % 6)==0){
+						bdAccessLogon(location.href.substring(location.host.length + 8),'_self');
+					}
+				}
+			}
+		}
+	</script>
+<img alt="" src="" width="0" height="0" />
+<div id="ofooter" class="w">
+	<span><a href="/" target="_blank" title="西祠首页">胡同口</a>|<a href="/help/law.asp" target="_blank" title="网民法规提示">法规</a>|<a href="http://service.xici.net/" target="_blank" title="广告服务">广告服务</a>|<a href="/help/partner.asp" target="_blank" title="合作伙伴">合作伙伴</a>|<a href="/help/contact.asp" target="_blank" title="联系我们">联系我们</a>|<a href="/b566135/" target="_blank" title="加入我们">加入我们</a>
+	</span>
+</div>
+
+<script type="text/javascript">    
+//google代码统计
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+jQuery(function (){
+	if (typeof gastatic !== "undefined") {
+		gastatic();
+	}
+});
+</script>
+<!--[if IE 6]>
+<script src="http://imgs.xici.net/_js/DD_belatedPNG.js"></script>
+<script type="text/javascript">
+   DD_belatedPNG.fix('.logo_top, .logo a');
+</script>
+<![endif]-->
+
+</span>
+<script src="http://imgs.xici.net/_js/xici.common.analysis-baidu.js" type="text/javascript"></script>
+</body>
+</html>
