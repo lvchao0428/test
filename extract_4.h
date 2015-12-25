@@ -7,7 +7,7 @@
 #include<gumbo.h>
 #include<stdlib.h>
 #include<sys/stat.h>
-
+#include"def.h"
 
 int strTimes(char* str, char* word);
 	
@@ -20,15 +20,7 @@ int find_comma_num_out(char* line);
  * ret: 0 不含时间， 1 含有时间 
  * warning: timestr need to be free outside the Func
  * */
-int is_time_str(char* str, char** timestr, int* len);
-
-/* 找到时间信息，并且输出时间信息
- * in: str, 任意字符串
- * out: timestr
- * ret: 0 不含时间， 1 含有时间 
- * warning: timestr need to be free outside the Func
- * */
-int is_time_str(char* str, char** timestr, int* len);
+int is_time_str(const char* str, char** timestr, int* len);
 
 /* 找到title节点
  * in: root
@@ -126,5 +118,10 @@ void find_clean_text(GumboNode* root, GumboNode* timeNode, GumboNode** contentNo
 //base the whole diff to find the first part textnode
 void find_first_node(GumboNode* root, GumboNode** fnode);
 
-
+//两个以上url
+int extract_4(CommonPart* cp, int* htmltotal, int* titletarget, 
+	  int* timetarget, int* contenttarget, FILE* fp);
+//如果为单个url
+int extract_3(CommonPart* cp, int* htmltotal, int* titletarget, 
+	  int* timetarget, int* contenttarget, FILE* fp);
 #endif

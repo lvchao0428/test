@@ -18,12 +18,61 @@ void print_url(UrlBuf* ub)
    }
 }
 
-void push_compart(char* siss, CommonPart** cp, UrlBuf* ub)
+void free_url(UrlBuf* ub)
 {
-   if(!siss)
+   UrlBuf* p = ub;
+   while(p)
    {
-	  return NULL;
+	  UrlBuf* q = p;
+	  if(q->filename)
+	  {
+		 free(q->filename);
+		 q->filename = NULL;
+	  }
+
+	  if(q->url)
+	  {
+		 free(q->url);
+		 q->url = NULL;
+	  }
+
+	  if(q->htmls)
+	  {
+		 free(q->htmls);
+		 q->htmls = NULL;
+	  }
+
+	  if(q->siss)
+	  {
+		 free(q->siss);
+		 q->siss = NULL;
+	  }
+
+	  p = p->next;
+	  if(q)
+	  {
+		 free(q);
+		 q = NULL;
+	  }
    }
+}
+
+void free_compart(CommonPart* cp)
+{
+   if(cp->siss)
+   {
+	  free(cp->siss);
+	  cp->siss = NULL;
+   }
+
+   if(cp->ubList)
+   {
+	  free_url(cp->ubList);
+   }
+}
+
+void push_compart(CommonPart** cp, UrlBuf* ub)
+{
 
    //first find the compart siss
    CommonPart* head = *cp;
@@ -31,14 +80,15 @@ void push_compart(char* siss, CommonPart** cp, UrlBuf* ub)
    if(*cp == NULL)
    {
 	  (*cp) = (CommonPart*)malloc(sizeof(CommonPart));
-	  bzero((*cp), sizeof((CommonPart)));
+	  bzero((*cp), sizeof(CommonPart));
 	  (*cp)->next = NULL;
 
-	  (*cp)->siss = (char*)malloc(sizeof(char)*(strlen(siss) + 1));
-	  memcpy((*cp)->siss, siss, sizeof(char)*(strlen(siss)));
-	  *((*cp)->siss + strlen(siss)) = '\0';
+	  (*cp)->siss = (char*)malloc(sizeof(char)*(strlen(ub->siss) + 1));
+	  strcpy((*cp)->siss, ub->siss);
+	  //memcpy((*cp)->siss, ub->siss, sizeof(char)*(strlen(ub->siss)));
+	  //*((*cp)->siss + strlen(ub->siss)) = '\0';
 
-	  push_url(&((*cp)->ubList), ub->file, ub->url, ub->htmls);
+	  push_url(&((*cp)->ubList), ub->filename, ub->url, ub->htmls, ub->siss, ub->file_size);
 
    }
    else
@@ -46,7 +96,7 @@ void push_compart(char* siss, CommonPart** cp, UrlBuf* ub)
 
 	  while(p->next)
 	  {
-		 if(memcmp(p->siss, siss, strlen(siss)) == 0)
+		 if(memcmp(p->siss, ub->siss, strlen(ub->siss)) == 0)
 		 {
 			break;
 		 }
@@ -61,22 +111,43 @@ void push_compart(char* siss, CommonPart** cp, UrlBuf* ub)
 	
 		 p->next = q;
 		 
-		 q->siss = (char*)malloc(sizeof(char)*(strlen(siss) + 1));
-		 memcpy(q->siss, siss, sizeof(char)*(strlen(siss)));
-		 *(q->siss + strlen(siss)) = '\0';	 
+		 q->siss = (char*)malloc(sizeof(char)*(strlen(ub->siss) + 1));
+		 strcpy(q->siss, ub->siss);
+	//	 memcpy(q->siss, ub->siss, sizeof(char)*(strlen(ub->siss)));
+	//	 *(q->siss + strlen(ub->siss)) = '\0';	 
 		 
+
 		 
-		 push_url(&(q->ubList), ub->file, ub->url, ub->htmls);
+		 push_url(&(q->ubList), ub->filename, ub->url, ub->htmls, ub->siss, ub->file_size);
 	  }
 	  else
-	  {
-		 
+	  {//存在siss
+		 push_url(&(p->ubList), ub->filename, ub->url, ub->htmls, ub->siss, ub->file_size);		  
 	  }
+
+	  *cp = head;
    }
 
 }
 
-void push_url(UrlBuf** ub, char* filename, char* url, char* htmls)
+void print_CommonPart(CommonPart* cp)
+{
+   CommonPart* p = cp;
+   while(p)
+   {
+	  UrlBuf* pub = p->ubList;
+	  while(pub)
+	  {
+		 printf("filename:%s, url:%s\n", pub->filename, pub->url);
+
+		 pub = pub->next;
+	  }
+
+	  p = p->next;
+   }
+}
+
+void push_url(UrlBuf** ub, char* filename, char* url, char* htmls, char* siss, int file_size)
 {
    UrlBuf* head = *ub;
    UrlBuf* p = head;
@@ -87,16 +158,26 @@ void push_url(UrlBuf** ub, char* filename, char* url, char* htmls)
 	  (*ub)->next = NULL;
 
 	  (*ub)->filename = (char*)malloc(sizeof(char)*(strlen(filename) + 1));
-	  memcpy((*ub)->filename, filename, sizeof(char)*(strlen(filename)));
-	  *((*ub)->filename + strlen(filename)) = '\0';
+	  strcpy((*ub)->filename, filename);
+//	  memcpy((*ub)->filename, filename, sizeof(char)*(strlen(filename)));
+//	  *((*ub)->filename + strlen(filename)) = '\0';
 
 	  (*ub)->url = (char*)malloc(sizeof(char)*(strlen(url) + 1));
-	  memcpy((*ub)->url, url, sizeof(char)*(strlen(url)));
-	  *((*ub)->url + strlen(url)) = '\0';
+	  strcpy((*ub)->url, url);
+//	  memcpy((*ub)->url, url, sizeof(char)*(strlen(url)));
+//	  *((*ub)->url + strlen(url)) = '\0';
 
 	  (*ub)->htmls = (char*)malloc(sizeof(char)*(strlen(htmls) + 1));
-	  memcpy((*ub)->htmls, htmls, sizeof(char)*(strlen(htmls)));
-	  *((*ub)->htmls + strlen(htmls)) = '\0';
+	  strcpy((*ub)->htmls, htmls);
+//	  memcpy((*ub)->htmls, htmls, sizeof(char)*(strlen(htmls)));
+//	  *((*ub)->htmls + strlen(htmls)) = '\0';
+
+	  (*ub)->siss = (char*)malloc(sizeof(char)*(strlen(siss) + 1));
+	  strcpy((*ub)->siss, siss);
+//	  memcpy((*ub)->siss, siss, sizeof(char)*(strlen(siss)));
+//	  *((*ub)->siss + strlen(siss)) = '\0';
+
+	  (*ub)->file_size = file_size;
    }
    else
    {
@@ -109,16 +190,27 @@ void push_url(UrlBuf** ub, char* filename, char* url, char* htmls)
 
 
 	  q->filename = (char*)malloc(sizeof(char)*(strlen(filename) + 1));
-	  memcpy(q->filename, filename, sizeof(char)*(strlen(filename)));
-	  *(q->filename + strlen(filename)) = '\0';
+	  strcpy(q->filename, filename); 
+//	  memcpy(q->filename, filename, sizeof(char)*(strlen(filename)));
+//	  *(q->filename + strlen(filename)) = '\0';
 
 	  q->url = (char*)malloc(sizeof(char)*(strlen(url) + 1));
-	  memcpy(q->url, url, sizeof(char)*(strlen(url)));
-	  *(q->url + strlen(url)) = '\0';
+	  strcpy(q->url, url);
+//	  memcpy(q->url, url, sizeof(char)*(strlen(url)));
+//	  *(q->url + strlen(url)) = '\0';
 
 	  q->htmls = (char*)malloc(sizeof(char)*(strlen(htmls) + 1));
-	  memcpy(q->htmls, htmls, sizeof(char)*(strlen(htmls)));
-	  *(q->htmls + strlen(htmls)) = '\0';
+	  strcpy(q->htmls, htmls);
+//	  memcpy(q->htmls, htmls, sizeof(char)*(strlen(htmls)));
+//	  *(q->htmls + strlen(htmls)) = '\0';
+
+	  q->siss = (char*)malloc(sizeof(char)*(strlen(siss) + 1));
+	  strcpy(q->siss, siss);
+//	  memcpy(q->siss, siss, sizeof(char)*(strlen(siss)));
+//	  *(q->siss + strlen(siss)) = '\0';
+
+	  q->file_size = file_size;
+
 	  p->next = q;
 	  *ub = head;
    }
@@ -188,6 +280,7 @@ lineno++;
  }
  */
 
+/*need free siss outside the func*/
 char* get_siss(char* url)
 {
    if(!url)

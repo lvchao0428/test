@@ -88,6 +88,13 @@ int read_url(const char* path, UrlBuf** ub)
    }
    *ub = NULL;
    FILE* fp;
+   FILE* fpillegal;
+   fpillegal= fopen("illegalhtml", "w");
+   if(!fpillegal)
+   {
+	  printf("open illegal file error\n");
+	  return -1;
+   }
    fp = fopen("filelist", "w");
    if(!fp)
    {
@@ -110,39 +117,192 @@ int read_url(const char* path, UrlBuf** ub)
 	  sprintf(tempfullfile, "./out/%s", entry->d_name);
 	  file_read_full(&htmls, tempfullfile);
 	  char* url = NULL;
-	  
+	  //如果网页不完整不分析
+	  if(!strstr(htmls, "</html>"))
+	  {
+		 char* tempurl = get_url(htmls);
+
+		 fprintf(fpillegal, "filename:%s, url:%s\n", entry->d_name, tempurl);
+		 if(htmls)
+		 {
+			free(htmls);
+			htmls = NULL;
+		 }
+
+		 if(url)
+		 {
+			free(url);
+			url = NULL;
+		 }
+
+		 free(tempurl);
+		 continue;
+	  }
 	  if((url = get_url(htmls)) != NULL)
 	  {
 		 lineno++;
-	//	 printf("lineno:%d, url:%s\n", lineno,url);
-		 push_url(ub, entry->d_name, url, htmls);
-		 char* siss  = get_siss(url);
-		 printf("siss:%s\n", siss);
+		 if(strstr(url, "www.xici.net"))
+		 {
+			fprintf(fpillegal, "filename:%s, url:%s\n", entry->d_name, url);
+			if(htmls)
+			{
+			   free(htmls);
+			   htmls = NULL;
+			}
 
-		 
+			if(url)
+			{
+			   free(url);
+			   url = NULL;
+			}
+
+			continue;
+		 }
+		 printf("lineno:%d, url:%s\n", lineno,url);
+		 int file_size = strlen(htmls);
+
+		 char* siss  = get_siss(url);
+		 push_url(ub, entry->d_name, url, htmls, siss, file_size);
+		 free(siss);
+
 	  }
+
 	  free(htmls);
 	  free(url);
    }
 
+   fclose(fpillegal);
    closedir(dp);
 
    return 0;
 }
 
-int main(int argc, char* argv[])
+
+/*把所有的urlbuf 填入 commonpart里面*/
+int fill_compart(UrlBuf* ub, CommonPart** cp)
 {
-   UrlBuf* ub;
+   UrlBuf* ubp = ub;
+
+   while(ubp)
+   {
+	  push_compart(cp, ubp);
+
+	  ubp = ubp->next;
+   }
+
+}
+
+int fill_max_url(CommonPart* cp)
+{
+   CommonPart* pcp = cp;
+
+   while(pcp)
+   {
+	  int urlNum = 0;
+	  UrlBuf* ubp = pcp->ubList;
+	  int maxsize = 0;
+	  while(ubp)
+	  {
+		 urlNum++;
+		 if(maxsize < ubp->file_size)
+		 {
+			maxsize = ubp->file_size;
+			pcp->maxBuf = ubp;
+		 }
+
+		 ubp = ubp->next;
+	  }
+
+	  pcp->urlNum = urlNum;
+	  pcp = pcp->next;
+   }
+}
+
+int deal_url_com(CommonPart** cp)
+{
+   UrlBuf* ub = NULL;
    read_url("./out", &ub);
 
-   /*
-	  while(++counter <= argc)
-	  {
-	  printf("\nListing %s...\n", argv[counter-1]);
-	  listdir(argv[counter - 1]);
-	  }
-	  */
-   print_url(ub);
+   //   CommonPart* cp = NULL;
+   fill_compart(ub, cp);
 
-   return 0;
+   free_url(ub);
+   fill_max_url(*cp);
+
+
+   return 1;
 }
+
+void test_com()
+{
+
+   CommonPart* cp = NULL;
+   deal_url_com(&cp);
+   CommonPart* p = cp;
+   print_CommonPart(cp);
+
+   while(p)
+   {
+	  printf("maxbuf:size:%d,urlNum:%d, url:%s\n", p->maxBuf->file_size, p->urlNum, p->maxBuf->url);
+
+	  p = p->next;
+   }
+
+
+   FILE* fp;
+   fp = fopen("sixLog", "w");
+   if(!fp)
+   {
+	  printf("cannot open sixLog\n");
+	  exit(-1);
+   }
+   //test all
+   p = cp;
+   int htmltotal = 0, titletarget = 0, timetarget = 0, contenttarget = 0; 
+   while(p)
+   {
+	  CommonPart* q;
+	  printf("url:%s\n", p->maxBuf->url);
+	  if(p->urlNum == 1)
+	  {
+		 extract_3(p, &htmltotal, &titletarget, &timetarget, &contenttarget, fp);
+	  }
+	  else if(p->urlNum > 1)
+	  {
+		 extract_4(p, &htmltotal, &titletarget, &timetarget, &contenttarget, fp);
+	  }
+	  q = p;
+	  p = p->next;
+	  free_compart(q);
+   }
+   //  fclose(fp);
+   printf("htmltotal:%d, titletarget:%d, timetarget:%d, contenttarget:%d\n", 
+		 htmltotal, titletarget, timetarget, contenttarget);
+
+   /*
+	  FILE* fp = NULL;
+	  fp = fopen("urlfilelist", "w");
+	  if(!fp)
+	  {
+	  printf("cannot open urlfilelist file\n");
+	  exit(0);
+	  }
+	  p = cp;
+	  while(p)
+	  {
+	  UrlBuf* pub = p->ubList;
+	  while(pub)
+	  {
+	  fprintf(fp, "filename:%s, url:%s\n", pub->filename, pub->url); 
+
+	  pub = pub->next;
+	  }
+
+	  p = p->next;
+	  }
+
+
+	  fclose(fp);
+	  */
+}
+

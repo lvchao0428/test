@@ -10,7 +10,8 @@
 #include<malloc.h>
 #include<errno.h>
 #include<string.h>
-
+#include"def.h"
+#include"extract_4.h"
 /*读取文件
  * in: filename
  * out: dest
@@ -20,6 +21,9 @@ int file_read_full(char** dest, const char* filename);
 
 char* get_url(char* htmls);
 
+int deal_url_com(CommonPart** cp);
 //int read_url(const char* path, UrlBuf** ub);
+
+void test_com();
 
 #endif

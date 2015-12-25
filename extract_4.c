@@ -5,8 +5,8 @@
     > Created Time: Tue Dec 15 11:08:48 2015
  ************************************************************************/
 
-
-
+#include"extract_4.h"
+#include"stdlib.h"
 /*找到str里面的word的数量
  *in: str, word
  *ret: word出现的个数
@@ -69,7 +69,7 @@ int find_comma_num_out(char* line)		//找到里面内容部分的标点数量
  * ret: 0 不含时间， 1 含有时间 
  * warning: timestr need to be free outside the Func
  * */
-int is_time_str(char* str, char** timestr, int* len)
+int is_time_str(const char* str, char** timestr, int* len)
 {
    char* p = str;
    int ret = 0;
@@ -96,7 +96,7 @@ int is_time_str(char* str, char** timestr, int* len)
 		 {
 			*timestr = (char*)malloc(sizeof(char)*(11));
 			memcpy(*timestr, p, 10);
-			(*timestr)[11] = '\0';
+			(*timestr)[10] = '\0';
 			*len = 11;
 			ret = 1;
 		 }
@@ -122,7 +122,7 @@ int is_time_str(char* str, char** timestr, int* len)
 		 {
 			*timestr = (char*)malloc(sizeof(char)*(9));
 			memcpy(*timestr, p, 8);
-			(*timestr)[9] = '\0';
+			(*timestr)[8] = '\0';
 			ret = 1;
 		 }
 		 else
@@ -148,7 +148,7 @@ int is_time_str(char* str, char** timestr, int* len)
 		 {
 			*timestr = (char*)malloc(sizeof(char)*(10));
 			memcpy(*timestr, p, 9);
-			(*timestr)[10] = '\0';
+			(*timestr)[9] = '\0';
 			ret = 1;
 		 }
 		 else
@@ -175,7 +175,7 @@ int is_time_str(char* str, char** timestr, int* len)
 
 			*timestr = (char*)malloc(sizeof(char)*(10));
 			memcpy(*timestr, p, 9);
-			(*timestr)[10] = '\0';
+			(*timestr)[9] = '\0';
 			ret = 1;
 		 }
 		 else
@@ -200,7 +200,7 @@ int is_time_str(char* str, char** timestr, int* len)
 		 {
 			*timestr = (char*)malloc(sizeof(char)*(9));
 			memcpy(*timestr, p, 8);
-			(*timestr)[9] = '\0';
+			(*timestr)[8] = '\0';
 			ret = 1;
 		 }
 		 else
@@ -223,7 +223,7 @@ int is_time_str(char* str, char** timestr, int* len)
 		 {
 			*timestr = (char*)malloc(sizeof(char)*(7));
 			memcpy(*timestr, p, 6);
-			(*timestr)[7] = '\0';
+			(*timestr)[6] = '\0';
 			ret = 1;
 		 }
 		 else
@@ -247,7 +247,7 @@ int is_time_str(char* str, char** timestr, int* len)
 		 {
 			*timestr = (char*)malloc(sizeof(char)*(8));
 			memcpy(*timestr, p, 7);
-			(*timestr)[8] = '\0';
+			(*timestr)[7] = '\0';
 			ret = 1;
 		 }
 		 else
@@ -271,7 +271,7 @@ int is_time_str(char* str, char** timestr, int* len)
 		 {
 			*timestr = (char*)malloc(sizeof(char)*(8));
 			memcpy(*timestr, p, 7);
-			(*timestr)[8] = '\0';
+			(*timestr)[7] = '\0';
 			ret = 1;
 		 }
 		 else
@@ -380,6 +380,43 @@ void output_attr(GumboNode* root)
    printf("\n");
 }
 
+void html_get_inner_text(GumboNode* node, char** text, int maxlen)
+{
+   if(!node)
+   {
+	  return;
+   }
+   if(node->type == GUMBO_NODE_TEXT)
+   {
+	  int len = strlen(node->v.text.text);
+	  if(len > 0)
+	  {
+		 if(*text == NULL)
+		 {
+			*text = (char*)malloc(sizeof(char)*(maxlen));
+			bzero(*text, sizeof(char)*(maxlen));
+			if(maxlen - strlen(*text) >= len)
+			{
+			   strncat(*text, node->v.text.text, len);
+			}
+		 }
+	  }
+   }
+   else if(node->type == GUMBO_NODE_ELEMENT && 
+		 node->v.element.tag != GUMBO_TAG_SCRIPT &&
+		 node->v.element.tag != GUMBO_TAG_INPUT &&
+		 node->v.element.tag != GUMBO_TAG_NOSCRIPT &&
+		 node->v.element.tag != GUMBO_TAG_ANNOTATION_XML)
+   {
+	  GumboVector* children = &node->v.element.children;
+	  int i;
+	  for(i = 0; i < children->length; ++i)
+	  {
+		 html_get_inner_text(children->data[i], text, maxlen);
+	  }
+   }
+}
+
 /*提取纯净的文字信息
  * in: node
  * out: text
@@ -394,18 +431,51 @@ int cleantext(GumboNode* node, char** text)
    {
 	  //strncat(content, node->v.text.original_text.data, node->v.text.original_text.length);
 	  //char* str = (char*)malloc(sizeof(char)*(strlen(node->v.text.text) + 1));
-
+   
 	  int len = strlen(node->v.text.text);
+	  if(len <= 2)
+	  {
+		 return -1;
+	  }
 	  if(*text == NULL)
 	  {
 		 *text = (char*)malloc(sizeof(char)*(len + 1));
-		 bzero(*text, sizeof(char)*(strlen(*text) + 1)); 
+		 bzero(*text, sizeof(char)*(len + 1)); 
 		 strcpy(*text, node->v.text.text);
+	//	 memcpy(*text, node->v.text.text, sizeof(char)*(len))
+	//	 (*text)[len] = '\0';
 	  }
 	  else
 	  {
-		 *text = (char*)realloc(*text, sizeof(char)*(strlen(*text) + len+1));
+		 //printf("len:%d\n", len);
+		 char* tempstr = NULL;
+		 tempstr = (char*)malloc(sizeof(char)*(strlen(*text) + 1));
+		 strcpy(tempstr, *text);
+		 // memcpy(tempstr, *text, sizeof(char)*(strlen(*text)));
+		// tempstr[strlen(*text)] = '\0';
+		 
+		 if((*text = (char*)realloc(*text, sizeof(char)*(strlen(*text) + len + 1))) == NULL)
+		 {
+			*text = (char*)malloc(sizeof(char)*(strlen(tempstr) + len + 1));
+			strcpy(*text,  tempstr);
+			//memcpy(*text, tempstr, strlen(tempstr));
+			//(*text)[strlen(tempstr)] = '\0';
+			strcat(*text, node->v.text.text);
+			if(tempstr)
+			{
+			   free(tempstr);
+			   tempstr = NULL;
+			}
+			return 1;
+		 }	
+		 if(tempstr)
+		 {
+			free(tempstr);
+			tempstr = NULL;
+		 }
 		 strcat(*text, node->v.text.text);
+//		 strncat(*text, node->v.text.text, len);
+//		 (*text)[strlen(*text) + len] = '\0';
 	  }
 
    }
@@ -477,10 +547,16 @@ void find_a_num(GumboNode* node, int* num)
  * */
 int is_page_node(GumboNode* node, char* text)
 {
+   if(!text || !node)
+   {
+	  return 0;
+   }
    if(strlen(text) > 100)
    {
 	  return 0;
    }
+
+   
    if(strcasestr(text, "下一页") || 
 		 strcasestr(text, "下页") ||
 		 strcasestr(text, "上页") ||
@@ -501,11 +577,19 @@ int is_page_node(GumboNode* node, char* text)
 	  i++;
 	  }
 	  */
+   //图片块，跳出
+
+   int imgNum = 0;
+   if(strstr(text, "积分") || strstr(text, "等级") ||\
+		 strstr(text, "在线时长"))
+   {
+	  return 1;
+   }
    int anum = 0;
    find_a_num(node, &anum);
-   printf("anum:%d\n", anum);
+   //printf("anum:%d\n", anum);
    int len = strlen(text);
-   printf("len:%d,anum:%d\n", len, anum);
+   //printf("len:%d,anum:%d\n", len, anum);
    if((double)len / anum < 50)
    {
 	  return 1;
@@ -572,24 +656,25 @@ void compare_and_output(GumboNode* aNode, GumboNode* bNode, GumboNode** cNode)
    {
 	  return;
    }
-   else if(aNode->type == GUMBO_NODE_ELEMENT &&
+   else if(*cNode == NULL && aNode->type == GUMBO_NODE_ELEMENT &&
+		 
 		 bNode->type == GUMBO_NODE_ELEMENT && 
 		 aNode->v.element.tag != GUMBO_TAG_SCRIPT &&
 		 bNode->v.element.tag != GUMBO_TAG_SCRIPT &&
-		 *cNode == NULL)
+		 aNode->v.element.tag != GUMBO_TAG_ANNOTATION_XML &&
+		 aNode->v.element.tag != GUMBO_TAG_ANNOTATION_XML )
    {
 	  GumboVector* aChildren = &aNode->v.element.children;
 	  GumboVector* bChildren = &bNode->v.element.children;
-
 	  //printf("anode:%s, ac num:%d, bc num:%d\n", gumbo_normalized_tagname(aNode->v.element.tag)
 	  //			,aChildren->length, bChildren->length);
 	  //	  print_Node(aNode);
 	  //	  print_Node(bNode);
-	  printf("anode:%s, bnode:%s\n", gumbo_normalized_tagname(aNode->v.element.tag),
-			gumbo_normalized_tagname(bNode->v.element.tag));
+//	  printf("anode:%s, bnode:%s\n", gumbo_normalized_tagname(aNode->v.element.tag),
+//			gumbo_normalized_tagname(bNode->v.element.tag));
 	  int ason = return_elem_son_num(aNode);
 	  int bson = return_elem_son_num(bNode);
-	  printf("ason:%d, bson:%d\n",  ason, bson);
+//	  printf("ason:%d, bson:%d\n",  ason, bson);
 	  if(ason == bson)
 	  {
 
@@ -603,25 +688,65 @@ void compare_and_output(GumboNode* aNode, GumboNode* bNode, GumboNode** cNode)
 			   char* tempcontent2 = NULL;
 			   cleantext(aNode, &tempcontent1);
 			   cleantext(bNode, &tempcontent2);
+			   //html_get_inner_text(aNode, &tempcontent1, 5000);
+			   //html_get_inner_text(bNode, &tempcontent2, 5000);
 			   if(tempcontent1 == NULL || tempcontent2 == NULL)
 			   {
+				  if(tempcontent1)
+				  {
+					 free(tempcontent1);
+				  }
+				  if(tempcontent2)
+				  {
+					 free(tempcontent2);
+				  }
 				  return;
 			   }
 			   if(find_comma_num_out(tempcontent1) == 0 || find_comma_num_out(tempcontent2) == 0)
 			   {
+				  if(tempcontent1)
+				  {
+					 free(tempcontent1);
+					 tempcontent1 = NULL;
+				  }
+
+				  if(tempcontent2)
+				  {
+					 free(tempcontent2);
+					 tempcontent2 = NULL;
+				  }
 				  return;
 			   }
 			   if(is_page_node(aNode, tempcontent1))
 			   {
+				  if(tempcontent1)
+				  {
+					 free(tempcontent1);
+					 tempcontent1 = NULL;
+				  }
 
-				  printf("is page\n");
+				  if(tempcontent2)
+				  {
+					 free(tempcontent2);
+					 tempcontent2 = NULL;
+				  }
+				 // printf("is page\n");
 				  return;
 			   }
 			   int len1 = strlen(tempcontent1);
 			   int len2 = strlen(tempcontent2);
-			   printf("len1:%d, len2:%d\n", len1, len2);
-			   free(tempcontent1);
-			   free(tempcontent2);
+			   //printf("len1:%d, len2:%d\n", len1, len2);
+			   if(tempcontent1)
+			   {
+				  free(tempcontent1);
+				  tempcontent1 = NULL;
+			   }
+
+			   if(tempcontent2)
+			   {
+				  free(tempcontent2);
+				  tempcontent2 = NULL;
+			   }
 			   int aa;
 			   all_a(aNode, &aa);
 			   if(aa == 1)
@@ -637,16 +762,26 @@ void compare_and_output(GumboNode* aNode, GumboNode* bNode, GumboNode** cNode)
 			}
 			else
 			{
-			   printf("sec1\n");
+			   //printf("sec1\n");
 			   char* tempstr = NULL;
 			   cleantext(aNode, &tempstr);
+			   //html_get_inner_text(aNode, &tempstr, 5000);
 
-			   if(is_page_node(aNode, tempstr))
+			   if( tempstr && is_page_node(aNode, tempstr))
 			   {
-				  free(tempstr);
+				  if(tempstr)
+				  {
+					 free(tempstr);
+					 tempstr = NULL;
+				  }
 				  return;
 			   }
-			   free(tempstr);
+
+			   if(tempstr)
+			   {
+				  free(tempstr);
+				  tempstr = NULL;
+			   }
 			   *cNode = aNode->parent;
 			   return;
 			}
@@ -655,8 +790,17 @@ void compare_and_output(GumboNode* aNode, GumboNode* bNode, GumboNode** cNode)
 		 {
 			int i;
 			//printf("children:\n");
-			for(i = 0; i < aChildren->length; ++i)
+			for(i = 0; i < aChildren->length && i < bChildren->length; ++i)
 			{
+//			   GumboNode* bChild = bChildren->data[i];
+			   //printf("place value:%p\n", bChild);
+//			   int addr = bChild;
+//			   if(bChild == 0xb || bChild == 0x30)
+			   //{
+			   //  return;
+			   // }
+			   
+			  // printf("bNodep:%p, strlen:%d\n", bNode, strlen(bNode));
 			   compare_and_output(aChildren->data[i], bChildren->data[i], cNode);
 			}
 		 }
@@ -665,20 +809,32 @@ void compare_and_output(GumboNode* aNode, GumboNode* bNode, GumboNode** cNode)
 	  {
 		 //把选中页码的情况排除
 
-		 printf("set2\n");
+		 //printf("set2\n");
 		 char* tempstr = NULL;
 		 cleantext(aNode, &tempstr);
-		 if(is_page_node(aNode, tempstr)) 
+		 //html_get_inner_text(aNode, &tempstr, 5000);
+		 if(tempstr && is_page_node(aNode, tempstr)) 
 		 {
-			free(tempstr);
+			if(tempstr)
+			{
+			   free(tempstr);
+			   tempstr = NULL;
+			}
 			return;
 		 }
 		 else
 		 {
-			free(tempstr);
-			print_Node(aNode);
-			printf("*(*****************************************)\n");
-			print_Node(bNode);
+			if(tempstr)
+			{
+			   free(tempstr);
+			   tempstr = NULL;
+			}
+			//printf("aNode:\n");
+		//	print_Node(aNode);
+
+			//printf("*(*****************************************)\n");
+			//printf("bNode:\n");
+			//print_Node(bNode);
 			*cNode = aNode;
 			return;
 		 }
@@ -765,18 +921,16 @@ void find_time(GumboNode* root, char** time, GumboNode** timeNode)
 	  int i;
 	  GumboAttribute* attr = NULL;
 	  char* begtime = NULL;
-	  char* endtime = NULL;
+	  //char* endtime = NULL;
+	  int timeLen = 0;
 	  //find time if timestr in the attr value;
 	  for(i = 0; i < attrs->length; ++i)
 	  {
-		 begtime = NULL;
-		 endtime = NULL;
+		 //begtime = NULL;
+		 timeLen = 0; 
 		 attr = attrs->data[i];
-		 if(root->v.element.tag != GUMBO_TAG_A &&  is_time_str(attr->value, &begtime, &endtime))
+		 if(root->v.element.tag != GUMBO_TAG_A && is_time_str(attr->value, time, &timeLen))
 		 {
-			*time = (char*)malloc(sizeof(char)*(endtime - begtime + 1));
-			strncpy(*time, begtime, endtime-begtime + 1);
-			(*time)[endtime - begtime + 1] = '\0';
 			*timeNode = root;
 			return;
 		 }
@@ -790,15 +944,11 @@ void find_time(GumboNode* root, char** time, GumboNode** timeNode)
 	  }
    }
    //find time if the timestr is in the text
-   else if(root->type == GUMBO_NODE_TEXT && *time == NULL)
+   else if(*time == NULL && root->type == GUMBO_NODE_TEXT)
    {
-	  char* begtime = NULL;
-	  char* endtime = NULL;
-	  if(is_time_str(root->v.text.text, &begtime, &endtime))
+	  int timeLen = 0; 
+	  if(is_time_str(root->v.text.text, time, &timeLen))
 	  {
-		 *time = (char*)malloc(sizeof(char)*(endtime - begtime + 1));
-		 memcpy(*time, begtime, endtime - begtime + 1);
-		 (*time)[endtime - begtime + 1] = '\0';
 		 //find the latest notext node
 		 *timeNode = root->parent;
 		 return;
@@ -816,7 +966,7 @@ void cleantitle(const char* rawTitle, char** cleanTitle)
    int i = 0, j = 0;
 
    *cleanTitle = (char*)malloc(sizeof(char)*(strlen(rawTitle) + 1));
-   while(rawTitle[i] != '\0' && rawTitle[i] != '_')
+   while(rawTitle[i] != '\0' && rawTitle[i] != '_' && rawTitle[i] != '-')
    {
 	  (*cleanTitle)[j++] = rawTitle[i++];
    }
@@ -842,8 +992,10 @@ void find_clean_text(GumboNode* root, GumboNode* timeNode, GumboNode** contentNo
 	  { 
 		 char* temptext = NULL;
 		 cleantext(p, &temptext);
+		 //html_get_inner_text(p, &temptext, 5000);
 		 int commaNum = find_comma_num_out(temptext);
-
+		 
+		 
 		 if(commaNum > 3)
 		 {
 			*contentNode = p;			
@@ -926,4 +1078,277 @@ void find_first_node(GumboNode* root, GumboNode** fnode)
 	  }
    }
 }
+
+/*side 为辅助网页， dest为目标解析的网页，其他三项为输出*/
+int deal_htmls_4(char* dest, char* side, char** title, char** content, char** time)
+{
+   if(!(dest && side))
+   {
+	  return 0;
+   }
+   GumboOutput* output = gumbo_parse(dest);
+   GumboOutput* output1 = gumbo_parse(side);
+
+
+   if(!dest || !side)
+   {
+	  return 0;
+   }
+
+   //title
+   char* temptitle = find_title(output->root);
+   *title = (char*)malloc(sizeof(char)*(strlen(temptitle) + 1));
+   strcpy(*title, temptitle);
+   //memcpy(*title, temptitle, strlen(temptitle));
+   //(*title)[strlen(temptitle)] = '\0'; 
+   GumboNode* bodyNode1 = NULL;
+   GumboNode* bodyNode2 = NULL;
+   find_body(output->root, &bodyNode1);
+   find_body(output1->root, &bodyNode2);
+
+   GumboNode* cNode = NULL;
+   compare_and_output(bodyNode1, bodyNode2, &cNode);
+   if(!cNode)
+   {
+	  gumbo_destroy_output(&kGumboDefaultOptions, output);
+	  gumbo_destroy_output(&kGumboDefaultOptions, output1);
+	  return 0;
+   }
+   //time
+   GumboNode* timeNode = NULL;
+   find_time(bodyNode1, time, &timeNode);
+
+   GumboNode* contentNode = NULL;
+   find_first_node(cNode, &contentNode);
+
+
+   //printf("beg clean\n");
+   *content = NULL;
+   //printf("file1:%s, file2:%s\n", file1, file2);
+   cleantext(contentNode, content);
+   //html_get_inner_text(contentNode, content, 5000);
+   //printf("content:%s\n", *content);
+   gumbo_destroy_output(&kGumboDefaultOptions, output);
+   gumbo_destroy_output(&kGumboDefaultOptions, output1);
+
+   return 1;
+}
+
+
+void read_spc_html2(GumboNode* root, GumboNode** contentNode )
+{
+   if(!root)
+   {
+	  return;
+   }
+   else if((*contentNode == NULL) && root->type == GUMBO_NODE_ELEMENT  
+		 && root->type != GUMBO_TAG_SCRIPT &&
+		 root->type != GUMBO_TAG_STYLE)
+   {
+	  GumboVector* children = &root->v.element.children;
+	  int i;
+	  for(i = 0; i < children->length; ++i)
+	  {
+		 read_spc_html2(children->data[i], contentNode);
+	  }
+   }
+   else if(root->type == GUMBO_NODE_TEXT &&
+		 root->parent->v.element.tag != GUMBO_TAG_SCRIPT &&
+		 root->parent->v.element.tag != GUMBO_TAG_STYLE &&
+		 (*contentNode == NULL) &&
+		 root->parent->v.element.tag != GUMBO_TAG_ANNOTATION_XML)// &&
+	  //strcasecmp(gumbo_normalized_tagname(root->parent->v.element.tag), "textarea") != 0)
+   {
+	  //ver1 1只检测标点,并直接找到最近div
+	  if(find_comma_num_out(root->v.text.text) > 5)
+	  {
+		 //如果text的标点符号超过阈值，则向上遍历到div或者table节点
+		 GumboNode* tempcontentNode = NULL;
+		 tempcontentNode = root->parent;
+
+		 /*
+			while(tempcontentNode)
+			{
+		 //	printf("tagnum:%d\n", tempcontentNode->v.element.tag);
+		 //	printf("tag last:%d\n", GUMBO_TAG_LAST);
+		 if(strcasecmp(gumbo_normalized_tagname(tempcontentNode->v.element.tag), "div") == 0 ||
+		 strcasecmp(gumbo_normalized_tagname(tempcontentNode->v.element.tag), "table") == 0)
+		 {
+		  *contentNode = tempcontentNode;
+		  break;
+		  }
+
+		  tempcontentNode = tempcontentNode->parent;
+		  }
+		  */
+		 if(tempcontentNode->v.element.children.length > 3)
+		 {
+			while(tempcontentNode)
+			{
+			   if(strcasecmp(gumbo_normalized_tagname(tempcontentNode->v.element.tag), "div") == 0 ||
+					 strcasecmp(gumbo_normalized_tagname(tempcontentNode->v.element.tag), "table") == 0)
+			   {
+				  *contentNode = tempcontentNode;
+				  break;
+			   }
+			   tempcontentNode = tempcontentNode->parent;
+			}
+		 }
+	  }
+   }
+}
+
+int deal_htmls_3(char* dest, char** title, char** content, char** time)
+{
+   GumboOutput* output = gumbo_parse(dest);
+
+
+   char* temptitle = find_title(output->root);
+   *title = (char*)malloc(sizeof(char)*(strlen(temptitle) + 1));
+   memcpy(*title, temptitle, strlen(temptitle));
+   (*title)[strlen(temptitle)] = '\0';
+
+   GumboNode* contentNode = NULL;
+   GumboNode* bodyNode;
+   find_body(output->root, &bodyNode);
+   read_spc_html2(bodyNode, &contentNode);
+
+   GumboNode* timeNode = NULL;
+   find_time(bodyNode, time, &timeNode);
+   cleantext(contentNode, content);
+   //html_get_inner_text(contentNode, content, 5000);
+   gumbo_destroy_output(&kGumboDefaultOptions, output);
+   return 1;
+}
+
+/*需要输入的commonpart需要有两个以上的网页*/
+int extract_4(CommonPart* cp, int* htmltotal, int* titletarget, 
+	  int* timetarget, int* contenttarget, FILE* fp)
+{
+   UrlBuf* p = cp->ubList;
+   
+   UrlBuf* sucp = NULL;
+   while(p)
+   {
+	  sucp = cp->maxBuf;
+	  if(p == cp->maxBuf)
+	  {
+		 p = p->next;
+		 continue;
+	  }
+	  p->title = NULL;
+	  p->content = NULL;
+	  p->time = NULL;
+	  int deal_ret = deal_htmls_4(p->htmls, cp->maxBuf->htmls, &p->title, &p->content, &p->time);
+	  //printf("title:%s, time:%s, content:%s\n", p->title, p->time, p->content);
+	  //
+	  if(p->content)
+	  {
+		 sucp = p;
+	  }
+	  else
+	  {
+		 UrlBuf* tempp = cp->ubList;
+
+		 while(tempp)
+		 {
+			p->title = NULL;
+			p->content = NULL;
+			p->time = NULL;	 
+			if(tempp == p)
+			{
+			   tempp = tempp->next;
+			   continue;
+			}
+
+			deal_ret = deal_htmls_4(p->htmls, tempp->htmls, &p->title, &p->content, &p->time);
+			if(p->content)
+			{
+			   break;
+			}
+
+			tempp = tempp->next;
+		 }
+
+	  }
+	  char tempcontent[300];
+	  bzero(tempcontent, sizeof(tempcontent));
+	  if(p->content)
+	  {
+		 strncpy(tempcontent, p->content, 299);
+		 tempcontent[299] = '\0';
+	  }
+	  (*htmltotal)++;
+	  if(deal_ret)
+	  {
+		 fprintf(fp, "filename:%s, url:%s, title:%s, time:%s, content:%s\n", 
+			   p->filename, p->url, p->title, p->time, p->content);
+		 printf("htmltalnum:%d, titletarget:%d, timetarget:%d, contenttarget:%d, \
+			   filename:%s, url:%s, title:%s, time:%s, content:%s\n", \
+			   *htmltotal, *titletarget, *timetarget, *contenttarget, 
+			   p->filename, p->url, p->title, p->time, p->content);
+		 
+		 if(p->title)
+		 {
+			(*titletarget)++;
+		 }
+
+		 if(p->time)
+		 {
+			(*timetarget)++;
+		 }
+
+		 if(strlen(tempcontent) > 0)
+			(*contenttarget)++;
+	  }
+
+	  p = p->next;
+   }
+
+
+   return 1;
+}
+
+int extract_3(CommonPart* cp, int* htmltotal, int* titletarget, 
+	  int* timetarget, int* contenttarget, FILE* fp)
+{
+   UrlBuf* p = cp->ubList;
+
+   (*htmltotal)++;
+   p->title = NULL;
+   p->content = NULL;
+   p->time = NULL;
+   deal_htmls_3(p->htmls, &p->title, &p->content, &p->time);
+   if(p->content)
+   {
+	  (*contenttarget)++;
+   }
+   if(p->title)
+   {
+	  (*titletarget)++;
+   }
+   if(p->time)
+   {
+	  (*timetarget)++;
+   }
+
+   char tempcontent[300];
+   bzero(tempcontent, sizeof(tempcontent));
+   if(p->content)
+   {
+	  strncpy(tempcontent, p->content, 299);
+	  tempcontent[299] = '\0';
+   }
+
+ 
+   fprintf(fp, "filename:%s, url:%s, title:%s, time:%s, content:%s\n\n\n", 
+		 p->filename, p->url, p->title, p->time, p->content);
+   printf("filename:%s, url:%s, title:%s, time:%s, content:%s\n\n\n", 
+		 p->filename, p->url, p->title, p->time, p->content);
+
+   return 1;
+}
+
+
+
 

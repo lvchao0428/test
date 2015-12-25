@@ -30,6 +30,7 @@ typedef struct CommonPart
    char* siss;
    char* id;
    char* cls;
+   int urlNum;
    UrlBuf* maxBuf; 
    UrlBuf* ubList;
    struct CommonPart* next;
